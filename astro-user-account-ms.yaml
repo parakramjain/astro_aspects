@@ -1,0 +1,647 @@
+openapi: 3.0.3
+info:
+  title: Astro Vision — User Account REST
+  version: 1.0.0
+  description: User account management, authentication, profiles, and subscription endpoints.
+
+security:
+  - bearerAuth: []
+
+tags:
+  - name: Authentication
+  - name: User Profiles
+  - name: Account Settings
+  - name: Subscription
+
+paths:
+  # ============================
+  # AUTHENTICATION
+  # ============================
+  /v1/auth/register:
+    post:
+      tags: [Authentication]
+      summary: Register a new user
+      operationId: registerUser
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/RegisterRequest' }
+      responses:
+        '201':
+          description: User registered successfully
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/UserResponse' }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '409':
+          description: User already exists
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ErrorResponse' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /v1/auth/login:
+    post:
+      tags: [Authentication]
+      summary: Login user and get JWT token
+      operationId: loginUser
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/LoginRequest' }
+      responses:
+        '200':
+          description: Login successful
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/AuthResponse' }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /v1/auth/logout:
+    post:
+      tags: [Authentication]
+      summary: Logout user
+      operationId: logoutUser
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      responses:
+        '204': { description: Logout successful }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /v1/auth/refresh-token:
+    post:
+      tags: [Authentication]
+      summary: Refresh JWT token
+      operationId: refreshToken
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                refreshToken:
+                  type: string
+              required: [refreshToken]
+      responses:
+        '200':
+          description: Token refreshed
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/AuthResponse' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  # ============================
+  # USER PROFILES
+  # ============================
+  /v1/users/profile:
+    get:
+      tags: [User Profiles]
+      summary: Get current user profile
+      operationId: getUserProfile
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      responses:
+        '200':
+          description: User profile retrieved
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/UserProfileResponse' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '404':
+          description: User not found
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ErrorResponse' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+    put:
+      tags: [User Profiles]
+      summary: Update user profile
+      operationId: updateUserProfile
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/UpdateProfileRequest' }
+      responses:
+        '200':
+          description: Profile updated
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/UserProfileResponse' }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '404':
+          description: User not found
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ErrorResponse' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /v1/users/{userId}:
+    get:
+      tags: [User Profiles]
+      summary: Get user profile by ID
+      operationId: getUserById
+      parameters:
+        - name: userId
+          in: path
+          required: true
+          schema: { type: string }
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      responses:
+        '200':
+          description: User profile retrieved
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/UserProfileResponse' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '404':
+          description: User not found
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ErrorResponse' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  # ============================
+  # ACCOUNT SETTINGS
+  # ============================
+  /v1/account/password:
+    post:
+      tags: [Account Settings]
+      summary: Change password
+      operationId: changePassword
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/ChangePasswordRequest' }
+      responses:
+        '204': { description: Password changed successfully }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /v1/account/email:
+    post:
+      tags: [Account Settings]
+      summary: Change email address
+      operationId: changeEmail
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/ChangeEmailRequest' }
+      responses:
+        '200':
+          description: Email change requested
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /v1/account/preferences:
+    get:
+      tags: [Account Settings]
+      summary: Get account preferences
+      operationId: getAccountPreferences
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      responses:
+        '200':
+          description: Account preferences retrieved
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/PreferencesResponse' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '404':
+          description: Preferences not found
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ErrorResponse' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+    put:
+      tags: [Account Settings]
+      summary: Update account preferences
+      operationId: updateAccountPreferences
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/PreferencesUpdateRequest' }
+      responses:
+        '200':
+          description: Preferences updated
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/PreferencesResponse' }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  # ============================
+  # SUBSCRIPTION
+  # ============================
+  /v1/subscription/current:
+    get:
+      tags: [Subscription]
+      summary: Get current subscription
+      operationId: getCurrentSubscription
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      responses:
+        '200':
+          description: Current subscription details
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/SubscriptionResponse' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '404':
+          description: No active subscription
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ErrorResponse' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /v1/subscription/upgrade:
+    post:
+      tags: [Subscription]
+      summary: Upgrade subscription plan
+      operationId: upgradeSubscription
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/SubscriptionUpgradeRequest' }
+      responses:
+        '200':
+          description: Subscription upgraded
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/SubscriptionResponse' }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /v1/subscription/cancel:
+    post:
+      tags: [Subscription]
+      summary: Cancel subscription
+      operationId: cancelSubscription
+      parameters:
+        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/Authorization'
+        - $ref: '#/components/parameters/XAppId'
+      responses:
+        '204': { description: Subscription cancelled }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '404':
+          description: Subscription not found
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ErrorResponse' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+
+  parameters:
+    Authorization:
+      name: Authorization
+      in: header
+      description: "Bearer token (JWT)"
+      schema:
+        type: string
+      example: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+
+    XCorrelationID:
+      name: X-Correlation-ID
+      in: header
+      description: "Correlation ID for request tracing"
+      schema:
+        type: string
+        format: uuid
+      example: "550e8400-e29b-41d4-a716-446655440000"
+
+    XTransactionId:
+      name: X-Transaction-Id
+      in: header
+      description: "Transaction ID for request tracing"
+      schema:
+        type: string
+        format: uuid
+      example: "550e8400-e29b-41d4-a716-446655440000"
+
+    XAppId:
+      name: X-App-Id
+      in: header
+      description: "Application ID"
+      schema:
+        type: string
+      example: "astro-vision-web"
+
+  schemas:
+    RegisterRequest:
+      type: object
+      properties:
+        email:
+          type: string
+          format: email
+        password:
+          type: string
+          minLength: 8
+        firstName:
+          type: string
+        lastName:
+          type: string
+      required: [email, password, firstName, lastName]
+
+    LoginRequest:
+      type: object
+      properties:
+        email:
+          type: string
+          format: email
+        password:
+          type: string
+      required: [email, password]
+
+    AuthResponse:
+      type: object
+      properties:
+        accessToken:
+          type: string
+        refreshToken:
+          type: string
+        expiresIn:
+          type: integer
+          description: "Token expiration time in seconds"
+        tokenType:
+          type: string
+          default: "Bearer"
+
+    UserResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        email:
+          type: string
+          format: email
+        firstName:
+          type: string
+        lastName:
+          type: string
+        createdAt:
+          type: string
+          format: date-time
+
+    UserProfileResponse:
+      allOf:
+        - $ref: '#/components/schemas/UserResponse'
+        - type: object
+          properties:
+            dateOfBirth:
+              type: string
+              format: date
+            placeOfBirth:
+              type: string
+            timeOfBirth:
+              type: string
+            timezone:
+              type: string
+            profilePicture:
+              type: string
+              format: uri
+            bio:
+              type: string
+
+    UpdateProfileRequest:
+      type: object
+      properties:
+        firstName:
+          type: string
+        lastName:
+          type: string
+        dateOfBirth:
+          type: string
+          format: date
+        placeOfBirth:
+          type: string
+        timeOfBirth:
+          type: string
+        timezone:
+          type: string
+        bio:
+          type: string
+
+    ChangePasswordRequest:
+      type: object
+      properties:
+        currentPassword:
+          type: string
+        newPassword:
+          type: string
+          minLength: 8
+      required: [currentPassword, newPassword]
+
+    ChangeEmailRequest:
+      type: object
+      properties:
+        newEmail:
+          type: string
+          format: email
+      required: [newEmail]
+
+    PreferencesResponse:
+      type: object
+      properties:
+        emailNotifications:
+          type: boolean
+        pushNotifications:
+          type: boolean
+        language:
+          type: string
+        theme:
+          type: string
+          enum: [light, dark, auto]
+        dateFormat:
+          type: string
+
+    PreferencesUpdateRequest:
+      type: object
+      properties:
+        emailNotifications:
+          type: boolean
+        pushNotifications:
+          type: boolean
+        language:
+          type: string
+        theme:
+          type: string
+          enum: [light, dark, auto]
+        dateFormat:
+          type: string
+
+    SubscriptionResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        planType:
+          type: string
+          enum: [free, basic, premium, pro]
+        status:
+          type: string
+          enum: [active, inactive, cancelled, expired]
+        startDate:
+          type: string
+          format: date-time
+        endDate:
+          type: string
+          format: date-time
+        renewalDate:
+          type: string
+          format: date
+        price:
+          type: number
+          format: double
+        currency:
+          type: string
+
+    SubscriptionUpgradeRequest:
+      type: object
+      properties:
+        planType:
+          type: string
+          enum: [free, basic, premium, pro]
+      required: [planType]
+
+    ErrorResponse:
+      type: object
+      properties:
+        type:
+          type: string
+          format: uri
+        title:
+          type: string
+        status:
+          type: integer
+        detail:
+          type: string
+        instance:
+          type: string
+          format: uri
+        timestamp:
+          type: string
+          format: date-time
+        correlationId:
+          type: string
+          format: uuid
+
+  responses:
+    BadRequest:
+      description: Invalid request
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/ErrorResponse' }
+
+    Unauthorized:
+      description: Unauthorized
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/ErrorResponse' }
+
+    Unprocessable:
+      description: Unprocessable entity
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/ErrorResponse' }
+
+    ServerError:
+      description: Internal server error
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/ErrorResponse' }
+
