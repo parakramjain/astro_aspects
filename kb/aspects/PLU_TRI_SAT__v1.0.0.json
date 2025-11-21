@@ -1,0 +1,251 @@
+{
+  "id": "PLU_TRI_SAT__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Trine",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased concentration and willpower support persistent efforts leading to success. This period reveals secret knowledge related to administration and business, favoring spiritual disciplines and professional growth.",
+    "hi": "एकाग्रता और इच्छाशक्ति में वृद्धि से निरंतर प्रयास सफल होते हैं। यह समय प्रशासनिक और व्यावसायिक गुप्त जानकारी प्रकट करता है तथा आध्यात्मिक अनुशासन और व्यावसायिक उन्नति के लिए अनुकूल होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities for professional growth and expansion arise. The person seeks changes at business and political levels.",
+      "hi": "व्यावसायिक स्थिति में वृद्धि और कार्य विस्तार के अवसर मिलते हैं। व्यक्ति व्यावसायिक और राजनीतिक स्तर पर परिवर्तन की इच्छा रखता है।"
+    },
+    "relationships": {
+      "en": "Not specifically addressed in the descriptions.",
+      "hi": "विवरण में संबंधों के विषय में विशेष रूप से उल्लेख नहीं है।"
+    },
+    "money": {
+      "en": "Secret knowledge about administrative and business matters may influence financial opportunities.",
+      "hi": "प्रशासनिक और व्यावसायिक गुप्त जानकारी वित्तीय अवसरों को प्रभावित कर सकती है।"
+    },
+    "health_adj": {
+      "en": "Favorable time for meditation, yoga, and spiritual discipline supporting overall well-being.",
+      "hi": "ध्यान, योग और आध्यात्मिक अनुशासन के लिए अनुकूल समय जो समग्र स्वास्थ्य में सहायक होता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional growth",
+      "Spiritual progress",
+      "Legal investigations",
+      "Business or political changes"
+    ],
+    "hi": [
+      "व्यावसायिक उन्नति",
+      "आध्यात्मिक प्रगति",
+      "कानूनी जांच",
+      "व्यावसायिक या राजनीतिक परिवर्तन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; caution advised in confidential legal matters."
+    ],
+    "hi": [
+      "स्पष्ट जोखिम नहीं बताए गए; गोपनीय कानूनी मामलों में सावधानी आवश्यक।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on persistent efforts toward goals.",
+        "Engage in meditation, yoga, or spiritual discipline.",
+        "Investigate hidden or confidential matters carefully."
+      ],
+      "hi": [
+        "लक्ष्यों की प्राप्ति के लिए निरंतर प्रयास करें।",
+        "ध्यान, योग या आध्यात्मिक अनुशासन में संलग्न हों।",
+        "गुप्त या गोपनीय मामलों की सावधानीपूर्वक जांच करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize increased willpower and concentration.",
+        "Explore secret knowledge related to administration or business.",
+        "Seek opportunities for professional and political changes."
+      ],
+      "hi": [
+        "बढ़ी हुई इच्छाशक्ति और एकाग्रता का उपयोग करें।",
+        "प्रशासन या व्यावसायिक गुप्त जानकारी की खोज करें।",
+        "व्यावसायिक और राजनीतिक बदलाव के अवसर खोजें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain focus on goals despite waning energy.",
+        "Continue spiritual practices with patience.",
+        "Monitor confidential matters with discretion."
+      ],
+      "hi": [
+        "ऊर्जा कम होने पर भी लक्ष्यों पर ध्यान बनाए रखें।",
+        "धैर्य के साथ आध्यात्मिक अभ्यास जारी रखें।",
+        "गोपनीय मामलों को सावधानी से देखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "concentration",
+      "willpower",
+      "persistence",
+      "secret knowledge",
+      "spiritual discipline",
+      "professional growth",
+      "confidential legal matters",
+      "business changes",
+      "political changes"
+    ],
+    "hi": [
+      "एकाग्रता",
+      "इच्छाशक्ति",
+      "निरंतरता",
+      "गुप्त जानकारी",
+      "आध्यात्मिक अनुशासन",
+      "व्यावसायिक उन्नति",
+      "गोपनीय कानूनी मामले",
+      "व्यावसायिक परिवर्तन",
+      "राजनीतिक परिवर्तन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "focused",
+      "persistent",
+      "revealing",
+      "favorable",
+      "investigative",
+      "growth-oriented"
+    ],
+    "hi": [
+      "एकाग्र",
+      "निरंतर",
+      "प्रकट करने वाला",
+      "अनुकूल",
+      "जांचपूर्ण",
+      "विकासोन्मुख"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual progress",
+      "professional expansion",
+      "confidential investigation",
+      "administrative insight"
+    ],
+    "hi": [
+      "आध्यात्मिक प्रगति",
+      "व्यावसायिक विस्तार",
+      "गोपनीय जांच",
+      "प्रशासनिक अंतर्दृष्टि"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-tri-sat",
+      "core": "A period of increased concentration and willpower supporting success through persistent efforts, revealing hidden knowledge and favoring spiritual and professional growth.",
+      "tone": "Warm, neutral, encouraging focus and steady progress."
+    },
+    "hi": {
+      "title": "प्लूटो ट्राइन शनि",
+      "core": "एकाग्रता और इच्छाशक्ति में वृद्धि का समय जो निरंतर प्रयासों से सफलता, गुप्त जानकारी का खुलासा और आध्यात्मिक तथा व्यावसायिक उन्नति को प्रोत्साहित करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, ध्यान और स्थिर प्रगति को प्रोत्साहित करता है।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Increased concentration and willpower support persistent efforts leading to success and reveal secret knowledge related to administration and business.",
+        "hi": "एकाग्रता और इच्छाशक्ति में वृद्धि से निरंतर प्रयास सफल होते हैं तथा प्रशासनिक और व्यावसायिक गुप्त जानकारी प्रकट होती है।"
+      },
+      "career": {
+        "en": "Opportunities for professional growth and expansion appear; desire for changes at business and political levels.",
+        "hi": "व्यावसायिक उन्नति और विस्तार के अवसर मिलते हैं; व्यावसायिक और राजनीतिक स्तर पर परिवर्तन की इच्छा होती है।"
+      },
+      "relationships": {
+        "en": "No specific information provided regarding relationships.",
+        "hi": "संबंधों के बारे में कोई विशेष जानकारी नहीं दी गई है।"
+      },
+      "money": {
+        "en": "Secret knowledge about administrative and business matters may influence financial opportunities.",
+        "hi": "प्रशासनिक और व्यावसायिक गुप्त जानकारी वित्तीय अवसरों को प्रभावित कर सकती है।"
+      },
+      "health_adj": {
+        "en": "Favorable time for meditation, yoga, and spiritual discipline aiding well-being.",
+        "hi": "ध्यान, योग और आध्यात्मिक अनुशासन के लिए अनुकूल समय जो स्वास्थ्य में सहायक होता है।"
+      }
+    },
+    "aliases": [
+      "Pluto trine Saturn",
+      "Plu TRI Sat",
+      "Pluto-Trine-Saturn",
+      "Pluto Trine to Saturn"
+    ]
+  }
+}

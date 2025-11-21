@@ -1,0 +1,150 @@
+{
+  "id": "SUN_SEX_VEN__v1.0.0",
+  "pair": [
+    "Sun",
+    "Sextile",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Sun and Venus opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": "Authority, recognition, leadership, alignment with purpose.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
+    "relationships": "Self-respect, healthy boundaries, paternal figures.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
+    "money": "Status-linked income, government/authority-linked gains.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
+    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution.",
+    "People-pleasing → scope creep; set clear give-and-get."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "affection",
+    "art",
+    "authority",
+    "ego",
+    "harmony",
+    "identity",
+    "opportunity",
+    "pleasure",
+    "purpose",
+    "sextile",
+    "skill",
+    "values",
+    "visibility",
+    "vitality"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "Relationship Tone",
+    "",
+    "Health & Routine"
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Sun Sextile Venus",
+      "core": "Sextile between Sun and Venus opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Sun Sextile Venus (हिन्दी)",
+      "core": "Sun और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Sun and Venus opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": "Authority, recognition, leadership, alignment with purpose.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
+      "relationships": "Self-respect, healthy boundaries, paternal figures.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
+      "money": "Status-linked income, government/authority-linked gains.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
+      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+    },
+    "aliases": [
+      "Sun sextile Venus",
+      "Sun SEX Ven",
+      "Sun-Sextile-Venus",
+      "Sun Sextile to Venus"
+    ]
+  }
+}

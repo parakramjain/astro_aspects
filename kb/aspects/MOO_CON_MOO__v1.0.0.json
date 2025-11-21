@@ -1,0 +1,240 @@
+{
+  "id": "MOO_CON_MOO__v1.0.0",
+  "pair": [
+    "Moon",
+    "Conjunction",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect reflects regular domestic and family activities, including household work, childcare, and internal business tasks, with an emphasis on emotional sensitivity.",
+    "hi": "यह योग नियमित घरेलू व पारिवारिक गतिविधियों को दर्शाता है, जिसमें घरेलू कार्य, बच्चों की देखभाल और आंतरिक व्यवसायिक कार्य शामिल हैं, साथ ही भावनात्मक संवेदनशीलता पर जोर होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Focus on internal tasks and business dealings related to household or food and beverage sectors.",
+      "hi": "घरेलू या खाने-पीने के व्यवसाय से संबंधित आंतरिक कार्यों और व्यापारिक निपटान पर ध्यान।"
+    },
+    "relationships": {
+      "en": "Cooperation with women and family members is highlighted; emotional nature increases.",
+      "hi": "महिलाओं और परिवार के सदस्यों के साथ सहयोग प्रमुख होता है; भावनात्मक प्रवृत्ति बढ़ती है।"
+    },
+    "money": {
+      "en": "Domestic expenses and managing finances related to household or food-related business activities.",
+      "hi": "घरेलू खर्च और खाने-पीने से जुड़े व्यवसायिक वित्तीय प्रबंधन।"
+    },
+    "health_adj": {
+      "en": "Emotional sensitivity may be heightened; no specific health issues indicated.",
+      "hi": "भावनात्मक संवेदनशीलता बढ़ सकती है; कोई विशिष्ट स्वास्थ्य समस्या नहीं बताई गई है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Domestic activities",
+      "Family responsibilities",
+      "Childcare",
+      "Household management"
+    ],
+    "hi": [
+      "घरेलू गतिविधियां",
+      "पारिवारिक जिम्मेदारियां",
+      "बच्चों की देखभाल",
+      "घरेलू प्रबंधन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased emotional sensitivity may affect decision-making.",
+      "Potential for domestic stress if household tasks accumulate."
+    ],
+    "hi": [
+      "भावनात्मक संवेदनशीलता निर्णय लेने को प्रभावित कर सकती है।",
+      "यदि घरेलू कार्य बढ़ जाएं तो तनाव हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage cooperatively in household and family tasks.",
+        "Manage internal business or food-related duties carefully."
+      ],
+      "hi": [
+        "घरेलू और पारिवारिक कार्यों में सहयोगात्मक रूप से भाग लें।",
+        "आंतरिक व्यवसाय या खाने-पीने के कार्य सावधानी से संभालें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on emotional awareness during family interactions.",
+        "Attend to childcare and domestic responsibilities with care."
+      ],
+      "hi": [
+        "पारिवारिक बातचीत के दौरान भावनात्मक जागरूकता पर ध्यान दें।",
+        "बच्चों की देखभाल और घरेलू जिम्मेदारियों को ध्यान से निभाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Allow space for emotional processing.",
+        "Avoid overburdening with household tasks."
+      ],
+      "hi": [
+        "भावनात्मक प्रक्रिया के लिए स्थान दें।",
+        "घरेलू कार्यों का बोझ अधिक न बढ़ाएं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "domestic",
+      "family",
+      "emotional",
+      "household",
+      "childcare",
+      "women's cooperation",
+      "internal tasks",
+      "food and beverage"
+    ],
+    "hi": [
+      "घरेलू",
+      "पारिवारिक",
+      "भावनात्मक",
+      "घर का काम",
+      "बच्चों की देखभाल",
+      "महिलाओं का सहयोग",
+      "आंतरिक कार्य",
+      "खाद्य एवं पेय"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "cooperative",
+      "domestic focus",
+      "family-oriented"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "सहयोगी",
+      "घरेलू केंद्रित",
+      "पारिवारिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "home life",
+      "emotions",
+      "family support",
+      "internal affairs"
+    ],
+    "hi": [
+      "घर का जीवन",
+      "भावनाएं",
+      "पारिवारिक समर्थन",
+      "आंतरिक मामले"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-con-moo",
+      "core": "Reflects regular family and household activities with increased emotional sensitivity.",
+      "tone": "Warm, neutral, and supportive"
+    },
+    "hi": {
+      "title": "चंद्रमा संयोजन चंद्रमा",
+      "core": "नियमित पारिवारिक और घरेलू गतिविधियों को दर्शाता है जिसमें भावनात्मक संवेदनशीलता बढ़ती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सहयोगी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Regular household and family situations and activities are reflected. During this time, the individual is more emotional.",
+        "hi": "नियमित घरेलू व पारिवारिक स्थितियां व गतिविधियां परिलक्षित होती हैं। इस समय में व्यक्ति अधिक भावनात्मक रहता है।"
+      },
+      "career": {
+        "en": "Business dealing with internal tasks or food and beverage handling is indicated.",
+        "hi": "व्यवसाय में आंतरिक कार्यों का निपटान या खाने-पीने की वस्तुओं के कार्यों को संभालना।"
+      },
+      "relationships": {
+        "en": "Women’s cooperation and family interactions are emphasized.",
+        "hi": "महिलाओं का सहयोग करना और पारिवारिक संबंधों पर जोर।"
+      },
+      "money": {
+        "en": "Domestic expenses and managing household or food-related business finances.",
+        "hi": "घरेलू खर्च और खाने-पीने के व्यवसाय से संबंधित वित्तीय प्रबंधन।"
+      },
+      "health_adj": {
+        "en": "Increased emotionality without specific health issues noted.",
+        "hi": "विशिष्ट स्वास्थ्य समस्याओं के बिना भावनात्मकता में वृद्धि।"
+      }
+    },
+    "aliases": [
+      "Moon conjunction Moon",
+      "Moo CON Moo",
+      "Moon-Conjunction-Moon",
+      "Moon Conjunction to Moon"
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "id": "MER_TRI_MAR__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Trine",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Clear thinking combined with swift action leads to effective, well-planned decisions and a strong balance between thought and execution.",
+    "hi": "विचारों में स्पष्टता और तेज़ कार्रवाई से योजनाबद्ध और प्रभावशाली निर्णय लेने की क्षमता बनती है, जिससे सोच और कार्य में संतुलन रहता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for administrative, military, or law-related professions requiring decisive and balanced action.",
+      "hi": "प्रशासन, सेना या कानून से जुड़े कार्यों के लिए अनुकूल, जो निर्णायक और संतुलित कार्रवाई मांगते हैं।"
+    },
+    "relationships": {
+      "en": "Promotes clear communication and decisive interactions, supporting balanced and effective exchanges.",
+      "hi": "स्पष्ट संवाद और निर्णायक बातचीत को बढ़ावा देता है, जो संतुलित और प्रभावी संबंधों में सहायक है।"
+    },
+    "money": {
+      "en": "Encourages well-planned financial decisions and timely actions for managing resources effectively.",
+      "hi": "संसाधनों के प्रभावी प्रबंधन के लिए योजनाबद्ध वित्तीय निर्णय और समय पर कार्रवाई को प्रोत्साहित करता है।"
+    },
+    "health_adj": {
+      "en": "Supports mental clarity and physical energy, aiding in quick and balanced responses.",
+      "hi": "मानसिक स्पष्टता और शारीरिक ऊर्जा को बढ़ावा देता है, जो तेज़ और संतुलित प्रतिक्रियाओं में सहायक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Administrative decisions",
+      "Military or law enforcement actions",
+      "Strategic planning events"
+    ],
+    "hi": [
+      "प्रशासनिक निर्णय",
+      "सेना या कानून प्रवर्तन से जुड़े कार्य",
+      "रणनीतिक योजना बनाने के अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential impatience if actions are rushed",
+      "Overconfidence in decision-making may lead to oversight"
+    ],
+    "hi": [
+      "यदि कार्रवाई जल्दबाजी में हो तो अधीरता हो सकती है",
+      "निर्णय लेने में अधिक आत्मविश्वास से चूक हो सकती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in tasks requiring quick, clear decisions",
+        "Plan actions carefully balancing thought and execution"
+      ],
+      "hi": [
+        "तेज़ और स्पष्ट निर्णयों वाले कार्यों में संलग्न हों",
+        "सोच और क्रियान्वयन में संतुलन बनाए रखते हुए कार्यों की योजना बनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Implement well-prepared plans promptly",
+        "Focus on administrative, military, or legal tasks"
+      ],
+      "hi": [
+        "अच्छी तरह से तैयार योजनाओं को तुरंत लागू करें",
+        "प्रशासनिक, सैन्य या कानूनी कार्यों पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review decisions to avoid hasty actions",
+        "Maintain balance between thought and impulse"
+      ],
+      "hi": [
+        "जल्दीबाजी से बचने के लिए निर्णयों की समीक्षा करें",
+        "सोच और आवेग के बीच संतुलन बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Clear thinking",
+      "Fast action",
+      "Effective decisions",
+      "Balanced thought and action",
+      "Administrative work",
+      "Military",
+      "Law"
+    ],
+    "hi": [
+      "स्पष्ट सोच",
+      "तेज़ कार्रवाई",
+      "प्रभावशाली निर्णय",
+      "सोच और कार्य में संतुलन",
+      "प्रशासनिक कार्य",
+      "सेना",
+      "कानून"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Decisive",
+      "Balanced",
+      "Strategic",
+      "Energetic"
+    ],
+    "hi": [
+      "निर्णायक",
+      "संतुलित",
+      "रणनीतिक",
+      "ऊर्जावान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Clarity and speed",
+      "Thought-action harmony",
+      "Effective planning",
+      "Professional focus"
+    ],
+    "hi": [
+      "स्पष्टता और गति",
+      "सोच-कार्य सामंजस्य",
+      "प्रभावी योजना",
+      "पेशेवर ध्यान"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-tri-mar",
+      "core": "Clear thinking and swift action combine to produce well-planned, effective decisions with balanced execution.",
+      "tone": "Warm, neutral, and professional"
+    },
+    "hi": {
+      "title": "बुध त्रिकोण मंगल",
+      "core": "स्पष्ट सोच और तेज़ कार्रवाई मिलकर योजनाबद्ध और प्रभावशाली निर्णय बनाते हैं, जिसमें संतुलित क्रियान्वयन होता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और पेशेवर"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Clear thinking combined with swift action leads to effective, well-planned decisions and a strong balance between thought and execution.",
+        "hi": "विचारों में स्पष्टता और तेज़ कार्रवाई से योजनाबद्ध और प्रभावशाली निर्णय लेने की क्षमता बनती है, जिससे सोच और कार्य में संतुलन रहता है।"
+      },
+      "career": {
+        "en": "Favorable for administrative, military, or law-related professions requiring decisive and balanced action.",
+        "hi": "प्रशासन, सेना या कानून से जुड़े कार्यों के लिए अनुकूल, जो निर्णायक और संतुलित कार्रवाई मांगते हैं।"
+      },
+      "relationships": {
+        "en": "Promotes clear communication and decisive interactions, supporting balanced and effective exchanges.",
+        "hi": "स्पष्ट संवाद और निर्णायक बातचीत को बढ़ावा देता है, जो संतुलित और प्रभावी संबंधों में सहायक है।"
+      },
+      "money": {
+        "en": "Encourages well-planned financial decisions and timely actions for managing resources effectively.",
+        "hi": "संसाधनों के प्रभावी प्रबंधन के लिए योजनाबद्ध वित्तीय निर्णय और समय पर कार्रवाई को प्रोत्साहित करता है।"
+      },
+      "health_adj": {
+        "en": "Supports mental clarity and physical energy, aiding in quick and balanced responses.",
+        "hi": "मानसिक स्पष्टता और शारीरिक ऊर्जा को बढ़ावा देता है, जो तेज़ और संतुलित प्रतिक्रियाओं में सहायक है।"
+      }
+    },
+    "aliases": [
+      "Mercury trine Mars",
+      "Mer TRI Mar",
+      "Mercury-Trine-Mars",
+      "Mercury Trine to Mars"
+    ]
+  }
+}

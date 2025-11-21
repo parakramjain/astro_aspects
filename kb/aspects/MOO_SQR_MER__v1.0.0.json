@@ -1,0 +1,249 @@
+{
+  "id": "MOO_SQR_MER__v1.0.0",
+  "pair": [
+    "Moon",
+    "Square",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect creates tension between logic and emotions, leading to difficulties in decision-making and focus, along with potential misunderstandings and communication issues.",
+    "hi": "यह योग सोच और भावना के बीच तनाव उत्पन्न करता है, जिससे निर्णय लेने और ध्यान केंद्रित करने में कठिनाई होती है, साथ ही गलतफहमियां और संवाद की समस्याएं हो सकती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business may experience delays, mistakes, or losses; caution is needed when signing important documents.",
+      "hi": "व्यवसाय में देरी, गलतियां या नुकसान हो सकते हैं; महत्वपूर्ण दस्तावेजों पर हस्ताक्षर करते समय सावधानी बरतनी चाहिए।"
+    },
+    "relationships": {
+      "en": "Misunderstandings or arguments with close family members or partners are likely.",
+      "hi": "नजदीकी परिवार के सदस्यों या साथी के साथ गलतफहमियां या बहस हो सकती है।"
+    },
+    "money": {
+      "en": "Possible financial losses or delays in business transactions.",
+      "hi": "व्यापारिक लेनदेन में आर्थिक नुकसान या देरी संभव है।"
+    },
+    "health_adj": {
+      "en": "Issues may arise related to daily life, health, or clothing.",
+      "hi": "दैनिक जीवन, स्वास्थ्य या कपड़ों से जुड़ी समस्याएं हो सकती हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Decision-making challenges",
+      "Communication conflicts",
+      "Business delays or losses"
+    ],
+    "hi": [
+      "निर्णय लेने में कठिनाई",
+      "संचार संघर्ष",
+      "व्यवसाय में देरी या नुकसान"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Conflicts between emotions and logic",
+      "Misunderstandings with close ones",
+      "Errors in important documents",
+      "Health and daily life disturbances"
+    ],
+    "hi": [
+      "भावना और सोच में संघर्ष",
+      "नजदीकी लोगों से गलतफहमी",
+      "महत्वपूर्ण दस्तावेजों में त्रुटि",
+      "स्वास्थ्य और दैनिक जीवन में बाधाएं"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of emotional and logical balance",
+        "Communicate clearly with family and partners",
+        "Review documents carefully before signing"
+      ],
+      "hi": [
+        "भावना और सोच के संतुलन का ध्यान रखें",
+        "परिवार और साथी से स्पष्ट संवाद करें",
+        "हस्ताक्षर से पहले दस्तावेजों को ध्यान से जांचें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid important decisions if possible",
+        "Double-check communications to prevent misunderstandings",
+        "Exercise extra caution in business dealings"
+      ],
+      "hi": [
+        "संभव हो तो महत्वपूर्ण निर्णय टालें",
+        "गलतफहमी रोकने के लिए संवाद दोबारा जांचें",
+        "व्यापारिक कार्यों में अतिरिक्त सावधानी बरतें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually regain focus and clarity",
+        "Resolve misunderstandings with patience",
+        "Reassess business and personal plans"
+      ],
+      "hi": [
+        "धीरे-धीरे ध्यान और स्पष्टता वापस पाएं",
+        "धैर्य से गलतफहमियां दूर करें",
+        "व्यापार और व्यक्तिगत योजनाओं का पुनर्मूल्यांकन करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "conflict",
+      "logic vs emotion",
+      "decision-making",
+      "misunderstandings",
+      "communication issues",
+      "business delays",
+      "caution",
+      "health concerns"
+    ],
+    "hi": [
+      "संघर्ष",
+      "सोच बनाम भावना",
+      "निर्णय लेना",
+      "गलतफहमी",
+      "संचार समस्या",
+      "व्यवसाय में देरी",
+      "सावधानी",
+      "स्वास्थ्य संबंधी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautious",
+      "conflict-prone",
+      "focused"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधान",
+      "संघर्षपूर्ण",
+      "ध्यान केंद्रित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional tension",
+      "communication challenges",
+      "business caution",
+      "health and daily life"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "संचार चुनौतियां",
+      "व्यवसाय में सावधानी",
+      "स्वास्थ्य और दैनिक जीवन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-squ-mer",
+      "core": "A time of tension between emotions and logic causing decision and communication difficulties.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "चंद्रवृश्चिक बुध",
+      "core": "भावना और सोच के बीच तनाव का समय, जो निर्णय और संवाद में कठिनाई लाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period causes conflict between logic and emotions, leading to decision-making struggles and communication issues.",
+        "hi": "यह समय सोच और भावना के बीच संघर्ष उत्पन्न करता है, जिससे निर्णय लेने और संवाद में समस्या होती है।"
+      },
+      "career": {
+        "en": "Business may face delays, mistakes, or losses; important documents require careful signing.",
+        "hi": "व्यवसाय में देरी, गलतियां या नुकसान हो सकते हैं; महत्वपूर्ण दस्तावेजों पर सावधानी से हस्ताक्षर करें।"
+      },
+      "relationships": {
+        "en": "Misunderstandings or arguments with family members or partners are likely.",
+        "hi": "परिवार के सदस्यों या साथी के साथ गलतफहमियां या बहस हो सकती है।"
+      },
+      "money": {
+        "en": "Financial losses or delays in business transactions are possible.",
+        "hi": "आर्थिक नुकसान या व्यापारिक लेनदेन में देरी संभव है।"
+      },
+      "health_adj": {
+        "en": "Issues related to daily life, health, or clothing may arise.",
+        "hi": "दैनिक जीवन, स्वास्थ्य या कपड़ों से जुड़ी समस्याएं हो सकती हैं।"
+      }
+    },
+    "aliases": [
+      "Moon square Mercury",
+      "Moo SQR Mer",
+      "Moon-Square-Mercury",
+      "Moon Square to Mercury"
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "id": "URA_TRI_URA__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Trine",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect fosters creative expression, strengthens intuition, encourages new scientific and spiritual experiences, and supports forming new friendships. It favors specialized, esoteric, and technical studies, technological innovation, joint ventures, and sudden opportunities leading to gains.",
+    "hi": "यह योग रचनात्मक अभिव्यक्ति को बढ़ावा देता है, अंतर्ज्ञान को मजबूत करता है, नए वैज्ञानिक और आध्यात्मिक अनुभवों को प्रोत्साहित करता है, और नए मित्रता संबंध स्थापित करने में सहायक होता है। यह विशेष, गूढ़ और तकनीकी अध्ययन, तकनीकी नवाचार, संयुक्त व्यवसाय और अचानक लाभकारी अवसरों के लिए अनुकूल है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Excellent period for specialized, esoteric, or technical studies and technological innovations that enhance business progress.",
+      "hi": "विशेष ज्ञान, गूढ़ ज्ञान, तकनीकी अध्ययन और तकनीकी नवाचार से व्यावसायिक प्रगति के लिए उपयुक्त समय।"
+    },
+    "relationships": {
+      "en": "New friendships form and social connections strengthen during this time.",
+      "hi": "नए लोगों से मित्रता संबंध स्थापित होते हैं और सामाजिक संबंध मजबूत होते हैं।"
+    },
+    "money": {
+      "en": "Benefits arise from joint ventures, shared assets, taxes, insurance, and investments, along with sudden opportunities bringing gains.",
+      "hi": "संयुक्त व्यवसाय, संयुक्त संपत्ति, कर, बीमा, निवेश से लाभ प्राप्त होते हैं और अचानक अवसर लाभ प्रदान करते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments are indicated by this aspect.",
+      "hi": "इस योग से स्वास्थ्य संबंधी कोई विशेष समायोजन संकेतित नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative expression",
+      "New friendships",
+      "Scientific and spiritual experiences",
+      "Technological innovation",
+      "Joint ventures",
+      "Sudden opportunities"
+    ],
+    "hi": [
+      "रचनात्मक अभिव्यक्ति",
+      "नई मित्रता",
+      "वैज्ञानिक और आध्यात्मिक अनुभव",
+      "तकनीकी नवाचार",
+      "संयुक्त व्यवसाय",
+      "अचानक अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks are noted for this aspect."
+    ],
+    "hi": [
+      "इस योग के लिए कोई स्पष्ट जोखिम नहीं बताए गए हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative projects and express ideas freely.",
+        "Explore new scientific or spiritual fields.",
+        "Pursue specialized or technical studies.",
+        "Collaborate in joint ventures or partnerships."
+      ],
+      "hi": [
+        "रचनात्मक परियोजनाओं में संलग्न हों और विचारों को स्वतंत्र रूप से व्यक्त करें।",
+        "नए वैज्ञानिक या आध्यात्मिक क्षेत्रों का अन्वेषण करें।",
+        "विशेष या तकनीकी अध्ययन करें।",
+        "संयुक्त व्यवसाय या साझेदारी में सहयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Capitalize on sudden opportunities for gains.",
+        "Implement technological innovations to boost business."
+      ],
+      "hi": [
+        "लाभ के लिए अचानक अवसरों का लाभ उठाएं।",
+        "व्यवसाय को बढ़ावा देने के लिए तकनीकी नवाचार लागू करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain connections formed during this period for ongoing benefits.",
+        "Continue nurturing intuition and creative expression."
+      ],
+      "hi": [
+        "इस अवधि में बने संबंधों को बनाए रखें ताकि लाभ जारी रहे।",
+        "अंतर्ज्ञान और रचनात्मक अभिव्यक्ति को जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "creative expression",
+      "intuition",
+      "scientific experiences",
+      "spiritual experiences",
+      "friendships",
+      "specialized studies",
+      "technical studies",
+      "technological innovation",
+      "joint ventures",
+      "sudden opportunities",
+      "business progress",
+      "gains"
+    ],
+    "hi": [
+      "रचनात्मक अभिव्यक्ति",
+      "अंतर्ज्ञान",
+      "वैज्ञानिक अनुभव",
+      "आध्यात्मिक अनुभव",
+      "मित्रता",
+      "विशेष ज्ञान",
+      "तकनीकी अध्ययन",
+      "तकनीकी नवाचार",
+      "संयुक्त व्यवसाय",
+      "अचानक अवसर",
+      "व्यावसायिक प्रगति",
+      "लाभ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "supportive",
+      "innovative",
+      "opportunistic"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "सहायक",
+      "नवोन्मेषी",
+      "अवसरवादी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "intuition",
+      "innovation",
+      "collaboration",
+      "growth"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "अंतर्ज्ञान",
+      "नवाचार",
+      "सहयोग",
+      "विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-tri-ura",
+      "core": "This aspect encourages creative expression, intuition, new experiences, and beneficial collaborations, fostering growth and opportunities.",
+      "tone": "Warm, encouraging, and optimistic"
+    },
+    "hi": {
+      "title": "यूरेनस ट्राइन यूरेनस",
+      "core": "यह योग रचनात्मक अभिव्यक्ति, अंतर्ज्ञान, नए अनुभव और लाभकारी सहयोग को प्रोत्साहित करता है, जो विकास और अवसरों को बढ़ावा देता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Creative expression flourishes. Intuition strengthens. New scientific/spiritual experiences occur. New friendships form. Excellent for specialized/esoteric/technical studies. Technological innovations boost business. Benefits from joint ventures/assets. Sudden opportunities bring gains.",
+        "hi": "व्यक्ति की रचनात्मक अभिव्यक्ति में वृद्धि होती है। अंतर्ज्ञान बढ़ता है। नए वैज्ञानिक/आध्यात्मिक अनुभव प्राप्त होते हैं। नए लोगों से मित्रता संबंध स्थापित होते हैं। यह समय विशेष ज्ञान/गूढ़ ज्ञान/ज्योतिष ज्ञान/तकनीकी ज्ञान के लिए उपयुक्त रहता है। नई तकनीक के उपयोग से व्यावसायिक प्रगति होती है। संयुक्त व्यवसाय/संयुक्त संपत्ति/कर/बीमा/निवेश से लाभ प्राप्त होता है। अचानक अवसर प्रस्तुत होते हैं जो लाभ प्रदान करते हैं।"
+      },
+      "career": {
+        "en": "Excellent for specialized, esoteric, or technical studies and technological innovations that enhance business progress.",
+        "hi": "यह समय विशेष ज्ञान, गूढ़ ज्ञान, ज्योतिष ज्ञान, तकनीकी ज्ञान के लिए उपयुक्त रहता है। नई तकनीक के उपयोग से व्यावसायिक प्रगति होती है।"
+      },
+      "relationships": {
+        "en": "New friendships form and social connections strengthen.",
+        "hi": "नए लोगों से मित्रता संबंध स्थापित होते हैं।"
+      },
+      "money": {
+        "en": "Benefits come from joint ventures, shared assets, taxes, insurance, and investments. Sudden opportunities bring gains.",
+        "hi": "संयुक्त व्यवसाय, संयुक्त संपत्ति, कर, बीमा, निवेश से लाभ प्राप्त होता है। अचानक अवसर लाभ प्रदान करते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health indications are mentioned.",
+        "hi": "कोई विशेष स्वास्थ्य संकेत नहीं दिए गए हैं।"
+      }
+    },
+    "aliases": [
+      "Uranus trine Uranus",
+      "Ura TRI Ura",
+      "Uranus-Trine-Uranus",
+      "Uranus Trine to Uranus"
+    ]
+  }
+}

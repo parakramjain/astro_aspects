@@ -1,0 +1,248 @@
+{
+  "id": "URA_OPP_URA__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Opposition",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A strong urge for independence leads to conflicts, fractured friendships, obstacles in goals, fear of losing freedom, growing repressed anger, and instability in business and joint assets.",
+    "hi": "स्वतंत्रता की तीव्र इच्छा के कारण संघर्ष, मित्र संबंधों में दरार, लक्ष्य प्राप्ति में बाधाएँ, स्वतंत्रता खोने का भय, दबा हुआ क्रोध बढ़ना, व्यावसायिक और संयुक्त संपत्ति में अस्थिरता होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business instability and poor decision-making; sudden obstacles in achieving goals.",
+      "hi": "व्यावसायिक स्थिति अस्थिर रहती है; लक्ष्य प्राप्ति में अचानक समस्याएँ आती हैं।"
+    },
+    "relationships": {
+      "en": "Conflicts arise due to obsessive independence; friendships may fracture.",
+      "hi": "स्वतंत्रता की इच्छा के कारण व्यवहार में समस्या; मित्र संबंधों में दरार उत्पन्न होती है।"
+    },
+    "money": {
+      "en": "Problems with joint, inherited assets and heavy losses in volatile trades.",
+      "hi": "संयुक्त या पैतृक संपत्ति में समस्या; तेजी-मंदी के व्यवसाय में बड़ी हानि हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Repressed anger grows, potentially affecting emotional well-being.",
+      "hi": "दमित क्रोध बढ़ता है, जो मानसिक स्थिति को प्रभावित कर सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts",
+      "Business instability",
+      "Financial losses",
+      "Relationship fractures"
+    ],
+    "hi": [
+      "संघर्ष",
+      "व्यावसायिक अस्थिरता",
+      "आर्थिक हानि",
+      "संबंधों में दरार"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Fear of losing freedom may cause stress.",
+      "Poor decisions can lead to negative outcomes.",
+      "Joint and inherited assets may face problems.",
+      "Volatile trades carry risk of heavy losses."
+    ],
+    "hi": [
+      "स्वतंत्रता खोने का भय तनाव उत्पन्न कर सकता है।",
+      "गलत निर्णय विपरीत परिणाम दे सकते हैं।",
+      "संयुक्त और पैतृक संपत्ति में समस्या हो सकती है।",
+      "तेजी-मंदी के व्यवसाय में भारी हानि का जोखिम रहता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Maintain awareness of independence needs to reduce conflicts.",
+        "Review business decisions carefully to avoid instability.",
+        "Monitor joint assets closely for potential issues."
+      ],
+      "hi": [
+        "संघर्ष कम करने के लिए स्वतंत्रता की आवश्यकता पर ध्यान रखें।",
+        "व्यवसायिक निर्णय सावधानी से लें ताकि अस्थिरता न हो।",
+        "संयुक्त संपत्ति की संभावित समस्याओं पर नजर रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise patience in relationships to prevent fractures.",
+        "Avoid impulsive decisions during this period.",
+        "Be cautious in volatile financial trades."
+      ],
+      "hi": [
+        "संबंधों में दरार से बचने के लिए धैर्य रखें।",
+        "इस समय आवेगी निर्णय लेने से बचें।",
+        "तेजी-मंदी के व्यवसाय में सतर्क रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Use this time to reflect on anger and independence needs.",
+        "Plan recovery strategies for business and financial stability.",
+        "Rebuild trust in fractured relationships gradually."
+      ],
+      "hi": [
+        "इस समय क्रोध और स्वतंत्रता की आवश्यकताओं पर विचार करें।",
+        "व्यवसाय और वित्तीय स्थिरता के लिए पुनर्प्राप्ति योजना बनाएं।",
+        "टूटे संबंधों में धीरे-धीरे विश्वास पुनः स्थापित करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "independence",
+      "conflict",
+      "fear of loss",
+      "repressed anger",
+      "business instability",
+      "joint assets problems",
+      "financial losses"
+    ],
+    "hi": [
+      "स्वतंत्रता",
+      "संघर्ष",
+      "खोने का भय",
+      "दमित क्रोध",
+      "व्यावसायिक अस्थिरता",
+      "संयुक्त संपत्ति समस्या",
+      "आर्थिक हानि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "volatile",
+      "emotional",
+      "unstable"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "भावनात्मक",
+      "अनिश्चित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "independence vs conflict",
+      "fear of freedom loss",
+      "business and financial risk",
+      "relationship strain"
+    ],
+    "hi": [
+      "स्वतंत्रता बनाम संघर्ष",
+      "स्वतंत्रता खोने का भय",
+      "व्यवसाय और वित्तीय जोखिम",
+      "संबंधों में तनाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-opp-ura",
+      "core": "A period marked by strong independence needs causing conflicts, obstacles, and instability in relationships, business, and finances.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "यूरेनस विपक्ष यूरेनस",
+      "core": "स्वतंत्रता की तीव्र इच्छा से उत्पन्न संघर्ष, बाधाएँ, और संबंधों, व्यवसाय व वित्त में अस्थिरता का काल।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Obsessive need for independence causes conflicts, fractured friendships, fear of losing freedom, repressed anger, and instability in business and joint assets.",
+        "hi": "स्वतंत्र रहने की तीव्र इच्छा से संघर्ष, मित्र संबंधों में दरार, स्वतंत्रता खोने का भय, दमित क्रोध, और व्यावसायिक व संयुक्त संपत्ति में अस्थिरता होती है।"
+      },
+      "career": {
+        "en": "Business instability and poor decision-making period with sudden obstacles in goals.",
+        "hi": "व्यवसाय में अस्थिरता और महत्वपूर्ण निर्णयों में समस्या; लक्ष्य प्राप्ति में अचानक बाधाएँ।"
+      },
+      "relationships": {
+        "en": "Conflicts arise due to obsessive independence; friendships may fracture.",
+        "hi": "स्वतंत्रता की इच्छा के कारण व्यवहार में समस्या; मित्र संबंधों में दरार।"
+      },
+      "money": {
+        "en": "Problems with joint/inherited assets and heavy losses in volatile trades.",
+        "hi": "संयुक्त या पैतृक संपत्ति में समस्या; तेजी-मंदी के व्यवसाय में बड़ी हानि।"
+      },
+      "health_adj": {
+        "en": "Repressed anger grows, affecting emotional well-being.",
+        "hi": "दमित क्रोध बढ़ता है, जो मानसिक स्थिति को प्रभावित कर सकता है।"
+      }
+    },
+    "aliases": [
+      "Uranus opposition Uranus",
+      "Ura OPP Ura",
+      "Uranus-Opposition-Uranus",
+      "Uranus Opposition to Uranus"
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "id": "SUN_SEX_MER__v1.0.0",
+  "pair": [
+    "Sun",
+    "Sextile",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect promotes intellectual engagement and effective communication of ideas, especially in creative or adventurous fields. It supports recognition of personal thoughts and collaboration with friends, along with increased interest in learning and skill development.",
+    "hi": "यह योग बौद्धिक गतिविधियों और विचारों को प्रभावी ढंग से प्रस्तुत करने को बढ़ावा देता है, विशेषकर साहसिक या कला के क्षेत्रों में। यह व्यक्तिगत विचारों को मान्यता और मित्रों के साथ सहयोग की संभावना देता है, साथ ही अध्ययन और कौशल विकास में रुचि बढ़ाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Engages in intellectual work and presents ideas authoritatively; new ideas develop in adventure or art fields; skill enhancement pursuits bring joy.",
+      "hi": "बौद्धिक कार्य करता है और अपनी कल्पनाओं को अधिकारपूर्वक प्रस्तुत करता है; साहसिक या कला के क्षेत्र में नई कल्पनाओं का विकास होता है; कौशल वृद्धि आनंददायक होती है।"
+    },
+    "relationships": {
+      "en": "Friends may become collaborators; personal thoughts gain recognition among authoritative figures.",
+      "hi": "मित्र सहयोगी बन सकते हैं; व्यक्तिगत विचारों को अधिकार सम्पन्न व्यक्तियों से मान्यता मिलती है।"
+    },
+    "money": {
+      "en": "No direct financial implications mentioned; skill enhancement may indirectly support career growth.",
+      "hi": "प्रत्यक्ष वित्तीय संकेत नहीं; कौशल वृद्धि अप्रत्यक्ष रूप से करियर विकास में सहायक हो सकती है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं दिया गया है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Intellectual engagement",
+      "Presentation of ideas",
+      "Collaboration",
+      "Short trips",
+      "Skill development"
+    ],
+    "hi": [
+      "बौद्धिक गतिविधि",
+      "विचार प्रस्तुत करना",
+      "सहयोग",
+      "छोटी यात्राएं",
+      "कौशल विकास"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in intellectual activities",
+        "Present ideas to authoritative figures",
+        "Collaborate with friends",
+        "Pursue studies and skill enhancement",
+        "Consider short trips"
+      ],
+      "hi": [
+        "बौद्धिक क्रियाओं में संलग्न हों",
+        "विचारों को अधिकार सम्पन्न व्यक्तियों के समक्ष प्रस्तुत करें",
+        "मित्रों के साथ सहयोग करें",
+        "अध्ययन और कौशल वृद्धि करें",
+        "छोटी यात्राओं पर विचार करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on developing new ideas in adventure or art fields",
+        "Seek recognition for personal thoughts"
+      ],
+      "hi": [
+        "साहसिक या कला के क्षेत्र में नई कल्पनाओं का विकास करें",
+        "व्यक्तिगत विचारों के लिए मान्यता प्राप्त करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain intellectual engagement",
+        "Continue skill enhancement pursuits"
+      ],
+      "hi": [
+        "बौद्धिक गतिविधि बनाए रखें",
+        "कौशल वृद्धि जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intellectual activities",
+      "authoritative presentation",
+      "new ideas",
+      "adventure",
+      "art",
+      "recognition",
+      "collaboration",
+      "studies",
+      "short trips",
+      "skill enhancement"
+    ],
+    "hi": [
+      "बौद्धिक क्रिया",
+      "अधिकारपूर्वक प्रस्तुति",
+      "नई कल्पनाएं",
+      "साहसिक",
+      "कला",
+      "मान्यता",
+      "सहयोग",
+      "अध्ययन",
+      "छोटी यात्रा",
+      "कौशल वृद्धि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intellectual",
+      "creative",
+      "collaborative",
+      "motivational"
+    ],
+    "hi": [
+      "बौद्धिक",
+      "रचनात्मक",
+      "सहयोगी",
+      "प्रेरणादायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication",
+      "learning",
+      "creativity",
+      "collaboration",
+      "adventure"
+    ],
+    "hi": [
+      "संचार",
+      "अध्ययन",
+      "रचनात्मकता",
+      "सहयोग",
+      "साहसिक"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-sxt-mer",
+      "core": "This aspect encourages intellectual activity and effective communication, fostering new ideas and collaboration, especially in creative or adventurous fields.",
+      "tone": "Warm, encouraging, and optimistic"
+    },
+    "hi": {
+      "title": "सूर्य षट्कोण बुध",
+      "core": "यह योग बौद्धिक गतिविधि और प्रभावी संचार को प्रोत्साहित करता है, नई कल्पनाओं और सहयोग को बढ़ावा देता है, विशेषकर रचनात्मक या साहसिक क्षेत्रों में।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक, और आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Engages in intellectual activities and work. Presents ideas authoritatively and competently. New ideas develop in adventure/art fields. Excellent time for presenting ideas to authoritative figures. Personal thoughts gain recognition. Friends become collaborators. Interest in studies increases. Possibility of short trips. Pursuit of skill enhancement brings joy.",
+        "hi": "बौद्धिक क्रिया एवं कार्य करता है। अपनी कल्पनाओं को अधिकारपूर्वक एवं सक्षमता के साथ प्रस्तुत करता है। साहसिक/कला के क्षेत्र में नई कल्पनाओं का विकास होता है। यह समय अपनी कल्पनाओं को अधिकार सम्पन्न व्यक्तियों के समक्ष प्रस्तुत करने हेतु उत्तम रहता है। व्यक्तिगत विचारों को मान्यता प्राप्त होती है। मित्र सहयोगी बनेंगे। अध्ययन में रुचि बढ़ेगी। छोटी यात्रा योग भी बनता है। कौशल वृद्धि के खेल आनंद का स्रोत होंगे।"
+      },
+      "career": {
+        "en": "Engages in intellectual work and presents ideas authoritatively; new ideas develop in adventure or art fields; skill enhancement pursuits bring joy.",
+        "hi": "बौद्धिक कार्य करता है और अपनी कल्पनाओं को अधिकारपूर्वक प्रस्तुत करता है; साहसिक या कला के क्षेत्र में नई कल्पनाओं का विकास होता है; कौशल वृद्धि आनंददायक होती है।"
+      },
+      "relationships": {
+        "en": "Friends may become collaborators; personal thoughts gain recognition among authoritative figures.",
+        "hi": "मित्र सहयोगी बन सकते हैं; व्यक्तिगत विचारों को अधिकार सम्पन्न व्यक्तियों से मान्यता मिलती है।"
+      },
+      "money": {
+        "en": "No direct financial implications mentioned; skill enhancement may indirectly support career growth.",
+        "hi": "प्रत्यक्ष वित्तीय संकेत नहीं; कौशल वृद्धि अप्रत्यक्ष रूप से करियर विकास में सहायक हो सकती है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं दिया गया है।"
+      }
+    },
+    "aliases": [
+      "Sun sextile Mercury",
+      "Sun SEX Mer",
+      "Sun-Sextile-Mercury",
+      "Sun Sextile to Mercury"
+    ]
+  }
+}

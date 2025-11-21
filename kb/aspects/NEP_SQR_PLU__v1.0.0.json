@@ -1,0 +1,263 @@
+{
+  "id": "NEP_SQR_PLU__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Square",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Mental pressure causes redoing work; emotional turmoil leads to poor decisions; physical strain is dangerous; risk of fraud in joint finances; life disruptions and political/economic changes likely; possible crisis or death of close ones; avoid speculative ventures.",
+    "hi": "मानसिक दबाव के कारण कार्य को दोबारा करना पड़ता है; भावनात्मक उथल-पुथल से गलत निर्णय होते हैं; शारीरिक तनाव खतरनाक है; संयुक्त वित्त में धोखे का खतरा; जीवन में व्यवधान और आर्थिक/राजनीतिक परिवर्तन संभव; निकटतम व्यक्ति के जीवन में संकट या मृत्यु की संभावना; जोखिम भरे कार्यों से बचें।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work may need to be redone due to mistakes; avoid risky or speculative business activities.",
+      "hi": "गलतियों के कारण कार्य को पुनः करना पड़ सकता है; जोखिम भरे या अटकलों वाले व्यवसाय से बचें।"
+    },
+    "relationships": {
+      "en": "Emotional unrest may cause poor decisions; crisis or death of close persons possible.",
+      "hi": "भावनात्मक अशांति से गलत निर्णय हो सकते हैं; निकटतम व्यक्ति के जीवन में संकट या मृत्यु संभव है।"
+    },
+    "money": {
+      "en": "Be cautious with joint finances, insurance, taxes, and shared assets to avoid fraud.",
+      "hi": "संयुक्त संपत्ति, बीमा, कर आदि में धोखे से बचने के लिए सावधानी बरतें।"
+    },
+    "health_adj": {
+      "en": "Physical strain is dangerous; avoid all exercise and physical exertion to prevent serious health issues.",
+      "hi": "शारीरिक तनाव खतरनाक है; गंभीर स्वास्थ्य समस्याओं से बचने के लिए व्यायाम और शारीरिक श्रम से बचें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Work redoing",
+      "Emotional turmoil",
+      "Life disruptions",
+      "Political/economic changes",
+      "Crisis or death of close ones"
+    ],
+    "hi": [
+      "कार्य पुनः करना",
+      "भावनात्मक उथल-पुथल",
+      "जीवन में व्यवधान",
+      "आर्थिक/राजनीतिक परिवर्तन",
+      "निकटतम व्यक्ति के जीवन में संकट या मृत्यु"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Mental pressure causing errors",
+      "Physical strain risks",
+      "Fraud risk in joint finances",
+      "Avoid speculative ventures",
+      "Possible crisis or death in close relations"
+    ],
+    "hi": [
+      "मानसिक दबाव से गलतियाँ",
+      "शारीरिक तनाव का खतरा",
+      "संयुक्त वित्त में धोखा",
+      "जोखिम भरे कार्यों से बचें",
+      "निकटतम संबंधों में संकट या मृत्यु संभव"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in joint financial matters",
+        "Avoid speculative and risky business",
+        "Reassess work to correct mistakes"
+      ],
+      "hi": [
+        "संयुक्त वित्तीय मामलों में सावधानी बरतें",
+        "जोखिम भरे व्यवसाय से बचें",
+        "गलतियों को सुधारने के लिए कार्य पुनः जांचें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid all physical exertion",
+        "Avoid speculative ventures",
+        "Be alert to emotional and mental stress"
+      ],
+      "hi": [
+        "सभी प्रकार के शारीरिक श्रम से बचें",
+        "जोखिम भरे कार्यों से बचें",
+        "भावनात्मक और मानसिक तनाव के प्रति सतर्क रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually reduce risky activities",
+        "Monitor emotional state for improvement",
+        "Resume cautious financial dealings"
+      ],
+      "hi": [
+        "जोखिम भरे कार्य धीरे-धीरे कम करें",
+        "भावनात्मक स्थिति में सुधार पर ध्यान दें",
+        "सावधानीपूर्वक वित्तीय कार्य पुनः शुरू करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "mental pressure",
+      "emotional turmoil",
+      "physical strain",
+      "fraud risk",
+      "life disruption",
+      "political change",
+      "economic change",
+      "crisis",
+      "death",
+      "avoid speculation"
+    ],
+    "hi": [
+      "मानसिक दबाव",
+      "भावनात्मक उथल-पुथल",
+      "शारीरिक तनाव",
+      "धोखे का खतरा",
+      "जीवन में व्यवधान",
+      "राजनीतिक परिवर्तन",
+      "आर्थिक परिवर्तन",
+      "संकट",
+      "मृत्यु",
+      "जोखिम से बचें"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "stressful",
+      "cautious",
+      "transformative",
+      "risky"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "तनावपूर्ण",
+      "सावधानीपूर्ण",
+      "परिवर्तनकारी",
+      "जोखिम भरा"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "pressure",
+      "crisis",
+      "transformation",
+      "risk management",
+      "avoidance"
+    ],
+    "hi": [
+      "दबाव",
+      "संकट",
+      "परिवर्तन",
+      "जोखिम प्रबंधन",
+      "परहेज"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-squ-plu",
+      "core": "Mental and emotional pressures cause disruptions and risks; caution in physical, financial, and speculative matters is advised.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "नेपच्यून स्क्वायर प्लूटो",
+      "core": "मानसिक और भावनात्मक दबाव से व्यवधान और जोखिम उत्पन्न होते हैं; शारीरिक, वित्तीय और जोखिम भरे मामलों में सावधानी आवश्यक है।",
+      "tone": "निष्पक्ष, सावधानीपूर्ण और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Mental pressure forces redoing work; emotional turmoil causes poor decisions; physical strain dangerous; fraud risk in joint finances; life disruptions and political/economic changes likely; crisis or death of close ones possible; avoid speculative ventures.",
+        "hi": "मानसिक दबाव की स्थिति रहेगी तथा कार्य को दोबारा करना पड़ेगा; भावनात्मक उथल-पुथल से गलत निर्णय होंगे; शारीरिक तनाव खतरनाक है; संयुक्त वित्त में धोखे का खतरा; जीवन में व्यवधान और आर्थिक/राजनीतिक परिवर्तन संभव; निकटतम व्यक्ति के जीवन में संकट या मृत्यु हो सकती है; जोखिम भरे कार्यों से बचें।"
+      },
+      "career": {
+        "en": "Work may need to be redone due to mistakes; avoid risky or speculative business activities.",
+        "hi": "गलतियों के कारण कार्य को पुनः करना पड़ सकता है; जोखिम भरे या अटकलों वाले व्यवसाय से बचें।"
+      },
+      "relationships": {
+        "en": "Emotional unrest may cause poor decisions; crisis or death of close persons possible.",
+        "hi": "भावनात्मक अशांति से गलत निर्णय हो सकते हैं; निकटतम व्यक्ति के जीवन में संकट या मृत्यु संभव है।"
+      },
+      "money": {
+        "en": "Be cautious with joint finances, insurance, taxes, and shared assets to avoid fraud.",
+        "hi": "संयुक्त संपत्ति, बीमा, कर आदि में धोखे से बचने के लिए सावधानी बरतें।"
+      },
+      "health_adj": {
+        "en": "Physical strain is dangerous; avoid all exercise and physical exertion to prevent serious health issues.",
+        "hi": "शारीरिक तनाव खतरनाक है; गंभीर स्वास्थ्य समस्याओं से बचने के लिए व्यायाम और शारीरिक श्रम से बचें।"
+      }
+    },
+    "aliases": [
+      "Neptune square Pluto",
+      "Nep SQR Plu",
+      "Neptune-Square-Pluto",
+      "Neptune Square to Pluto"
+    ]
+  }
+}

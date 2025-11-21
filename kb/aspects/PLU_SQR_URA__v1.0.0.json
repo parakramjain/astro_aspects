@@ -1,0 +1,251 @@
+{
+  "id": "PLU_SQR_URA__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Square",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Vengeful emotions cause unwanted changes in goals leading to losses, fractures in old relationships, unexpected financial setbacks, and conflicts with important associates. Sudden problems in joint ventures or assets may cause damage. Speculative financial activities are highly risky now.",
+    "hi": "बदले की भावना से अवांछित लक्ष्य परिवर्तन होते हैं जो हानि पहुँचाते हैं, पुराने संबंध टूटते हैं, अप्रत्याशित आर्थिक नुकसान होते हैं, और महत्वपूर्ण सहयोगियों के साथ संघर्ष हो सकता है। संयुक्त व्यवसाय या संपत्ति में अचानक समस्या से हानि संभव है। इस समय आर्थिक जोखिम वाले कार्य अत्यंत जोखिमपूर्ण हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Conflicts with important associates and sudden problems in joint ventures or shared assets may cause damage.",
+      "hi": "महत्वपूर्ण सहयोगियों के साथ संघर्ष और संयुक्त व्यवसाय या साझा संपत्ति में अचानक समस्या से हानि हो सकती है।"
+    },
+    "relationships": {
+      "en": "Old relationships may fracture due to vengeful or harsh emotions.",
+      "hi": "बदले की भावना या भावनात्मक क्रूरता के कारण पुराने संबंध टूट सकते हैं।"
+    },
+    "money": {
+      "en": "Unexpected financial losses may occur; speculative or risky financial activities should be avoided.",
+      "hi": "अप्रत्याशित आर्थिक हानि हो सकती है; आर्थिक जोखिम वाले कार्यों से बचना चाहिए।"
+    },
+    "health_adj": {
+      "en": "Emotional turmoil and conflicts may cause stress or emotional distress.",
+      "hi": "भावनात्मक उथल-पुथल और संघर्ष से तनाव या भावनात्मक कष्ट हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Goal changes",
+      "Relationship fractures",
+      "Financial losses",
+      "Conflicts with associates",
+      "Problems in joint ventures"
+    ],
+    "hi": [
+      "लक्ष्य परिवर्तन",
+      "संबंधों में दरार",
+      "आर्थिक हानि",
+      "सहयोगियों के साथ संघर्ष",
+      "संयुक्त व्यवसाय में समस्या"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid speculative and risky financial activities.",
+      "Conflicts with important associates may arise.",
+      "Sudden problems in joint ventures or assets can cause damage."
+    ],
+    "hi": [
+      "आर्थिक जोखिम वाले कार्य न करें।",
+      "महत्वपूर्ण सहयोगियों के साथ संघर्ष हो सकता है।",
+      "संयुक्त व्यवसाय या संपत्ति में अचानक समस्या से हानि संभव है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious with financial decisions and avoid speculation.",
+        "Maintain clear communication with associates to reduce conflicts.",
+        "Monitor joint ventures and shared assets closely."
+      ],
+      "hi": [
+        "आर्थिक निर्णयों में सावधानी रखें और अटकलों से बचें।",
+        "सहयोगियों के साथ स्पष्ट संवाद बनाए रखें ताकि संघर्ष कम हो।",
+        "संयुक्त व्यवसाय और साझा संपत्ति पर ध्यान रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid any speculative or risky financial activities.",
+        "Prepare for possible sudden conflicts or problems in partnerships.",
+        "Stay alert to emotional impulses that may cause goal changes."
+      ],
+      "hi": [
+        "किसी भी आर्थिक जोखिम वाले कार्य से बचें।",
+        "साझेदारी में अचानक संघर्ष या समस्या के लिए तैयार रहें।",
+        "ऐसी भावनाओं से सावधान रहें जो लक्ष्य परिवर्तन करवा सकती हैं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and stabilize financial and partnership arrangements.",
+        "Work on healing fractured relationships.",
+        "Reduce emotional intensity to avoid further conflicts."
+      ],
+      "hi": [
+        "आर्थिक और साझेदारी व्यवस्था की समीक्षा और स्थिरीकरण करें।",
+        "टूटे हुए संबंधों को सुधारने का प्रयास करें।",
+        "संघर्ष से बचने के लिए भावनात्मक तीव्रता कम करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "vengeful emotions",
+      "goal changes",
+      "losses",
+      "relationship fractures",
+      "financial losses",
+      "conflicts",
+      "joint ventures",
+      "speculative risk"
+    ],
+    "hi": [
+      "बदले की भावना",
+      "लक्ष्य परिवर्तन",
+      "हानि",
+      "संबंधों में दरार",
+      "आर्थिक हानि",
+      "संघर्ष",
+      "संयुक्त व्यवसाय",
+      "आर्थिक जोखिम"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "volatile",
+      "risky",
+      "conflict-prone"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "जोखिमपूर्ण",
+      "संघर्षपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional intensity",
+      "financial caution",
+      "relationship strain",
+      "sudden disruptions"
+    ],
+    "hi": [
+      "भावनात्मक तीव्रता",
+      "आर्थिक सावधानी",
+      "संबंधों में तनाव",
+      "अचानक व्यवधान"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-squ-ura",
+      "core": "Vengeful emotions cause unwanted goal changes leading to losses and conflicts, especially in relationships and finances. Speculative activities are risky.",
+      "tone": "warm, neutral, cautious"
+    },
+    "hi": {
+      "title": "प्लूटो स्क्वायर यूरेनस",
+      "core": "बदले की भावना से अवांछित लक्ष्य परिवर्तन होते हैं जो हानि और संघर्ष लाते हैं, विशेषकर संबंधों और आर्थिक मामलों में। जोखिमपूर्ण कार्यों से बचें।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Vengeful emotions cause unwanted goal changes leading to losses, fractures in old relationships, unexpected financial setbacks, and conflicts with important associates.",
+        "hi": "बदले की भावना से अवांछित लक्ष्य परिवर्तन होते हैं जो हानि पहुँचाते हैं, पुराने संबंध टूटते हैं, अप्रत्याशित आर्थिक नुकसान होते हैं, और महत्वपूर्ण सहयोगियों के साथ संघर्ष हो सकता है।"
+      },
+      "career": {
+        "en": "Conflicts with important associates and sudden problems in joint ventures or shared assets may cause damage.",
+        "hi": "महत्वपूर्ण सहयोगियों के साथ संघर्ष और संयुक्त व्यवसाय या साझा संपत्ति में अचानक समस्या से हानि हो सकती है।"
+      },
+      "relationships": {
+        "en": "Old relationships may fracture due to vengeful or harsh emotions.",
+        "hi": "बदले की भावना या भावनात्मक क्रूरता के कारण पुराने संबंध टूट सकते हैं।"
+      },
+      "money": {
+        "en": "Unexpected financial losses may occur; speculative or risky financial activities should be avoided.",
+        "hi": "अप्रत्याशित आर्थिक हानि हो सकती है; आर्थिक जोखिम वाले कार्यों से बचना चाहिए।"
+      },
+      "health_adj": {
+        "en": "Emotional turmoil and conflicts may cause stress or emotional distress.",
+        "hi": "भावनात्मक उथल-पुथल और संघर्ष से तनाव या भावनात्मक कष्ट हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Pluto square Uranus",
+      "Plu SQR Ura",
+      "Pluto-Square-Uranus",
+      "Pluto Square to Uranus"
+    ]
+  }
+}

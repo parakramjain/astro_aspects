@@ -1,0 +1,245 @@
+{
+  "id": "MOO_OPP_MAR__v1.0.0",
+  "pair": [
+    "Moon",
+    "Opposition",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Emotional conflicts and anger may arise in family and relationships, causing difficulty in understanding others' feelings and leading to aggressive reactions. Self-control is important in personal and professional areas.",
+    "hi": "परिवार और रिश्तों में भावनात्मक टकराव और गुस्सा उत्पन्न हो सकता है, जिससे दूसरों की भावनाओं को समझने में कठिनाई और आक्रामक प्रतिक्रिया हो सकती है। व्यक्तिगत और व्यावसायिक क्षेत्रों में संयम आवश्यक है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Challenges in maintaining calm and self-control at work; potential conflicts with colleagues or business partners.",
+      "hi": "कार्यस्थल पर संयम बनाए रखने में कठिनाई; सहकर्मियों या व्यापारिक साझेदारों से विवाद हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "Likely emotional clashes and misunderstandings; anger may cause disputes in family and close relationships.",
+      "hi": "भावनात्मक टकराव और गलतफहमियां संभव हैं; गुस्से के कारण परिवार और करीबी रिश्तों में झगड़े हो सकते हैं।"
+    },
+    "money": {
+      "en": "Financial matters may be affected by impulsive or aggressive behavior; caution advised in business dealings.",
+      "hi": "आक्रामक या आवेगी व्यवहार से वित्तीय मामलों पर प्रभाव पड़ सकता है; व्यापारिक लेनदेन में सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Stress and anger may impact emotional well-being; managing temper is important for mental health.",
+      "hi": "तनाव और गुस्सा भावनात्मक स्वास्थ्य को प्रभावित कर सकते हैं; मानसिक स्वास्थ्य के लिए क्रोध नियंत्रण आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family disputes",
+      "Relationship conflicts",
+      "Emotional challenges"
+    ],
+    "hi": [
+      "परिवार में विवाद",
+      "रिश्तों में टकराव",
+      "भावनात्मक चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential for anger-driven conflicts",
+      "Difficulty understanding others' emotions",
+      "Need for self-control to avoid disputes"
+    ],
+    "hi": [
+      "गुस्से से उत्पन्न विवादों की संभावना",
+      "दूसरों की भावनाओं को समझने में कठिनाई",
+      "झगड़ों से बचने के लिए संयम की जरूरत"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Practice patience in family and work settings",
+        "Be mindful of emotional reactions",
+        "Seek to understand others' feelings"
+      ],
+      "hi": [
+        "परिवार और कार्यस्थल पर धैर्य बनाए रखें",
+        "भावनात्मक प्रतिक्रियाओं पर ध्यान दें",
+        "दूसरों की भावनाओं को समझने का प्रयास करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise extra self-control during conflicts",
+        "Avoid aggressive responses",
+        "Communicate calmly to resolve issues"
+      ],
+      "hi": [
+        "विवादों के दौरान अतिरिक्त संयम रखें",
+        "आक्रामक प्रतिक्रिया से बचें",
+        "शांतिपूर्ण संवाद से समस्याओं का समाधान करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional triggers",
+        "Work on anger management techniques",
+        "Rebuild harmony in relationships"
+      ],
+      "hi": [
+        "भावनात्मक कारणों पर विचार करें",
+        "गुस्सा नियंत्रण तकनीकों पर काम करें",
+        "रिश्तों में सामंजस्य पुनः स्थापित करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional clashes",
+      "anger",
+      "self-control",
+      "aggression",
+      "conflicts",
+      "relationships",
+      "family"
+    ],
+    "hi": [
+      "भावनात्मक टकराव",
+      "गुस्सा",
+      "संयम",
+      "आक्रामकता",
+      "विवाद",
+      "रिश्ते",
+      "परिवार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "emotional",
+      "conflict-prone",
+      "requires self-discipline"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "विवाद-संवेदनशील",
+      "संयम की आवश्यकता"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family dynamics",
+      "emotional understanding",
+      "anger management",
+      "relationship harmony"
+    ],
+    "hi": [
+      "परिवार की गतिशीलता",
+      "भावनात्मक समझ",
+      "गुस्सा नियंत्रण",
+      "रिश्तों में सामंजस्य"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-opp-mar",
+      "core": "Emotional clashes and anger may arise in family and relationships, causing difficulty in understanding others' feelings and leading to aggressive reactions. Self-control is important in personal and professional areas.",
+      "tone": "Warm, neutral, and advisory"
+    },
+    "hi": {
+      "title": "चंद्रमा का मंगल के विरुद्ध योग",
+      "core": "परिवार और रिश्तों में भावनात्मक टकराव और गुस्सा उत्पन्न हो सकता है, जिससे दूसरों की भावनाओं को समझने में कठिनाई और आक्रामक प्रतिक्रिया हो सकती है। व्यक्तिगत और व्यावसायिक क्षेत्रों में संयम आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सलाहकार"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional conflicts and anger may arise in family and relationships, causing difficulty in understanding others' feelings and leading to aggressive reactions. Self-control is important in personal and professional areas.",
+        "hi": "परिवार और रिश्तों में भावनात्मक टकराव और गुस्सा उत्पन्न हो सकता है, जिससे दूसरों की भावनाओं को समझने में कठिनाई और आक्रामक प्रतिक्रिया हो सकती है। व्यक्तिगत और व्यावसायिक क्षेत्रों में संयम आवश्यक है।"
+      },
+      "career": {
+        "en": "Challenges in maintaining calm and self-control at work; potential conflicts with colleagues or business partners.",
+        "hi": "कार्यस्थल पर संयम बनाए रखने में कठिनाई; सहकर्मियों या व्यापारिक साझेदारों से विवाद हो सकते हैं।"
+      },
+      "relationships": {
+        "en": "Likely emotional clashes and misunderstandings; anger may cause disputes in family and close relationships.",
+        "hi": "भावनात्मक टकराव और गलतफहमियां संभव हैं; गुस्से के कारण परिवार और करीबी रिश्तों में झगड़े हो सकते हैं।"
+      },
+      "money": {
+        "en": "Financial matters may be affected by impulsive or aggressive behavior; caution advised in business dealings.",
+        "hi": "आक्रामक या आवेगी व्यवहार से वित्तीय मामलों पर प्रभाव पड़ सकता है; व्यापारिक लेनदेन में सावधानी आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "Stress and anger may impact emotional well-being; managing temper is important for mental health.",
+        "hi": "तनाव और गुस्सा भावनात्मक स्वास्थ्य को प्रभावित कर सकते हैं; मानसिक स्वास्थ्य के लिए क्रोध नियंत्रण आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Moon opposition Mars",
+      "Moo OPP Mar",
+      "Moon-Opposition-Mars",
+      "Moon Opposition to Mars"
+    ]
+  }
+}

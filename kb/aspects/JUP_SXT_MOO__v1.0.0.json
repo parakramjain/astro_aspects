@@ -1,0 +1,255 @@
+{
+  "id": "JUP_SEX_MOO__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Sextile",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased importance of educational, cultural, and religious matters within the home and family, fostering a generous, kind, peaceful, and optimistic temperament. Visits from distant friends and relatives or travel back home occur. Women provide assistance. Business profits and large deals or property transactions are involved, with increased production.",
+    "hi": "घर और परिवार में शैक्षिक, सांस्कृतिक और धार्मिक मामलों का महत्व बढ़ता है, जिससे स्वभाव में उदारता, दयालुता, शांति और आशावादिता बनी रहती है। दूर रहने वाले मित्र और परिजन मिलने आते हैं या व्यक्ति घर वापस यात्रा करता है। महिलाएं सहायता प्रदान करती हैं। व्यवसाय में मुनाफा होता है और बड़े सौदे या संपत्ति के लेन-देन होते हैं, साथ ही उत्पादन बढ़ता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business profits increase with involvement in large deals and property; production rises.",
+      "hi": "व्यवसाय में मुनाफा बढ़ता है, बड़े सौदे और संपत्ति से जुड़ा होता है; उत्पादन में वृद्धि होती है।"
+    },
+    "relationships": {
+      "en": "Generous and peaceful temperament supports family harmony; distant friends and relatives visit or travel back home; women offer assistance.",
+      "hi": "उदार और शांत स्वभाव परिवार में सद्भाव बनाए रखता है; दूर के मित्र और परिजन मिलने आते हैं या घर वापस यात्रा करते हैं; महिलाएं सहायता प्रदान करती हैं।"
+    },
+    "money": {
+      "en": "Profits from business and involvement in large deals or property transactions are highlighted.",
+      "hi": "व्यवसाय से मुनाफा और बड़े सौदे या संपत्ति के लेन-देन प्रमुख होते हैं।"
+    },
+    "health_adj": {
+      "en": "Temperament remains kind, peaceful, and optimistic, supporting emotional well-being.",
+      "hi": "स्वभाव दयालु, शांत और आशावादी रहता है, जो भावनात्मक स्वास्थ्य के लिए सहायक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational or cultural developments at home",
+      "Family visits or travel",
+      "Business transactions involving property"
+    ],
+    "hi": [
+      "घर में शैक्षिक या सांस्कृतिक विकास",
+      "परिवार के मिलने या यात्रा के अवसर",
+      "संपत्ति से जुड़े व्यवसायिक लेन-देन"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on educational and cultural activities within the family",
+        "Encourage visits and connections with distant relatives and friends",
+        "Seek assistance from women in family or business matters"
+      ],
+      "hi": [
+        "परिवार में शैक्षिक और सांस्कृतिक गतिविधियों पर ध्यान दें",
+        "दूर के रिश्तेदारों और मित्रों से मिलने और संपर्क बढ़ाने को प्रोत्साहित करें",
+        "परिवार या व्यवसाय में महिलाओं से सहायता लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage in business deals or property transactions",
+        "Facilitate travel for family reunions",
+        "Maintain a generous and optimistic attitude"
+      ],
+      "hi": [
+        "व्यवसायिक सौदे या संपत्ति के लेन-देन में संलग्न हों",
+        "परिवार के मिलन के लिए यात्रा को सुगम बनाएं",
+        "उदार और आशावादी दृष्टिकोण बनाए रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue nurturing family and cultural ties",
+        "Sustain peaceful and kind temperament",
+        "Monitor ongoing business and production activities"
+      ],
+      "hi": [
+        "परिवार और सांस्कृतिक संबंधों को बनाए रखें",
+        "शांत और दयालु स्वभाव बनाए रखें",
+        "व्यवसाय और उत्पादन गतिविधियों की निगरानी करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "education",
+      "culture",
+      "religion",
+      "family",
+      "generosity",
+      "peace",
+      "optimism",
+      "visits",
+      "women's assistance",
+      "business profits",
+      "large deals",
+      "property",
+      "production"
+    ],
+    "hi": [
+      "शिक्षा",
+      "संस्कृति",
+      "धर्म",
+      "परिवार",
+      "उदारता",
+      "शांति",
+      "आशावाद",
+      "मिलना-जुलना",
+      "महिलाओं की सहायता",
+      "व्यवसाय मुनाफा",
+      "बड़े सौदे",
+      "संपत्ति",
+      "उत्पादन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "generous",
+      "kind",
+      "peaceful",
+      "optimistic",
+      "productive",
+      "supportive"
+    ],
+    "hi": [
+      "उदार",
+      "दयालु",
+      "शांत",
+      "आशावादी",
+      "उत्पादक",
+      "सहायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "home and family",
+      "education and culture",
+      "business growth",
+      "travel and visits",
+      "female support"
+    ],
+    "hi": [
+      "घर और परिवार",
+      "शिक्षा और संस्कृति",
+      "व्यवसाय विकास",
+      "यात्रा और मिलन",
+      "महिला सहायता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-16"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-sxt-moo",
+      "core": "This aspect highlights growth in educational, cultural, and religious importance at home, fostering a kind and optimistic environment with beneficial family visits and business opportunities.",
+      "tone": "Warm, optimistic, and supportive"
+    },
+    "hi": {
+      "title": "बृहस्पति षट्कोण चंद्र",
+      "core": "यह योग घर में शैक्षिक, सांस्कृतिक और धार्मिक महत्व में वृद्धि दर्शाता है, जो एक दयालु और आशावादी वातावरण बनाता है, साथ ही परिवार के मिलन और व्यवसाय के अवसरों को बढ़ावा देता है।",
+      "tone": "सहानुभूतिपूर्ण, आशावादी और सहायक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Increased importance of educational, cultural, and religious matters within the home and family, fostering a generous, kind, peaceful, and optimistic temperament.",
+        "hi": "घर और परिवार में शैक्षिक, सांस्कृतिक और धार्मिक मामलों का महत्व बढ़ना, जिससे उदार, दयालु, शांत और आशावादी स्वभाव बनता है।"
+      },
+      "career": {
+        "en": "Business profits increase with involvement in large deals and property; production rises.",
+        "hi": "व्यवसाय में मुनाफा बढ़ना, बड़े सौदे और संपत्ति से जुड़ना; उत्पादन में वृद्धि।"
+      },
+      "relationships": {
+        "en": "Generous and peaceful temperament supports family harmony; distant friends and relatives visit or travel back home; women offer assistance.",
+        "hi": "उदार और शांत स्वभाव परिवार में सद्भाव बनाए रखता है; दूर के मित्र और परिजन मिलने आते हैं या घर वापस यात्रा करते हैं; महिलाएं सहायता करती हैं।"
+      },
+      "money": {
+        "en": "Profits from business and involvement in large deals or property transactions are highlighted.",
+        "hi": "व्यवसाय से मुनाफा और बड़े सौदे या संपत्ति के लेन-देन प्रमुख होते हैं।"
+      },
+      "health_adj": {
+        "en": "Temperament remains kind, peaceful, and optimistic, supporting emotional well-being.",
+        "hi": "स्वभाव दयालु, शांत और आशावादी रहता है, जो भावनात्मक स्वास्थ्य के लिए सहायक है।"
+      }
+    },
+    "aliases": [
+      "Jupiter sextile Moon",
+      "Jup SEX Moo",
+      "Jupiter-Sextile-Moon",
+      "Jupiter Sextile to Moon"
+    ]
+  }
+}

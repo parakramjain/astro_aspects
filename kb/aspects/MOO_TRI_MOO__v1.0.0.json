@@ -1,0 +1,226 @@
+{
+  "id": "MOO_TRI_MOO__v1.0.0",
+  "pair": [
+    "Moon",
+    "Trine",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Life flows smoothly and balanced, fostering peace and productivity in work and creativity.",
+    "hi": "जीवन सहज और संतुलित रूप से चलता है, जिससे काम और रचनात्मकता में शांति और उत्पादकता बढ़ती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work feels peaceful and creative tasks become more productive.",
+      "hi": "काम में सुकून का अनुभव होता है और रचनात्मक कार्य अधिक उत्पादक होते हैं।"
+    },
+    "relationships": {
+      "en": "Good period for family bonding and harmonious interactions.",
+      "hi": "पारिवारिक मेल-मिलाप और सौहार्दपूर्ण संबंधों के लिए अच्छा समय।"
+    },
+    "money": {
+      "en": "Favorable for buying household items and business-related purchases.",
+      "hi": "घर की ज़रूरत की चीज़ें और व्यापार से जुड़ी खरीदारी के लिए अनुकूल समय।"
+    },
+    "health_adj": {
+      "en": "Mind remains calm, supporting overall mental peace.",
+      "hi": "मन शांत रहता है, जिससे मानसिक शांति बनी रहती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family bonding",
+      "Household purchases",
+      "Business acquisitions"
+    ],
+    "hi": [
+      "पारिवारिक मेल-मिलाप",
+      "घर की खरीदारी",
+      "व्यापार से जुड़ी खरीदारी"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in family activities to strengthen bonds.",
+        "Focus on creative and productive work."
+      ],
+      "hi": [
+        "पारिवारिक गतिविधियों में भाग लें और संबंध मजबूत करें।",
+        "रचनात्मक और उत्पादक कार्यों पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Make important household or business purchases.",
+        "Maintain calmness during work."
+      ],
+      "hi": [
+        "महत्वपूर्ण घरेलू या व्यापारिक खरीदारी करें।",
+        "काम के दौरान शांति बनाए रखें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue peaceful family relations.",
+        "Sustain productivity and mental calm."
+      ],
+      "hi": [
+        "पारिवारिक संबंधों में शांति बनाए रखें।",
+        "उत्पादकता और मानसिक शांति बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "balance",
+      "peace",
+      "productivity",
+      "family bonding",
+      "household purchases",
+      "calm mind"
+    ],
+    "hi": [
+      "संतुलन",
+      "शांति",
+      "उत्पादकता",
+      "पारिवारिक मेल-मिलाप",
+      "घर की खरीदारी",
+      "मन की शांति"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "harmonious",
+      "stable",
+      "productive",
+      "peaceful"
+    ],
+    "hi": [
+      "सौहार्दपूर्ण",
+      "स्थिर",
+      "उत्पादक",
+      "शांतिपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family harmony",
+      "creative flow",
+      "balanced life"
+    ],
+    "hi": [
+      "पारिवारिक सौहार्द",
+      "रचनात्मक प्रवाह",
+      "संतुलित जीवन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-tri-moo",
+      "core": "A time of smooth, balanced life with peace and increased productivity.",
+      "tone": "Warm, calm, and encouraging"
+    },
+    "hi": {
+      "title": "चंद्र त्रिकोण चंद्र",
+      "core": "संतुलित और सहज जीवन का समय, शांति और बढ़ी हुई उत्पादकता के साथ।",
+      "tone": "सहानुभूतिपूर्ण, शांत और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Life flows smoothly and balanced, fostering peace and productivity in work and creativity.",
+        "hi": "जीवन सहज और संतुलित रूप से चलता है, जिससे काम और रचनात्मकता में शांति और उत्पादकता बढ़ती है।"
+      },
+      "career": {
+        "en": "Work feels peaceful and creative tasks become more productive.",
+        "hi": "काम में सुकून का अनुभव होता है और रचनात्मक कार्य अधिक उत्पादक होते हैं।"
+      },
+      "relationships": {
+        "en": "Good period for family bonding and harmonious interactions.",
+        "hi": "पारिवारिक मेल-मिलाप और सौहार्दपूर्ण संबंधों के लिए अच्छा समय।"
+      },
+      "money": {
+        "en": "Favorable for buying household items and business-related purchases.",
+        "hi": "घर की ज़रूरत की चीज़ें और व्यापार से जुड़ी खरीदारी के लिए अनुकूल समय।"
+      },
+      "health_adj": {
+        "en": "Mind remains calm, supporting overall mental peace.",
+        "hi": "मन शांत रहता है, जिससे मानसिक शांति बनी रहती है।"
+      }
+    },
+    "aliases": [
+      "Moon trine Moon",
+      "Moo TRI Moo",
+      "Moon-Trine-Moon",
+      "Moon Trine to Moon"
+    ]
+  }
+}

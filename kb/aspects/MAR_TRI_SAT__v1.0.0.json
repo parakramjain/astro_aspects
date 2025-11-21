@@ -1,0 +1,243 @@
+{
+  "id": "MAR_TRI_SAT__v1.0.0",
+  "pair": [
+    "Mars",
+    "Trine",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Strong ambition and desire for success with a disciplined use of power. Tasks are completed successfully through organization and discipline, especially in technical and construction fields.",
+    "hi": "मजबूत महत्वाकांक्षा और सफलता की इच्छा के साथ शक्ति का अनुशासित उपयोग। कार्यों को संगठन और अनुशासन के माध्यम से सफलतापूर्वक पूरा किया जाता है, विशेष रूप से तकनीकी और निर्माण क्षेत्रों में।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for construction, architecture, production, and equipment-related work. Excels in organizing and disciplining subordinate institutions. Good for government and official dealings.",
+      "hi": "निर्माण, स्थापत्य, उत्पादन और उपकरण संबंधित कार्यों के लिए अनुकूल। अधीनस्थ संस्थाओं की व्यवस्था और अनुशासन में उत्कृष्ट। सरकारी और अधिकारी वर्ग के साथ व्यवहार के लिए उपयुक्त।"
+    },
+    "relationships": {
+      "en": "Supports structured and disciplined interactions, particularly in professional or official contexts.",
+      "hi": "संरचित और अनुशासित संवाद का समर्थन करता है, विशेषकर पेशेवर या आधिकारिक संदर्भों में।"
+    },
+    "money": {
+      "en": "Capable of enhancing business aesthetics and organization, leading to potential financial success in technical and construction sectors.",
+      "hi": "व्यवसाय को सुंदर और व्यवस्थित बनाने में सक्षम, तकनीकी और निर्माण क्षेत्रों में संभावित आर्थिक सफलता।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments noted; disciplined approach may support overall well-being.",
+      "hi": "विशेष स्वास्थ्य समायोजन नहीं बताए गए; अनुशासित दृष्टिकोण समग्र स्वास्थ्य के लिए सहायक हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional success",
+      "Technical or construction achievements",
+      "Government or official engagements"
+    ],
+    "hi": [
+      "पेशेवर सफलता",
+      "तकनीकी या निर्माण संबंधी उपलब्धियां",
+      "सरकारी या आधिकारिक संपर्क"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain disciplined use of power to avoid potential issues."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताया गया; संभावित समस्याओं से बचने के लिए शक्ति का अनुशासित उपयोग बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on disciplined task completion",
+        "Organize and improve subordinate institutions",
+        "Engage in technical, construction, or official work"
+      ],
+      "hi": [
+        "अनुशासित तरीके से कार्य पूरा करने पर ध्यान दें",
+        "अधीनस्थ संस्थाओं का संगठन और सुधार करें",
+        "तकनीकी, निर्माण या आधिकारिक कार्यों में संलग्न हों"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Leverage ambition and willpower to beautify and organize business",
+        "Pursue government or official dealings",
+        "Aim for success in technical or construction projects"
+      ],
+      "hi": [
+        "व्यवसाय को सुंदर और व्यवस्थित करने के लिए महत्वाकांक्षा और इच्छाशक्ति का उपयोग करें",
+        "सरकारी या आधिकारिक व्यवहार करें",
+        "तकनीकी या निर्माण परियोजनाओं में सफलता प्राप्त करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain discipline to sustain success",
+        "Continue structured organization of institutions",
+        "Avoid laxity in professional or official responsibilities"
+      ],
+      "hi": [
+        "सफलता बनाए रखने के लिए अनुशासन बनाए रखें",
+        "संस्थाओं के संरचित संगठन को जारी रखें",
+        "पेशेवर या आधिकारिक जिम्मेदारियों में ढील न दें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "ambition",
+      "discipline",
+      "success",
+      "organization",
+      "construction",
+      "technical work",
+      "government dealings"
+    ],
+    "hi": [
+      "महत्वाकांक्षा",
+      "अनुशासन",
+      "सफलता",
+      "व्यवस्था",
+      "निर्माण",
+      "तकनीकी कार्य",
+      "सरकारी व्यवहार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "disciplined",
+      "organized",
+      "ambitious",
+      "productive",
+      "structured"
+    ],
+    "hi": [
+      "अनुशासित",
+      "संगठित",
+      "महत्वाकांक्षी",
+      "उत्पादक",
+      "संरचित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "technical expertise",
+      "government interaction",
+      "business enhancement"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "तकनीकी विशेषज्ञता",
+      "सरकारी संपर्क",
+      "व्यवसाय सुधार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-tri-sat",
+      "core": "Strong ambition and disciplined power use lead to success in technical and official fields.",
+      "tone": "Professional, optimistic, and structured"
+    },
+    "hi": {
+      "title": "मंगल त्रिकोण शनि",
+      "core": "मजबूत महत्वाकांक्षा और अनुशासित शक्ति उपयोग तकनीकी और आधिकारिक क्षेत्रों में सफलता लाते हैं।",
+      "tone": "पेशेवर, आशावादी, और संरचित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "High ambition and disciplined use of power result in successful task completion and professional achievements.",
+        "hi": "उच्च महत्वाकांक्षा और अनुशासित शक्ति उपयोग से कार्य सफलतापूर्वक पूरे होते हैं और पेशेवर उपलब्धियां मिलती हैं।"
+      },
+      "career": {
+        "en": "Favorable for construction, architecture, production, equipment work, and government dealings.",
+        "hi": "निर्माण, स्थापत्य, उत्पादन, उपकरण कार्य और सरकारी व्यवहार के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Supports organized and disciplined interactions, especially in official contexts.",
+        "hi": "विशेषकर आधिकारिक संदर्भों में संगठित और अनुशासित संवाद का समर्थन करता है।"
+      },
+      "money": {
+        "en": "Enhances business aesthetics and organization, aiding financial success in technical and construction sectors.",
+        "hi": "व्यवसाय की सुंदरता और व्यवस्था बढ़ाता है, तकनीकी और निर्माण क्षेत्रों में आर्थिक सफलता में सहायक।"
+      },
+      "health_adj": {
+        "en": "No specific health concerns; disciplined approach may support well-being.",
+        "hi": "विशेष स्वास्थ्य चिंता नहीं; अनुशासित दृष्टिकोण स्वास्थ्य में सहायक हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Mars trine Saturn",
+      "Mar TRI Sat",
+      "Mars-Trine-Saturn",
+      "Mars Trine to Saturn"
+    ]
+  }
+}

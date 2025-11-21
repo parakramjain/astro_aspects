@@ -1,0 +1,251 @@
+{
+  "id": "JUP_SEX_SAT__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Sextile",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Progress and steady advancement in career and education with support from authorities and influential connections, balanced optimism and caution fostering important opportunities and stability.",
+    "hi": "करियर और शिक्षा में प्रगति और स्थिर उन्नति, उच्च अधिकारियों और प्रभावशाली संपर्कों से सहयोग, आशावाद और सावधानी के संतुलन से महत्वपूर्ण अवसर और स्थिरता प्राप्त होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Important career-building opportunities arise; steady business growth; increased responsibilities; favorable for professionals like lawyers and political managers.",
+      "hi": "महत्वपूर्ण करियर निर्माण के अवसर; व्यवसाय में स्थिर उन्नति; जिम्मेदारियों में वृद्धि; वकील और राजनीतिक प्रबंधक जैसे पेशेवरों के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Support from seniors and authorities; benefits through friendships and alliances with wealthier or influential people.",
+      "hi": "वरिष्ठों और अधिकारियों का सहयोग; संपन्न और प्रभावशाली लोगों से मित्रता और संधि के माध्यम से लाभ।"
+    },
+    "money": {
+      "en": "Steady business advancement and financial benefits through connections with wealthier individuals.",
+      "hi": "व्यवसाय में स्थिर उन्नति और संपन्न व्यक्तियों से संबंधों के माध्यम से आर्थिक लाभ।"
+    },
+    "health_adj": {
+      "en": "Increased responsibilities may require serious consideration and balanced optimism with caution to maintain well-being.",
+      "hi": "जिम्मेदारियों में वृद्धि के कारण गंभीर विचार और आशावाद-सावधानी का संतुलन स्वास्थ्य बनाए रखने में सहायक होगा।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Career advancement",
+      "Educational progress",
+      "Professional support",
+      "Important decision-making"
+    ],
+    "hi": [
+      "करियर उन्नति",
+      "शैक्षणिक प्रगति",
+      "पेशेवर सहयोग",
+      "महत्वपूर्ण निर्णय लेना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased responsibilities require careful consideration.",
+      "Balance optimism with caution to avoid missed opportunities or misjudgments."
+    ],
+    "hi": [
+      "जिम्मेदारियों में वृद्धि के कारण सावधानीपूर्वक विचार आवश्यक है।",
+      "अवसरों को खोने या गलत निर्णय से बचने के लिए आशावाद और सावधानी का संतुलन रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek support from seniors and authorities.",
+        "Build connections with influential and wealthier individuals.",
+        "Balance optimism with caution in decision-making."
+      ],
+      "hi": [
+        "वरिष्ठों और अधिकारियों से सहयोग प्राप्त करें।",
+        "प्रभावशाली और संपन्न व्यक्तियों से संबंध बनाएं।",
+        "निर्णय लेने में आशावाद और सावधानी का संतुलन रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on steady career progress and business growth.",
+        "Consider important decisions seriously.",
+        "Leverage opportunities through professional networks."
+      ],
+      "hi": [
+        "स्थिर करियर प्रगति और व्यवसाय विकास पर ध्यान दें।",
+        "महत्वपूर्ण निर्णयों पर गंभीरता से विचार करें।",
+        "पेशेवर नेटवर्क के माध्यम से अवसरों का लाभ उठाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain the gains in career and relationships.",
+        "Continue balancing optimism and caution.",
+        "Sustain support from influential contacts."
+      ],
+      "hi": [
+        "करियर और संबंधों में प्राप्त लाभ बनाए रखें।",
+        "आशावाद और सावधानी का संतुलन बनाए रखें।",
+        "प्रभावशाली संपर्कों से सहयोग जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "progress",
+      "career opportunities",
+      "support",
+      "responsibility",
+      "optimism",
+      "caution",
+      "connections",
+      "stability",
+      "professional"
+    ],
+    "hi": [
+      "प्रगति",
+      "करियर अवसर",
+      "सहयोग",
+      "जिम्मेदारी",
+      "आशावाद",
+      "सावधानी",
+      "संपर्क",
+      "स्थिरता",
+      "पेशेवर"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "steady",
+      "supportive",
+      "balanced",
+      "serious",
+      "stable"
+    ],
+    "hi": [
+      "स्थिर",
+      "सहायक",
+      "संतुलित",
+      "गंभीर",
+      "मजबूत"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "career growth",
+      "professional networking",
+      "responsibility increase",
+      "balanced decision-making"
+    ],
+    "hi": [
+      "करियर विकास",
+      "पेशेवर संपर्क",
+      "जिम्मेदारी में वृद्धि",
+      "संतुलित निर्णय लेना"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-16"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-sxt-sat",
+      "core": "Progress and steady advancement in career and education with supportive connections and balanced optimism and caution.",
+      "tone": "Warm, neutral, professional"
+    },
+    "hi": {
+      "title": "बृहस्पति षट्कोण शनि",
+      "core": "सहायक संपर्कों और आशावाद-सावधानी के संतुलन के साथ करियर और शिक्षा में प्रगति और स्थिर उन्नति।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, पेशेवर"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Progress in goal achievement and career-building opportunities with support from authorities and influential people, balancing optimism and caution.",
+        "hi": "लक्ष्य प्राप्ति और करियर निर्माण में प्रगति, अधिकारियों और प्रभावशाली लोगों से सहयोग, आशावाद और सावधानी का संतुलन।"
+      },
+      "career": {
+        "en": "Important career-building opportunities, steady business advancement, increased responsibilities, favorable for professionals like lawyers and political managers.",
+        "hi": "महत्वपूर्ण करियर अवसर, व्यवसाय में स्थिर उन्नति, जिम्मेदारी में वृद्धि, वकील और राजनीतिक प्रबंधकों के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Support from seniors and authorities; benefits from friendships and alliances with wealthier or influential people.",
+        "hi": "वरिष्ठों और अधिकारियों का सहयोग; संपन्न और प्रभावशाली लोगों से मित्रता और संधि के लाभ।"
+      },
+      "money": {
+        "en": "Steady business growth and financial benefits through connections with wealthier individuals.",
+        "hi": "व्यवसाय में स्थिर उन्नति और संपन्न व्यक्तियों से संबंधों के माध्यम से आर्थिक लाभ।"
+      },
+      "health_adj": {
+        "en": "Increased responsibilities require serious consideration and a balance of optimism and caution to maintain well-being.",
+        "hi": "जिम्मेदारियों में वृद्धि के कारण गंभीर विचार और आशावाद-सावधानी का संतुलन स्वास्थ्य बनाए रखने में सहायक।"
+      }
+    },
+    "aliases": [
+      "Jupiter sextile Saturn",
+      "Jup SEX Sat",
+      "Jupiter-Sextile-Saturn",
+      "Jupiter Sextile to Saturn"
+    ]
+  }
+}

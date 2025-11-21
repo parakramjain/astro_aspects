@@ -1,0 +1,247 @@
+{
+  "id": "URA_OPP_MER__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Opposition",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Sudden and unstable thinking causes confusion and stress in communication.",
+    "hi": "अचानक और अस्थिर सोच से भ्रम और संचार में तनाव होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Decision-making in technology, transport, or investments can be risky due to unstable thoughts.",
+      "hi": "टेक्नोलॉजी, वाहन या निवेश से जुड़े निर्णय अस्थिर सोच के कारण जोखिम भरे हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "Relationships may experience stress and misunderstandings.",
+      "hi": "रिश्तों में तनाव और गलतफहमियां हो सकती हैं।"
+    },
+    "money": {
+      "en": "Investment decisions carry risk and may lead to losses.",
+      "hi": "निवेश से जुड़े निर्णय जोखिमपूर्ण हो सकते हैं और नुकसान हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Mental confusion and stress may affect overall well-being.",
+      "hi": "मानसिक भ्रम और तनाव से समग्र स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Sudden changes in thinking",
+      "Stress in relationships",
+      "Risky investment decisions"
+    ],
+    "hi": [
+      "विचारों में अचानक बदलाव",
+      "रिश्तों में तनाव",
+      "जोखिमपूर्ण निवेश निर्णय"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Confusion due to unstable thinking",
+      "Risk in technology, transport, or investment decisions",
+      "Stress and misunderstandings in relationships"
+    ],
+    "hi": [
+      "अस्थिर सोच के कारण भ्रम",
+      "टेक्नोलॉजी, वाहन या निवेश निर्णय में जोखिम",
+      "रिश्तों में तनाव और गलतफहमियां"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious with sudden ideas or decisions",
+        "Double-check technology or transport plans",
+        "Communicate clearly in relationships"
+      ],
+      "hi": [
+        "अचानक विचारों या निर्णयों में सावधानी बरतें",
+        "टेक्नोलॉजी या वाहन योजनाओं को दोबारा जांचें",
+        "रिश्तों में स्पष्ट संवाद करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive decisions",
+        "Clarify misunderstandings promptly",
+        "Review investment choices carefully"
+      ],
+      "hi": [
+        "आवेगपूर्ण निर्णय से बचें",
+        "गलतफहमियों को तुरंत स्पष्ट करें",
+        "निवेश विकल्पों की सावधानी से समीक्षा करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past confusions to improve clarity",
+        "Rebuild trust in relationships",
+        "Stabilize decision-making processes"
+      ],
+      "hi": [
+        "पिछले भ्रमों पर विचार कर स्पष्टता बढ़ाएं",
+        "रिश्तों में विश्वास पुनः स्थापित करें",
+        "निर्णय लेने की प्रक्रिया को स्थिर करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "sudden thinking",
+      "confusion",
+      "risk",
+      "stress",
+      "misunderstandings",
+      "technology",
+      "transport",
+      "investment"
+    ],
+    "hi": [
+      "अचानक सोच",
+      "भ्रम",
+      "जोखिम",
+      "तनाव",
+      "गलतफहमी",
+      "टेक्नोलॉजी",
+      "वाहन",
+      "निवेश"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "unstable",
+      "risky",
+      "stressful",
+      "confusing"
+    ],
+    "hi": [
+      "अस्थिर",
+      "जोखिमपूर्ण",
+      "तनावपूर्ण",
+      "भ्रमित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental instability",
+      "communication challenges",
+      "decision risk",
+      "relationship tension"
+    ],
+    "hi": [
+      "मानसिक अस्थिरता",
+      "संचार चुनौतियां",
+      "निर्णय जोखिम",
+      "रिश्तों में तनाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-opp-mer",
+      "core": "Sudden and unstable thinking causes confusion and stress in communication.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "यूरेनस विपक्ष बुध",
+      "core": "अचानक और अस्थिर सोच से भ्रम और संचार में तनाव होता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Sudden and unstable thinking causes confusion and stress in communication.",
+        "hi": "अचानक और अस्थिर सोच से भ्रम और संचार में तनाव होता है।"
+      },
+      "career": {
+        "en": "Decision-making in technology, transport, or investments can be risky due to unstable thoughts.",
+        "hi": "टेक्नोलॉजी, वाहन या निवेश से जुड़े निर्णय अस्थिर सोच के कारण जोखिम भरे हो सकते हैं।"
+      },
+      "relationships": {
+        "en": "Relationships may experience stress and misunderstandings.",
+        "hi": "रिश्तों में तनाव और गलतफहमियां हो सकती हैं।"
+      },
+      "money": {
+        "en": "Investment decisions carry risk and may lead to losses.",
+        "hi": "निवेश से जुड़े निर्णय जोखिमपूर्ण हो सकते हैं और नुकसान हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Mental confusion and stress may affect overall well-being.",
+        "hi": "मानसिक भ्रम और तनाव से समग्र स्वास्थ्य प्रभावित हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Uranus opposition Mercury",
+      "Ura OPP Mer",
+      "Uranus-Opposition-Mercury",
+      "Uranus Opposition to Mercury"
+    ]
+  }
+}

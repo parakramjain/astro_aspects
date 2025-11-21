@@ -1,0 +1,249 @@
+{
+  "id": "VEN_SQR_MOO__v1.0.0",
+  "pair": [
+    "Venus",
+    "Square",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Emotional imbalance may cause misunderstandings, attachments, and inappropriate behavior, leading to tension in romantic or marital relationships and increased laziness.",
+    "hi": "भावनाओं के असंतुलन से गलतफहमियां, मोह और अनुचित व्यवहार हो सकते हैं, जिससे प्रेम या शादी के रिश्तों में तनाव और आलस्य बढ़ सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Emotional confusion may affect work focus and productivity.",
+      "hi": "भावनात्मक भ्रम से कार्य में ध्यान और उत्पादकता प्रभावित हो सकती है।"
+    },
+    "relationships": {
+      "en": "Romantic and marital relationships may experience tension and misunderstandings.",
+      "hi": "प्रेम और शादी के रिश्तों में तनाव और गलतफहमियां हो सकती हैं।"
+    },
+    "money": {
+      "en": "There may be overspending and indulgence in pleasures leading to financial imbalance.",
+      "hi": "अधिक खर्च और मनोरंजन में लिप्तता से वित्तीय असंतुलन हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Poor eating habits and increased laziness may affect health.",
+      "hi": "खान-पान में असंतुलन और बढ़ा हुआ आलस्य स्वास्थ्य को प्रभावित कर सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional challenges",
+      "Relationship tension",
+      "Financial imbalance"
+    ],
+    "hi": [
+      "भावनात्मक चुनौतियां",
+      "रिश्तों में तनाव",
+      "वित्तीय असंतुलन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Misunderstandings in relationships",
+      "Emotional confusion",
+      "Overspending and indulgence",
+      "Increased laziness"
+    ],
+    "hi": [
+      "रिश्तों में गलतफहमियां",
+      "भावनात्मक भ्रम",
+      "अधिक खर्च और लिप्तता",
+      "बढ़ा हुआ आलस्य"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of emotional reactions",
+        "Avoid impulsive spending",
+        "Maintain balanced eating habits"
+      ],
+      "hi": [
+        "भावनात्मक प्रतिक्रियाओं पर ध्यान दें",
+        "आवेगपूर्ण खर्च से बचें",
+        "संतुलित खान-पान बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Communicate clearly to prevent misunderstandings",
+        "Practice self-discipline in pleasures",
+        "Stay active to counter laziness"
+      ],
+      "hi": [
+        "गलतफहमियों से बचने के लिए स्पष्ट संवाद करें",
+        "मनोरंजन में संयम रखें",
+        "आलस्य को कम करने के लिए सक्रिय रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional lessons learned",
+        "Reassess relationship dynamics",
+        "Regain financial and health balance"
+      ],
+      "hi": [
+        "सीखे गए भावनात्मक सबक पर विचार करें",
+        "रिश्तों की स्थिति पुनः जांचें",
+        "वित्तीय और स्वास्थ्य संतुलन पुनः प्राप्त करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional imbalance",
+      "misunderstandings",
+      "attachments",
+      "relationship tension",
+      "overspending",
+      "indulgence",
+      "poor eating",
+      "laziness"
+    ],
+    "hi": [
+      "भावनात्मक असंतुलन",
+      "गलतफहमियां",
+      "मोह",
+      "रिश्तों में तनाव",
+      "अधिक खर्च",
+      "मनोरंजन",
+      "खान-पान में असंतुलन",
+      "आलस्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "challenging",
+      "tension",
+      "imbalance"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "चुनौतीपूर्ण",
+      "तनाव",
+      "असंतुलन"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional confusion",
+      "relationship strain",
+      "financial caution",
+      "health awareness"
+    ],
+    "hi": [
+      "भावनात्मक भ्रम",
+      "रिश्तों में तनाव",
+      "वित्तीय सतर्कता",
+      "स्वास्थ्य जागरूकता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-squ-moo",
+      "core": "A time of emotional imbalance causing tension in relationships and possible overspending, with increased laziness.",
+      "tone": "Warm, neutral, cautious"
+    },
+    "hi": {
+      "title": "शुक्र वर्ग चंद्र",
+      "core": "भावनात्मक असंतुलन का समय जो रिश्तों में तनाव और अधिक खर्च के साथ आलस्य बढ़ा सकता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional imbalance may cause misunderstandings, attachments, and inappropriate behavior, leading to tension in romantic or marital relationships and increased laziness.",
+        "hi": "भावनाओं के असंतुलन से गलतफहमियां, मोह और अनुचित व्यवहार हो सकते हैं, जिससे प्रेम या शादी के रिश्तों में तनाव और आलस्य बढ़ सकता है।"
+      },
+      "career": {
+        "en": "Emotional confusion may affect work focus and productivity.",
+        "hi": "भावनात्मक भ्रम से कार्य में ध्यान और उत्पादकता प्रभावित हो सकती है।"
+      },
+      "relationships": {
+        "en": "Romantic and marital relationships may experience tension and misunderstandings.",
+        "hi": "प्रेम और शादी के रिश्तों में तनाव और गलतफहमियां हो सकती हैं।"
+      },
+      "money": {
+        "en": "There may be overspending and indulgence in pleasures leading to financial imbalance.",
+        "hi": "अधिक खर्च और मनोरंजन में लिप्तता से वित्तीय असंतुलन हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Poor eating habits and increased laziness may affect health.",
+        "hi": "खान-पान में असंतुलन और बढ़ा हुआ आलस्य स्वास्थ्य को प्रभावित कर सकता है।"
+      }
+    },
+    "aliases": [
+      "Venus square Moon",
+      "Ven SQR Moo",
+      "Venus-Square-Moon",
+      "Venus Square to Moon"
+    ]
+  }
+}

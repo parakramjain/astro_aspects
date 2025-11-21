@@ -1,0 +1,235 @@
+{
+  "id": "SAT_CON_SUN__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Conjunction",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect enhances responsibility, discipline, and stability, bringing seriousness and maturity to work. If unfavorable, it may cause depression and despair.",
+    "hi": "यह योग व्यक्ति की जिम्मेदारी, अनुशासन और स्थिरता की भावना बढ़ाता है, और काम में गंभीरता तथा परिपक्वता लाता है। यदि समय प्रतिकूल हो तो यह अवसाद और निराशा उत्पन्न कर सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Increases seriousness and maturity in work, promoting discipline and responsibility.",
+      "hi": "काम में गंभीरता और परिपक्वता बढ़ती है, अनुशासन और जिम्मेदारी प्रबल होती है।"
+    },
+    "relationships": {
+      "en": "May bring a more serious and responsible approach to relationships.",
+      "hi": "संबंधों में अधिक गंभीरता और जिम्मेदारी का भाव आ सकता है।"
+    },
+    "money": {
+      "en": "Encourages stable and disciplined financial management.",
+      "hi": "वित्तीय मामलों में स्थिरता और अनुशासन को बढ़ावा देता है।"
+    },
+    "health_adj": {
+      "en": "Potential risk of depression if the period is unfavorable; emotional stability is important.",
+      "hi": "यदि समय प्रतिकूल हो तो अवसाद का खतरा हो सकता है; भावनात्मक स्थिरता आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Increased responsibility",
+      "Work maturity",
+      "Emotional challenges"
+    ],
+    "hi": [
+      "जिम्मेदारी में वृद्धि",
+      "काम में परिपक्वता",
+      "भावनात्मक चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Possible depression and despair if timing is unfavorable."
+    ],
+    "hi": [
+      "यदि समय प्रतिकूल हो तो अवसाद और निराशा हो सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on developing discipline and responsibility.",
+        "Approach work with seriousness and maturity."
+      ],
+      "hi": [
+        "अनुशासन और जिम्मेदारी विकसित करने पर ध्यान दें।",
+        "काम में गंभीरता और परिपक्वता से कार्य करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Maintain emotional balance to avoid despair.",
+        "Use this time to solidify stability in personal and professional life."
+      ],
+      "hi": [
+        "निराशा से बचने के लिए भावनात्मक संतुलन बनाए रखें।",
+        "व्यक्तिगत और पेशेवर जीवन में स्थिरता मजबूत करने का समय है।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons learned about responsibility and discipline.",
+        "Gradually release any feelings of depression or despair."
+      ],
+      "hi": [
+        "जिम्मेदारी और अनुशासन के बारे में सीखे गए पाठों पर विचार करें।",
+        "अवसाद या निराशा की भावनाओं को धीरे-धीरे छोड़ें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "responsibility",
+      "discipline",
+      "stability",
+      "seriousness",
+      "maturity",
+      "depression",
+      "despair"
+    ],
+    "hi": [
+      "जिम्मेदारी",
+      "अनुशासन",
+      "स्थिरता",
+      "गंभीरता",
+      "परिपक्वता",
+      "अवसाद",
+      "निराशा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "serious",
+      "mature",
+      "stable",
+      "responsible",
+      "disciplined"
+    ],
+    "hi": [
+      "गंभीर",
+      "परिपक्व",
+      "स्थिर",
+      "जिम्मेदार",
+      "अनुशासित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "work discipline",
+      "emotional challenge",
+      "personal growth"
+    ],
+    "hi": [
+      "काम में अनुशासन",
+      "भावनात्मक चुनौती",
+      "व्यक्तिगत विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-con-sun",
+      "core": "This aspect enhances responsibility, discipline, and maturity, but may bring emotional challenges if unfavorable.",
+      "tone": "Warm, neutral, and reflective"
+    },
+    "hi": {
+      "title": "शनि संयोजन सूर्य",
+      "core": "यह योग जिम्मेदारी, अनुशासन और परिपक्वता बढ़ाता है, पर यदि समय प्रतिकूल हो तो भावनात्मक चुनौतियाँ ला सकता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Enhances responsibility, discipline, and stability; brings seriousness and maturity; may cause depression if unfavorable.",
+        "hi": "जिम्मेदारी, अनुशासन और स्थिरता बढ़ाता है; गंभीरता और परिपक्वता लाता है; यदि प्रतिकूल हो तो अवसाद हो सकता है।"
+      },
+      "career": {
+        "en": "Increases seriousness and maturity in work, promoting discipline and responsibility.",
+        "hi": "काम में गंभीरता और परिपक्वता बढ़ती है, अनुशासन और जिम्मेदारी प्रबल होती है।"
+      },
+      "relationships": {
+        "en": "May bring a more serious and responsible approach to relationships.",
+        "hi": "संबंधों में अधिक गंभीरता और जिम्मेदारी का भाव आ सकता है।"
+      },
+      "money": {
+        "en": "Encourages stable and disciplined financial management.",
+        "hi": "वित्तीय मामलों में स्थिरता और अनुशासन को बढ़ावा देता है।"
+      },
+      "health_adj": {
+        "en": "Potential risk of depression if the period is unfavorable; emotional stability is important.",
+        "hi": "यदि समय प्रतिकूल हो तो अवसाद का खतरा हो सकता है; भावनात्मक स्थिरता आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Saturn conjunction Sun",
+      "Sat CON Sun",
+      "Saturn-Conjunction-Sun",
+      "Saturn Conjunction to Sun"
+    ]
+  }
+}

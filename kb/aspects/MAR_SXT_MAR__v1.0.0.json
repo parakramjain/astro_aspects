@@ -1,0 +1,246 @@
+{
+  "id": "MAR_SEX_MAR__v1.0.0",
+  "pair": [
+    "Mars",
+    "Sextile",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased intellectual power and motivation to implement ideas lead to new agreements for achieving goals, with strengthened intuition and opportunities for life improvement.",
+    "hi": "बौद्धिक शक्ति और कल्पनाओं को क्रियान्वित करने की प्रेरणा बढ़ती है, जिससे उद्देश्यों की प्राप्ति के लिए नए समझौते होते हैं और अंतर्ज्ञान मजबूत होता है। जीवन में सुधार के अवसर मिलते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities arise in automobile, engineering, scientific, and machinery-related fields, often supported by friends or groups.",
+      "hi": "ऑटोमोबाइल, इंजीनियरिंग, वैज्ञानिक और मशीनरी से संबंधित क्षेत्रों में अवसर मिलते हैं, जिनमें मित्र या समूह का सहयोग प्राप्त हो सकता है।"
+    },
+    "relationships": {
+      "en": "Support from friends or groups may be available in professional endeavors.",
+      "hi": "पेशेवर प्रयासों में मित्रों या समूहों का सहयोग मिल सकता है।"
+    },
+    "money": {
+      "en": "Financial and reciprocal transactions occur with benefits coming through fluctuations.",
+      "hi": "आर्थिक और पारस्परिक लेन-देन होते हैं, जिनमें उतार-चढ़ाव से लाभ प्राप्त होता है।"
+    },
+    "health_adj": {
+      "en": "Physical health remains excellent during this period.",
+      "hi": "इस समय शारीरिक स्वास्थ्य उत्तम रहता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New agreements",
+      "Short trips",
+      "Professional opportunities"
+    ],
+    "hi": [
+      "नए समझौते",
+      "छोटी यात्राएं",
+      "पेशेवर अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Benefits may come with fluctuations, implying some instability."
+    ],
+    "hi": [
+      "लाभ उतार-चढ़ाव के साथ आते हैं, जिससे कुछ अस्थिरता हो सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in intellectual work and seek new agreements for goals.",
+        "Implement ideas actively with motivation.",
+        "Leverage intuition for decision-making."
+      ],
+      "hi": [
+        "बौद्धिक कार्यों में संलग्न हों और उद्देश्यों के लिए नए समझौते करें।",
+        "कल्पनाओं को सक्रिय रूप से क्रियान्वित करें।",
+        "निर्णय लेने में अंतर्ज्ञान का उपयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on career opportunities in automobile, engineering, scientific, or machinery fields.",
+        "Seek support from friends or groups for professional growth.",
+        "Prepare for short trips if they arise."
+      ],
+      "hi": [
+        "ऑटोमोबाइल, इंजीनियरिंग, वैज्ञानिक या मशीनरी क्षेत्रों में करियर अवसरों पर ध्यान दें।",
+        "पेशेवर विकास के लिए मित्रों या समूहों से सहयोग प्राप्त करें।",
+        "छोटी यात्राओं के लिए तैयार रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain physical health through regular care.",
+        "Be cautious of financial fluctuations."
+      ],
+      "hi": [
+        "नियमित देखभाल से शारीरिक स्वास्थ्य बनाए रखें।",
+        "आर्थिक उतार-चढ़ाव से सावधान रहें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intellectual power",
+      "motivation",
+      "intuition",
+      "life improvement",
+      "short trips",
+      "professional opportunities",
+      "friend support",
+      "financial transactions",
+      "fluctuations"
+    ],
+    "hi": [
+      "बौद्धिक शक्ति",
+      "प्रेरणा",
+      "अंतर्ज्ञान",
+      "जीवन सुधार",
+      "छोटी यात्राएं",
+      "पेशेवर अवसर",
+      "मित्र सहयोग",
+      "आर्थिक लेन-देन",
+      "उतार-चढ़ाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "motivated",
+      "supportive",
+      "opportunistic",
+      "dynamic",
+      "healthy"
+    ],
+    "hi": [
+      "प्रेरित",
+      "सहायक",
+      "अवसरवादी",
+      "गतिशील",
+      "स्वस्थ"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "intellectual growth",
+      "career advancement",
+      "social support",
+      "financial activity",
+      "health stability"
+    ],
+    "hi": [
+      "बौद्धिक विकास",
+      "करियर उन्नति",
+      "सामाजिक सहयोग",
+      "आर्थिक गतिविधि",
+      "स्वास्थ्य स्थिरता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-sxt-mar",
+      "core": "This aspect enhances intellectual power and motivation, leading to new agreements and opportunities for growth in career and life.",
+      "tone": "Warm, encouraging, and balanced"
+    },
+    "hi": {
+      "title": "मंगल षष्टक मंगल",
+      "core": "यह योग बौद्धिक शक्ति और प्रेरणा को बढ़ाता है, जिससे नए समझौते और करियर व जीवन में विकास के अवसर मिलते हैं।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और संतुलित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Intellectual work/power increases with new agreements for goal achievement. Feels motivated to implement ideas. Intuition strengthens. Life improvement opportunities arise.",
+        "hi": "बौद्धिक कार्य/शक्ति में वृद्धि/अपने उद्देश्य प्राप्ति के लिए नए समझौते की स्थिति रहती है। व्यक्ति अपनी कल्पनाओं को क्रियान्वित करने के लिए प्रेरित होता है। इस समय व्यक्ति का अंतर्ज्ञान बढ़ता है। जीवन में सुधार के अवसर मिलते हैं।"
+      },
+      "career": {
+        "en": "Professionally, opportunities emerge in automobile/engineering/scientific/machinery fields. May receive friend/group support in these endeavors.",
+        "hi": "पेशेवर स्थिति में ऑटोमोबाइल/इंजीनियरिंग/वैज्ञानिक/मशीनरी से संबंधित व्यवसाय में अवसर मिलते हैं। इन स्थितियों में मित्र/समूह का सहयोग प्राप्त हो सकता है।"
+      },
+      "relationships": {
+        "en": "May receive friend/group support in professional endeavors.",
+        "hi": "पेशेवर प्रयासों में मित्र/समूह का सहयोग प्राप्त हो सकता है।"
+      },
+      "money": {
+        "en": "Financial/reciprocal transactions occur. Benefits come through fluctuations.",
+        "hi": "आर्थिक/पारस्परिक लेन-देन की स्थिति बनती है। उतार-चढ़ाव से लाभ प्राप्त होता है।"
+      },
+      "health_adj": {
+        "en": "Physical health remains excellent.",
+        "hi": "शारीरिक स्वास्थ्य उत्तम रहता है।"
+      }
+    },
+    "aliases": [
+      "Mars sextile Mars",
+      "Mar SEX Mar",
+      "Mars-Sextile-Mars",
+      "Mars Sextile to Mars"
+    ]
+  }
+}

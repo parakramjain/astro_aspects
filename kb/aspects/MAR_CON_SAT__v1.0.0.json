@@ -1,0 +1,255 @@
+{
+  "id": "MAR_CON_SAT__v1.0.0",
+  "pair": [
+    "Mars",
+    "Conjunction",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A challenging period marked by hard work, suppressed anger, and potential conflicts. Discipline and focus can lead to solid, lasting achievements despite difficulties.",
+    "hi": "यह एक कठिन समय है जिसमें कड़ी मेहनत, दबा हुआ क्रोध और संभावित विवाद होते हैं। सावधानी, एकाग्रता और संयम से मजबूत और स्थिर परिणाम प्राप्त हो सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities arise in heavy machinery, engineering, joint ventures, and technical fields. Legal matters may also be involved.",
+      "hi": "भारी मशीनरी, इंजीनियरिंग, संयुक्त उद्यम और तकनीकी क्षेत्रों में अवसर मिलते हैं। कानूनी मामलों में भी संलिप्तता हो सकती है।"
+    },
+    "relationships": {
+      "en": "Tendency toward harsh behavior and conflicts with superiors or authority figures. Overfocus on ambitions may cause neglect of others' views.",
+      "hi": "व्यवहार में कठोरता और उच्च अधिकारियों या प्रभुजनों से विवाद की संभावना रहती है। महत्वाकांक्षाओं पर अत्यधिक ध्यान देने से दूसरों के विचारों की उपेक्षा हो सकती है।"
+    },
+    "money": {
+      "en": "Financial benefits may come from technical or engineering work, but caution is advised due to potential legal or unfavorable circumstances.",
+      "hi": "तकनीकी या इंजीनियरिंग कार्यों से आर्थिक लाभ हो सकते हैं, लेकिन कानूनी या प्रतिकूल परिस्थितियों के कारण सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Stress from hard labor and suppressed emotions may affect well-being; maintaining discipline and caution is important.",
+      "hi": "कड़ी मेहनत और दबे हुए भावनाओं से तनाव हो सकता है; अनुशासन और सावधानी बनाए रखना आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Hard work and responsibilities",
+      "Legal proceedings",
+      "Conflicts with authority",
+      "Ambition-driven challenges"
+    ],
+    "hi": [
+      "कड़ी मेहनत और जिम्मेदारियाँ",
+      "कानूनी प्रक्रियाएँ",
+      "प्राधिकरण से विवाद",
+      "महत्वाकांक्षा से उत्पन्न चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Possibility of imprisonment under unfavorable conditions",
+      "Conflicts with superiors or authorities",
+      "Emotional suppression leading to despair or anger"
+    ],
+    "hi": [
+      "प्रतिकूल परिस्थितियों में जेल जाने की संभावना",
+      "उच्च अधिकारियों या प्राधिकरण से विवाद",
+      "भावनाओं का दबाव जिससे निराशा या क्रोध हो सकता है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Maintain caution and discipline",
+        "Focus methodically on tasks",
+        "Be aware of legal and professional responsibilities"
+      ],
+      "hi": [
+        "सावधानी और संयम बनाए रखें",
+        "कार्य को व्यवस्थित रूप से पूरा करें",
+        "कानूनी और पेशेवर जिम्मेदारियों से अवगत रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise focused hard work",
+        "Avoid harsh behavior towards superiors",
+        "Monitor emotional responses carefully"
+      ],
+      "hi": [
+        "एकाग्र होकर कड़ी मेहनत करें",
+        "उच्च अधिकारियों के प्रति कठोर व्यवहार से बचें",
+        "भावनात्मक प्रतिक्रियाओं पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on ambitions and interpersonal impact",
+        "Reduce harshness in behavior",
+        "Seek balance between work and relationships"
+      ],
+      "hi": [
+        "महत्वाकांक्षाओं और संबंधों के प्रभाव पर विचार करें",
+        "व्यवहार में कठोरता कम करें",
+        "काम और संबंधों के बीच संतुलन बनाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "hard work",
+      "discipline",
+      "suppressed anger",
+      "jealousy",
+      "ambition",
+      "conflict",
+      "legal matters",
+      "engineering",
+      "technical",
+      "responsibility"
+    ],
+    "hi": [
+      "कड़ी मेहनत",
+      "अनुशासन",
+      "दबा हुआ क्रोध",
+      "ईर्ष्या",
+      "महत्वाकांक्षा",
+      "विवाद",
+      "कानूनी मामले",
+      "इंजीनियरिंग",
+      "तकनीकी",
+      "जिम्मेदारी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "responsible",
+      "methodical",
+      "disciplined",
+      "potentially harsh"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "जिम्मेदार",
+      "व्यवस्थित",
+      "अनुशासित",
+      "संभावित कठोर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "hard work and discipline",
+      "emotional suppression",
+      "ambition and conflict",
+      "legal and technical focus"
+    ],
+    "hi": [
+      "कड़ी मेहनत और अनुशासन",
+      "भावनाओं का दबाव",
+      "महत्वाकांक्षा और विवाद",
+      "कानूनी और तकनीकी ध्यान"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-con-sat",
+      "core": "A period of hard work, suppressed emotions, and disciplined effort leading to lasting results amid challenges.",
+      "tone": "Warm, neutral, cautious"
+    },
+    "hi": {
+      "title": "मंगल संयोजन शनि",
+      "core": "कड़ी मेहनत, दबे हुए भावनाओं और अनुशासित प्रयास का समय जो चुनौतियों के बीच स्थायी परिणाम देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Difficult labor, despair, suppressed anger or jealousy prevails. This is a period of hard work and responsibilities. With caution, focus and discipline, one can complete tasks thoroughly and methodically. Such discipline yields solid, lasting results.",
+        "hi": "कठिन परिश्रमए निराशाए दबा हुआ क्रोध या ईर्ष्या की स्थिति रहती है। यह समय कड़ी मेहनत और जिम्मेदारियों का होता है। यदि व्यक्ति सावधानीए एकाग्रता और संयम बनाए रखे तो कार्यों को पूर्णता और व्यवस्थित तरीके से पूरा कर सकता है। इस अनुशासन के कारण कार्यों के परिणाम मजबूत और स्थिर होते हैं।"
+      },
+      "career": {
+        "en": "Professionally, benefits come from heavy machinery/engineering/joint/technical works. May engage in legal proceedings.",
+        "hi": "पेशेवर जीवन में भारी मशीनरी/इंजीनियरिंग/संयुक्त/तकनीकी कार्यों से जुड़े अवसरों से लाभ मिलता है। कानूनी प्रक्रियाओं से जुड़ सकता है।"
+      },
+      "relationships": {
+        "en": "Behavior turns harsh, potentially causing conflicts with superiors. Some become overly focused on ambitions, ignoring others' perspectives.",
+        "hi": "व्यवहार में कठोरता रहती है तथा उच्च अधिकारियों/मालिकों से मतभेद या विवाद हो सकते हैं। कुछ लोग अपनी महत्वाकांक्षाओं पर इतने अधिक केंद्रित हो जाते हैं कि दूसरों के विचारों की उपेक्षा कर देते हैं।"
+      },
+      "money": {
+        "en": "Benefits from technical or engineering work, but caution advised due to possible unfavorable conditions.",
+        "hi": "तकनीकी या इंजीनियरिंग कार्यों से लाभ मिलता है, लेकिन सावधानी आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "Stress and suppressed emotions may affect well-being; discipline and caution are important.",
+        "hi": "तनाव और दबे हुए भावनाएँ स्वास्थ्य को प्रभावित कर सकती हैं; अनुशासन और सावधानी आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Mars conjunction Saturn",
+      "Mar CON Sat",
+      "Mars-Conjunction-Saturn",
+      "Mars Conjunction to Saturn"
+    ]
+  }
+}

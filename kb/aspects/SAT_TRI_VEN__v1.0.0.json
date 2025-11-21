@@ -1,0 +1,231 @@
+{
+  "id": "SAT_TRI_VEN__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Trine",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person develops mature emotional stability and may reconnect with past commitments, fostering deepened trust and stable relationships.",
+    "hi": "व्यक्ति की भावनात्मक स्थिरता में परिपक्वता आती है और वह पुराने संबंधों को पुनः स्थापित कर सकता है, जिससे विश्वास गहरा होता है और संबंध स्थिर बनते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Enhances professional relationships through trust and steady emotional approach.",
+      "hi": "विश्वास और स्थिर भावनात्मक दृष्टिकोण से व्यावसायिक संबंध बेहतर होते हैं।"
+    },
+    "relationships": {
+      "en": "Opportunity to rebuild and strengthen past relationships with emotional maturity.",
+      "hi": "भावनात्मक परिपक्वता के साथ पुराने संबंधों को पुनः स्थापित और मजबूत करने का अवसर।"
+    },
+    "money": {
+      "en": "Financial dealings may benefit from a stable and trustworthy approach.",
+      "hi": "आर्थिक मामलों में स्थिर और विश्वसनीय दृष्टिकोण से लाभ हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Emotional stability may contribute to overall mental well-being.",
+      "hi": "भावनात्मक स्थिरता समग्र मानसिक स्वास्थ्य में सहायक हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Reconnection with past commitments",
+      "Building stable relationships",
+      "Deepening trust"
+    ],
+    "hi": [
+      "पुराने संबंधों का पुनः जुड़ाव",
+      "स्थिर संबंध बनाना",
+      "विश्वास को गहरा करना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid assuming all past commitments will restore smoothly",
+      "Be cautious of over-reliance on emotional stability alone"
+    ],
+    "hi": [
+      "सभी पुराने संबंध सहज रूप से पुनः स्थापित होंगे, ऐसा न मानें",
+      "केवल भावनात्मक स्थिरता पर अत्यधिक निर्भरता से बचें"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on nurturing trust in existing relationships",
+        "Reflect on past commitments for possible reconnection"
+      ],
+      "hi": [
+        "मौजूदा संबंधों में विश्वास बढ़ाने पर ध्यान दें",
+        "पुनः जुड़ाव के लिए पुराने संबंधों पर विचार करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage in honest communication to deepen emotional bonds",
+        "Commit to stability in personal and social interactions"
+      ],
+      "hi": [
+        "भावनात्मक संबंध गहरा करने के लिए ईमानदार संवाद करें",
+        "व्यक्तिगत और सामाजिक संपर्कों में स्थिरता बनाए रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain emotional balance to avoid misunderstandings",
+        "Review commitments realistically to prevent disappointment"
+      ],
+      "hi": [
+        "गलतफहमियों से बचने के लिए भावनात्मक संतुलन बनाए रखें",
+        "निराशा से बचने के लिए संबंधों का यथार्थवादी पुनरावलोकन करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional stability",
+      "trust",
+      "past commitments",
+      "stable relationships",
+      "maturity"
+    ],
+    "hi": [
+      "भावनात्मक स्थिरता",
+      "विश्वास",
+      "पुराने संबंध",
+      "स्थिर संबंध",
+      "परिपक्वता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "mature",
+      "stable",
+      "trustworthy",
+      "reflective"
+    ],
+    "hi": [
+      "परिपक्व",
+      "स्थिर",
+      "विश्वसनीय",
+      "विचारशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional growth",
+      "relationship building",
+      "trust development"
+    ],
+    "hi": [
+      "भावनात्मक विकास",
+      "संबंध निर्माण",
+      "विश्वास का विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-tri-ven",
+      "core": "A period marked by emotional maturity and the potential to reconnect with past relationships, fostering trust and stability.",
+      "tone": "Warm, neutral, encouraging reflection and steady growth."
+    },
+    "hi": {
+      "title": "शनि त्रिकोण शुक्र",
+      "core": "यह समय भावनात्मक परिपक्वता और पुराने संबंधों को पुनः स्थापित करने का अवसर प्रदान करता है, जिससे विश्वास और स्थिरता बढ़ती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, विचारशील और स्थिर विकास को प्रोत्साहित करने वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person develops mature emotional stability and may reconnect with past commitments, fostering deepened trust and stable relationships.",
+        "hi": "व्यक्ति की भावनात्मक स्थिरता में परिपक्वता आती है और वह पुराने संबंधों को पुनः स्थापित कर सकता है, जिससे विश्वास गहरा होता है और संबंध स्थिर बनते हैं।"
+      },
+      "career": {
+        "en": "Enhances professional relationships through trust and steady emotional approach.",
+        "hi": "विश्वास और स्थिर भावनात्मक दृष्टिकोण से व्यावसायिक संबंध बेहतर होते हैं।"
+      },
+      "relationships": {
+        "en": "Opportunity to rebuild and strengthen past relationships with emotional maturity.",
+        "hi": "भावनात्मक परिपक्वता के साथ पुराने संबंधों को पुनः स्थापित और मजबूत करने का अवसर।"
+      },
+      "money": {
+        "en": "Financial dealings may benefit from a stable and trustworthy approach.",
+        "hi": "आर्थिक मामलों में स्थिर और विश्वसनीय दृष्टिकोण से लाभ हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Emotional stability may contribute to overall mental well-being.",
+        "hi": "भावनात्मक स्थिरता समग्र मानसिक स्वास्थ्य में सहायक हो सकती है।"
+      }
+    },
+    "aliases": [
+      "Saturn trine Venus",
+      "Sat TRI Ven",
+      "Saturn-Trine-Venus",
+      "Saturn Trine to Venus"
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "id": "JUP_SEX_JUP__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Sextile",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Expansion and growth occur in intellectual, educational, cultural, religious, and professional areas, fostering success and harmonious relationships.",
+    "hi": "बौद्धिक, शैक्षणिक, सांस्कृतिक, धार्मिक और पेशेवर क्षेत्रों में प्रसार और वृद्धि होती है, जिससे सफलता और मधुर संबंध बनते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities for professional, intellectual, and cultural work agreements; success in philosophy, higher education, and specialized studies; favorable for teachers, speakers, writers, and editors.",
+      "hi": "पेशेवर, बौद्धिक और सांस्कृतिक कार्य संधियाँ प्राप्त होती हैं; तत्वज्ञान, उच्च शिक्षा और विशेष अध्ययन में सफलता; शिक्षक, वक्ता, लेखक और संपादक के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Harmonious and favorable relationships with siblings, friends, and neighbors.",
+      "hi": "भाई-बहन, मित्र और पड़ोसी के साथ मधुर और अनुकूल संबंध।"
+    },
+    "money": {
+      "en": "Good prospects for foreign dealings, conversations, and travel that may support financial or professional growth.",
+      "hi": "विदेशी व्यवहार, वार्तालाप और यात्रा के लिए अनुकूल समय जो आर्थिक या पेशेवर विकास में सहायक हो सकता है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational expansion",
+      "Professional agreements",
+      "Success in institutional/philosophical matters",
+      "Foreign travel and dealings",
+      "Improved social relationships"
+    ],
+    "hi": [
+      "शैक्षणिक विस्तार",
+      "पेशेवर संधियाँ",
+      "संस्थागत/तत्वज्ञान संबंधी सफलता",
+      "विदेशी यात्रा और व्यवहार",
+      "सामाजिक संबंधों में सुधार"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balance in professional and social engagements."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; पेशेवर और सामाजिक संबंधों में संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Pursue intellectual and cultural projects",
+        "Engage in professional agreements",
+        "Foster relationships with siblings and friends",
+        "Plan foreign travel or communications"
+      ],
+      "hi": [
+        "बौद्धिक और सांस्कृतिक परियोजनाओं को आगे बढ़ाएं",
+        "पेशेवर संधियों में भाग लें",
+        "भाई-बहन और मित्रों के साथ संबंध मजबूत करें",
+        "विदेशी यात्रा या संवाद की योजना बनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on institutional/philosophical success",
+        "Support teachers, speakers, writers, and editors",
+        "Enhance cultural and educational activities"
+      ],
+      "hi": [
+        "संस्थागत/तत्वज्ञान संबंधी सफलता पर ध्यान दें",
+        "शिक्षक, वक्ता, लेखक और संपादकों का समर्थन करें",
+        "सांस्कृतिक और शैक्षणिक गतिविधियों को बढ़ावा दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain harmony in social relationships",
+        "Continue professional and intellectual growth efforts"
+      ],
+      "hi": [
+        "सामाजिक संबंधों में सद्भाव बनाए रखें",
+        "पेशेवर और बौद्धिक विकास जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intellectual expansion",
+      "professional growth",
+      "cultural success",
+      "education",
+      "philosophy",
+      "foreign dealings",
+      "harmonious relationships"
+    ],
+    "hi": [
+      "बौद्धिक विस्तार",
+      "पेशेवर विकास",
+      "सांस्कृतिक सफलता",
+      "शिक्षा",
+      "तत्वज्ञान",
+      "विदेशी व्यवहार",
+      "मधुर संबंध"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "expansive",
+      "harmonious",
+      "favorable",
+      "supportive"
+    ],
+    "hi": [
+      "विस्तारशील",
+      "सद्भावपूर्ण",
+      "अनुकूल",
+      "सहायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "education",
+      "professional success",
+      "cultural growth",
+      "social harmony",
+      "foreign interaction"
+    ],
+    "hi": [
+      "शिक्षा",
+      "पेशेवर सफलता",
+      "सांस्कृतिक विकास",
+      "सामाजिक सद्भाव",
+      "विदेशी संपर्क"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-sxt-jup",
+      "core": "This aspect indicates expansion and growth in intellectual, educational, cultural, religious, and professional areas, supporting success and harmonious relationships.",
+      "tone": "Warm, positive, and encouraging"
+    },
+    "hi": {
+      "title": "बृहस्पति षट्कोण बृहस्पति",
+      "core": "यह योग बौद्धिक, शैक्षणिक, सांस्कृतिक, धार्मिक और पेशेवर क्षेत्रों में विस्तार और वृद्धि दर्शाता है, जो सफलता और मधुर संबंधों का समर्थन करता है।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Intellectual, educational, cultural, religious, and professional expansion with harmonious relationships and success.",
+        "hi": "बौद्धिक, शैक्षणिक, सांस्कृतिक, धार्मिक और पेशेवर विस्तार के साथ मधुर संबंध और सफलता।"
+      },
+      "career": {
+        "en": "Professional and intellectual work agreements; success in philosophy, higher education, and special studies; favorable for educators and communicators.",
+        "hi": "पेशेवर और बौद्धिक कार्य संधियाँ; तत्वज्ञान, उच्च शिक्षा और विशेष अध्ययन में सफलता; शिक्षक और वक्ताओं के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Harmonious relationships with siblings, friends, and neighbors.",
+        "hi": "भाई-बहन, मित्र और पड़ोसी के साथ मधुर संबंध।"
+      },
+      "money": {
+        "en": "Favorable conditions for foreign dealings, conversations, and travel supporting growth.",
+        "hi": "विदेशी व्यवहार, वार्तालाप और यात्रा के लिए अनुकूल परिस्थितियाँ जो विकास में सहायक हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "कोई विशेष स्वास्थ्य सुझाव नहीं।"
+      }
+    },
+    "aliases": [
+      "Jupiter sextile Jupiter",
+      "Jup SEX Jup",
+      "Jupiter-Sextile-Jupiter",
+      "Jupiter Sextile to Jupiter"
+    ]
+  }
+}

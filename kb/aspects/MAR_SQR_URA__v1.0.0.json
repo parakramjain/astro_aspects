@@ -1,0 +1,269 @@
+{
+  "id": "MAR_SQR_URA__v1.0.0",
+  "pair": [
+    "Mars",
+    "Square",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Aggressive behavior, anger, and desire for independence can lead to conflicts and breakups in friendships, partnerships, or joint families. There is potential for disputes involving shared assets and legal matters. Personal life may be turbulent with risks to close friends and sudden losses related to explosives, electricity, vehicles, or illegal activities.",
+    "hi": "उग्र व्यवहार, क्रोध और स्वतंत्रता की इच्छा के कारण मित्रता, साझेदारी या संयुक्त परिवार में विवाद और विघटन हो सकते हैं। संयुक्त संपत्ति और कानूनी मामलों में विवाद की संभावना रहती है। निजी जीवन में अशांति होती है और निकटतम मित्र के जीवन पर खतरा तथा विस्फोटक, बिजली, वाहन या गैरकानूनी गतिविधियों से अचानक हानि हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Avoid starting new ventures due to potential conflicts and instability.",
+      "hi": "संभावित विवाद और अस्थिरता के कारण नया व्यवसाय प्रारंभ करने से बचें।"
+    },
+    "relationships": {
+      "en": "Tensions and disagreements may cause breakups in friendships, partnerships, or joint families.",
+      "hi": "तनाव और असहमति के कारण मित्रता, साझेदारी या संयुक्त परिवार में टूट-फूट हो सकती है।"
+    },
+    "money": {
+      "en": "Disputes may arise over joint assets, inheritance, loans, taxes, or litigation.",
+      "hi": "संयुक्त संपत्ति, पैतृक संपत्ति, ऋण, कर या विवादों को लेकर विवाद हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Risk of sudden or unexpected harm related to explosives, electricity, automobiles, illegal activities, or fluctuations.",
+      "hi": "विस्फोटक, बिजली, ऑटोमोबाइल, गैरकानूनी कार्य या उतार-चढ़ाव से अचानक या अप्रत्याशित हानि का खतरा।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Friendship or partnership breakups",
+      "Legal disputes",
+      "Sudden losses or deception",
+      "Personal life turbulence"
+    ],
+    "hi": [
+      "मित्रता या साझेदारी का विघटन",
+      "कानूनी विवाद",
+      "अचानक हानि या धोखा",
+      "निजी जीवन में अशांति"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential danger to close friends' lives",
+      "Conflicts involving joint assets and inheritance",
+      "Sudden losses from explosives, electricity, vehicles, or illegal activities",
+      "Avoid initiating new ventures"
+    ],
+    "hi": [
+      "निकटतम मित्र के जीवन पर खतरा",
+      "संयुक्त संपत्ति और पैतृक संपत्ति से जुड़े विवाद",
+      "विस्फोटक, बिजली, वाहन या गैरकानूनी गतिविधियों से अचानक हानि",
+      "नया व्यवसाय शुरू करने से बचें"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in relationships and partnerships",
+        "Avoid starting new business ventures",
+        "Be vigilant about legal and financial matters"
+      ],
+      "hi": [
+        "रिश्तों और साझेदारी में सावधानी बरतें",
+        "नया व्यवसाय शुरू करने से बचें",
+        "कानूनी और वित्तीय मामलों में सतर्क रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid conflicts and arguments",
+        "Protect joint assets and inheritance",
+        "Stay alert to sudden risks related to explosives, electricity, and vehicles"
+      ],
+      "hi": [
+        "विवाद और बहस से बचें",
+        "संयुक्त संपत्ति और पैतृक संपत्ति की सुरक्षा करें",
+        "विस्फोटक, बिजली और वाहनों से जुड़े अचानक जोखिमों के प्रति सतर्क रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Tensions may ease but remain cautious about relationships",
+        "Review legal and financial agreements carefully",
+        "Monitor personal and close friends' safety"
+      ],
+      "hi": [
+        "तनाव कम हो सकता है लेकिन रिश्तों में सावधानी रखें",
+        "कानूनी और वित्तीय समझौतों की सावधानीपूर्वक समीक्षा करें",
+        "निजी और निकटतम मित्रों की सुरक्षा पर ध्यान दें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Aggression",
+      "Anger",
+      "Independence",
+      "Conflict",
+      "Breakup",
+      "Dispute",
+      "Joint assets",
+      "Inheritance",
+      "Legal issues",
+      "Sudden loss",
+      "Deception",
+      "Danger",
+      "Explosives",
+      "Electricity",
+      "Automobiles",
+      "Illegal activities"
+    ],
+    "hi": [
+      "उग्रता",
+      "क्रोध",
+      "स्वतंत्रता",
+      "विवाद",
+      "विघटन",
+      "झगड़ा",
+      "संयुक्त संपत्ति",
+      "पैतृक संपत्ति",
+      "कानूनी मुद्दे",
+      "अचानक हानि",
+      "धोखा",
+      "खतरा",
+      "विस्फोटक",
+      "बिजली",
+      "वाहन",
+      "गैरकानूनी गतिविधियाँ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Aggressive",
+      "Conflict-prone",
+      "Unstable",
+      "Risky"
+    ],
+    "hi": [
+      "उग्र",
+      "विवादास्पद",
+      "अस्थिर",
+      "जोखिमपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Turbulence",
+      "Danger",
+      "Conflict",
+      "Loss",
+      "Legal disputes"
+    ],
+    "hi": [
+      "अशांति",
+      "खतरा",
+      "विवाद",
+      "हानि",
+      "कानूनी विवाद"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-squ-ura",
+      "core": "Aggressive tendencies and desire for independence may cause conflicts and sudden losses affecting relationships and personal life.",
+      "tone": "Neutral, cautionary, and informative"
+    },
+    "hi": {
+      "title": "मंगल वर्ग यूरेनस",
+      "core": "उग्र प्रवृत्ति और स्वतंत्रता की इच्छा से विवाद और अचानक हानि हो सकती है जो रिश्तों और निजी जीवन को प्रभावित करती है।",
+      "tone": "निष्पक्ष, सावधानीपूर्ण, और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Aggressive behavior, anger, desire for independence leading to conflicts and breakups in friendships, partnerships, or joint families with risks of sudden losses.",
+        "hi": "उग्र व्यवहार, क्रोध, स्वतंत्रता की इच्छा से मित्रता, साझेदारी या संयुक्त परिवार में विवाद और विघटन तथा अचानक हानि का खतरा।"
+      },
+      "career": {
+        "en": "Avoid new ventures due to potential conflicts and instability.",
+        "hi": "संभावित विवाद और अस्थिरता के कारण नया व्यवसाय शुरू करने से बचें।"
+      },
+      "relationships": {
+        "en": "Disagreements and conflicts may cause breakups in friendships, partnerships, or joint families.",
+        "hi": "असहमति और विवाद से मित्रता, साझेदारी या संयुक्त परिवार में टूट-फूट हो सकती है।"
+      },
+      "money": {
+        "en": "Disputes may involve joint assets, inheritance, loans, taxes, or litigation.",
+        "hi": "विवाद संयुक्त संपत्ति, पैतृक संपत्ति, ऋण, कर या कानूनी मामलों को लेकर हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Risk of sudden harm from explosives, electricity, automobiles, illegal activities, or fluctuations.",
+        "hi": "विस्फोटक, बिजली, वाहन, गैरकानूनी कार्य या उतार-चढ़ाव से अचानक हानि का खतरा।"
+      }
+    },
+    "aliases": [
+      "Mars square Uranus",
+      "Mar SQR Ura",
+      "Mars-Square-Uranus",
+      "Mars Square to Uranus"
+    ]
+  }
+}

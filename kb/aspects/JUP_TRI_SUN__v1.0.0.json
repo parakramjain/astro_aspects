@@ -1,0 +1,249 @@
+{
+  "id": "JUP_TRI_SUN__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Trine",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A generous and friendly outlook brings support and recognition from cultural, religious, and educational institutions, enhancing intuition and insight. This period offers favorable opportunities for progress in education, business, and relationships, along with protection in difficult times.",
+    "hi": "उदार और मित्रवत दृष्टिकोण से सांस्कृतिक, धार्मिक और शैक्षिक संस्थाओं से सहयोग और मान्यता मिलती है, जिससे अंतर्ज्ञान और ज्ञान दृष्टि बढ़ती है। यह समय शिक्षा, व्यवसाय और संबंधों में प्रगति के लिए अनुकूल अवसर प्रदान करता है तथा कठिनाइयों में सुरक्षा भी मिलती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities for significant progress in higher education and business arise, supported by institutions and enhanced insight.",
+      "hi": "उच्च शिक्षा और व्यवसाय में महत्वपूर्ण प्रगति के अवसर प्राप्त होते हैं, जो संस्थाओं के सहयोग और बढ़े हुए ज्ञान से समर्थित होते हैं।"
+    },
+    "relationships": {
+      "en": "Favorable chances emerge in social, business, and emotional relationships, promoting mutual support and growth.",
+      "hi": "सामाजिक, व्यावसायिक और भावनात्मक संबंधों में अनुकूल अवसर प्राप्त होते हैं, जो पारस्परिक सहयोग और विकास को बढ़ावा देते हैं।"
+    },
+    "money": {
+      "en": "Benefits and recognition from cultural and educational institutions may provide financial advantages; past good deeds yield rewards.",
+      "hi": "सांस्कृतिक और शैक्षिक संस्थाओं से लाभ और मान्यता आर्थिक लाभ प्रदान कर सकती है; पूर्व किए शुभ कार्यों का फल मिलता है।"
+    },
+    "health_adj": {
+      "en": "Increased intuition and self-knowledge support mental well-being; protection is available during adverse conditions.",
+      "hi": "बढ़ा हुआ अंतर्ज्ञान और आत्मज्ञान मानसिक स्वास्थ्य को सहारा देते हैं; विपरीत परिस्थितियों में सुरक्षा मिलती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational advancement",
+      "Business progress",
+      "Cultural or religious recognition",
+      "Long-distance or foreign travel for learning"
+    ],
+    "hi": [
+      "शैक्षिक उन्नति",
+      "व्यवसाय में प्रगति",
+      "सांस्कृतिक या धार्मिक मान्यता",
+      "शिक्षा के लिए लंबी या विदेश यात्रा"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No significant risks indicated; maintain openness to opportunities."
+    ],
+    "hi": [
+      "कोई विशेष जोखिम नहीं; अवसरों के प्रति खुले रहें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek support from cultural, religious, or educational institutions.",
+        "Engage in learning and self-reflection to enhance insight.",
+        "Explore opportunities in education and business."
+      ],
+      "hi": [
+        "सांस्कृतिक, धार्मिक या शैक्षिक संस्थाओं से सहयोग प्राप्त करें।",
+        "ज्ञान बढ़ाने के लिए अध्ययन और आत्मचिंतन करें।",
+        "शिक्षा और व्यवसाय में अवसरों की खोज करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Impart religious, literary, or cultural education to children.",
+        "Plan for long-distance or foreign travel for educational experiences."
+      ],
+      "hi": [
+        "बच्चों को धार्मिक, साहित्यिक या सांस्कृतिक शिक्षा दें।",
+        "शैक्षिक अनुभव के लिए लंबी या विदेश यात्रा की योजना बनाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past good deeds and their outcomes.",
+        "Maintain awareness of social and emotional relationship dynamics."
+      ],
+      "hi": [
+        "पूर्व किए शुभ कार्यों और उनके परिणामों पर विचार करें।",
+        "सामाजिक और भावनात्मक संबंधों की स्थिति पर ध्यान रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "generosity",
+      "support",
+      "intuition",
+      "education",
+      "business",
+      "recognition",
+      "travel",
+      "culture",
+      "protection",
+      "progress"
+    ],
+    "hi": [
+      "उदारता",
+      "सहयोग",
+      "अंतर्ज्ञान",
+      "शिक्षा",
+      "व्यवसाय",
+      "मान्यता",
+      "यात्रा",
+      "संस्कृति",
+      "सुरक्षा",
+      "प्रगति"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "friendly",
+      "reciprocal",
+      "insightful",
+      "opportunistic",
+      "protective"
+    ],
+    "hi": [
+      "मित्रवत",
+      "पारस्परिक",
+      "ज्ञानवर्धक",
+      "अवसरवादी",
+      "सुरक्षात्मक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "cultural growth",
+      "educational progress",
+      "spiritual insight",
+      "social harmony",
+      "foreign influence"
+    ],
+    "hi": [
+      "सांस्कृतिक विकास",
+      "शैक्षिक प्रगति",
+      "आध्यात्मिक ज्ञान",
+      "सामाजिक सद्भाव",
+      "विदेशी प्रभाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-tri-sun",
+      "core": "A period marked by generosity, support from institutions, enhanced intuition, and favorable opportunities in education, business, and relationships.",
+      "tone": "Warm, encouraging, and balanced"
+    },
+    "hi": {
+      "title": "बृहस्पति त्रिकोण सूर्य",
+      "core": "उदारता, संस्थागत सहयोग, बढ़ा हुआ अंतर्ज्ञान, और शिक्षा, व्यवसाय व संबंधों में अनुकूल अवसरों से युक्त अवधि।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और संतुलित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A generous and friendly outlook brings support and recognition from cultural, religious, and educational institutions, enhancing intuition and insight. This period offers favorable opportunities for progress in education, business, and relationships, along with protection in difficult times.",
+        "hi": "उदार और मित्रवत दृष्टिकोण से सांस्कृतिक, धार्मिक और शैक्षिक संस्थाओं से सहयोग और मान्यता मिलती है, जिससे अंतर्ज्ञान और ज्ञान दृष्टि बढ़ती है। यह समय शिक्षा, व्यवसाय और संबंधों में प्रगति के लिए अनुकूल अवसर प्रदान करता है तथा कठिनाइयों में सुरक्षा भी मिलती है।"
+      },
+      "career": {
+        "en": "Opportunities for significant progress in higher education and business arise, supported by institutions and enhanced insight.",
+        "hi": "उच्च शिक्षा और व्यवसाय में महत्वपूर्ण प्रगति के अवसर प्राप्त होते हैं, जो संस्थाओं के सहयोग और बढ़े हुए ज्ञान से समर्थित होते हैं।"
+      },
+      "relationships": {
+        "en": "Favorable chances emerge in social, business, and emotional relationships, promoting mutual support and growth.",
+        "hi": "सामाजिक, व्यावसायिक और भावनात्मक संबंधों में अनुकूल अवसर प्राप्त होते हैं, जो पारस्परिक सहयोग और विकास को बढ़ावा देते हैं।"
+      },
+      "money": {
+        "en": "Benefits and recognition from cultural and educational institutions may provide financial advantages; past good deeds yield rewards.",
+        "hi": "सांस्कृतिक और शैक्षिक संस्थाओं से लाभ और मान्यता आर्थिक लाभ प्रदान कर सकती है; पूर्व किए शुभ कार्यों का फल मिलता है।"
+      },
+      "health_adj": {
+        "en": "Increased intuition and self-knowledge support mental well-being; protection is available during adverse conditions.",
+        "hi": "बढ़ा हुआ अंतर्ज्ञान और आत्मज्ञान मानसिक स्वास्थ्य को सहारा देते हैं; विपरीत परिस्थितियों में सुरक्षा मिलती है।"
+      }
+    },
+    "aliases": [
+      "Jupiter trine Sun",
+      "Jup TRI Sun",
+      "Jupiter-Trine-Sun",
+      "Jupiter Trine to Sun"
+    ]
+  }
+}

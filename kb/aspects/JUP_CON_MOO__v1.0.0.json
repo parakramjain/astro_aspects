@@ -1,0 +1,231 @@
+{
+  "id": "JUP_CON_MOO__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Conjunction",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Opportunities for religious, educational, or cultural activities arise within the home or family environment. There may be visits from friends or relatives from distant places, or the person may return home from afar.",
+    "hi": "घर या परिवार के वातावरण में धार्मिक, शैक्षिक या सांस्कृतिक गतिविधियों के अवसर उत्पन्न होते हैं। दूर से मित्र या परिजन मिलने आ सकते हैं, या व्यक्ति दूर से घर लौट सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Potential for involvement in educational or cultural pursuits related to home or family settings.",
+      "hi": "घर या परिवार से संबंधित शैक्षिक या सांस्कृतिक कार्यों में संलग्न होने की संभावना।"
+    },
+    "relationships": {
+      "en": "Visits and reunions with friends or relatives from distant places strengthen family bonds.",
+      "hi": "दूर के मित्रों या परिजनों के आगमन से पारिवारिक संबंध मजबूत होते हैं।"
+    },
+    "money": {
+      "en": "No specific financial implications indicated.",
+      "hi": "कोई विशेष वित्तीय संकेत नहीं।"
+    },
+    "health_adj": {
+      "en": "No particular health adjustments noted.",
+      "hi": "कोई विशेष स्वास्थ्य समायोजन नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Religious or cultural events at home",
+      "Visits from distant friends or relatives",
+      "Returning home from afar"
+    ],
+    "hi": [
+      "घर में धार्मिक या सांस्कृतिक आयोजन",
+      "दूर के मित्र या परिजन का आगमन",
+      "दूर से घर लौटना"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in family or cultural activities",
+        "Welcome visitors from afar",
+        "Prepare for possible travel home"
+      ],
+      "hi": [
+        "परिवार या सांस्कृतिक गतिविधियों में भाग लें",
+        "दूर से आने वाले आगंतुकों का स्वागत करें",
+        "संभव यात्रा के लिए तैयारी करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on home-based religious or educational events",
+        "Connect with distant friends or relatives"
+      ],
+      "hi": [
+        "घर आधारित धार्मिक या शैक्षिक कार्यक्रमों पर ध्यान दें",
+        "दूर के मित्रों या परिजनों से संपर्क करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain family harmony during visits",
+        "Balance personal and social commitments"
+      ],
+      "hi": [
+        "मिलन के दौरान पारिवारिक सद्भाव बनाए रखें",
+        "व्यक्तिगत और सामाजिक जिम्मेदारियों का संतुलन रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "home",
+      "family",
+      "religious activities",
+      "educational activities",
+      "cultural activities",
+      "visits",
+      "returning home"
+    ],
+    "hi": [
+      "घर",
+      "परिवार",
+      "धार्मिक गतिविधियाँ",
+      "शैक्षिक गतिविधियाँ",
+      "सांस्कृतिक गतिविधियाँ",
+      "मिलन",
+      "घर लौटना"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "opportunity",
+      "connection",
+      "cultural",
+      "family"
+    ],
+    "hi": [
+      "अवसर",
+      "संपर्क",
+      "सांस्कृतिक",
+      "परिवार"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Home and family",
+      "Cultural and religious engagement",
+      "Travel and visitation"
+    ],
+    "hi": [
+      "घर और परिवार",
+      "सांस्कृतिक और धार्मिक सहभागिता",
+      "यात्रा और मिलन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-con-moo",
+      "core": "Opportunities for religious, educational, and cultural activities at home; visits from distant friends or relatives; returning home from afar.",
+      "tone": "Warm, inviting, and hopeful"
+    },
+    "hi": {
+      "title": "बृहस्पति संयोजन चंद्र",
+      "core": "घर में धार्मिक, शैक्षिक और सांस्कृतिक गतिविधियों के अवसर; दूर के मित्र या परिजन का आगमन; दूर से घर लौटना।",
+      "tone": "स्नेहपूर्ण, स्वागतयोग्य, और आशापूर्ण"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Opportunities for religious/educational/cultural activities exist at home/family/residence. Friends/relatives will visit from afar, or the person will return home from afar.",
+        "hi": "घर/परिवार/निवास स्थान में धार्मिक/शैक्षिक/सांस्कृतिक गतिविधियों के अवसर रहते हैं। दूरस्थता से मित्र परिजन आकर मिलेंगे या व्यक्ति दूर से घर को आएगा।"
+      },
+      "career": {
+        "en": "Potential for involvement in educational or cultural pursuits related to home or family settings.",
+        "hi": "घर या परिवार से संबंधित शैक्षिक या सांस्कृतिक कार्यों में संलग्न होने की संभावना।"
+      },
+      "relationships": {
+        "en": "Visits and reunions with friends or relatives from distant places strengthen family bonds.",
+        "hi": "दूर के मित्रों या परिजनों के आगमन से पारिवारिक संबंध मजबूत होते हैं।"
+      },
+      "money": {
+        "en": "No specific financial implications indicated.",
+        "hi": "कोई विशेष वित्तीय संकेत नहीं।"
+      },
+      "health_adj": {
+        "en": "No particular health adjustments noted.",
+        "hi": "कोई विशेष स्वास्थ्य समायोजन नहीं।"
+      }
+    },
+    "aliases": [
+      "Jupiter conjunction Moon",
+      "Jup CON Moo",
+      "Jupiter-Conjunction-Moon",
+      "Jupiter Conjunction to Moon"
+    ]
+  }
+}

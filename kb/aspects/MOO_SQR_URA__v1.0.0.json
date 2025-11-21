@@ -1,0 +1,255 @@
+{
+  "id": "MOO_SQR_URA__v1.0.0",
+  "pair": [
+    "Moon",
+    "Square",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates emotional instability, irritability, and unpredictable behavior, causing sudden mood swings and potential conflicts in personal and group relationships. It may bring emotional or financial distance from women or family members and disrupt routine life. Challenges in business, career, investments, or finances are possible. Meditation and spiritual practice can help restore inner peace.",
+    "hi": "यह योग भावनात्मक अस्थिरता, चिड़चिड़ापन और असामान्य व्यवहार दर्शाता है, जिससे अचानक मूड बदलने और व्यक्तिगत तथा समूह संबंधों में टकराव हो सकते हैं। महिलाओं या परिवार के सदस्यों से आर्थिक या भावनात्मक दूरी बन सकती है और नियमित जीवन में बाधा आ सकती है। व्यापार, करियर, निवेश या वित्तीय मामलों में समस्याएं हो सकती हैं। ध्यान और आध्यात्मिक अभ्यास मानसिक शांति लाने में सहायक हो सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Unexpected issues or losses may arise in business, career, or investments, causing disruptions to routine professional life.",
+      "hi": "व्यापार, करियर या निवेश में अप्रत्याशित समस्याएं या नुकसान हो सकते हैं, जिससे नियमित पेशेवर जीवन में बाधा आ सकती है।"
+    },
+    "relationships": {
+      "en": "Sudden mood swings can cause conflicts with family, partners, or groups. Emotional or financial distance from women or family members is possible.",
+      "hi": "अचानक मूड बदलने से परिवार, साथी या समूह में टकराव हो सकते हैं। महिलाओं या परिवार के सदस्यों से आर्थिक या भावनात्मक दूरी बन सकती है।"
+    },
+    "money": {
+      "en": "Financial matters may face unforeseen problems or losses, especially related to investments or banking.",
+      "hi": "वित्तीय मामलों में, विशेष रूप से निवेश या बैंकिंग से जुड़ी अप्रत्याशित समस्याएं या नुकसान हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional instability and irritability may affect mental well-being; meditation and spiritual practices are recommended for inner peace.",
+      "hi": "भावनात्मक अस्थिरता और चिड़चिड़ापन मानसिक स्वास्थ्य को प्रभावित कर सकते हैं; मानसिक शांति के लिए ध्यान और आध्यात्मिक अभ्यास उपयुक्त हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional conflicts",
+      "Unexpected financial issues",
+      "Disruptions in routine life",
+      "Spiritual or meditative opportunities"
+    ],
+    "hi": [
+      "भावनात्मक टकराव",
+      "अप्रत्याशित वित्तीय समस्याएं",
+      "नियमित जीवन में बाधाएं",
+      "आध्यात्मिक या ध्यान संबंधी अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid impulsive decisions at home",
+      "Potential conflicts with family or partners",
+      "Possible financial losses or disruptions",
+      "Emotional instability may cause irritability"
+    ],
+    "hi": [
+      "घर में अचानक फैसले लेने से बचें",
+      "परिवार या साथी से टकराव की संभावना",
+      "वित्तीय नुकसान या बाधाएं हो सकती हैं",
+      "भावनात्मक अस्थिरता से चिड़चिड़ापन हो सकता है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Practice meditation and spiritual exercises",
+        "Maintain calm in family and group settings",
+        "Monitor financial decisions carefully"
+      ],
+      "hi": [
+        "ध्यान और आध्यात्मिक अभ्यास करें",
+        "परिवार और समूह में शांत रहें",
+        "वित्तीय निर्णय सावधानी से लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid major impulsive decisions at home",
+        "Expect sudden mood swings and emotional shifts",
+        "Be cautious with business and investment moves"
+      ],
+      "hi": [
+        "घर में बड़े अचानक फैसले न लें",
+        "अचानक मूड बदलने और भावनात्मक बदलाव की उम्मीद करें",
+        "व्यापार और निवेश में सावधानी बरतें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Emotional stability gradually returns",
+        "Conflicts and disruptions begin to ease",
+        "Financial and career situations stabilize"
+      ],
+      "hi": [
+        "भावनात्मक स्थिरता धीरे-धीरे लौटती है",
+        "टकराव और बाधाएं कम होने लगती हैं",
+        "वित्तीय और करियर की स्थिति स्थिर होती है"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional instability",
+      "irritability",
+      "unpredictability",
+      "conflicts",
+      "sudden mood swings",
+      "financial distance",
+      "disruptions",
+      "meditation",
+      "spiritual practice"
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता",
+      "चिड़चिड़ापन",
+      "असामान्य व्यवहार",
+      "टकराव",
+      "अचानक मूड बदलना",
+      "आर्थिक दूरी",
+      "बाधाएं",
+      "ध्यान",
+      "आध्यात्मिक अभ्यास"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "unstable",
+      "dynamic",
+      "cautious",
+      "reflective"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "गतिशील",
+      "सावधान",
+      "विचारशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional turbulence",
+      "relationship tension",
+      "financial caution",
+      "spiritual calm"
+    ],
+    "hi": [
+      "भावनात्मक उथल-पुथल",
+      "संबंधों में तनाव",
+      "वित्तीय सावधानी",
+      "आध्यात्मिक शांति"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-squ-ura",
+      "core": "Emotional instability and sudden mood changes may cause conflicts and disruptions. Meditation can help restore peace.",
+      "tone": "Warm, neutral, and cautiously optimistic"
+    },
+    "hi": {
+      "title": "चंद्र वर्ग यूरेनस",
+      "core": "भावनात्मक अस्थिरता और अचानक मूड बदलने से टकराव और बाधाएं हो सकती हैं। ध्यान शांति लाने में सहायक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional instability, irritability, unpredictable behavior, sudden mood swings, conflicts, emotional and financial distance, disruptions, meditation and spiritual practice for peace.",
+        "hi": "भावनात्मक अस्थिरता, चिड़चिड़ापन, असामान्य व्यवहार, अचानक मूड बदलना, टकराव, भावनात्मक और आर्थिक दूरी, बाधाएं, शांति के लिए ध्यान और आध्यात्मिक अभ्यास।"
+      },
+      "career": {
+        "en": "Unexpected issues or losses in business, career, investments, disruptions to routine professional life.",
+        "hi": "व्यापार, करियर, निवेश में अप्रत्याशित समस्याएं या नुकसान, नियमित पेशेवर जीवन में बाधाएं।"
+      },
+      "relationships": {
+        "en": "Conflicts with family, partners, groups due to mood swings; emotional or financial distance from women or family members.",
+        "hi": "मूड बदलने से परिवार, साथी, समूह में टकराव; महिलाओं या परिवार से आर्थिक या भावनात्मक दूरी।"
+      },
+      "money": {
+        "en": "Unforeseen financial problems or losses, especially related to investments or banking.",
+        "hi": "वित्तीय समस्याएं या नुकसान, विशेष रूप से निवेश या बैंकिंग से जुड़े।"
+      },
+      "health_adj": {
+        "en": "Emotional instability and irritability affecting mental well-being; meditation and spiritual practices recommended.",
+        "hi": "भावनात्मक अस्थिरता और चिड़चिड़ापन मानसिक स्वास्थ्य को प्रभावित कर सकते हैं; ध्यान और आध्यात्मिक अभ्यास सुझाए जाते हैं।"
+      }
+    },
+    "aliases": [
+      "Moon square Uranus",
+      "Moo SQR Ura",
+      "Moon-Square-Uranus",
+      "Moon Square to Uranus"
+    ]
+  }
+}

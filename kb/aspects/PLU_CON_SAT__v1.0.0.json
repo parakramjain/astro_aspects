@@ -1,0 +1,245 @@
+{
+  "id": "PLU_CON_SAT__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Conjunction",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect signifies increased willpower and self-discipline, marking transitions from old political, professional, or social statuses to new beginnings. It fosters self-improvement in business through planning, enhances scientific and esoteric study abilities, develops insight, and improves government and political connections. Professional responsibilities grow, and elder family members may face crises while new life emerges.",
+    "hi": "यह योग इच्छाशक्ति और आत्म-अनुशासन में वृद्धि दर्शाता है, जो पुराने राजनीतिक, पेशेवर या सामाजिक प्रतिष्ठा संबंधी स्थितियों से नई शुरुआत की ओर परिवर्तन को दर्शाता है। यह योजना द्वारा व्यवसाय में सुधार के अवसर प्रदान करता है, वैज्ञानिक और गूढ़ अध्ययन क्षमताओं को बढ़ाता है, अंतर्दृष्टि विकसित करता है, और शासकीय तथा राजनीतिक संबंधों को सुधारता है। व्यवसायिक जिम्मेदारियाँ बढ़ती हैं और परिवार के बुजुर्गों को संकट का सामना करना पड़ सकता है जबकि नए जीवन का प्रवेश होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Increased professional responsibilities; opportunities for business improvement through planning; enhanced connections in government and politics.",
+      "hi": "व्यवसायिक जिम्मेदारियों में वृद्धि; योजना द्वारा व्यवसाय सुधार के अवसर; शासकीय और राजनीतिक संबंधों का विकास।"
+    },
+    "relationships": {
+      "en": "Potential crises involving elder family members; emergence of new life phases within the family.",
+      "hi": "परिवार के बुजुर्गों के जीवन में संकट की स्थिति; परिवार में नए जीवन का प्रवेश।"
+    },
+    "money": {
+      "en": "Opportunities for self-improvement in business that may positively affect financial matters through careful planning.",
+      "hi": "व्यवसाय में योजना द्वारा सुधार के अवसर जो वित्तीय मामलों पर सकारात्मक प्रभाव डाल सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Possible stress or crisis affecting elder family members; overall increased self-discipline may support health management.",
+      "hi": "परिवार के बुजुर्गों को संकट का सामना करना पड़ सकता है; बढ़ा हुआ आत्म-अनुशासन स्वास्थ्य प्रबंधन में सहायक हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Life transitions",
+      "New beginnings",
+      "Family crises and renewal"
+    ],
+    "hi": [
+      "जीवन में परिवर्तन",
+      "नई शुरुआत",
+      "परिवार में संकट और नवीनीकरण"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Elder family members may face crises.",
+      "Increased professional responsibilities may cause stress."
+    ],
+    "hi": [
+      "परिवार के बुजुर्गों को संकट का सामना करना पड़ सकता है।",
+      "व्यवसायिक जिम्मेदारियों में वृद्धि तनाव उत्पन्न कर सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Use increased willpower to plan and improve business activities.",
+        "Develop scientific and esoteric study skills.",
+        "Strengthen government and political connections."
+      ],
+      "hi": [
+        "बढ़ी हुई इच्छाशक्ति का उपयोग व्यवसाय योजना और सुधार के लिए करें।",
+        "वैज्ञानिक और गूढ़ अध्ययन क्षमताओं का विकास करें।",
+        "शासकीय और राजनीतिक संबंधों को मजबूत करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on managing increased professional responsibilities.",
+        "Support elder family members through potential crises."
+      ],
+      "hi": [
+        "बढ़ी हुई व्यवसायिक जिम्मेदारियों का प्रबंधन करें।",
+        "संभावित संकटों में परिवार के बुजुर्गों का समर्थन करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons from ending old social or professional statuses.",
+        "Prepare for new beginnings and opportunities."
+      ],
+      "hi": [
+        "पुरानी सामाजिक या पेशेवर स्थितियों से मिले अनुभवों पर विचार करें।",
+        "नई शुरुआत और अवसरों के लिए तैयारी करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "willpower",
+      "self-discipline",
+      "life transitions",
+      "business planning",
+      "scientific study",
+      "insight",
+      "government connections",
+      "professional responsibility",
+      "family crisis",
+      "new life"
+    ],
+    "hi": [
+      "इच्छाशक्ति",
+      "आत्म-अनुशासन",
+      "जीवन परिवर्तन",
+      "व्यवसाय योजना",
+      "वैज्ञानिक अध्ययन",
+      "अंतर्दृष्टि",
+      "शासकीय संबंध",
+      "व्यवसायिक जिम्मेदारी",
+      "परिवार संकट",
+      "नया जीवन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "transformative",
+      "disciplined",
+      "insightful",
+      "responsible"
+    ],
+    "hi": [
+      "परिवर्तनकारी",
+      "अनुशासित",
+      "अंतर्दृष्टिपूर्ण",
+      "जिम्मेदार"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "self-improvement",
+      "transition",
+      "planning",
+      "crisis and renewal"
+    ],
+    "hi": [
+      "स्व-सुधार",
+      "परिवर्तन",
+      "योजना",
+      "संकट और नवीनीकरण"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-con-sat",
+      "core": "An aspect of increased willpower and self-discipline leading to life transitions, business improvements, and enhanced insight.",
+      "tone": "Warm, neutral, and professional"
+    },
+    "hi": {
+      "title": "प्लूटो संयोजन शनि",
+      "core": "इच्छाशक्ति और आत्म-अनुशासन में वृद्धि का योग जो जीवन में परिवर्तन, व्यवसाय सुधार और अंतर्दृष्टि को बढ़ावा देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और पेशेवर"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Increased willpower and self-discipline mark transitions from old political, professional, or social statuses to new beginnings, fostering self-improvement and insight.",
+        "hi": "इच्छाशक्ति और आत्म-अनुशासन में वृद्धि पुराने राजनीतिक, पेशेवर या सामाजिक प्रतिष्ठा से नई शुरुआत की ओर परिवर्तन को दर्शाती है, जो स्व-सुधार और अंतर्दृष्टि को बढ़ावा देती है।"
+      },
+      "career": {
+        "en": "Professional responsibilities increase with opportunities for business improvement through planning and enhanced government and political connections.",
+        "hi": "व्यवसायिक जिम्मेदारियाँ बढ़ती हैं, योजना द्वारा व्यवसाय सुधार के अवसर और शासकीय तथा राजनीतिक संबंधों में वृद्धि होती है।"
+      },
+      "relationships": {
+        "en": "Elder family members may face crises while new life phases emerge within the family.",
+        "hi": "परिवार के बुजुर्ग संकट का सामना कर सकते हैं जबकि परिवार में नए जीवन के चरण उभरते हैं।"
+      },
+      "money": {
+        "en": "Business self-improvement opportunities through planning may positively influence financial matters.",
+        "hi": "योजना द्वारा व्यवसाय में सुधार के अवसर वित्तीय मामलों पर सकारात्मक प्रभाव डाल सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Potential crises affecting elder family members; increased self-discipline may aid health management.",
+        "hi": "परिवार के बुजुर्गों को संकट हो सकता है; बढ़ा हुआ आत्म-अनुशासन स्वास्थ्य प्रबंधन में सहायक हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Pluto conjunction Saturn",
+      "Plu CON Sat",
+      "Pluto-Conjunction-Saturn",
+      "Pluto Conjunction to Saturn"
+    ]
+  }
+}

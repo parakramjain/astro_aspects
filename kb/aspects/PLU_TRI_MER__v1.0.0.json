@@ -1,0 +1,241 @@
+{
+  "id": "PLU_TRI_MER__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Trine",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates a time of deep insight, foresight, and effective decision-making, especially beneficial for planning and gaining profound knowledge.",
+    "hi": "यह योग गहरी समझ, दूरदर्शिता और प्रभावी निर्णय लेने का समय दर्शाता है, जो योजना बनाने और गूढ़ ज्ञान प्राप्त करने के लिए अनुकूल होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable period for business, politics, and financial dealings with enhanced planning and insight.",
+      "hi": "व्यवसाय, राजनीति और वित्तीय कार्यों के लिए अनुकूल समय, जिसमें बेहतर योजना और समझ होती है।"
+    },
+    "relationships": {
+      "en": "Shows foresight and wise decision-making in interpersonal matters.",
+      "hi": "व्यक्तिगत संबंधों में दूरदर्शिता और समझदारी से निर्णय लेने का समय।"
+    },
+    "money": {
+      "en": "Supports financial dealings and planning for future gains.",
+      "hi": "वित्तीय लेन-देन और भविष्य की योजना बनाने में सहायक।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus remains on mental clarity and insight.",
+      "hi": "स्वास्थ्य संबंधी विशेष बदलाव नहीं; ध्यान मानसिक स्पष्टता और समझ पर केंद्रित है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Insight and knowledge growth",
+      "Effective decision-making",
+      "Business and financial planning"
+    ],
+    "hi": [
+      "समझ और ज्ञान में वृद्धि",
+      "प्रभावी निर्णय लेना",
+      "व्यवसाय और वित्तीय योजना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balanced judgment."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; संतुलित निर्णय बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in future planning and strategic thinking",
+        "Use deep insight to guide decisions",
+        "Focus on business and financial opportunities"
+      ],
+      "hi": [
+        "भविष्य की योजना और रणनीतिक सोच में लगें",
+        "निर्णयों में गहरी समझ का उपयोग करें",
+        "व्यवसाय और वित्तीय अवसरों पर ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Make important decisions with clarity",
+        "Leverage foresight for critical planning",
+        "Capitalize on favorable conditions in business and finance"
+      ],
+      "hi": [
+        "स्पष्टता के साथ महत्वपूर्ण निर्णय लें",
+        "महत्वपूर्ण योजना के लिए दूरदर्शिता का लाभ उठाएं",
+        "व्यवसाय और वित्त में अनुकूल परिस्थितियों का लाभ उठाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue applying gained insights",
+        "Review decisions made during the peak period",
+        "Maintain focus on long-term goals"
+      ],
+      "hi": [
+        "प्राप्त समझ का निरंतर उपयोग करें",
+        "मुख्य अवधि में लिए गए निर्णयों की समीक्षा करें",
+        "दीर्घकालिक लक्ष्यों पर ध्यान बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "deep insight",
+      "foresight",
+      "effective decisions",
+      "future planning",
+      "business",
+      "politics",
+      "financial dealings"
+    ],
+    "hi": [
+      "गहरी समझ",
+      "दूरदर्शिता",
+      "प्रभावी निर्णय",
+      "भविष्य की योजना",
+      "व्यवसाय",
+      "राजनीति",
+      "वित्तीय कार्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "insightful",
+      "strategic",
+      "favorable",
+      "knowledgeable"
+    ],
+    "hi": [
+      "समझदार",
+      "रणनीतिक",
+      "अनुकूल",
+      "ज्ञानवर्धक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "planning",
+      "decision-making",
+      "growth",
+      "opportunity"
+    ],
+    "hi": [
+      "योजना",
+      "निर्णय लेना",
+      "विकास",
+      "अवसर"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-tri-mer",
+      "core": "A time of deep insight, foresight, and effective decision-making, beneficial for business, politics, and financial planning.",
+      "tone": "Warm, neutral, and encouraging thoughtful planning."
+    },
+    "hi": {
+      "title": "प्लूटो ट्राइन मर्करी",
+      "core": "गहरी समझ, दूरदर्शिता और प्रभावी निर्णय लेने का समय, जो व्यवसाय, राजनीति और वित्तीय योजना के लिए लाभकारी है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और विचारशील योजना के लिए प्रोत्साहित करने वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period brings deep insight, future planning, and profound knowledge. The person shows foresight and makes effective decisions.",
+        "hi": "यह समय गहरी समझए भविष्य की योजना और गूढ़ ज्ञान में वृद्धि लाता है। व्यक्ति के पास दूरदर्शिता होती है और वह उपयोगी निर्णय लेता है।"
+      },
+      "career": {
+        "en": "Favorable for business, politics, and financial dealings.",
+        "hi": "व्यवसायए राजनीतिए या वित्त से जुड़े कार्यों के लिए अनुकूल समय होता है।"
+      },
+      "relationships": {
+        "en": "The person shows foresight and makes effective decisions.",
+        "hi": "व्यक्ति के पास दूरदर्शिता होती है और वह उपयोगी निर्णय लेता है।"
+      },
+      "money": {
+        "en": "Favorable for financial dealings and planning.",
+        "hi": "वित्त से जुड़े कार्यों के लिए अनुकूल समय।"
+      },
+      "health_adj": {
+        "en": "No specific health indications; focus on mental clarity.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं; मानसिक स्पष्टता पर ध्यान।"
+      }
+    },
+    "aliases": [
+      "Pluto trine Mercury",
+      "Plu TRI Mer",
+      "Pluto-Trine-Mercury",
+      "Pluto Trine to Mercury"
+    ]
+  }
+}

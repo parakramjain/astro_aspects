@@ -1,0 +1,257 @@
+{
+  "id": "PLU_TRI_SUN__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Trine",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased self-power, effort, and economic initiatives lead to secured improvements. Opportunities for leadership in business arise, favoring small enterprises, research, and technological development. Spiritual and scientific knowledge expands, with benefits from property and investments. Innovation through old structures is attempted.",
+    "hi": "आत्मशक्ति, प्रयास करने की क्षमता और आर्थिक प्रयासों में वृद्धि होती है, जिससे सुधार सुरक्षित होते हैं। व्यवसाय में नेतृत्व के अवसर मिलते हैं, जो छोटे व्यवसाय, अनुसंधान और तकनीकी विकास के लिए अनुकूल है। आध्यात्मिक और वैज्ञानिक ज्ञान बढ़ता है। संपत्ति और निवेश से लाभ प्राप्त होते हैं। पुरानी व्यवस्थाओं का उपयोग कर नवाचार का प्रयास होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Leadership opportunities in business increase; favorable time for small businesses, research, and developing new technology.",
+      "hi": "व्यवसाय में नेतृत्व के अवसर बढ़ते हैं; छोटे व्यवसाय, अनुसंधान और नई तकनीक विकसित करने के लिए अनुकूल समय।"
+    },
+    "relationships": {
+      "en": "Not explicitly described; focus is on personal power and professional leadership.",
+      "hi": "स्पष्ट रूप से वर्णित नहीं; ध्यान व्यक्तिगत शक्ति और व्यावसायिक नेतृत्व पर है।"
+    },
+    "money": {
+      "en": "Benefits arise from property, shares, government funds, rights, and investments.",
+      "hi": "संपत्ति, शेयर, सरकारी निधि, अधिकार और निवेश से लाभ प्राप्त होते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments mentioned.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन उल्लेखित नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business leadership opportunities",
+      "Small business ventures",
+      "Research and technological development",
+      "Financial gains from investments"
+    ],
+    "hi": [
+      "व्यवसाय में नेतृत्व के अवसर",
+      "छोटे व्यवसाय के प्रयास",
+      "अनुसंधान और तकनीकी विकास",
+      "निवेश से वित्तीय लाभ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain cautious innovation when using old structures."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; पुरानी व्यवस्थाओं का उपयोग करते समय सावधानीपूर्वक नवाचार करें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Increase efforts in business and economic activities",
+        "Explore leadership roles",
+        "Engage in research or technology development",
+        "Utilize existing assets for innovation"
+      ],
+      "hi": [
+        "व्यवसाय और आर्थिक गतिविधियों में प्रयास बढ़ाएं",
+        "नेतृत्व की भूमिकाओं की खोज करें",
+        "अनुसंधान या तकनीकी विकास में संलग्न हों",
+        "नवाचार के लिए मौजूदा संसाधनों का उपयोग करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Capitalize on leadership opportunities",
+        "Focus on small business and research projects",
+        "Benefit from property and investments"
+      ],
+      "hi": [
+        "नेतृत्व के अवसरों का लाभ उठाएं",
+        "छोटे व्यवसाय और अनुसंधान परियोजनाओं पर ध्यान दें",
+        "संपत्ति और निवेश से लाभ प्राप्त करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain gains from leadership and investments",
+        "Continue innovation using established structures"
+      ],
+      "hi": [
+        "नेतृत्व और निवेश से प्राप्त लाभ बनाए रखें",
+        "स्थापित व्यवस्थाओं का उपयोग कर नवाचार जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "self-power",
+      "effort",
+      "economic attempts",
+      "leadership",
+      "small business",
+      "research",
+      "technology development",
+      "spiritual knowledge",
+      "scientific knowledge",
+      "property benefits",
+      "investments",
+      "innovation"
+    ],
+    "hi": [
+      "आत्मशक्ति",
+      "प्रयास",
+      "आर्थिक प्रयास",
+      "नेतृत्व",
+      "छोटा व्यवसाय",
+      "अनुसंधान",
+      "तकनीकी विकास",
+      "आध्यात्मिक ज्ञान",
+      "वैज्ञानिक ज्ञान",
+      "संपत्ति लाभ",
+      "निवेश",
+      "नवाचार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "opportunity",
+      "growth",
+      "leadership",
+      "innovation"
+    ],
+    "hi": [
+      "अनुकूल",
+      "अवसर",
+      "विकास",
+      "नेतृत्व",
+      "नवाचार"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "business leadership",
+      "economic improvement",
+      "spiritual and scientific growth",
+      "investment benefits",
+      "innovation from tradition"
+    ],
+    "hi": [
+      "व्यवसाय नेतृत्व",
+      "आर्थिक सुधार",
+      "आध्यात्मिक और वैज्ञानिक विकास",
+      "निवेश लाभ",
+      "परंपरा से नवाचार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-tri-sun",
+      "core": "A period of increased self-power and secured economic efforts, favoring leadership and innovation in business and knowledge.",
+      "tone": "Warm, encouraging, and optimistic"
+    },
+    "hi": {
+      "title": "प्लूटो ट्राइन सूर्य",
+      "core": "आत्मशक्ति और आर्थिक प्रयासों में वृद्धि का समय, जो व्यवसाय और ज्ञान में नेतृत्व और नवाचार के लिए अनुकूल है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Self-power, effort, and economic attempts increase and improve, securing progress and leadership opportunities.",
+        "hi": "आत्मशक्ति, प्रयास और आर्थिक प्रयास बढ़ते हैं, प्रगति और नेतृत्व के अवसर सुरक्षित होते हैं।"
+      },
+      "career": {
+        "en": "Opportunities arise for leadership in business, favoring small businesses, research, and new technology development.",
+        "hi": "व्यवसाय में नेतृत्व के अवसर मिलते हैं, जो छोटे व्यवसाय, अनुसंधान और नई तकनीक विकास के लिए अनुकूल हैं।"
+      },
+      "relationships": {
+        "en": "Focus is on personal power and leadership; no specific relationship details provided.",
+        "hi": "ध्यान व्यक्तिगत शक्ति और नेतृत्व पर है; संबंधों का कोई विशेष विवरण नहीं।"
+      },
+      "money": {
+        "en": "Benefits come from property, shares, government funds, rights, and investments.",
+        "hi": "संपत्ति, शेयर, सरकारी निधि, अधिकार और निवेश से लाभ प्राप्त होते हैं।"
+      },
+      "health_adj": {
+        "en": "No health adjustments mentioned.",
+        "hi": "स्वास्थ्य संबंधी कोई समायोजन उल्लेखित नहीं।"
+      }
+    },
+    "aliases": [
+      "Pluto trine Sun",
+      "Plu TRI Sun",
+      "Pluto-Trine-Sun",
+      "Pluto Trine to Sun"
+    ]
+  }
+}

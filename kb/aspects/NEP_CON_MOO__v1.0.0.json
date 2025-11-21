@@ -1,0 +1,237 @@
+{
+  "id": "NEP_CON_MOO__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Conjunction",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased memories, imagination, and intuition with possible intellectual and mental disturbances including depression and instability.",
+    "hi": "स्मृतियों, कल्पना शक्ति और बोध शक्ति में वृद्धि होती है, साथ ही बौद्धिक और मानसिक विकृति, अवसाद और अस्थिरता की संभावना रहती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Heightened creativity and intuition may influence work, but mental disturbances could affect focus and decision-making.",
+      "hi": "बढ़ी हुई रचनात्मकता और बोध शक्ति कार्य को प्रभावित कर सकती है, लेकिन मानसिक विकृति ध्यान और निर्णय लेने को प्रभावित कर सकती है।"
+    },
+    "relationships": {
+      "en": "Emotional sensitivity and intuition increase, though mood instability may challenge interactions.",
+      "hi": "भावनात्मक संवेदनशीलता और बोध शक्ति बढ़ती है, लेकिन मूड अस्थिरता संबंधों में चुनौतियाँ ला सकती है।"
+    },
+    "money": {
+      "en": "Imaginative ideas about finances may arise, but mental instability could affect financial judgment.",
+      "hi": "वित्त के बारे में कल्पनाशील विचार उत्पन्न हो सकते हैं, लेकिन मानसिक अस्थिरता वित्तीय निर्णय को प्रभावित कर सकती है।"
+    },
+    "health_adj": {
+      "en": "Risk of mental health issues such as depression and instability; increased need for emotional care.",
+      "hi": "अवसाद और मानसिक अस्थिरता जैसे मानसिक स्वास्थ्य समस्याओं का जोखिम; भावनात्मक देखभाल की आवश्यकता बढ़ती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional and mental growth phases",
+      "Periods of introspection",
+      "Times of creative inspiration"
+    ],
+    "hi": [
+      "भावनात्मक और मानसिक विकास के चरण",
+      "आत्मनिरीक्षण के समय",
+      "रचनात्मक प्रेरणा के क्षण"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Possibility of intellectual confusion",
+      "Mental instability and mood swings",
+      "Risk of depression"
+    ],
+    "hi": [
+      "बौद्धिक भ्रम की संभावना",
+      "मानसिक अस्थिरता और मूड में उतार-चढ़ाव",
+      "अवसाद का जोखिम"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Use increased intuition for creative projects",
+        "Engage in reflective practices to manage mental clarity"
+      ],
+      "hi": [
+        "रचनात्मक परियोजनाओं के लिए बढ़ी हुई बोध शक्ति का उपयोग करें",
+        "मानसिक स्पष्टता बनाए रखने के लिए चिंतनशील अभ्यास करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Monitor mental and emotional state closely",
+        "Avoid stressful situations that may worsen instability"
+      ],
+      "hi": [
+        "मानसिक और भावनात्मक स्थिति पर ध्यान रखें",
+        "अस्थिरता बढ़ा सकने वाली तनावपूर्ण स्थितियों से बचें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons learned during this phase",
+        "Gradually restore mental balance and stability"
+      ],
+      "hi": [
+        "इस चरण में सीखे गए पाठों पर विचार करें",
+        "धीरे-धीरे मानसिक संतुलन और स्थिरता बहाल करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "memories",
+      "imagination",
+      "intuition",
+      "mental disturbances",
+      "depression",
+      "instability"
+    ],
+    "hi": [
+      "स्मृतियाँ",
+      "कल्पना",
+      "बोध शक्ति",
+      "मानसिक विकृति",
+      "अवसाद",
+      "अस्थिरता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intuitive",
+      "imaginative",
+      "sensitive",
+      "unstable",
+      "reflective"
+    ],
+    "hi": [
+      "बोधगम्य",
+      "कल्पनाशील",
+      "संवेदनशील",
+      "अस्थिर",
+      "चिंतनशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental and emotional sensitivity",
+      "creative inspiration",
+      "psychological challenges"
+    ],
+    "hi": [
+      "मानसिक और भावनात्मक संवेदनशीलता",
+      "रचनात्मक प्रेरणा",
+      "मनोवैज्ञानिक चुनौतियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-con-moo",
+      "core": "This aspect enhances memories, imagination, and intuition but may bring intellectual and mental disturbances including depression and instability.",
+      "tone": "Warm, neutral, and cautiously insightful"
+    },
+    "hi": {
+      "title": "नेपच्यून संयोजन चंद्र",
+      "core": "यह योग स्मृतियों, कल्पना और बोध शक्ति को बढ़ाता है, लेकिन बौद्धिक और मानसिक विकृति जैसे अवसाद और अस्थिरता भी ला सकता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Memories, imaginative power, and intuition increase with possible intellectual and mental disturbances including depression and instability.",
+        "hi": "स्मृतियों, कल्पना शक्ति और बोध शक्ति की वृद्धि होती है, साथ ही बौद्धिक और मानसिक विकृति, अवसाद और अस्थिरता की संभावना रहती है।"
+      },
+      "career": {
+        "en": "Heightened creativity and intuition may influence work, but mental disturbances could affect focus and decision-making.",
+        "hi": "बढ़ी हुई रचनात्मकता और बोध शक्ति कार्य को प्रभावित कर सकती है, लेकिन मानसिक विकृति ध्यान और निर्णय लेने को प्रभावित कर सकती है।"
+      },
+      "relationships": {
+        "en": "Emotional sensitivity and intuition increase, though mood instability may challenge interactions.",
+        "hi": "भावनात्मक संवेदनशीलता और बोध शक्ति बढ़ती है, लेकिन मूड अस्थिरता संबंधों में चुनौतियाँ ला सकती है।"
+      },
+      "money": {
+        "en": "Imaginative ideas about finances may arise, but mental instability could affect financial judgment.",
+        "hi": "वित्त के बारे में कल्पनाशील विचार उत्पन्न हो सकते हैं, लेकिन मानसिक अस्थिरता वित्तीय निर्णय को प्रभावित कर सकती है।"
+      },
+      "health_adj": {
+        "en": "Risk of mental health issues such as depression and instability; increased need for emotional care.",
+        "hi": "अवसाद और मानसिक अस्थिरता जैसे मानसिक स्वास्थ्य समस्याओं का जोखिम; भावनात्मक देखभाल की आवश्यकता बढ़ती है।"
+      }
+    },
+    "aliases": [
+      "Neptune conjunction Moon",
+      "Nep CON Moo",
+      "Neptune-Conjunction-Moon",
+      "Neptune Conjunction to Moon"
+    ]
+  }
+}

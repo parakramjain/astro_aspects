@@ -1,0 +1,239 @@
+{
+  "id": "SAT_CON_MOO__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Conjunction",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A state of deep despair, negative outlook, and feelings of inferiority influences the person's mindset and personal activities.",
+    "hi": "गहरी निराशा, नकारात्मक दृष्टिकोण और हीनभावना की स्थिति व्यक्ति की मानसिकता और व्यक्तिगत गतिविधियों को प्रभावित करती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "The person may hold onto old mindsets affecting their work approach and adaptability.",
+      "hi": "व्यक्ति पुरानी मानसिकता के कारण अपने कार्य के तरीके और अनुकूलन क्षमता को प्रभावित कर सकता है।"
+    },
+    "relationships": {
+      "en": "Negative outlook and inferiority feelings may reflect in personal interactions and relationships.",
+      "hi": "नकारात्मक दृष्टिकोण और हीनभावना व्यक्तिगत संबंधों और बातचीत में झलक सकती है।"
+    },
+    "money": {
+      "en": "Conservative or outdated thinking might influence financial decisions and management.",
+      "hi": "संरक्षित या पुरानी सोच वित्तीय निर्णयों और प्रबंधन को प्रभावित कर सकती है।"
+    },
+    "health_adj": {
+      "en": "The digestive system is adversely affected, indicating potential health challenges related to digestion.",
+      "hi": "पाचन तंत्र पर विपरीत प्रभाव होता है, जो पाचन से संबंधित स्वास्थ्य समस्याओं का संकेत देता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Periods of emotional difficulty",
+      "Challenges in personal mindset",
+      "Health-related concerns"
+    ],
+    "hi": [
+      "भावनात्मक कठिनाइयों के समय",
+      "व्यक्तिगत मानसिकता में चुनौतियाँ",
+      "स्वास्थ्य संबंधी चिंताएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Tendency towards despair and negative thinking",
+      "Potential impact on digestive health",
+      "Possibility of feeling inferior affecting confidence"
+    ],
+    "hi": [
+      "निराशा और नकारात्मक सोच की प्रवृत्ति",
+      "पाचन स्वास्थ्य पर संभावित प्रभाव",
+      "हीनभावना से आत्मविश्वास प्रभावित होने की संभावना"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Recognize and gently challenge old or negative thought patterns",
+        "Seek supportive environments to improve mindset",
+        "Monitor digestive health and maintain balanced diet"
+      ],
+      "hi": [
+        "पुरानी या नकारात्मक सोच को पहचानें और धीरे-धीरे चुनौती दें",
+        "मानसिकता सुधारने के लिए सहायक वातावरण खोजें",
+        "पाचन स्वास्थ्य पर ध्यान दें और संतुलित आहार लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on self-awareness regarding feelings of despair",
+        "Avoid reinforcing negative or inferior thoughts",
+        "Pay attention to digestive discomfort and consult if needed"
+      ],
+      "hi": [
+        "निराशा की भावनाओं के प्रति आत्म-जागरूकता बढ़ाएं",
+        "नकारात्मक या हीन भावनाओं को बढ़ावा देने से बचें",
+        "पाचन असुविधा पर ध्यान दें और आवश्यकता हो तो सलाह लें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on progress in mindset improvement",
+        "Notice changes in emotional outlook",
+        "Observe any relief in digestive symptoms"
+      ],
+      "hi": [
+        "मानसिकता सुधार में प्रगति पर विचार करें",
+        "भावनात्मक दृष्टिकोण में बदलाव को देखें",
+        "पाचन लक्षणों में सुधार का निरीक्षण करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "despair",
+      "negative outlook",
+      "inferiority complex",
+      "old mindset",
+      "personal activities",
+      "digestive issues"
+    ],
+    "hi": [
+      "निराशा",
+      "नकारात्मक दृष्टिकोण",
+      "हीनभावना",
+      "पुरानी मानसिकता",
+      "व्यक्तिगत गतिविधियाँ",
+      "पाचन समस्या"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional challenge",
+      "mental rigidity",
+      "health caution"
+    ],
+    "hi": [
+      "भावनात्मक चुनौती",
+      "मानसिक कठोरता",
+      "स्वास्थ्य सावधानी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional difficulty",
+      "mental patterns",
+      "health impact"
+    ],
+    "hi": [
+      "भावनात्मक कठिनाई",
+      "मानसिक पैटर्न",
+      "स्वास्थ्य प्रभाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-con-moo",
+      "core": "A state of deep despair and negative outlook affects mindset and personal life, with possible digestive health issues.",
+      "tone": "Warm, neutral, and reflective"
+    },
+    "hi": {
+      "title": "शनि संयोजन चंद्र",
+      "core": "गहरी निराशा और नकारात्मक दृष्टिकोण मानसिकता और व्यक्तिगत जीवन को प्रभावित करता है, साथ ही पाचन स्वास्थ्य की समस्या हो सकती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "There is a state of deep despair/negative outlook/inferiority complex affecting mindset and personal activities.",
+        "hi": "स्वभाव में गहरी निराशा/नकारात्मक दृष्टिकोण/हीनभावना की स्थिति रहती है जो मानसिकता और व्यक्तिगत गतिविधियों को प्रभावित करती है।"
+      },
+      "career": {
+        "en": "The person thinks in an old mindset reflected in their activities, possibly affecting career adaptability.",
+        "hi": "व्यक्ति पुरानी मानसिकता की तरह सोचता है जो उसकी गतिविधियों में झलकती है, संभवतः करियर में अनुकूलन को प्रभावित करती है।"
+      },
+      "relationships": {
+        "en": "Negative outlook and feelings of inferiority may influence personal relationships.",
+        "hi": "नकारात्मक दृष्टिकोण और हीनभावना व्यक्तिगत संबंधों को प्रभावित कर सकती है।"
+      },
+      "money": {
+        "en": "Old mindset may influence financial behavior and decisions.",
+        "hi": "पुरानी मानसिकता वित्तीय व्यवहार और निर्णयों को प्रभावित कर सकती है।"
+      },
+      "health_adj": {
+        "en": "The digestive system is adversely affected according to the description.",
+        "hi": "पाचन तंत्र पर विपरीत प्रभाव होता है।"
+      }
+    },
+    "aliases": [
+      "Saturn conjunction Moon",
+      "Sat CON Moo",
+      "Saturn-Conjunction-Moon",
+      "Saturn Conjunction to Moon"
+    ]
+  }
+}

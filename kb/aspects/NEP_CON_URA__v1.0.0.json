@@ -1,0 +1,245 @@
+{
+  "id": "NEP_CON_URA__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Conjunction",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Intuition strengthens, bringing sudden inner guidance about goals. Personal thoughts shift abruptly while external social and family situations remain uncontrollable. Connections form with wise and mystical individuals, encouraging exploration of cultural and ancestral roots.",
+    "hi": "अंतर्ज्ञान प्रबल होता है, जिससे लक्ष्य प्राप्ति के लिए अचानक आंतरिक मार्गदर्शन मिलता है। व्यक्तिगत विचारों में अचानक परिवर्तन होता है, जबकि सामाजिक और पारिवारिक स्थितियाँ नियंत्रण से बाहर रहती हैं। बुद्धिमान और रहस्यमय लोगों से संबंध बनते हैं और सांस्कृतिक व वंशानुगत जड़ों की खोज होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable period for artistic and knowledge-based work; opportunities arise to connect with esoteric or secret organizations.",
+      "hi": "कला और ज्ञान से संबंधित कार्यों के लिए उपयुक्त समय; रहस्यमय या गुप्त संस्थाओं से जुड़ने के अवसर मिलते हैं।"
+    },
+    "relationships": {
+      "en": "Friendships develop with wise, mystical, or knowledgeable people; social and family situations may feel beyond personal control.",
+      "hi": "बुद्धिमान, रहस्यमय या ज्ञानी लोगों से मित्रता होती है; सामाजिक और पारिवारिक स्थितियाँ व्यक्ति के नियंत्रण से बाहर हो सकती हैं।"
+    },
+    "money": {
+      "en": "No specific financial indications; focus is more on knowledge and cultural exploration than material gain.",
+      "hi": "वित्तीय मामलों में विशेष संकेत नहीं; ध्यान मुख्यतः ज्ञान और सांस्कृतिक खोज पर रहता है।"
+    },
+    "health_adj": {
+      "en": "No direct health implications mentioned; mental shifts and intuition may be prominent.",
+      "hi": "स्वास्थ्य पर सीधे प्रभाव का उल्लेख नहीं; मानसिक बदलाव और अंतर्ज्ञान प्रमुख हो सकते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Sudden inner guidance",
+      "Abrupt change in personal thoughts",
+      "Forming friendships with mystical individuals",
+      "Exploration of cultural and ancestral roots"
+    ],
+    "hi": [
+      "अचानक आंतरिक मार्गदर्शन",
+      "व्यक्तिगत विचारों में अचानक परिवर्तन",
+      "रहस्यमय व्यक्तियों से मित्रता",
+      "सांस्कृतिक व वंशानुगत जड़ों की खोज"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Political, social, or family situations may feel uncontrollable",
+      "Abrupt changes in thoughts could cause internal unrest"
+    ],
+    "hi": [
+      "राजनीतिक, सामाजिक या पारिवारिक स्थितियाँ नियंत्रण से बाहर हो सकती हैं",
+      "विचारों में अचानक परिवर्तन आंतरिक अशांति पैदा कर सकता है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in artistic or knowledge-related activities",
+        "Seek connections with wise or mystical individuals",
+        "Explore cultural and ancestral heritage"
+      ],
+      "hi": [
+        "कला या ज्ञान से संबंधित कार्यों में संलग्न हों",
+        "बुद्धिमान या रहस्यमय व्यक्तियों से संपर्क करें",
+        "सांस्कृतिक और वंशानुगत विरासत की खोज करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be open to sudden inner guidance regarding goals",
+        "Allow personal thoughts to evolve naturally"
+      ],
+      "hi": [
+        "लक्ष्यों के संबंध में अचानक आंतरिक मार्गदर्शन के लिए खुला रहें",
+        "व्यक्तिगत विचारों को स्वाभाविक रूप से बदलने दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain awareness of uncontrollable social or family dynamics",
+        "Avoid forcing control over political or social situations"
+      ],
+      "hi": [
+        "सामाजिक या पारिवारिक परिस्थितियों के नियंत्रण से बाहर होने का ध्यान रखें",
+        "राजनीतिक या सामाजिक स्थितियों पर नियंत्रण ज़बरदस्ती न करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intuition",
+      "sudden guidance",
+      "abrupt thought change",
+      "mystical friendships",
+      "artistic work",
+      "esoteric knowledge",
+      "cultural roots"
+    ],
+    "hi": [
+      "अंतर्ज्ञान",
+      "अचानक मार्गदर्शन",
+      "विचारों में अचानक परिवर्तन",
+      "रहस्यमय मित्रता",
+      "कलात्मक कार्य",
+      "गुप्त ज्ञान",
+      "सांस्कृतिक जड़ें"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intuitive",
+      "transformative",
+      "mystical",
+      "creative",
+      "explorative"
+    ],
+    "hi": [
+      "अंतर्ज्ञानी",
+      "परिवर्तनकारी",
+      "रहस्यमय",
+      "रचनात्मक",
+      "अन्वेषणशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "inner guidance",
+      "sudden change",
+      "uncontrollable external situations",
+      "connection to esoteric groups",
+      "ancestral exploration"
+    ],
+    "hi": [
+      "आंतरिक मार्गदर्शन",
+      "अचानक परिवर्तन",
+      "बाहरी परिस्थितियों का नियंत्रण से बाहर होना",
+      "गुप्त समूहों से जुड़ाव",
+      "वंशानुगत खोज"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-con-ura",
+      "core": "Intuition strengthens with sudden inner guidance and abrupt changes in thought, while external social and family matters remain beyond control. Connections with mystical individuals and exploration of cultural roots are highlighted.",
+      "tone": "Warm, neutral, and insightful"
+    },
+    "hi": {
+      "title": "नेपच्यून संयोजन यूरेनस",
+      "core": "अंतर्ज्ञान प्रबल होता है, अचानक आंतरिक मार्गदर्शन और विचारों में बदलाव के साथ, जबकि सामाजिक और पारिवारिक मामले नियंत्रण से बाहर रहते हैं। रहस्यमय व्यक्तियों से जुड़ाव और सांस्कृतिक जड़ों की खोज प्रमुख हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Intuition becomes powerful with sudden inner guidance about goals and abrupt changes in personal thoughts, while political, social, and family situations remain beyond control.",
+        "hi": "अंतर्ज्ञान प्रबल होता है, व्यक्ति को लक्ष्य प्राप्ति के लिए अचानक आंतरिक मार्गदर्शन मिलता है और व्यक्तिगत विचारों में अचानक परिवर्तन होता है, जबकि राजनीतिक, सामाजिक और पारिवारिक स्थितियाँ नियंत्रण से बाहर रहती हैं।"
+      },
+      "career": {
+        "en": "Good time for artistic and knowledge work; opportunities to connect with secret or esoteric organizations arise.",
+        "hi": "कला और ज्ञान से संबंधित कार्यों के लिए उपयुक्त समय; गुप्त या रहस्यमय संस्थाओं से जुड़ने के अवसर मिलते हैं।"
+      },
+      "relationships": {
+        "en": "Friendships form with wise, mystical people; social and family situations remain uncontrollable.",
+        "hi": "बुद्धिमान, रहस्यमय लोगों से मित्रता होती है; सामाजिक और पारिवारिक स्थितियाँ नियंत्रण से बाहर रहती हैं।"
+      },
+      "money": {
+        "en": "No specific financial focus; emphasis is on knowledge and cultural exploration.",
+        "hi": "वित्तीय मामलों पर विशेष ध्यान नहीं; मुख्य रूप से ज्ञान और सांस्कृतिक खोज पर जोर।"
+      },
+      "health_adj": {
+        "en": "No direct health effects noted; mental and intuitive shifts are prominent.",
+        "hi": "स्वास्थ्य पर सीधे प्रभाव का उल्लेख नहीं; मानसिक और अंतर्ज्ञान संबंधी बदलाव प्रमुख हैं।"
+      }
+    },
+    "aliases": [
+      "Neptune conjunction Uranus",
+      "Nep CON Ura",
+      "Neptune-Conjunction-Uranus",
+      "Neptune Conjunction to Uranus"
+    ]
+  }
+}

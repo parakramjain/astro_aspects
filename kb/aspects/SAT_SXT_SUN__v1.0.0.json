@@ -1,0 +1,247 @@
+{
+  "id": "SAT_SEX_SUN__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Sextile",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect highlights strong ambition, excellent organizational skills, foresight, and mature behavior, fostering professional and political growth along with steady progress and increased prestige.",
+    "hi": "यह योग दृढ़ महत्त्वाकांक्षा, श्रेष्ठ संगठन शक्ति, दूरदर्शिता और परिपक्व व्यवहार को दर्शाता है, जो व्यावसायिक और राजनीतिक उन्नति तथा स्थिर प्रगति और प्रतिष्ठा में वृद्धि को बढ़ावा देता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable period for professional and political advancement; beneficial for artists, mathematicians, architects; opportunities for significant collaborations and organizational participation.",
+      "hi": "व्यावसायिक और राजनीतिक उन्नति के लिए अनुकूल समय; कलाकारों, गणितज्ञों, वास्तुकारों के लिए लाभकारी; महत्वपूर्ण सहयोग और संस्था में भागीदारी के अवसर।"
+    },
+    "relationships": {
+      "en": "Well-timed discussions and friendships with affluent and mature individuals; social opportunities and adventurous agreements are formed.",
+      "hi": "सम्पन्न और परिपक्व व्यक्तियों से सहयोग हेतु उचित समय; सामाजिक अवसर और साहसिक संधियाँ बनती हैं।"
+    },
+    "money": {
+      "en": "Business opportunities are secured, supporting financial growth through collaborations and social agreements.",
+      "hi": "व्यावसायिक अवसर प्राप्त होते हैं, जो सहयोग और सामाजिक संधियों के माध्यम से वित्तीय वृद्धि में सहायक हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus remains on disciplined behavior and responsibility.",
+      "hi": "स्वास्थ्य संबंधी विशेष संकेत नहीं; अनुशासित व्यवहार और जिम्मेदारी पर ध्यान केंद्रित।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional growth",
+      "Political advancement",
+      "Artistic and intellectual progress",
+      "Collaborations and partnerships",
+      "Social opportunities"
+    ],
+    "hi": [
+      "व्यावसायिक उन्नति",
+      "राजनीतिक प्रगति",
+      "कलात्मक और बौद्धिक प्रगति",
+      "सहयोग और भागीदारी",
+      "सामाजिक अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in professional and political activities",
+        "Seek collaborations with experienced individuals",
+        "Provide disciplined guidance to dependents"
+      ],
+      "hi": [
+        "व्यावसायिक और राजनीतिक गतिविधियों में संलग्न हों",
+        "अनुभवी व्यक्तियों से सहयोग करें",
+        "निर्भर लोगों को अनुशासित मार्गदर्शन दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate discussions with affluent and mature contacts",
+        "Focus on goal achievement and steady progress",
+        "Secure business and social agreements"
+      ],
+      "hi": [
+        "सम्पन्न और परिपक्व संपर्कों से चर्चा प्रारंभ करें",
+        "लक्ष्य प्राप्ति और स्थिर प्रगति पर ध्यान दें",
+        "व्यावसायिक और सामाजिक संधियाँ सुनिश्चित करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain focus on responsibilities",
+        "Continue disciplined behavior",
+        "Sustain steady progress towards goals"
+      ],
+      "hi": [
+        "जिम्मेदारियों पर ध्यान बनाए रखें",
+        "अनुशासित व्यवहार जारी रखें",
+        "लक्ष्यों की ओर स्थिर प्रगति बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "ambition",
+      "organization",
+      "foresight",
+      "maturity",
+      "professional growth",
+      "collaboration",
+      "responsibility",
+      "discipline",
+      "prestige"
+    ],
+    "hi": [
+      "महत्त्वाकांक्षा",
+      "संगठन",
+      "दूरदर्शिता",
+      "परिपक्वता",
+      "व्यावसायिक उन्नति",
+      "सहयोग",
+      "जिम्मेदारी",
+      "अनुशासन",
+      "प्रतिष्ठा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "strong ambition",
+      "excellent organization",
+      "mature behavior",
+      "steady progress",
+      "increased prestige"
+    ],
+    "hi": [
+      "दृढ़ महत्त्वाकांक्षा",
+      "श्रेष्ठ संगठन",
+      "परिपक्व व्यवहार",
+      "स्थिर प्रगति",
+      "प्रतिष्ठा में वृद्धि"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional development",
+      "social collaboration",
+      "responsibility",
+      "goal orientation"
+    ],
+    "hi": [
+      "व्यावसायिक विकास",
+      "सामाजिक सहयोग",
+      "जिम्मेदारी",
+      "लक्ष्य केंद्रित"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-sxt-sun",
+      "core": "Strong ambition and mature behavior foster steady professional and social progress.",
+      "tone": "Warm, encouraging, and grounded"
+    },
+    "hi": {
+      "title": "शनि षष्टि सूर्य",
+      "core": "दृढ़ महत्त्वाकांक्षा और परिपक्व व्यवहार स्थिर व्यावसायिक और सामाजिक प्रगति को बढ़ावा देते हैं।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और यथार्थवादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Strong ambition, excellent organizational skills, foresight, and mature behavior are highlighted. This period is conducive for professional and political growth. It is an excellent time for artists, mathematicians, architects, etc., to advance. Discussions with affluent/mature individuals for collaboration are well-timed, and friendships with experienced people are fostered. Opportunities for significant collaborations or participation with an organization or group arise. Social opportunities and adventurous agreements are formed. Business opportunities are secured. The individual embraces responsibilities and provides disciplined guidance to their children, ensuring their highest success. The person remains focused on achieving their goals and attains steady progress. There is an increase in prestige.",
+        "hi": "दृढ़ महत्त्वाकांक्षाए श्रेष्ठ संगठन शक्तिए दूरदर्शिता और परिपक्व व्यवहार कुशलता परिलक्षित होती है। व्यावसायिक/राजनीतिक उन्नति और प्रगति के मार्ग प्रशस्त होते हैं। कलाकारए गणितज्ञए वास्तुकार आदि लोगों के उन्नति का समय। अधिकतर सम्पन्न/परिपक्व व्यक्ति से सहयोग हेतु चर्चा का उचित समय/परिपक्व व्यक्तियों से मैत्री के अवसर प्राप्त होते हैं। किसी संस्था या समूह के साथ कोई गंभीर विषयक सहयोग या भाग लेने का अवसर प्राप्त होगा। सामाजिक सम्बन्धों के अवसर/साहसिक संधियों के योग बनेंगे। व्यावसायिक अवसर प्राप्त होंगे। व्यक्ति अपनी जिम्मेदारियों को आत्मसात कर अनुशासित मार्गदर्शन अपने बच्चों को देता है। जो उन्हें उच्चतम भाग्य प्रदान करेगा। अपने उद्देश्य की प्राप्ति से निश्चित रहता है। स्थिर प्रगति/उन्नति प्राप्त करता है। प्रतिष्ठा में वृद्धि होती है।"
+      },
+      "career": {
+        "en": "This period is conducive for professional and political growth. It is an excellent time for artists, mathematicians, architects, etc., to advance. Opportunities for significant collaborations or participation with an organization or group arise. Business opportunities are secured.",
+        "hi": "व्यावसायिक/राजनीतिक उन्नति और प्रगति के मार्ग प्रशस्त होते हैं। कलाकारए गणितज्ञए वास्तुकार आदि लोगों के उन्नति का समय। किसी संस्था या समूह के साथ कोई गंभीर विषयक सहयोग या भाग लेने का अवसर प्राप्त होगा। व्यावसायिक अवसर प्राप्त होंगे।"
+      },
+      "relationships": {
+        "en": "Discussions with affluent/mature individuals for collaboration are well-timed, and friendships with experienced people are fostered. Social opportunities and adventurous agreements are formed.",
+        "hi": "अधिकतर सम्पन्न/परिपक्व व्यक्ति से सहयोग हेतु चर्चा का उचित समय/परिपक्व व्यक्तियों से मैत्री के अवसर प्राप्त होते हैं। सामाजिक सम्बन्धों के अवसर/साहसिक संधियों के योग बनेंगे।"
+      },
+      "money": {
+        "en": "Business opportunities are secured, supporting financial growth through collaborations and social agreements.",
+        "hi": "व्यावसायिक अवसर प्राप्त होंगे।"
+      },
+      "health_adj": {
+        "en": "The individual embraces responsibilities and provides disciplined guidance to their children, ensuring their highest success. No specific health issues or adjustments are mentioned.",
+        "hi": "व्यक्ति अपनी जिम्मेदारियों को आत्मसात कर अनुशासित मार्गदर्शन अपने बच्चों को देता है। जो उन्हें उच्चतम भाग्य प्रदान करेगा। स्वास्थ्य संबंधी कोई विशेष संकेत नहीं।"
+      }
+    },
+    "aliases": [
+      "Saturn sextile Sun",
+      "Sat SEX Sun",
+      "Saturn-Sextile-Sun",
+      "Saturn Sextile to Sun"
+    ]
+  }
+}

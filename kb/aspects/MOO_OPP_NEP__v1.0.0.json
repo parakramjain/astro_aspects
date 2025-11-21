@@ -1,0 +1,253 @@
+{
+  "id": "MOO_OPP_NEP__v1.0.0",
+  "pair": [
+    "Moon",
+    "Opposition",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates a period of mental confusion and emotional instability, leading to stress and difficulties in managing responsibilities and relationships.",
+    "hi": "यह योग मानसिक भ्रम और भावनात्मक अस्थिरता का समय दर्शाता है, जिससे तनाव और जिम्मेदारियों तथा रिश्तों में कठिनाइयाँ होती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Avoiding routine tasks may increase stress and reduce work effectiveness.",
+      "hi": "नियमित कार्यों से हटना तनाव बढ़ा सकता है और कार्यक्षमता कम कर सकता है।"
+    },
+    "relationships": {
+      "en": "Emotional instability may cause misunderstandings, especially with women.",
+      "hi": "भावनात्मक अस्थिरता के कारण खासकर महिलाओं से गलतफहमी हो सकती है।"
+    },
+    "money": {
+      "en": "Poor financial decisions or substance use can lead to problems.",
+      "hi": "गलत वित्तीय निर्णय या नशे से नुकसान हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Mental weakness and stress are prominent; caution advised.",
+      "hi": "मानसिक कमजोरी और तनाव प्रमुख हैं; सावधानी आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Mental confusion",
+      "Emotional instability",
+      "Stress from avoiding routine",
+      "Relationship misunderstandings"
+    ],
+    "hi": [
+      "मानसिक भ्रम",
+      "भावनात्मक अस्थिरता",
+      "नियमितता से हटने का तनाव",
+      "रिश्तों में गलतफहमी"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Escaping responsibilities can worsen situations.",
+      "Emotional instability may harm relationships.",
+      "Poor financial choices increase risk of loss.",
+      "Substance use can lead to additional problems."
+    ],
+    "hi": [
+      "जिम्मेदारियों से भागना स्थिति बिगाड़ सकता है।",
+      "भावनात्मक अस्थिरता रिश्तों को नुकसान पहुंचा सकती है।",
+      "गलत वित्तीय निर्णय नुकसान का खतरा बढ़ाते हैं।",
+      "नशे से अतिरिक्त समस्याएं हो सकती हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Maintain routines to reduce stress.",
+        "Stay mindful of emotional responses.",
+        "Avoid impulsive financial decisions."
+      ],
+      "hi": [
+        "तनाव कम करने के लिए नियमितता बनाए रखें।",
+        "भावनात्मक प्रतिक्रियाओं पर ध्यान रखें।",
+        "आवेगपूर्ण वित्तीय निर्णय से बचें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be extra cautious with responsibilities.",
+        "Communicate clearly to avoid misunderstandings.",
+        "Resist temptations related to substance use."
+      ],
+      "hi": [
+        "जिम्मेदारियों में विशेष सावधानी बरतें।",
+        "गलतफहमी से बचने के लिए स्पष्ट संवाद करें।",
+        "नशे से जुड़ी प्रलोभनों का विरोध करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional patterns and lessons.",
+        "Gradually restore routine and stability.",
+        "Review financial decisions carefully."
+      ],
+      "hi": [
+        "भावनात्मक प्रवृत्तियों और सीखों पर विचार करें।",
+        "धीरे-धीरे नियमितता और स्थिरता बहाल करें।",
+        "वित्तीय निर्णयों की सावधानी से समीक्षा करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "confusion",
+      "mental weakness",
+      "stress",
+      "emotional instability",
+      "responsibility avoidance",
+      "relationship issues",
+      "financial risk",
+      "substance use"
+    ],
+    "hi": [
+      "भ्रम",
+      "मानसिक कमजोरी",
+      "तनाव",
+      "भावनात्मक अस्थिरता",
+      "जिम्मेदारी से बचाव",
+      "रिश्तों की समस्याएं",
+      "वित्तीय जोखिम",
+      "नशा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "unstable",
+      "stressful",
+      "confusing"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "तनावपूर्ण",
+      "भ्रमित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental confusion",
+      "emotional challenges",
+      "responsibility avoidance",
+      "relationship tension",
+      "financial caution"
+    ],
+    "hi": [
+      "मानसिक भ्रम",
+      "भावनात्मक चुनौतियां",
+      "जिम्मेदारी से बचाव",
+      "रिश्तों में तनाव",
+      "वित्तीय सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-opp-nep",
+      "core": "A time marked by mental confusion and emotional instability, requiring care in responsibilities and relationships.",
+      "tone": "Warm, neutral, cautious"
+    },
+    "hi": {
+      "title": "चंद्रमा विपरीत नेपच्यून",
+      "core": "यह समय मानसिक भ्रम और भावनात्मक अस्थिरता से भरा होता है, जिसमें जिम्मेदारियों और रिश्तों में सावधानी आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Mental confusion and emotional instability cause stress and difficulties in managing responsibilities and relationships.",
+        "hi": "मानसिक भ्रम और भावनात्मक अस्थिरता से तनाव और जिम्मेदारियों तथा रिश्तों में कठिनाइयाँ होती हैं।"
+      },
+      "career": {
+        "en": "Avoiding routine tasks may increase stress and reduce work effectiveness.",
+        "hi": "नियमित कार्यों से हटना तनाव बढ़ा सकता है और कार्यक्षमता कम कर सकता है।"
+      },
+      "relationships": {
+        "en": "Emotional instability may cause misunderstandings, especially with women.",
+        "hi": "भावनात्मक अस्थिरता के कारण खासकर महिलाओं से गलतफहमी हो सकती है।"
+      },
+      "money": {
+        "en": "Poor financial decisions or substance use can lead to problems.",
+        "hi": "गलत वित्तीय निर्णय या नशे से नुकसान हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Mental weakness and stress are prominent; caution advised.",
+        "hi": "मानसिक कमजोरी और तनाव प्रमुख हैं; सावधानी आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Moon opposition Neptune",
+      "Moo OPP Nep",
+      "Moon-Opposition-Neptune",
+      "Moon Opposition to Neptune"
+    ]
+  }
+}

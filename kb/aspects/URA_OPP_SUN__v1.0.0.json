@@ -1,0 +1,253 @@
+{
+  "id": "URA_OPP_SUN__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Opposition",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A strong urge for independence from authority or a tendency to impose your will on others, accompanied by unreliable social behavior and complications in relationships and finances.",
+    "hi": "अधिकारी वर्ग से स्वतंत्र होने की तीव्र इच्छा या दूसरों पर अपनी इच्छा थोपने की प्रवृत्ति, साथ ही अविश्वसनीय सामाजिक व्यवहार और संबंधों व वित्त में उलझन।"
+  },
+  "facets": {
+    "career": {
+      "en": "Unfavorable time for joint ventures and new plans; increased focus needed on work and business matters; risk of failure or uncertainty in experiments.",
+      "hi": "संयुक्त व्यवसाय और नई योजनाओं के लिए प्रतिकूल समय; कार्य और व्यवसाय पर अधिक ध्यान देने की आवश्यकता; प्रयोगों में असफलता या अनिश्चितता का जोखिम।"
+    },
+    "relationships": {
+      "en": "Desire for independence from elders or authority; unreliable social behavior and friendships causing complications.",
+      "hi": "बुजुर्गों या अधिकारी वर्ग से स्वतंत्र होने की इच्छा; अविश्वसनीय सामाजिक व्यवहार और मित्रता से समस्याएं।"
+    },
+    "money": {
+      "en": "Risk of loss from financial investments, licenses, joint property, insurance, tax, legal disputes, and joint investments.",
+      "hi": "आर्थिक निवेश, लाइसेंस, संयुक्त सम्पत्ति, बीमा, कर, कानूनी विवाद और संयुक्त निवेश में हानि का जोखिम।"
+    },
+    "health_adj": {
+      "en": "No specific health indications; general caution advised due to stress from social and financial complications.",
+      "hi": "विशिष्ट स्वास्थ्य संकेत नहीं; सामाजिक और वित्तीय उलझनों से तनाव के कारण सामान्य सावधानी आवश्यक।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Desire for independence",
+      "Social complications",
+      "Financial loss",
+      "Unfavorable joint ventures",
+      "Uncertainty in new plans"
+    ],
+    "hi": [
+      "स्वतंत्रता की इच्छा",
+      "सामाजिक उलझन",
+      "वित्तीय हानि",
+      "संयुक्त व्यवसाय में प्रतिकूलता",
+      "नई योजनाओं में अनिश्चितता"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Unreliable friendships may cause problems",
+      "Loss from financial investments and licenses possible",
+      "Joint property and legal disputes face difficulties",
+      "Unfavorable time for changes and new experiments"
+    ],
+    "hi": [
+      "अविश्वसनीय मित्रता से समस्याएं हो सकती हैं",
+      "आर्थिक निवेश और लाइसेंस से हानि संभव",
+      "संयुक्त सम्पत्ति और कानूनी विवाद में कठिनाई",
+      "परिवर्तन और नए प्रयोगों के लिए प्रतिकूल समय"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious in social interactions and friendships",
+        "Avoid major financial investments or joint ventures",
+        "Focus more on work and business responsibilities"
+      ],
+      "hi": [
+        "सामाजिक संबंधों और मित्रता में सावधानी रखें",
+        "बड़े आर्थिक निवेश या संयुक्त व्यवसाय से बचें",
+        "कार्य और व्यवसाय की जिम्मेदारियों पर अधिक ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise extra care in financial decisions",
+        "Avoid initiating new joint projects",
+        "Maintain clear communication with authorities and elders"
+      ],
+      "hi": [
+        "वित्तीय निर्णयों में अतिरिक्त सावधानी बरतें",
+        "नए संयुक्त परियोजनाओं की शुरुआत न करें",
+        "अधिकारी और बुजुर्गों से स्पष्ट संवाद बनाए रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and reassess joint investments and partnerships",
+        "Gradually reduce reliance on unreliable social contacts",
+        "Plan for stability in work and finances"
+      ],
+      "hi": [
+        "संयुक्त निवेश और साझेदारी की समीक्षा करें",
+        "अविश्वसनीय सामाजिक संपर्कों पर निर्भरता धीरे-धीरे कम करें",
+        "कार्य और वित्त में स्थिरता की योजना बनाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "independence",
+      "authority",
+      "unreliable friendships",
+      "financial risk",
+      "joint ventures",
+      "uncertainty",
+      "complications"
+    ],
+    "hi": [
+      "स्वतंत्रता",
+      "अधिकारी",
+      "अविश्वसनीय मित्रता",
+      "वित्तीय जोखिम",
+      "संयुक्त व्यवसाय",
+      "अनिश्चितता",
+      "उलझन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "unstable",
+      "cautious",
+      "adverse"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "सावधानीपूर्ण",
+      "प्रतिकूल"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "independence vs authority",
+      "social reliability",
+      "financial caution",
+      "joint collaboration risks",
+      "work focus"
+    ],
+    "hi": [
+      "स्वतंत्रता बनाम अधिकारी",
+      "सामाजिक विश्वसनीयता",
+      "वित्तीय सावधानी",
+      "संयुक्त सहयोग के जोखिम",
+      "कार्य पर ध्यान"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-opp-sun",
+      "core": "A time marked by a strong desire for independence and challenges in social and financial areas, requiring caution and focus.",
+      "tone": "Warm, neutral, and advisory"
+    },
+    "hi": {
+      "title": "यूरेनस विपक्ष सूर्य",
+      "core": "स्वतंत्रता की तीव्र इच्छा और सामाजिक व वित्तीय क्षेत्रों में चुनौतियों का समय, जिसमें सावधानी और ध्यान आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सलाहकार"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Desire for independence from authority and complications from unreliable social behavior and finances.",
+        "hi": "अधिकारी वर्ग से स्वतंत्र होने की इच्छा और अविश्वसनीय सामाजिक व्यवहार व वित्त से उत्पन्न उलझन।"
+      },
+      "career": {
+        "en": "Unfavorable conditions for joint ventures and new plans; need for increased focus on work.",
+        "hi": "संयुक्त व्यवसाय और नई योजनाओं के लिए प्रतिकूल स्थिति; कार्य पर अधिक ध्यान आवश्यक।"
+      },
+      "relationships": {
+        "en": "Challenges due to unreliable friendships and desire to assert will over others.",
+        "hi": "अविश्वसनीय मित्रता और दूसरों पर इच्छा थोपने की प्रवृत्ति से चुनौतियां।"
+      },
+      "money": {
+        "en": "Risk of losses from investments, licenses, joint property, insurance, tax, and legal disputes.",
+        "hi": "निवेश, लाइसेंस, संयुक्त सम्पत्ति, बीमा, कर और कानूनी विवादों से हानि का जोखिम।"
+      },
+      "health_adj": {
+        "en": "No direct health issues indicated; caution advised due to stress from complications.",
+        "hi": "प्रत्यक्ष स्वास्थ्य समस्याएं नहीं; उलझनों से तनाव के कारण सावधानी आवश्यक।"
+      }
+    },
+    "aliases": [
+      "Uranus opposition Sun",
+      "Ura OPP Sun",
+      "Uranus-Opposition-Sun",
+      "Uranus Opposition to Sun"
+    ]
+  }
+}

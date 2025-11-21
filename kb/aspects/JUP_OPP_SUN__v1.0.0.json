@@ -1,0 +1,249 @@
+{
+  "id": "JUP_OPP_SUN__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Opposition",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect suggests challenges in relationships with elders and religious institutions, conflicts in financial planning, and risks of losses due to ego and negativity.",
+    "hi": "यह योग वयोवृद्धों और धार्मिक संस्थाओं के साथ संबंधों में कठिनाइयाँ, आर्थिक योजनाओं में टकराव, और अहंकार व नकारात्मकता के कारण नुकसान की संभावना दर्शाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Difficulties in dealings with religious or traditional institutions may affect career progress.",
+      "hi": "धार्मिक या पारंपरिक संस्थाओं के साथ व्यवहार में कठिनाइयाँ करियर पर प्रभाव डाल सकती हैं।"
+    },
+    "relationships": {
+      "en": "Avoid strict behavior and disputes with elders or seniors to maintain harmony.",
+      "hi": "संपर्क में वयोवृद्धों/बुजुर्गों से सख्त व्यवहार और विवाद से बचें ताकि संबंध अच्छे बने रहें।"
+    },
+    "money": {
+      "en": "Conflicts in financial plans and potential financial losses during economic situations are indicated.",
+      "hi": "आर्थिक योजनाओं में टकराव और आर्थिक परिस्थितियों में वित्तीय नुकसान की संभावना होती है।"
+    },
+    "health_adj": {
+      "en": "Negativity and ignorance may lead to emotional sorrow or distress.",
+      "hi": "नकारात्मकता और अज्ञानता से मानसिक दुख या पीड़ा हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts with elders or seniors",
+      "Challenges with religious institutions",
+      "Financial planning difficulties",
+      "Economic losses"
+    ],
+    "hi": [
+      "वयोवृद्धों/बुजुर्गों से विवाद",
+      "धार्मिक संस्थाओं के साथ कठिनाइयाँ",
+      "आर्थिक योजनाओं में समस्या",
+      "वित्तीय नुकसान"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Egotistical decisions may lead to failure",
+      "Avoid strict or harsh behavior with elders",
+      "Financial losses possible in economic moments",
+      "Negativity and ignorance can cause sorrow"
+    ],
+    "hi": [
+      "अहंकार के कारण निर्णय विफल हो सकते हैं",
+      "वयोवृद्धों के साथ सख्त व्यवहार से बचें",
+      "आर्थिक लम्हों में वित्तीय नुकसान संभव",
+      "नकारात्मकता और अज्ञानता से दुख होगा"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Practice patience and respect with elders and seniors",
+        "Be cautious in financial planning and avoid impulsive decisions",
+        "Maintain a positive mindset to reduce sorrow"
+      ],
+      "hi": [
+        "वयोवृद्धों और बुजुर्गों के प्रति धैर्य और सम्मान रखें",
+        "आर्थिक योजना में सावधानी बरतें और जल्दबाजी से बचें",
+        "दुख कम करने के लिए सकारात्मक सोच बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid disputes with elders and seniors",
+        "Refrain from strict behavior",
+        "Be mindful of ego-driven decisions"
+      ],
+      "hi": [
+        "वयोवृद्धों और बुजुर्गों से विवाद न करें",
+        "सख्त व्यवहार से बचें",
+        "अहंकार से प्रेरित निर्णयों से सावधान रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Conflicts and losses may decrease",
+        "Improved understanding with elders and institutions",
+        "Reduced negativity and ignorance"
+      ],
+      "hi": [
+        "विवाद और नुकसान कम हो सकते हैं",
+        "वयोवृद्धों और संस्थाओं के साथ समझ बढ़ेगी",
+        "नकारात्मकता और अज्ञानता कम होगी"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "conflict",
+      "ego",
+      "financial loss",
+      "negativity",
+      "disputes",
+      "respect",
+      "ignorance"
+    ],
+    "hi": [
+      "विवाद",
+      "अहंकार",
+      "वित्तीय नुकसान",
+      "नकारात्मकता",
+      "झगड़े",
+      "सम्मान",
+      "अज्ञानता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "caution",
+      "conflict-prone",
+      "sensitive"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधानीपूर्ण",
+      "विवादास्पद",
+      "संवेदनशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "interpersonal tension",
+      "financial caution",
+      "ego management",
+      "spiritual/religious challenges"
+    ],
+    "hi": [
+      "व्यक्तिगत तनाव",
+      "आर्थिक सावधानी",
+      "अहंकार नियंत्रण",
+      "आध्यात्मिक/धार्मिक चुनौतियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-opp-sun",
+      "core": "Challenges in relationships with elders and religious institutions, financial conflicts, and risks from ego and negativity.",
+      "tone": "Warm, cautious, and neutral"
+    },
+    "hi": {
+      "title": "बृहस्पति विरुद्ध सूर्य",
+      "core": "वयोवृद्धों और धार्मिक संस्थाओं के साथ संबंधों में कठिनाइयाँ, आर्थिक टकराव, अहंकार और नकारात्मकता से जोखिम।",
+      "tone": "सहानुभूतिपूर्ण, सावधान, और तटस्थ"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Avoid strict behavior, disputes with elders/seniors. Difficulties in dealings with religious institutions. Conflict in financial plans. Financial losses. Egotistical decisions may lead to failure. Negativity and ignorance bring sorrow.",
+        "hi": "वयोवृद्ध/बुजुर्गों से सख्त व्यवहार और विवाद से बचें। धार्मिक संस्थाओं के साथ व्यवहार में कठिनाइयाँ। आर्थिक योजनाओं में टकराव। वित्तीय नुकसान। अहंकार के कारण निर्णयों में कमी। नकारात्मकता और अज्ञानता से दुख होगा।"
+      },
+      "career": {
+        "en": "Difficulties in dealings with religious or traditional institutions may affect career progress.",
+        "hi": "धार्मिक या पारंपरिक संस्थाओं के साथ व्यवहार में कठिनाइयाँ करियर पर प्रभाव डाल सकती हैं।"
+      },
+      "relationships": {
+        "en": "Avoid strict behavior and disputes with elders or seniors to maintain harmony.",
+        "hi": "वयोवृद्धों/बुजुर्गों से सख्त व्यवहार और विवाद से बचें ताकि संबंध अच्छे बने रहें।"
+      },
+      "money": {
+        "en": "Conflicts in financial plans and potential financial losses during economic situations are indicated.",
+        "hi": "आर्थिक योजनाओं में टकराव और आर्थिक परिस्थितियों में वित्तीय नुकसान की संभावना।"
+      },
+      "health_adj": {
+        "en": "Negativity and ignorance may lead to emotional sorrow or distress.",
+        "hi": "नकारात्मकता और अज्ञानता से मानसिक दुख या पीड़ा हो सकती है।"
+      }
+    },
+    "aliases": [
+      "Jupiter opposition Sun",
+      "Jup OPP Sun",
+      "Jupiter-Opposition-Sun",
+      "Jupiter Opposition to Sun"
+    ]
+  }
+}

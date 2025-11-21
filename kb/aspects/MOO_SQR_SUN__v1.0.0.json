@@ -1,0 +1,251 @@
+{
+  "id": "MOO_SQR_SUN__v1.0.0",
+  "pair": [
+    "Moon",
+    "Square",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates emotional difficulties within family and joint family settings, highlighting conflicts between men and women. Internal conflicts may cause problems related to family, marriage, or children, with emotional wounds possibly persisting due to depression. Financial challenges and dissatisfaction in family and marital life are also indicated. Health may decline, so maintaining a balanced diet is advised.",
+    "hi": "यह योग पारिवारिक और संयुक्त पारिवारिक स्थितियों में भावनात्मक कठिनाइयों को दर्शाता है, जिसमें स्त्री-पुरुष के बीच अंतर्द्वंद स्पष्ट होता है। आंतरिक संघर्ष के कारण परिवार, विवाह या संतान से संबंधित समस्याएँ उत्पन्न हो सकती हैं, और अवसाद के कारण भावनात्मक चोटें बनी रह सकती हैं। आर्थिक कठिनाइयाँ और परिवार तथा वैवाहिक जीवन में असंतोष भी संकेतित हैं। स्वास्थ्य खराब हो सकता है, इसलिए संतुलित आहार बनाए रखना आवश्यक है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Emotional tensions may affect workplace relationships and domestic support, potentially causing distractions or dissatisfaction.",
+      "hi": "भावनात्मक तनाव कार्यस्थल संबंधों और घरेलू समर्थन को प्रभावित कर सकता है, जिससे ध्यान भटकना या असंतोष हो सकता है।"
+    },
+    "relationships": {
+      "en": "Emotional problems between men and women are emphasized, with potential conflicts in family, marriage, and joint family environments causing dissatisfaction.",
+      "hi": "स्त्री-पुरुष के बीच भावनात्मक समस्याएँ प्रमुख हैं, जो परिवार, विवाह और संयुक्त परिवार में असंतोष और संघर्ष उत्पन्न कर सकती हैं।"
+    },
+    "money": {
+      "en": "Financial difficulties are likely during this period, adding to emotional and familial stress.",
+      "hi": "इस समय आर्थिक कठिनाइयाँ संभव हैं, जो भावनात्मक और पारिवारिक तनाव को बढ़ा सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Health may deteriorate; it is advisable to maintain a balanced diet to support well-being.",
+      "hi": "स्वास्थ्य खराब हो सकता है; अच्छे स्वास्थ्य के लिए संतुलित आहार बनाए रखना उचित होगा।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family conflicts",
+      "Marital issues",
+      "Emotional distress",
+      "Financial challenges",
+      "Health concerns"
+    ],
+    "hi": [
+      "पारिवारिक संघर्ष",
+      "वैवाहिक समस्याएँ",
+      "भावनात्मक कष्ट",
+      "आर्थिक चुनौतियाँ",
+      "स्वास्थ्य संबंधी चिंता"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional wounds may persist due to depression.",
+      "Dissatisfaction in family and marital life can increase stress.",
+      "Financial difficulties may compound emotional problems.",
+      "Health may decline if diet and care are neglected."
+    ],
+    "hi": [
+      "अवसाद के कारण भावनात्मक चोटें बनी रह सकती हैं।",
+      "परिवार और वैवाहिक जीवन में असंतोष तनाव बढ़ा सकता है।",
+      "आर्थिक कठिनाइयाँ भावनात्मक समस्याओं को बढ़ा सकती हैं।",
+      "यदि आहार और देखभाल पर ध्यान न दिया जाए तो स्वास्थ्य खराब हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be aware of emotional tensions in family and relationships.",
+        "Monitor financial matters carefully to avoid added stress.",
+        "Maintain a balanced diet to support health."
+      ],
+      "hi": [
+        "परिवार और संबंधों में भावनात्मक तनाव के प्रति सजग रहें।",
+        "आर्थिक मामलों को सावधानी से संभालें ताकि अतिरिक्त तनाव न हो।",
+        "स्वास्थ्य के लिए संतुलित आहार बनाए रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Address emotional conflicts openly to reduce dissatisfaction.",
+        "Seek support for managing depression or emotional wounds.",
+        "Prioritize health and nutrition during this time."
+      ],
+      "hi": [
+        "असंतोष कम करने के लिए भावनात्मक संघर्षों को खुलकर सुलझाएं।",
+        "अवसाद या भावनात्मक चोटों के प्रबंधन के लिए सहायता लें।",
+        "इस समय स्वास्थ्य और पोषण को प्राथमिकता दें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Emotional tensions may begin to ease.",
+        "Financial and familial situations might stabilize gradually.",
+        "Health conditions could improve with continued care."
+      ],
+      "hi": [
+        "भावनात्मक तनाव धीरे-धीरे कम हो सकता है।",
+        "आर्थिक और पारिवारिक स्थिति धीरे-धीरे स्थिर हो सकती है।",
+        "लगातार देखभाल से स्वास्थ्य में सुधार हो सकता है।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional problems",
+      "family conflict",
+      "marital issues",
+      "depression",
+      "financial difficulties",
+      "health deterioration",
+      "dissatisfaction"
+    ],
+    "hi": [
+      "भावनात्मक समस्या",
+      "पारिवारिक संघर्ष",
+      "वैवाहिक समस्या",
+      "अवसाद",
+      "आर्थिक कठिनाई",
+      "स्वास्थ्य खराबी",
+      "असंतोष"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional tension",
+      "internal conflict",
+      "family stress",
+      "health caution"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "आंतरिक संघर्ष",
+      "पारिवारिक तनाव",
+      "स्वास्थ्य सावधानी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family dynamics",
+      "emotional challenges",
+      "financial strain",
+      "health awareness"
+    ],
+    "hi": [
+      "पारिवारिक गतिशीलता",
+      "भावनात्मक चुनौतियाँ",
+      "आर्थिक दबाव",
+      "स्वास्थ्य जागरूकता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-squ-sun",
+      "core": "This aspect highlights emotional and familial challenges, with potential conflicts between men and women, financial difficulties, and health concerns. Awareness and balanced care are advised.",
+      "tone": "Warm, neutral, and cautiously informative."
+    },
+    "hi": {
+      "title": "चंद्र वर्ग सूर्य",
+      "core": "यह योग भावनात्मक और पारिवारिक चुनौतियों को दर्शाता है, जिसमें स्त्री-पुरुष के बीच संघर्ष, आर्थिक कठिनाइयाँ और स्वास्थ्य संबंधी चिंता शामिल हैं। सजगता और संतुलित देखभाल की सलाह दी जाती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सूचनात्मक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional difficulties in family and joint family, conflicts between men and women, internal conflicts causing family, marital, or offspring problems, emotional wounds from depression, financial difficulties, dissatisfaction in family and marriage, health deterioration, advice to maintain balanced diet.",
+        "hi": "पारिवारिक और संयुक्त पारिवारिक में भावनात्मक कठिनाइयाँ, स्त्री-पुरुष के बीच संघर्ष, आंतरिक द्वंद्व से परिवार, वैवाहिक या संतान संबंधी समस्याएँ, अवसाद से भावनात्मक चोटें, आर्थिक कठिनाइयाँ, परिवार और विवाह में असंतोष, स्वास्थ्य खराबी, संतुलित आहार की सलाह।"
+      },
+      "career": {
+        "en": "Emotional tensions may affect workplace and domestic support, causing distractions or dissatisfaction.",
+        "hi": "भावनात्मक तनाव कार्यस्थल और घरेलू समर्थन को प्रभावित कर सकता है, जिससे ध्यान भटकना या असंतोष हो सकता है।"
+      },
+      "relationships": {
+        "en": "Emotional problems between men and women, conflicts in family, marriage, and joint family causing dissatisfaction.",
+        "hi": "स्त्री-पुरुष के बीच भावनात्मक समस्याएँ, परिवार, विवाह और संयुक्त परिवार में संघर्ष और असंतोष।"
+      },
+      "money": {
+        "en": "Financial difficulties likely, adding to emotional and familial stress.",
+        "hi": "आर्थिक कठिनाइयाँ संभव हैं, जो भावनात्मक और पारिवारिक तनाव बढ़ा सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Health may deteriorate; balanced diet advised.",
+        "hi": "स्वास्थ्य खराब हो सकता है; संतुलित आहार की सलाह।"
+      }
+    },
+    "aliases": [
+      "Moon square Sun",
+      "Moo SQR Sun",
+      "Moon-Square-Sun",
+      "Moon Square to Sun"
+    ]
+  }
+}

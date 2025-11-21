@@ -1,0 +1,258 @@
+{
+  "id": "MER_SQR_MER__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Square",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates a period of confusion, negative thinking, and difficulties in communication and understanding, potentially causing arguments, wrong decisions, delays in work, and financial loss.",
+    "hi": "यह योग मानसिक भ्रम, नकारात्मक सोच और बातचीत व समझ में कठिनाई का समय दर्शाता है, जिससे बहस, गलत निर्णय, काम में देरी और आर्थिक नुकसान हो सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work delays and wrong decisions may occur, affecting productivity and progress.",
+      "hi": "काम में देरी और गलत निर्णय से उत्पादकता और प्रगति प्रभावित हो सकती है।"
+    },
+    "relationships": {
+      "en": "Communication difficulties and arguments with others are likely, challenging mutual understanding.",
+      "hi": "बातचीत में कठिनाई और दूसरों से बहस होने की संभावना रहती है, जिससे समझ में बाधा आती है।"
+    },
+    "money": {
+      "en": "Financial loss is possible during this time due to poor decisions or delays.",
+      "hi": "गलत निर्णय या देरी के कारण आर्थिक नुकसान हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Health issues may arise, possibly linked to stress from confusion and negative thinking.",
+      "hi": "मानसिक भ्रम और नकारात्मक सोच से जुड़ी स्वास्थ्य समस्याएँ उत्पन्न हो सकती हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Communication challenges",
+      "Work delays",
+      "Financial difficulties",
+      "Health concerns"
+    ],
+    "hi": [
+      "बातचीत में कठिनाई",
+      "काम में देरी",
+      "आर्थिक समस्याएँ",
+      "स्वास्थ्य संबंधी चिंता"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased chance of misunderstandings and arguments",
+      "Possibility of making wrong decisions",
+      "Potential for financial loss",
+      "Health may be affected by stress"
+    ],
+    "hi": [
+      "गलतफहमी और बहस की संभावना बढ़ जाती है",
+      "गलत निर्णय लेने का खतरा रहता है",
+      "आर्थिक नुकसान हो सकता है",
+      "तनाव से स्वास्थ्य प्रभावित हो सकता है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Stay mindful of communication to avoid misunderstandings",
+        "Review decisions carefully before acting",
+        "Manage work deadlines with caution",
+        "Monitor health and stress levels"
+      ],
+      "hi": [
+        "गलतफहमी से बचने के लिए बातचीत में सावधानी रखें",
+        "निर्णय लेने से पहले अच्छी तरह विचार करें",
+        "काम की समयसीमा को ध्यान से संभालें",
+        "स्वास्थ्य और तनाव पर ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid confrontations and heated arguments",
+        "Double-check important decisions",
+        "Be patient with work progress",
+        "Take care of mental and physical health"
+      ],
+      "hi": [
+        "झगड़े और तीखी बहस से बचें",
+        "महत्वपूर्ण निर्णयों को दोबारा जांचें",
+        "काम की प्रगति में धैर्य रखें",
+        "मानसिक और शारीरिक स्वास्थ्य का ध्यान रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons learned from misunderstandings",
+        "Gradually restore clear communication",
+        "Reassess financial and work plans",
+        "Focus on health recovery and balance"
+      ],
+      "hi": [
+        "गलतफहमी से मिली सीख पर विचार करें",
+        "धीरे-धीरे स्पष्ट बातचीत बहाल करें",
+        "आर्थिक और कार्य योजनाओं का पुनर्मूल्यांकन करें",
+        "स्वास्थ्य की सुधार और संतुलन पर ध्यान दें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "confusion",
+      "negative thinking",
+      "communication difficulty",
+      "arguments",
+      "wrong decisions",
+      "work delays",
+      "financial loss",
+      "health issues"
+    ],
+    "hi": [
+      "भ्रम",
+      "नकारात्मक सोच",
+      "बातचीत में कठिनाई",
+      "बहस",
+      "गलत निर्णय",
+      "काम में देरी",
+      "आर्थिक नुकसान",
+      "स्वास्थ्य समस्या"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "stressful",
+      "conflict-prone",
+      "uncertain"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "तनावपूर्ण",
+      "संघर्षपूर्ण",
+      "अनिश्चित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication breakdown",
+      "mental confusion",
+      "work obstacles",
+      "financial caution",
+      "health vigilance"
+    ],
+    "hi": [
+      "बातचीत में बाधा",
+      "मानसिक भ्रम",
+      "कार्य में बाधाएँ",
+      "आर्थिक सावधानी",
+      "स्वास्थ्य सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-squ-mer",
+      "core": "A time marked by confusion, communication challenges, and potential setbacks in work and finances.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "बुध वर्ग बुध",
+      "core": "यह समय मानसिक भ्रम, बातचीत में कठिनाई, और काम व आर्थिक क्षेत्र में संभावित बाधाओं से जुड़ा है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This aspect indicates confusion, negative thinking, and communication difficulties leading to arguments, wrong decisions, delays, and financial loss.",
+        "hi": "यह योग मानसिक भ्रम, नकारात्मक सोच, और बातचीत में कठिनाई दर्शाता है, जिससे बहस, गलत निर्णय, देरी, और आर्थिक नुकसान हो सकता है।"
+      },
+      "career": {
+        "en": "Work delays and wrong decisions may impact productivity and progress.",
+        "hi": "काम में देरी और गलत निर्णय से उत्पादकता और प्रगति प्रभावित हो सकती है।"
+      },
+      "relationships": {
+        "en": "Communication difficulties and arguments challenge mutual understanding.",
+        "hi": "बातचीत में कठिनाई और बहस से समझ में बाधा आती है।"
+      },
+      "money": {
+        "en": "Financial loss can result from poor decisions or delays.",
+        "hi": "गलत निर्णय या देरी के कारण आर्थिक नुकसान हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Health issues may arise related to stress from confusion and negative thinking.",
+        "hi": "मानसिक भ्रम और नकारात्मक सोच से जुड़ी स्वास्थ्य समस्याएँ हो सकती हैं।"
+      }
+    },
+    "aliases": [
+      "Mercury square Mercury",
+      "Mer SQR Mer",
+      "Mercury-Square-Mercury",
+      "Mercury Square to Mercury"
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "id": "SUN_CON_SUN__v1.0.0",
+  "pair": [
+    "Sun",
+    "Conjunction",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect marks a significant phase of growth and transition, especially for children, highlighting motivation through education and social events. It favors leadership, new initiatives, and collaboration but may lead to ego issues if conditions are unfavorable.",
+    "hi": "यह योग विकास और परिवर्तन का महत्वपूर्ण चरण दर्शाता है, विशेषकर बच्चों के लिए, जो शिक्षा और सामाजिक घटनाओं से प्रेरणा प्राप्त करते हैं। यह नेतृत्व, नए कार्यों की शुरुआत और सहयोग के लिए अनुकूल है, परंतु प्रतिकूल परिस्थितियों में अहंकार की समस्या हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "A favorable time for leadership roles, initiating new projects, and gaining support from the right people.",
+      "hi": "नेतृत्व की भूमिकाओं, नए प्रोजेक्ट शुरू करने और सही लोगों से सहयोग प्राप्त करने के लिए अनुकूल समय।"
+    },
+    "relationships": {
+      "en": "Opportunities for collaboration and social engagement increase, especially in educational and cultural contexts.",
+      "hi": "शैक्षिक और सांस्कृतिक संदर्भों में सहयोग और सामाजिक जुड़ाव के अवसर बढ़ते हैं।"
+    },
+    "money": {
+      "en": "Financial opportunities may arise through new initiatives and partnerships, though caution is advised if other factors are unfavorable.",
+      "hi": "नए प्रयासों और साझेदारी के माध्यम से वित्तीय अवसर मिल सकते हैं, परंतु यदि अन्य परिस्थितियाँ प्रतिकूल हों तो सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Be mindful of ego-related stress or arrogance that could affect mental well-being during this period.",
+      "hi": "इस अवधि में अहंकार या अकड़ से मानसिक स्वास्थ्य प्रभावित हो सकता है, इसलिए सतर्क रहें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Child development milestones",
+      "Educational and cultural events",
+      "Leadership opportunities",
+      "New task initiations"
+    ],
+    "hi": [
+      "बच्चों के विकास के महत्वपूर्ण चरण",
+      "शैक्षिक और सांस्कृतिक कार्यक्रम",
+      "नेतृत्व के अवसर",
+      "नए कार्यों की शुरुआत"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential for ego and arrogance if other conditions are unfavorable",
+      "Risk of becoming trapped in pride"
+    ],
+    "hi": [
+      "यदि अन्य परिस्थितियाँ प्रतिकूल हों तो अहंकार और अकड़ की संभावना",
+      "अहंकार में फंसने का खतरा"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in leadership roles",
+        "Participate actively in educational and cultural events",
+        "Seek collaboration with supportive individuals"
+      ],
+      "hi": [
+        "नेतृत्व की भूमिकाओं में सक्रिय रहें",
+        "शैक्षिक और सांस्कृतिक कार्यक्रमों में भाग लें",
+        "सहयोगी व्यक्तियों के साथ सहयोग प्राप्त करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate new tasks or projects",
+        "Motivate children through social and cultural activities"
+      ],
+      "hi": [
+        "नए कार्य या प्रोजेक्ट शुरू करें",
+        "सामाजिक और सांस्कृतिक गतिविधियों से बच्चों को प्रेरित करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Monitor and manage tendencies toward ego and arrogance",
+        "Avoid conflicts arising from pride"
+      ],
+      "hi": [
+        "अहंकार और अकड़ की प्रवृत्तियों पर नियंत्रण रखें",
+        "अहंकार से उत्पन्न विवादों से बचें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "children",
+      "development",
+      "education",
+      "social events",
+      "leadership",
+      "new tasks",
+      "collaboration",
+      "ego",
+      "arrogance"
+    ],
+    "hi": [
+      "बच्चे",
+      "विकास",
+      "शिक्षा",
+      "सामाजिक कार्यक्रम",
+      "नेतृत्व",
+      "नए कार्य",
+      "सहयोग",
+      "अहंकार",
+      "अकड़"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "motivational",
+      "transformative",
+      "collaborative",
+      "cautious"
+    ],
+    "hi": [
+      "प्रेरणादायक",
+      "परिवर्तनकारी",
+      "सहयोगात्मक",
+      "सावधान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "child development",
+      "leadership",
+      "education",
+      "social motivation",
+      "ego awareness"
+    ],
+    "hi": [
+      "बच्चों का विकास",
+      "नेतृत्व",
+      "शिक्षा",
+      "सामाजिक प्रेरणा",
+      "अहंकार की जागरूकता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-con-sun",
+      "core": "A key phase for growth and leadership, especially affecting children’s development and social motivation, with a caution on ego.",
+      "tone": "Warm, neutral, encouraging with gentle caution"
+    },
+    "hi": {
+      "title": "सूर्य संयोजन सूर्य",
+      "core": "विकास और नेतृत्व का महत्वपूर्ण चरण, विशेषकर बच्चों के विकास और सामाजिक प्रेरणा पर प्रभावी, साथ ही अहंकार के प्रति सावधानी।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, प्रोत्साहित करने वाला और सौम्य सावधानी के साथ"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period is highly significant for children and indicates their transition into the next stage of development. It is an excellent period for leadership, initiating new tasks, and gaining collaboration from the right people. However, if other circumstances are unfavorable, the person may become trapped in ego and arrogance.",
+        "hi": "यह समय बच्चों के लिए अत्यंत महत्वपूर्ण होता है और उनके विकास के अगले चरण में प्रवेश करने का संकेत देता है। यह समय नेतृत्व की भावनाए नए कार्यों की शुरुआतए और सही लोगों के साथ सहयोग प्राप्त करने के लिए श्रेष्ठ होता है। यदि अन्य परिस्थितियाँ प्रतिकूल होंए तो व्यक्ति अहंकार और अकड़ में फंस सकता है।"
+      },
+      "career": {
+        "en": "Leadership, initiating new tasks, and gaining collaboration from the right people are highlighted as positive career aspects during this period.",
+        "hi": "इस अवधि में नेतृत्व, नए कार्यों की शुरुआत और सही लोगों से सहयोग प्राप्त करना करियर के लिए सकारात्मक पहलू हैं।"
+      },
+      "relationships": {
+        "en": "Education, social, and cultural events provide excitement and motivation, increasing opportunities for collaboration.",
+        "hi": "शिक्षा, सामाजिक और सांस्कृतिक घटनाएं उत्साह और प्रेरणा प्रदान करती हैं, जिससे सहयोग के अवसर बढ़ते हैं।"
+      },
+      "money": {
+        "en": "New initiatives and collaborations may bring financial benefits, but caution is advised if other factors are unfavorable.",
+        "hi": "नए प्रयास और सहयोग वित्तीय लाभ ला सकते हैं, परंतु यदि अन्य कारक प्रतिकूल हों तो सावधानी आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "There is a risk of ego and arrogance affecting mental well-being if conditions are not favorable.",
+        "hi": "यदि परिस्थितियाँ अनुकूल न हों तो अहंकार और अकड़ मानसिक स्वास्थ्य को प्रभावित कर सकती हैं।"
+      }
+    },
+    "aliases": [
+      "Sun conjunction Sun",
+      "Sun CON Sun",
+      "Sun-Conjunction-Sun",
+      "Sun Conjunction to Sun"
+    ]
+  }
+}

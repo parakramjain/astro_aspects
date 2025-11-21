@@ -1,0 +1,269 @@
+{
+  "id": "JUP_OPP_MAR__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Opposition",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Excessive ambition, overconfidence, and self-importance lead to losses, deception, and family disputes. Overspending and professional setbacks occur, with possible travel scams and institutional problems for those involved in charities.",
+    "hi": "अत्यधिक महत्वाकांक्षा, अत्यधिक आत्मविश्वास और खुद को महत्वपूर्ण समझने की आदत से हानि, धोखा और पारिवारिक मतभेद उत्पन्न होते हैं। अत्यधिक खर्च और पेशेवर नुकसान होते हैं, यात्रा में धोखे की संभावना और धर्मार्थ संस्थाओं से जुड़े लोगों को संस्था संबंधी समस्याएं हो सकती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Professional expansion causes losses and fluctuations, leading to damage and increased construction costs.",
+      "hi": "पेशेवर कार्यप्रसार से हानि और उतार-चढ़ाव होते हैं, जिससे नुकसान और निर्माण कार्य में अधिक खर्च होता है।"
+    },
+    "relationships": {
+      "en": "Family disputes arise and those connected to charities may face institutional problems.",
+      "hi": "पारिवारिक मतभेद उत्पन्न होते हैं और धर्मार्थ संस्थाओं से जुड़े लोगों को संस्था संबंधी समस्याएं हो सकती हैं।"
+    },
+    "money": {
+      "en": "Overspending is common, with risks of losses and travel-related scams.",
+      "hi": "अत्यधिक खर्च होता है, हानि और यात्रा में धोखे की संभावना रहती है।"
+    },
+    "health_adj": {
+      "en": "Fluctuations and overexpansion may cause damage, implying stress or instability.",
+      "hi": "उतार-चढ़ाव और अत्यधिक कार्यप्रसार से हानि हो सकती है, जो तनाव या अस्थिरता का संकेत हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Financial loss",
+      "Family disputes",
+      "Travel scams",
+      "Professional setbacks",
+      "Institutional problems"
+    ],
+    "hi": [
+      "आर्थिक हानि",
+      "पारिवारिक मतभेद",
+      "यात्रा में धोखा",
+      "पेशेवर नुकसान",
+      "संस्था संबंधी समस्याएं"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Overconfidence may lead to deception and losses.",
+      "Overspending can cause financial strain.",
+      "Travel scams are possible.",
+      "Family disputes may arise.",
+      "Institutional issues may affect charity-related work."
+    ],
+    "hi": [
+      "अत्यधिक आत्मविश्वास से धोखा और हानि हो सकती है।",
+      "अत्यधिक खर्च आर्थिक दबाव पैदा कर सकता है।",
+      "यात्रा में धोखे की संभावना है।",
+      "पारिवारिक मतभेद उत्पन्न हो सकते हैं।",
+      "धर्मार्थ कार्यों में संस्था संबंधी समस्याएं हो सकती हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in financial and professional expansion.",
+        "Avoid overconfidence and verify information carefully.",
+        "Be vigilant about travel plans and related offers.",
+        "Manage family relationships with care.",
+        "Monitor charity or institutional engagements closely."
+      ],
+      "hi": [
+        "आर्थिक और पेशेवर विस्तार में सावधानी बरतें।",
+        "अत्यधिक आत्मविश्वास से बचें और जानकारी की पुष्टि करें।",
+        "यात्रा योजनाओं और प्रस्तावों में सतर्क रहें।",
+        "पारिवारिक संबंधों को ध्यान से संभालें।",
+        "धर्मार्थ या संस्था संबंधी कार्यों पर नजदीकी नजर रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid overspending and impulsive decisions.",
+        "Double-check travel arrangements.",
+        "Address family disagreements diplomatically."
+      ],
+      "hi": [
+        "अत्यधिक खर्च और आवेगी निर्णयों से बचें।",
+        "यात्रा की व्यवस्था को दोबारा जांचें।",
+        "पारिवारिक मतभेदों को कूटनीतिक तरीके से सुलझाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and adjust financial plans to prevent losses.",
+        "Resolve family disputes with patience.",
+        "Reassess professional goals to avoid overexpansion."
+      ],
+      "hi": [
+        "हानि रोकने के लिए वित्तीय योजनाओं की समीक्षा और समायोजन करें।",
+        "पारिवारिक मतभेदों को धैर्य से सुलझाएं।",
+        "अत्यधिक विस्तार से बचने के लिए पेशेवर लक्ष्यों का पुनर्मूल्यांकन करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "ambition",
+      "overconfidence",
+      "loss",
+      "deception",
+      "overspending",
+      "family disputes",
+      "travel scams",
+      "professional setbacks",
+      "institutional problems",
+      "fluctuations",
+      "construction costs"
+    ],
+    "hi": [
+      "महत्वाकांक्षा",
+      "अत्यधिक आत्मविश्वास",
+      "हानि",
+      "धोखा",
+      "अत्यधिक खर्च",
+      "पारिवारिक मतभेद",
+      "यात्रा में धोखा",
+      "पेशेवर नुकसान",
+      "संस्था समस्याएं",
+      "उतार-चढ़ाव",
+      "निर्माण खर्च"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "caution",
+      "risk",
+      "instability",
+      "overexpansion",
+      "conflict"
+    ],
+    "hi": [
+      "सावधानी",
+      "जोखिम",
+      "अस्थिरता",
+      "अत्यधिक विस्तार",
+      "संघर्ष"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "ambition vs reality",
+      "financial caution",
+      "family dynamics",
+      "professional challenges",
+      "travel vigilance"
+    ],
+    "hi": [
+      "महत्वाकांक्षा और वास्तविकता",
+      "आर्थिक सावधानी",
+      "पारिवारिक संबंध",
+      "पेशेवर चुनौतियाँ",
+      "यात्रा में सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-opp-mar",
+      "core": "This aspect highlights risks from excessive ambition and overconfidence leading to losses, deception, and disputes in family and professional life.",
+      "tone": "Warm, neutral, and cautionary"
+    },
+    "hi": {
+      "title": "बृहस्पति विपरीत मंगल",
+      "core": "यह योग अत्यधिक महत्वाकांक्षा और आत्मविश्वास से होने वाले हानि, धोखे और पारिवारिक तथा पेशेवर विवादों के जोखिम को दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्ण"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Excessive ambition, overconfidence, and self-importance lead to losses, deception, and family disputes. Overspending and professional setbacks occur, with possible travel scams and institutional problems for those involved in charities.",
+        "hi": "अत्यधिक महत्वाकांक्षा, अत्यधिक आत्मविश्वास और खुद को महत्वपूर्ण समझने की आदत से हानि, धोखा और पारिवारिक मतभेद उत्पन्न होते हैं। अत्यधिक खर्च और पेशेवर नुकसान होते हैं, यात्रा में धोखे की संभावना और धर्मार्थ संस्थाओं से जुड़े लोगों को संस्था संबंधी समस्याएं हो सकती हैं।"
+      },
+      "career": {
+        "en": "Professional expansion causes losses and fluctuations, leading to damage and increased construction costs.",
+        "hi": "पेशेवर कार्यप्रसार से हानि और उतार-चढ़ाव होते हैं, जिससे नुकसान और निर्माण कार्य में अधिक खर्च होता है।"
+      },
+      "relationships": {
+        "en": "Family disputes arise and those connected to charities may face institutional problems.",
+        "hi": "पारिवारिक मतभेद उत्पन्न होते हैं और धर्मार्थ संस्थाओं से जुड़े लोगों को संस्था संबंधी समस्याएं हो सकती हैं।"
+      },
+      "money": {
+        "en": "Overspending is common, with risks of losses and travel-related scams.",
+        "hi": "अत्यधिक खर्च होता है, हानि और यात्रा में धोखे की संभावना रहती है।"
+      },
+      "health_adj": {
+        "en": "Fluctuations and overexpansion may cause damage, implying stress or instability.",
+        "hi": "उतार-चढ़ाव और अत्यधिक कार्यप्रसार से हानि हो सकती है, जो तनाव या अस्थिरता का संकेत हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Jupiter opposition Mars",
+      "Jup OPP Mar",
+      "Jupiter-Opposition-Mars",
+      "Jupiter Opposition to Mars"
+    ]
+  }
+}

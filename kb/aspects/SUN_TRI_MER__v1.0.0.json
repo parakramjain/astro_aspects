@@ -1,0 +1,259 @@
+{
+  "id": "SUN_TRI_MER__v1.0.0",
+  "pair": [
+    "Sun",
+    "Trine",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect facilitates confident intellectual and creative expression, fostering social and literary connections, favorable communication, and progress in education and leadership.",
+    "hi": "यह योग बौद्धिक और रचनात्मक अभिव्यक्ति में आत्मविश्वास प्रदान करता है, सामाजिक और साहित्यिक संबंधों को बढ़ावा देता है, संवाद में सुगमता लाता है और शिक्षा तथा नेतृत्व में उन्नति का अवसर देता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Ideal time for higher education, research, writing, publication, and engaging with authorities or higher positions.",
+      "hi": "उच्च शिक्षा, शोध, लेखन, प्रकाशन और अधिकार प्राप्त या उच्च पदों से संपर्क करने के लिए उत्तम समय।"
+    },
+    "relationships": {
+      "en": "Favorable for family reunions, pleasant conversations with loved ones, and educational discussions with siblings, friends, neighbors, and colleagues.",
+      "hi": "पारिवारिक मेल-मिलाप, प्रियजनों से सुखद वार्ता और भाई-बहन, मित्र, पड़ोसी, सहकर्मियों के साथ शैक्षिक संवाद के लिए अनुकूल।"
+    },
+    "money": {
+      "en": "Good period for transactions requiring signatures or formalities; ability to influence others and gain cooperation or benefits.",
+      "hi": "हस्ताक्षर या औपचारिकताओं वाले व्यवहार के लिए उचित समय; दूसरों को प्रभावित कर लाभ या सहयोग प्राप्त करने की क्षमता।"
+    },
+    "health_adj": {
+      "en": "Increased interest in food, music, and beauty contributes to overall happiness and well-being during this time.",
+      "hi": "भोजन, संगीत और सौंदर्य में रुचि बढ़ने से इस समय प्रसन्नता और स्वास्थ्य में सुधार होता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational achievements",
+      "Family gatherings",
+      "Literary or artistic pursuits",
+      "Leadership opportunities",
+      "Travel plans"
+    ],
+    "hi": [
+      "शैक्षिक उपलब्धियां",
+      "पारिवारिक मिलन",
+      "साहित्यिक या कलात्मक कार्य",
+      "नेतृत्व के अवसर",
+      "यात्रा योजनाएं"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No specific risks noted; maintain balanced communication and avoid overconfidence."
+    ],
+    "hi": [
+      "कोई विशेष जोखिम नहीं; संतुलित संवाद बनाए रखें और अति आत्मविश्वास से बचें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative and intellectual work",
+        "Plan family or social gatherings",
+        "Initiate educational conversations",
+        "Prepare for travel"
+      ],
+      "hi": [
+        "रचनात्मक और बौद्धिक कार्य करें",
+        "पारिवारिक या सामाजिक मिलन की योजना बनाएं",
+        "शैक्षिक वार्तालाप शुरू करें",
+        "यात्रा की तैयारी करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Sign important documents or complete formalities",
+        "Engage with authorities or higher positions",
+        "Accept leadership roles",
+        "Focus on reading, writing, research, or publication"
+      ],
+      "hi": [
+        "महत्वपूर्ण दस्तावेज़ों पर हस्ताक्षर करें या औपचारिकताएं पूरी करें",
+        "अधिकारियों या उच्च पदों से संपर्क करें",
+        "नेतृत्व की भूमिका स्वीकार करें",
+        "पठन, लेखन, शोध या प्रकाशन पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue refining ideas and plans",
+        "Maintain social and literary connections",
+        "Sustain self-reliance and positive expression"
+      ],
+      "hi": [
+        "विचारों और योजनाओं को सुधारते रहें",
+        "सामाजिक और साहित्यिक संबंध बनाए रखें",
+        "आत्मनिर्भरता और सकारात्मक अभिव्यक्ति बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intellectual",
+      "creative expression",
+      "confidence",
+      "communication",
+      "family reunions",
+      "education",
+      "literature",
+      "leadership",
+      "travel",
+      "self-reliance"
+    ],
+    "hi": [
+      "बौद्धिक",
+      "रचनात्मक अभिव्यक्ति",
+      "आत्मविश्वास",
+      "संचार",
+      "पारिवारिक मिलन",
+      "शिक्षा",
+      "साहित्य",
+      "नेतृत्व",
+      "यात्रा",
+      "आत्मनिर्भरता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "supportive",
+      "expressive",
+      "progressive",
+      "harmonious"
+    ],
+    "hi": [
+      "अनुकूल",
+      "सहायक",
+      "अभिव्यक्तिपूर्ण",
+      "प्रगतिशील",
+      "सामंजस्यपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "intellectual growth",
+      "social harmony",
+      "creative productivity",
+      "educational advancement",
+      "leadership development"
+    ],
+    "hi": [
+      "बौद्धिक विकास",
+      "सामाजिक सामंजस्य",
+      "रचनात्मक उत्पादकता",
+      "शैक्षिक उन्नति",
+      "नेतृत्व विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-tri-mer",
+      "core": "Confident intellectual and creative expression fosters social connections, educational progress, and leadership opportunities.",
+      "tone": "Warm, encouraging, and optimistic"
+    },
+    "hi": {
+      "title": "सूर्य त्रिकोण बुध",
+      "core": "आत्मविश्वासपूर्ण बौद्धिक और रचनात्मक अभिव्यक्ति सामाजिक संबंधों, शैक्षिक प्रगति और नेतृत्व के अवसरों को बढ़ावा देती है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Intellectual, creative expression and creative work are quickly displayed. The individual is confident in expressing personal thoughts.",
+        "hi": "बौद्धिकताए रचनात्मक अभिव्यक्ति और रचनात्मक कार्य शीघ्र प्रदर्शित होते हैं। व्यक्ति अपने व्यक्तिगत विचारपूर्ण आत्मविश्वास के साथ प्रदर्शित करने की क्षमता में होता है।"
+      },
+      "career": {
+        "en": "This is an ideal time for higher education, reading, writing, research, publication, and publicity. Engagement with authorities and higher positions is favorable.",
+        "hi": "उच्च शिक्षा/पठन/लेखन/शोध/प्रकाशन/प्रचार हेतु उत्तम समय। अधिकार प्राप्त/उच्च पदों/वरिष्ठ व्यक्तियों से वार्ता का उचित समय।"
+      },
+      "relationships": {
+        "en": "Favorable time for family reunions, educational conversations with siblings, friends, neighbors, and colleagues, or literary work and pleasant talks with loved ones.",
+        "hi": "पारिवारिक मेल.मिलापए शैक्षिक वार्तालाप/भाई.बहनए मित्रए पड़ोसीए सहकर्मी के साथ सहयोग करने हेतु/साहित्यिक कार्य करने हेतु/प्रियतम से वार्ता करने हेतु उचित समय होता है।"
+      },
+      "money": {
+        "en": "Transactions requiring signatures or formalities should be done now. The person can influence others with plans and gain benefits or cooperation.",
+        "hi": "कोई व्यवहार हस्ताक्षर हेतु उचित समय/अवसर। व्यक्ति अपनी योजनाओं का दूसरों को प्रभावित कर लाभ उठा सकता है या सहयोग प्राप्त कर सकता है।"
+      },
+      "health_adj": {
+        "en": "Interests in food, music, and beauty increase, contributing to happiness during this time.",
+        "hi": "भोजन की रुचिए संगीत और सौंदर्य के प्रति बढ़ जाती है। इस समय में व्यक्ति प्रसन्न रहता है।"
+      }
+    },
+    "aliases": [
+      "Sun trine Mercury",
+      "Sun TRI Mer",
+      "Sun-Trine-Mercury",
+      "Sun Trine to Mercury"
+    ]
+  }
+}

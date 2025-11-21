@@ -1,0 +1,254 @@
+{
+  "id": "MAR_CON_MAR__v1.0.0",
+  "pair": [
+    "Mars",
+    "Conjunction",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect signifies enthusiasm, resistance, and the initiation of new work, marked by dynamic effort, increased power, and intense ambition. Professionally, it reflects growing ambition and steadfast pursuit of goals, driven by a desire for success. It brings opportunities in joint ventures, insurance, taxes, heavy machinery production, and repair work, with potential for major transactions and profits. The individual tends to remain victorious despite fluctuations.",
+    "hi": "यह योग उत्साह, प्रतिरोध और नए कार्य की शुरुआत को दर्शाता है, जिसमें कार्य की गतिशीलता, शक्ति वृद्धि और तीव्र महत्वाकांक्षा होती है। पेशेवर रूप से, यह बढ़ती महत्वाकांक्षा और सफलता की इच्छा से प्रेरित लक्ष्य पर स्थिरता को दर्शाता है। यह संयुक्त व्यवसाय, बीमा, कर, भारी मशीनरी उत्पादन और मरम्मत कार्य में अवसर लाता है, साथ ही बड़े लेन-देन और लाभ के अवसर भी मिलते हैं। व्यक्ति उतार-चढ़ाव में भी विजेता बना रहता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Ambition grows; steady effort towards goals; opportunities in joint ventures, insurance, taxes, heavy machinery production, and repair work; potential for major transactions and profits.",
+      "hi": "महत्वाकांक्षा बढ़ती है; लक्ष्यों की ओर लगातार प्रयास; संयुक्त व्यवसाय, बीमा, कर, भारी मशीनरी उत्पादन और मरम्मत कार्य में अवसर; बड़े लेन-देन और लाभ के अवसर।"
+    },
+    "relationships": {
+      "en": "Driven by ambition and success desire; steady and resolute in professional goals; opportunities arise in joint ventures.",
+      "hi": "महत्वाकांक्षा और सफलता की इच्छा से प्रेरित; पेशेवर लक्ष्यों में स्थिर और दृढ़; संयुक्त व्यवसाय में अवसर बनते हैं।"
+    },
+    "money": {
+      "en": "Opportunities for major transactions and profits; involvement in insurance, taxes, heavy machinery production, and repair work.",
+      "hi": "बड़े लेन-देन और लाभ के अवसर; बीमा, कर, भारी मशीनरी उत्पादन और मरम्मत कार्य में संलग्नता।"
+    },
+    "health_adj": {
+      "en": "Increased power and dynamism; resilience through fluctuations.",
+      "hi": "शक्ति और गतिशीलता में वृद्धि; उतार-चढ़ाव में सहनशीलता।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Initiation of new work",
+      "Joint ventures",
+      "Major transactions",
+      "Opportunities in machinery and repair"
+    ],
+    "hi": [
+      "नए कार्य की शुरुआत",
+      "संयुक्त व्यवसाय",
+      "बड़े लेन-देन",
+      "मशीनरी और मरम्मत में अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Fluctuations may occur despite overall victory",
+      "Potential resistance or challenges during initiation"
+    ],
+    "hi": [
+      "कुल मिलाकर विजय के बावजूद उतार-चढ़ाव हो सकते हैं",
+      "शुरुआत में प्रतिरोध या चुनौतियाँ हो सकती हैं"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Harness enthusiasm to start new projects",
+        "Maintain consistent effort towards goals",
+        "Explore opportunities in joint ventures and machinery sectors"
+      ],
+      "hi": [
+        "नए प्रोजेक्ट शुरू करने के लिए उत्साह का उपयोग करें",
+        "लक्ष्यों की ओर लगातार प्रयास बनाए रखें",
+        "संयुक्त व्यवसाय और मशीनरी क्षेत्र में अवसर तलाशें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus ambition on professional goals",
+        "Engage actively in transactions and joint ventures",
+        "Leverage increased power and dynamism"
+      ],
+      "hi": [
+        "पेशेवर लक्ष्यों पर महत्वाकांक्षा केंद्रित करें",
+        "लेन-देन और संयुक्त व्यवसाय में सक्रिय रूप से भाग लें",
+        "बढ़ी हुई शक्ति और गतिशीलता का लाभ उठाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review progress and adjust efforts",
+        "Remain resilient through fluctuations",
+        "Consolidate gains from transactions"
+      ],
+      "hi": [
+        "प्रगति की समीक्षा करें और प्रयास समायोजित करें",
+        "उतार-चढ़ाव में सहनशील बने रहें",
+        "लेन-देन से प्राप्त लाभों को मजबूत करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "enthusiasm",
+      "ambition",
+      "steady effort",
+      "joint ventures",
+      "machinery",
+      "repair",
+      "major transactions",
+      "profits",
+      "victory",
+      "fluctuations"
+    ],
+    "hi": [
+      "उत्साह",
+      "महत्वाकांक्षा",
+      "लगातार प्रयास",
+      "संयुक्त व्यवसाय",
+      "मशीनरी",
+      "मरम्मत",
+      "बड़े लेन-देन",
+      "लाभ",
+      "विजय",
+      "उतार-चढ़ाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "dynamic",
+      "ambitious",
+      "resilient",
+      "opportunistic",
+      "steady"
+    ],
+    "hi": [
+      "गतिशील",
+      "महत्वाकांक्षी",
+      "सहनशील",
+      "अवसरवादी",
+      "स्थिर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "new beginnings",
+      "financial opportunity",
+      "power increase",
+      "victory through challenges"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "नई शुरुआत",
+      "वित्तीय अवसर",
+      "शक्ति वृद्धि",
+      "चुनौतियों में विजय"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-con-mar",
+      "core": "Enthusiasm and ambition drive new initiatives and steady efforts, bringing opportunities in joint ventures, machinery, and major transactions.",
+      "tone": "Warm, neutral, and encouraging"
+    },
+    "hi": {
+      "title": "मंगल संयोजन मंगल",
+      "core": "उत्साह और महत्वाकांक्षा नए कार्यों और लगातार प्रयासों को प्रेरित करते हैं, जो संयुक्त व्यवसाय, मशीनरी और बड़े लेन-देन में अवसर लाते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Enthusiasm, resistance, initiation of new work, dynamic effort, increased power, intense ambition, professional ambition, steadfast goals, desire for success, joint ventures, insurance, taxes, heavy machinery production, repair machinery, major transactions, profits, victory through fluctuations.",
+        "hi": "उत्साह, प्रतिरोध, नया कार्य शुरू करना, गतिशील प्रयास, शक्ति वृद्धि, तीव्र महत्वाकांक्षा, पेशेवर महत्वाकांक्षा, स्थिर लक्ष्य, सफलता की इच्छा, संयुक्त व्यवसाय, बीमा, कर, भारी मशीनरी उत्पादन, मरम्मत मशीनरी, बड़े लेन-देन, लाभ, उतार-चढ़ाव में विजय।"
+      },
+      "career": {
+        "en": "Growing ambition, steady effort, opportunities in joint ventures, insurance, taxes, heavy machinery production, and repair work, major transactions and profits.",
+        "hi": "बढ़ती महत्वाकांक्षा, लगातार प्रयास, संयुक्त व्यवसाय, बीमा, कर, भारी मशीनरी उत्पादन और मरम्मत कार्य में अवसर, बड़े लेन-देन और लाभ।"
+      },
+      "relationships": {
+        "en": "Ambition and desire for success drive steadfastness in goals; opportunities in joint ventures.",
+        "hi": "महत्वाकांक्षा और सफलता की इच्छा से लक्ष्य में स्थिरता; संयुक्त व्यवसाय में अवसर।"
+      },
+      "money": {
+        "en": "Opportunities for major transactions and profits; involvement in insurance, taxes, heavy machinery production, and repair.",
+        "hi": "बड़े लेन-देन और लाभ के अवसर; बीमा, कर, भारी मशीनरी उत्पादन और मरम्मत में संलग्नता।"
+      },
+      "health_adj": {
+        "en": "Increased power and dynamism; resilience through fluctuations.",
+        "hi": "शक्ति और गतिशीलता में वृद्धि; उतार-चढ़ाव में सहनशीलता।"
+      }
+    },
+    "aliases": [
+      "Mars conjunction Mars",
+      "Mar CON Mar",
+      "Mars-Conjunction-Mars",
+      "Mars Conjunction to Mars"
+    ]
+  }
+}

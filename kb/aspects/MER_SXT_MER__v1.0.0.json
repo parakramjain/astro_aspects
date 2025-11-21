@@ -1,0 +1,236 @@
+{
+  "id": "MER_SEX_MER__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Sextile",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A favorable period for communication, original thinking, study, writing, and discussions, supporting mental energy and productivity.",
+    "hi": "संवाद, मूल विचार, अध्ययन, लेखन और बातचीत के लिए अनुकूल समय, जो मानसिक ऊर्जा और उत्पादकता को बढ़ावा देता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Good for marketing, networking, study, exams, and intellectual work.",
+      "hi": "मार्केटिंग, नेटवर्किंग, अध्ययन, परीक्षा और बौद्धिक कार्यों के लिए अच्छा समय।"
+    },
+    "relationships": {
+      "en": "Supports discussions and effective communication with others.",
+      "hi": "बातचीत और प्रभावी संवाद के लिए अनुकूल।"
+    },
+    "money": {
+      "en": "Favorable for marketing and networking activities that may enhance financial opportunities.",
+      "hi": "वित्तीय अवसर बढ़ाने वाले मार्केटिंग और नेटवर्किंग कार्यों के लिए अनुकूल।"
+    },
+    "health_adj": {
+      "en": "A good time for well-being with strong mental energy.",
+      "hi": "स्वास्थ्य और मानसिक ऊर्जा के लिए अच्छा समय।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "communication",
+      "study",
+      "exams",
+      "writing",
+      "networking"
+    ],
+    "hi": [
+      "संवाद",
+      "अध्ययन",
+      "परीक्षा",
+      "लेखन",
+      "नेटवर्किंग"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in communication and discussions",
+        "Focus on original ideas and writing",
+        "Participate in marketing and networking"
+      ],
+      "hi": [
+        "संवाद और बातचीत में भाग लें",
+        "मूल विचारों और लेखन पर ध्यान दें",
+        "मार्केटिंग और नेटवर्किंग में भाग लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Study and prepare for exams",
+        "Utilize strong mental energy for productive work"
+      ],
+      "hi": [
+        "अध्ययन करें और परीक्षाओं की तैयारी करें",
+        "उत्पादक कार्य के लिए मानसिक ऊर्जा का उपयोग करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain focus on communication and learning activities"
+      ],
+      "hi": [
+        "संवाद और अध्ययन गतिविधियों पर ध्यान बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "communication",
+      "original ideas",
+      "study",
+      "writing",
+      "discussions",
+      "marketing",
+      "networking",
+      "mental energy"
+    ],
+    "hi": [
+      "संवाद",
+      "मूल विचार",
+      "अध्ययन",
+      "लेखन",
+      "बातचीत",
+      "मार्केटिंग",
+      "नेटवर्किंग",
+      "मानसिक ऊर्जा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "productive",
+      "favorable",
+      "intellectual",
+      "supportive"
+    ],
+    "hi": [
+      "उत्पादक",
+      "अनुकूल",
+      "बौद्धिक",
+      "सहायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication",
+      "learning",
+      "mental energy",
+      "networking"
+    ],
+    "hi": [
+      "संवाद",
+      "अध्ययन",
+      "मानसिक ऊर्जा",
+      "नेटवर्किंग"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-sxt-mer",
+      "core": "A favorable period for communication, original thinking, study, writing, and discussions, supporting mental energy and productivity.",
+      "tone": "Warm, encouraging, and supportive"
+    },
+    "hi": {
+      "title": "बुध षट्कोण बुध",
+      "core": "संवाद, मूल विचार, अध्ययन, लेखन और बातचीत के लिए अनुकूल समय, जो मानसिक ऊर्जा और उत्पादकता को बढ़ावा देता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और सहायक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A great time for communication, original ideas, deeper study, writing, and discussions. It’s also good for marketing and networking. This is a productive phase for study, exams, and well-being, with strong mental energy.",
+        "hi": "यह समय संवादए मूल विचारोंए अधिक पढ़ाईए लेखन और बातचीत के लिए अनुकूल है। यह मार्केटिंग और नेटवर्किंग कार्यों के लिए अच्छा समय होता है। अ/ययनए परीक्षा और स्वास्थ्य के लिए भी यह समय ठीक होता है। मानसिक ऊर्जा अच्छी बनी रहती है।"
+      },
+      "career": {
+        "en": "Good for marketing, networking, study, exams, and intellectual work.",
+        "hi": "मार्केटिंग, नेटवर्किंग, अध्ययन, परीक्षा और बौद्धिक कार्यों के लिए अच्छा समय।"
+      },
+      "relationships": {
+        "en": "Supports discussions and effective communication with others.",
+        "hi": "बातचीत और प्रभावी संवाद के लिए अनुकूल।"
+      },
+      "money": {
+        "en": "Favorable for marketing and networking activities that may enhance financial opportunities.",
+        "hi": "वित्तीय अवसर बढ़ाने वाले मार्केटिंग और नेटवर्किंग कार्यों के लिए अनुकूल।"
+      },
+      "health_adj": {
+        "en": "A good time for well-being with strong mental energy.",
+        "hi": "स्वास्थ्य और मानसिक ऊर्जा के लिए अच्छा समय।"
+      }
+    },
+    "aliases": [
+      "Mercury sextile Mercury",
+      "Mer SEX Mer",
+      "Mercury-Sextile-Mercury",
+      "Mercury Sextile to Mercury"
+    ]
+  }
+}

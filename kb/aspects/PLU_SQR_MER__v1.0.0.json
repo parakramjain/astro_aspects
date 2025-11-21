@@ -1,0 +1,253 @@
+{
+  "id": "PLU_SQR_MER__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Square",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Difficulty controlling thoughts; tendency to manipulate or dominate; possible health issues; disruptions in travel; complications in property, tax, or investments.",
+    "hi": "सोच पर नियंत्रण कठिन होता है; व्यक्ति में जबरदस्ती या नियंत्रण की प्रवृत्ति; स्वास्थ्य समस्याएं हो सकती हैं; यात्रा में रुकावटें; संपत्ति, कर या निवेश में जटिलताएं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Potential challenges in managing professional communications or decisions; risk of manipulative behavior affecting work relations.",
+      "hi": "पेशेवर संचार या निर्णयों में चुनौतियां; कार्य संबंधों में जबरदस्ती का प्रभाव।"
+    },
+    "relationships": {
+      "en": "Tendency to dominate or manipulate others; possible strain due to controlling behavior.",
+      "hi": "दूसरों पर नियंत्रण या दबदबा बनाने की प्रवृत्ति; नियंत्रण की वजह से संबंधों में तनाव।"
+    },
+    "money": {
+      "en": "Complications related to property, taxes, or investments; financial matters may face obstacles.",
+      "hi": "संपत्ति, कर या निवेश से जुड़ी समस्याएं; वित्तीय मामलों में रुकावटें।"
+    },
+    "health_adj": {
+      "en": "Health may be negatively affected; travel disruptions could impact well-being.",
+      "hi": "स्वास्थ्य पर नकारात्मक असर; यात्रा में रुकावटें स्वास्थ्य को प्रभावित कर सकती हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Health issues",
+      "Travel disruptions",
+      "Financial complications",
+      "Property or tax problems"
+    ],
+    "hi": [
+      "स्वास्थ्य समस्याएं",
+      "यात्रा में रुकावटें",
+      "वित्तीय जटिलताएं",
+      "संपत्ति या कर संबंधी समस्याएं"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Difficulty controlling thoughts may lead to impulsive actions.",
+      "Manipulative or dominating behavior can strain relationships.",
+      "Health and travel disruptions require caution.",
+      "Financial and property matters may encounter complications."
+    ],
+    "hi": [
+      "सोच पर नियंत्रण न होने से आवेगपूर्ण कार्य हो सकते हैं।",
+      "जबरदस्ती या नियंत्रण संबंधी व्यवहार संबंधों में तनाव ला सकता है।",
+      "स्वास्थ्य और यात्रा में रुकावटों के प्रति सावधानी आवश्यक है।",
+      "वित्तीय और संपत्ति मामलों में जटिलताएं हो सकती हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Monitor thoughts carefully to avoid impulsive decisions.",
+        "Be mindful of controlling tendencies in interactions.",
+        "Prepare for possible travel delays or disruptions.",
+        "Review financial and property matters cautiously."
+      ],
+      "hi": [
+        "आवेगपूर्ण निर्णय से बचने के लिए सोच पर ध्यान दें।",
+        "संबंधों में नियंत्रण की प्रवृत्ति से सावधान रहें।",
+        "संभावित यात्रा में देरी या रुकावट के लिए तैयार रहें।",
+        "वित्तीय और संपत्ति मामलों की सावधानीपूर्वक समीक्षा करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid manipulative communication.",
+        "Take extra care with health and travel plans.",
+        "Double-check tax and investment details."
+      ],
+      "hi": [
+        "जबरदस्त संवाद से बचें।",
+        "स्वास्थ्य और यात्रा योजनाओं में अतिरिक्त सावधानी बरतें।",
+        "कर और निवेश के विवरण को दोबारा जांचें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on controlling behaviors and adjust accordingly.",
+        "Allow flexibility in travel and financial arrangements.",
+        "Focus on restoring mental clarity and health."
+      ],
+      "hi": [
+        "नियंत्रण संबंधी व्यवहार पर विचार करें और सुधार करें।",
+        "यात्रा और वित्तीय व्यवस्थाओं में लचीलापन रखें।",
+        "मानसिक स्पष्टता और स्वास्थ्य पुनर्स्थापित करने पर ध्यान दें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "thought control",
+      "manipulation",
+      "domination",
+      "health impact",
+      "travel disruption",
+      "property issues",
+      "tax complications",
+      "investment problems"
+    ],
+    "hi": [
+      "सोच नियंत्रण",
+      "जबरदस्ती",
+      "नियंत्रण",
+      "स्वास्थ्य प्रभाव",
+      "यात्रा रुकावट",
+      "संपत्ति समस्याएं",
+      "कर जटिलताएं",
+      "निवेश समस्याएं"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "disruptive",
+      "controlling",
+      "complicating"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "विघटनकारी",
+      "नियंत्रणकारी",
+      "जटिल"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental tension",
+      "power dynamics",
+      "health caution",
+      "financial vigilance"
+    ],
+    "hi": [
+      "मानसिक तनाव",
+      "शक्ति संबंध",
+      "स्वास्थ्य सावधानी",
+      "वित्तीय सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-squ-mer",
+      "core": "A period marked by difficulty in controlling thoughts, tendencies toward manipulation or domination, health concerns, travel disruptions, and complications in property or financial matters.",
+      "tone": "Warm, neutral, and cautiously observant."
+    },
+    "hi": {
+      "title": "प्लूटो स्क्वायर मर्करी",
+      "core": "यह समय सोच पर नियंत्रण की कठिनाई, जबरदस्ती या नियंत्रण की प्रवृत्ति, स्वास्थ्य संबंधी चिंताएं, यात्रा में रुकावटें, और संपत्ति या वित्तीय मामलों में जटिलताओं से चिह्नित है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Difficulty controlling thoughts; manipulative or dominating tendencies; health and travel disruptions; property, tax, or investment complications.",
+        "hi": "सोच पर नियंत्रण कठिनाई; जबरदस्ती या नियंत्रण प्रवृत्ति; स्वास्थ्य और यात्रा में रुकावट; संपत्ति, कर या निवेश की जटिलताएं।"
+      },
+      "career": {
+        "en": "Challenges in professional communication and decision-making; risk of manipulative behavior affecting work relations.",
+        "hi": "पेशेवर संचार और निर्णय लेने में चुनौतियां; कार्य संबंधों पर जबरदस्ती का प्रभाव।"
+      },
+      "relationships": {
+        "en": "Tendency to dominate or manipulate others causing strain in relationships.",
+        "hi": "दूसरों पर नियंत्रण या दबदबा बनाने की प्रवृत्ति से संबंधों में तनाव।"
+      },
+      "money": {
+        "en": "Complications in property, tax, and investment matters; financial obstacles.",
+        "hi": "संपत्ति, कर और निवेश मामलों में जटिलताएं; वित्तीय बाधाएं।"
+      },
+      "health_adj": {
+        "en": "Possible negative health effects and travel disruptions impacting well-being.",
+        "hi": "संभावित नकारात्मक स्वास्थ्य प्रभाव और यात्रा में रुकावटें जो स्वास्थ्य को प्रभावित करती हैं।"
+      }
+    },
+    "aliases": [
+      "Pluto square Mercury",
+      "Plu SQR Mer",
+      "Pluto-Square-Mercury",
+      "Pluto Square to Mercury"
+    ]
+  }
+}

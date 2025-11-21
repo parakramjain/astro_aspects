@@ -1,0 +1,245 @@
+{
+  "id": "MOO_OPP_PLU__v1.0.0",
+  "pair": [
+    "Moon",
+    "Opposition",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Challenges in understanding others' emotions lead to emotional distance and conflicts, especially within family and with women. Life changes occur beyond personal control, often involving joint assets or debt.",
+    "hi": "दूसरों की भावनाओं को समझने में कठिनाई के कारण परिवार में भावनात्मक दूरी और महिलाओं से टकराव होते हैं। जीवन में बड़े बदलाव व्यक्ति के नियंत्रण से बाहर होते हैं, जो संयुक्त संपत्ति या ऋण से संबंधित हो सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Potential disruptions due to emotional conflicts or sudden life changes affecting professional stability.",
+      "hi": "भावनात्मक टकराव या अचानक जीवन बदलावों के कारण पेशेवर स्थिरता प्रभावित हो सकती है।"
+    },
+    "relationships": {
+      "en": "Emotional distance and conflicts with family members and women are likely, causing strain in close relationships.",
+      "hi": "परिवार और महिलाओं के साथ भावनात्मक दूरी और टकराव संभव हैं, जो निकट संबंधों में तनाव उत्पन्न करते हैं।"
+    },
+    "money": {
+      "en": "Issues may arise related to joint assets or debts, leading to financial complications.",
+      "hi": "संयुक्त संपत्ति या ऋण से संबंधित समस्याएं उत्पन्न हो सकती हैं, जिससे वित्तीय जटिलताएं हो सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional stress from conflicts and uncontrollable changes may impact overall well-being.",
+      "hi": "टकराव और नियंत्रण से बाहर बदलावों के कारण भावनात्मक तनाव से समग्र स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional conflicts",
+      "Family disputes",
+      "Sudden life changes",
+      "Financial issues"
+    ],
+    "hi": [
+      "भावनात्मक टकराव",
+      "परिवारिक विवाद",
+      "अचानक जीवन बदलाव",
+      "वित्तीय समस्याएं"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Difficulty in empathizing with others' feelings.",
+      "Potential emotional distance within family.",
+      "Conflicts especially with women.",
+      "Life changes beyond personal control.",
+      "Financial risks involving joint assets or debt."
+    ],
+    "hi": [
+      "दूसरों की भावनाओं को समझने में कठिनाई।",
+      "परिवार में भावनात्मक दूरी की संभावना।",
+      "विशेषकर महिलाओं से टकराव।",
+      "व्यक्ति के नियंत्रण से बाहर जीवन में बदलाव।",
+      "संयुक्त संपत्ति या ऋण से वित्तीय जोखिम।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Practice patience and empathy in family interactions.",
+        "Monitor financial dealings involving joint assets carefully."
+      ],
+      "hi": [
+        "परिवार में धैर्य और सहानुभूति का अभ्यास करें।",
+        "संयुक्त संपत्ति से जुड़े वित्तीय मामलों को सावधानी से देखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Address emotional misunderstandings promptly.",
+        "Prepare for unexpected life changes with flexibility."
+      ],
+      "hi": [
+        "भावनात्मक गलतफहमियों को तुरंत सुलझाएं।",
+        "अचानक जीवन बदलावों के लिए लचीलापन रखें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional distance and seek clarity in relationships.",
+        "Review joint financial responsibilities carefully."
+      ],
+      "hi": [
+        "भावनात्मक दूरी पर विचार करें और संबंधों में स्पष्टता खोजें।",
+        "संयुक्त वित्तीय जिम्मेदारियों की सावधानीपूर्वक समीक्षा करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional distance",
+      "conflict",
+      "family",
+      "women",
+      "life changes",
+      "joint assets",
+      "debt"
+    ],
+    "hi": [
+      "भावनात्मक दूरी",
+      "टकराव",
+      "परिवार",
+      "महिलाएं",
+      "जीवन बदलाव",
+      "संयुक्त संपत्ति",
+      "ऋण"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "emotional",
+      "transformative",
+      "complex"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "परिवर्तनकारी",
+      "जटिल"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional struggle",
+      "family dynamics",
+      "financial complexity",
+      "uncontrollable change"
+    ],
+    "hi": [
+      "भावनात्मक संघर्ष",
+      "परिवारिक गतिशीलता",
+      "वित्तीय जटिलता",
+      "अनियंत्रित बदलाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-opp-plu",
+      "core": "This aspect highlights emotional challenges and conflicts, especially within family and with women, alongside uncontrollable life changes and financial issues involving joint assets or debts.",
+      "tone": "Warm, neutral, and cautiously insightful."
+    },
+    "hi": {
+      "title": "चंद्रमा विपक्ष प्लूटो",
+      "core": "यह योग भावनात्मक चुनौतियों और टकरावों को दर्शाता है, विशेषकर परिवार और महिलाओं के साथ, साथ ही अनियंत्रित जीवन बदलाव और संयुक्त संपत्ति या ऋण से संबंधित वित्तीय समस्याएं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सूचनात्मक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Challenges in understanding others' emotions lead to emotional distance and conflicts, especially within family and with women. Life changes occur beyond personal control, often involving joint assets or debt.",
+        "hi": "दूसरों की भावनाओं को समझने में कठिनाई के कारण परिवार में भावनात्मक दूरी और महिलाओं से टकराव होते हैं। जीवन में बड़े बदलाव व्यक्ति के नियंत्रण से बाहर होते हैं, जो संयुक्त संपत्ति या ऋण से संबंधित हो सकते हैं।"
+      },
+      "career": {
+        "en": "Potential disruptions due to emotional conflicts or sudden life changes affecting professional stability.",
+        "hi": "भावनात्मक टकराव या अचानक जीवन बदलावों के कारण पेशेवर स्थिरता प्रभावित हो सकती है।"
+      },
+      "relationships": {
+        "en": "Emotional distance and conflicts with family members and women are likely, causing strain in close relationships.",
+        "hi": "परिवार और महिलाओं के साथ भावनात्मक दूरी और टकराव संभव हैं, जो निकट संबंधों में तनाव उत्पन्न करते हैं।"
+      },
+      "money": {
+        "en": "Issues may arise related to joint assets or debts, leading to financial complications.",
+        "hi": "संयुक्त संपत्ति या ऋण से संबंधित समस्याएं उत्पन्न हो सकती हैं, जिससे वित्तीय जटिलताएं हो सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional stress from conflicts and uncontrollable changes may impact overall well-being.",
+        "hi": "टकराव और नियंत्रण से बाहर बदलावों के कारण भावनात्मक तनाव से समग्र स्वास्थ्य प्रभावित हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Moon opposition Pluto",
+      "Moo OPP Plu",
+      "Moon-Opposition-Pluto",
+      "Moon Opposition to Pluto"
+    ]
+  }
+}

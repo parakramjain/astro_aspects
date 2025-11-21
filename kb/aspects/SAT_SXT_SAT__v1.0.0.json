@@ -1,0 +1,254 @@
+{
+  "id": "SAT_SEX_SAT__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Sextile",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Good planning leads to establishing political or professional positions, with new connections and reputation opportunities. Serious events may involve close relations, and important financial investments arise.",
+    "hi": "अच्छी कार्ययोजना से राजनीतिक या पेशेवर स्थिति स्थापित होती है, नए संबंध और प्रतिष्ठा के अवसर मिलते हैं। करीबी संबंधों के साथ गंभीर घटनाएं होती हैं और महत्वपूर्ण आर्थिक निवेश के अवसर आते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Establishes positions through planning; new professional connections and agreements possible.",
+      "hi": "योजना द्वारा स्थिति स्थापित करता है; नए पेशेवर संबंध और संधि के अवसर रहते हैं।"
+    },
+    "relationships": {
+      "en": "Romantic or work partnerships may form; serious events with siblings, friends, or colleagues.",
+      "hi": "यौनिक या पेशेवर संबंध बन सकते हैं; भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर घटनाएं होती हैं।"
+    },
+    "money": {
+      "en": "Important financial investment opportunities arise.",
+      "hi": "महत्वपूर्ण आर्थिक निवेश के अवसर रहते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Political or professional position establishment",
+      "New professional connections and agreements",
+      "Reputation and fame opportunities",
+      "Romantic or work partnerships",
+      "Serious events with siblings, friends, or colleagues",
+      "Important financial investments"
+    ],
+    "hi": [
+      "राजनीतिक या पेशेवर स्थिति की स्थापना",
+      "नए पेशेवर संबंध और संधि",
+      "प्रतिष्ठा और प्रसिद्धि के अवसर",
+      "यौनिक या पेशेवर भागीदारी",
+      "भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर घटनाएं",
+      "महत्वपूर्ण आर्थिक निवेश"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Serious events with close relations may require attention."
+    ],
+    "hi": [
+      "करीबी संबंधों के साथ गंभीर घटनाओं पर ध्यान देना आवश्यक हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Plan carefully to establish professional or political positions.",
+        "Explore new professional connections and agreements.",
+        "Consider opportunities for reputation growth."
+      ],
+      "hi": [
+        "पेशेवर या राजनीतिक स्थिति स्थापित करने के लिए सावधानीपूर्वक योजना बनाएं।",
+        "नए पेशेवर संबंध और संधि के अवसर तलाशें।",
+        "प्रतिष्ठा बढ़ाने के अवसरों पर विचार करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage in serious discussions with siblings, friends, or colleagues.",
+        "Evaluate important financial investment opportunities."
+      ],
+      "hi": [
+        "भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर चर्चा करें।",
+        "महत्वपूर्ण आर्थिक निवेश के अवसरों का मूल्यांकन करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain established connections and agreements.",
+        "Monitor ongoing financial investments carefully."
+      ],
+      "hi": [
+        "स्थापित संबंधों और संधियों को बनाए रखें।",
+        "चालू आर्थिक निवेशों पर सावधानीपूर्वक नजर रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "planning",
+      "professional connections",
+      "agreements",
+      "reputation",
+      "fame",
+      "romantic opportunities",
+      "work partnerships",
+      "serious events",
+      "siblings",
+      "friends",
+      "colleagues",
+      "financial investments"
+    ],
+    "hi": [
+      "कार्ययोजना",
+      "पेशेवर संबंध",
+      "संधि",
+      "प्रतिष्ठा",
+      "प्रसिद्धि",
+      "यौनिक अवसर",
+      "कार्य भागीदारी",
+      "गंभीर घटनाएं",
+      "भाई-बहन",
+      "मित्र",
+      "सहकर्मी",
+      "आर्थिक निवेश"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "opportunity",
+      "planning",
+      "connection",
+      "seriousness",
+      "investment"
+    ],
+    "hi": [
+      "अवसर",
+      "योजना",
+      "संबंध",
+      "गंभीरता",
+      "निवेश"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "relationship development",
+      "financial opportunity",
+      "serious life events"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "संबंध विकास",
+      "आर्थिक अवसर",
+      "गंभीर जीवन घटनाएं"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-sxt-sat",
+      "core": "Good planning supports establishing positions and connections, with opportunities in reputation and financial investments.",
+      "tone": "Warm, professional, and cautiously optimistic"
+    },
+    "hi": {
+      "title": "शनि षट्कोण शनि",
+      "core": "अच्छी योजना से स्थिति और संबंध स्थापित होते हैं, प्रतिष्ठा और आर्थिक निवेश के अवसर मिलते हैं।",
+      "tone": "सहानुभूतिपूर्ण, पेशेवर और सावधानीपूर्वक आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Establishes political/professional positions through good planning with opportunities for reputation and financial investments.",
+        "hi": "अच्छी योजना द्वारा राजनीतिक/पेशेवर स्थिति स्थापित करता है, प्रतिष्ठा और आर्थिक निवेश के अवसर मिलते हैं।"
+      },
+      "career": {
+        "en": "New professional connections and agreements possible through careful planning.",
+        "hi": "सावधानीपूर्वक योजना से नए पेशेवर संबंध और संधि संभव हैं।"
+      },
+      "relationships": {
+        "en": "Romantic or work partnerships may form; serious events occur with siblings, friends, or colleagues.",
+        "hi": "यौनिक या पेशेवर भागीदारी बन सकती है; भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर घटनाएं होती हैं।"
+      },
+      "money": {
+        "en": "Important financial investment opportunities arise.",
+        "hi": "महत्वपूर्ण आर्थिक निवेश के अवसर आते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "कोई विशेष स्वास्थ्य संकेत नहीं हैं।"
+      }
+    },
+    "aliases": [
+      "Saturn sextile Saturn",
+      "Sat SEX Sat",
+      "Saturn-Sextile-Saturn",
+      "Saturn Sextile to Saturn"
+    ]
+  }
+}

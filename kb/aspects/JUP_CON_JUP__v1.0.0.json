@@ -1,0 +1,224 @@
+{
+  "id": "JUP_CON_JUP__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Conjunction",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Optimism, self-confidence, self-improvement, enhancement in family situation, and improvement in internal organization are prominent.",
+    "hi": "आशावाद, आत्मविश्वास, आत्म-सुधार, पारिवारिक स्थिति में सुधार और आंतरिक व्यवस्था में सुधार प्रमुख हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Positive attitude and confidence support career growth; internal organization improvements aid work efficiency.",
+      "hi": "सकारात्मक दृष्टिकोण और आत्मविश्वास करियर विकास में सहायक हैं; आंतरिक व्यवस्था में सुधार कार्यकुशलता बढ़ाता है।"
+    },
+    "relationships": {
+      "en": "Family situations tend to improve, fostering better harmony and support.",
+      "hi": "पारिवारिक स्थिति में सुधार होता है, जिससे बेहतर सामंजस्य और समर्थन मिलता है।"
+    },
+    "money": {
+      "en": "Optimism may encourage better financial planning and self-improvement related to money management.",
+      "hi": "आशावाद बेहतर वित्तीय योजना और धन प्रबंधन से संबंधित आत्म-सुधार को प्रोत्साहित कर सकता है।"
+    },
+    "health_adj": {
+      "en": "Self-confidence and internal organization improvements may positively influence overall well-being.",
+      "hi": "आत्मविश्वास और आंतरिक व्यवस्था में सुधार समग्र स्वास्थ्य पर सकारात्मक प्रभाव डाल सकते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Self-improvement",
+      "Family enhancement",
+      "Organizational changes"
+    ],
+    "hi": [
+      "आत्म-सुधार",
+      "पारिवारिक सुधार",
+      "व्यवस्थागत परिवर्तन"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on building optimism and self-confidence.",
+        "Work on improving family relationships.",
+        "Enhance internal organization and personal discipline."
+      ],
+      "hi": [
+        "आशावाद और आत्मविश्वास बढ़ाने पर ध्यान दें।",
+        "पारिवारिक संबंधों में सुधार करें।",
+        "आंतरिक व्यवस्था और व्यक्तिगत अनुशासन को बढ़ाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Maintain positive outlook to maximize benefits.",
+        "Engage actively in family and organizational improvements."
+      ],
+      "hi": [
+        "लाभ अधिकतम करने के लिए सकारात्मक दृष्टिकोण बनाए रखें।",
+        "पारिवारिक और व्यवस्थागत सुधारों में सक्रिय रूप से भाग लें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue self-improvement efforts.",
+        "Sustain optimism and confidence."
+      ],
+      "hi": [
+        "आत्म-सुधार के प्रयास जारी रखें।",
+        "आशावाद और आत्मविश्वास बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "optimism",
+      "self-confidence",
+      "self-improvement",
+      "family enhancement",
+      "internal organization"
+    ],
+    "hi": [
+      "आशावाद",
+      "आत्मविश्वास",
+      "आत्म-सुधार",
+      "पारिवारिक सुधार",
+      "आंतरिक व्यवस्था"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "supportive",
+      "growth-oriented"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "समर्थक",
+      "विकासोन्मुख"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "personal growth",
+      "family harmony",
+      "organizational improvement"
+    ],
+    "hi": [
+      "व्यक्तिगत विकास",
+      "पारिवारिक सामंजस्य",
+      "व्यवस्थागत सुधार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-con-jup",
+      "core": "This aspect highlights optimism, confidence, and improvements in family and internal organization.",
+      "tone": "Warm, encouraging, and balanced."
+    },
+    "hi": {
+      "title": "बृहस्पति संयोग बृहस्पति",
+      "core": "यह योग आशावाद, आत्मविश्वास, और पारिवारिक तथा आंतरिक व्यवस्था में सुधार को दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और संतुलित।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Optimism, self-confidence, self-improvement, family situation enhancement, internal organization improvement prevail.",
+        "hi": "आशावाद, आत्मविश्वास, आत्म-सुधार, पारिवारिक स्थिति में सुधार, आंतरिक व्यवस्था में सुधार की स्थिति रहती है।"
+      },
+      "career": {
+        "en": "Optimism and confidence support career growth; internal organization improvements aid efficiency.",
+        "hi": "आशावाद और आत्मविश्वास करियर विकास में सहायक हैं; आंतरिक व्यवस्था में सुधार कार्यकुशलता बढ़ाता है।"
+      },
+      "relationships": {
+        "en": "Family situations tend to improve, fostering harmony and support.",
+        "hi": "पारिवारिक स्थिति में सुधार होता है, जिससे सामंजस्य और समर्थन मिलता है।"
+      },
+      "money": {
+        "en": "Optimism encourages better financial planning and self-improvement in money matters.",
+        "hi": "आशावाद बेहतर वित्तीय योजना और धन प्रबंधन में आत्म-सुधार को प्रोत्साहित करता है।"
+      },
+      "health_adj": {
+        "en": "Self-confidence and internal organization improvements positively influence well-being.",
+        "hi": "आत्मविश्वास और आंतरिक व्यवस्था में सुधार स्वास्थ्य पर सकारात्मक प्रभाव डालते हैं।"
+      }
+    },
+    "aliases": [
+      "Jupiter conjunction Jupiter",
+      "Jup CON Jup",
+      "Jupiter-Conjunction-Jupiter",
+      "Jupiter Conjunction to Jupiter"
+    ]
+  }
+}

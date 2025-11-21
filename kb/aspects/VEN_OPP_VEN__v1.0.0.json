@@ -1,0 +1,238 @@
+{
+  "id": "VEN_OPP_VEN__v1.0.0",
+  "pair": [
+    "Venus",
+    "Opposition",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Challenges occur due to excessive socializing or accepting love, causing conflicts in key relationships and financial issues from impulsive work or business decisions.",
+    "hi": "अत्यधिक सामाजिक गतिविधियों या प्रेम स्वीकार करने से समस्याएँ उत्पन्न होती हैं, जिससे महत्वपूर्ण रिश्तों में मतभेद और काम या व्यवसाय में जल्दबाजी से आर्थिक समस्याएँ होती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Impulsive or thoughtless investments and decisions at work or in business may lead to difficulties.",
+      "hi": "काम या व्यवसाय में बिना सोच-समझे निवेश और निर्णय लेने से समस्याएँ हो सकती हैं।"
+    },
+    "relationships": {
+      "en": "Significant relationships may face conflicts due to excessive social involvement or issues in accepting love.",
+      "hi": "महत्वपूर्ण रिश्तों में अत्यधिक सामाजिक भागीदारी या प्रेम स्वीकार करने में समस्याओं के कारण मतभेद हो सकते हैं।"
+    },
+    "money": {
+      "en": "Overspending and financial troubles can arise from conflicts or impulsive actions.",
+      "hi": "मतभेद या जल्दबाजी से आर्थिक समस्याएँ और अत्यधिक खर्च हो सकता है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments are indicated.",
+      "hi": "कोई विशिष्ट स्वास्थ्य समायोजन संकेतित नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Relationship conflicts",
+      "Financial overspending",
+      "Work or business troubles"
+    ],
+    "hi": [
+      "रिश्तों में मतभेद",
+      "आर्थिक अत्यधिक खर्च",
+      "काम या व्यवसाय में समस्याएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Excessive social engagements may cause stress.",
+      "Impulsive financial decisions can lead to trouble.",
+      "Conflicts in important relationships may arise."
+    ],
+    "hi": [
+      "अत्यधिक सामाजिक भागीदारी तनाव पैदा कर सकती है।",
+      "जल्दबाजी में वित्तीय निर्णय समस्याएँ ला सकते हैं।",
+      "महत्वपूर्ण रिश्तों में मतभेद हो सकते हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Monitor social activities to avoid excess.",
+        "Consider carefully before accepting love or commitments.",
+        "Evaluate work and business investments prudently."
+      ],
+      "hi": [
+        "अत्यधिक सामाजिक गतिविधियों से बचें।",
+        "प्रेम या प्रतिबद्धता स्वीकारने से पहले सोचें।",
+        "काम और व्यवसाय में निवेश सोच-समझकर करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive spending and decisions.",
+        "Communicate clearly in relationships to reduce conflicts."
+      ],
+      "hi": [
+        "जल्दबाजी में खर्च और निर्णय से बचें।",
+        "रिश्तों में स्पष्ट संवाद करें ताकि मतभेद कम हों।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past social and financial choices.",
+        "Resolve misunderstandings in key relationships."
+      ],
+      "hi": [
+        "पिछले सामाजिक और वित्तीय निर्णयों पर विचार करें।",
+        "महत्वपूर्ण रिश्तों में गलतफहमियों को दूर करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "excessive socializing",
+      "love acceptance",
+      "relationship conflicts",
+      "overspending",
+      "impulsive investments",
+      "business troubles"
+    ],
+    "hi": [
+      "अत्यधिक सामाजिक भागीदारी",
+      "प्रेम स्वीकारना",
+      "रिश्तों में मतभेद",
+      "अत्यधिक खर्च",
+      "जल्दबाजी में निवेश",
+      "व्यवसाय की समस्याएँ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "conflict-prone",
+      "impulsive",
+      "financial risk"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "मतभेदपूर्ण",
+      "जल्दबाजी वाला",
+      "वित्तीय जोखिम"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "social dynamics",
+      "relationship tension",
+      "financial caution",
+      "business prudence"
+    ],
+    "hi": [
+      "सामाजिक गतिशीलता",
+      "रिश्तों में तनाव",
+      "वित्तीय सतर्कता",
+      "व्यवसाय में सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-opp-ven",
+      "core": "This aspect highlights difficulties from excessive socializing and love acceptance, leading to conflicts and financial issues.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "शुक्र का शुक्र के विपरीत",
+      "core": "यह योग अत्यधिक सामाजिकता और प्रेम स्वीकारने से उत्पन्न कठिनाइयों को दर्शाता है, जो मतभेद और आर्थिक समस्याएँ ला सकता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Challenges arise from excessive social engagements and love acceptance causing conflicts and financial troubles.",
+        "hi": "अत्यधिक सामाजिक भागीदारी और प्रेम स्वीकारने से समस्याएँ उत्पन्न होती हैं, जिससे मतभेद और आर्थिक कठिनाइयाँ होती हैं।"
+      },
+      "career": {
+        "en": "Impulsive or thoughtless investments and decisions at work or business create difficulties.",
+        "hi": "काम या व्यवसाय में बिना सोच-समझे निवेश और निर्णय लेने से समस्याएँ होती हैं।"
+      },
+      "relationships": {
+        "en": "Significant relationships face conflicts due to excessive social involvement or love acceptance issues.",
+        "hi": "महत्वपूर्ण रिश्तों में अत्यधिक सामाजिक भागीदारी या प्रेम स्वीकारने में समस्याओं के कारण मतभेद होते हैं।"
+      },
+      "money": {
+        "en": "Overspending and financial troubles arise from conflicts or impulsive actions.",
+        "hi": "मतभेद या जल्दबाजी से अत्यधिक खर्च और आर्थिक समस्याएँ होती हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "कोई विशिष्ट स्वास्थ्य समायोजन संकेतित नहीं हैं।"
+      }
+    },
+    "aliases": [
+      "Venus opposition Venus",
+      "Ven OPP Ven",
+      "Venus-Opposition-Venus",
+      "Venus Opposition to Venus"
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "id": "MAR_OPP_MAR__v1.0.0",
+  "pair": [
+    "Mars",
+    "Opposition",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Ego and emotional discord lead to conflicts and lack of cooperation; challenging interactions especially with authorities.",
+    "hi": "अहंकार और भावनात्मक असहमति के कारण विवाद होते हैं और सहयोग की कमी रहती है; अधिकारी वर्ग से बातचीत में कठिनाई।"
+  },
+  "facets": {
+    "career": {
+      "en": "Potential disputes over joint assets, taxes, insurance, and dividends; professional conflicts likely.",
+      "hi": "संयुक्त संपत्ति, कर, बीमा और लाभांश को लेकर विवाद संभव; पेशेवर संघर्ष हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "Emotional disagreements and conflicts; mutual cooperation is lacking.",
+      "hi": "भावनात्मक असहमति और विवाद; आपसी सहयोग की कमी।"
+    },
+    "money": {
+      "en": "Losses expected due to fluctuations and disputes related to shared financial matters.",
+      "hi": "उतार-चढ़ाव के कारण हानि की संभावना और साझा वित्तीय मामलों में विवाद।"
+    },
+    "health_adj": {
+      "en": "Risk of accidents or injuries when using tools, weapons, or machinery; possibility of physical confrontations or arrest if adversities increase.",
+      "hi": "उपकरण, हथियार या मशीनरी के उपयोग में दुर्घटना या चोट का खतरा; प्रतिकूलता बढ़ने पर शारीरिक संघर्ष या गिरफ्तारी की संभावना।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "conflicts",
+      "legal disputes",
+      "financial losses",
+      "physical confrontations"
+    ],
+    "hi": [
+      "विवाद",
+      "कानूनी विवाद",
+      "आर्थिक हानि",
+      "शारीरिक संघर्ष"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional discord may escalate conflicts.",
+      "Avoid careless use of tools or machinery to prevent injuries.",
+      "Discussions with authorities may be unfavorable.",
+      "Risk of arrest if confrontations occur."
+    ],
+    "hi": [
+      "भावनात्मक असहमति विवाद बढ़ा सकती है।",
+      "चोट से बचने के लिए उपकरण या मशीनरी का सावधानीपूर्वक उपयोग करें।",
+      "अधिकारी वर्ग से चर्चा के लिए समय प्रतिकूल है।",
+      "संघर्ष होने पर गिरफ्तारी का खतरा।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution when using tools, weapons, or machinery.",
+        "Be mindful in discussions with authorities.",
+        "Prepare for possible disputes over shared assets or finances."
+      ],
+      "hi": [
+        "उपकरण, हथियार या मशीनरी का सावधानीपूर्वक उपयोग करें।",
+        "अधिकारी वर्ग से बातचीत में सावधानी रखें।",
+        "संयुक्त संपत्ति या वित्तीय मामलों के विवाद के लिए तैयार रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid initiating confrontations or emotional disputes.",
+        "Do not expect cooperation from others during this period.",
+        "Refrain from risky physical activities involving tools or weapons."
+      ],
+      "hi": [
+        "संघर्ष या भावनात्मक विवाद शुरू करने से बचें।",
+        "इस समय दूसरों से सहयोग की उम्मीद न करें।",
+        "उपकरण या हथियारों से जुड़े जोखिम भरे शारीरिक कार्यों से बचें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Allow time for emotional tensions to ease before engaging in joint financial decisions.",
+        "Delay discussions with authorities until a more favorable time.",
+        "Avoid physical confrontations and seek peaceful resolutions."
+      ],
+      "hi": [
+        "संयुक्त वित्तीय निर्णयों से पहले भावनात्मक तनाव कम होने दें।",
+        "अधिकारी वर्ग से बातचीत को अनुकूल समय तक टालें।",
+        "शारीरिक संघर्ष से बचें और शांतिपूर्ण समाधान खोजें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "ego",
+      "conflict",
+      "emotional discord",
+      "lack of cooperation",
+      "disputes",
+      "accidents",
+      "injuries",
+      "arrest risk",
+      "financial fluctuations"
+    ],
+    "hi": [
+      "अहंकार",
+      "विवाद",
+      "भावनात्मक असहमति",
+      "सहयोग की कमी",
+      "विवाद",
+      "दुर्घटना",
+      "चोट",
+      "गिरफ्तारी का खतरा",
+      "आर्थिक उतार-चढ़ाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "conflict-prone",
+      "risk-aware",
+      "cautious"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "विवाद-प्रवण",
+      "जोखिम-सचेत",
+      "सावधानीपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional tension",
+      "authority challenges",
+      "physical risk",
+      "financial instability"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "अधिकारी चुनौतियाँ",
+      "शारीरिक जोखिम",
+      "आर्थिक अस्थिरता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-opp-mar",
+      "core": "This aspect indicates increased ego and emotional discord leading to conflicts and lack of cooperation, especially with authorities. Caution is advised when using tools or machinery due to accident risk.",
+      "tone": "Warm, neutral, advisory"
+    },
+    "hi": {
+      "title": "मंगल विपरीत मंगल",
+      "core": "यह योग अहंकार और भावनात्मक असहमति में वृद्धि दर्शाता है, जिससे विवाद और सहयोग की कमी होती है, विशेषकर अधिकारी वर्ग से। उपकरण या मशीनरी के उपयोग में सावधानी आवश्यक है।",
+      "tone": "सहज, तटस्थ, सलाहकार"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Ego grows/emotional discord/conflicts likely. Person will neither cooperate nor receive cooperation. Unfavorable time for discussions with authorities.",
+        "hi": "अहंकार में वृद्धि/भावनात्मक असहमति/किसी विवाद की स्थिति रहती है। व्यक्ति दूसरों को सहयोग नहीं देगा और दूसरों से असहयोग प्राप्त करेगा। अधिकारी वर्ग से चर्चा के लिए प्रतिकूल समय।"
+      },
+      "career": {
+        "en": "Professionally, disputes over joint assets, taxes, insurance, dividends possible. Losses from fluctuations expected.",
+        "hi": "पेशेवर स्थिति में संयुक्त संपत्ति/कर/बीमा/लाभांश संबंधी विवाद हो सकते हैं। उतार-चढ़ाव में हानि की स्थिति रहेगी।"
+      },
+      "relationships": {
+        "en": "Ego and emotional discord cause conflicts; lack of cooperation.",
+        "hi": "अहंकार और भावनात्मक असहमति के कारण विवाद और सहयोग की कमी।"
+      },
+      "money": {
+        "en": "Losses expected due to fluctuations and disputes related to shared financial matters.",
+        "hi": "उतार-चढ़ाव के कारण हानि की संभावना और साझा वित्तीय मामलों में विवाद।"
+      },
+      "health_adj": {
+        "en": "Use tools/weapons/machinery carefully to avoid accidents/injuries. Additional adversities may cause physical confrontations or arrest risk.",
+        "hi": "उपकरण/हथियार/मशीनरी का उपयोग सावधानीपूर्वक करना चाहिए, अन्यथा दुर्घटना और चोट लगने की संभावना। अन्य प्रतिकूलता होने पर शारीरिक संघर्ष या गिरफ्तारी हो सकती है।"
+      }
+    },
+    "aliases": [
+      "Mars opposition Mars",
+      "Mar OPP Mar",
+      "Mars-Opposition-Mars",
+      "Mars Opposition to Mars"
+    ]
+  }
+}

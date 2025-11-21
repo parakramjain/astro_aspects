@@ -1,0 +1,249 @@
+{
+  "id": "MAR_SEX_SUN__v1.0.0",
+  "pair": [
+    "Mars",
+    "Sextile",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect enhances self-confidence and intellectual capabilities, improving work conditions and resolving business challenges. It favors creativity, technical and business activities, and physical or adventurous pursuits. It is also beneficial for children and their caregivers.",
+    "hi": "यह योग आत्मविश्वास और बौद्धिक क्षमताओं को बढ़ाता है, कार्य की स्थिति में सुधार करता है और व्यवसायिक कठिनाइयों को समाप्त करता है। यह रचनात्मकता, तकनीकी और व्यवसायिक गतिविधियों तथा शारीरिक या साहसिक कार्यों के लिए अनुकूल है। यह बच्चों और उनकी देखभाल करने वालों के लिए भी लाभकारी है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Improved intellectual work conditions and success in technical and business fields; favorable for working with machines and tools.",
+      "hi": "बौद्धिक कार्य की स्थिति में सुधार और तकनीकी एवं व्यवसायिक क्षेत्रों में सफलता; मशीनों और औज़ारों से कार्य करने के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Enjoyable physical and adventurous activities can enhance bonding; supportive period for children and caregivers.",
+      "hi": "खेल और साहसिक गतिविधियाँ संबंधों को प्रगाढ़ कर सकती हैं; बच्चों और देखभाल करने वालों के लिए सहायक समय।"
+    },
+    "money": {
+      "en": "Business challenges resolve, creating a favorable environment for new ventures and technical enterprises.",
+      "hi": "व्यवसायिक कठिनाइयाँ समाप्त होती हैं, जिससे नए उद्यमों और तकनीकी व्यवसायों के लिए अनुकूल वातावरण बनता है।"
+    },
+    "health_adj": {
+      "en": "Physical exercises and adventurous activities are enjoyable and beneficial during this period.",
+      "hi": "इस अवधि में शारीरिक व्यायाम और साहसिक गतिविधियाँ आनंददायक और लाभकारी होती हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business improvements",
+      "Creative projects",
+      "Technical work",
+      "Physical activities",
+      "Childcare"
+    ],
+    "hi": [
+      "व्यवसाय में सुधार",
+      "रचनात्मक परियोजनाएँ",
+      "तकनीकी कार्य",
+      "शारीरिक गतिविधियाँ",
+      "बाल देखभाल"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in intellectual and technical work",
+        "Start new creative or business projects",
+        "Participate in sports and adventurous activities",
+        "Focus on childcare and related responsibilities"
+      ],
+      "hi": [
+        "बौद्धिक और तकनीकी कार्यों में संलग्न हों",
+        "नई रचनात्मक या व्यवसायिक परियोजनाएँ शुरू करें",
+        "खेल और साहसिक गतिविधियों में भाग लें",
+        "बाल देखभाल और संबंधित जिम्मेदारियों पर ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize this period for machine or tool-based work",
+        "Enhance self-confidence through challenging tasks",
+        "Promote physical exercise and adventure"
+      ],
+      "hi": [
+        "मशीन या औज़ार आधारित कार्य के लिए इस समय का उपयोग करें",
+        "चुनौतीपूर्ण कार्यों के माध्यम से आत्मविश्वास बढ़ाएं",
+        "शारीरिक व्यायाम और साहसिक कार्यों को बढ़ावा दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain momentum in business and technical activities",
+        "Continue engaging in physical and adventurous pursuits",
+        "Sustain care and attention towards children"
+      ],
+      "hi": [
+        "व्यवसाय और तकनीकी गतिविधियों में गति बनाए रखें",
+        "शारीरिक और साहसिक गतिविधियों में लगे रहें",
+        "बच्चों के प्रति देखभाल और ध्यान बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "self-confidence",
+      "intellectual improvement",
+      "business resolution",
+      "technical work",
+      "creativity",
+      "sports",
+      "adventure",
+      "childcare"
+    ],
+    "hi": [
+      "आत्मविश्वास",
+      "बौद्धिक सुधार",
+      "व्यवसाय समाधान",
+      "तकनीकी कार्य",
+      "रचनात्मकता",
+      "खेल",
+      "साहसिक",
+      "बाल देखभाल"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "productive",
+      "energetic",
+      "creative",
+      "technical"
+    ],
+    "hi": [
+      "सहायक",
+      "उत्पादक",
+      "ऊर्जावान",
+      "रचनात्मक",
+      "तकनीकी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "confidence boost",
+      "business success",
+      "technical aptitude",
+      "physical activity",
+      "child welfare"
+    ],
+    "hi": [
+      "आत्मविश्वास वृद्धि",
+      "व्यवसाय सफलता",
+      "तकनीकी योग्यता",
+      "शारीरिक गतिविधि",
+      "बाल कल्याण"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-sxt-sun",
+      "core": "A period of increased confidence, intellectual growth, and favorable conditions for business, technical work, and physical activities.",
+      "tone": "Warm, encouraging, and optimistic"
+    },
+    "hi": {
+      "title": "मंगल षष्टक सूर्य",
+      "core": "आत्मविश्वास, बौद्धिक विकास और व्यवसाय, तकनीकी कार्य तथा शारीरिक गतिविधियों के लिए अनुकूल समय।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Self-confidence increases, and intellectual activities/work conditions improve. Business challenges come to an end. This is a great time for creating something new. It's an excellent period for technical fields and business activities. A suitable time for working with machines/tools. Sports, adventurous activities, and physical exercises will seem enjoyable. This period is ideal for children and those who care for them.",
+        "hi": "आत्मविश्वास में वृद्धि होती है और बौद्धिक क्रिया/कार्य की स्थिति में सुधार होता है। व्यवसायिक कठिनाइयाँ समाप्त हो जाती हैं। यह समय कुछ निर्माण करने के लिए बहुत अच्छा है। तकनीकी क्षेत्र में व्यवसाय हेतु यह उत्तम समय है। मशीन/औज़ार से कार्य करने का योग्य समय है। खेल/साहसिक कार्य/शारीरिक क्रियाएं रुचिकर लगेंगी। बच्चों और उनकी देखभाल करने वालों के लिए यह उत्तम समय है।"
+      },
+      "career": {
+        "en": "Self-confidence increases, and intellectual activities/work conditions improve. Business challenges come to an end. This is a great time for creating something new. It's an excellent period for technical fields and business activities. A suitable time for working with machines/tools.",
+        "hi": "आत्मविश्वास में वृद्धि होती है और बौद्धिक क्रिया/कार्य की स्थिति में सुधार होता है। व्यवसायिक कठिनाइयाँ समाप्त हो जाती हैं। यह समय कुछ निर्माण करने के लिए बहुत अच्छा है। तकनीकी क्षेत्र में व्यवसाय हेतु यह उत्तम समय है। मशीन/औज़ार से कार्य करने का योग्य समय है।"
+      },
+      "relationships": {
+        "en": "Sports, adventurous activities, and physical exercises will seem enjoyable. This period is ideal for children and those who care for them.",
+        "hi": "खेल/साहसिक कार्य/शारीरिक क्रियाएं रुचिकर लगेंगी। बच्चों और उनकी देखभाल करने वालों के लिए यह उत्तम समय है।"
+      },
+      "money": {
+        "en": "Business challenges come to an end. This is a great time for creating something new. It's an excellent period for business activities.",
+        "hi": "व्यवसायिक कठिनाइयाँ समाप्त हो जाती हैं। यह समय कुछ निर्माण करने के लिए बहुत अच्छा है। व्यवसाय हेतु यह उत्तम समय है।"
+      },
+      "health_adj": {
+        "en": "Sports, adventurous activities, and physical exercises will seem enjoyable.",
+        "hi": "खेल/साहसिक कार्य/शारीरिक क्रियाएं रुचिकर लगेंगी।"
+      }
+    },
+    "aliases": [
+      "Mars sextile Sun",
+      "Mar SEX Sun",
+      "Mars-Sextile-Sun",
+      "Mars Sextile to Sun"
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "id": "NEP_SQR_SAT__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Square",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Neptune square Saturn indicates fear, anxiety, deception, and professional confusion, with tendencies to evade responsibilities and potential mental health struggles. Maintaining mental stability is crucial to avoid physical or business harm.",
+    "hi": "नेपच्यून स्क्वायर सैटर्न भय, चिंता, धोखाधड़ी और व्यावसायिक उलझनों को दर्शाता है, जिसमें जिम्मेदारियों से बचने की प्रवृत्ति और मानसिक समस्याएँ हो सकती हैं। मानसिक स्थिरता बनाए रखना आवश्यक है ताकि शारीरिक या व्यावसायिक नुकसान से बचा जा सके।"
+  },
+  "facets": {
+    "career": {
+      "en": "Professional confusion, hurdles, humiliation, and possible lawsuits may arise; tendency to evade work and responsibilities.",
+      "hi": "व्यावसायिक उलझनें, बाधाएँ, अपमान और कानूनी मुकदमों का सामना हो सकता है; काम और जिम्मेदारियों से भागने की प्रवृत्ति।"
+    },
+    "relationships": {
+      "en": "Mental health struggles may affect personal or family relationships; hidden enemies could harm reputation.",
+      "hi": "मानसिक समस्याएँ व्यक्तिगत या पारिवारिक संबंधों को प्रभावित कर सकती हैं; गुप्त दुश्मन प्रतिष्ठा को नुकसान पहुँचा सकते हैं।"
+    },
+    "money": {
+      "en": "Professional setbacks and lawsuits may impact financial stability.",
+      "hi": "व्यावसायिक बाधाएँ और कानूनी मुकदमे वित्तीय स्थिरता को प्रभावित कर सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Mental health challenges may surface; maintaining mental stability is vital to prevent physical or business harm.",
+      "hi": "मानसिक स्वास्थ्य की समस्याएँ सामने आ सकती हैं; शारीरिक या व्यावसायिक नुकसान से बचने के लिए मानसिक स्थिरता आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Fear and anxiety episodes",
+      "Professional obstacles and legal issues",
+      "Mental health struggles"
+    ],
+    "hi": [
+      "भय और चिंता की स्थिति",
+      "व्यावसायिक बाधाएँ और कानूनी समस्याएँ",
+      "मानसिक स्वास्थ्य संघर्ष"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased risk of deception and pessimistic thoughts",
+      "Potential humiliation and lawsuits in career",
+      "Hidden enemies may damage reputation",
+      "Mental instability can lead to physical or business harm"
+    ],
+    "hi": [
+      "धोखाधड़ी और नकारात्मक विचारों का बढ़ना",
+      "व्यवसाय में अपमान और कानूनी मुकदमों का खतरा",
+      "गुप्त दुश्मन प्रतिष्ठा को नुकसान पहुँचा सकते हैं",
+      "मानसिक अस्थिरता से शारीरिक या व्यावसायिक नुकसान हो सकता है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Stay aware of professional responsibilities",
+        "Monitor mental health closely",
+        "Be cautious of hidden adversaries"
+      ],
+      "hi": [
+        "व्यावसायिक जिम्मेदारियों के प्रति सतर्क रहें",
+        "मानसिक स्वास्थ्य पर ध्यान रखें",
+        "गुप्त विरोधियों से सावधान रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on maintaining mental stability",
+        "Avoid evading work or responsibilities",
+        "Handle professional conflicts carefully"
+      ],
+      "hi": [
+        "मानसिक स्थिरता बनाए रखने पर ध्यान दें",
+        "काम और जिम्मेदारियों से बचें नहीं",
+        "व्यावसायिक विवादों को सावधानी से संभालें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons from professional challenges",
+        "Work on reducing anxiety and pessimism",
+        "Strengthen mental resilience"
+      ],
+      "hi": [
+        "व्यावसायिक चुनौतियों से सीखें",
+        "चिंता और नकारात्मकता को कम करें",
+        "मानसिक सहनशीलता बढ़ाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "fear",
+      "anxiety",
+      "deception",
+      "professional confusion",
+      "responsibility evasion",
+      "mental health struggles",
+      "indifference",
+      "despair",
+      "pessimism",
+      "professional hurdles",
+      "humiliation",
+      "lawsuits",
+      "hidden enemies",
+      "reputation harm",
+      "mental stability"
+    ],
+    "hi": [
+      "भय",
+      "चिंता",
+      "धोखाधड़ी",
+      "व्यावसायिक उलझन",
+      "जिम्मेदारियों से बचना",
+      "मानसिक समस्याएँ",
+      "उदासीनता",
+      "निराशा",
+      "नकारात्मक विचार",
+      "व्यवसाय में बाधाएँ",
+      "अपमान",
+      "कानूनी मुकदमे",
+      "गुप्त दुश्मन",
+      "प्रतिष्ठा को नुकसान",
+      "मानसिक स्थिरता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "mental health focus",
+      "professional caution",
+      "emotional tension"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "मानसिक स्वास्थ्य पर ध्यान",
+      "व्यावसायिक सावधानी",
+      "भावनात्मक तनाव"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "fear and anxiety",
+      "professional obstacles",
+      "mental health awareness",
+      "responsibility and accountability"
+    ],
+    "hi": [
+      "भय और चिंता",
+      "व्यावसायिक बाधाएँ",
+      "मानसिक स्वास्थ्य जागरूकता",
+      "जिम्मेदारी और जवाबदेही"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-squ-sat",
+      "core": "This aspect brings fear, anxiety, and professional confusion, urging focus on mental stability and responsibility.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "नेपच्यून स्क्वायर सैटर्न",
+      "core": "यह योग भय, चिंता और व्यावसायिक उलझन लाता है, मानसिक स्थिरता और जिम्मेदारी पर ध्यान देने की सलाह देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Fear, anxiety, deception, or professional confusion may arise. A tendency to evade work/responsibilities persists. Mental health struggles (personal or familial) may surface. Indifference, despair, or pessimistic thoughts increase. Professional hurdles, humiliation, or lawsuits may occur. Hidden enemies could harm reputation. Mental stability is crucial; else, physical/business harm may follow.",
+        "hi": "भयए चिंताए धोखाधड़ीए या व्यावसायिक उलझनों की स्थिति बनती है। काम और जिम्मेदारियों से भागने की प्रवृत्ति रहती है। मानसिक समस्याएँ या परिवार में किसी का मानसिक संघर्ष हो सकता है। उदासीनताए निराशाए या नकारात्मक विचार बढ़ते हैं। व्यवसाय में बाधाएँए अपमानए या कानूनी मुकदमों का सामना करना पड़ सकता है। गुप्त दुश्मन प्रतिष्ठा को नुकसान पहुँचा सकते हैं। मानसिक स्थिरता बनाए रखना जरूरी हैए वरना शारीरिक व व्यावसायिक नुकसान हो सकता है।"
+      },
+      "career": {
+        "en": "Professional confusion, hurdles, humiliation, and possible lawsuits may arise; tendency to evade work and responsibilities.",
+        "hi": "व्यावसायिक उलझनें, बाधाएँ, अपमान और कानूनी मुकदमों का सामना हो सकता है; काम और जिम्मेदारियों से भागने की प्रवृत्ति।"
+      },
+      "relationships": {
+        "en": "Mental health struggles may affect personal or family relationships; hidden enemies could harm reputation.",
+        "hi": "मानसिक समस्याएँ व्यक्तिगत या पारिवारिक संबंधों को प्रभावित कर सकती हैं; गुप्त दुश्मन प्रतिष्ठा को नुकसान पहुँचा सकते हैं।"
+      },
+      "money": {
+        "en": "Professional setbacks and lawsuits may impact financial stability.",
+        "hi": "व्यावसायिक बाधाएँ और कानूनी मुकदमे वित्तीय स्थिरता को प्रभावित कर सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Mental health challenges may surface; maintaining mental stability is vital to prevent physical or business harm.",
+        "hi": "मानसिक स्वास्थ्य की समस्याएँ सामने आ सकती हैं; शारीरिक या व्यावसायिक नुकसान से बचने के लिए मानसिक स्थिरता आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Neptune square Saturn",
+      "Nep SQR Sat",
+      "Neptune-Square-Saturn",
+      "Neptune Square to Saturn"
+    ]
+  }
+}

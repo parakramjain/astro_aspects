@@ -1,0 +1,231 @@
+{
+  "id": "VEN_CON_NEP__v1.0.0",
+  "pair": [
+    "Venus",
+    "Conjunction",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person is imaginative and emotional, with increased interest in art, music, film, and photography. Love life may involve illusions or idealism.",
+    "hi": "व्यक्ति कल्पनाशील और भावुक होता है, और कला, संगीत, फिल्म, फोटोग्राफी में रुचि बढ़ती है। प्रेम जीवन में भ्रम या आदर्शवादी सोच हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Enhanced creativity and interest in artistic fields such as music, film, and photography.",
+      "hi": "संगीत, फिल्म, फोटोग्राफी जैसे कलात्मक क्षेत्रों में रचनात्मकता और रुचि बढ़ती है।"
+    },
+    "relationships": {
+      "en": "Emotional and idealistic love life that may involve illusions or unrealistic expectations.",
+      "hi": "भावुक और आदर्शवादी प्रेम जीवन जिसमें भ्रम या अवास्तविक अपेक्षाएँ हो सकती हैं।"
+    },
+    "money": {
+      "en": "No specific financial indications; focus is more on creative and emotional expression.",
+      "hi": "वित्तीय संकेत स्पष्ट नहीं हैं; ध्यान रचनात्मक और भावनात्मक अभिव्यक्ति पर अधिक है।"
+    },
+    "health_adj": {
+      "en": "Emotional sensitivity may be heightened, requiring attention to emotional well-being.",
+      "hi": "भावनात्मक संवेदनशीलता बढ़ सकती है, इसलिए भावनात्मक स्वास्थ्य का ध्यान रखना आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative pursuits",
+      "Romantic developments"
+    ],
+    "hi": [
+      "रचनात्मक प्रयास",
+      "प्रेम संबंध के विकास"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Possibility of illusions or unrealistic idealism in love life."
+    ],
+    "hi": [
+      "प्रेम जीवन में भ्रम या अवास्तविक आदर्शवाद की संभावना।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Explore artistic interests such as music, film, and photography.",
+        "Be mindful of emotional sensitivity."
+      ],
+      "hi": [
+        "संगीत, फिल्म, फोटोग्राफी जैसी कलात्मक रुचियों को बढ़ावा दें।",
+        "भावनात्मक संवेदनशीलता का ध्यान रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on creative expression and emotional connection.",
+        "Avoid unrealistic expectations in relationships."
+      ],
+      "hi": [
+        "रचनात्मक अभिव्यक्ति और भावनात्मक संबंध पर ध्यान दें।",
+        "संबंधों में अवास्तविक अपेक्षाओं से बचें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional experiences to gain clarity.",
+        "Reassess idealistic views in love life."
+      ],
+      "hi": [
+        "भावनात्मक अनुभवों पर विचार करें ताकि स्पष्टता मिले।",
+        "प्रेम जीवन में आदर्शवादी सोच का पुनर्मूल्यांकन करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "imaginative",
+      "emotional",
+      "art",
+      "music",
+      "film",
+      "photography",
+      "illusions",
+      "idealism"
+    ],
+    "hi": [
+      "कल्पनाशील",
+      "भावुक",
+      "कला",
+      "संगीत",
+      "फिल्म",
+      "फोटोग्राफी",
+      "भ्रम",
+      "आदर्शवाद"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "sensitive",
+      "idealistic"
+    ],
+    "hi": [
+      "रचनात्मक",
+      "संवेदनशील",
+      "आदर्शवादी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "artistic expression",
+      "emotional depth",
+      "romantic idealism"
+    ],
+    "hi": [
+      "कलात्मक अभिव्यक्ति",
+      "भावनात्मक गहराई",
+      "रोमांटिक आदर्शवाद"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-con-nep",
+      "core": "Imaginative and emotional nature with increased interest in arts and idealistic love tendencies.",
+      "tone": "Warm, reflective, and balanced."
+    },
+    "hi": {
+      "title": "शुक्र संयोजन नेपच्यून",
+      "core": "कल्पनाशील और भावुक स्वभाव, कला में रुचि और आदर्शवादी प्रेम प्रवृत्ति।",
+      "tone": "सहानुभूतिपूर्ण, विचारशील और संतुलित।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Person is imaginative and emotional, interested in art, music, film, photography; love life may involve illusions or idealism.",
+        "hi": "व्यक्ति कल्पनाशील और भावुक होता है, कला, संगीत, फिल्म, फोटोग्राफी में रुचि रखता है; प्रेम जीवन में भ्रम या आदर्शवाद हो सकता है।"
+      },
+      "career": {
+        "en": "Increased interest and creativity in artistic fields like music, film, and photography.",
+        "hi": "संगीत, फिल्म, फोटोग्राफी जैसे कलात्मक क्षेत्रों में रुचि और रचनात्मकता बढ़ती है।"
+      },
+      "relationships": {
+        "en": "Love life characterized by emotional depth and possible illusions or idealism.",
+        "hi": "प्रेम जीवन भावुकता और संभवतः भ्रम या आदर्शवाद से प्रभावित होता है।"
+      },
+      "money": {
+        "en": "No direct financial implications; focus is on creative and emotional areas.",
+        "hi": "प्रत्यक्ष वित्तीय संकेत नहीं; ध्यान रचनात्मक और भावनात्मक क्षेत्रों पर है।"
+      },
+      "health_adj": {
+        "en": "Heightened emotional sensitivity suggests care for emotional well-being.",
+        "hi": "बढ़ी हुई भावनात्मक संवेदनशीलता से भावनात्मक स्वास्थ्य का ध्यान रखना चाहिए।"
+      }
+    },
+    "aliases": [
+      "Venus conjunction Neptune",
+      "Ven CON Nep",
+      "Venus-Conjunction-Neptune",
+      "Venus Conjunction to Neptune"
+    ]
+  }
+}

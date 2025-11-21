@@ -1,0 +1,249 @@
+{
+  "id": "JUP_SEX_MAR__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Sextile",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Steady professional progress with increased reliability and self-confidence. Opportunities arise in educational, religious, political, and cultural fields with enthusiastic energy. Favorable for legal proceedings, sports, competitions, and major professional transactions involving goods and transportation, leading to stable business growth.",
+    "hi": "व्यवसाय में स्थिर उन्नति, विश्वसनीयता और आत्मविश्वास में वृद्धि। शैक्षणिक, धार्मिक, राजनीतिक और सांस्कृतिक क्षेत्रों में उत्साहपूर्ण अवसर मिलते हैं। कानूनी कार्यवाहियों, खेलकूद, प्रतियोगिताओं और माल-परिवहन से जुड़े बड़े पेशेवर लेन-देन के लिए अनुकूल समय, जिससे व्यवसाय में स्थिर उन्नति होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Steady advancement and reliability increase; major transactions and goods movement support solid business growth.",
+      "hi": "स्थिर उन्नति और विश्वसनीयता में वृद्धि; बड़े लेन-देन और माल की आवाजाही से मजबूत व्यवसाय विकास होता है।"
+    },
+    "relationships": {
+      "en": "Enthusiastic energy supports progress in educational, religious, political, and cultural associations.",
+      "hi": "शैक्षणिक, धार्मिक, राजनीतिक और सांस्कृतिक संबंधों में उत्साहपूर्ण प्रगति होती है।"
+    },
+    "money": {
+      "en": "Good opportunities for major transactions and stable financial growth through professional dealings and transportation.",
+      "hi": "पेशेवर लेन-देन और परिवहन के माध्यम से बड़े लेन-देन और स्थिर वित्तीय वृद्धि के अवसर।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; overall energy and confidence are positively influenced.",
+      "hi": "स्वास्थ्य संबंधी विशेष सुझाव नहीं; समग्र ऊर्जा और आत्मविश्वास सकारात्मक रूप से प्रभावित होते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional advancement",
+      "Educational and cultural opportunities",
+      "Legal proceedings",
+      "Sports and competitions",
+      "Major business transactions"
+    ],
+    "hi": [
+      "पेशेवर उन्नति",
+      "शैक्षणिक और सांस्कृतिक अवसर",
+      "कानूनी कार्यवाही",
+      "खेलकूद और प्रतियोगिताएं",
+      "बड़े व्यावसायिक लेन-देन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain steady and reliable approach."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; स्थिर और विश्वसनीय दृष्टिकोण बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage actively in educational, religious, political, and cultural fields.",
+        "Pursue legal matters with confidence.",
+        "Participate in sports or competitions.",
+        "Initiate or support major professional transactions involving goods or transportation."
+      ],
+      "hi": [
+        "शैक्षणिक, धार्मिक, राजनीतिक और सांस्कृतिक क्षेत्रों में सक्रिय रूप से भाग लें।",
+        "कानूनी मामलों को आत्मविश्वास के साथ आगे बढ़ाएं।",
+        "खेलकूद या प्रतियोगिताओं में भाग लें।",
+        "सामान या परिवहन से जुड़े बड़े पेशेवर लेन-देन शुरू करें या समर्थन करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on consolidating business growth through stable transactions.",
+        "Leverage enthusiasm to maximize opportunities in various fields."
+      ],
+      "hi": [
+        "स्थिर लेन-देन के माध्यम से व्यवसाय विकास को मजबूत करें।",
+        "विभिन्न क्षेत्रों में अवसरों का अधिकतम लाभ उठाने के लिए उत्साह का उपयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain reliability and confidence to sustain progress.",
+        "Continue to seek opportunities in professional and cultural domains."
+      ],
+      "hi": [
+        "प्रगति बनाए रखने के लिए विश्वसनीयता और आत्मविश्वास बनाए रखें।",
+        "पेशेवर और सांस्कृतिक क्षेत्रों में अवसरों की खोज जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "steady progress",
+      "reliability",
+      "self-confidence",
+      "educational opportunities",
+      "legal proceedings",
+      "sports",
+      "major transactions",
+      "business growth",
+      "transportation"
+    ],
+    "hi": [
+      "स्थिर उन्नति",
+      "विश्वसनीयता",
+      "आत्मविश्वास",
+      "शैक्षणिक अवसर",
+      "कानूनी कार्यवाही",
+      "खेलकूद",
+      "बड़े लेन-देन",
+      "व्यवसाय विकास",
+      "परिवहन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "stable",
+      "enthusiastic",
+      "reliable",
+      "opportunistic"
+    ],
+    "hi": [
+      "स्थिर",
+      "उत्साही",
+      "विश्वसनीय",
+      "अवसरवादी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "cultural engagement",
+      "legal favorability",
+      "competitive success",
+      "business transactions"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "सांस्कृतिक सहभागिता",
+      "कानूनी अनुकूलता",
+      "प्रतियोगी सफलता",
+      "व्यवसायिक लेन-देन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-16"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-sxt-mar",
+      "core": "This aspect indicates steady professional progress with increased confidence and opportunities in education, culture, legal matters, sports, and business transactions.",
+      "tone": "Warm, neutral, and encouraging"
+    },
+    "hi": {
+      "title": "बृहस्पति षट्कोण मंगल: स्थिर उन्नति और अवसर",
+      "core": "यह योग व्यवसाय में स्थिर उन्नति, आत्मविश्वास वृद्धि और शिक्षा, संस्कृति, कानूनी मामले, खेल और व्यावसायिक लेन-देन में अवसर दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Steady professional progress, increased reliability and self-confidence prevail. Opportunities arise in educational, religious, political, and cultural fields with enthusiastic energy. Favorable time for legal proceedings, sports, competitions, and major professional transactions involving goods and transportation, leading to stable business growth.",
+        "hi": "व्यवसाय में स्थिर उन्नति, विश्वसनीयता और आत्मविश्वास में वृद्धि। शैक्षणिक, धार्मिक, राजनीतिक और सांस्कृतिक क्षेत्रों में उत्साहपूर्ण अवसर। कानूनी कार्यवाही, खेलकूद, प्रतियोगिताओं और माल-परिवहन से जुड़े बड़े पेशेवर लेन-देन के लिए अनुकूल समय, जिससे व्यवसाय में स्थिर उन्नति होती है।"
+      },
+      "career": {
+        "en": "Steady advancement and reliability increase; major transactions and goods movement support solid business growth.",
+        "hi": "स्थिर उन्नति और विश्वसनीयता में वृद्धि; बड़े लेन-देन और माल की आवाजाही से मजबूत व्यवसाय विकास होता है।"
+      },
+      "relationships": {
+        "en": "Enthusiastic energy supports progress in educational, religious, political, and cultural associations.",
+        "hi": "शैक्षणिक, धार्मिक, राजनीतिक और सांस्कृतिक संबंधों में उत्साहपूर्ण प्रगति होती है।"
+      },
+      "money": {
+        "en": "Good opportunities for major transactions and stable financial growth through professional dealings and transportation.",
+        "hi": "पेशेवर लेन-देन और परिवहन के माध्यम से बड़े लेन-देन और स्थिर वित्तीय वृद्धि के अवसर।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; overall energy and confidence are positively influenced.",
+        "hi": "स्वास्थ्य संबंधी विशेष सुझाव नहीं; समग्र ऊर्जा और आत्मविश्वास सकारात्मक रूप से प्रभावित होते हैं।"
+      }
+    },
+    "aliases": [
+      "Jupiter sextile Mars",
+      "Jup SEX Mar",
+      "Jupiter-Sextile-Mars",
+      "Jupiter Sextile to Mars"
+    ]
+  }
+}

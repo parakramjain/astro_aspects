@@ -1,0 +1,273 @@
+{
+  "id": "JUP_TRI_URA__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Trine",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Unexpected opportunities for grants, help, cooperation, alliances, and financial support arise, leading to business expansion, new friendships, and surprise agreements that foster advancement. There is potential for long-term vision, self-empowerment, occult knowledge, and future insights with beneficial outcomes. Modern technology aids business growth, and gains may come from joint assets, taxes, investments, insurance, or inheritance. Support from special individuals and a broad, liberal life perspective are present, with sudden opportunities emerging.",
+    "hi": "अचानक अनुदान, सहायता, सहयोग, संधि और आर्थिक सहयोग के अवसर प्राप्त होते हैं, जिससे कार्यप्रसार, नई मित्रता और अप्रत्याशित संधियाँ होती हैं जो उन्नति के अवसर लाती हैं। दूरगामी दृष्टिकोण, आत्मशक्ति, गूढ़ ज्ञान और भविष्यज्ञान के लाभकारी अवसर मिलते हैं। आधुनिक तकनीक व्यवसाय में लाभ देती है, और संयुक्त संपत्ति, कर, निवेश, बीमा या पैतृक संपत्ति से प्राप्ति के अवसर रहते हैं। विशिष्ट व्यक्तियों से सहयोग मिलता है और जीवन के प्रति उदार एवं व्यापक दृष्टिकोण रहता है, साथ ही अचानक अवसर उत्पन्न होते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business expansion occurs with benefits from modern technology and surprise agreements. Opportunities arise for long-term vision and self-empowerment.",
+      "hi": "कार्यप्रसार होता है, आधुनिक तकनीक और अप्रत्याशित संधियों से लाभ होता है। दूरगामी दृष्टिकोण और आत्मशक्ति के अवसर मिलते हैं।"
+    },
+    "relationships": {
+      "en": "New friendships form and alliances or cooperation bring advancement. Support from special individuals is available.",
+      "hi": "नई मित्रता होती है और सहयोग या संधि से उन्नति होती है। विशिष्ट व्यक्तियों से सहयोग प्राप्त होता है।"
+    },
+    "money": {
+      "en": "Unexpected financial support and gains from joint assets, taxes, investments, insurance, or inheritance are possible.",
+      "hi": "अप्रत्याशित आर्थिक सहयोग और संयुक्त संपत्ति, कर, निवेश, बीमा या पैतृक संपत्ति से लाभ प्राप्त हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments are indicated; focus remains on opportunities and support.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष बदलाव नहीं दर्शाए गए हैं; ध्यान अवसरों और सहयोग पर है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Unexpected financial support",
+      "Business expansion",
+      "New friendships",
+      "Surprise agreements",
+      "Long-term vision opportunities",
+      "Support from special individuals"
+    ],
+    "hi": [
+      "अप्रत्याशित आर्थिक सहयोग",
+      "कार्यप्रसार",
+      "नई मित्रता",
+      "अप्रत्याशित संधियाँ",
+      "दूरगामी दृष्टिकोण के अवसर",
+      "विशिष्ट व्यक्तियों से सहयोग"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Opportunities may appear suddenly and require careful evaluation.",
+      "Unexpected agreements should be reviewed thoroughly before commitment."
+    ],
+    "hi": [
+      "अचानक अवसर आते हैं, जिन्हें सावधानी से परखा जाना चाहिए।",
+      "अप्रत्याशित संधियों को प्रतिबद्धता से पहले अच्छी तरह जांचना चाहिए।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek and accept unexpected help or alliances.",
+        "Explore new friendships and cooperative opportunities.",
+        "Utilize modern technology to enhance business."
+      ],
+      "hi": [
+        "अप्रत्याशित सहायता या संधि स्वीकार करें।",
+        "नई मित्रता और सहयोग के अवसर तलाशें।",
+        "व्यवसाय में आधुनिक तकनीक का उपयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on forming surprise agreements that advance goals.",
+        "Leverage joint assets and investments for gains.",
+        "Engage with special individuals offering support."
+      ],
+      "hi": [
+        "अप्रत्याशित संधियाँ बनाकर उन्नति पर ध्यान दें।",
+        "संयुक्त संपत्ति और निवेश से लाभ उठाएं।",
+        "सहयोग देने वाले विशिष्ट व्यक्तियों से संपर्क करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain a broad and liberal perspective on life.",
+        "Continue to watch for sudden opportunities.",
+        "Sustain long-term vision and self-empowerment efforts."
+      ],
+      "hi": [
+        "जीवन के प्रति उदार और व्यापक दृष्टिकोण बनाए रखें।",
+        "अचानक अवसरों पर नजर रखें।",
+        "दूरगामी दृष्टिकोण और आत्मशक्ति बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "unexpected support",
+      "business expansion",
+      "new friendships",
+      "surprise agreements",
+      "long-term vision",
+      "self-empowerment",
+      "occult knowledge",
+      "future insight",
+      "modern technology",
+      "joint assets",
+      "financial gains",
+      "special individuals",
+      "broad perspective",
+      "sudden opportunities"
+    ],
+    "hi": [
+      "अप्रत्याशित सहायता",
+      "कार्यप्रसार",
+      "नई मित्रता",
+      "अप्रत्याशित संधि",
+      "दूरगामी दृष्टिकोण",
+      "आत्मशक्ति",
+      "गूढ़ ज्ञान",
+      "भविष्यज्ञान",
+      "आधुनिक तकनीक",
+      "संयुक्त संपत्ति",
+      "आर्थिक लाभ",
+      "विशिष्ट व्यक्ति",
+      "व्यापक दृष्टिकोण",
+      "अचानक अवसर"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "unexpected",
+      "supportive",
+      "expansive",
+      "liberal",
+      "insightful",
+      "cooperative",
+      "beneficial"
+    ],
+    "hi": [
+      "अप्रत्याशित",
+      "सहायक",
+      "विस्तारशील",
+      "उदार",
+      "दूरदर्शी",
+      "सहयोगी",
+      "लाभकारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "business growth",
+      "financial cooperation",
+      "friendship and alliances",
+      "long-term planning",
+      "technology benefits",
+      "unexpected opportunities"
+    ],
+    "hi": [
+      "व्यवसाय वृद्धि",
+      "आर्थिक सहयोग",
+      "मित्रता और संधि",
+      "दूरगामी योजना",
+      "तकनीकी लाभ",
+      "अप्रत्याशित अवसर"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-tri-ura",
+      "core": "This aspect brings unexpected support and opportunities for growth in business, finances, and relationships, aided by modern technology and broad vision.",
+      "tone": "Warm, optimistic, and encouraging with a focus on sudden beneficial opportunities."
+    },
+    "hi": {
+      "title": "बृहस्पति त्रिकोण यूरेनस",
+      "core": "यह योग अप्रत्याशित सहायता और व्यवसाय, वित्त तथा संबंधों में विकास के अवसर लाता है, जो आधुनिक तकनीक और व्यापक दृष्टिकोण से समर्थित है।",
+      "tone": "सहानुभूतिपूर्ण, आशावादी और प्रोत्साहित करने वाला, जो अचानक लाभकारी अवसरों पर केंद्रित है।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Unexpected opportunities for grants, help, cooperation, alliances, and financial support arise, leading to business expansion, new friendships, and surprise agreements that foster advancement.",
+        "hi": "अचानक अनुदान, सहायता, सहयोग, संधि और आर्थिक सहयोग के अवसर प्राप्त होते हैं, जिससे कार्यप्रसार, नई मित्रता और अप्रत्याशित संधियाँ होती हैं जो उन्नति के अवसर लाती हैं।"
+      },
+      "career": {
+        "en": "Business expansion occurs with benefits from modern technology and surprise agreements. Opportunities arise for long-term vision and self-empowerment.",
+        "hi": "कार्यप्रसार होता है, आधुनिक तकनीक और अप्रत्याशित संधियों से लाभ होता है। दूरगामी दृष्टिकोण और आत्मशक्ति के अवसर मिलते हैं।"
+      },
+      "relationships": {
+        "en": "New friendships form and alliances or cooperation bring advancement. Support from special individuals is available.",
+        "hi": "नई मित्रता होती है और सहयोग या संधि से उन्नति होती है। विशिष्ट व्यक्तियों से सहयोग प्राप्त होता है।"
+      },
+      "money": {
+        "en": "Unexpected financial support and gains from joint assets, taxes, investments, insurance, or inheritance are possible.",
+        "hi": "अप्रत्याशित आर्थिक सहयोग और संयुक्त संपत्ति, कर, निवेश, बीमा या पैतृक संपत्ति से लाभ प्राप्त हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments are indicated; focus remains on opportunities and support.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष बदलाव नहीं दर्शाए गए हैं; ध्यान अवसरों और सहयोग पर है।"
+      }
+    },
+    "aliases": [
+      "Jupiter trine Uranus",
+      "Jup TRI Ura",
+      "Jupiter-Trine-Uranus",
+      "Jupiter Trine to Uranus"
+    ]
+  }
+}

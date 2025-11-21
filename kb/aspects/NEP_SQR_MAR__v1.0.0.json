@@ -1,0 +1,247 @@
+{
+  "id": "NEP_SQR_MAR__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Square",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Challenges in managing suppressed anger, hidden desires, and secret bonds. Lack of emotional self-control may lead to covert work relationships causing health and personal difficulties. Caution needed in ambitious projects.",
+    "hi": "दबा हुआ क्रोध, छुपी इच्छाओं और गुप्त बंधनों पर नियंत्रण पाने में कठिनाई। भावनात्मक नियंत्रण की कमी से गुप्त कार्य संबंध बन सकते हैं जो स्वास्थ्य और व्यक्तिगत समस्याएँ उत्पन्न कर सकते हैं। महत्वाकांक्षी कार्यों में सावधानी आवश्यक।"
+  },
+  "facets": {
+    "career": {
+      "en": "Possibility of professional deception and formation of secret work relationships requiring caution.",
+      "hi": "पेशेवर स्थिति में ठगे जाने की संभावना तथा गुप्त कार्य संबंध बन सकते हैं, इसलिए सावधानी जरूरी है।"
+    },
+    "relationships": {
+      "en": "Difficulty controlling hidden desires and secret bonds may affect interpersonal connections.",
+      "hi": "छुपी इच्छाओं और गुप्त बंधनों पर नियंत्रण की कठिनाई से संबंध प्रभावित हो सकते हैं।"
+    },
+    "money": {
+      "en": "Likely wasteful or excessive spending in joint ventures, assets, taxes, or investments.",
+      "hi": "संयुक्त व्यवसाय, संपत्ति, कर या निवेश में बेकार या अत्यधिक खर्च की संभावना।"
+    },
+    "health_adj": {
+      "en": "Health may be adversely affected; thoughtless medication can cause harm.",
+      "hi": "स्वास्थ्य पर प्रतिकूल प्रभाव संभव; बिना सोच-समझ के औषधि लेने से नुकसान हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Secret work relationships",
+      "Ambitious project initiations",
+      "Joint financial dealings"
+    ],
+    "hi": [
+      "गुप्त कार्य संबंध",
+      "महत्वाकांक्षी कार्य प्रारंभ",
+      "संयुक्त वित्तीय लेनदेन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Suppressed anger and hidden desires may cause problems.",
+      "Secret relationships can lead to diseases, grief, or losses.",
+      "Professional deception is possible.",
+      "Wasteful spending in joint finances likely.",
+      "Health risks from careless medication."
+    ],
+    "hi": [
+      "दबा हुआ क्रोध और छुपी इच्छाएँ समस्याएँ उत्पन्न कर सकती हैं।",
+      "गुप्त संबंध रोग, शोक या हानि ला सकते हैं।",
+      "पेशेवर ठगी की संभावना।",
+      "संयुक्त वित्त में बेकार खर्च की संभावना।",
+      "बिना सोच-समझ के औषधि लेने से स्वास्थ्य जोखिम।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise emotional self-control to avoid secretive issues.",
+        "Monitor spending carefully in joint ventures.",
+        "Approach ambitious projects with caution."
+      ],
+      "hi": [
+        "भावनात्मक नियंत्रण बनाए रखें ताकि गुप्त समस्याएँ न बनें।",
+        "संयुक्त व्यवसाय में खर्च पर सावधानी रखें।",
+        "महत्वाकांक्षी कार्यों में सतर्कता बरतें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive medication without consultation.",
+        "Be vigilant about professional dealings to prevent deception."
+      ],
+      "hi": [
+        "बिना सलाह के औषधि लेने से बचें।",
+        "पेशेवर लेनदेन में धोखा न हो इसके लिए सतर्क रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and reduce secretive or unhealthy work relationships.",
+        "Reassess financial commitments in joint assets or investments."
+      ],
+      "hi": [
+        "गुप्त या अस्वस्थ कार्य संबंधों की समीक्षा करें और कम करें।",
+        "संयुक्त संपत्ति या निवेश में वित्तीय प्रतिबद्धताओं का पुनर्मूल्यांकन करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "suppressed anger",
+      "hidden desires",
+      "secret bonds",
+      "emotional self-control",
+      "professional deception",
+      "wasteful spending",
+      "health risks",
+      "ambitious projects"
+    ],
+    "hi": [
+      "दबा हुआ क्रोध",
+      "छुपी इच्छाएँ",
+      "गुप्त बंधन",
+      "भावनात्मक नियंत्रण",
+      "पेशेवर ठगी",
+      "बेकार खर्च",
+      "स्वास्थ्य जोखिम",
+      "महत्वाकांक्षी कार्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautious",
+      "secretive",
+      "risk-prone"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधानीपूर्ण",
+      "गुप्त",
+      "जोखिमपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional control",
+      "hidden conflicts",
+      "health caution",
+      "financial vigilance"
+    ],
+    "hi": [
+      "भावनात्मक नियंत्रण",
+      "छुपे संघर्ष",
+      "स्वास्थ्य सावधानी",
+      "वित्तीय सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-squ-mar",
+      "core": "This aspect indicates difficulty managing suppressed anger and hidden desires, leading to secretive relationships and potential health and financial problems. Caution is advised in professional and ambitious endeavors.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "नेपच्यून स्क्वायर मार्स",
+      "core": "यह योग दबा हुआ क्रोध और छुपी इच्छाओं को संभालने में कठिनाई दर्शाता है, जिससे गुप्त संबंध और स्वास्थ्य तथा वित्तीय समस्याएँ हो सकती हैं। पेशेवर और महत्वाकांक्षी कार्यों में सावधानी आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Difficulty controlling suppressed anger, hidden desires, and occult bonds causing secret relationships and health issues.",
+        "hi": "दबा हुआ क्रोध, छुपी इच्छाओं और गुप्त बंधनों पर नियंत्रण की कठिनाई जिससे गुप्त संबंध और स्वास्थ्य समस्याएँ होती हैं।"
+      },
+      "career": {
+        "en": "Potential for professional deception and secret work relationships requiring caution.",
+        "hi": "पेशेवर ठगी की संभावना और गुप्त कार्य संबंध, जिनमें सावधानी जरूरी है।"
+      },
+      "relationships": {
+        "en": "Challenges in managing hidden desires and secret bonds affecting interpersonal connections.",
+        "hi": "छुपी इच्छाओं और गुप्त बंधनों को संभालने में कठिनाई जो संबंधों को प्रभावित करती है।"
+      },
+      "money": {
+        "en": "Likely excessive or wasteful spending in joint ventures, assets, taxes, or investments.",
+        "hi": "संयुक्त व्यवसाय, संपत्ति, कर या निवेश में अत्यधिक या बेकार खर्च की संभावना।"
+      },
+      "health_adj": {
+        "en": "Adverse health effects possible; careless medication can cause harm.",
+        "hi": "स्वास्थ्य पर प्रतिकूल प्रभाव संभव; बिना सोच-समझ के औषधि लेने से नुकसान हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Neptune square Mars",
+      "Nep SQR Mar",
+      "Neptune-Square-Mars",
+      "Neptune Square to Mars"
+    ]
+  }
+}

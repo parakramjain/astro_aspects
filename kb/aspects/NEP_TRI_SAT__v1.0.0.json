@@ -1,0 +1,261 @@
+{
+  "id": "NEP_TRI_SAT__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Trine",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect enhances concentration, memory, and intuition, leading to the completion of important plans and the revelation of hidden knowledge. It brings inner inspiration, guidance from special individuals, fulfillment of desires, and opportunities for significant work in institutions like hospitals, ashrams, religious or educational organizations, and major businesses. Life gains stability and benefits arise from secret professional information and past good deeds.",
+    "hi": "यह योग एकाग्रता, स्मरण शक्ति और अंतर्ज्ञान को बढ़ाता है, जिससे महत्वपूर्ण योजनाएं पूरी होती हैं और गुप्त ज्ञान प्रकट होता है। आंतरिक प्रेरणा, विशेष व्यक्तित्वों से मार्गदर्शन, इच्छाओं की पूर्ति और अस्पताल, आश्रम, धार्मिक या शैक्षणिक संस्थाओं तथा बड़े व्यावसायिक संगठनों में महत्वपूर्ण कार्यों के अवसर मिलते हैं। जीवन में स्थिरता आती है और गुप्त व्यावसायिक जानकारी तथा पूर्व के अच्छे कर्मों से लाभ होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities arise for important work with hospitals, ashrams, religious and educational institutions, or major business organizations. Secret professional information brings benefits and new work strategies are formed.",
+      "hi": "अस्पताल, आश्रम, धार्मिक और शैक्षणिक संस्थाओं या बड़े व्यावसायिक संगठनों से जुड़े महत्वपूर्ण कार्यों के अवसर मिलते हैं। गुप्त व्यावसायिक जानकारी से लाभ होता है और नई कार्य योजना बनती है।"
+    },
+    "relationships": {
+      "en": "Guidance comes from special personalities, fostering inner inspiration and support in fulfilling desires and planning new changes.",
+      "hi": "विशेष व्यक्तित्वों से मार्गदर्शन मिलता है, जिससे आंतरिक प्रेरणा और इच्छाओं की पूर्ति तथा नए परिवर्तन की योजना बनाने में सहायता मिलती है।"
+    },
+    "money": {
+      "en": "Benefits arise from secret professional information and the fruits of past good deeds, contributing to financial stability.",
+      "hi": "गुप्त व्यावसायिक जानकारी और पूर्व के अच्छे कर्मों के फल से लाभ होता है, जो आर्थिक स्थिरता में योगदान देता है।"
+    },
+    "health_adj": {
+      "en": "Opportunities may come for important work related to hospitals and similar institutions, suggesting a supportive environment for health-related matters.",
+      "hi": "अस्पताल और संबंधित संस्थाओं से जुड़े महत्वपूर्ण कार्यों के अवसर मिलते हैं, जो स्वास्थ्य संबंधी मामलों के लिए सहायक वातावरण का संकेत देते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Completion of important plans",
+      "Formation of new work strategies",
+      "Receiving guidance from special individuals",
+      "Opportunities in hospitals, ashrams, religious and educational institutions",
+      "Fulfillment of desires",
+      "Life stability",
+      "Receiving fruits of past good deeds"
+    ],
+    "hi": [
+      "महत्वपूर्ण योजनाओं का पूर्ण होना",
+      "नई कार्य योजनाओं का निर्माण",
+      "विशेष व्यक्तित्वों से मार्गदर्शन प्राप्ति",
+      "अस्पताल, आश्रम, धार्मिक और शैक्षणिक संस्थाओं में अवसर",
+      "इच्छाओं की पूर्ति",
+      "जीवन में स्थिरता",
+      "पूर्व के अच्छे कर्मों का फल प्राप्ति"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on completing important plans and forming work strategies",
+        "Seek guidance from trusted special individuals",
+        "Explore opportunities in institutional or major business settings",
+        "Be open to inner inspiration and hidden knowledge"
+      ],
+      "hi": [
+        "महत्वपूर्ण योजनाओं को पूरा करने और कार्य योजना बनाने पर ध्यान दें",
+        "विश्वसनीय विशेष व्यक्तित्वों से मार्गदर्शन प्राप्त करें",
+        "संस्थागत या बड़े व्यावसायिक क्षेत्रों में अवसरों की खोज करें",
+        "आंतरिक प्रेरणा और गुप्त ज्ञान के लिए खुले रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize increased concentration and memory power for key tasks",
+        "Act on newly revealed hidden knowledge",
+        "Engage with special personalities for guidance",
+        "Plan new changes carefully"
+      ],
+      "hi": [
+        "प्रमुख कार्यों के लिए बढ़ी हुई एकाग्रता और स्मरण शक्ति का उपयोग करें",
+        "नए प्रकट हुए गुप्त ज्ञान पर कार्य करें",
+        "मार्गदर्शन के लिए विशेष व्यक्तित्वों से संपर्क करें",
+        "नए परिवर्तनों की सावधानीपूर्वक योजना बनाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain the stability gained and continue virtuous actions",
+        "Reflect on the benefits received from past good deeds",
+        "Sustain connections with guiding personalities"
+      ],
+      "hi": [
+        "प्राप्त स्थिरता बनाए रखें और पुण्य कर्म जारी रखें",
+        "पूर्व के अच्छे कर्मों से मिले लाभों पर विचार करें",
+        "मार्गदर्शक व्यक्तित्वों के साथ संबंध बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "concentration",
+      "memory",
+      "intuition",
+      "hidden knowledge",
+      "inner inspiration",
+      "guidance",
+      "fulfillment",
+      "planning",
+      "opportunities",
+      "stability",
+      "virtue"
+    ],
+    "hi": [
+      "एकाग्रता",
+      "स्मरण शक्ति",
+      "अंतर्ज्ञान",
+      "गुप्त ज्ञान",
+      "आंतरिक प्रेरणा",
+      "मार्गदर्शन",
+      "इच्छापूर्ति",
+      "योजना",
+      "अवसर",
+      "स्थिरता",
+      "पुण्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "inspirational",
+      "stable",
+      "beneficial",
+      "intuitive"
+    ],
+    "hi": [
+      "सहायक",
+      "प्रेरणादायक",
+      "स्थिर",
+      "लाभकारी",
+      "अंतर्ज्ञानी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual guidance",
+      "professional growth",
+      "inner development",
+      "institutional opportunities",
+      "karmic rewards"
+    ],
+    "hi": [
+      "आध्यात्मिक मार्गदर्शन",
+      "व्यावसायिक विकास",
+      "आंतरिक विकास",
+      "संस्थागत अवसर",
+      "कर्मिक पुरस्कार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-tri-sat",
+      "core": "Enhancement of concentration, intuition, and stability leading to fulfillment and important opportunities.",
+      "tone": "Warm, supportive, and encouraging"
+    },
+    "hi": {
+      "title": "नेप्च्यून ट्राइन सैटर्न",
+      "core": "एकाग्रता, अंतर्ज्ञान और स्थिरता में वृद्धि जिससे इच्छाओं की पूर्ति और महत्वपूर्ण अवसर मिलते हैं।",
+      "tone": "सहानुभूतिपूर्ण, सहायक और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Concentration and memory power develop. Plans will be completed/important work strategies will be formed. Intuition increases. Hidden knowledge about subjects is revealed. Inner inspiration is received. Guidance comes from special personalities. Desires get fulfilled. New changes get planned. Opportunities come for important work with hospitals, ashrams, religious institutions, educational institutions or major business organizations. Secret professional information brings benefits. Life gains stability. Fruits of past good deeds are received. Virtuous actions emerge.",
+        "hi": "एकाग्रता और स्मरण शक्ति का विकास होता है। योजना पूर्ण होगी/महत्वपूर्ण कार्य योजना बनेगी। व्यक्ति का अंतर्ज्ञान बढ़ता है। किसी विषय के गहरे रहस्य की जानकारी मिलती है। आंतरिक प्रेरणा मिलती है। किसी विशेष व्यक्तित्व से मार्गदर्शन मिलता है। इच्छापूर्ति का आनंद मिलेगा। नए परिवर्तन की रूपरेखा बनेगी। इस समय व्यक्ति को अस्पतालए आश्रमए धार्मिक संस्थाए शैक्षणिक संस्था या किसी महत्वपूर्ण व्यावसायिक संस्था से जुड़े महत्वपूर्ण कार्यों के अवसर मिलते हैं। व्यक्ति को व्यावसायिक क्षेत्र में गुप्त जानकारी मिलती है जिससे लाभ होता है। जीवन में स्थिरता के अवसर आते हैं। पूर्व के अच्छे कर्मों का फल मिलता है। पुण्य कर्म उदित होते हैं।"
+      },
+      "career": {
+        "en": "Opportunities come for important work with hospitals, ashrams, religious institutions, educational institutions or major business organizations. Secret professional information brings benefits. Plans and work strategies are formed.",
+        "hi": "अस्पताल, आश्रम, धार्मिक संस्थाएं, शैक्षणिक संस्था या महत्वपूर्ण व्यावसायिक संस्था से जुड़े महत्वपूर्ण कार्यों के अवसर मिलते हैं। व्यावसायिक क्षेत्र में गुप्त जानकारी से लाभ होता है। योजना और कार्य रणनीतियां बनती हैं।"
+      },
+      "relationships": {
+        "en": "Guidance comes from special personalities. Inner inspiration is received. Desires get fulfilled.",
+        "hi": "किसी विशेष व्यक्तित्व से मार्गदर्शन मिलता है। आंतरिक प्रेरणा मिलती है। इच्छापूर्ति होती है।"
+      },
+      "money": {
+        "en": "Secret professional information brings benefits. Fruits of past good deeds are received. Life gains stability.",
+        "hi": "व्यावसायिक क्षेत्र में गुप्त जानकारी से लाभ होता है। पूर्व के अच्छे कर्मों का फल मिलता है। जीवन में स्थिरता आती है।"
+      },
+      "health_adj": {
+        "en": "Opportunities come for important work with hospitals and related institutions.",
+        "hi": "अस्पताल और संबंधित संस्थाओं से जुड़े महत्वपूर्ण कार्यों के अवसर मिलते हैं।"
+      }
+    },
+    "aliases": [
+      "Neptune trine Saturn",
+      "Nep TRI Sat",
+      "Neptune-Trine-Saturn",
+      "Neptune Trine to Saturn"
+    ]
+  }
+}

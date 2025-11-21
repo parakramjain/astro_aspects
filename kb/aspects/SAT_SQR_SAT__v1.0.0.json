@@ -1,0 +1,264 @@
+{
+  "id": "SAT_SQR_SAT__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Square",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates anxiety, despair, and obstacles in work, leading to burdensome professional responsibilities, financial difficulties, conflicts with authorities, possible legal issues, job crises, and health discomfort.",
+    "hi": "यह योग चिंता, निराशा और कार्य में अटकाव दर्शाता है, जिससे पेशेवर जिम्मेदारियाँ बोझिल हो जाती हैं, आर्थिक समस्याएँ बढ़ती हैं, अधिकारियों से झगड़े, कानूनी समस्याएँ, नौकरी में संकट और शारीरिक कष्ट उत्पन्न होते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Professional responsibilities feel heavy; job crises and work obstacles are likely; conflicts with authorities may arise.",
+      "hi": "पेशेवर जिम्मेदारियाँ बोझिल लगती हैं; नौकरी में संकट और कार्य में अटकाव संभव हैं; अधिकारियों से झगड़े हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "Conflicts with authority figures and institutions may strain relationships; reputation may suffer.",
+      "hi": "अधिकारी वर्ग और संस्थानों से झगड़े संबंधों में तनाव ला सकते हैं; प्रसिद्धि प्रभावित हो सकती है।"
+    },
+    "money": {
+      "en": "Financial problems deepen; unfavorable conditions for property matters; possible issues with financial institutions.",
+      "hi": "आर्थिक समस्याएँ गहराती हैं; संपत्ति संबंधी व्यवहार के लिए प्रतिकूल समय; वित्तीय संस्थानों से समस्याएँ हो सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Physical pain or discomfort may develop.",
+      "hi": "शरीर में कहीं दर्द या असुविधा हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Job crisis",
+      "Legal issues",
+      "Financial difficulties",
+      "Conflicts with authorities",
+      "Property-related problems"
+    ],
+    "hi": [
+      "नौकरी में संकट",
+      "कानूनी समस्याएँ",
+      "आर्थिक कठिनाइयाँ",
+      "अधिकारी वर्ग से झगड़े",
+      "संपत्ति संबंधी समस्याएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased anxiety and despair",
+      "Potential legal complications",
+      "Job instability",
+      "Financial losses",
+      "Health discomfort"
+    ],
+    "hi": [
+      "बढ़ी हुई चिंता और निराशा",
+      "संभावित कानूनी जटिलताएँ",
+      "नौकरी में अस्थिरता",
+      "आर्थिक नुकसान",
+      "स्वास्थ्य में असुविधा"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise patience with professional duties",
+        "Manage financial matters cautiously",
+        "Avoid conflicts with authorities",
+        "Monitor health symptoms"
+      ],
+      "hi": [
+        "पेशेवर जिम्मेदारियों में धैर्य रखें",
+        "आर्थिक मामलों को सावधानी से संभालें",
+        "अधिकारी वर्ग से झगड़े टालें",
+        "स्वास्थ्य लक्षणों पर ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be alert to job-related challenges",
+        "Prepare for possible legal or financial disputes",
+        "Maintain composure amid conflicts"
+      ],
+      "hi": [
+        "नौकरी से जुड़ी चुनौतियों के प्रति सतर्क रहें",
+        "संभावित कानूनी या आर्थिक विवादों की तैयारी करें",
+        "झगड़ों के बीच संयम बनाए रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual easing of work obstacles",
+        "Improvement in financial conditions",
+        "Reduction in conflicts",
+        "Physical relief"
+      ],
+      "hi": [
+        "कार्य में अटकावों में धीरे-धीरे कमी",
+        "आर्थिक स्थिति में सुधार",
+        "झगड़ों में कमी",
+        "शारीरिक राहत"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "anxiety",
+      "despair",
+      "work obstacles",
+      "professional burden",
+      "financial problems",
+      "conflicts",
+      "legal issues",
+      "job crisis",
+      "property issues",
+      "reputation damage",
+      "physical pain"
+    ],
+    "hi": [
+      "चिंता",
+      "निराशा",
+      "कार्य में अटकाव",
+      "पेशेवर बोझ",
+      "आर्थिक समस्या",
+      "झगड़े",
+      "कानूनी समस्या",
+      "नौकरी संकट",
+      "संपत्ति समस्या",
+      "प्रसिद्धि प्रभावित",
+      "शारीरिक दर्द"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "stressful",
+      "burdensome",
+      "conflict-prone"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "तनावपूर्ण",
+      "बोझिल",
+      "झगड़ालू"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional stress",
+      "financial strain",
+      "authority conflicts",
+      "health caution"
+    ],
+    "hi": [
+      "पेशेवर तनाव",
+      "आर्थिक दबाव",
+      "अधिकारी झगड़े",
+      "स्वास्थ्य सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-squ-sat",
+      "core": "An aspect indicating anxiety, work obstacles, financial difficulties, conflicts with authorities, and possible health issues.",
+      "tone": "Warm, neutral, cautious"
+    },
+    "hi": {
+      "title": "शनि वर्ग शनि",
+      "core": "यह योग चिंता, कार्य में अटकाव, आर्थिक कठिनाइयाँ, अधिकारी वर्ग से झगड़े और संभव स्वास्थ्य समस्याएँ दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Anxiety, despair, work obstacles, burdensome responsibilities, financial problems, conflicts with authorities, legal issues, job crises, property difficulties, reputation damage, physical pain.",
+        "hi": "चिंता, निराशा, कार्य में अटकाव, बोझिल जिम्मेदारियाँ, आर्थिक समस्या, अधिकारी वर्ग से झगड़े, कानूनी समस्या, नौकरी संकट, संपत्ति कठिनाइयाँ, प्रसिद्धि प्रभावित, शारीरिक दर्द।"
+      },
+      "career": {
+        "en": "Professional responsibilities feel burdensome; job crises and work obstacles prevail; conflicts with authorities and institutions.",
+        "hi": "पेशेवर जिम्मेदारियाँ बोझिल लगती हैं; नौकरी संकट और कार्य में अटकाव रहते हैं; अधिकारी वर्ग और संस्थानों से झगड़े।"
+      },
+      "relationships": {
+        "en": "Conflicts with authorities and government or financial institutions; reputation suffers.",
+        "hi": "अधिकारी वर्ग, सरकारी और वित्तीय संस्थानों से झगड़े; प्रसिद्धि प्रभावित होती है।"
+      },
+      "money": {
+        "en": "Financial problems deepen; unfavorable for property matters; issues with financial institutions possible.",
+        "hi": "आर्थिक समस्या गहराती है; संपत्ति संबंधी व्यवहार के लिए प्रतिकूल; वित्तीय संस्थानों से समस्याएँ संभव।"
+      },
+      "health_adj": {
+        "en": "Physical pain or discomfort may develop.",
+        "hi": "शरीर में दर्द या असुविधा हो सकती है।"
+      }
+    },
+    "aliases": [
+      "Saturn square Saturn",
+      "Sat SQR Sat",
+      "Saturn-Square-Saturn",
+      "Saturn Square to Saturn"
+    ]
+  }
+}

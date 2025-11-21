@@ -1,0 +1,247 @@
+{
+  "id": "NEP_OPP_SUN__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Opposition",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A tendency toward gentleness or deceptive behavior leads to forgetting reality in pursuit of pleasure, affecting social, business, romantic, or financial areas.",
+    "hi": "मृदुलता या भ्रमपूर्ण व्यवहार की प्रवृत्ति होती है, जिससे सुख की प्राप्ति में वास्तविकता भूल जाती है, जो सामाजिक, व्यावसायिक, रोमांटिक या आर्थिक क्षेत्रों को प्रभावित कर सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Avoid sharp or aggressive business activities; confusion or deception may affect professional decisions.",
+      "hi": "तेज-तर्रार व्यवसाय से बचना चाहिए; भ्रम या भ्रमपूर्ण व्यवहार पेशेवर निर्णयों को प्रभावित कर सकता है।"
+    },
+    "relationships": {
+      "en": "Possible confusion or deception in social, romantic, or important relationships; mental distress from fear of being harmed by others.",
+      "hi": "सामाजिक, रोमांटिक या महत्वपूर्ण संबंधों में भ्रम की स्थिति बन सकती है; दूसरों द्वारा सताए जाने के डर से मानसिक संकट हो सकता है।"
+    },
+    "money": {
+      "en": "Financial confusion or deceptive situations may arise, requiring caution in monetary matters.",
+      "hi": "आर्थिक भ्रामकता की स्थिति हो सकती है, इसलिए वित्तीय मामलों में सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Risk of developing inappropriate habits such as alcohol, drugs, or tobacco; pregnancy or pre-marital pregnancy may occur.",
+      "hi": "शराब, ड्रग्स, तंबाकू जैसी अनुचित आदतें बन सकती हैं; गर्भवती महिला या विवाह पूर्व गर्भ की स्थिति हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Pregnancy",
+      "Pre-marital pregnancy",
+      "Development of habits"
+    ],
+    "hi": [
+      "गर्भावस्था",
+      "विवाह पूर्व गर्भावस्था",
+      "आदतों का निर्माण"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Deceptive behavior and forgetting reality",
+      "Confusion in relationships and finances",
+      "Mental distress due to fear of harm",
+      "Risk of inappropriate habits like alcohol or drugs"
+    ],
+    "hi": [
+      "भ्रमपूर्ण व्यवहार और वास्तविकता भूलना",
+      "संबंधों और वित्त में भ्रम",
+      "हानि के डर से मानसिक संकट",
+      "शराब या ड्रग्स जैसी अनुचित आदतों का खतरा"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in relationships and financial dealings",
+        "Avoid aggressive or sharp business moves",
+        "Be mindful of developing harmful habits"
+      ],
+      "hi": [
+        "संबंधों और वित्तीय लेन-देन में सावधानी बरतें",
+        "तेज-तर्रार व्यवसाय से बचें",
+        "हानिकारक आदतों के विकास से सावधान रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Heightened risk of deception and confusion",
+        "Potential for pregnancy or pre-marital pregnancy",
+        "Increased vulnerability to mental distress"
+      ],
+      "hi": [
+        "भ्रम और भ्रम का अधिक खतरा",
+        "गर्भावस्था या विवाह पूर्व गर्भावस्था की संभावना",
+        "मानसिक संकट के प्रति संवेदनशीलता बढ़ना"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reduced risk of confusion and deception",
+        "Improved clarity in relationships and finances",
+        "Opportunity to address and avoid harmful habits"
+      ],
+      "hi": [
+        "भ्रम और भ्रम का खतरा कम होना",
+        "संबंधों और वित्त में स्पष्टता में सुधार",
+        "हानिकारक आदतों को पहचानने और टालने का अवसर"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "gentleness",
+      "deception",
+      "confusion",
+      "pleasure-seeking",
+      "pregnancy",
+      "inappropriate habits",
+      "mental distress"
+    ],
+    "hi": [
+      "मृदुलता",
+      "भ्रमपूर्ण व्यवहार",
+      "भ्रम",
+      "सुख की लालसा",
+      "गर्भावस्था",
+      "अनुचित आदतें",
+      "मानसिक संकट"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "caution",
+      "vulnerability",
+      "emotional sensitivity",
+      "risk-prone"
+    ],
+    "hi": [
+      "सावधानी",
+      "संवेदनशीलता",
+      "भावनात्मक संवेदनशीलता",
+      "जोखिमपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "relationship confusion",
+      "financial uncertainty",
+      "habit formation",
+      "mental challenges"
+    ],
+    "hi": [
+      "संबंधों में भ्रम",
+      "आर्थिक अनिश्चितता",
+      "आदतों का निर्माण",
+      "मानसिक चुनौतियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-opp-sun",
+      "core": "Gentleness or deceptive behavior leads to forgetting reality in pursuit of pleasure, affecting relationships and finances.",
+      "tone": "Warm, cautious, and neutral"
+    },
+    "hi": {
+      "title": "नेपच्यून विपक्ष सूर्य",
+      "core": "मृदुलता या भ्रमपूर्ण व्यवहार के कारण सुख की लालसा में वास्तविकता भूलना, जो संबंधों और वित्त को प्रभावित करता है।",
+      "tone": "सहानुभूतिपूर्ण, सावधान और तटस्थ"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The act of gentleness or deceptive behavior prevails, leading to forgetting reality in the desire for pleasure, affecting social, business, romantic, or financial areas.",
+        "hi": "मृदुलता या भ्रमपूर्ण व्यवहार की स्थिति होती है, जिससे सुख प्राप्ति के लालच में वास्तविकता भूल जाती है, जो सामाजिक, व्यावसायिक, रोमांटिक या आर्थिक क्षेत्रों को प्रभावित कर सकती है।"
+      },
+      "career": {
+        "en": "Avoid sharp or aggressive business activities; confusion or deception may affect professional decisions.",
+        "hi": "तेज-तर्रार व्यवसाय से बचना चाहिए; भ्रम या भ्रमपूर्ण व्यवहार पेशेवर निर्णयों को प्रभावित कर सकता है।"
+      },
+      "relationships": {
+        "en": "Confusion or deception may occur in social, romantic, or important relationships; mental distress from fear of harm by others is possible.",
+        "hi": "सामाजिक, रोमांटिक या महत्वपूर्ण संबंधों में भ्रम की स्थिति बन सकती है; दूसरों द्वारा सताए जाने के डर से मानसिक संकट हो सकता है।"
+      },
+      "money": {
+        "en": "Financial confusion or deceptive situations may arise, requiring caution.",
+        "hi": "आर्थिक भ्रामकता की स्थिति हो सकती है, इसलिए सावधानी आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "Risk of developing inappropriate habits such as alcohol, drugs, or tobacco; pregnancy or pre-marital pregnancy may occur.",
+        "hi": "शराब, ड्रग्स, तंबाकू जैसी अनुचित आदतें बन सकती हैं; गर्भवती महिला या विवाह पूर्व गर्भ की स्थिति हो सकती है।"
+      }
+    },
+    "aliases": [
+      "Neptune opposition Sun",
+      "Nep OPP Sun",
+      "Neptune-Opposition-Sun",
+      "Neptune Opposition to Sun"
+    ]
+  }
+}

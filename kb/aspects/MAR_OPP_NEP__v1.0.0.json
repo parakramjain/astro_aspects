@@ -1,0 +1,257 @@
+{
+  "id": "MAR_OPP_NEP__v1.0.0",
+  "pair": [
+    "Mars",
+    "Opposition",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Challenges in controlling hidden anger and desires, with risks of deception and health issues. Important to focus on practical matters and avoid risky situations.",
+    "hi": "दबे हुए क्रोध और छुपी इच्छाओं को नियंत्रित करने में कठिनाई, धोखे और स्वास्थ्य समस्याओं का खतरा। व्यावहारिक मामलों पर ध्यान देना और जोखिम भरे हालात से बचना आवश्यक है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Vulnerability to fraud in joint assets, taxes, investments, insurance, and dividends; caution advised with lazy colleagues and emotional situations.",
+      "hi": "संयुक्त संपत्ति, कर, निवेश, बीमा और लाभांश में धोखे का खतरा; कामचोर साथियों और भावनात्मक स्थितियों से सावधानी बरतें।"
+    },
+    "relationships": {
+      "en": "Difficulty suppressing hidden anger and desires; postpone sexual matters, new partnerships, and important decisions to avoid deception.",
+      "hi": "दबे हुए क्रोध और इच्छाओं को दबाने में कठिनाई; धोखे से बचने के लिए यौनिक मामलों, नई भागीदारी और महत्वपूर्ण निर्णयों को टालें।"
+    },
+    "money": {
+      "en": "Risk of fraud in joint financial matters; avoid gambling situations and be cautious with investments and dividends.",
+      "hi": "संयुक्त वित्तीय मामलों में धोखे का खतरा; जुआ जैसी स्थितियों से दूर रहें और निवेश व लाभांश में सावधानी रखें।"
+    },
+    "health_adj": {
+      "en": "Health may be adversely affected with hard-to-diagnose illnesses; beware of leaks of gas, oil, or water at home, family, or workplace causing problems.",
+      "hi": "स्वास्थ्य पर प्रतिकूल प्रभाव, ऐसी बीमारियां जो पता लगाना कठिन हों; घर, परिवार या कार्यस्थल पर गैस, तेल या पानी के रिसाव से समस्या हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Health challenges",
+      "Financial fraud risks",
+      "Relationship tensions",
+      "Delays in new ventures or partnerships"
+    ],
+    "hi": [
+      "स्वास्थ्य संबंधी चुनौतियाँ",
+      "वित्तीय धोखे के जोखिम",
+      "संबंधों में तनाव",
+      "नए व्यवसाय या भागीदारी में विलंब"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Hidden anger and desires may surface causing difficulties",
+      "Possibility of contracting difficult-to-diagnose illnesses",
+      "Exposure to fraud in joint assets and financial dealings",
+      "Problems from leaks of gas, oil, or water at home or workplace",
+      "Avoid gambling and emotional confrontations"
+    ],
+    "hi": [
+      "दबा हुआ क्रोध और इच्छाएं सामने आ सकती हैं",
+      "ऐसी बीमारियां जो पता लगाना कठिन हों",
+      "संयुक्त संपत्ति और वित्तीय मामलों में धोखे का खतरा",
+      "घर या कार्यस्थल पर गैस, तेल या पानी के रिसाव से समस्या",
+      "जुआ और भावनात्मक टकराव से बचें"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on business and practical realities",
+        "Be cautious with joint financial matters",
+        "Avoid gambling situations",
+        "Stay alert to signs of deception"
+      ],
+      "hi": [
+        "व्यवसाय और व्यावहारिक वास्तविकताओं पर ध्यान दें",
+        "संयुक्त वित्तीय मामलों में सावधानी बरतें",
+        "जुआ जैसी स्थितियों से बचें",
+        "धोखे के संकेतों के प्रति सतर्क रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Postpone sexual matters, new ventures, partnerships, and important decisions",
+        "Avoid emotional situations and lazy people",
+        "Monitor for leaks of gas, oil, or water at home or workplace"
+      ],
+      "hi": [
+        "यौनिक मामलों, नए व्यवसाय, भागीदारी और महत्वपूर्ण निर्णयों को टालें",
+        "भावनात्मक स्थितियों और कामचोरों से बचें",
+        "घर या कार्यस्थल पर गैस, तेल या पानी के रिसाव की जांच करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually regain control over hidden anger and desires",
+        "Reduce vulnerability to fraud by reviewing joint assets and investments",
+        "Focus more on practical and business matters"
+      ],
+      "hi": [
+        "दबे हुए क्रोध और इच्छाओं पर नियंत्रण धीरे-धीरे वापस पाएं",
+        "संयुक्त संपत्ति और निवेश की समीक्षा कर धोखे से बचें",
+        "व्यावहारिक और व्यवसायिक मामलों पर अधिक ध्यान दें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "hidden anger",
+      "desires",
+      "health issues",
+      "fraud risk",
+      "deception",
+      "delays",
+      "leaks",
+      "caution",
+      "practical focus"
+    ],
+    "hi": [
+      "दबा हुआ क्रोध",
+      "इच्छाएं",
+      "स्वास्थ्य समस्याएं",
+      "धोखे का खतरा",
+      "ठगी",
+      "विलंब",
+      "रिसाव",
+      "सावधानी",
+      "व्यावहारिक ध्यान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautious",
+      "vulnerable",
+      "pragmatic"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधान",
+      "संवेदनशील",
+      "व्यावहारिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional control",
+      "health vigilance",
+      "financial caution",
+      "delayed decisions"
+    ],
+    "hi": [
+      "भावनात्मक नियंत्रण",
+      "स्वास्थ्य सतर्कता",
+      "वित्तीय सावधानी",
+      "निर्णय में विलंब"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-opp-nep",
+      "core": "Challenges with hidden anger and desires, health risks, and vulnerability to deception requiring practical focus and caution.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "मंगल विपरीत नेपच्यून",
+      "core": "दबे हुए क्रोध और इच्छाओं में कठिनाई, स्वास्थ्य जोखिम और धोखे के प्रति संवेदनशीलता, जिसके लिए व्यावहारिक ध्यान और सावधानी आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Difficulty suppressing hidden anger and desires; health and deception risks; focus on practical matters.",
+        "hi": "दबे हुए क्रोध और इच्छाओं को दबाने में कठिनाई; स्वास्थ्य और धोखे के जोखिम; व्यावहारिक मामलों पर ध्यान।"
+      },
+      "career": {
+        "en": "Professional vulnerability to fraud in joint assets, taxes, investments, insurance, and dividends; avoid lazy people and emotional situations.",
+        "hi": "संयुक्त संपत्ति, कर, निवेश, बीमा और लाभांश में पेशेवर धोखे का खतरा; कामचोरों और भावनात्मक स्थितियों से बचें।"
+      },
+      "relationships": {
+        "en": "Postpone sexual matters, new partnerships, and important decisions to avoid deception; difficulty controlling hidden anger and desires.",
+        "hi": "ठगे जाने से बचने के लिए यौनिक मामलों, नई भागीदारी और महत्वपूर्ण निर्णयों को टालें; दबे हुए क्रोध और इच्छाओं को नियंत्रित करने में कठिनाई।"
+      },
+      "money": {
+        "en": "Risk of fraud in joint financial matters; avoid gambling and be cautious with investments and dividends.",
+        "hi": "संयुक्त वित्तीय मामलों में धोखे का खतरा; जुआ से बचें और निवेश तथा लाभांश में सावधानी बरतें।"
+      },
+      "health_adj": {
+        "en": "Health may be adversely affected by hard-to-diagnose illnesses; problems caused by leaks of gas, oil, or water at home or workplace.",
+        "hi": "स्वास्थ्य पर प्रतिकूल प्रभाव, ऐसी बीमारियां जो पता लगाना कठिन हों; घर या कार्यस्थल पर गैस, तेल या पानी के रिसाव से समस्या।"
+      }
+    },
+    "aliases": [
+      "Mars opposition Neptune",
+      "Mar OPP Nep",
+      "Mars-Opposition-Neptune",
+      "Mars Opposition to Neptune"
+    ]
+  }
+}

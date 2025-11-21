@@ -1,0 +1,245 @@
+{
+  "id": "URA_TRI_PLU__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Trine",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Strong willpower and creativity enhance abilities, leading to transformative spiritual insights and deeper life understanding. Encourages courage to reform systems and benefits joint ventures with government support.",
+    "hi": "प्रबल इच्छाशक्ति और रचनात्मकता से कार्यक्षमता बढ़ती है, जिससे आध्यात्मिक अंतर्दृष्टि और जीवन की गहरी समझ होती है। प्रणालियों में सुधार का साहस बढ़ता है और संयुक्त व्यवसायों में शासकीय सहयोग मिलता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Enhances skills and social adaptability; encourages innovative and reformative projects.",
+      "hi": "कार्यकुशलता और सामाजिक योग्यता में वृद्धि; नवोन्मेषी और सुधारात्मक कार्यों को प्रोत्साहन।"
+    },
+    "relationships": {
+      "en": "Supports cooperative ventures and joint efforts, fostering mutual understanding.",
+      "hi": "संयुक्त प्रयासों और सहयोगी व्यवसायों में सहायता, पारस्परिक समझ को बढ़ावा।"
+    },
+    "money": {
+      "en": "Government support benefits joint ventures, inheritance, taxes, insurance, and investments.",
+      "hi": "संयुक्त व्यवसाय, विरासत, कर, बीमा, निवेश में शासकीय सहयोग और लाभ।"
+    },
+    "health_adj": {
+      "en": "Spiritual and occult studies deepen life understanding, indirectly supporting mental resilience.",
+      "hi": "आध्यात्मिक और गूढ़ अध्ययन जीवन की समझ को गहरा करते हैं, जिससे मानसिक सहनशीलता बढ़ती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative project development",
+      "Spiritual transformation",
+      "Joint business ventures",
+      "Inheritance or property matters"
+    ],
+    "hi": [
+      "रचनात्मक परियोजनाओं का विकास",
+      "आध्यात्मिक परिवर्तन",
+      "संयुक्त व्यवसाय",
+      "विरासत या संपत्ति संबंधी मामले"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential challenges in reforming established systems require courage.",
+      "Changes in life goals may cause uncertainty."
+    ],
+    "hi": [
+      "स्थापित प्रणालियों में सुधार के लिए साहस की आवश्यकता।",
+      "जीवन लक्ष्यों में परिवर्तन से अनिश्चितता हो सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative and reformative projects.",
+        "Pursue spiritual or occult studies for deeper insights.",
+        "Collaborate on joint ventures with potential government support."
+      ],
+      "hi": [
+        "रचनात्मक और सुधारात्मक कार्यों में संलग्न हों।",
+        "गहरी समझ के लिए आध्यात्मिक या गूढ़ अध्ययन करें।",
+        "संयुक्त व्यवसायों में सहयोग करें, जहां शासकीय सहायता संभव हो।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on transforming life goals with strong willpower.",
+        "Utilize enhanced skills and social adaptability actively."
+      ],
+      "hi": [
+        "प्रबल इच्छाशक्ति से जीवन लक्ष्यों को बदलने पर ध्यान दें।",
+        "बढ़ी हुई कार्यकुशलता और सामाजिक योग्यता का सक्रिय उपयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain courage to continue reforms despite challenges.",
+        "Reflect on spiritual insights gained to guide future actions."
+      ],
+      "hi": [
+        "चुनौतियों के बावजूद सुधार जारी रखने का साहस रखें।",
+        "प्राप्त आध्यात्मिक अंतर्दृष्टि पर विचार करें और भविष्य की योजना बनाएं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "willpower",
+      "creativity",
+      "spiritual insight",
+      "transformation",
+      "social adaptability",
+      "reform",
+      "government support",
+      "joint ventures"
+    ],
+    "hi": [
+      "इच्छाशक्ति",
+      "रचनात्मकता",
+      "आध्यात्मिक अंतर्दृष्टि",
+      "परिवर्तन",
+      "सामाजिक योग्यता",
+      "सुधार",
+      "शासकीय सहयोग",
+      "संयुक्त व्यवसाय"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "strong-willed",
+      "creative",
+      "transformative",
+      "insightful",
+      "supportive"
+    ],
+    "hi": [
+      "प्रबल इच्छाशक्ति",
+      "रचनात्मक",
+      "परिवर्तनकारी",
+      "गहन समझ",
+      "सहायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "system reform",
+      "collaboration",
+      "life transformation"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "प्रणाली सुधार",
+      "सहयोग",
+      "जीवन परिवर्तन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-tri-plu",
+      "core": "Strong willpower and creativity enhance abilities, encouraging spiritual transformation and system reform with supportive collaboration.",
+      "tone": "Warm, neutral, encouraging"
+    },
+    "hi": {
+      "title": "यूरेनस ट्राइन प्लूटो",
+      "core": "प्रबल इच्छाशक्ति और रचनात्मकता से कार्यक्षमता बढ़ती है, जो आध्यात्मिक परिवर्तन और प्रणालियों के सुधार को प्रोत्साहित करती है तथा सहयोगात्मक समर्थन मिलता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Strong willpower and creative projects enhance capabilities leading to spiritual insights and life transformation.",
+        "hi": "प्रबल इच्छाशक्ति और रचनात्मक कार्य क्षमता बढ़ाते हैं, जिससे आध्यात्मिक अंतर्दृष्टि और जीवन परिवर्तन होता है।"
+      },
+      "career": {
+        "en": "Improves skills and social adaptability; encourages courage to reform systems and undertake creative projects.",
+        "hi": "कार्यकुशलता और सामाजिक योग्यता बढ़ती है; प्रणालियों में सुधार और रचनात्मक कार्यों के लिए साहस बढ़ता है।"
+      },
+      "relationships": {
+        "en": "Supports joint ventures and cooperative efforts with government assistance.",
+        "hi": "संयुक्त व्यवसाय और सहयोगी प्रयासों में शासकीय सहायता मिलती है।"
+      },
+      "money": {
+        "en": "Government support benefits joint ventures, inheritance, taxes, insurance, and investments.",
+        "hi": "संयुक्त व्यवसाय, विरासत, कर, बीमा, निवेश में शासकीय सहयोग और लाभ प्राप्त होता है।"
+      },
+      "health_adj": {
+        "en": "Spiritual and occult studies deepen understanding of life, enhancing mental resilience.",
+        "hi": "आध्यात्मिक और गूढ़ अध्ययन जीवन की समझ को गहरा करते हैं, जिससे मानसिक सहनशीलता बढ़ती है।"
+      }
+    },
+    "aliases": [
+      "Uranus trine Pluto",
+      "Ura TRI Plu",
+      "Uranus-Trine-Pluto",
+      "Uranus Trine to Pluto"
+    ]
+  }
+}

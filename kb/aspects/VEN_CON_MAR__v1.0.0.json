@@ -1,0 +1,237 @@
+{
+  "id": "VEN_CON_MAR__v1.0.0",
+  "pair": [
+    "Venus",
+    "Conjunction",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A passionate and energetic period marked by heightened emotions and a need for balance in relationships. Creative efforts may lead to financial benefits.",
+    "hi": "यह एक जोशीला और ऊर्जा से भरा समय होता है जिसमें भावनाएँ तीव्र होती हैं और रिश्तों में संतुलन बनाए रखना आवश्यक होता है। रचनात्मक प्रयास आर्थिक लाभ ला सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Creative or artistic work is favored and may bring financial rewards.",
+      "hi": "कला या रचनात्मक कार्य को प्रोत्साहन मिलता है और इससे आर्थिक लाभ हो सकता है।"
+    },
+    "relationships": {
+      "en": "Emotions run high; maintaining balance is important for harmony.",
+      "hi": "भावनाएँ तीव्र होती हैं; सामंजस्य के लिए संतुलन बनाए रखना आवश्यक है।"
+    },
+    "money": {
+      "en": "Financial gain is possible through artistic or creative activities.",
+      "hi": "कला या रचनात्मक गतिविधियों से आर्थिक लाभ संभव है।"
+    },
+    "health_adj": {
+      "en": "Energy levels are high; emotional balance is advisable.",
+      "hi": "ऊर्जा का स्तर उच्च होता है; भावनात्मक संतुलन आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional intensity",
+      "Creative opportunities",
+      "Relationship focus"
+    ],
+    "hi": [
+      "भावनात्मक तीव्रता",
+      "रचनात्मक अवसर",
+      "रिश्तों पर ध्यान"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional volatility may affect relationships",
+      "Need to avoid imbalance in interactions"
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता रिश्तों को प्रभावित कर सकती है",
+      "संबंधों में असंतुलन से बचना चाहिए"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative or artistic projects",
+        "Be mindful of emotional responses in relationships"
+      ],
+      "hi": [
+        "रचनात्मक या कलात्मक परियोजनाओं में संलग्न हों",
+        "रिश्तों में भावनात्मक प्रतिक्रियाओं के प्रति सतर्क रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on balancing passion with harmony",
+        "Leverage creative energy for financial benefit"
+      ],
+      "hi": [
+        "जोश और सामंजस्य के बीच संतुलन बनाए रखें",
+        "आर्थिक लाभ के लिए रचनात्मक ऊर्जा का उपयोग करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional experiences",
+        "Restore balance in personal connections"
+      ],
+      "hi": [
+        "भावनात्मक अनुभवों पर विचार करें",
+        "व्यक्तिगत संबंधों में संतुलन बहाल करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "passion",
+      "energy",
+      "emotions",
+      "balance",
+      "creativity",
+      "financial gain"
+    ],
+    "hi": [
+      "आकर्षण",
+      "ऊर्जा",
+      "भावनाएँ",
+      "संतुलन",
+      "रचनात्मकता",
+      "आर्थिक लाभ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "energetic",
+      "passionate",
+      "creative",
+      "emotional",
+      "balanced"
+    ],
+    "hi": [
+      "ऊर्जावान",
+      "जोशीला",
+      "रचनात्मक",
+      "भावनात्मक",
+      "संतुलित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "relationship dynamics",
+      "creative expression",
+      "emotional intensity",
+      "financial opportunity"
+    ],
+    "hi": [
+      "रिश्तों की गतिशीलता",
+      "रचनात्मक अभिव्यक्ति",
+      "भावनात्मक तीव्रता",
+      "आर्थिक अवसर"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-con-mar",
+      "core": "A time of passion and energy requiring emotional balance and offering creative financial opportunities.",
+      "tone": "Warm, neutral, and encouraging mindful balance."
+    },
+    "hi": {
+      "title": "शुक्र संयोजन मंगल",
+      "core": "यह समय आकर्षण और ऊर्जा से भरा होता है, जिसमें भावनात्मक संतुलन और रचनात्मक आर्थिक अवसरों की आवश्यकता होती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और संतुलन के प्रति जागरूक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A passionate and energetic period marked by heightened emotions and a need for balance in relationships. Creative efforts may lead to financial benefits.",
+        "hi": "यह एक जोशीला और ऊर्जा से भरा समय होता है जिसमें भावनाएँ तीव्र होती हैं और रिश्तों में संतुलन बनाए रखना आवश्यक होता है। रचनात्मक प्रयास आर्थिक लाभ ला सकते हैं।"
+      },
+      "career": {
+        "en": "Creative or artistic work is favored and may bring financial rewards.",
+        "hi": "कला या रचनात्मक कार्य को प्रोत्साहन मिलता है और इससे आर्थिक लाभ हो सकता है।"
+      },
+      "relationships": {
+        "en": "Emotions run high; maintaining balance is important for harmony.",
+        "hi": "भावनाएँ तीव्र होती हैं; सामंजस्य के लिए संतुलन बनाए रखना आवश्यक है।"
+      },
+      "money": {
+        "en": "Financial gain is possible through artistic or creative activities.",
+        "hi": "कला या रचनात्मक गतिविधियों से आर्थिक लाभ संभव है।"
+      },
+      "health_adj": {
+        "en": "Energy levels are high; emotional balance is advisable.",
+        "hi": "ऊर्जा का स्तर उच्च होता है; भावनात्मक संतुलन आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Venus conjunction Mars",
+      "Ven CON Mar",
+      "Venus-Conjunction-Mars",
+      "Venus Conjunction to Mars"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "MAR_SQR_NEP__v1.0.0",
+  "pair": [
+    "Mars",
+    "Square",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Square between Mars and Neptune drives friction/work. Mars: drive, assertion, surgery, mechanics, conflict. Neptune: . General tenor: growth via friction; endurance and clear boundaries are key.",
+  "facets": {
+    "career": "Execution speed, competition, technical grit.  Emphasis: friction/work.",
+    "relationships": "Desire, boundaries, anger management.  Emphasis: friction/work.",
+    "money": "Risk-capital, decisive investments, initiative-led gains.  Emphasis: friction/work.",
+    "health_adj": "Inflammation, accidents; channel via training.  Emphasis: friction/work."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Friction escalating into conflict; respect pacing and boundaries.",
+    "Impulsive actions or accidents; channel energy into training."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: friction/work).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: friction/work)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: friction/work).",
+      "Make the decisive call; accept/decline offers consciously. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: friction/work)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: friction/work).",
+      "Close loops, stabilize routines, prune scope creep. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: friction/work)."
+    ]
+  },
+  "keywords": [
+    "assertion",
+    "conflict",
+    "drive",
+    "friction",
+    "mechanics",
+    "square",
+    "surgery",
+    "work"
+  ],
+  "quality_tags": [
+    "major",
+    "challenging",
+    "discipline-required"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Mars Square Neptune",
+      "core": "Square between Mars and Neptune drives friction/work. Mars: drive, assertion, surgery, mechanics, conflict. Neptune: . General tenor: growth via friction; endurance and clear boundaries are key.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Mars Square Neptune (हिन्दी)",
+      "core": "Mars और Neptune का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Square between Mars and Neptune drives friction/work. Mars: drive, assertion, surgery, mechanics, conflict. Neptune: . General tenor: growth via friction; endurance and clear boundaries are key.",
+      "career": "Execution speed, competition, technical grit.  Emphasis: friction/work.",
+      "relationships": "Desire, boundaries, anger management.  Emphasis: friction/work.",
+      "money": "Risk-capital, decisive investments, initiative-led gains.  Emphasis: friction/work.",
+      "health_adj": "Inflammation, accidents; channel via training.  Emphasis: friction/work."
+    },
+    "aliases": [
+      "Mars square Neptune",
+      "Mar SQR Nep",
+      "Mars-Square-Neptune",
+      "Mars Square to Neptune"
+    ]
+  }
+}

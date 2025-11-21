@@ -1,0 +1,221 @@
+{
+  "id": "MER_SEX_MOO__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Sextile",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Engagement in commercial or company-related activities within the home or family setting, focusing on resolving business issues.",
+    "hi": "घर या परिवार के वातावरण में वाणिज्य या कंपनियों से संबंधित कार्यों में संलग्नता, व्यापारिक समस्याओं के समाधान पर ध्यान।"
+  },
+  "facets": {
+    "career": {
+      "en": "Involvement in business or company-related tasks at home, helping to address professional challenges.",
+      "hi": "घर में व्यापार या कंपनी से संबंधित कार्यों में भागीदारी, जो पेशेवर चुनौतियों को हल करने में मदद करती है।"
+    },
+    "relationships": {
+      "en": "Family or household interactions may center around business matters, fostering cooperation in resolving issues.",
+      "hi": "परिवार या घर के सदस्यों के बीच व्यापारिक मामलों पर बातचीत, समस्याओं के समाधान में सहयोग बढ़ाना।"
+    },
+    "money": {
+      "en": "Focus on resolving financial or business problems related to home-based or family enterprises.",
+      "hi": "घर या परिवार से जुड़े व्यवसायों की वित्तीय या व्यापारिक समस्याओं के समाधान पर ध्यान।"
+    },
+    "health_adj": {
+      "en": "No specific health implications indicated; focus remains on business and family matters.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं; ध्यान व्यापार और परिवार के मामलों पर केंद्रित।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business problem resolution",
+      "Home-based commercial activity"
+    ],
+    "hi": [
+      "व्यापारिक समस्याओं का समाधान",
+      "घर आधारित वाणिज्यिक गतिविधि"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in resolving business issues within the family or home setting.",
+        "Communicate effectively with family members about company-related matters."
+      ],
+      "hi": [
+        "परिवार या घर में व्यापारिक समस्याओं को सुलझाने में भाग लें।",
+        "कंपनी से संबंधित मामलों पर परिवार के सदस्यों से प्रभावी संवाद करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on business problem-solving at home.",
+        "Utilize this period for addressing company-related challenges within the family."
+      ],
+      "hi": [
+        "घर पर व्यापार समस्याओं के समाधान पर ध्यान दें।",
+        "परिवार में कंपनी से संबंधित चुनौतियों को सुलझाने के लिए इस समय का उपयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Business issues may begin to resolve or lessen in intensity.",
+        "Family involvement in commercial activities may decrease."
+      ],
+      "hi": [
+        "व्यापारिक समस्याएँ हल होने लग सकती हैं या उनकी तीव्रता कम हो सकती है।",
+        "वाणिज्यिक गतिविधियों में परिवार की भागीदारी कम हो सकती है।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "commercial activities",
+      "family business",
+      "problem resolution",
+      "home",
+      "company"
+    ],
+    "hi": [
+      "वाणिज्यिक गतिविधियाँ",
+      "परिवार का व्यवसाय",
+      "समस्या समाधान",
+      "घर",
+      "कंपनी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "practical",
+      "collaborative",
+      "problem-solving"
+    ],
+    "hi": [
+      "व्यावहारिक",
+      "सहयोगात्मक",
+      "समस्या समाधान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "business",
+      "family",
+      "communication"
+    ],
+    "hi": [
+      "व्यापार",
+      "परिवार",
+      "संचार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-sxt-moo",
+      "core": "This aspect indicates active involvement in commercial or company-related activities within the home or family environment, emphasizing resolving business problems.",
+      "tone": "Warm, practical, and collaborative"
+    },
+    "hi": {
+      "title": "बुध षट्कोण चंद्र: व्यापार और परिवार में समरसता",
+      "core": "यह योग घर या परिवार के वातावरण में वाणिज्य या कंपनी से संबंधित कार्यों में सक्रिय भागीदारी और व्यापारिक समस्याओं के समाधान को दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, व्यावहारिक, और सहयोगात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Engagement in commercial activities or those related to companies at home/family/residence focused on resolving business problems.",
+        "hi": "घर/परिवार/निवास स्थान में वाणिज्य/कंपनियों से संबंधित कार्यों में भागीदारी, व्यापारिक समस्याओं के समाधान पर केंद्रित।"
+      },
+      "career": {
+        "en": "Involvement in business or company-related tasks at home, aiding in solving professional challenges.",
+        "hi": "घर में व्यापार या कंपनी से संबंधित कार्यों में भागीदारी, पेशेवर चुनौतियों को हल करने में मदद।"
+      },
+      "relationships": {
+        "en": "Family interactions may revolve around business matters, promoting cooperation in resolving issues.",
+        "hi": "परिवार के बीच व्यापारिक मामलों पर बातचीत, समस्याओं के समाधान में सहयोग।"
+      },
+      "money": {
+        "en": "Focus on resolving financial or business problems related to home or family enterprises.",
+        "hi": "घर या परिवार से जुड़े व्यवसायों की वित्तीय या व्यापारिक समस्याओं के समाधान पर ध्यान।"
+      },
+      "health_adj": {
+        "en": "No specific health implications; emphasis is on business and family matters.",
+        "hi": "स्वास्थ्य पर कोई विशेष प्रभाव नहीं; ध्यान व्यापार और परिवार के मामलों पर।"
+      }
+    },
+    "aliases": [
+      "Mercury sextile Moon",
+      "Mer SEX Moo",
+      "Mercury-Sextile-Moon",
+      "Mercury Sextile to Moon"
+    ]
+  }
+}

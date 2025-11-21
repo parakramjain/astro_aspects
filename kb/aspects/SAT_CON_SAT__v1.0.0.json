@@ -1,0 +1,246 @@
+{
+  "id": "SAT_CON_SAT__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Conjunction",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Ends one phase, begins another. Life reassessment period focused on fulfilling ambitions and adopting stability.",
+    "hi": "व्यक्ति एक स्थिति को समाप्त कर दूसरी को प्रारंभ करता है। जीवन में पुनर्मूल्यांकन का दौर रहता है। उद्देश्य प्राप्ति और स्थिरता अपनाने पर ध्यान केंद्रित।"
+  },
+  "facets": {
+    "career": {
+      "en": "Initiates serious projects related to math, science, politics, or profession; increased responsibilities and progress toward future security.",
+      "hi": "गणित, विज्ञान, राजनीति या पेशे से संबंधित कार्यों को गंभीरता से प्रारंभ करता है; जिम्मेदारियों में वृद्धि और भविष्य सुरक्षा की दिशा में प्रगति।"
+    },
+    "relationships": {
+      "en": "Period may involve reassessment of commitments and increased responsibility within relationships.",
+      "hi": "संबंधों में प्रतिबद्धताओं का पुनर्मूल्यांकन और जिम्मेदारियों में वृद्धि हो सकती है।"
+    },
+    "money": {
+      "en": "Re-evaluates past work/business for new changes and investments; strong progress in securing future finances.",
+      "hi": "पूर्व कार्यों/व्यवसाय का पुनर्मूल्यांकन कर नए परिवर्तन और निवेश करता है; भविष्य की वित्तीय सुरक्षा में मजबूत प्रगति।"
+    },
+    "health_adj": {
+      "en": "Adopts a stable lifestyle which may support overall well-being during this intense phase.",
+      "hi": "तीव्र अवस्था के दौरान स्थिर जीवन पद्धति अपनाता है जो समग्र स्वास्थ्य के लिए सहायक हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Life reassessment",
+      "Goal fulfillment",
+      "New beginnings",
+      "Increased responsibilities"
+    ],
+    "hi": [
+      "जीवन पुनर्मूल्यांकन",
+      "लक्ष्य पूर्ति",
+      "नई शुरुआत",
+      "जिम्मेदारियों में वृद्धि"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased pressure from responsibilities",
+      "Potential stress from intense ambition",
+      "Need to balance old objectives with new changes"
+    ],
+    "hi": [
+      "जिम्मेदारियों से बढ़ा दबाव",
+      "तीव्र महत्वाकांक्षा से तनाव की संभावना",
+      "पुराने उद्देश्यों और नए परिवर्तनों में संतुलन आवश्यक"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Work steadily towards ambition fulfillment",
+        "Adopt a stable lifestyle",
+        "Reassess past projects for improvements"
+      ],
+      "hi": [
+        "महत्वाकांक्षा पूर्ति के लिए निरंतर कार्य करें",
+        "स्थिर जीवन पद्धति अपनाएं",
+        "पूर्व परियोजनाओं का पुनर्मूल्यांकन करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate serious math, science, political, or professional projects",
+        "Increase focus on future security"
+      ],
+      "hi": [
+        "गणित, विज्ञान, राजनीतिक या पेशेवर कार्यों को गंभीरता से प्रारंभ करें",
+        "भविष्य सुरक्षा पर ध्यान बढ़ाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Complete old objectives",
+        "Prepare for new phase and responsibilities"
+      ],
+      "hi": [
+        "पुराने उद्देश्य पूरे करें",
+        "नई अवस्था और जिम्मेदारियों के लिए तैयारी करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "phase ending",
+      "new beginning",
+      "life reassessment",
+      "ambition",
+      "stability",
+      "responsibility",
+      "future security",
+      "project initiation"
+    ],
+    "hi": [
+      "अवधि समाप्ति",
+      "नई शुरुआत",
+      "जीवन पुनर्मूल्यांकन",
+      "महत्वाकांक्षा",
+      "स्थिरता",
+      "जिम्मेदारी",
+      "भविष्य सुरक्षा",
+      "परियोजना प्रारंभ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intense",
+      "serious",
+      "stable",
+      "progressive",
+      "responsible"
+    ],
+    "hi": [
+      "तीव्र",
+      "गंभीर",
+      "स्थिर",
+      "प्रगतिशील",
+      "जिम्मेदार"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "transformation",
+      "ambition fulfillment",
+      "stability",
+      "responsibility increase"
+    ],
+    "hi": [
+      "परिवर्तन",
+      "महत्वाकांक्षा पूर्ति",
+      "स्थिरता",
+      "जिम्मेदारी वृद्धि"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-con-sat",
+      "core": "This aspect marks the end of one phase and the beginning of another, emphasizing life reassessment and ambition fulfillment with increased responsibilities.",
+      "tone": "Warm, neutral, focused on growth and responsibility."
+    },
+    "hi": {
+      "title": "शनि योग शनि",
+      "core": "यह योग एक अवस्था के अंत और दूसरी की शुरुआत को दर्शाता है, जिसमें जीवन पुनर्मूल्यांकन और महत्वाकांक्षा पूर्ति के साथ जिम्मेदारियों में वृद्धि होती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, विकास और जिम्मेदारी पर केंद्रित।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Ends one phase, begins another. Life reassessment period. Works toward goal/ambition fulfillment. Intense ambition drives completion of old objectives. Adopts stable lifestyle. Strong progress in future security efforts. Re-evaluates past work/business for new changes/investments. Responsibilities increase. Seriously initiates math/science/political/professional projects.",
+        "hi": "व्यक्ति एक स्थिति को समाप्त कर दूसरी को प्रारंभ करता है। जीवन में पुनर्मूल्यांकन का दौर रहता है। उद्देश्य प्राप्ति/महत्वाकांक्षा पूर्ति की दिशा में कार्य करता है। तीव्र महत्वाकांक्षा और अधिकार प्राप्ति की स्थिति के कारण व्यक्ति अपने पुराने उद्देश्य को पूरा करने का प्रयास करता है। स्थिर जीवन पद्धति को अपनाता है। भविष्य सुरक्षा के प्रयास में मजबूत प्रगति करता है। पूर्व में किए कार्यों/व्यवसाय का पुनर्मूल्यांकन कर नए परिवर्तन और निवेश करता है। इस समय में व्यक्ति की जिम्मेदारियों में वृद्धि होती है। गणित/विज्ञान/राजनीतिक घटनाएँ/पेशेवर घटनाएँ से संबंधित कार्यों को गंभीरता से प्रारंभ करता है।"
+      },
+      "career": {
+        "en": "Initiates serious math, science, political, or professional projects; responsibilities increase; strong progress in future security.",
+        "hi": "गणित, विज्ञान, राजनीति या पेशेवर कार्यों को गंभीरता से प्रारंभ करता है; जिम्मेदारियों में वृद्धि; भविष्य सुरक्षा में मजबूत प्रगति।"
+      },
+      "relationships": {
+        "en": "Reassessment and increased responsibility in relationships may occur during this phase.",
+        "hi": "इस अवधि में संबंधों का पुनर्मूल्यांकन और जिम्मेदारियों में वृद्धि हो सकती है।"
+      },
+      "money": {
+        "en": "Re-evaluates past work/business for new changes and investments; progress in securing future finances.",
+        "hi": "पूर्व कार्यों/व्यवसाय का पुनर्मूल्यांकन कर नए परिवर्तन और निवेश करता है; भविष्य की वित्तीय सुरक्षा में प्रगति।"
+      },
+      "health_adj": {
+        "en": "Adopts a stable lifestyle supporting well-being during this intense and responsible phase.",
+        "hi": "तीव्र और जिम्मेदार अवस्था के दौरान स्थिर जीवन पद्धति अपनाता है जो स्वास्थ्य के लिए सहायक है।"
+      }
+    },
+    "aliases": [
+      "Saturn conjunction Saturn",
+      "Sat CON Sat",
+      "Saturn-Conjunction-Saturn",
+      "Saturn Conjunction to Saturn"
+    ]
+  }
+}

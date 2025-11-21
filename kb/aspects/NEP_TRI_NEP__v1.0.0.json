@@ -1,0 +1,236 @@
+{
+  "id": "NEP_TRI_NEP__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Trine",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Inner guidance and creative opportunities arise, favoring spiritual practices and cultural or educational pursuits, enabling significant life improvements.",
+    "hi": "आंतरिक प्रेरणा और रचनात्मक अवसर उत्पन्न होते हैं, जो आध्यात्मिक अभ्यास और सांस्कृतिक या शैक्षणिक गतिविधियों के लिए अनुकूल हैं, जिससे जीवन में महत्वपूर्ण सुधार होते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable time for cultural, educational, and professional institutions; opportunities for creative and meaningful career growth.",
+      "hi": "सांस्कृतिक, शैक्षणिक और व्यावसायिक संस्थानों के लिए अनुकूल समय; रचनात्मक और सार्थक करियर विकास के अवसर।"
+    },
+    "relationships": {
+      "en": "Enhanced inner awareness may improve interpersonal understanding and spiritual connection.",
+      "hi": "आंतरिक जागरूकता में वृद्धि से पारस्परिक समझ और आध्यात्मिक संबंध बेहतर हो सकते हैं।"
+    },
+    "money": {
+      "en": "Opportunities may arise through educational or cultural avenues; life improvements can positively affect financial stability.",
+      "hi": "शैक्षणिक या सांस्कृतिक माध्यमों से अवसर उत्पन्न हो सकते हैं; जीवन सुधार वित्तीय स्थिरता पर सकारात्मक प्रभाव डाल सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Supportive period for spiritual and mental well-being practices; encourages inner focus and self-awareness.",
+      "hi": "आध्यात्मिक और मानसिक स्वास्थ्य के लिए अनुकूल समय; आंतरिक एकाग्रता और आत्म-जागरूकता को प्रोत्साहित करता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual growth",
+      "Creative opportunity",
+      "Educational advancement",
+      "Life improvement"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "रचनात्मक अवसर",
+      "शैक्षणिक उन्नति",
+      "जीवन सुधार"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No specific risks indicated; maintain balanced perspective."
+    ],
+    "hi": [
+      "कोई विशिष्ट जोखिम नहीं; संतुलित दृष्टिकोण बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in spiritual or meditative practices.",
+        "Pursue cultural or educational activities.",
+        "Explore creative projects or inner guidance."
+      ],
+      "hi": [
+        "आध्यात्मिक या ध्यानात्मक अभ्यास करें।",
+        "सांस्कृतिक या शैक्षणिक गतिविधियों में भाग लें।",
+        "रचनात्मक परियोजनाओं या आंतरिक प्रेरणा का अन्वेषण करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on deepening spiritual concentration.",
+        "Embrace opportunities for life-enhancing changes."
+      ],
+      "hi": [
+        "आध्यात्मिक एकाग्रता को गहरा करें।",
+        "जीवन सुधार के अवसरों को अपनाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on insights gained during this period.",
+        "Maintain openness to ongoing creative inspiration."
+      ],
+      "hi": [
+        "इस अवधि में प्राप्त अंतर्दृष्टि पर विचार करें।",
+        "चलती रचनात्मक प्रेरणा के प्रति खुले रहें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "inner guidance",
+      "creative opportunities",
+      "spiritual practice",
+      "cultural pursuits",
+      "educational advancement",
+      "life improvement"
+    ],
+    "hi": [
+      "आंतरिक प्रेरणा",
+      "रचनात्मक अवसर",
+      "आध्यात्मिक अभ्यास",
+      "सांस्कृतिक गतिविधियाँ",
+      "शैक्षणिक उन्नति",
+      "जीवन सुधार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "inspirational",
+      "transformative",
+      "harmonious"
+    ],
+    "hi": [
+      "सहायक",
+      "प्रेरणादायक",
+      "परिवर्तनकारी",
+      "सामंजस्यपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spirituality",
+      "creativity",
+      "education",
+      "personal growth"
+    ],
+    "hi": [
+      "आध्यात्मिकता",
+      "रचनात्मकता",
+      "शिक्षा",
+      "व्यक्तिगत विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-tri-nep",
+      "core": "This aspect highlights inner guidance and creative opportunities, making it ideal for spiritual and cultural pursuits that can lead to meaningful life improvements.",
+      "tone": "Warm, encouraging, and insightful."
+    },
+    "hi": {
+      "title": "नेपच्यून त्रिकोण नेपच्यून",
+      "core": "यह योग आंतरिक प्रेरणा और रचनात्मक अवसरों को उजागर करता है, जो आध्यात्मिक और सांस्कृतिक गतिविधियों के लिए उपयुक्त है और जीवन में सार्थक सुधार ला सकता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और सूचनात्मक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Inner guidance and creative opportunities arise, favoring spiritual practices and cultural or educational pursuits, enabling significant life improvements.",
+        "hi": "आंतरिक प्रेरणा और रचनात्मक अवसर उत्पन्न होते हैं, जो आध्यात्मिक अभ्यास और सांस्कृतिक या शैक्षणिक गतिविधियों के लिए अनुकूल हैं, जिससे जीवन में महत्वपूर्ण सुधार होते हैं।"
+      },
+      "career": {
+        "en": "Favorable time for cultural, educational, and professional institutions; opportunities for creative and meaningful career growth.",
+        "hi": "सांस्कृतिक, शैक्षणिक और व्यावसायिक संस्थानों के लिए अनुकूल समय; रचनात्मक और सार्थक करियर विकास के अवसर।"
+      },
+      "relationships": {
+        "en": "Enhanced inner awareness may improve interpersonal understanding and spiritual connection.",
+        "hi": "आंतरिक जागरूकता में वृद्धि से पारस्परिक समझ और आध्यात्मिक संबंध बेहतर हो सकते हैं।"
+      },
+      "money": {
+        "en": "Opportunities may arise through educational or cultural avenues; life improvements can positively affect financial stability.",
+        "hi": "शैक्षणिक या सांस्कृतिक माध्यमों से अवसर उत्पन्न हो सकते हैं; जीवन सुधार वित्तीय स्थिरता पर सकारात्मक प्रभाव डाल सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Supportive period for spiritual and mental well-being practices; encourages inner focus and self-awareness.",
+        "hi": "आध्यात्मिक और मानसिक स्वास्थ्य के लिए अनुकूल समय; आंतरिक एकाग्रता और आत्म-जागरूकता को प्रोत्साहित करता है।"
+      }
+    },
+    "aliases": [
+      "Neptune trine Neptune",
+      "Nep TRI Nep",
+      "Neptune-Trine-Neptune",
+      "Neptune Trine to Neptune"
+    ]
+  }
+}

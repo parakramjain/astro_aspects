@@ -1,0 +1,251 @@
+{
+  "id": "VEN_OPP_PLU__v1.0.0",
+  "pair": [
+    "Venus",
+    "Opposition",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates increased selfishness and jealousy, with a tendency to ignore others' feelings. It involves using others for sexual gratification and experiencing jealousy and anger related to other love affairs. Professional and financial areas may be affected by envy, harm, or deception.",
+    "hi": "यह योग स्वार्थी भाव और ईर्ष्या बढ़ने को दर्शाता है, जिसमें दूसरों की भावनाओं की अनदेखी होती है। व्यक्ति यौन संबंधों के लिए दूसरों का उपयोग करता है और प्रेम प्रसंगों के कारण ईर्ष्या व क्रोध की स्थिति बनती है। पेशेवर और आर्थिक क्षेत्र ईर्ष्या, नुकसान या धोखाधड़ी से प्रभावित हो सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work environment may be filled with jealousy; the person might harm others or suffer losses due to envy.",
+      "hi": "काम के माहौल में ईर्ष्या बनी रहती है; व्यक्ति ईर्ष्या के कारण दूसरों को नुकसान पहुँचा सकता है या स्वयं हानि झेल सकता है।"
+    },
+    "relationships": {
+      "en": "Jealousy and anger arise in sexual life due to other love affairs; the person may use others for sexual gratification.",
+      "hi": "यौन जीवन में दूसरे प्रेम प्रसंगों के कारण ईर्ष्या और क्रोध उत्पन्न होते हैं; व्यक्ति यौन संबंधों के लिए दूसरों का उपयोग करता है।"
+    },
+    "money": {
+      "en": "Financial relationships may involve fraud or deception.",
+      "hi": "आर्थिक संबंधों में धोखाधड़ी या छल की स्थिति हो सकती है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments mentioned; emotional stress from jealousy and anger may be implied.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष जानकारी नहीं; ईर्ष्या और क्रोध से मानसिक तनाव हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Jealousy-related conflicts",
+      "Professional rivalry",
+      "Financial deception"
+    ],
+    "hi": [
+      "ईर्ष्या से जुड़े विवाद",
+      "पेशेवर प्रतिस्पर्धा",
+      "आर्थिक धोखाधड़ी"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Ignoring others' feelings can harm relationships.",
+      "Jealousy may lead to anger and conflict.",
+      "Professional envy can cause harm or losses.",
+      "Financial dealings risk fraud or deception."
+    ],
+    "hi": [
+      "दूसरों की भावनाओं की अनदेखी संबंधों को नुकसान पहुँचा सकती है।",
+      "ईर्ष्या क्रोध और विवाद उत्पन्न कर सकती है।",
+      "पेशेवर ईर्ष्या से नुकसान या हानि हो सकती है।",
+      "आर्थिक मामलों में धोखाधड़ी का खतरा रहता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be aware of selfish tendencies and jealousy.",
+        "Avoid using others for personal gratification.",
+        "Monitor professional relationships for envy."
+      ],
+      "hi": [
+        "स्वार्थी प्रवृत्तियों और ईर्ष्या से सावधान रहें।",
+        "व्यक्तिगत लाभ के लिए दूसरों का उपयोग न करें।",
+        "पेशेवर संबंधों में ईर्ष्या पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Address jealousy and anger in relationships.",
+        "Exercise caution in financial dealings.",
+        "Avoid harming others due to envy."
+      ],
+      "hi": [
+        "संबंधों में ईर्ष्या और क्रोध को नियंत्रित करें।",
+        "आर्थिक लेन-देन में सावधानी बरतें।",
+        "ईर्ष्या के कारण दूसरों को नुकसान पहुँचाने से बचें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Jealousy and selfishness may lessen.",
+        "Relationships may stabilize with effort.",
+        "Financial risks may decrease."
+      ],
+      "hi": [
+        "ईर्ष्या और स्वार्थ कम हो सकते हैं।",
+        "प्रयास से संबंध स्थिर हो सकते हैं।",
+        "आर्थिक जोखिम कम हो सकते हैं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "jealousy",
+      "selfishness",
+      "sexual gratification",
+      "anger",
+      "envy",
+      "harm",
+      "loss",
+      "fraud",
+      "deception"
+    ],
+    "hi": [
+      "ईर्ष्या",
+      "स्वार्थ",
+      "यौन संतुष्टि",
+      "क्रोध",
+      "द्वेष",
+      "नुकसान",
+      "हानि",
+      "धोखाधड़ी",
+      "छल"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "emotional",
+      "conflict-prone",
+      "risk-related"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "विवादास्पद",
+      "जोखिमपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional tension",
+      "relationship challenges",
+      "professional rivalry",
+      "financial caution"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "संबंधों की चुनौतियाँ",
+      "पेशेवर प्रतिस्पर्धा",
+      "आर्थिक सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-opp-plu",
+      "core": "This aspect highlights selfishness, jealousy, and potential harm in relationships and professional life, with risks of deception in finances.",
+      "tone": "Warm, neutral, and cautionary"
+    },
+    "hi": {
+      "title": "शुक्र विपरीत प्लूटो",
+      "core": "यह योग स्वार्थ, ईर्ष्या और संबंधों व पेशेवर जीवन में संभावित नुकसान को दर्शाता है, साथ ही आर्थिक धोखाधड़ी का खतरा भी होता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Ignoring others' feelings, increased selfishness and jealousy, using others for sexual gratification, jealousy and anger in sexual life, professional harm or losses due to envy, financial fraud or deception.",
+        "hi": "दूसरों की भावनाओं की अनदेखी, स्वार्थ और ईर्ष्या बढ़ना, यौन संबंधों के लिए दूसरों का उपयोग, यौन जीवन में ईर्ष्या और क्रोध, पेशेवर नुकसान या हानि, आर्थिक धोखाधड़ी।"
+      },
+      "career": {
+        "en": "Work environment filled with jealousy; potential harm to others or self due to envy.",
+        "hi": "काम के माहौल में ईर्ष्या; ईर्ष्या के कारण दूसरों को नुकसान या स्वयं हानि।"
+      },
+      "relationships": {
+        "en": "Jealousy and anger arise from other love affairs; using others for sexual gratification.",
+        "hi": "दूसरे प्रेम प्रसंगों से ईर्ष्या और क्रोध; यौन संबंधों के लिए दूसरों का उपयोग।"
+      },
+      "money": {
+        "en": "Financial relationships may involve fraud or deception.",
+        "hi": "आर्थिक संबंधों में धोखाधड़ी या छल की संभावना।"
+      },
+      "health_adj": {
+        "en": "No explicit health notes; emotional stress from jealousy and anger implied.",
+        "hi": "स्वास्थ्य संबंधी स्पष्ट जानकारी नहीं; ईर्ष्या और क्रोध से मानसिक तनाव हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Venus opposition Pluto",
+      "Ven OPP Plu",
+      "Venus-Opposition-Pluto",
+      "Venus Opposition to Pluto"
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "id": "VEN_SQR_VEN__v1.0.0",
+  "pair": [
+    "Venus",
+    "Square",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person experiences emotional tension, particularly related to women, which may affect artistic and social areas. There is a likelihood of excessive spending and stress in business relationships.",
+    "hi": "व्यक्ति में भावनात्मक तनाव रहता है, खासकर महिलाओं से संबंधित, जो कलात्मक और सामाजिक क्षेत्रों को प्रभावित कर सकता है। अधिक खर्च और व्यावसायिक संबंधों में तनाव की संभावना रहती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business relationships may face tension, potentially impacting professional collaborations.",
+      "hi": "व्यावसायिक संबंधों में तनाव आ सकता है, जो पेशेवर सहयोग को प्रभावित कर सकता है।"
+    },
+    "relationships": {
+      "en": "Emotional conflicts involving women are prominent, possibly causing strain in personal and social connections.",
+      "hi": "महिलाओं से जुड़ी भावनात्मक झगड़े प्रमुख हैं, जो व्यक्तिगत और सामाजिक संबंधों में तनाव ला सकते हैं।"
+    },
+    "money": {
+      "en": "There is a tendency toward excessive spending which may lead to financial strain.",
+      "hi": "अधिक खर्च करने की प्रवृत्ति होती है, जिससे आर्थिक तनाव हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Emotional tension may affect overall wellbeing, especially related to stress.",
+      "hi": "भावनात्मक तनाव से समग्र स्वास्थ्य प्रभावित हो सकता है, विशेषकर तनाव के कारण।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional tension",
+      "Artistic challenges",
+      "Social difficulties",
+      "Business relationship stress",
+      "Excess spending"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "कलात्मक चुनौतियाँ",
+      "सामाजिक कठिनाइयाँ",
+      "व्यावसायिक संबंधों में तनाव",
+      "अधिक खर्च"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional conflicts may escalate if unaddressed.",
+      "Financial strain due to overspending is possible.",
+      "Business partnerships might suffer from tension."
+    ],
+    "hi": [
+      "यदि निपटारा न हो तो भावनात्मक झगड़े बढ़ सकते हैं।",
+      "अधिक खर्च के कारण आर्थिक तनाव संभव है।",
+      "व्यावसायिक साझेदारी तनाव का सामना कर सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Monitor emotional responses carefully, especially in relationships with women.",
+        "Be cautious with spending habits to avoid financial pressure.",
+        "Maintain clear communication in business dealings to reduce tension."
+      ],
+      "hi": [
+        "विशेषकर महिलाओं के साथ संबंधों में भावनात्मक प्रतिक्रियाओं पर ध्यान दें।",
+        "आर्थिक दबाव से बचने के लिए खर्च की आदतों में सावधानी बरतें।",
+        "तनाव कम करने के लिए व्यावसायिक बातचीत में स्पष्टता बनाए रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Address emotional tensions promptly to prevent escalation.",
+        "Review budgets closely to control excessive spending.",
+        "Engage in open dialogue with business partners."
+      ],
+      "hi": [
+        "झगड़े बढ़ने से रोकने के लिए भावनात्मक तनाव को तुरंत संभालें।",
+        "अधिक खर्च को नियंत्रित करने के लिए बजट की समीक्षा करें।",
+        "व्यावसायिक साझेदारों के साथ खुली बातचीत करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional patterns to gain clarity.",
+        "Adjust spending habits to restore balance.",
+        "Reassess business relationships for harmony."
+      ],
+      "hi": [
+        "स्पष्टता पाने के लिए भावनात्मक पैटर्न पर विचार करें।",
+        "संतुलन बहाल करने के लिए खर्च की आदतों को समायोजित करें।",
+        "सामंजस्य के लिए व्यावसायिक संबंधों का पुनर्मूल्यांकन करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional tension",
+      "women",
+      "artistic challenges",
+      "social difficulties",
+      "excess spending",
+      "business tension"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "महिलाएं",
+      "कलात्मक चुनौतियाँ",
+      "सामाजिक कठिनाइयाँ",
+      "अधिक खर्च",
+      "व्यावसायिक तनाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "tension",
+      "stress",
+      "relationship challenges",
+      "financial caution"
+    ],
+    "hi": [
+      "तनाव",
+      "दबाव",
+      "संबंधों की चुनौतियाँ",
+      "आर्थिक सावधानी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional conflict",
+      "artistic impact",
+      "social strain",
+      "financial management",
+      "business relations"
+    ],
+    "hi": [
+      "भावनात्मक संघर्ष",
+      "कलात्मक प्रभाव",
+      "सामाजिक तनाव",
+      "आर्थिक प्रबंधन",
+      "व्यावसायिक संबंध"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-squ-ven",
+      "core": "Emotional tension related to women affects artistic, social, and financial areas, with possible stress in business relationships.",
+      "tone": "Warm, neutral, and cautiously observant."
+    },
+    "hi": {
+      "title": "शुक्र वर्ग शुक्र",
+      "core": "महिलाओं से जुड़ा भावनात्मक तनाव कलात्मक, सामाजिक और आर्थिक क्षेत्रों को प्रभावित करता है, साथ ही व्यावसायिक संबंधों में तनाव हो सकता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional tension involving women, affecting artistic and social matters, with potential for excessive spending and business relationship stress.",
+        "hi": "महिलाओं से जुड़ा भावनात्मक तनाव, जो कलात्मक और सामाजिक मामलों को प्रभावित करता है, साथ ही अधिक खर्च और व्यावसायिक संबंधों में तनाव की संभावना।"
+      },
+      "career": {
+        "en": "Tension in business relationships may challenge professional collaborations.",
+        "hi": "व्यावसायिक संबंधों में तनाव पेशेवर सहयोगों को चुनौती दे सकता है।"
+      },
+      "relationships": {
+        "en": "Emotional conflicts especially involving women can strain personal and social connections.",
+        "hi": "विशेषकर महिलाओं से जुड़े भावनात्मक झगड़े व्यक्तिगत और सामाजिक संबंधों में तनाव ला सकते हैं।"
+      },
+      "money": {
+        "en": "Excessive spending tendencies may cause financial difficulties.",
+        "hi": "अधिक खर्च की प्रवृत्ति आर्थिक कठिनाइयाँ पैदा कर सकती है।"
+      },
+      "health_adj": {
+        "en": "Emotional stress may impact overall wellbeing.",
+        "hi": "भावनात्मक तनाव समग्र स्वास्थ्य को प्रभावित कर सकता है।"
+      }
+    },
+    "aliases": [
+      "Venus square Venus",
+      "Ven SQR Ven",
+      "Venus-Square-Venus",
+      "Venus Square to Venus"
+    ]
+  }
+}

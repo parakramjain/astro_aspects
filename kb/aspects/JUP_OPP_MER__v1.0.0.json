@@ -1,0 +1,247 @@
+{
+  "id": "JUP_OPP_MER__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Opposition",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Decisions may be misguided due to over-optimism, causing difficulty in aligning with religious, educational, or cultural beliefs and challenges in foreign travel or interactions.",
+    "hi": "अत्यधिक आशावाद के कारण फैसले गलत हो सकते हैं, जिससे धार्मिक, शैक्षणिक या सामाजिक मान्यताओं को समझने में कठिनाई और विदेश यात्रा या संबंधों में परेशानी हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Challenges in aligning career decisions with educational or cultural expectations; risk of overly optimistic choices.",
+      "hi": "शैक्षणिक या सामाजिक अपेक्षाओं के साथ करियर निर्णयों को मिलाने में कठिनाई; अत्यधिक आशावाद से फैसलों में जोखिम।"
+    },
+    "relationships": {
+      "en": "Difficulty in understanding or harmonizing with partners' religious or cultural beliefs; potential misunderstandings.",
+      "hi": "साथी के धार्मिक या सामाजिक मान्यताओं को समझने या मेल खाने में कठिनाई; संभावित गलतफहमियां।"
+    },
+    "money": {
+      "en": "Financial decisions may be influenced by unrealistic optimism; caution advised especially in foreign dealings.",
+      "hi": "वित्तीय निर्णय अत्यधिक आशावाद से प्रभावित हो सकते हैं; विशेषकर विदेशी लेन-देन में सावधानी आवश्यक।"
+    },
+    "health_adj": {
+      "en": "No direct health implications noted; stress may arise from cultural or travel-related challenges.",
+      "hi": "स्वास्थ्य पर सीधे प्रभाव नहीं; सामाजिक या यात्रा संबंधी चुनौतियों से तनाव हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Religious or cultural conflicts",
+      "Educational challenges",
+      "Foreign travel difficulties",
+      "Cross-cultural interactions"
+    ],
+    "hi": [
+      "धार्मिक या सामाजिक संघर्ष",
+      "शैक्षणिक चुनौतियाँ",
+      "विदेश यात्रा की कठिनाइयाँ",
+      "सांस्कृतिक अंतरक्रियाएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Over-optimism may lead to misguided decisions",
+      "Difficulty aligning with belief systems",
+      "Potential problems in foreign travel or relations"
+    ],
+    "hi": [
+      "अत्यधिक आशावाद से गलत फैसले हो सकते हैं",
+      "मान्यताओं के साथ मेल न खाने की कठिनाई",
+      "विदेश यात्रा या संबंधों में समस्या हो सकती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in decision-making to avoid over-optimism",
+        "Seek clarity in religious, educational, or cultural matters",
+        "Prepare carefully for foreign travel or interactions"
+      ],
+      "hi": [
+        "फैसले लेते समय अत्यधिक आशावाद से बचें",
+        "धार्मिक, शैक्षणिक या सामाजिक मामलों में स्पष्टता प्राप्त करें",
+        "विदेश यात्रा या संबंधों की अच्छी तैयारी करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Review decisions critically for optimism bias",
+        "Communicate clearly about beliefs and expectations",
+        "Verify travel plans and foreign arrangements"
+      ],
+      "hi": [
+        "फैसलों की आशावादिता को सावधानी से जांचें",
+        "मान्यताओं और अपेक्षाओं के बारे में स्पष्ट संवाद करें",
+        "यात्रा योजनाओं और विदेशी व्यवस्थाओं की पुष्टि करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on outcomes to learn from over-optimistic choices",
+        "Reassess alignment with cultural or educational beliefs",
+        "Address any foreign travel or interaction issues calmly"
+      ],
+      "hi": [
+        "अत्यधिक आशावादी फैसलों से सीखने के लिए परिणामों पर विचार करें",
+        "सांस्कृतिक या शैक्षणिक मान्यताओं के साथ मेल को पुनः जांचें",
+        "विदेश यात्रा या संबंधों की समस्याओं को शांति से सुलझाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "over-optimism",
+      "misguided decisions",
+      "religious beliefs",
+      "educational beliefs",
+      "cultural beliefs",
+      "foreign travel",
+      "interaction challenges"
+    ],
+    "hi": [
+      "अत्यधिक आशावाद",
+      "गलत फैसले",
+      "धार्मिक मान्यताएँ",
+      "शैक्षणिक मान्यताएँ",
+      "सांस्कृतिक मान्यताएँ",
+      "विदेश यात्रा",
+      "संबंधों में कठिनाई"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "caution",
+      "clarity",
+      "reflection",
+      "cross-cultural"
+    ],
+    "hi": [
+      "सावधानी",
+      "स्पष्टता",
+      "चिंतन",
+      "सांस्कृतिक अंतर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "optimism vs realism",
+      "belief system alignment",
+      "foreign relations",
+      "decision-making challenges"
+    ],
+    "hi": [
+      "आशावाद बनाम यथार्थ",
+      "मान्यताओं का मेल",
+      "विदेशी संबंध",
+      "निर्णय लेने की चुनौतियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-opp-mer",
+      "core": "Over-optimism may misguide decisions and cause difficulty with beliefs and foreign interactions.",
+      "tone": "Warm, neutral, and cautiously reflective"
+    },
+    "hi": {
+      "title": "बृहस्पति विरुद्ध बुध",
+      "core": "अत्यधिक आशावाद से फैसले गलत हो सकते हैं और मान्यताओं तथा विदेशी संबंधों में कठिनाई हो सकती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Decisions may be misguided due to over-optimism, causing difficulty in aligning with religious, educational, or cultural beliefs and challenges in foreign travel or interactions.",
+        "hi": "अत्यधिक आशावाद के कारण फैसले गलत हो सकते हैं, जिससे धार्मिक, शैक्षणिक या सामाजिक मान्यताओं को समझने में कठिनाई और विदेश यात्रा या संबंधों में परेशानी हो सकती है।"
+      },
+      "career": {
+        "en": "Challenges in aligning career decisions with educational or cultural expectations; risk of overly optimistic choices.",
+        "hi": "शैक्षणिक या सामाजिक अपेक्षाओं के साथ करियर निर्णयों को मिलाने में कठिनाई; अत्यधिक आशावाद से फैसलों में जोखिम।"
+      },
+      "relationships": {
+        "en": "Difficulty in understanding or harmonizing with partners' religious or cultural beliefs; potential misunderstandings.",
+        "hi": "साथी के धार्मिक या सामाजिक मान्यताओं को समझने या मेल खाने में कठिनाई; संभावित गलतफहमियां।"
+      },
+      "money": {
+        "en": "Financial decisions may be influenced by unrealistic optimism; caution advised especially in foreign dealings.",
+        "hi": "वित्तीय निर्णय अत्यधिक आशावाद से प्रभावित हो सकते हैं; विशेषकर विदेशी लेन-देन में सावधानी आवश्यक।"
+      },
+      "health_adj": {
+        "en": "No direct health implications noted; stress may arise from cultural or travel-related challenges.",
+        "hi": "स्वास्थ्य पर सीधे प्रभाव नहीं; सामाजिक या यात्रा संबंधी चुनौतियों से तनाव हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Jupiter opposition Mercury",
+      "Jup OPP Mer",
+      "Jupiter-Opposition-Mercury",
+      "Jupiter Opposition to Mercury"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "id": "NEP_TRI_JUP__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Trine",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Opportunities arise for spiritual inspiration, meditation, and esoteric knowledge. Intelligence and generosity lead to praise and success, with benefits in cultural, religious, and charitable activities. Past virtuous deeds bring rewards.",
+    "hi": "आध्यात्मिक प्रेरणा, ध्यान और गुप्त ज्ञान के अवसर मिलते हैं। बुद्धिमत्ता और उदारता से प्रशंसा और सफलता मिलती है, धार्मिक, सांस्कृतिक और धर्मार्थ कार्यों में लाभ होता है। पूर्व के पुण्य कर्मों का फल प्राप्त होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for work related to hospitals, universities, religious, cultural, and charitable institutions. Intellectual pursuits and research bring benefits.",
+      "hi": "अस्पताल, विश्वविद्यालय, धार्मिक, सांस्कृतिक और धर्मार्थ संस्थानों से जुड़ा कार्य शुभ रहता है। बौद्धिक शोध और अध्ययन लाभकारी होते हैं।"
+    },
+    "relationships": {
+      "en": "Generosity and intelligence earn praise and success in social and spiritual relationships.",
+      "hi": "उदारता और बुद्धिमत्ता से सामाजिक और आध्यात्मिक संबंधों में प्रशंसा और सफलता मिलती है।"
+    },
+    "money": {
+      "en": "Benefits may come through charitable dealings and cultural or religious activities.",
+      "hi": "धर्मार्थ, सांस्कृतिक और धार्मिक कार्यों से लाभ प्राप्त हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Favorable for hospital-related matters and healing environments.",
+      "hi": "अस्पताल से संबंधित मामलों और उपचार के लिए अनुकूल समय है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual inspiration",
+      "Academic or research opportunities",
+      "Charitable and cultural engagements",
+      "Recognition for past good deeds"
+    ],
+    "hi": [
+      "आध्यात्मिक प्रेरणा",
+      "शैक्षिक या शोध के अवसर",
+      "धर्मार्थ और सांस्कृतिक कार्य",
+      "पूर्व पुण्य कर्मों की प्राप्ति"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in meditation, yoga, or spiritual study",
+        "Participate in charitable or cultural activities",
+        "Pursue intellectual research or academic work"
+      ],
+      "hi": [
+        "ध्यान, योग या आध्यात्मिक अध्ययन में संलग्न हों",
+        "धर्मार्थ या सांस्कृतिक कार्यों में भाग लें",
+        "बौद्धिक शोध या शैक्षिक कार्य करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on spiritual inspiration and meditation",
+        "Leverage opportunities in religious or cultural institutions"
+      ],
+      "hi": [
+        "आध्यात्मिक प्रेरणा और ध्यान पर ध्यान दें",
+        "धार्मिक या सांस्कृतिक संस्थानों में अवसरों का लाभ उठाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain generosity and intelligence to sustain success",
+        "Continue engagement with spiritual and charitable pursuits"
+      ],
+      "hi": [
+        "सफलता बनाए रखने के लिए उदारता और बुद्धिमत्ता बनाए रखें",
+        "आध्यात्मिक और धर्मार्थ कार्यों में निरंतरता रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "spirituality",
+      "meditation",
+      "esoteric knowledge",
+      "intelligence",
+      "generosity",
+      "charity",
+      "culture",
+      "religion",
+      "arts",
+      "past deeds"
+    ],
+    "hi": [
+      "आध्यात्म",
+      "ध्यान",
+      "गुप्त ज्ञान",
+      "बुद्धिमत्ता",
+      "उदारता",
+      "धर्मार्थ",
+      "सांस्कृतिक",
+      "धार्मिक",
+      "कला",
+      "पूर्व कर्म"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "inspirational",
+      "intellectual",
+      "generous",
+      "meritorious"
+    ],
+    "hi": [
+      "अनुकूल",
+      "प्रेरणादायक",
+      "बौद्धिक",
+      "उदार",
+      "पुण्यकारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "academic success",
+      "charitable work",
+      "cultural appreciation",
+      "reward for virtue"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "शैक्षिक सफलता",
+      "धर्मार्थ कार्य",
+      "सांस्कृतिक रुचि",
+      "पुण्य का फल"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-tri-jup",
+      "core": "Spiritual and intellectual opportunities arise, bringing success through generosity and past good deeds.",
+      "tone": "Warm, encouraging, and positive"
+    },
+    "hi": {
+      "title": "नेप्च्यून त्रिकोण बृहस्पति",
+      "core": "आध्यात्मिक और बौद्धिक अवसर मिलते हैं, उदारता और पूर्व पुण्य कर्मों से सफलता प्राप्त होती है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और सकारात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Religious, spiritual, and secret inspiration opportunities with benefits from meditation, yoga, and esoteric study. Intelligence and generosity lead to praise and success.",
+        "hi": "धार्मिक, आध्यात्मिक और गुप्त प्रेरणा के अवसर, ध्यान, योग और गुप्त अध्ययन से लाभ। बुद्धिमत्ता और उदारता से प्रशंसा और सफलता।"
+      },
+      "career": {
+        "en": "Favorable for hospital, university, religious, cultural, and charitable dealings. Intellectual research and study bring benefits.",
+        "hi": "अस्पताल, विश्वविद्यालय, धार्मिक, सांस्कृतिक और धर्मार्थ संस्थानों से व्यवहार के लिए उपयुक्त। बौद्धिक शोध और अध्ययन लाभकारी।"
+      },
+      "relationships": {
+        "en": "Generosity and intelligence earn praise and success in social and spiritual relationships.",
+        "hi": "उदारता और बुद्धिमत्ता से सामाजिक और आध्यात्मिक संबंधों में प्रशंसा और सफलता।"
+      },
+      "money": {
+        "en": "Benefits arise from charitable, cultural, and religious activities.",
+        "hi": "धर्मार्थ, सांस्कृतिक और धार्मिक कार्यों से लाभ।"
+      },
+      "health_adj": {
+        "en": "Favorable for hospital-related matters and healing environments.",
+        "hi": "अस्पताल से संबंधित मामलों और उपचार के लिए अनुकूल।"
+      }
+    },
+    "aliases": [
+      "Neptune trine Jupiter",
+      "Nep TRI Jup",
+      "Neptune-Trine-Jupiter",
+      "Neptune Trine to Jupiter"
+    ]
+  }
+}

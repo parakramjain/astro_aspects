@@ -1,0 +1,253 @@
+{
+  "id": "PLU_OPP_SUN__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Opposition",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The individual tends to criticize others to diminish their value compared to themselves, leading to increased jealousy or other issues. Conflicts are common, especially in mutual relationships, business, joint property, money, accumulated assets, and spousal disputes. Special care is advised for children to prevent them from going astray. A positive and creative approach can lead to self-improvement, popularity, or connections with influential people.",
+    "hi": "व्यक्ति दूसरों की तुलना में स्वयं को श्रेष्ठ दिखाने के लिए उनकी आलोचना करता है, जिससे ईर्ष्या या अन्य समस्याएँ बढ़ती हैं। आपसी संबंधों, व्यवसाय, संयुक्त सम्पत्ति, धन, एकत्र सम्पत्ति और पति-पत्नी के झगड़े होते रहते हैं। इस समय बच्चों का विशेष ध्यान रखना चाहिए ताकि वे बिगड़ें नहीं। यदि सकारात्मक और सृजनात्मक दृष्टिकोण अपनाया जाए तो स्वयं में सुधार, लोकप्रियता और समाज में महत्वपूर्ण लोगों से जुड़ाव संभव है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Conflicts may arise in business or professional partnerships; opportunities exist if a positive outlook is maintained.",
+      "hi": "व्यवसाय या पेशेवर साझेदारी में झगड़े हो सकते हैं; सकारात्मक दृष्टिकोण से अवसर मिल सकते हैं।"
+    },
+    "relationships": {
+      "en": "Persistent conflicts occur in mutual relationships and spousal disputes; attention to children is important to prevent them from going astray.",
+      "hi": "आपसी संबंधों और पति-पत्नी के झगड़े लगातार बने रहते हैं; बच्चों पर ध्यान देना आवश्यक है ताकि वे बिगड़ें नहीं।"
+    },
+    "money": {
+      "en": "Disputes may happen over joint property, money, and accumulated assets during this period.",
+      "hi": "संयुक्त सम्पत्ति, धन और एकत्र सम्पत्ति को लेकर झगड़े हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments mentioned; caution advised regarding children's wellbeing.",
+      "hi": "स्वास्थ्य के लिए कोई विशेष सुझाव नहीं; बच्चों की भलाई पर ध्यान देना चाहिए।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts in relationships",
+      "Business disputes",
+      "Spousal disagreements",
+      "Issues with joint property or assets",
+      "Challenges related to children"
+    ],
+    "hi": [
+      "संबंधों में झगड़े",
+      "व्यवसायिक विवाद",
+      "पति-पत्नी के मतभेद",
+      "संयुक्त सम्पत्ति या संपत्ति से जुड़ी समस्याएं",
+      "बच्चों से संबंधित चुनौतियां"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased jealousy and envy",
+      "Ongoing conflicts in relationships and business",
+      "Potential for children to go astray if neglected"
+    ],
+    "hi": [
+      "ईर्ष्या और द्वेष में वृद्धि",
+      "संबंधों और व्यवसाय में लगातार झगड़े",
+      "बच्चों के बिगड़ने की संभावना यदि ध्यान न दिया जाए"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Adopt a positive and creative outlook",
+        "Focus on self-improvement",
+        "Build connections with influential individuals"
+      ],
+      "hi": [
+        "सकारात्मक और सृजनात्मक दृष्टिकोण अपनाएं",
+        "स्वयं में सुधार पर ध्यान दें",
+        "समाज में महत्वपूर्ण लोगों से जुड़ाव बनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be cautious in mutual relationships and business dealings",
+        "Pay special attention to children’s wellbeing",
+        "Avoid critical attitudes that devalue others"
+      ],
+      "hi": [
+        "आपसी संबंधों और व्यवसाय में सावधानी बरतें",
+        "बच्चों की भलाई पर विशेष ध्यान दें",
+        "दूसरों को कमतर आंकने वाली आलोचना से बचें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Conflicts may reduce as the aspect wanes",
+        "Opportunities for reconciliation and growth increase"
+      ],
+      "hi": [
+        "जैसे-जैसे प्रभाव कम होगा झगड़े घट सकते हैं",
+        "मेल-मिलाप और विकास के अवसर बढ़ते हैं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "criticism",
+      "jealousy",
+      "conflict",
+      "relationships",
+      "business disputes",
+      "joint property",
+      "children",
+      "self-improvement",
+      "popularity",
+      "influential connections"
+    ],
+    "hi": [
+      "आलोचना",
+      "ईर्ष्या",
+      "झगड़ा",
+      "संबंध",
+      "व्यवसाय विवाद",
+      "संयुक्त सम्पत्ति",
+      "बच्चे",
+      "स्वयं सुधार",
+      "लोकप्रियता",
+      "प्रभावशाली संबंध"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "transformative",
+      "conflict-prone",
+      "opportunity for growth"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "परिवर्तनकारी",
+      "झगड़ालू",
+      "विकास के अवसर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "interpersonal tension",
+      "power struggles",
+      "emotional intensity",
+      "potential for positive change"
+    ],
+    "hi": [
+      "अंतर-व्यक्तिगत तनाव",
+      "शक्ति संघर्ष",
+      "भावनात्मक तीव्रता",
+      "सकारात्मक परिवर्तन की संभावना"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-opp-sun",
+      "core": "This aspect indicates criticism and jealousy leading to conflicts in relationships and business, with special attention needed for children. A positive outlook can foster self-improvement and influential connections.",
+      "tone": "Warm, neutral, and cautiously optimistic"
+    },
+    "hi": {
+      "title": "प्लूटो विपरीत सूर्य",
+      "core": "यह योग आलोचना और ईर्ष्या को दर्शाता है जो संबंधों और व्यवसाय में झगड़ों को जन्म देता है, साथ ही बच्चों पर विशेष ध्यान आवश्यक है। सकारात्मक दृष्टिकोण से स्वयं सुधार और प्रभावशाली संबंध बन सकते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The individual criticizes others to devalue them compared to themselves, increasing jealousy and conflicts, especially in relationships and business. Positive outlook can lead to self-improvement and social connections.",
+        "hi": "व्यक्ति दूसरों की तुलना में स्वयं को श्रेष्ठ दिखाने के लिए उनकी आलोचना करता है, जिससे ईर्ष्या और झगड़े बढ़ते हैं। सकारात्मक दृष्टिकोण से स्वयं सुधार और सामाजिक संबंध बन सकते हैं।"
+      },
+      "career": {
+        "en": "Conflicts arise in business partnerships; positive attitude may create opportunities.",
+        "hi": "व्यवसायिक साझेदारी में झगड़े होते हैं; सकारात्मक सोच से अवसर बन सकते हैं।"
+      },
+      "relationships": {
+        "en": "Persistent conflicts in mutual and spousal relationships; children require special care.",
+        "hi": "आपसी और पति-पत्नी के संबंधों में लगातार झगड़े; बच्चों का विशेष ध्यान आवश्यक।"
+      },
+      "money": {
+        "en": "Disputes over joint property, money, and accumulated assets are common.",
+        "hi": "संयुक्त सम्पत्ति, धन और एकत्र सम्पत्ति को लेकर विवाद होते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health advice; caution advised for children's wellbeing.",
+        "hi": "कोई विशेष स्वास्थ्य सुझाव नहीं; बच्चों की भलाई पर ध्यान दें।"
+      }
+    },
+    "aliases": [
+      "Pluto opposition Sun",
+      "Plu OPP Sun",
+      "Pluto-Opposition-Sun",
+      "Pluto Opposition to Sun"
+    ]
+  }
+}

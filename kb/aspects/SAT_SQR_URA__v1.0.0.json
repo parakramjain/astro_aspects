@@ -1,0 +1,263 @@
+{
+  "id": "SAT_SQR_URA__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Square",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Unexpected obstacles and negative consequences arise from past selfish actions, causing discouragement and irritability, with potential legal and health issues.",
+    "hi": "पूर्व स्वार्थपूर्ण कार्यों के कारण अप्रत्याशित अड़चनें और नकारात्मक परिणाम आते हैं, जिससे निराशा और चिड़चिड़ापन बढ़ता है, साथ ही कानूनी और स्वास्थ्य समस्याएँ हो सकती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Unexpected work obstacles occur; reputation may suffer due to past actions; legal disputes related to partnerships or investments are possible.",
+      "hi": "कार्य में अप्रत्याशित अड़चनें आती हैं; पूर्व कार्यों के कारण प्रतिष्ठा प्रभावित हो सकती है; साझेदारी या निवेश से जुड़े कानूनी विवाद हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "Friends or close ones may prove untrustworthy; betrayal or selfish behavior can cause strain.",
+      "hi": "मित्र या करीबी अविश्वसनीय साबित हो सकते हैं; धोखा या स्वार्थपूर्ण व्यवहार संबंधों में तनाव ला सकता है।"
+    },
+    "money": {
+      "en": "Legal disputes related to taxes, insurance, or investments may arise, affecting financial stability.",
+      "hi": "कर, बीमा या निवेश से जुड़े कानूनी विवाद हो सकते हैं, जो वित्तीय स्थिरता को प्रभावित कर सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Health issues or acute pain may emerge; avoiding responsibilities can worsen problems.",
+      "hi": "स्वास्थ्य समस्याएँ या तीव्र दर्द हो सकते हैं; जिम्मेदारियों से बचना समस्याएँ बढ़ा सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Unexpected problems",
+      "Legal disputes",
+      "Betrayal",
+      "Health challenges"
+    ],
+    "hi": [
+      "अप्रत्याशित समस्याएँ",
+      "कानूनी विवाद",
+      "धोखा",
+      "स्वास्थ्य चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Past selfish actions may lead to negative consequences.",
+      "Reputation can be hindered.",
+      "Trust issues with close relations.",
+      "Legal and health risks present.",
+      "Avoiding responsibilities worsens situations."
+    ],
+    "hi": [
+      "पूर्व स्वार्थपूर्ण कार्यों से बुरे परिणाम हो सकते हैं।",
+      "प्रतिष्ठा में बाधा आ सकती है।",
+      "करीबी संबंधों में विश्वास की समस्या।",
+      "कानूनी और स्वास्थ्य जोखिम मौजूद हैं।",
+      "जिम्मेदारियों से बचना स्थिति बिगाड़ सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Stay aware of potential obstacles and legal issues.",
+        "Maintain responsibility to avoid worsening problems.",
+        "Be cautious with trust in close relationships."
+      ],
+      "hi": [
+        "संभावित अड़चनों और कानूनी मुद्दों के प्रति सतर्क रहें।",
+        "समस्याएँ बढ़ने से बचने के लिए जिम्मेदारी निभाएँ।",
+        "करीबी संबंधों में विश्वास करते समय सावधानी बरतें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Monitor irritability and discouragement in goal pursuits.",
+        "Avoid selfish behavior to prevent betrayal.",
+        "Address any emerging health issues promptly."
+      ],
+      "hi": [
+        "लक्ष्य प्राप्ति में निराशा और चिड़चिड़ापन पर ध्यान दें।",
+        "धोखे से बचने के लिए स्वार्थपूर्ण व्यवहार न करें।",
+        "उभरती स्वास्थ्य समस्याओं का तुरंत समाधान करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past actions and their consequences.",
+        "Rebuild trust in relationships carefully.",
+        "Resolve legal disputes with patience and care."
+      ],
+      "hi": [
+        "पूर्व कार्यों और उनके परिणामों पर विचार करें।",
+        "संबंधों में विश्वास को सावधानी से पुनर्निर्मित करें।",
+        "कानूनी विवादों को धैर्य और सावधानी से सुलझाएँ।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "unexpected problems",
+      "work obstacles",
+      "selfish actions",
+      "negative consequences",
+      "reputation hindered",
+      "discouragement",
+      "irritability",
+      "betrayal",
+      "untrustworthy",
+      "legal disputes",
+      "health issues",
+      "responsibility"
+    ],
+    "hi": [
+      "अप्रत्याशित समस्याएँ",
+      "कार्य में अड़चनें",
+      "स्वार्थपूर्ण कार्य",
+      "नकारात्मक परिणाम",
+      "प्रतिष्ठा में बाधा",
+      "निराशा",
+      "चिड़चिड़ापन",
+      "धोखा",
+      "अविश्वसनीय",
+      "कानूनी विवाद",
+      "स्वास्थ्य समस्याएँ",
+      "जिम्मेदारी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "obstructive",
+      "cautionary",
+      "stressful"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अवरोधक",
+      "सावधानीपूर्ण",
+      "तनावपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "obstacles",
+      "trust issues",
+      "legal challenges",
+      "health concerns",
+      "responsibility"
+    ],
+    "hi": [
+      "अड़चनें",
+      "विश्वास की समस्या",
+      "कानूनी चुनौतियाँ",
+      "स्वास्थ्य संबंधी चिंता",
+      "जिम्मेदारी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-squ-ura",
+      "core": "This aspect indicates unexpected obstacles, negative outcomes from selfish past actions, and challenges in trust, legal matters, and health.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "शनि चतुर्भुज यूरेनस",
+      "core": "यह योग अप्रत्याशित अड़चनें, पूर्व स्वार्थपूर्ण कार्यों के नकारात्मक परिणाम, और विश्वास, कानूनी मामलों तथा स्वास्थ्य में चुनौतियाँ दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Unexpected obstacles and negative consequences arise from past selfish actions, causing discouragement and irritability, with potential legal and health issues.",
+        "hi": "पूर्व स्वार्थपूर्ण कार्यों के कारण अप्रत्याशित अड़चनें और नकारात्मक परिणाम आते हैं, जिससे निराशा और चिड़चिड़ापन बढ़ता है, साथ ही कानूनी और स्वास्थ्य समस्याएँ हो सकती हैं।"
+      },
+      "career": {
+        "en": "Unexpected work obstacles occur; reputation may suffer due to past actions; legal disputes related to partnerships or investments are possible.",
+        "hi": "कार्य में अप्रत्याशित अड़चनें आती हैं; पूर्व कार्यों के कारण प्रतिष्ठा प्रभावित हो सकती है; साझेदारी या निवेश से जुड़े कानूनी विवाद हो सकते हैं।"
+      },
+      "relationships": {
+        "en": "Friends or close ones may prove untrustworthy; betrayal or selfish behavior can cause strain.",
+        "hi": "मित्र या करीबी अविश्वसनीय साबित हो सकते हैं; धोखा या स्वार्थपूर्ण व्यवहार संबंधों में तनाव ला सकता है।"
+      },
+      "money": {
+        "en": "Legal disputes related to taxes, insurance, or investments may arise, affecting financial stability.",
+        "hi": "कर, बीमा या निवेश से जुड़े कानूनी विवाद हो सकते हैं, जो वित्तीय स्थिरता को प्रभावित कर सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Health issues or acute pain may emerge; avoiding responsibilities can worsen problems.",
+        "hi": "स्वास्थ्य समस्याएँ या तीव्र दर्द हो सकते हैं; जिम्मेदारियों से बचना समस्याएँ बढ़ा सकता है।"
+      }
+    },
+    "aliases": [
+      "Saturn square Uranus",
+      "Sat SQR Ura",
+      "Saturn-Square-Uranus",
+      "Saturn Square to Uranus"
+    ]
+  }
+}

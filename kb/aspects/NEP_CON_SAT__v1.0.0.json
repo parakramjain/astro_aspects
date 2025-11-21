@@ -1,0 +1,263 @@
+{
+  "id": "NEP_CON_SAT__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Conjunction",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Enhanced mental focus and practical abilities support professional growth in creative and luxury fields, alongside increased interest in spiritual and cultural studies. Emotional ties to past memories may cause distress and vulnerable behavior. Caution advised against expecting compassion or falling victim to deception, especially involving secret or immoral activities.",
+    "hi": "मानसिक एकाग्रता और व्यावहारिक क्षमताओं में वृद्धि से कला, विलासिता और रचनात्मक क्षेत्रों में पेशेवर विकास संभव है। साथ ही आध्यात्मिक और सांस्कृतिक अध्ययन में रुचि बढ़ती है। पुरानी यादों से भावुकता मानसिक कष्ट और कमजोर व्यवहार उत्पन्न कर सकती है। इस समय दयाभाव की अपेक्षा न करें और धोखे से सावधान रहें, विशेषकर गुप्त या अनैतिक कार्यों में संलिप्तता से।"
+  },
+  "facets": {
+    "career": {
+      "en": "Benefits in arts, music, entertainment, pharmaceuticals, luxury goods; improved practical skills for key goals.",
+      "hi": "कला, संगीत, मनोरंजन, दवाइयाँ, उच्च विलासिता के क्षेत्र में लाभ; महत्वपूर्ण उद्देश्यों के लिए व्यावहारिक क्षमता में सुधार।"
+    },
+    "relationships": {
+      "en": "Emotional attachments to past memories may cause mental distress; do not expect compassion from others now.",
+      "hi": "पुरानी यादों से भावुक लगाव मानसिक कठिनाइयाँ ला सकता है; इस समय दूसरों से दयाभाव की अपेक्षा न करें।"
+    },
+    "money": {
+      "en": "Potential gains in luxury and pharmaceutical sectors; risk of being cheated especially if involved in secret or immoral activities.",
+      "hi": "विलासिता और दवा क्षेत्रों में लाभ संभव; गुप्त या अनैतिक कार्यों में संलिप्तता पर धोखा मिलने का खतरा।"
+    },
+    "health_adj": {
+      "en": "Mental distress due to emotional attachments; increased interest in meditation, yoga, and religious-cultural studies may aid balance.",
+      "hi": "भावनात्मक लगाव से मानसिक कठिनाई; ध्यान, योग और धार्मिक-सांस्कृतिक अध्ययन में रुचि संतुलन में सहायक हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional advancement in creative and luxury fields",
+      "Growing spiritual and cultural interests",
+      "Emotional challenges related to past memories"
+    ],
+    "hi": [
+      "रचनात्मक और विलासिता क्षेत्रों में पेशेवर उन्नति",
+      "आध्यात्मिक और सांस्कृतिक रुचियों में वृद्धि",
+      "पुरानी यादों से जुड़ी भावनात्मक चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional distress from past attachments",
+      "Lack of compassion from others",
+      "Risk of deception and cheating",
+      "Losses from involvement in secret or immoral activities"
+    ],
+    "hi": [
+      "पुरानी यादों से मानसिक कष्ट",
+      "दूसरों से दयाभाव की कमी",
+      "धोखे और ठगी का खतरा",
+      "गुप्त या अनैतिक कार्यों में हानि"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on practical skills for career goals",
+        "Explore meditation, yoga, and cultural studies",
+        "Maintain caution in financial and secret dealings"
+      ],
+      "hi": [
+        "पेशेवर लक्ष्यों के लिए व्यावहारिक कौशल पर ध्यान दें",
+        "ध्यान, योग और सांस्कृतिक अध्ययन करें",
+        "वित्तीय और गुप्त मामलों में सावधानी रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid expecting compassion from others",
+        "Be vigilant against deception",
+        "Manage emotional responses to past memories carefully"
+      ],
+      "hi": [
+        "दूसरों से दयाभाव की अपेक्षा न करें",
+        "धोखे के प्रति सतर्क रहें",
+        "पुरानी यादों पर भावनात्मक प्रतिक्रिया संभालें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons from emotional challenges",
+        "Gradually reduce involvement in secret or immoral activities",
+        "Continue developing practical and spiritual interests"
+      ],
+      "hi": [
+        "भावनात्मक चुनौतियों से सीखें",
+        "गुप्त या अनैतिक कार्यों से धीरे-धीरे दूरी बनाएं",
+        "व्यावहारिक और आध्यात्मिक रुचियों को बढ़ाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "mental focus",
+      "practical skills",
+      "arts",
+      "music",
+      "entertainment",
+      "pharmaceuticals",
+      "luxury goods",
+      "meditation",
+      "yoga",
+      "religious studies",
+      "emotional distress",
+      "deception",
+      "secret activities"
+    ],
+    "hi": [
+      "मानसिक एकाग्रता",
+      "व्यावहारिक कौशल",
+      "कला",
+      "संगीत",
+      "मनोरंजन",
+      "दवाइयाँ",
+      "विलासिता",
+      "ध्यान",
+      "योग",
+      "धार्मिक अध्ययन",
+      "मानसिक कष्ट",
+      "धोखा",
+      "गुप्त कार्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "focused",
+      "practical",
+      "creative",
+      "spiritual",
+      "cautious",
+      "vulnerable"
+    ],
+    "hi": [
+      "एकाग्र",
+      "व्यावहारिक",
+      "रचनात्मक",
+      "आध्यात्मिक",
+      "सावधान",
+      "संवेदनशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "spiritual interest",
+      "emotional vulnerability",
+      "risk of deception"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "आध्यात्मिक रुचि",
+      "भावनात्मक संवेदनशीलता",
+      "धोखे का खतरा"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-con-sat",
+      "core": "Improved mental focus and practical abilities enhance career and spiritual interests, with cautions about emotional distress and deception.",
+      "tone": "Warm, neutral, and cautiously optimistic"
+    },
+    "hi": {
+      "title": "नेपच्यून संयोजन शनि",
+      "core": "मानसिक एकाग्रता और व्यावहारिक क्षमता में सुधार से करियर और आध्यात्मिक रुचि बढ़ती है, साथ ही भावनात्मक कष्ट और धोखे से सावधानी आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सावधानीपूर्वक आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Enhanced mental focus and practical abilities support professional growth in creative and luxury fields, alongside increased interest in spiritual and cultural studies. Emotional ties to past memories may cause distress and vulnerable behavior. Caution advised against expecting compassion or falling victim to deception, especially involving secret or immoral activities.",
+        "hi": "मानसिक एकाग्रता और व्यावहारिक क्षमताओं में वृद्धि से कला, विलासिता और रचनात्मक क्षेत्रों में पेशेवर विकास संभव है। साथ ही आध्यात्मिक और सांस्कृतिक अध्ययन में रुचि बढ़ती है। पुरानी यादों से भावुकता मानसिक कष्ट और कमजोर व्यवहार उत्पन्न कर सकती है। इस समय दयाभाव की अपेक्षा न करें और धोखे से सावधान रहें, विशेषकर गुप्त या अनैतिक कार्यों में संलिप्तता से।"
+      },
+      "career": {
+        "en": "Benefits in arts, music, entertainment, pharmaceuticals, luxury goods; improved practical skills for key goals.",
+        "hi": "कला, संगीत, मनोरंजन, दवाइयाँ, उच्च विलासिता के क्षेत्र में लाभ; महत्वपूर्ण उद्देश्यों के लिए व्यावहारिक क्षमता में सुधार।"
+      },
+      "relationships": {
+        "en": "Emotional attachments to past memories may cause mental distress; do not expect compassion from others now.",
+        "hi": "पुरानी यादों से भावुक लगाव मानसिक कठिनाइयाँ ला सकता है; इस समय दूसरों से दयाभाव की अपेक्षा न करें।"
+      },
+      "money": {
+        "en": "Potential gains in luxury and pharmaceutical sectors; risk of being cheated especially if involved in secret or immoral activities.",
+        "hi": "विलासिता और दवा क्षेत्रों में लाभ संभव; गुप्त या अनैतिक कार्यों में संलिप्तता पर धोखा मिलने का खतरा।"
+      },
+      "health_adj": {
+        "en": "Mental distress due to emotional attachments; increased interest in meditation, yoga, and religious-cultural studies may aid balance.",
+        "hi": "भावनात्मक लगाव से मानसिक कठिनाई; ध्यान, योग और धार्मिक-सांस्कृतिक अध्ययन में रुचि संतुलन में सहायक हो सकती है।"
+      }
+    },
+    "aliases": [
+      "Neptune conjunction Saturn",
+      "Nep CON Sat",
+      "Neptune-Conjunction-Saturn",
+      "Neptune Conjunction to Saturn"
+    ]
+  }
+}

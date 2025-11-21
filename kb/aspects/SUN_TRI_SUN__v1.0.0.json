@@ -1,0 +1,228 @@
+{
+  "id": "SUN_TRI_SUN__v1.0.0",
+  "pair": [
+    "Sun",
+    "Trine",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Realistic and creative self-expression supports the growth of self-reliance and independence. Confidence in plans leads to adopting a new lifestyle and forming new friendships.",
+    "hi": "यथार्थ और रचनात्मक अभिव्यक्ति आत्मनिर्भरता और स्वतंत्रता के विकास में सहायक होती है। योजनाओं में आत्मविश्वास से नई जीवनशैली अपनाने और नई मित्रता बनाने का अवसर मिलता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Confidence in plans encourages adopting new approaches and lifestyle changes at work.",
+      "hi": "योजनाओं में आत्मविश्वास कार्य में नए दृष्टिकोण और जीवनशैली परिवर्तन को प्रोत्साहित करता है।"
+    },
+    "relationships": {
+      "en": "New friendships are formed, indicating social expansion and positive interpersonal connections.",
+      "hi": "नई मित्रता होती है, जो सामाजिक विस्तार और सकारात्मक संबंध दर्शाती है।"
+    },
+    "money": {
+      "en": "Financial aspects are indirectly influenced by increased self-reliance and confidence in planning.",
+      "hi": "आर्थिक पक्षों पर आत्मनिर्भरता और योजनाओं में आत्मविश्वास के कारण अप्रत्यक्ष प्रभाव पड़ता है।"
+    },
+    "health_adj": {
+      "en": "Adopting a new lifestyle may positively affect overall well-being and personal health routines.",
+      "hi": "नई जीवनशैली अपनाने से समग्र स्वास्थ्य और व्यक्तिगत स्वास्थ्य दिनचर्या पर सकारात्मक प्रभाव हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Lifestyle change",
+      "New friendships"
+    ],
+    "hi": [
+      "जीवनशैली परिवर्तन",
+      "नई मित्रता"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Express creativity realistically",
+        "Build self-reliance through independent actions",
+        "Be open to new friendships"
+      ],
+      "hi": [
+        "यथार्थ रूप से रचनात्मकता व्यक्त करें",
+        "स्वतंत्र कार्यों से आत्मनिर्भरता बढ़ाएं",
+        "नई मित्रता के लिए खुले रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Demonstrate confidence in plans",
+        "Adopt new lifestyle habits"
+      ],
+      "hi": [
+        "योजनाओं में आत्मविश्वास दिखाएं",
+        "नई जीवनशैली की आदतें अपनाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain independence while adjusting plans",
+        "Sustain formed friendships"
+      ],
+      "hi": [
+        "योजनाओं को समायोजित करते हुए स्वतंत्रता बनाए रखें",
+        "बनी हुई मित्रता को बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "realistic expression",
+      "creative expression",
+      "self-reliance",
+      "independence",
+      "confidence",
+      "new lifestyle",
+      "new friendships"
+    ],
+    "hi": [
+      "यथार्थ अभिव्यक्ति",
+      "रचनात्मक अभिव्यक्ति",
+      "आत्मनिर्भरता",
+      "स्वतंत्रता",
+      "आत्मविश्वास",
+      "नई जीवनशैली",
+      "नई मित्रता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "growth",
+      "confidence",
+      "social"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "विकास",
+      "आत्मविश्वास",
+      "सामाजिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "self-expression",
+      "personal development",
+      "social expansion"
+    ],
+    "hi": [
+      "आत्म-अभिव्यक्ति",
+      "व्यक्तिगत विकास",
+      "सामाजिक विस्तार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-tri-sun",
+      "core": "This aspect encourages realistic and creative self-expression, fostering self-reliance and confidence that lead to lifestyle changes and new friendships.",
+      "tone": "Warm, encouraging, and balanced"
+    },
+    "hi": {
+      "title": "सूर्य त्रिकोण सूर्य",
+      "core": "यह योग यथार्थ और रचनात्मक अभिव्यक्ति को प्रोत्साहित करता है, जो आत्मनिर्भरता और आत्मविश्वास को बढ़ाता है, जिससे जीवनशैली में बदलाव और नई मित्रता होती है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और संतुलित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Realistic and creative expression supports self-reliance and independence, with confidence leading to new lifestyle adoption and friendships.",
+        "hi": "यथार्थ और रचनात्मक अभिव्यक्ति आत्मनिर्भरता और स्वतंत्रता का समर्थन करती है, आत्मविश्वास से नई जीवनशैली और मित्रता बनती है।"
+      },
+      "career": {
+        "en": "Confidence in plans encourages new approaches and lifestyle changes in career.",
+        "hi": "योजनाओं में आत्मविश्वास करियर में नए दृष्टिकोण और जीवनशैली परिवर्तन को प्रोत्साहित करता है।"
+      },
+      "relationships": {
+        "en": "New friendships form, indicating social growth and positive connections.",
+        "hi": "नई मित्रता बनती है, जो सामाजिक विकास और सकारात्मक संबंध दर्शाती है।"
+      },
+      "money": {
+        "en": "Financial matters are indirectly influenced by increased self-reliance and confidence.",
+        "hi": "आर्थिक मामले आत्मनिर्भरता और आत्मविश्वास बढ़ने से अप्रत्यक्ष रूप से प्रभावित होते हैं।"
+      },
+      "health_adj": {
+        "en": "New lifestyle adoption may positively affect health and well-being.",
+        "hi": "नई जीवनशैली अपनाने से स्वास्थ्य और कल्याण पर सकारात्मक प्रभाव पड़ सकता है।"
+      }
+    },
+    "aliases": [
+      "Sun trine Sun",
+      "Sun TRI Sun",
+      "Sun-Trine-Sun",
+      "Sun Trine to Sun"
+    ]
+  }
+}

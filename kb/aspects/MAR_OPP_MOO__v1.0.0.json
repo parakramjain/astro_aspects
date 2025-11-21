@@ -1,0 +1,239 @@
+{
+  "id": "MAR_OPP_MOO__v1.0.0",
+  "pair": [
+    "Mars",
+    "Opposition",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Emotional tension and anger arise in family and relationship matters, causing difficulty in understanding others' feelings and leading to conflicts. Self-control is essential in personal and professional areas.",
+    "hi": "परिवार और रिश्तों में भावनात्मक तनाव और गुस्सा उत्पन्न होता है, जिससे दूसरों की भावनाओं को समझना कठिन होता है और झगड़े हो सकते हैं। व्यक्तिगत और व्यावसायिक क्षेत्रों में संयम आवश्यक है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Challenges in maintaining calm and cooperation at work; self-control needed to avoid conflicts.",
+      "hi": "कार्यस्थल पर शांति और सहयोग बनाए रखने में चुनौतियाँ; झगड़ों से बचने के लिए संयम आवश्यक है।"
+    },
+    "relationships": {
+      "en": "Likely emotional clashes and misunderstandings; potential for anger and aggressive reactions causing disputes.",
+      "hi": "भावनात्मक टकराव और गलतफहमियाँ संभव हैं; गुस्सा और आक्रामक प्रतिक्रिया से झगड़े हो सकते हैं।"
+    },
+    "money": {
+      "en": "Financial matters may be affected by emotional decisions; caution and control advised.",
+      "hi": "भावनात्मक निर्णयों से वित्तीय मामलों पर प्रभाव पड़ सकता है; सावधानी और संयम जरूरी है।"
+    },
+    "health_adj": {
+      "en": "Stress and anger may impact emotional well-being; managing emotions is important.",
+      "hi": "तनाव और गुस्सा भावनात्मक स्वास्थ्य को प्रभावित कर सकते हैं; भावनाओं का प्रबंधन महत्वपूर्ण है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family conflicts",
+      "Relationship disputes",
+      "Emotional challenges"
+    ],
+    "hi": [
+      "परिवार में झगड़े",
+      "रिश्तों में विवाद",
+      "भावनात्मक चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional misunderstandings may escalate conflicts.",
+      "Aggressive reactions can harm relationships.",
+      "Lack of self-control may affect home and business harmony."
+    ],
+    "hi": [
+      "भावनात्मक गलतफहमियाँ झगड़ों को बढ़ा सकती हैं।",
+      "आक्रामक प्रतिक्रिया रिश्तों को नुकसान पहुंचा सकती है।",
+      "संयम की कमी घरेलू और व्यावसायिक सामंजस्य को प्रभावित कर सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Practice patience and empathy in family and work situations.",
+        "Be mindful of emotional triggers to prevent anger.",
+        "Use self-control to maintain harmony."
+      ],
+      "hi": [
+        "परिवार और कार्यस्थल में धैर्य और सहानुभूति का अभ्यास करें।",
+        "गुस्से को रोकने के लिए भावनात्मक कारणों पर ध्यान दें।",
+        "सामंजस्य बनाए रखने के लिए संयम का उपयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Recognize emotional tension early to avoid conflicts.",
+        "Communicate calmly to reduce misunderstandings."
+      ],
+      "hi": [
+        "झगड़ों से बचने के लिए भावनात्मक तनाव को जल्दी पहचानें।",
+        "गलतफहमियों को कम करने के लिए शांतिपूर्वक संवाद करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional reactions and their causes.",
+        "Seek balance between assertiveness and calmness."
+      ],
+      "hi": [
+        "भावनात्मक प्रतिक्रियाओं और उनके कारणों पर विचार करें।",
+        "दृढ़ता और शांति के बीच संतुलन खोजें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional clashes",
+      "anger",
+      "family conflicts",
+      "self-control",
+      "aggression",
+      "relationship disputes"
+    ],
+    "hi": [
+      "भावनात्मक टकराव",
+      "गुस्सा",
+      "परिवार में झगड़े",
+      "संयम",
+      "आक्रामकता",
+      "रिश्तों में विवाद"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "challenging",
+      "conflict-prone",
+      "self-control needed"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "चुनौतीपूर्ण",
+      "झगड़े के आसार",
+      "संयम आवश्यक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family dynamics",
+      "emotional tension",
+      "anger management",
+      "relationship challenges"
+    ],
+    "hi": [
+      "परिवार की गतिशीलता",
+      "भावनात्मक तनाव",
+      "गुस्सा प्रबंधन",
+      "रिश्तों की चुनौतियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-opp-moo",
+      "core": "Emotional tension and anger in family and relationships require self-control to maintain harmony.",
+      "tone": "Warm, neutral, and cautiously advisory"
+    },
+    "hi": {
+      "title": "मंगल का चंद्रमा के विपरीत",
+      "core": "परिवार और रिश्तों में भावनात्मक तनाव और गुस्से के कारण सामंजस्य बनाए रखने के लिए संयम आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सलाह देने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional tension and anger arise in family and relationship matters, causing difficulty in understanding others' feelings and leading to conflicts. Self-control is essential in personal and professional areas.",
+        "hi": "परिवार और रिश्तों में भावनात्मक तनाव और गुस्सा उत्पन्न होता है, जिससे दूसरों की भावनाओं को समझना कठिन होता है और झगड़े हो सकते हैं। व्यक्तिगत और व्यावसायिक क्षेत्रों में संयम आवश्यक है।"
+      },
+      "career": {
+        "en": "Challenges in maintaining calm and cooperation at work; self-control needed to avoid conflicts.",
+        "hi": "कार्यस्थल पर शांति और सहयोग बनाए रखने में चुनौतियाँ; झगड़ों से बचने के लिए संयम आवश्यक है।"
+      },
+      "relationships": {
+        "en": "Likely emotional clashes and misunderstandings; potential for anger and aggressive reactions causing disputes.",
+        "hi": "भावनात्मक टकराव और गलतफहमियाँ संभव हैं; गुस्सा और आक्रामक प्रतिक्रिया से झगड़े हो सकते हैं।"
+      },
+      "money": {
+        "en": "Financial matters may be affected by emotional decisions; caution and control advised.",
+        "hi": "भावनात्मक निर्णयों से वित्तीय मामलों पर प्रभाव पड़ सकता है; सावधानी और संयम जरूरी है।"
+      },
+      "health_adj": {
+        "en": "Stress and anger may impact emotional well-being; managing emotions is important.",
+        "hi": "तनाव और गुस्सा भावनात्मक स्वास्थ्य को प्रभावित कर सकते हैं; भावनाओं का प्रबंधन महत्वपूर्ण है।"
+      }
+    },
+    "aliases": [
+      "Mars opposition Moon",
+      "Mar OPP Moo",
+      "Mars-Opposition-Moon",
+      "Mars Opposition to Moon"
+    ]
+  }
+}

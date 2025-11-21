@@ -1,0 +1,255 @@
+{
+  "id": "NEP_SQR_MER__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Square",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person may experience confusion, deception, and unclear thinking, leading to wrong decisions. Addictions or spiritual delusions can worsen problems. Planning without proper knowledge causes harm.",
+    "hi": "व्यक्ति भ्रम, धोखे और अस्पष्ट सोच का सामना कर सकता है, जिससे गलत निर्णय हो सकते हैं। नशा या आध्यात्मिक भ्रम समस्याएं बढ़ा सकते हैं। बिना उचित ज्ञान के योजना बनाना नुकसानदेह होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Confusion and unclear thinking may affect decision-making and planning, potentially causing setbacks.",
+      "hi": "भ्रम और अस्पष्ट सोच से निर्णय लेने और योजना बनाने में दिक्कत हो सकती है, जिससे करियर में बाधाएं आ सकती हैं।"
+    },
+    "relationships": {
+      "en": "Deception and unclear communication may create misunderstandings and trust issues.",
+      "hi": "धोखा और अस्पष्ट संवाद से गलतफहमियां और विश्वास की समस्याएं हो सकती हैं।"
+    },
+    "money": {
+      "en": "Poor planning and unclear judgment can lead to financial mistakes or losses.",
+      "hi": "गलत योजना और अस्पष्ट निर्णय से आर्थिक नुकसान या गलतियां हो सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Addictions or spiritual delusions may negatively impact mental and emotional well-being.",
+      "hi": "नशा या आध्यात्मिक भ्रम मानसिक और भावनात्मक स्वास्थ्य पर नकारात्मक प्रभाव डाल सकते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Confusion",
+      "Deception",
+      "Poor decision-making",
+      "Addiction challenges",
+      "Spiritual delusions"
+    ],
+    "hi": [
+      "भ्रम",
+      "धोखा",
+      "गलत निर्णय",
+      "नशे की चुनौतियां",
+      "आध्यात्मिक भ्रम"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Risk of making wrong decisions due to unclear thinking.",
+      "Possibility of deception or being misled.",
+      "Addictions or spiritual delusions may worsen situations.",
+      "Planning without sufficient knowledge can cause harm."
+    ],
+    "hi": [
+      "अस्पष्ट सोच के कारण गलत निर्णय लेने का खतरा।",
+      "धोखे या गुमराह होने की संभावना।",
+      "नशा या आध्यात्मिक भ्रम से स्थिति बिगड़ सकती है।",
+      "पर्याप्त ज्ञान के बिना योजना बनाना नुकसानदेह हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious with decisions and verify information.",
+        "Avoid impulsive planning without full knowledge.",
+        "Stay aware of potential deceptions or illusions."
+      ],
+      "hi": [
+        "निर्णय लेते समय सावधानी बरतें और जानकारी की पुष्टि करें।",
+        "पूर्ण ज्ञान के बिना जल्दबाजी में योजना न बनाएं।",
+        "संभावित धोखे या भ्रम के प्रति सतर्क रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Pause before making important decisions to reduce confusion.",
+        "Avoid engaging in addictive behaviors or escapism.",
+        "Seek clarity and reliable information actively."
+      ],
+      "hi": [
+        "महत्वपूर्ण निर्णय लेने से पहले भ्रम कम करने के लिए रुकें।",
+        "नशे या भ्रम से बचें।",
+        "स्पष्टता और विश्वसनीय जानकारी प्राप्त करने का प्रयास करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons learned from confusion or deception.",
+        "Gradually restore clear thinking and sound judgment.",
+        "Reassess plans with improved knowledge and insight."
+      ],
+      "hi": [
+        "भ्रम या धोखे से मिली सीख पर विचार करें।",
+        "धीरे-धीरे स्पष्ट सोच और सही निर्णय क्षमता पुनः प्राप्त करें।",
+        "बेहतर ज्ञान और समझ के साथ योजनाओं का पुनर्मूल्यांकन करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "confusion",
+      "deception",
+      "unclear thinking",
+      "wrong decisions",
+      "addictions",
+      "spiritual delusions",
+      "poor planning"
+    ],
+    "hi": [
+      "भ्रम",
+      "धोखा",
+      "अस्पष्ट सोच",
+      "गलत निर्णय",
+      "नशा",
+      "आध्यात्मिक भ्रम",
+      "खराब योजना"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "caution",
+      "uncertainty",
+      "mental fog",
+      "risk",
+      "vulnerability"
+    ],
+    "hi": [
+      "सावधानी",
+      "अनिश्चितता",
+      "मानसिक धुंध",
+      "जोखिम",
+      "संवेदनशीलता"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental confusion",
+      "deceptive influences",
+      "addiction challenges",
+      "spiritual illusions",
+      "planning risks"
+    ],
+    "hi": [
+      "मानसिक भ्रम",
+      "धोखाधड़ी प्रभाव",
+      "नशे की चुनौतियां",
+      "आध्यात्मिक भ्रम",
+      "योजना संबंधी जोखिम"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-squ-mer",
+      "core": "This aspect indicates potential confusion, deception, and unclear thinking leading to wrong decisions. Addictions or spiritual delusions may worsen problems. Careful planning and clear knowledge are advised.",
+      "tone": "Warm, neutral, and cautionary"
+    },
+    "hi": {
+      "title": "नेपच्यून स्क्वायर मर्क्युरी",
+      "core": "यह योग भ्रम, धोखा और अस्पष्ट सोच दर्शाता है, जिससे गलत निर्णय हो सकते हैं। नशा या आध्यात्मिक भ्रम समस्याएं बढ़ा सकते हैं। सावधानीपूर्वक योजना और स्पष्ट ज्ञान आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person may face confusion, deception, and unclear thinking. Wrong decisions can happen. Addictions or spiritual delusions may worsen problems. Planning without proper knowledge leads to harm.",
+        "hi": "व्यक्ति भ्रम और धोखे की स्थिति में होता है। सोच साफ नहीं रहती और निर्णय गलत हो सकते हैं। नशाए गलत आदतें या आ/यात्मिक भ्रम से समस्याएं बढ़ सकती हैं। बिना अ/ययन के योजना बनाना नुकसानदेह होता है।"
+      },
+      "career": {
+        "en": "Confusion and unclear thinking may affect decision-making and planning, potentially causing setbacks.",
+        "hi": "भ्रम और अस्पष्ट सोच से निर्णय लेने और योजना बनाने में दिक्कत हो सकती है, जिससे करियर में बाधाएं आ सकती हैं।"
+      },
+      "relationships": {
+        "en": "Deception and unclear communication may create misunderstandings and trust issues.",
+        "hi": "धोखा और अस्पष्ट संवाद से गलतफहमियां और विश्वास की समस्याएं हो सकती हैं।"
+      },
+      "money": {
+        "en": "Poor planning and unclear judgment can lead to financial mistakes or losses.",
+        "hi": "गलत योजना और अस्पष्ट निर्णय से आर्थिक नुकसान या गलतियां हो सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Addictions or spiritual delusions may negatively impact mental and emotional well-being.",
+        "hi": "नशा या आध्यात्मिक भ्रम मानसिक और भावनात्मक स्वास्थ्य पर नकारात्मक प्रभाव डाल सकते हैं।"
+      }
+    },
+    "aliases": [
+      "Neptune square Mercury",
+      "Nep SQR Mer",
+      "Neptune-Square-Mercury",
+      "Neptune Square to Mercury"
+    ]
+  }
+}

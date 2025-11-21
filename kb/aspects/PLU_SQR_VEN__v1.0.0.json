@@ -1,0 +1,239 @@
+{
+  "id": "PLU_SQR_VEN__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Square",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The individual tends to suppress emotions and becomes controlling or obsessive in relationships, causing intense emotional pressure and possessiveness that may affect business or financial matters.",
+    "hi": "व्यक्ति अपनी भावनाओं को दबाता है और संबंधों में नियंत्रण या जुनूनी व्यवहार करता है, जिससे तीव्र भावनात्मक दबाव और स्वामित्व की भावना उत्पन्न होती है जो व्यवसाय या वित्तीय मामलों को प्रभावित कर सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Potential disturbances or challenges in business due to emotional possessiveness.",
+      "hi": "भावनात्मक स्वामित्व के कारण व्यवसाय में समस्याएँ या चुनौतियाँ उत्पन्न हो सकती हैं।"
+    },
+    "relationships": {
+      "en": "Relationships may experience bitterness, controlling behavior, and irritability, especially in marital contexts.",
+      "hi": "संबंधों में कटुता, जबरदस्ती और चिड़चिड़ापन हो सकता है, विशेषकर वैवाहिक संबंधों में।"
+    },
+    "money": {
+      "en": "Financial disturbances may arise linked to emotional intensity and possessiveness.",
+      "hi": "भावनात्मक तीव्रता और स्वामित्व की भावना से वित्तीय समस्याएँ उत्पन्न हो सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional stress and pressure may affect overall well-being.",
+      "hi": "भावनात्मक तनाव और दबाव से समग्र स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Relationship challenges",
+      "Business or financial disturbances"
+    ],
+    "hi": [
+      "संबंधों में चुनौतियाँ",
+      "व्यवसाय या वित्तीय समस्याएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Suppression of feelings can lead to controlling or obsessive behavior.",
+      "Possessiveness may cause tension in relationships.",
+      "Emotional pressure might disturb business or finances."
+    ],
+    "hi": [
+      "भावनाओं को दबाने से नियंत्रण या जुनूनी व्यवहार हो सकता है।",
+      "स्वामित्व की भावना संबंधों में तनाव उत्पन्न कर सकती है।",
+      "भावनात्मक दबाव व्यवसाय या वित्त को प्रभावित कर सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be aware of emotional suppression tendencies.",
+        "Monitor controlling behaviors in relationships."
+      ],
+      "hi": [
+        "भावनाओं को दबाने की प्रवृत्ति से सावधान रहें।",
+        "संबंधों में नियंत्रण करने वाले व्यवहार पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Address possessiveness openly with partners.",
+        "Manage emotional intensity to reduce pressure."
+      ],
+      "hi": [
+        "साथियों के साथ स्वामित्व की भावना को खुले तौर पर संबोधित करें।",
+        "दबाव कम करने के लिए भावनात्मक तीव्रता को नियंत्रित करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional patterns to ease tension.",
+        "Seek balance between control and freedom in relationships."
+      ],
+      "hi": [
+        "तनाव कम करने के लिए भावनात्मक पैटर्न पर विचार करें।",
+        "संबंधों में नियंत्रण और स्वतंत्रता के बीच संतुलन बनाएं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "suppression",
+      "controlling",
+      "obsessive",
+      "possessiveness",
+      "emotional pressure",
+      "relationship tension",
+      "business disturbance",
+      "financial issues"
+    ],
+    "hi": [
+      "दबाव",
+      "नियंत्रण",
+      "जुनूनी",
+      "स्वामित्व",
+      "भावनात्मक दबाव",
+      "संबंधों में तनाव",
+      "व्यवसाय में समस्या",
+      "वित्तीय समस्या"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intense",
+      "emotional",
+      "challenging",
+      "possessive"
+    ],
+    "hi": [
+      "तीव्र",
+      "भावनात्मक",
+      "चुनौतीपूर्ण",
+      "स्वामित्वपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional control",
+      "relationship dynamics",
+      "business impact",
+      "financial caution"
+    ],
+    "hi": [
+      "भावनात्मक नियंत्रण",
+      "संबंधों की गतिशीलता",
+      "व्यवसाय पर प्रभाव",
+      "वित्तीय सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-squ-ven",
+      "core": "Suppression of feelings and controlling tendencies create emotional pressure and possessiveness, affecting relationships and finances.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "प्लूटो स्क्वायर वीनस",
+      "core": "भावनाओं को दबाने और नियंत्रण की प्रवृत्ति से भावनात्मक दबाव और स्वामित्व की भावना उत्पन्न होती है, जो संबंधों और वित्त को प्रभावित करती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person suppresses feelings and becomes controlling or obsessive in relationships, causing intense emotional pressure and possessiveness that may affect business or financial matters.",
+        "hi": "व्यक्ति अपनी भावनाओं को दबाता है और संबंधों में नियंत्रण या जुनूनी व्यवहार करता है, जिससे तीव्र भावनात्मक दबाव और स्वामित्व की भावना उत्पन्न होती है जो व्यवसाय या वित्तीय मामलों को प्रभावित कर सकती है।"
+      },
+      "career": {
+        "en": "Potential disturbances or challenges in business due to emotional possessiveness.",
+        "hi": "भावनात्मक स्वामित्व के कारण व्यवसाय में समस्याएँ या चुनौतियाँ उत्पन्न हो सकती हैं।"
+      },
+      "relationships": {
+        "en": "Relationships may experience bitterness, controlling behavior, and irritability, especially in marital contexts.",
+        "hi": "संबंधों में कटुता, जबरदस्ती और चिड़चिड़ापन हो सकता है, विशेषकर वैवाहिक संबंधों में।"
+      },
+      "money": {
+        "en": "Financial disturbances may arise linked to emotional intensity and possessiveness.",
+        "hi": "भावनात्मक तीव्रता और स्वामित्व की भावना से वित्तीय समस्याएँ उत्पन्न हो सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional stress and pressure may affect overall well-being.",
+        "hi": "भावनात्मक तनाव और दबाव से समग्र स्वास्थ्य प्रभावित हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Pluto square Venus",
+      "Plu SQR Ven",
+      "Pluto-Square-Venus",
+      "Pluto Square to Venus"
+    ]
+  }
+}

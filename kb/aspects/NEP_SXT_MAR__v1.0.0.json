@@ -1,0 +1,253 @@
+{
+  "id": "NEP_SEX_MAR__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Sextile",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates receiving institutional guidance in business, education, or special work situations, supported by intuitive power that aids in successful and thorough task completion. It enhances intuitive capacity, encouraging a shift from negative to positive thinking, fulfillment of hidden desires, and opportunities for success in occult, psychology, or spiritual studies. Support or gains may come from grant-funded institutions, along with creative imagination.",
+    "hi": "यह योग व्यक्ति को व्यवसाय, शिक्षा या किसी विशेष कार्य स्थिति में संस्थागत मार्गदर्शन प्राप्त होने का संकेत देता है, जो अंतर्ज्ञान शक्ति द्वारा कार्य को पूर्णता से करने में सफलता प्रदान करता है। यह अंतर्ज्ञान क्षमता को बढ़ाता है, नकारात्मक से सकारात्मक विचारों की ओर बढ़ावा देता है, छुपी हुई इच्छाओं की पूर्ति करता है, और गूढ़ विषय, मनोविज्ञान या अध्यात्म के अध्ययन में सफलता के अवसर देता है। अनुदान प्राप्त संस्थाओं से सहयोग या लाभ मिलता है तथा कल्पनाओं का सृजन होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Institutional guidance and intuitive insight support success in business, education, and specialized work; opportunities arise in occult, psychology, and spiritual fields.",
+      "hi": "संस्थागत मार्गदर्शन और अंतर्ज्ञान से व्यवसाय, शिक्षा, और विशेष कार्यों में सफलता मिलती है; गूढ़ विषय, मनोविज्ञान, और अध्यात्म के क्षेत्र में अवसर प्राप्त होते हैं।"
+    },
+    "relationships": {
+      "en": "Positive thinking and intuitive understanding may improve interpersonal dynamics; support from institutions can also influence social connections.",
+      "hi": "सकारात्मक सोच और अंतर्ज्ञान से संबंधों में सुधार हो सकता है; संस्थागत सहयोग सामाजिक संबंधों को प्रभावित कर सकता है।"
+    },
+    "money": {
+      "en": "Support or gains may come from grant-funded institutions; success in specialized or institutional contexts can enhance financial opportunities.",
+      "hi": "अनुदान प्राप्त संस्थाओं से सहयोग या लाभ मिल सकता है; विशेष या संस्थागत क्षेत्रों में सफलता वित्तीय अवसर बढ़ा सकती है।"
+    },
+    "health_adj": {
+      "en": "A shift from negative to positive thinking supported by enhanced intuition may contribute to mental well-being.",
+      "hi": "अंतर्ज्ञान की वृद्धि से नकारात्मक से सकारात्मक सोच की ओर बदलाव मानसिक स्वास्थ्य के लिए लाभकारी हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Institutional guidance received",
+      "Success in occult or spiritual studies",
+      "Fulfillment of hidden desires",
+      "Creative imagination expressed"
+    ],
+    "hi": [
+      "संस्थागत मार्गदर्शन प्राप्ति",
+      "गूढ़ या अध्यात्मिक अध्ययन में सफलता",
+      "छुपी इच्छाओं की पूर्ति",
+      "कल्पनाओं का सृजन"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek institutional guidance in business or education",
+        "Engage in intuitive practices to enhance task completion",
+        "Explore studies in occult, psychology, or spirituality",
+        "Collaborate with grant-funded organizations",
+        "Express creativity through imaginative works"
+      ],
+      "hi": [
+        "व्यवसाय या शिक्षा में संस्थागत मार्गदर्शन प्राप्त करें",
+        "कार्य पूर्णता के लिए अंतर्ज्ञान का अभ्यास करें",
+        "गूढ़, मनोविज्ञान या अध्यात्म के अध्ययन में संलग्न हों",
+        "अनुदान प्राप्त संस्थाओं के साथ सहयोग करें",
+        "कल्पनात्मक कार्यों के माध्यम से रचनात्मकता व्यक्त करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize intuitive insights to complete tasks thoroughly",
+        "Focus on shifting from negative to positive thinking",
+        "Pursue opportunities in specialized or spiritual fields"
+      ],
+      "hi": [
+        "कार्य पूर्ण करने के लिए अंतर्ज्ञान का उपयोग करें",
+        "नकारात्मक से सकारात्मक सोच की ओर ध्यान दें",
+        "विशेष या अध्यात्मिक क्षेत्रों में अवसरों का पीछा करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Avoid neglecting institutional support",
+        "Do not ignore intuitive guidance",
+        "Refrain from negative thinking patterns"
+      ],
+      "hi": [
+        "संस्थागत सहयोग की अनदेखी न करें",
+        "अंतर्ज्ञान मार्गदर्शन को नजरअंदाज न करें",
+        "नकारात्मक सोच से बचें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "institutional guidance",
+      "intuition",
+      "positive thinking",
+      "hidden desires",
+      "occult studies",
+      "psychology",
+      "spiritualism",
+      "grant support",
+      "imagination",
+      "success"
+    ],
+    "hi": [
+      "संस्थागत मार्गदर्शन",
+      "अंतर्ज्ञान",
+      "सकारात्मक सोच",
+      "छुपी इच्छाएं",
+      "गूढ़ अध्ययन",
+      "मनोविज्ञान",
+      "आध्यात्म",
+      "अनुदान सहयोग",
+      "कल्पना",
+      "सफलता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "intuitive",
+      "creative",
+      "positive",
+      "opportunity"
+    ],
+    "hi": [
+      "सहायक",
+      "अंतर्ज्ञानी",
+      "रचनात्मक",
+      "सकारात्मक",
+      "अवसर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "business and education",
+      "spiritual and occult knowledge",
+      "institutional collaboration",
+      "mental positivity",
+      "creative expression"
+    ],
+    "hi": [
+      "व्यवसाय और शिक्षा",
+      "आध्यात्मिक और गूढ़ ज्ञान",
+      "संस्थागत सहयोग",
+      "मानसिक सकारात्मकता",
+      "रचनात्मक अभिव्यक्ति"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-sxt-mar",
+      "core": "Institutional guidance and enhanced intuition support success and positive transformation in work and studies.",
+      "tone": "Warm, encouraging, and insightful"
+    },
+    "hi": {
+      "title": "नेपच्यून सेकस्टाइल मार्स",
+      "core": "संस्थागत मार्गदर्शन और बढ़ी हुई अंतर्ज्ञान शक्ति कार्य और अध्ययन में सफलता तथा सकारात्मक परिवर्तन का समर्थन करती है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Receives institutional guidance in business/education/special work situations. Intuitive power brings success in thorough task completion. Enhanced intuitive capacity enables more work, shifting from negative to positive thinking. Hidden desires get fulfilled. Success opportunities in studying occult/psychology/spiritualism. Gains or provides support to grant-funded institutions. Creates imaginative works.",
+        "hi": "व्यक्ति को व्यवसाय में/शिक्षा में/किसी विशेष कार्य स्थिति में संस्थागत मार्गदर्शन मिलता है तथा अंतर्ज्ञान शक्ति द्वारा कार्य को पूर्णता से करने में सफलता के अवसर प्राप्त होते हैं। इस समय व्यक्ति की अंतर्ज्ञान क्षमता से अधिक कार्य होता है तथा नकारात्मक से सकारात्मक विचारों की ओर बढ़ता है। उसकी छुपी हुई इच्छाओं की पूर्ति इस समय होती है। इस समय व्यक्ति को गूढ़ विषय/मनोविज्ञान/अध्यात्मवाद आदि के अध्ययन में सफलता के अवसर मिलते हैं। अनुदान प्राप्त संस्थाओं से सहयोग मिलता है या देता है। कल्पनाओं का सृजन करता है।"
+      },
+      "career": {
+        "en": "Receives institutional guidance in business/education/special work situations. Intuitive power brings success in thorough task completion. Success opportunities in studying occult/psychology/spiritualism. Gains or provides support to grant-funded institutions.",
+        "hi": "व्यवसाय में/शिक्षा में/विशेष कार्य स्थिति में संस्थागत मार्गदर्शन मिलता है। अंतर्ज्ञान शक्ति से कार्य पूर्णता में सफलता मिलती है। गूढ़ विषय/मनोविज्ञान/अध्यात्म के अध्ययन में सफलता के अवसर मिलते हैं। अनुदान प्राप्त संस्थाओं से सहयोग मिलता है या देता है।"
+      },
+      "relationships": {
+        "en": "Shift from negative to positive thinking supported by enhanced intuition may improve interpersonal relations. Support from institutions can influence social connections.",
+        "hi": "अंतर्ज्ञान की वृद्धि से नकारात्मक से सकारात्मक सोच की ओर बढ़ावा मिलता है, जो संबंधों में सुधार कर सकता है। संस्थागत सहयोग सामाजिक संबंधों को प्रभावित कर सकता है।"
+      },
+      "money": {
+        "en": "Gains or provides support to grant-funded institutions. Success in specialized or institutional contexts can enhance financial opportunities.",
+        "hi": "अनुदान प्राप्त संस्थाओं से सहयोग या लाभ मिलता है। विशेष या संस्थागत क्षेत्रों में सफलता वित्तीय अवसर बढ़ा सकती है।"
+      },
+      "health_adj": {
+        "en": "Shift from negative to positive thinking supported by enhanced intuition may benefit mental health.",
+        "hi": "अंतर्ज्ञान की वृद्धि से नकारात्मक से सकारात्मक सोच की ओर बदलाव मानसिक स्वास्थ्य के लिए लाभकारी हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Neptune sextile Mars",
+      "Nep SEX Mar",
+      "Neptune-Sextile-Mars",
+      "Neptune Sextile to Mars"
+    ]
+  }
+}

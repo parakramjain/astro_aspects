@@ -1,0 +1,243 @@
+{
+  "id": "MER_TRI_SAT__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Trine",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period focused on serious thinking, structured planning, and practical application of ideas with increased responsibility and guidance from elders.",
+    "hi": "यह समय गंभीर सोच, योजनाबद्ध सोच और विचारों को व्यावहारिक रूप देने तथा बुजुर्गों से मार्गदर्शन प्राप्त करने का होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Strong professional strategies and responsible work approach; favorable for technical and scientific studies.",
+      "hi": "मजबूत व्यावसायिक रणनीति और जिम्मेदार कार्य दृष्टिकोण; तकनीकी और वैज्ञानिक अध्ययन के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Gains guidance from elders, indicating respect and learning within relationships.",
+      "hi": "बुजुर्गों से मार्गदर्शन प्राप्त होता है, जो संबंधों में सम्मान और सीख को दर्शाता है।"
+    },
+    "money": {
+      "en": "Practical and structured planning may support financial decisions, though not explicitly mentioned.",
+      "hi": "व्यावहारिक और योजनाबद्ध सोच वित्तीय निर्णयों में सहायक हो सकती है, हालांकि स्पष्ट रूप से उल्लेखित नहीं है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन संकेतित नहीं है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Serious thinking phase",
+      "Structured planning period",
+      "Professional strategy development",
+      "Technical and scientific study time"
+    ],
+    "hi": [
+      "गंभीर सोच का समय",
+      "योजनाबद्ध सोच का काल",
+      "व्यावसायिक रणनीति विकास",
+      "तकनीकी और वैज्ञानिक अध्ययन का समय"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balance in responsibility and planning."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताया गया; जिम्मेदारी और योजना में संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Apply ideas practically in work and study.",
+        "Seek guidance from experienced elders.",
+        "Focus on structured and responsible planning."
+      ],
+      "hi": [
+        "अपने विचारों को कार्य और अध्ययन में व्यावहारिक रूप दें।",
+        "अनुभवी बुजुर्गों से मार्गदर्शन प्राप्त करें।",
+        "योजनाबद्ध और जिम्मेदार सोच पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage deeply in technical or scientific subjects.",
+        "Develop strong professional strategies."
+      ],
+      "hi": [
+        "तकनीकी या वैज्ञानिक विषयों में गहराई से संलग्न हों।",
+        "मजबूत व्यावसायिक रणनीतियाँ विकसित करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain responsibility as planning transitions.",
+        "Continue valuing guidance from elders."
+      ],
+      "hi": [
+        "योजना के परिवर्तन के दौरान जिम्मेदारी बनाए रखें।",
+        "बुजुर्गों के मार्गदर्शन को महत्व देना जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "serious thinking",
+      "structured planning",
+      "professional strategies",
+      "practical application",
+      "responsibility",
+      "guidance from elders",
+      "technical study",
+      "scientific study"
+    ],
+    "hi": [
+      "गंभीर विचार",
+      "योजनाबद्ध सोच",
+      "व्यावसायिक रणनीति",
+      "व्यावहारिक रूपांतरण",
+      "जिम्मेदारी",
+      "बुजुर्गों से मार्गदर्शन",
+      "तकनीकी अध्ययन",
+      "वैज्ञानिक अध्ययन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "serious",
+      "structured",
+      "responsible",
+      "practical",
+      "guided"
+    ],
+    "hi": [
+      "गंभीर",
+      "योजनाबद्ध",
+      "जिम्मेदार",
+      "व्यावहारिक",
+      "मार्गदर्शित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "intellectual discipline",
+      "mentorship",
+      "scientific inquiry"
+    ],
+    "hi": [
+      "व्यावसायिक विकास",
+      "बौद्धिक अनुशासन",
+      "मार्गदर्शन",
+      "वैज्ञानिक जिज्ञासा"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-tri-sat",
+      "core": "A time for serious, structured thinking and practical application with elder guidance.",
+      "tone": "Warm, neutral, and professional"
+    },
+    "hi": {
+      "title": "बुध त्रिकोण शनि",
+      "core": "गंभीर, योजनाबद्ध सोच और बुजुर्गों के मार्गदर्शन के साथ व्यावहारिक कार्य का समय।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और पेशेवर"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A period focused on serious thinking, structured planning, and practical application of ideas with increased responsibility and guidance from elders.",
+        "hi": "यह समय गंभीर सोच, योजनाबद्ध सोच और विचारों को व्यावहारिक रूप देने तथा बुजुर्गों से मार्गदर्शन प्राप्त करने का होता है।"
+      },
+      "career": {
+        "en": "Strong professional strategies and responsible work approach; favorable for technical and scientific studies.",
+        "hi": "मजबूत व्यावसायिक रणनीति और जिम्मेदार कार्य दृष्टिकोण; तकनीकी और वैज्ञानिक अध्ययन के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Gains guidance from elders, indicating respect and learning within relationships.",
+        "hi": "बुजुर्गों से मार्गदर्शन प्राप्त होता है, जो संबंधों में सम्मान और सीख को दर्शाता है।"
+      },
+      "money": {
+        "en": "Practical and structured planning may support financial decisions, though not explicitly mentioned.",
+        "hi": "व्यावहारिक और योजनाबद्ध सोच वित्तीय निर्णयों में सहायक हो सकती है, हालांकि स्पष्ट रूप से उल्लेखित नहीं है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन संकेतित नहीं है।"
+      }
+    },
+    "aliases": [
+      "Mercury trine Saturn",
+      "Mer TRI Sat",
+      "Mercury-Trine-Saturn",
+      "Mercury Trine to Saturn"
+    ]
+  }
+}

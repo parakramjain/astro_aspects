@@ -1,0 +1,255 @@
+{
+  "id": "MAR_CON_NEP__v1.0.0",
+  "pair": [
+    "Mars",
+    "Conjunction",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates experiences of spiritual or psychic activities, revelation of hidden desires, and involvement in secret or confidential work. It also suggests a loss of control over excitatory impulses and connections with religious or special study institutions.",
+    "hi": "यह योग व्यक्ति को आध्यात्मिक या मानसिक गतिविधियों, छुपी इच्छाओं के प्रकटीकरण और गुप्त कार्यों में संलग्नता का अनुभव कराता है। यह उत्तेजक प्रवृत्तियों पर नियंत्रण खोने और धार्मिक या विशेष अध्ययन संस्थानों से जुड़ने का संकेत देता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Requires extreme caution in financial dealings; involves confidential or secretive work situations.",
+      "hi": "आर्थिक व्यवहार में अत्यधिक सावधानी आवश्यक; गोपनीय या गुप्त कार्य स्थितियाँ शामिल हैं।"
+    },
+    "relationships": {
+      "en": "May involve secrecy to avoid opposition; connections with religious or special study groups.",
+      "hi": "विरोध से बचने के लिए गोपनीयता हो सकती है; धार्मिक या विशेष अध्ययन समूहों से जुड़ाव।"
+    },
+    "money": {
+      "en": "Financial dealings need careful attention; gambling tends to result in losses.",
+      "hi": "आर्थिक लेन-देन में सावधानी आवश्यक; जुआ खेलने से हानि हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Anesthesia or sedation during surgeries or adverse health conditions may not yield good results.",
+      "hi": "सर्जरी या खराब स्वास्थ्य स्थिति में बेहोशी देने के परिणाम अच्छे नहीं मिलते।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual or psychic revelations",
+      "Confidential or secret work situations",
+      "Connections with religious or special study institutions"
+    ],
+    "hi": [
+      "आध्यात्मिक या मानसिक प्रकटीकरण",
+      "गोपनीय या गुप्त कार्य स्थितियाँ",
+      "धार्मिक या विशेष अध्ययन संस्थानों से जुड़ाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Loss of control over excitatory tendencies",
+      "Poor outcomes from anesthesia in surgeries or health issues",
+      "Financial losses from gambling",
+      "Need for extreme caution in financial matters"
+    ],
+    "hi": [
+      "उत्तेजक प्रवृत्तियों पर नियंत्रण खोना",
+      "सर्जरी या स्वास्थ्य समस्याओं में बेहोशी के खराब परिणाम",
+      "जुए में हानि",
+      "आर्थिक मामलों में अत्यधिक सावधानी की आवश्यकता"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Maintain confidentiality in sensitive work situations",
+        "Engage carefully with religious or special study institutions",
+        "Exercise caution in financial dealings"
+      ],
+      "hi": [
+        "संवेदनशील कार्य स्थितियों में गोपनीयता बनाए रखें",
+        "धार्मिक या विशेष अध्ययन संस्थानों से सावधानीपूर्वक जुड़ें",
+        "आर्थिक व्यवहार में सावधानी बरतें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be vigilant about excitatory impulses",
+        "Avoid gambling to prevent losses",
+        "Prepare for possible challenges with anesthesia in medical procedures"
+      ],
+      "hi": [
+        "उत्तेजक प्रवृत्तियों पर सतर्क रहें",
+        "हानि से बचने के लिए जुआ न खेलें",
+        "चिकित्सा प्रक्रियाओं में बेहोशी के संभावित चुनौतियों के लिए तैयार रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually regain control over impulses",
+        "Reduce secrecy where safe to do so",
+        "Review financial strategies with caution"
+      ],
+      "hi": [
+        "प्रवृत्तियों पर नियंत्रण धीरे-धीरे पुनः प्राप्त करें",
+        "जहाँ सुरक्षित हो, गोपनीयता कम करें",
+        "आर्थिक रणनीतियों की सावधानी से समीक्षा करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "spirituality",
+      "psychic activity",
+      "hidden desires",
+      "secret work",
+      "confidentiality",
+      "religious connection",
+      "loss of control",
+      "financial caution",
+      "gambling losses",
+      "anesthesia risks"
+    ],
+    "hi": [
+      "आध्यात्मिकता",
+      "मानसिक गतिविधि",
+      "छुपी इच्छाएँ",
+      "गुप्त कार्य",
+      "गोपनीयता",
+      "धार्मिक संबंध",
+      "नियंत्रण खोना",
+      "आर्थिक सावधानी",
+      "जुआ हानि",
+      "बेहोशी जोखिम"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "cautious",
+      "confidential",
+      "spiritual",
+      "risk-aware"
+    ],
+    "hi": [
+      "सावधान",
+      "गोपनीय",
+      "आध्यात्मिक",
+      "जोखिम-सचेत"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual insight",
+      "hidden motives",
+      "secrecy",
+      "financial prudence",
+      "health caution"
+    ],
+    "hi": [
+      "आध्यात्मिक अंतर्दृष्टि",
+      "छुपे उद्देश्य",
+      "गोपनीयता",
+      "आर्थिक विवेक",
+      "स्वास्थ्य सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-con-nep",
+      "core": "Experiences of spiritual and psychic revelations, secretive work, and the need for caution in financial and health matters.",
+      "tone": "Warm, neutral, and cautiously informative"
+    },
+    "hi": {
+      "title": "मंगल संयोजन नेपच्यून",
+      "core": "आध्यात्मिक और मानसिक प्रकटीकरण, गुप्त कार्यों का अनुभव और आर्थिक तथा स्वास्थ्य मामलों में सावधानी की आवश्यकता।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Spiritual/psychic activities, hidden desires revealed, secret work, loss of control over excitatory tendencies, connection with religious institutions.",
+        "hi": "आध्यात्मिक/मानसिक गतिविधियाँ, छुपी इच्छाओं का प्रकटीकरण, गुप्त कार्य, उत्तेजक प्रवृत्तियों पर नियंत्रण खोना, धार्मिक संस्थानों से जुड़ाव।"
+      },
+      "career": {
+        "en": "Confidential work situations, extreme caution in financial dealings.",
+        "hi": "गोपनीय कार्य स्थितियाँ, आर्थिक व्यवहार में अत्यधिक सावधानी।"
+      },
+      "relationships": {
+        "en": "Maintains secrecy to avoid opposition, connects with religious or special study groups.",
+        "hi": "विरोध से बचने के लिए गोपनीयता बनाए रखता है, धार्मिक या विशेष अध्ययन समूहों से जुड़ता है।"
+      },
+      "money": {
+        "en": "Financial caution required; gambling leads to losses.",
+        "hi": "आर्थिक सावधानी आवश्यक; जुआ हानि करता है।"
+      },
+      "health_adj": {
+        "en": "Anesthesia for surgeries or adverse health conditions may yield poor results.",
+        "hi": "सर्जरी या स्वास्थ्य समस्याओं में बेहोशी के परिणाम अच्छे नहीं मिलते।"
+      }
+    },
+    "aliases": [
+      "Mars conjunction Neptune",
+      "Mar CON Nep",
+      "Mars-Conjunction-Neptune",
+      "Mars Conjunction to Neptune"
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "id": "VEN_CON_MOO__v1.0.0",
+  "pair": [
+    "Venus",
+    "Conjunction",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect highlights harmony and calmness in family and social settings, promoting pleasant interactions and peaceful relationships.",
+    "hi": "यह योग पारिवारिक और सामाजिक वातावरण में सौहार्द और शांति को दर्शाता है, जो सुखद बातचीत और शांतिपूर्ण संबंधों को बढ़ावा देता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business interactions are harmonious, supporting cooperative and pleasant professional relationships.",
+      "hi": "व्यवसायिक बातचीत में सौहार्द रहता है, जो सहयोगात्मक और सुखद पेशेवर संबंधों को समर्थन देता है।"
+    },
+    "relationships": {
+      "en": "Family members experience harmony and the person remains calm and pleased, fostering positive social bonds.",
+      "hi": "पारिवारिक सदस्य सौहार्दपूर्ण रहते हैं और व्यक्ति शांत तथा प्रसन्न रहता है, जिससे सकारात्मक सामाजिक संबंध बनते हैं।"
+    },
+    "money": {
+      "en": "Financial dealings benefit from harmonious interactions within family or business contexts.",
+      "hi": "पारिवारिक या व्यवसायिक संदर्भों में सौहार्दपूर्ण बातचीत से वित्तीय मामलों में लाभ होता है।"
+    },
+    "health_adj": {
+      "en": "The person maintains a calm and pleased state, which may support emotional well-being.",
+      "hi": "व्यक्ति शांत और प्रसन्न रहता है, जो भावनात्मक स्वास्थ्य के लिए सहायक हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family gatherings",
+      "Social events",
+      "Business meetings"
+    ],
+    "hi": [
+      "पारिवारिक मिलन",
+      "सामाजिक कार्यक्रम",
+      "व्यवसायिक बैठकें"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in family and social events to foster harmony",
+        "Maintain calm and pleasant demeanor in interactions"
+      ],
+      "hi": [
+        "सौहार्द बढ़ाने के लिए पारिवारिक और सामाजिक कार्यक्रमों में भाग लें",
+        "बातचीत में शांत और प्रसन्न स्वभाव बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Experience peak harmony in family and business relations",
+        "Feel calm and pleased during social interactions"
+      ],
+      "hi": [
+        "पारिवारिक और व्यवसायिक संबंधों में चरम सौहार्द का अनुभव करें",
+        "सामाजिक बातचीत के दौरान शांत और प्रसन्न महसूस करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Sustain calmness despite changing social dynamics",
+        "Continue fostering harmony among family members"
+      ],
+      "hi": [
+        "परिवर्तित सामाजिक परिस्थितियों में भी शांति बनाए रखें",
+        "पारिवारिक सदस्यों के बीच सौहार्द बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "family harmony",
+      "social events",
+      "calmness",
+      "pleased",
+      "business harmony"
+    ],
+    "hi": [
+      "पारिवारिक सौहार्द",
+      "सामाजिक घटनाएं",
+      "शांति",
+      "प्रसन्नता",
+      "व्यवसाय में सौहार्द"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "harmonious",
+      "calm",
+      "pleasant",
+      "peaceful"
+    ],
+    "hi": [
+      "सौहार्दपूर्ण",
+      "शांत",
+      "सुखद",
+      "शांतिपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family unity",
+      "social harmony",
+      "emotional calm"
+    ],
+    "hi": [
+      "पारिवारिक एकता",
+      "सामाजिक सौहार्द",
+      "भावनात्मक शांति"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-con-moo",
+      "core": "Harmony and calmness prevail in family and social settings, fostering pleasant relationships.",
+      "tone": "Warm, neutral, and peaceful"
+    },
+    "hi": {
+      "title": "शुक्र योग चंद्र",
+      "core": "पारिवारिक और सामाजिक वातावरण में सौहार्द और शांति बनी रहती है, जो सुखद संबंधों को बढ़ावा देती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और शांतिपूर्ण"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This aspect highlights harmony and calmness in family and social settings, promoting pleasant interactions and peaceful relationships.",
+        "hi": "यह योग पारिवारिक और सामाजिक वातावरण में सौहार्द और शांति को दर्शाता है, जो सुखद बातचीत और शांतिपूर्ण संबंधों को बढ़ावा देता है।"
+      },
+      "career": {
+        "en": "Business interactions are harmonious, supporting cooperative and pleasant professional relationships.",
+        "hi": "व्यवसायिक बातचीत में सौहार्द रहता है, जो सहयोगात्मक और सुखद पेशेवर संबंधों को समर्थन देता है।"
+      },
+      "relationships": {
+        "en": "Family members experience harmony and the person remains calm and pleased, fostering positive social bonds.",
+        "hi": "पारिवारिक सदस्य सौहार्दपूर्ण रहते हैं और व्यक्ति शांत तथा प्रसन्न रहता है, जिससे सकारात्मक सामाजिक संबंध बनते हैं।"
+      },
+      "money": {
+        "en": "Financial dealings benefit from harmonious interactions within family or business contexts.",
+        "hi": "पारिवारिक या व्यवसायिक संदर्भों में सौहार्दपूर्ण बातचीत से वित्तीय मामलों में लाभ होता है।"
+      },
+      "health_adj": {
+        "en": "The person maintains a calm and pleased state, which may support emotional well-being.",
+        "hi": "व्यक्ति शांत और प्रसन्न रहता है, जो भावनात्मक स्वास्थ्य के लिए सहायक हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Venus conjunction Moon",
+      "Ven CON Moo",
+      "Venus-Conjunction-Moon",
+      "Venus Conjunction to Moon"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "id": "URA_SQR_PLU__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Square",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Vengeful emotions cause unwanted changes in goals leading to losses, fractures in old relationships, unexpected financial setbacks, and conflicts with important associates. Speculative financial activities are highly risky now.",
+    "hi": "बदले की भावना अवांछित लक्ष्य परिवर्तन कराती है जिससे हानि होती है, पुराने संबंध टूटते हैं, अप्रत्याशित आर्थिक नुकसान होते हैं और महत्वपूर्ण सहयोगियों के साथ संघर्ष होता है। इस समय जोखिम भरे आर्थिक कार्यों से बचना चाहिए।"
+  },
+  "facets": {
+    "career": {
+      "en": "Conflicts with important associates and sudden problems in joint ventures or shared assets may cause damage.",
+      "hi": "महत्वपूर्ण सहयोगियों के साथ संघर्ष और संयुक्त व्यवसाय या साझा संपत्ति में अचानक समस्याएँ हानि पहुंचा सकती हैं।"
+    },
+    "relationships": {
+      "en": "Old relationships and friendships may fracture due to vengeful or harsh emotions.",
+      "hi": "बदले की भावना या भावनात्मक क्रूरता के कारण पुराने संबंध और मित्रता में दरार आ सकती है।"
+    },
+    "money": {
+      "en": "Unexpected financial losses may occur; avoid speculative and risky financial activities as they could be self-destructive.",
+      "hi": "अप्रत्याशित आर्थिक हानि हो सकती है; जोखिम भरे और सट्टा आधारित आर्थिक कार्यों से बचना चाहिए क्योंकि ये आत्मघाती हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional stress from conflicts and sudden problems may affect well-being.",
+      "hi": "संघर्ष और अचानक समस्याओं से उत्पन्न भावनात्मक तनाव से स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Goal changes",
+      "Relationship fractures",
+      "Financial losses",
+      "Conflicts with associates",
+      "Joint venture problems"
+    ],
+    "hi": [
+      "लक्ष्य परिवर्तन",
+      "संबंधों में दरार",
+      "आर्थिक हानि",
+      "सहयोगियों के साथ संघर्ष",
+      "संयुक्त व्यवसाय की समस्याएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid speculative and risky financial activities.",
+      "Conflicts with important associates may arise.",
+      "Sudden problems in joint ventures or assets can cause damage."
+    ],
+    "hi": [
+      "जोखिम भरे आर्थिक कार्यों से बचें।",
+      "महत्वपूर्ण सहयोगियों के साथ संघर्ष हो सकता है।",
+      "संयुक्त व्यवसाय या संपत्ति में अचानक समस्या से हानि हो सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in financial dealings.",
+        "Be mindful of emotional reactions to avoid conflicts.",
+        "Review joint ventures and shared assets carefully."
+      ],
+      "hi": [
+        "आर्थिक लेन-देन में सावधानी बरतें।",
+        "संघर्ष से बचने के लिए भावनात्मक प्रतिक्रियाओं पर ध्यान दें।",
+        "संयुक्त व्यवसाय और साझा संपत्ति की सावधानी से समीक्षा करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid speculative business activities.",
+        "Prepare for possible sudden conflicts or financial setbacks."
+      ],
+      "hi": [
+        "सट्टा आधारित व्यवसाय से बचें।",
+        "संभावित अचानक संघर्ष या आर्थिक हानि के लिए तैयार रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually resolve conflicts with associates.",
+        "Stabilize financial activities and avoid risks."
+      ],
+      "hi": [
+        "सहयोगियों के साथ संघर्ष को धीरे-धीरे सुलझाएं।",
+        "आर्थिक गतिविधियों को स्थिर करें और जोखिम से बचें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "vengeful emotions",
+      "goal changes",
+      "relationship fractures",
+      "financial losses",
+      "conflicts",
+      "joint ventures",
+      "speculative risk"
+    ],
+    "hi": [
+      "बदले की भावना",
+      "लक्ष्य परिवर्तन",
+      "संबंधों में दरार",
+      "आर्थिक हानि",
+      "संघर्ष",
+      "संयुक्त व्यवसाय",
+      "जोखिम"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "risky",
+      "conflict-prone",
+      "unstable"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "जोखिम भरा",
+      "संघर्षपूर्ण",
+      "अस्थिर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional tension",
+      "financial caution",
+      "relationship strain",
+      "business instability"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "आर्थिक सावधानी",
+      "संबंधों में तनाव",
+      "व्यवसाय में अस्थिरता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-squ-plu",
+      "core": "Vengeful emotions and sudden changes cause losses and conflicts, especially in finances and relationships. Speculative activities are highly risky.",
+      "tone": "Neutral, cautious, and grounded"
+    },
+    "hi": {
+      "title": "यूरेनस स्क्वायर प्लूटो",
+      "core": "बदले की भावना और अचानक बदलाव से हानि और संघर्ष होते हैं, विशेषकर आर्थिक और संबंधों में। जोखिम भरे कार्यों से बचें।",
+      "tone": "निष्पक्ष, सतर्क, और यथार्थवादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Vengeful emotions cause unwanted goal changes leading to losses and fractures in old relationships, with unexpected financial setbacks and conflicts with important associates.",
+        "hi": "बदले की भावना अवांछित लक्ष्य परिवर्तन कराती है जिससे हानि होती है और पुराने संबंध टूटते हैं, अप्रत्याशित आर्थिक नुकसान और महत्वपूर्ण सहयोगियों के साथ संघर्ष होता है।"
+      },
+      "career": {
+        "en": "Conflicts with important associates and sudden problems in joint ventures or shared assets may cause damage.",
+        "hi": "महत्वपूर्ण सहयोगियों के साथ संघर्ष और संयुक्त व्यवसाय या साझा संपत्ति में अचानक समस्याएँ हानि पहुंचा सकती हैं।"
+      },
+      "relationships": {
+        "en": "Old relationships and friendships may fracture due to vengeful or harsh emotions.",
+        "hi": "बदले की भावना या भावनात्मक क्रूरता के कारण पुराने संबंध और मित्रता में दरार आ सकती है।"
+      },
+      "money": {
+        "en": "Unexpected financial losses may occur; avoid speculative and risky financial activities as they could be self-destructive.",
+        "hi": "अप्रत्याशित आर्थिक हानि हो सकती है; जोखिम भरे और सट्टा आधारित आर्थिक कार्यों से बचना चाहिए क्योंकि ये आत्मघाती हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional stress from conflicts and sudden problems may affect well-being.",
+        "hi": "संघर्ष और अचानक समस्याओं से उत्पन्न भावनात्मक तनाव से स्वास्थ्य प्रभावित हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Uranus square Pluto",
+      "Ura SQR Plu",
+      "Uranus-Square-Pluto",
+      "Uranus Square to Pluto"
+    ]
+  }
+}

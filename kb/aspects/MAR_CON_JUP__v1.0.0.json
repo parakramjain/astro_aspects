@@ -1,0 +1,251 @@
+{
+  "id": "MAR_CON_JUP__v1.0.0",
+  "pair": [
+    "Mars",
+    "Conjunction",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased ambition and self-confidence with high enthusiasm for work, leading to new professional opportunities, cooperation in investments and legal matters, and a stronger inclination toward religious and cultural activities.",
+    "hi": "महत्वाकांक्षा और आत्मविश्वास में वृद्धि होती है तथा कार्य के प्रति उत्साह बढ़ता है, जिससे पेशेवर अवसर, निवेश और कानूनी मामलों में सहयोग तथा धार्मिक और सांस्कृतिक गतिविधियों में रुचि बढ़ती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "New job opportunities or business agreements may arise; increased enthusiasm and ambition support professional growth.",
+      "hi": "नई नौकरी या व्यापार के समझौते हो सकते हैं; बढ़ा हुआ उत्साह और महत्वाकांक्षा पेशेवर विकास में सहायक होती है।"
+    },
+    "relationships": {
+      "en": "Opportunities for cooperation in joint investments, taxes, property, or government/legal matters; participation in religious, educational, or cultural activities seeking recognition.",
+      "hi": "संयुक्त निवेश, कर, संपत्ति या सरकारी/कानूनी मामलों में सहयोग के अवसर; धार्मिक, शैक्षणिक या सांस्कृतिक गतिविधियों में भागीदारी और मान्यता की इच्छा।"
+    },
+    "money": {
+      "en": "Chances for foreign trade or travel; opportunities for joint investments and related financial cooperation.",
+      "hi": "विदेशी व्यापार या यात्रा के अवसर; संयुक्त निवेश और वित्तीय सहयोग के अवसर।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; increased activity and enthusiasm may influence physical engagement positively.",
+      "hi": "स्वास्थ्य संबंधी विशेष सुझाव नहीं; बढ़ा हुआ उत्साह और सक्रियता शारीरिक भागीदारी को सकारात्मक रूप से प्रभावित कर सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New job or business agreements",
+      "Foreign trade or travel opportunities",
+      "Joint investments and legal cooperation",
+      "Religious, educational, or cultural participation",
+      "Sports or recreational group travel (for students)"
+    ],
+    "hi": [
+      "नई नौकरी या व्यापार समझौते",
+      "विदेशी व्यापार या यात्रा के अवसर",
+      "संयुक्त निवेश और कानूनी सहयोग",
+      "धार्मिक, शैक्षणिक या सांस्कृतिक भागीदारी",
+      "खेलकूद या मनोरंजन से जुड़ी सामूहिक यात्रा (छात्रों के लिए)"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek new professional or business opportunities",
+        "Engage in cooperative investments or legal matters",
+        "Participate actively in religious or cultural activities",
+        "Explore travel or foreign trade possibilities"
+      ],
+      "hi": [
+        "नई पेशेवर या व्यापारिक अवसर खोजें",
+        "संयुक्त निवेश या कानूनी मामलों में सहयोग करें",
+        "धार्मिक या सांस्कृतिक गतिविधियों में सक्रिय भाग लें",
+        "यात्रा या विदेशी व्यापार के अवसर तलाशें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on building recognition through educational or cultural participation",
+        "Leverage enthusiasm to enhance professional growth"
+      ],
+      "hi": [
+        "शैक्षणिक या सांस्कृतिक भागीदारी से मान्यता प्राप्त करने पर ध्यान दें",
+        "पेशेवर विकास के लिए उत्साह का उपयोग करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain motivation despite possible reduction in new opportunities",
+        "Continue engagement in religious or recreational group activities"
+      ],
+      "hi": [
+        "नए अवसरों में कमी के बावजूद प्रेरणा बनाए रखें",
+        "धार्मिक या मनोरंजक सामूहिक गतिविधियों में भागीदारी जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "ambition",
+      "self-confidence",
+      "work enthusiasm",
+      "new opportunities",
+      "foreign trade",
+      "joint investments",
+      "legal cooperation",
+      "religious inclination",
+      "cultural participation",
+      "recognition",
+      "student travel"
+    ],
+    "hi": [
+      "महत्वाकांक्षा",
+      "आत्मविश्वास",
+      "कार्य उत्साह",
+      "नए अवसर",
+      "विदेशी व्यापार",
+      "संयुक्त निवेश",
+      "कानूनी सहयोग",
+      "धार्मिक झुकाव",
+      "सांस्कृतिक भागीदारी",
+      "मान्यता",
+      "छात्र यात्रा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "opportunity",
+      "cooperation",
+      "growth",
+      "enthusiasm"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "अवसर",
+      "सहयोग",
+      "विकास",
+      "उत्साह"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "career advancement",
+      "spiritual interest",
+      "social cooperation",
+      "educational growth",
+      "travel and trade"
+    ],
+    "hi": [
+      "पेशेवर उन्नति",
+      "आध्यात्मिक रुचि",
+      "सामाजिक सहयोग",
+      "शैक्षणिक विकास",
+      "यात्रा और व्यापार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-con-jup",
+      "core": "Ambition and confidence rise with enthusiasm for work, bringing new professional and cooperative opportunities along with increased religious and cultural involvement.",
+      "tone": "Warm, encouraging, and neutral"
+    },
+    "hi": {
+      "title": "मंगल संयोजन बृहस्पति",
+      "core": "महत्वाकांक्षा और आत्मविश्वास बढ़ते हैं, कार्य के प्रति उत्साह के साथ नए पेशेवर और सहयोगी अवसर मिलते हैं तथा धार्मिक और सांस्कृतिक भागीदारी बढ़ती है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और तटस्थ"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Ambition and self-confidence increase with above-average work enthusiasm, leading to new opportunities and stronger religious inclination.",
+        "hi": "महत्वाकांक्षा और आत्मविश्वास में वृद्धि होती है तथा सामान्य से अधिक कार्य उत्साह की स्थिति रहती है, जिससे नए अवसर और धार्मिक झुकाव बढ़ता है।"
+      },
+      "career": {
+        "en": "New job or business agreements may emerge supported by increased ambition and enthusiasm.",
+        "hi": "नई नौकरी या व्यापार समझौते हो सकते हैं, जो बढ़ी हुई महत्वाकांक्षा और उत्साह से समर्थित हैं।"
+      },
+      "relationships": {
+        "en": "Opportunities arise for cooperation in joint investments, taxes, property, or legal matters; participation in cultural and religious activities is notable.",
+        "hi": "संयुक्त निवेश, कर, संपत्ति या कानूनी मामलों में सहयोग के अवसर बनते हैं; सांस्कृतिक और धार्मिक गतिविधियों में भागीदारी महत्वपूर्ण है।"
+      },
+      "money": {
+        "en": "Chances for foreign trade or travel and joint financial cooperation are present.",
+        "hi": "विदेशी व्यापार या यात्रा के अवसर और संयुक्त वित्तीय सहयोग मौजूद हैं।"
+      },
+      "health_adj": {
+        "en": "No direct health concerns noted; increased activity and enthusiasm may positively affect physical engagement.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष चिंता नहीं; बढ़ी हुई सक्रियता और उत्साह शारीरिक भागीदारी को सकारात्मक रूप से प्रभावित कर सकते हैं।"
+      }
+    },
+    "aliases": [
+      "Mars conjunction Jupiter",
+      "Mar CON Jup",
+      "Mars-Conjunction-Jupiter",
+      "Mars Conjunction to Jupiter"
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "id": "JUP_TRI_VEN__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Trine",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person is joyful and optimistic, experiencing growth in education, culture, and emotions, with flourishing relationships marked by kindness and understanding.",
+    "hi": "व्यक्ति उदार और आशावादी होता है, शिक्षा, संस्कृति और भावनाओं में वृद्धि होती है, तथा संबंधों में मधुरता और समझदारी बढ़ती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Growth and positive development in education and cultural pursuits.",
+      "hi": "शिक्षा और सांस्कृतिक गतिविधियों में विकास और सकारात्मक प्रगति।"
+    },
+    "relationships": {
+      "en": "Relationships flourish with kindness, understanding, and harmony.",
+      "hi": "संबंधों में मधुरता, समझदारी और सामंजस्य बढ़ता है।"
+    },
+    "money": {
+      "en": "Financial matters benefit indirectly through optimism and cultural growth.",
+      "hi": "आर्थिक मामलों में आशावाद और सांस्कृतिक विकास के माध्यम से अप्रत्यक्ष लाभ।"
+    },
+    "health_adj": {
+      "en": "Emotional well-being improves with optimism and joyful outlook.",
+      "hi": "आशावाद और आनंदमय दृष्टिकोण से भावनात्मक स्वास्थ्य में सुधार।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational advancement",
+      "Cultural enrichment",
+      "Emotional growth",
+      "Improved relationships"
+    ],
+    "hi": [
+      "शैक्षिक उन्नति",
+      "सांस्कृतिक समृद्धि",
+      "भावनात्मक विकास",
+      "संबंधों में सुधार"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks noted; maintain balance in optimism."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; आशावाद में संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in educational and cultural activities.",
+        "Foster kindness and understanding in relationships."
+      ],
+      "hi": [
+        "शैक्षिक और सांस्कृतिक गतिविधियों में भाग लें।",
+        "संबंधों में मधुरता और समझदारी बढ़ाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on emotional growth and optimism.",
+        "Celebrate cultural and educational achievements."
+      ],
+      "hi": [
+        "भावनात्मक विकास और आशावाद पर ध्यान दें।",
+        "सांस्कृतिक और शैक्षिक उपलब्धियों का उत्सव मनाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain kindness and understanding to sustain relationships."
+      ],
+      "hi": [
+        "संबंधों को बनाए रखने के लिए मधुरता और समझदारी बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "joyful",
+      "optimistic",
+      "growth",
+      "education",
+      "culture",
+      "emotions",
+      "kindness",
+      "understanding",
+      "relationships"
+    ],
+    "hi": [
+      "उदार",
+      "आशावादी",
+      "विकास",
+      "शिक्षा",
+      "संस्कृति",
+      "भावनाएँ",
+      "मधुरता",
+      "समझदारी",
+      "संबंध"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "harmonious",
+      "growth-oriented",
+      "joyful"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "सामंजस्यपूर्ण",
+      "विकासोन्मुख",
+      "आनंदमय"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional growth",
+      "cultural enrichment",
+      "relationship harmony"
+    ],
+    "hi": [
+      "भावनात्मक विकास",
+      "सांस्कृतिक समृद्धि",
+      "संबंधों में सामंजस्य"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-tri-ven",
+      "core": "Joy, optimism, and growth in education, culture, and relationships.",
+      "tone": "Warm, positive, and encouraging."
+    },
+    "hi": {
+      "title": "बृहस्पति त्रिकोण शुक्र",
+      "core": "आनंद, आशावाद, और शिक्षा, संस्कृति तथा संबंधों में विकास।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक, और प्रोत्साहित करने वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person is joyful and optimistic, with growth in education, culture, and emotions. Relationships flourish with kindness and understanding.",
+        "hi": "व्यक्ित उदारता और आशावाद में रहता है तथा श्िाक्षा, संस्कृति एवं मनोरंजन में भी उत्सव होता है। अन्य के साथ सम्बन्धों में मधुरता बढ़ती है।"
+      },
+      "career": {
+        "en": "Growth and positive development in education and cultural pursuits.",
+        "hi": "शिक्षा और सांस्कृतिक गतिविधियों में विकास और सकारात्मक प्रगति।"
+      },
+      "relationships": {
+        "en": "Relationships flourish with kindness, understanding, and harmony.",
+        "hi": "संबंधों में मधुरता, समझदारी और सामंजस्य बढ़ता है।"
+      },
+      "money": {
+        "en": "Financial matters benefit indirectly through optimism and cultural growth.",
+        "hi": "आर्थिक मामलों में आशावाद और सांस्कृतिक विकास के माध्यम से अप्रत्यक्ष लाभ।"
+      },
+      "health_adj": {
+        "en": "Emotional well-being improves with optimism and joyful outlook.",
+        "hi": "आशावाद और आनंदमय दृष्टिकोण से भावनात्मक स्वास्थ्य में सुधार।"
+      }
+    },
+    "aliases": [
+      "Jupiter trine Venus",
+      "Jup TRI Ven",
+      "Jupiter-Trine-Venus",
+      "Jupiter Trine to Venus"
+    ]
+  }
+}

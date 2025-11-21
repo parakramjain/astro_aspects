@@ -1,0 +1,250 @@
+{
+  "id": "JUP_OPP_JUP__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Opposition",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Tendency towards false optimism, unreliability, overspending, and risk of deception. Conflicts in religious, spiritual, cultural, or social areas. Possible legal issues and unexpected high travel costs. Business fluctuations and financial losses due to overspending.",
+    "hi": "झूठे आशावाद, अविश्वसनीयता, अत्यधिक खर्च और धोखे का खतरा रहता है। धार्मिक, आध्यात्मिक, सांस्कृतिक या सामाजिक क्षेत्रों में मतभेद होते हैं। कानूनी समस्याएं और यात्रा में अप्रत्याशित अधिक खर्च संभव है। व्यवसाय में उतार-चढ़ाव और अत्यधिक खर्च से वित्तीय हानि होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business fluctuations causing losses and instability.",
+      "hi": "व्यवसाय में उतार-चढ़ाव से हानि और अस्थिरता।"
+    },
+    "relationships": {
+      "en": "Disagreements in religious, spiritual, cultural, or social matters; risk of deception by close associates; superficial behavior to avoid misunderstandings.",
+      "hi": "धार्मिक, आध्यात्मिक, सांस्कृतिक या सामाजिक मामलों में मतभेद; निकट संबंधियों से धोखे का खतरा; गलतफहमी से बचने के लिए दिखावटी व्यवहार।"
+    },
+    "money": {
+      "en": "Overspending leading to financial damage; travel expenses exceeding expectations.",
+      "hi": "अत्यधिक खर्च से वित्तीय हानि; यात्रा खर्च अपेक्षा से अधिक।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Legal issues",
+      "Travel expenses",
+      "Business fluctuations",
+      "Social or cultural disagreements"
+    ],
+    "hi": [
+      "कानूनी समस्याएं",
+      "यात्रा खर्च",
+      "व्यवसाय में उतार-चढ़ाव",
+      "सामाजिक या सांस्कृतिक मतभेद"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "False optimism may lead to poor decisions.",
+      "Risk of deception from close associates.",
+      "Overspending can cause financial harm.",
+      "Legal troubles are possible."
+    ],
+    "hi": [
+      "झूठा आशावाद गलत निर्णयों का कारण बन सकता है।",
+      "निकट संबंधियों से धोखे का खतरा।",
+      "अत्यधिक खर्च से वित्तीय हानि हो सकती है।",
+      "कानूनी समस्याएं संभव हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in financial matters.",
+        "Be mindful of social and cultural differences.",
+        "Avoid superficial behavior; seek clarity in relationships."
+      ],
+      "hi": [
+        "वित्तीय मामलों में सावधानी बरतें।",
+        "सामाजिक और सांस्कृतिक मतभेदों का ध्यान रखें।",
+        "दिखावटी व्यवहार से बचें; संबंधों में स्पष्टता बनाए रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Review expenses carefully, especially travel costs.",
+        "Be alert to possible deception from close associates.",
+        "Prepare for potential legal or social disagreements."
+      ],
+      "hi": [
+        "खर्चों की विशेष रूप से यात्रा खर्च की समीक्षा करें।",
+        "निकट संबंधियों से धोखे के लिए सतर्क रहें।",
+        "संभावित कानूनी या सामाजिक मतभेदों के लिए तैयार रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Financial situation may stabilize; reduce overspending.",
+        "Misunderstandings in relationships may lessen.",
+        "Legal and social tensions may ease."
+      ],
+      "hi": [
+        "वित्तीय स्थिति स्थिर हो सकती है; अत्यधिक खर्च कम करें।",
+        "संबंधों में गलतफहमियां कम हो सकती हैं।",
+        "कानूनी और सामाजिक तनाव कम हो सकते हैं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "false optimism",
+      "unreliability",
+      "overspending",
+      "deception",
+      "legal troubles",
+      "travel expenses",
+      "business fluctuations",
+      "social disagreements"
+    ],
+    "hi": [
+      "झूठा आशावाद",
+      "अविश्वसनीयता",
+      "अत्यधिक खर्च",
+      "धोखा",
+      "कानूनी समस्याएं",
+      "यात्रा खर्च",
+      "व्यवसाय में उतार-चढ़ाव",
+      "सामाजिक मतभेद"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "caution",
+      "instability",
+      "risk",
+      "conflict"
+    ],
+    "hi": [
+      "सावधानी",
+      "अस्थिरता",
+      "जोखिम",
+      "संघर्ष"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "financial caution",
+      "social conflict",
+      "legal challenges",
+      "relationship misunderstandings"
+    ],
+    "hi": [
+      "वित्तीय सावधानी",
+      "सामाजिक संघर्ष",
+      "कानूनी चुनौतियां",
+      "संबंधों में गलतफहमी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-opp-jup",
+      "core": "This aspect indicates challenges with false optimism, overspending, social disagreements, and possible legal issues.",
+      "tone": "Neutral, cautious, and informative."
+    },
+    "hi": {
+      "title": "बृहस्पति विपरीत बृहस्पति",
+      "core": "यह योग झूठे आशावाद, अत्यधिक खर्च, सामाजिक मतभेद और संभावित कानूनी समस्याओं को दर्शाता है।",
+      "tone": "निष्पक्ष, सावधान और सूचनात्मक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "False optimism, unreliability, overspending, risk of deception, social and legal conflicts.",
+        "hi": "झूठा आशावाद, अविश्वसनीयता, अत्यधिक खर्च, धोखे का खतरा, सामाजिक और कानूनी संघर्ष।"
+      },
+      "career": {
+        "en": "Business fluctuations causing losses and instability.",
+        "hi": "व्यवसाय में उतार-चढ़ाव से हानि और अस्थिरता।"
+      },
+      "relationships": {
+        "en": "Disagreements in religious, spiritual, cultural, or social matters; risk of deception by close associates; superficial behavior to avoid misunderstandings.",
+        "hi": "धार्मिक, आध्यात्मिक, सांस्कृतिक या सामाजिक मामलों में मतभेद; निकट संबंधियों से धोखे का खतरा; गलतफहमी से बचने के लिए दिखावटी व्यवहार।"
+      },
+      "money": {
+        "en": "Overspending leading to financial damage; travel expenses exceeding expectations.",
+        "hi": "अत्यधिक खर्च से वित्तीय हानि; यात्रा खर्च अपेक्षा से अधिक।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+      }
+    },
+    "aliases": [
+      "Jupiter opposition Jupiter",
+      "Jup OPP Jup",
+      "Jupiter-Opposition-Jupiter",
+      "Jupiter Opposition to Jupiter"
+    ]
+  }
+}

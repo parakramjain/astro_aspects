@@ -1,0 +1,259 @@
+{
+  "id": "URA_OPP_VEN__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Opposition",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Unstable emotional and romantic behavior marked by sudden changes, leading to personal conflicts and distance in relationships. Caution is needed due to careless habits and potential disputes in joint assets or partnerships.",
+    "hi": "अस्थिर भावनात्मक और रोमांटिक व्यवहार जिसमें अचानक परिवर्तन होते हैं, जिससे व्यक्तिगत मतभेद और संबंधों में दूरी बनती है। लापरवाही और संयुक्त संपत्ति या साझेदारी में विवाद की संभावना के कारण सावधानी आवश्यक है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Sudden problems may arise in joint assets or partnerships; implementing radical ideas can cause losses or disputes, especially involving business or inheritance.",
+      "hi": "संयुक्त संपत्ति या साझेदारी में अचानक समस्याएँ आ सकती हैं; उत्तेजक विचारों के क्रियान्वयन से हानि या विवाद हो सकते हैं, विशेषकर व्यवसाय या पैतृक संपत्ति में।"
+    },
+    "relationships": {
+      "en": "Distance may develop with unreliable friends, sexual partners, or old associates; unexpected romantic or emotional encounters can cause cracks in existing bonds.",
+      "hi": "अविश्वसनीय मित्रों, यौन साथियों या पुराने भागीदारों से दूरी बन सकती है; अप्रत्याशित रोमांटिक या भावनात्मक संबंध पुराने रिश्तों में दरार ला सकते हैं।"
+    },
+    "money": {
+      "en": "Risks of losses exist in joint assets, business partnerships, inheritance, dividends, and rapid advancement plans in technology, electronics, arts, or music.",
+      "hi": "संयुक्त संपत्ति, व्यवसाय साझेदारी, पैतृक संपत्ति, लाभांश और तकनीक, इलेक्ट्रॉनिक्स, कला या संगीत में तेजी से प्रगति की योजनाओं में हानि का जोखिम रहता है।"
+    },
+    "health_adj": {
+      "en": "Careless habits increase negligence toward responsibilities and security; caution is advised in emotional and personal matters.",
+      "hi": "लापरवाही की आदतें जिम्मेदारी और सुरक्षा के प्रति लापरवाही बढ़ाती हैं; भावनात्मक और व्यक्तिगत मामलों में सावधानी आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Romantic/emotional instability",
+      "Relationship conflicts",
+      "Unexpected romantic encounters",
+      "Business or partnership disputes"
+    ],
+    "hi": [
+      "रोमांटिक/भावनात्मक अस्थिरता",
+      "संबंधों में झगड़े",
+      "अप्रत्याशित रोमांटिक संबंध",
+      "व्यवसाय या साझेदारी विवाद"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential personal conflicts and distance in relationships",
+      "Losses or disputes in joint assets and partnerships",
+      "Negligence due to careless habits",
+      "Risks in rapid advancement plans in technology and arts"
+    ],
+    "hi": [
+      "व्यक्तिगत मतभेद और संबंधों में दूरी की संभावना",
+      "संयुक्त संपत्ति और साझेदारी में हानि या विवाद",
+      "लापरवाही की आदतों के कारण उपेक्षा",
+      "तकनीक और कला में तेजी से प्रगति की योजनाओं में जोखिम"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in emotional and romantic matters",
+        "Be vigilant about responsibilities and security",
+        "Monitor joint assets and partnerships carefully"
+      ],
+      "hi": [
+        "भावनात्मक और रोमांटिक मामलों में सावधानी बरतें",
+        "जिम्मेदारियों और सुरक्षा के प्रति सतर्क रहें",
+        "संयुक्त संपत्ति और साझेदारी पर ध्यान रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive romantic or emotional decisions",
+        "Refrain from implementing radical ideas without assessment",
+        "Communicate clearly to prevent misunderstandings"
+      ],
+      "hi": [
+        "आवेगपूर्ण रोमांटिक या भावनात्मक निर्णय न लें",
+        "बिना मूल्यांकन के उत्तेजक विचार लागू न करें",
+        "गलतफहमियों से बचने के लिए स्पष्ट संवाद करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons from conflicts and instability",
+        "Gradually restore trust in relationships",
+        "Reassess joint ventures and financial plans carefully"
+      ],
+      "hi": [
+        "झगड़ों और अस्थिरता से सीखें",
+        "संबंधों में विश्वास धीरे-धीरे पुनः स्थापित करें",
+        "संयुक्त उद्यमों और वित्तीय योजनाओं का सावधानी से पुनर्मूल्यांकन करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Unstable emotions",
+      "Sudden changes",
+      "Irresponsibility",
+      "Relationship distance",
+      "Unexpected encounters",
+      "Carelessness",
+      "Joint assets",
+      "Partnership disputes",
+      "Loss risk",
+      "Vigilance"
+    ],
+    "hi": [
+      "अस्थिर भावनाएँ",
+      "अचानक परिवर्तन",
+      "गैर-जिम्मेदारी",
+      "संबंधों में दूरी",
+      "अप्रत्याशित संबंध",
+      "लापरवाही",
+      "संयुक्त संपत्ति",
+      "साझेदारी विवाद",
+      "हानि का जोखिम",
+      "सतर्कता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Unstable",
+      "Cautious",
+      "Risk-prone",
+      "Emotional",
+      "Conflicted"
+    ],
+    "hi": [
+      "अस्थिर",
+      "सावधान",
+      "जोखिमपूर्ण",
+      "भावनात्मक",
+      "विवादित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Romantic instability",
+      "Emotional caution",
+      "Partnership challenges",
+      "Financial vigilance",
+      "Sudden change"
+    ],
+    "hi": [
+      "रोमांटिक अस्थिरता",
+      "भावनात्मक सावधानी",
+      "साझेदारी चुनौतियाँ",
+      "वित्तीय सतर्कता",
+      "अचानक परिवर्तन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-opp-ven",
+      "core": "This aspect indicates unstable emotional and romantic behavior with sudden changes, requiring caution in relationships and joint ventures.",
+      "tone": "Warm, neutral, and cautiously advisory"
+    },
+    "hi": {
+      "title": "यूरेनस विपक्ष वीनस",
+      "core": "यह योग अस्थिर भावनात्मक और रोमांटिक व्यवहार दर्शाता है जिसमें अचानक परिवर्तन होते हैं, जिससे संबंधों और संयुक्त कार्यों में सावधानी आवश्यक होती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सलाह देने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Unstable romantic/emotional behavior with sudden changes leads to personal conflicts and distance in relationships; caution advised.",
+        "hi": "अस्थिर रोमांटिक/भावनात्मक व्यवहार जिसमें अचानक परिवर्तन होते हैं, व्यक्तिगत मतभेद और संबंधों में दूरी बनती है; सावधानी आवश्यक।"
+      },
+      "career": {
+        "en": "Sudden problems in joint assets or partnerships; radical ideas may cause losses or disputes, especially in business or inheritance.",
+        "hi": "संयुक्त संपत्ति या साझेदारी में अचानक समस्याएँ; उत्तेजक विचार हानि या विवाद कर सकते हैं, विशेषकर व्यवसाय या पैतृक संपत्ति में।"
+      },
+      "relationships": {
+        "en": "Distance with unreliable friends, sexual partners, or old associates; unexpected romantic or emotional encounters cause cracks in bonds.",
+        "hi": "अविश्वसनीय मित्रों, यौन साथियों या पुराने भागीदारों से दूरी; अप्रत्याशित रोमांटिक या भावनात्मक संबंध रिश्तों में दरार लाते हैं।"
+      },
+      "money": {
+        "en": "Risk of losses in joint assets, business partnerships, inheritance, dividends, and rapid advancement in technology, arts, or music.",
+        "hi": "संयुक्त संपत्ति, व्यवसाय साझेदारी, पैतृक संपत्ति, लाभांश और तकनीक, कला या संगीत में तेजी से प्रगति की योजनाओं में हानि का जोखिम।"
+      },
+      "health_adj": {
+        "en": "Careless habits increase negligence toward responsibilities and security; caution advised in emotional and personal matters.",
+        "hi": "लापरवाही की आदतें जिम्मेदारी और सुरक्षा के प्रति उपेक्षा बढ़ाती हैं; भावनात्मक और व्यक्तिगत मामलों में सावधानी आवश्यक।"
+      }
+    },
+    "aliases": [
+      "Uranus opposition Venus",
+      "Ura OPP Ven",
+      "Uranus-Opposition-Venus",
+      "Uranus Opposition to Venus"
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "MER_OPP_MOO__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Opposition",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates a period of communication difficulties, especially with close relations, where thoughts and emotions are misaligned, causing misunderstandings and mental stress.",
+    "hi": "यह योग बातचीत में कठिनाइयों का समय दर्शाता है, खासकर करीबी संबंधों में, जहां विचार और भावनाएँ मेल नहीं खातीं, जिससे गलतफहमी और मानसिक तनाव होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Communication issues may cause misunderstandings or stress at work; avoid major decisions.",
+      "hi": "कार्यस्थल पर बातचीत में समस्याएं गलतफहमी या तनाव पैदा कर सकती हैं; बड़े निर्णय लेने से बचें।"
+    },
+    "relationships": {
+      "en": "Potential for arguments or misunderstandings with family or partners due to emotional and mental disconnect.",
+      "hi": "भावनात्मक और मानसिक असंतुलन के कारण परिवार या पार्टनर से झगड़ा या गलतफहमी हो सकती है।"
+    },
+    "money": {
+      "en": "Unplanned discussions may affect financial decisions; caution advised.",
+      "hi": "अनियोजित बातचीत वित्तीय निर्णयों को प्रभावित कर सकती है; सावधानी बरतें।"
+    },
+    "health_adj": {
+      "en": "Mental stress may impact health; maintain calm and avoid strain.",
+      "hi": "मानसिक तनाव स्वास्थ्य पर असर डाल सकता है; शांति बनाए रखें और तनाव से बचें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Communication challenges",
+      "Emotional tension",
+      "Mental stress"
+    ],
+    "hi": [
+      "बातचीत में कठिनाई",
+      "भावनात्मक तनाव",
+      "मानसिक तनाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased chance of misunderstandings or arguments",
+      "Mental unrest and stress",
+      "Avoid major decisions during this period"
+    ],
+    "hi": [
+      "गलतफहमी या झगड़े की संभावना बढ़ती है",
+      "मानसिक अशांति और तनाव",
+      "इस अवधि में बड़े निर्णय लेने से बचें"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful in communication to reduce misunderstandings",
+        "Stay calm and avoid emotional reactions",
+        "Postpone important decisions if possible"
+      ],
+      "hi": [
+        "गलतफहमी कम करने के लिए बातचीत में सावधानी रखें",
+        "शांत रहें और भावनात्मक प्रतिक्रिया से बचें",
+        "संभव हो तो महत्वपूर्ण निर्णय टालें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid confrontations with family or partners",
+        "Limit unplanned or sensitive discussions",
+        "Focus on calming the mind"
+      ],
+      "hi": [
+        "परिवार या पार्टनर से विवाद से बचें",
+        "अनियोजित या संवेदनशील बातचीत सीमित करें",
+        "मन को शांत करने पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual easing of mental tension",
+        "Improved alignment of thoughts and emotions",
+        "Better communication flow"
+      ],
+      "hi": [
+        "मानसिक तनाव में धीरे-धीरे कमी",
+        "विचारों और भावनाओं में बेहतर तालमेल",
+        "बातचीत में सुधार"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "misunderstandings",
+      "arguments",
+      "communication",
+      "mental stress",
+      "emotional disconnect",
+      "tension",
+      "avoid decisions"
+    ],
+    "hi": [
+      "गलतफहमी",
+      "झगड़ा",
+      "बातचीत",
+      "मानसिक तनाव",
+      "भावनात्मक असंतुलन",
+      "तनाव",
+      "निर्णय से बचाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "stressful",
+      "tense",
+      "unstable"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "तनावपूर्ण",
+      "तनावयुक्त",
+      "अस्थिर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication difficulties",
+      "emotional tension",
+      "mental unrest"
+    ],
+    "hi": [
+      "बातचीत में कठिनाई",
+      "भावनात्मक तनाव",
+      "मानसिक अशांति"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-opp-moo",
+      "core": "A time marked by communication challenges and emotional tension, causing mental stress and unsettled feelings.",
+      "tone": "Neutral, cautious, and supportive"
+    },
+    "hi": {
+      "title": "बुध का चंद्रमा के विपरीत योग",
+      "core": "यह समय बातचीत में कठिनाई और भावनात्मक तनाव से भरा होता है, जिससे मानसिक तनाव और अस्थिरता होती है।",
+      "tone": "निष्पक्ष, सतर्क और सहायक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This aspect indicates a period of communication difficulties, especially with close relations, where thoughts and emotions are misaligned, causing misunderstandings and mental stress.",
+        "hi": "यह योग बातचीत में कठिनाइयों का समय दर्शाता है, खासकर करीबी संबंधों में, जहां विचार और भावनाएँ मेल नहीं खातीं, जिससे गलतफहमी और मानसिक तनाव होता है।"
+      },
+      "career": {
+        "en": "Communication issues may cause misunderstandings or stress at work; avoid major decisions.",
+        "hi": "कार्यस्थल पर बातचीत में समस्याएं गलतफहमी या तनाव पैदा कर सकती हैं; बड़े निर्णय लेने से बचें।"
+      },
+      "relationships": {
+        "en": "Potential for arguments or misunderstandings with family or partners due to emotional and mental disconnect.",
+        "hi": "भावनात्मक और मानसिक असंतुलन के कारण परिवार या पार्टनर से झगड़ा या गलतफहमी हो सकती है।"
+      },
+      "money": {
+        "en": "Unplanned discussions may affect financial decisions; caution advised.",
+        "hi": "अनियोजित बातचीत वित्तीय निर्णयों को प्रभावित कर सकती है; सावधानी बरतें।"
+      },
+      "health_adj": {
+        "en": "Mental stress may impact health; maintain calm and avoid strain.",
+        "hi": "मानसिक तनाव स्वास्थ्य पर असर डाल सकता है; शांति बनाए रखें और तनाव से बचें।"
+      }
+    },
+    "aliases": [
+      "Mercury opposition Moon",
+      "Mer OPP Moo",
+      "Mercury-Opposition-Moon",
+      "Mercury Opposition to Moon"
+    ]
+  }
+}

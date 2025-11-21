@@ -1,0 +1,247 @@
+{
+  "id": "MAR_OPP_VEN__v1.0.0",
+  "pair": [
+    "Mars",
+    "Opposition",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased desires, emotional intensity, and excitement can lead to selfishness and disregard for others' feelings, especially in sexual and emotional relationships.",
+    "hi": "इच्छाओं, भावनात्मक तीव्रता और उत्तेजना में वृद्धि से स्वार्थ और दूसरों की भावनाओं की अनदेखी हो सकती है, विशेषकर यौन और भावनात्मक संबंधों में।"
+  },
+  "facets": {
+    "career": {
+      "en": "Potential conflicts or arguments may arise in important professional partnerships.",
+      "hi": "महत्वपूर्ण पेशेवर साझेदारियों में विवाद या झगड़े हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "Sexual or emotional relationships may become physically driven or selfish, with increased disregard for others' feelings and growing selfishness.",
+      "hi": "यौन या भावनात्मक संबंध शारीरिक आकर्षण या स्वार्थ पर आधारित हो सकते हैं, दूसरों की भावनाओं की परवाह कम हो जाती है और स्वार्थ बढ़ता है।"
+    },
+    "money": {
+      "en": "Overspending can create distance in relationships; dealings with self-centered people in financial matters may occur.",
+      "hi": "अत्यधिक खर्च से रिश्तों में दूरियाँ बनती हैं; आर्थिक मामलों में स्वार्थी लोगों से व्यवहार हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Emotional anger and extreme emotionality may increase, affecting overall emotional well-being.",
+      "hi": "भावनात्मक क्रोध और अत्यधिक भावुकता बढ़ सकती है, जो समग्र भावनात्मक स्वास्थ्य को प्रभावित कर सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional or sexual relationship challenges",
+      "Professional partnership conflicts",
+      "Financial overspending issues"
+    ],
+    "hi": [
+      "भावनात्मक या यौन संबंधों की चुनौतियाँ",
+      "पेशेवर साझेदारी में विवाद",
+      "आर्थिक अत्यधिक खर्च की समस्याएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased selfishness may harm relationships",
+      "Conflicts in professional and personal partnerships",
+      "Overspending leading to relational distance"
+    ],
+    "hi": [
+      "स्वार्थ बढ़ने से रिश्तों को नुकसान हो सकता है",
+      "पेशेवर और व्यक्तिगत साझेदारियों में विवाद",
+      "अत्यधिक खर्च से रिश्तों में दूरी"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of others' feelings in relationships",
+        "Monitor spending habits to avoid conflicts",
+        "Communicate openly in professional partnerships"
+      ],
+      "hi": [
+        "रिश्तों में दूसरों की भावनाओं का ध्यान रखें",
+        "विवाद से बचने के लिए खर्च पर नियंत्रण रखें",
+        "पेशेवर साझेदारी में खुलकर संवाद करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid selfish behavior in emotional and sexual matters",
+        "Address conflicts calmly and constructively",
+        "Review financial decisions carefully"
+      ],
+      "hi": [
+        "भावनात्मक और यौन मामलों में स्वार्थी व्यवहार से बचें",
+        "विवादों को शांतिपूर्ण और रचनात्मक तरीके से सुलझाएं",
+        "आर्थिक निर्णयों की सावधानी से समीक्षा करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional reactions and desires",
+        "Reassess relationship dynamics for balance",
+        "Plan financial matters with caution"
+      ],
+      "hi": [
+        "भावनात्मक प्रतिक्रियाओं और इच्छाओं पर विचार करें",
+        "संतुलन के लिए संबंधों की स्थिति पुनः मूल्यांकन करें",
+        "आर्थिक मामलों की सावधानीपूर्वक योजना बनाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "desires",
+      "emotional intensity",
+      "selfishness",
+      "sexual relationships",
+      "emotional anger",
+      "conflicts",
+      "overspending",
+      "professional partnerships"
+    ],
+    "hi": [
+      "इच्छाएँ",
+      "भावनात्मक तीव्रता",
+      "स्वार्थ",
+      "यौन संबंध",
+      "भावनात्मक क्रोध",
+      "विवाद",
+      "अत्यधिक खर्च",
+      "पेशेवर साझेदारी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "intense",
+      "conflict-prone",
+      "self-centered"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "तीव्र",
+      "विवाद-प्रवण",
+      "स्वार्थी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "relationship dynamics",
+      "emotional challenges",
+      "financial caution",
+      "professional tension"
+    ],
+    "hi": [
+      "संबंधों की स्थिति",
+      "भावनात्मक चुनौतियाँ",
+      "आर्थिक सतर्कता",
+      "पेशेवर तनाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-opp-ven",
+      "core": "This aspect increases desires and emotional intensity, often leading to selfishness and conflicts in relationships and partnerships.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "मंगल विरोध शुक्र",
+      "core": "यह योग इच्छाओं और भावनात्मक तीव्रता को बढ़ाता है, जिससे स्वार्थ और संबंधों व साझेदारियों में विवाद हो सकते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Desires, extreme emotionality, excitement, or emotional anger increases. During this time, the person's sexual or emotional relationships may become physically driven or selfish. They disregard others' feelings. Selfishness grows in nature.",
+        "hi": "इच्छाएँए अत्यधिक भावुकताए उत्तेजना या भावनात्मक क्रोध बढ़ता है। इस समय व्यक्ति के यौन या भावनात्मक संबंध शारीरिक आकर्षण या स्वार्थ पर आधारित हो सकते हैं। वह दूसरों की भावनाओं की परवाह नहीं करता। स्वभाव में स्वार्थ बढ़ता है।"
+      },
+      "career": {
+        "en": "Conflicts or arguments may arise in important professional partnerships.",
+        "hi": "महत्वपूर्ण पेशेवर स्थितियों या साझेदारी में विवाद या झगड़े हो सकते हैं।"
+      },
+      "relationships": {
+        "en": "During this time, the person's sexual or emotional relationships may become physically driven or selfish. They disregard others' feelings. Selfishness grows in nature.",
+        "hi": "इस समय व्यक्ति के यौन या भावनात्मक संबंध शारीरिक आकर्षण या स्वार्थ पर आधारित हो सकते हैं। वह दूसरों की भावनाओं की परवाह नहीं करता। स्वभाव में स्वार्थ बढ़ता है।"
+      },
+      "money": {
+        "en": "Dealings with self-centered people in sexual/financial matters occur. Overspending creates distance in relationships.",
+        "hi": "यौनिक या आर्थिक मामलों में स्वार्थी लोगों से व्यवहार होता है। अत्यधिक खर्च से रिश्तों में दूरियाँ बनती हैं।"
+      },
+      "health_adj": {
+        "en": "Extreme emotionality and emotional anger increase.",
+        "hi": "अत्यधिक भावुकता या भावनात्मक क्रोध बढ़ता है।"
+      }
+    },
+    "aliases": [
+      "Mars opposition Venus",
+      "Mar OPP Ven",
+      "Mars-Opposition-Venus",
+      "Mars Opposition to Venus"
+    ]
+  }
+}

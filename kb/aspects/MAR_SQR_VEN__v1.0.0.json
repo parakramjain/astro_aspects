@@ -1,0 +1,243 @@
+{
+  "id": "MAR_SQR_VEN__v1.0.0",
+  "pair": [
+    "Mars",
+    "Square",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates increased reactivity and conflict in relationships, difficulty in channeling creative energy constructively, and potential financial and professional challenges, especially involving women.",
+    "hi": "यह योग संबंधों में बढ़ी हुई प्रतिक्रिया और संघर्ष, रचनात्मक ऊर्जा को सही दिशा में लगाना कठिन होना, तथा विशेषकर महिलाओं के साथ आर्थिक और व्यवसायिक चुनौतियाँ दर्शाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Challenges may arise in professional settings, particularly in dealings involving women.",
+      "hi": "व्यवसायिक क्षेत्र में, खासकर महिलाओं से जुड़े मामलों में समस्याएँ आ सकती हैं।"
+    },
+    "relationships": {
+      "en": "The person tends to be reactive and prone to conflicts in relationships.",
+      "hi": "व्यक्ति संबंधों में प्रतिक्रिया करने वाला और संघर्षपूर्ण रहता है।"
+    },
+    "money": {
+      "en": "Financial difficulties may occur, especially related to women.",
+      "hi": "आर्थिक समस्याएँ हो सकती हैं, विशेषकर महिलाओं से संबंधित।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments are indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Relationship conflicts",
+      "Creative challenges",
+      "Financial or professional difficulties"
+    ],
+    "hi": [
+      "संबंधों में संघर्ष",
+      "रचनात्मक चुनौतियाँ",
+      "आर्थिक या व्यवसायिक कठिनाइयाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased interpersonal conflict",
+      "Difficulty managing creative impulses",
+      "Potential financial strain involving women"
+    ],
+    "hi": [
+      "अधिकतर पारस्परिक संघर्ष",
+      "रचनात्मक प्रवृत्तियों का प्रबंधन कठिन",
+      "महिलाओं से जुड़ी आर्थिक दबाव की संभावना"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of reactions in relationships to reduce conflicts",
+        "Seek constructive outlets for creative energy",
+        "Exercise caution in financial and professional matters involving women"
+      ],
+      "hi": [
+        "संबंधों में प्रतिक्रिया पर ध्यान दें ताकि संघर्ष कम हों",
+        "रचनात्मक ऊर्जा को सकारात्मक दिशा दें",
+        "महिलाओं से जुड़े आर्थिक और व्यवसायिक मामलों में सावधानी बरतें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive reactions in close relationships",
+        "Focus on channeling creativity productively",
+        "Monitor financial decisions carefully"
+      ],
+      "hi": [
+        "निकट संबंधों में आवेगी प्रतिक्रिया से बचें",
+        "रचनात्मकता को उत्पादक रूप में लगाएं",
+        "आर्थिक निर्णयों पर सावधानी रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past conflicts to improve future interactions",
+        "Reassess creative approaches for better outcomes",
+        "Review financial and professional challenges for lessons"
+      ],
+      "hi": [
+        "भूतपूर्व संघर्षों पर विचार करें ताकि भविष्य में सुधार हो",
+        "बेहतर परिणाम के लिए रचनात्मक तरीकों का पुनर्मूल्यांकन करें",
+        "आर्थिक और व्यवसायिक चुनौतियों से सीख लें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "reactivity",
+      "conflict",
+      "creative energy",
+      "financial challenges",
+      "professional challenges",
+      "women"
+    ],
+    "hi": [
+      "प्रतिक्रिया",
+      "संघर्ष",
+      "रचनात्मक ऊर्जा",
+      "आर्थिक समस्याएँ",
+      "व्यवसायिक समस्याएँ",
+      "महिलाएँ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "reactive",
+      "conflict-prone",
+      "creative difficulty",
+      "financial caution"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "प्रतिक्रियाशील",
+      "संघर्षपूर्ण",
+      "रचनात्मक कठिनाई",
+      "आर्थिक सतर्कता"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "relationship tension",
+      "creative struggle",
+      "financial caution"
+    ],
+    "hi": [
+      "संबंधों में तनाव",
+      "रचनात्मक संघर्ष",
+      "आर्थिक सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-squ-ven",
+      "core": "This aspect highlights increased conflict in relationships, difficulty in constructive creativity, and financial or professional challenges, especially involving women.",
+      "tone": "Warm, neutral, and cautiously informative"
+    },
+    "hi": {
+      "title": "मंगल वर्ग शुक्र",
+      "core": "यह योग संबंधों में बढ़े हुए संघर्ष, रचनात्मकता में कठिनाई, और विशेषकर महिलाओं से जुड़ी आर्थिक या व्यवसायिक समस्याओं को दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Increased reactivity and conflict in relationships; difficulty channeling creative energy; financial and professional challenges especially with women.",
+        "hi": "संबंधों में बढ़ी हुई प्रतिक्रिया और संघर्ष; रचनात्मक ऊर्जा को सही दिशा में लगाना कठिन; महिलाओं से जुड़ी आर्थिक और व्यवसायिक समस्याएँ।"
+      },
+      "career": {
+        "en": "Professional challenges may arise, particularly in interactions involving women.",
+        "hi": "व्यवसायिक क्षेत्र में, खासकर महिलाओं से जुड़े मामलों में समस्याएँ आ सकती हैं।"
+      },
+      "relationships": {
+        "en": "Tendency toward reactivity and conflict in relationships.",
+        "hi": "संबंधों में प्रतिक्रिया और संघर्ष की प्रवृत्ति।"
+      },
+      "money": {
+        "en": "Financial difficulties may occur, especially related to women.",
+        "hi": "आर्थिक समस्याएँ हो सकती हैं, विशेषकर महिलाओं से संबंधित।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+      }
+    },
+    "aliases": [
+      "Mars square Venus",
+      "Mar SQR Ven",
+      "Mars-Square-Venus",
+      "Mars Square to Venus"
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "id": "URA_TRI_SUN__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Trine",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period marked by creativity, social engagement, and assistance work, bringing excitement and change in emotional and artistic inspiration. Leadership opportunities arise, efforts meet success, and wealth is maximized through cooperation and swift completion. Teaching and travel may experience significant expansion.",
+    "hi": "यह समय सृजनशीलता, सामाजिक कार्य और सहायता के कार्यों से जुड़ा होता है, जिसमें भावनात्मक और कलात्मक प्रेरणा में उत्साह और परिवर्तन होता है। नेतृत्व क्षमता प्रदर्शित करने के अवसर मिलते हैं, प्रयास सफल होते हैं, और सहयोग व तेजी से कार्य पूर्ण करने से अधिकतम संपन्नता मिलती है। शिक्षण और यात्रा में महत्वपूर्ण विस्तार हो सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities to demonstrate leadership skills and achieve success; significant expansion possible in teaching and travel-related activities.",
+      "hi": "नेतृत्व क्षमता दिखाने के अवसर और सफलता प्राप्ति; शिक्षण और यात्रा से जुड़े कार्यों में महत्वपूर्ण विस्तार संभव है।"
+    },
+    "relationships": {
+      "en": "Cooperation with friends enhances success and wealth; social and assistance-oriented engagements are prominent.",
+      "hi": "मित्रों के साथ सहयोग से सफलता और संपन्नता बढ़ती है; सामाजिक और सहायता कार्य प्रमुख रहते हैं।"
+    },
+    "money": {
+      "en": "Maximum wealth gained through cooperation and speedy completion of tasks.",
+      "hi": "सहयोग और तेजी से कार्य पूर्ण करने से अधिकतम संपन्नता प्राप्त होती है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus is on emotional and creative inspiration.",
+      "hi": "स्वास्थ्य संबंधी विशेष सुझाव नहीं; ध्यान भावनात्मक और रचनात्मक प्रेरणा पर है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative inspiration",
+      "Leadership opportunities",
+      "Social cooperation",
+      "Teaching and travel expansion"
+    ],
+    "hi": [
+      "रचनात्मक प्रेरणा",
+      "नेतृत्व के अवसर",
+      "सामाजिक सहयोग",
+      "शिक्षण और यात्रा का विस्तार"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative and social projects",
+        "Seek leadership roles",
+        "Collaborate with friends and peers",
+        "Plan for teaching or travel expansions"
+      ],
+      "hi": [
+        "रचनात्मक और सामाजिक परियोजनाओं में भाग लें",
+        "नेतृत्व की भूमिकाएं खोजें",
+        "मित्रों और साथियों के साथ सहयोग करें",
+        "शिक्षण या यात्रा के विस्तार की योजना बनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Demonstrate leadership skills",
+        "Embrace changes in creative inspiration",
+        "Complete tasks swiftly with cooperation"
+      ],
+      "hi": [
+        "नेतृत्व क्षमता प्रदर्शित करें",
+        "रचनात्मक प्रेरणा में बदलाव स्वीकार करें",
+        "सहयोग से तेजी से कार्य पूर्ण करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain momentum in creative and social efforts",
+        "Continue fostering cooperation for success"
+      ],
+      "hi": [
+        "रचनात्मक और सामाजिक प्रयासों में गति बनाए रखें",
+        "सफलता के लिए सहयोग को बढ़ावा देते रहें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "creativity",
+      "social work",
+      "assistance",
+      "emotional inspiration",
+      "leadership",
+      "success",
+      "cooperation",
+      "wealth",
+      "teaching",
+      "travel",
+      "expansion"
+    ],
+    "hi": [
+      "सृजनशीलता",
+      "सामाजिक कार्य",
+      "सहायिका",
+      "भावनात्मक प्रेरणा",
+      "नेतृत्व",
+      "सफलता",
+      "सहयोग",
+      "संपन्नता",
+      "शिक्षण",
+      "यात्रा",
+      "विस्तार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "social",
+      "supportive",
+      "inspirational",
+      "opportunity",
+      "successful",
+      "expansive"
+    ],
+    "hi": [
+      "रचनात्मक",
+      "सामाजिक",
+      "सहायक",
+      "प्रेरणादायक",
+      "अवसर",
+      "सफल",
+      "विस्तारित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity and inspiration",
+      "leadership and success",
+      "cooperation and wealth",
+      "teaching and travel expansion"
+    ],
+    "hi": [
+      "रचनात्मकता और प्रेरणा",
+      "नेतृत्व और सफलता",
+      "सहयोग और संपन्नता",
+      "शिक्षण और यात्रा का विस्तार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-tri-sun",
+      "core": "A time of creative excitement and social cooperation, offering leadership opportunities and success through collaboration and swift action.",
+      "tone": "Warm, encouraging, and optimistic"
+    },
+    "hi": {
+      "title": "यूरेनस त्रिकोण सूर्य",
+      "core": "रचनात्मक उत्साह और सामाजिक सहयोग का समय, जो नेतृत्व के अवसर और सहयोग व तेजी से कार्य पूर्ण करने से सफलता प्रदान करता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A period marked by creativity, social engagement, and assistance work, bringing excitement and change in emotional and artistic inspiration. Leadership opportunities arise, efforts meet success, and wealth is maximized through cooperation and swift completion. Teaching and travel may experience significant expansion.",
+        "hi": "यह समय सृजनशीलता, सामाजिक कार्य और सहायता के कार्यों से जुड़ा होता है, जिसमें भावनात्मक और कलात्मक प्रेरणा में उत्साह और परिवर्तन होता है। नेतृत्व क्षमता प्रदर्शित करने के अवसर मिलते हैं, प्रयास सफल होते हैं, और सहयोग व तेजी से कार्य पूर्ण करने से अधिकतम संपन्नता मिलती है। शिक्षण और यात्रा में महत्वपूर्ण विस्तार हो सकता है।"
+      },
+      "career": {
+        "en": "Opportunities to demonstrate leadership skills and achieve success; significant expansion possible in teaching and travel-related activities.",
+        "hi": "नेतृत्व क्षमता दिखाने के अवसर और सफलता प्राप्ति; शिक्षण और यात्रा से जुड़े कार्यों में महत्वपूर्ण विस्तार संभव है।"
+      },
+      "relationships": {
+        "en": "Cooperation with friends enhances success and wealth; social and assistance-oriented engagements are prominent.",
+        "hi": "मित्रों के साथ सहयोग से सफलता और संपन्नता बढ़ती है; सामाजिक और सहायता कार्य प्रमुख रहते हैं।"
+      },
+      "money": {
+        "en": "Maximum wealth gained through cooperation and speedy completion of tasks.",
+        "hi": "सहयोग और तेजी से कार्य पूर्ण करने से अधिकतम संपन्नता प्राप्त होती है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; focus is on emotional and creative inspiration.",
+        "hi": "स्वास्थ्य संबंधी विशेष सुझाव नहीं; ध्यान भावनात्मक और रचनात्मक प्रेरणा पर है।"
+      }
+    },
+    "aliases": [
+      "Uranus trine Sun",
+      "Ura TRI Sun",
+      "Uranus-Trine-Sun",
+      "Uranus Trine to Sun"
+    ]
+  }
+}

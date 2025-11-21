@@ -1,0 +1,150 @@
+{
+  "id": "MER_SEX_VEN__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Sextile",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Mercury and Venus opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": "Negotiation, analytics, documentation, skilling.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
+    "relationships": "Dialog, problem-solving, curiosity.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
+    "money": "Trading, freelancing, multi-stream income, contracts.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
+    "health_adj": "Nervous system, breath, routine mobility.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution.",
+    "People-pleasing → scope creep; set clear give-and-get."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "affection",
+    "analysis",
+    "art",
+    "commerce",
+    "communication",
+    "harmony",
+    "learning",
+    "opportunity",
+    "pleasure",
+    "sextile",
+    "skill",
+    "tech",
+    "values"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic",
+    "external-opportunity"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "",
+    "Relationship Tone",
+    "Wealth & Pricing",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Mercury Sextile Venus",
+      "core": "Sextile between Mercury and Venus opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Mercury Sextile Venus (हिन्दी)",
+      "core": "Mercury और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Mercury and Venus opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": "Negotiation, analytics, documentation, skilling.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
+      "relationships": "Dialog, problem-solving, curiosity.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
+      "money": "Trading, freelancing, multi-stream income, contracts.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
+      "health_adj": "Nervous system, breath, routine mobility.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+    },
+    "aliases": [
+      "Mercury sextile Venus",
+      "Mer SEX Ven",
+      "Mercury-Sextile-Venus",
+      "Mercury Sextile to Venus"
+    ]
+  }
+}

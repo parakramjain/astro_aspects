@@ -1,0 +1,239 @@
+{
+  "id": "MOO_OPP_SAT__v1.0.0",
+  "pair": [
+    "Moon",
+    "Opposition",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates increased mental stress, emotional coldness, and distancing in relationships, especially with elders or female coworkers. Responsibilities feel burdensome and confidence may decline.",
+    "hi": "यह योग मानसिक दबाव, भावनात्मक ठंडापन और रिश्तों में दूरी बढ़ने का संकेत देता है, खासकर बुजुर्गों या महिला सहयोगियों के साथ। जिम्मेदारियां भारी लगती हैं और आत्मविश्वास कम हो सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work responsibilities may feel tiring and interactions with female coworkers can become distant or harsh.",
+      "hi": "काम की जिम्मेदारियां थकाने वाली लग सकती हैं और महिला सहयोगियों से संबंध दूर या कठोर हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "Emotional distancing and a sense of coldness may arise, especially with elders or female colleagues.",
+      "hi": "भावनात्मक दूरी और ठंडापन महसूस हो सकता है, विशेषकर बुजुर्गों या महिला सहयोगियों के साथ।"
+    },
+    "money": {
+      "en": "No specific financial effects are indicated.",
+      "hi": "वित्तीय प्रभाव स्पष्ट रूप से नहीं बताए गए हैं।"
+    },
+    "health_adj": {
+      "en": "Mental stress and health issues may increase during this period.",
+      "hi": "मानसिक दबाव और स्वास्थ्य संबंधी समस्याएं बढ़ सकती हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Increased responsibilities",
+      "Emotional distancing",
+      "Health challenges"
+    ],
+    "hi": [
+      "बढ़ी हुई जिम्मेदारियां",
+      "भावनात्मक दूरी",
+      "स्वास्थ्य संबंधी चुनौतियां"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Mental stress may rise",
+      "Relationships with elders or female coworkers may become strained",
+      "Confidence levels may decrease"
+    ],
+    "hi": [
+      "मानसिक दबाव बढ़ सकता है",
+      "बुजुर्गों या महिला सहयोगियों के साथ संबंध तनावपूर्ण हो सकते हैं",
+      "आत्मविश्वास में कमी आ सकती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of emotional coldness in interactions",
+        "Manage responsibilities carefully to avoid burnout"
+      ],
+      "hi": [
+        "संबंधों में भावनात्मक ठंडापन समझें",
+        "थकान से बचने के लिए जिम्मेदारियों को सावधानी से संभालें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Take extra care of mental health",
+        "Communicate gently with elders and female coworkers"
+      ],
+      "hi": [
+        "मानसिक स्वास्थ्य का विशेष ध्यान रखें",
+        "बुजुर्गों और महिला सहयोगियों से सौम्यता से बात करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual relief from stress and emotional distance may occur",
+        "Confidence can begin to improve"
+      ],
+      "hi": [
+        "तनाव और भावनात्मक दूरी में धीरे-धीरे कमी आ सकती है",
+        "आत्मविश्वास में सुधार शुरू हो सकता है"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "mental stress",
+      "emotional distancing",
+      "coldness",
+      "responsibilities",
+      "confidence decrease",
+      "distance",
+      "harshness"
+    ],
+    "hi": [
+      "मानसिक दबाव",
+      "भावनात्मक दूरी",
+      "ठंडापन",
+      "जिम्मेदारियां",
+      "आत्मविश्वास में कमी",
+      "दूरी",
+      "कठोरता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "stressful",
+      "distant",
+      "burdensome"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "तनावपूर्ण",
+      "दूर",
+      "भारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional coldness",
+      "relationship strain",
+      "health caution",
+      "responsibility fatigue"
+    ],
+    "hi": [
+      "भावनात्मक ठंडापन",
+      "रिश्तों में तनाव",
+      "स्वास्थ्य सावधानी",
+      "जिम्मेदारी की थकान"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-opp-sat",
+      "core": "This aspect suggests mental stress, emotional coldness, and distancing, especially with elders or female coworkers, along with tiring responsibilities and lowered confidence.",
+      "tone": "Warm, neutral, and cautiously observant"
+    },
+    "hi": {
+      "title": "चंद्रमा का शनि के विरुद्ध योग",
+      "core": "यह योग मानसिक दबाव, भावनात्मक ठंडापन और दूरी का संकेत देता है, खासकर बुजुर्गों या महिला सहयोगियों के साथ, साथ ही जिम्मेदारियों में थकान और आत्मविश्वास में कमी भी होती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Mental stress, emotional coldness, distancing in relationships, tiring responsibilities, decreased confidence.",
+        "hi": "मानसिक दबाव, भावनात्मक ठंडापन, रिश्तों में दूरी, थकाने वाली जिम्मेदारियां, आत्मविश्वास में कमी।"
+      },
+      "career": {
+        "en": "Tiring responsibilities and distant or harsh interactions with female coworkers.",
+        "hi": "थकाने वाली जिम्मेदारियां और महिला सहयोगियों के साथ दूर या कठोर संबंध।"
+      },
+      "relationships": {
+        "en": "Emotional distancing and coldness, especially with elders or female coworkers.",
+        "hi": "भावनात्मक दूरी और ठंडापन, विशेषकर बुजुर्गों या महिला सहयोगियों के साथ।"
+      },
+      "money": {
+        "en": "No specific financial indications.",
+        "hi": "कोई विशेष वित्तीय संकेत नहीं।"
+      },
+      "health_adj": {
+        "en": "Increased mental stress and health issues.",
+        "hi": "बढ़ा हुआ मानसिक दबाव और स्वास्थ्य समस्याएं।"
+      }
+    },
+    "aliases": [
+      "Moon opposition Saturn",
+      "Moo OPP Sat",
+      "Moon-Opposition-Saturn",
+      "Moon Opposition to Saturn"
+    ]
+  }
+}

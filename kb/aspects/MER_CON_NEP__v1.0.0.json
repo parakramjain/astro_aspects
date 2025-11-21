@@ -1,0 +1,237 @@
+{
+  "id": "MER_CON_NEP__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Conjunction",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect enhances imagination, mental strength, and creative thinking, connecting the person with intuition and spirituality, providing insights especially for artists, writers, teachers, and researchers.",
+    "hi": "यह योग कल्पना शक्ति, मानसिक ताकत और रचनात्मक सोच को बढ़ाता है, व्यक्ति को दूरदृष्टि और आध्यात्मिकता से जोड़ता है, विशेषकर कलाकारों, लेखकों, शिक्षकों और शोधकर्ताओं के लिए ज्ञान प्रदान करता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favors creative professions such as artists, writers, teachers, and researchers by providing future insights and enhancing imaginative thinking.",
+      "hi": "यह कलाकारों, लेखकों, शिक्षकों और शोधकर्ताओं जैसे रचनात्मक पेशों के लिए अनुकूल है, जो भविष्य संबंधी ज्ञान और कल्पनाशील सोच को बढ़ाता है।"
+    },
+    "relationships": {
+      "en": "Encourages intuitive and spiritual connections, fostering deeper understanding and empathy in relationships.",
+      "hi": "यह अंतर्ज्ञान और आध्यात्मिकता से जुड़ाव को प्रोत्साहित करता है, जिससे संबंधों में गहरी समझ और सहानुभूति बढ़ती है।"
+    },
+    "money": {
+      "en": "No specific financial effects are indicated in this aspect.",
+      "hi": "इस योग में विशेष आर्थिक प्रभाव नहीं दर्शाए गए हैं।"
+    },
+    "health_adj": {
+      "en": "No direct health adjustments or concerns are mentioned during this period.",
+      "hi": "इस अवधि में स्वास्थ्य संबंधी कोई विशेष समायोजन या चिंता नहीं बताई गई है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative inspiration",
+      "Spiritual insight",
+      "Intellectual growth"
+    ],
+    "hi": [
+      "रचनात्मक प्रेरणा",
+      "आध्यात्मिक ज्ञान",
+      "बौद्धिक विकास"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks are noted; maintain balanced use of imagination and intuition."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताए गए; कल्पना और अंतर्ज्ञान का संतुलित उपयोग बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative or literary projects.",
+        "Explore spiritual or intuitive practices.",
+        "Use imagination to envision future possibilities."
+      ],
+      "hi": [
+        "रचनात्मक या साहित्यिक परियोजनाओं में संलग्न हों।",
+        "आध्यात्मिक या अंतर्ज्ञान संबंधी अभ्यास करें।",
+        "भविष्य की संभावनाओं की कल्पना करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on gaining insights and mental clarity.",
+        "Channel creative energy into productive work."
+      ],
+      "hi": [
+        "ज्ञान और मानसिक स्पष्टता प्राप्त करने पर ध्यान दें।",
+        "रचनात्मक ऊर्जा को उत्पादक कार्य में लगाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on intuitive experiences gained.",
+        "Integrate creative ideas into daily life."
+      ],
+      "hi": [
+        "प्राप्त अंतर्ज्ञान अनुभवों पर विचार करें।",
+        "रचनात्मक विचारों को दैनिक जीवन में शामिल करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "imagination",
+      "mental strength",
+      "creativity",
+      "intuition",
+      "spirituality",
+      "insights",
+      "future knowledge"
+    ],
+    "hi": [
+      "कल्पना",
+      "मानसिक शक्ति",
+      "रचनात्मकता",
+      "दूरदृष्टि",
+      "आध्यात्मिकता",
+      "ज्ञान",
+      "भविष्य संबंधी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "enhancing",
+      "intuitive",
+      "creative",
+      "insightful"
+    ],
+    "hi": [
+      "वृद्धिदायक",
+      "दूरदर्शी",
+      "रचनात्मक",
+      "ज्ञानवर्धक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "spiritual connection",
+      "mental clarity",
+      "future orientation"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "आध्यात्मिक जुड़ाव",
+      "मानसिक स्पष्टता",
+      "भविष्य की दिशा"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-con-nep",
+      "core": "Enhances imagination, mental strength, and spiritual intuition, aiding creative and intellectual pursuits.",
+      "tone": "Warm, insightful, and encouraging"
+    },
+    "hi": {
+      "title": "बुध का नेपच्यून से योग",
+      "core": "कल्पना शक्ति, मानसिक ताकत और आध्यात्मिक अंतर्ज्ञान को बढ़ाता है, जो रचनात्मक और बौद्धिक कार्यों में सहायक है।",
+      "tone": "सहानुभूतिपूर्ण, ज्ञानवर्धक और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Enhances imagination, higher mental strength, and creative/literary thinking. Connects with intuition and spirituality. Provides future insights for artists, writers, teachers, and researchers.",
+        "hi": "कल्पनाशक्ति, उच्च मानसिक शक्ति और रचनात्मक व साहित्यिक सोच को बढ़ाता है। व्यक्ति को दूरदृष्टि और आध्यात्मिकता से जोड़ता है। कलाकारों, लेखकों, शिक्षकों और शोधकर्ताओं के लिए भविष्य संबंधी ज्ञान प्रदान करता है।"
+      },
+      "career": {
+        "en": "Supports artists, writers, teachers, and researchers by enhancing creative thinking and providing insights about the future.",
+        "hi": "कलाकारों, लेखकों, शिक्षकों और शोधकर्ताओं को रचनात्मक सोच बढ़ाने और भविष्य संबंधी ज्ञान प्रदान करने में सहायक।"
+      },
+      "relationships": {
+        "en": "Fosters connection with intuition and spirituality, encouraging deeper understanding in relationships.",
+        "hi": "अंतर्ज्ञान और आध्यात्मिकता से जुड़ाव को बढ़ावा देता है, जिससे संबंधों में गहरी समझ होती है।"
+      },
+      "money": {
+        "en": "No specific financial effects mentioned.",
+        "hi": "कोई विशेष आर्थिक प्रभाव नहीं बताया गया।"
+      },
+      "health_adj": {
+        "en": "No direct health adjustments or concerns noted.",
+        "hi": "कोई सीधे स्वास्थ्य संबंधी समायोजन या चिंता नहीं बताई गई।"
+      }
+    },
+    "aliases": [
+      "Mercury conjunction Neptune",
+      "Mer CON Nep",
+      "Mercury-Conjunction-Neptune",
+      "Mercury Conjunction to Neptune"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "VEN_SQR_MAR__v1.0.0",
+  "pair": [
+    "Venus",
+    "Square",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Square between Venus and Mars drives friction/work. Venus: affection, art, harmony, pleasure, values. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: growth via friction; endurance and clear boundaries are key.",
+  "facets": {
+    "career": "Design, branding, client harmony, tasteful presentation.  Execution speed, competition, technical grit. Emphasis: friction/work.",
+    "relationships": "Attraction, diplomacy, reciprocity.  Desire, boundaries, anger management. Emphasis: friction/work.",
+    "money": "Luxury/beauty revenues, pricing power via desirability.  Risk-capital, decisive investments, initiative-led gains. Emphasis: friction/work.",
+    "health_adj": "Glucose balance, skin, reproductive health; moderation.  Inflammation, accidents; channel via training. Emphasis: friction/work."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Friction escalating into conflict; respect pacing and boundaries.",
+    "Impulsive actions or accidents; channel energy into training.",
+    "People-pleasing → scope creep; set clear give-and-get."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: friction/work).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: friction/work)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: friction/work).",
+      "Make the decisive call; accept/decline offers consciously. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: friction/work)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: friction/work).",
+      "Close loops, stabilize routines, prune scope creep. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: friction/work)."
+    ]
+  },
+  "keywords": [
+    "affection",
+    "art",
+    "assertion",
+    "conflict",
+    "drive",
+    "friction",
+    "harmony",
+    "mechanics",
+    "pleasure",
+    "square",
+    "surgery",
+    "values",
+    "work"
+  ],
+  "quality_tags": [
+    "major",
+    "challenging",
+    "discipline-required"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "",
+    "Relationship Tone",
+    "",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Venus Square Mars",
+      "core": "Square between Venus and Mars drives friction/work. Venus: affection, art, harmony, pleasure, values. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: growth via friction; endurance and clear boundaries are key.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Venus Square Mars (हिन्दी)",
+      "core": "Venus और Mars का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Square between Venus and Mars drives friction/work. Venus: affection, art, harmony, pleasure, values. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: growth via friction; endurance and clear boundaries are key.",
+      "career": "Design, branding, client harmony, tasteful presentation.  Execution speed, competition, technical grit. Emphasis: friction/work.",
+      "relationships": "Attraction, diplomacy, reciprocity.  Desire, boundaries, anger management. Emphasis: friction/work.",
+      "money": "Luxury/beauty revenues, pricing power via desirability.  Risk-capital, decisive investments, initiative-led gains. Emphasis: friction/work.",
+      "health_adj": "Glucose balance, skin, reproductive health; moderation.  Inflammation, accidents; channel via training. Emphasis: friction/work."
+    },
+    "aliases": [
+      "Venus square Mars",
+      "Ven SQR Mar",
+      "Venus-Square-Mars",
+      "Venus Square to Mars"
+    ]
+  }
+}

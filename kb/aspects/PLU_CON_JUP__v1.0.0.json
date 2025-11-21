@@ -1,0 +1,257 @@
+{
+  "id": "PLU_CON_JUP__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Conjunction",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Opportunities arise for life reorganization and stable, significant transformations. Guidance and self-knowledge are gained, along with deep reverence for someone and occult or religious wisdom. Major changes are attempted in affiliated institutions, and professional financial and legal support is received regarding joint ventures, taxes, insurance, inheritance, and joint assets.",
+    "hi": "जीवन में पुनर्नियोजन और महत्वपूर्ण स्थिर परिवर्तन के अवसर आते हैं। मार्गदर्शन और आत्मज्ञान प्राप्त होता है, साथ ही किसी के प्रति गहरी श्रद्धा और गूढ़ या धार्मिक ज्ञान भी मिलता है। जुड़ी संस्थाओं में बड़े परिवर्तन के प्रयास होते हैं, और पेशेवर रूप से संयुक्त व्यवसाय, कर, बीमा, पैतृक संपत्ति तथा संयुक्त संपत्ति से संबंधित आर्थिक और कानूनी सहयोग प्राप्त होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Attempts major changes in affiliated institutions; receives financial and legal support related to joint ventures, taxes, insurance, inheritance, and joint assets.",
+      "hi": "जुड़ी संस्थाओं में महत्वपूर्ण परिवर्तन के प्रयास; संयुक्त व्यवसाय, कर, बीमा, पैतृक संपत्ति और संयुक्त संपत्ति से संबंधित आर्थिक और कानूनी सहयोग प्राप्त होता है।"
+    },
+    "relationships": {
+      "en": "Develops deep reverence for someone; gains guidance and self-knowledge.",
+      "hi": "किसी के प्रति अत्यंत श्रद्धा विकसित होती है; मार्गदर्शन और आत्मज्ञान प्राप्त होता है।"
+    },
+    "money": {
+      "en": "Receives financial support professionally concerning joint ventures, taxes, insurance, inheritance, and joint assets.",
+      "hi": "संयुक्त व्यवसाय, कर, बीमा, पैतृक संपत्ति और संयुक्त संपत्ति से संबंधित पेशेवर आर्थिक सहयोग प्राप्त होता है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments noted.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन नहीं बताया गया है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Life reorganization",
+      "Stable transformation",
+      "Institutional change",
+      "Financial and legal support"
+    ],
+    "hi": [
+      "जीवन पुनर्नियोजन",
+      "स्थिर परिवर्तन",
+      "संस्थागत परिवर्तन",
+      "आर्थिक और कानूनी सहयोग"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; changes are significant but stable."
+    ],
+    "hi": [
+      "स्पष्ट जोखिम नहीं बताए गए; परिवर्तन महत्वपूर्ण लेकिन स्थिर हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek guidance and self-knowledge.",
+        "Develop reverence and respect in relationships.",
+        "Explore opportunities for institutional changes."
+      ],
+      "hi": [
+        "मार्गदर्शन और आत्मज्ञान प्राप्त करें।",
+        "संबंधों में श्रद्धा और सम्मान विकसित करें।",
+        "संस्थागत परिवर्तनों के अवसर तलाशें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate major changes in affiliated institutions.",
+        "Engage in joint ventures and related financial/legal matters."
+      ],
+      "hi": [
+        "जुड़ी संस्थाओं में बड़े परिवर्तन शुरू करें।",
+        "संयुक्त व्यवसाय और संबंधित आर्थिक/कानूनी कार्यों में संलग्न हों।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Consolidate gains in self-knowledge and financial/legal support.",
+        "Maintain stability in ongoing transformations."
+      ],
+      "hi": [
+        "आत्मज्ञान और आर्थिक/कानूनी सहयोग में प्राप्त लाभों को मजबूत करें।",
+        "चल रहे परिवर्तनों में स्थिरता बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "life reorganization",
+      "stable transformation",
+      "guidance",
+      "self-knowledge",
+      "reverence",
+      "occult wisdom",
+      "religious wisdom",
+      "institutional change",
+      "financial support",
+      "legal support",
+      "joint ventures",
+      "taxes",
+      "insurance",
+      "inheritance",
+      "joint assets"
+    ],
+    "hi": [
+      "जीवन पुनर्नियोजन",
+      "स्थिर परिवर्तन",
+      "मार्गदर्शन",
+      "आत्मज्ञान",
+      "श्रद्धा",
+      "गूढ़ ज्ञान",
+      "धार्मिक ज्ञान",
+      "संस्थागत परिवर्तन",
+      "आर्थिक सहयोग",
+      "कानूनी सहयोग",
+      "संयुक्त व्यवसाय",
+      "कर",
+      "बीमा",
+      "पैतृक संपत्ति",
+      "संयुक्त संपत्ति"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "stable",
+      "transformative",
+      "supportive",
+      "spiritual",
+      "institutional"
+    ],
+    "hi": [
+      "स्थिर",
+      "परिवर्तनकारी",
+      "सहायक",
+      "आध्यात्मिक",
+      "संस्थागत"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "life rebuilding",
+      "professional support",
+      "spiritual growth",
+      "institutional reform"
+    ],
+    "hi": [
+      "जीवन पुनर्निर्माण",
+      "पेशेवर सहयोग",
+      "आध्यात्मिक विकास",
+      "संस्थागत सुधार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-con-jup",
+      "core": "This aspect indicates opportunities for life reorganization and stable, significant transformations. It brings guidance, self-knowledge, reverence, and occult or religious wisdom. Professional and institutional changes with financial and legal support are highlighted.",
+      "tone": "Warm, neutral, and encouraging"
+    },
+    "hi": {
+      "title": "प्लूटो संयोजन बृहस्पति",
+      "core": "यह योग जीवन पुनर्नियोजन और महत्वपूर्ण स्थिर परिवर्तनों के अवसर दर्शाता है। यह मार्गदर्शन, आत्मज्ञान, श्रद्धा और गूढ़ या धार्मिक ज्ञान प्रदान करता है। पेशेवर और संस्थागत परिवर्तन के साथ आर्थिक और कानूनी सहयोग भी प्रमुख हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Life reorganization and stable transformation opportunities with guidance, self-knowledge, reverence, and occult/religious wisdom. Institutional and professional financial/legal support.",
+        "hi": "जीवन पुनर्नियोजन और स्थिर परिवर्तन के अवसर, मार्गदर्शन, आत्मज्ञान, श्रद्धा और गूढ़/धार्मिक ज्ञान। संस्थागत और पेशेवर आर्थिक/कानूनी सहयोग।"
+      },
+      "career": {
+        "en": "Major changes in affiliated institutions; financial and legal support related to joint ventures, taxes, insurance, inheritance, and joint assets.",
+        "hi": "जुड़ी संस्थाओं में बड़े परिवर्तन; संयुक्त व्यवसाय, कर, बीमा, पैतृक संपत्ति और संयुक्त संपत्ति से संबंधित आर्थिक और कानूनी सहयोग।"
+      },
+      "relationships": {
+        "en": "Develops deep reverence for someone; gains guidance and self-knowledge.",
+        "hi": "किसी के प्रति गहरी श्रद्धा विकसित होती है; मार्गदर्शन और आत्मज्ञान प्राप्त होता है।"
+      },
+      "money": {
+        "en": "Receives financial support professionally concerning joint ventures, taxes, insurance, inheritance, and joint assets.",
+        "hi": "संयुक्त व्यवसाय, कर, बीमा, पैतृक संपत्ति और संयुक्त संपत्ति से संबंधित पेशेवर आर्थिक सहयोग प्राप्त होता है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments noted.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन नहीं बताया गया है।"
+      }
+    },
+    "aliases": [
+      "Pluto conjunction Jupiter",
+      "Plu CON Jup",
+      "Pluto-Conjunction-Jupiter",
+      "Pluto Conjunction to Jupiter"
+    ]
+  }
+}

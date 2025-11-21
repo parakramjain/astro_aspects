@@ -1,0 +1,241 @@
+{
+  "id": "MAR_OPP_SUN__v1.0.0",
+  "pair": [
+    "Mars",
+    "Opposition",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The individual is influenced by a self-centered egoistic viewpoint, which may lead to conflicts and poor decisions on important matters.",
+    "hi": "व्यक्ति अहंकारपूर्ण निजि दृष्टिकोण से प्रभावित होता है, जिससे झगड़ा और महत्वपूर्ण मामलों में गलत निर्णय हो सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Difficulties in negotiations involving authority and challenges in obtaining jobs, proposals, or business opportunities.",
+      "hi": "अधिकार से जुड़ी बातचीत में कठिनाइयाँ और नौकरी, प्रस्ताव या व्यावसायिक अवसर प्राप्त करने में समस्याएँ।"
+    },
+    "relationships": {
+      "en": "Conflicts may arise due to egoistic attitudes affecting interpersonal interactions.",
+      "hi": "अहंकारपूर्ण रवैये के कारण पारस्परिक संबंधों में झगड़े हो सकते हैं।"
+    },
+    "money": {
+      "en": "Potential problems in business activities and proposals due to negotiation difficulties.",
+      "hi": "व्यावसायिक गतिविधियों और प्रस्तावों में बातचीत की कठिनाइयों के कारण समस्याएँ।"
+    },
+    "health_adj": {
+      "en": "Excessive talking and over-practice may negatively impact work and experience.",
+      "hi": "अधिक वाणी और ज्यादा अभ्यास से काम और अनुभव पर नकारात्मक प्रभाव।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Job acquisition challenges",
+      "Business proposal difficulties",
+      "Authority negotiation issues"
+    ],
+    "hi": [
+      "नौकरी प्राप्ति में कठिनाई",
+      "व्यावसायिक प्रस्तावों में समस्या",
+      "अधिकार से बातचीत में कठिनाई"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Ego causing conflicts",
+      "Wrong decisions on important issues",
+      "Difficulties in authority negotiations"
+    ],
+    "hi": [
+      "अहंकार से झगड़ा",
+      "महत्वपूर्ण मुद्दों पर गलत निर्णय",
+      "अधिकार से बातचीत में कठिनाई"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of ego-driven perspectives",
+        "Communicate thoughtfully to avoid conflicts",
+        "Prepare carefully for negotiations involving authority"
+      ],
+      "hi": [
+        "अहंकारपूर्ण दृष्टिकोण से सावधान रहें",
+        "झगड़े से बचने के लिए सोच-समझकर संवाद करें",
+        "अधिकार से जुड़ी बातचीत के लिए अच्छी तैयारी करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid excessive talking that may affect work",
+        "Exercise caution in decision-making on important matters"
+      ],
+      "hi": [
+        "काम पर असर डालने वाली अधिक वाणी से बचें",
+        "महत्वपूर्ण मामलों में निर्णय लेने में सावधानी बरतें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reduce unnecessary over-practice",
+        "Work on balancing ego and cooperation"
+      ],
+      "hi": [
+        "बेकार अधिक अभ्यास कम करें",
+        "अहंकार और सहयोग के बीच संतुलन बनाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "ego",
+      "conflict",
+      "authority",
+      "negotiation",
+      "decision-making",
+      "excessive talk",
+      "difficulty"
+    ],
+    "hi": [
+      "अहंकार",
+      "झगड़ा",
+      "अधिकार",
+      "बातचीत",
+      "निर्णय लेना",
+      "अधिक वाणी",
+      "कठिनाई"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "conflict-prone",
+      "authority-related",
+      "communication-sensitive"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "झगड़े वाले",
+      "अधिकार संबंधी",
+      "संवाद-संवेदनशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "ego influence",
+      "negotiation challenges",
+      "career obstacles",
+      "communication impact"
+    ],
+    "hi": [
+      "अहंकार प्रभाव",
+      "बातचीत की चुनौतियाँ",
+      "करियर में बाधाएँ",
+      "संवाद का प्रभाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-opp-sun",
+      "core": "Influence of ego causing conflicts and challenges in decision-making and authority negotiations.",
+      "tone": "Neutral, cautious, and insightful"
+    },
+    "hi": {
+      "title": "मंगल विरुद्ध सूर्य",
+      "core": "अहंकार के प्रभाव से झगड़े और निर्णय तथा अधिकार बातचीत में चुनौतियाँ।",
+      "tone": "तटस्थ, सावधान, और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person is influenced by an egoistic personal perspective. Ego can cause conflict, and decisions on important issues may be wrong.",
+        "hi": "व्यक्ति अहंकारपूर्ण निजि दृष्टिकोण से प्रभावित होता है। अहंकार के कारण झगड़ा हो सकता है या महत्वपूर्ण मुद्दों पर निर्णय सही न हो पाता है।"
+      },
+      "career": {
+        "en": "There will be difficulties in negotiations involving authority. Challenges or problems in obtaining a job/proposal/business activities/authority.",
+        "hi": "अधिकार के साथ बातचीत में कठिनाइयाँ। नौकरी/कोई प्रस्ताव/व्यावसायिक गतिविधियाँ/अधिकार प्राप्ति से सहमति में कठिनाई या समस्या रहेगी।"
+      },
+      "relationships": {
+        "en": "Egoistic attitudes may cause conflicts affecting interpersonal relations.",
+        "hi": "अहंकारपूर्ण रवैये के कारण पारस्परिक संबंधों में झगड़े हो सकते हैं।"
+      },
+      "money": {
+        "en": "Negotiation difficulties may impact business proposals and activities.",
+        "hi": "बातचीत की कठिनाइयों के कारण व्यावसायिक प्रस्ताव और गतिविधियों पर असर।"
+      },
+      "health_adj": {
+        "en": "Excessive talk and unnecessary experience from over-practice can affect work.",
+        "hi": "अधिक वाणी के प्रभाव से काम पर असर पड़ता है। ज्यादा अभ्यास से बेवजह अनुभव होती है।"
+      }
+    },
+    "aliases": [
+      "Mars opposition Sun",
+      "Mar OPP Sun",
+      "Mars-Opposition-Sun",
+      "Mars Opposition to Sun"
+    ]
+  }
+}

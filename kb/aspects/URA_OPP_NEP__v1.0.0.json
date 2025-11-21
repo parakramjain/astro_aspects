@@ -1,0 +1,267 @@
+{
+  "id": "URA_OPP_NEP__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Opposition",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Emotional impulses create mental instability and conflicted goals reduce cooperation, leading to a detached and neurotic mindset with risks of deception and instability in various life areas.",
+    "hi": "भावनात्मक प्रेरणाएँ मानसिक अस्थिरता उत्पन्न करती हैं और लक्ष्य में द्वंद्व के कारण सहयोग की कमी होती है, जिससे उदासीन और न्यूरोटिक मनोवृत्ति बनती है तथा धोखे और अस्थिरता का खतरा रहता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Conflicted goals reduce cooperation; speculative or volatile businesses are harmful; political and economic instability affect professional life.",
+      "hi": "लक्ष्यों में द्वंद्व के कारण सहयोग कम होता है; तेजी-मंदी वाले व्यवसाय हानिकारक हैं; राजनीतिक और आर्थिक अस्थिरता से पेशेवर जीवन प्रभावित होता है।"
+    },
+    "relationships": {
+      "en": "Trusting strangers can lead to deception; friends or groups may misguide causing harm; cooperation is reduced due to conflicted intentions.",
+      "hi": "अज्ञात व्यक्तियों पर विश्वास धोखे का कारण बनता है; मित्र या समूह गलत मार्गदर्शन कर हानि पहुँचा सकते हैं; द्वंद्वपूर्ण मनोवृत्ति से सहयोग कम होता है।"
+    },
+    "money": {
+      "en": "Risk of fraud in joint investments or businesses; speculative ventures are harmful; economic instability impacts financial matters.",
+      "hi": "संयुक्त निवेश या व्यवसाय में धोखे का खतरा; तेजी-मंदी वाले व्यवसाय हानिकारक; आर्थिक अस्थिरता वित्तीय मामलों को प्रभावित करती है।"
+    },
+    "health_adj": {
+      "en": "Emotional impulses cause mental instability; neurotic mindset prevails; exercise should be avoided during this period.",
+      "hi": "भावनात्मक प्रेरणा से मानसिक अस्थिरता रहती है; न्यूरोटिक मनोवृत्ति बनी रहती है; इस समय व्यायाम नहीं करना चाहिए।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Mental instability episodes",
+      "Conflicts in goals and cooperation",
+      "Financial fraud or deception",
+      "Political and economic instability"
+    ],
+    "hi": [
+      "मानसिक अस्थिरता की स्थिति",
+      "लक्ष्य और सहयोग में द्वंद्व",
+      "वित्तीय धोखा या छल",
+      "राजनीतिक और आर्थिक अस्थिरता"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Mental instability due to emotional impulses",
+      "Fraud risk in joint investments or businesses",
+      "Deception from trusting strangers",
+      "Political and economic instability affecting life",
+      "Misguidance by friends or groups",
+      "Harm from speculative or volatile businesses"
+    ],
+    "hi": [
+      "भावनात्मक प्रेरणा से मानसिक अस्थिरता",
+      "संयुक्त निवेश/व्यवसाय में धोखे का खतरा",
+      "अज्ञातों पर विश्वास से धोखा",
+      "राजनीतिक और आर्थिक अस्थिरता का प्रभाव",
+      "मित्रों या समूहों से गलत मार्गदर्शन",
+      "तेजी-मंदी वाले व्यवसायों से हानि"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious in trusting strangers",
+        "Avoid speculative or volatile businesses",
+        "Maintain awareness of political and economic changes"
+      ],
+      "hi": [
+        "अज्ञातों पर विश्वास करते समय सावधानी रखें",
+        "तेजी-मंदी वाले व्यवसायों से बचें",
+        "राजनीतिक और आर्थिक परिवर्तनों से अवगत रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid exercise due to mental instability",
+        "Refrain from joint investments or businesses",
+        "Be alert to potential deception from friends or groups"
+      ],
+      "hi": [
+        "मानसिक अस्थिरता के कारण व्यायाम न करें",
+        "संयुक्त निवेश या व्यवसाय से बचें",
+        "मित्रों या समूहों से धोखे के प्रति सतर्क रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Mental stability improves",
+        "Reduced risk of deception and fraud",
+        "Better cooperation and clarity in goals"
+      ],
+      "hi": [
+        "मानसिक स्थिरता में सुधार",
+        "धोखे और धोखाधड़ी का खतरा कम होना",
+        "लक्ष्यों में स्पष्टता और सहयोग बढ़ना"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional impulses",
+      "mental instability",
+      "conflicted goals",
+      "detached mindset",
+      "fraud risk",
+      "political instability",
+      "economic instability",
+      "deception",
+      "misguidance",
+      "speculative business"
+    ],
+    "hi": [
+      "भावनात्मक प्रेरणा",
+      "मानसिक अस्थिरता",
+      "लक्ष्य में द्वंद्व",
+      "उदासीन मनोवृत्ति",
+      "धोखे का खतरा",
+      "राजनीतिक अस्थिरता",
+      "आर्थिक अस्थिरता",
+      "धोखा",
+      "गलत मार्गदर्शन",
+      "तेजी-मंदी वाला व्यवसाय"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "unstable",
+      "conflicted",
+      "detached",
+      "risk-prone",
+      "cautious"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "अस्थिर",
+      "द्वंद्वपूर्ण",
+      "उदासीन",
+      "जोखिमपूर्ण",
+      "सावधान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional instability",
+      "mental conflict",
+      "trust issues",
+      "financial caution",
+      "political-economic unrest",
+      "health caution"
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता",
+      "मानसिक द्वंद्व",
+      "विश्वास की समस्या",
+      "वित्तीय सावधानी",
+      "राजनीतिक-आर्थिक अशांति",
+      "स्वास्थ्य में सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-opp-nep",
+      "core": "Emotional impulses cause mental instability and conflicted goals reduce cooperation, leading to detachment and risks of deception and instability.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "यूरेनस विपक्ष नेपच्यून",
+      "core": "भावनात्मक प्रेरणा से मानसिक अस्थिरता होती है और लक्ष्य में द्वंद्व के कारण सहयोग कम होता है, जिससे उदासीनता और धोखे व अस्थिरता का खतरा रहता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional impulses cause mental instability. Conflicted goals reduce cooperation. Detached neurotic mindset prevails. Avoid exercise. Fraud risk in joint investments. Political/economic instability affects life. Trusting strangers brings deception. Friends may misguide. Speculative businesses harmful.",
+        "hi": "अचानक से भावनात्मक प्रेरणा के कारण मानसिक अस्थिरता की स्थिति रहती है। लक्ष्य और उद्देश्य में द्वंद्व की मनःस्थिति और निराशा के कारण सहयोग भाव की कमी रहती है। व्यक्ति की जीवन के प्रति उदासीन मनोवृत्ति न्यूरो.माइंडेडद्ध रहती है। इस समय व्यायाम नहीं करना चाहिए। संयुक्त निवेश/कर/संयुक्त व्यवसाय आदि में धोखे की स्थिति रहती है। व्यक्तिगत जीवन में राजनीतिक/आर्थिक/सांस्कृतिक/व्यावसायिक कारणों से अस्थिरता की स्थिति रहती है। अज्ञात व्यक्तियों पर विश्वास धोखे का कारण बनता है। कोई मित्र या मित्रों का समूह गलत मार्गदर्शन देकर हानि पहुँचाता है। इस समय तेजी.मंदी के व्यवसाय से दूर रहें।"
+      },
+      "career": {
+        "en": "Conflicted goals reduce cooperation; speculative or volatile businesses are harmful; political and economic instability affect professional life.",
+        "hi": "लक्ष्यों में द्वंद्व के कारण सहयोग कम होता है; तेजी-मंदी वाले व्यवसाय हानिकारक हैं; राजनीतिक और आर्थिक अस्थिरता से पेशेवर जीवन प्रभावित होता है।"
+      },
+      "relationships": {
+        "en": "Trusting strangers can lead to deception; friends or groups may misguide causing harm; cooperation is reduced due to conflicted intentions.",
+        "hi": "अज्ञात व्यक्तियों पर विश्वास धोखे का कारण बनता है; मित्र या समूह गलत मार्गदर्शन कर हानि पहुँचा सकते हैं; द्वंद्वपूर्ण मनोवृत्ति से सहयोग कम होता है।"
+      },
+      "money": {
+        "en": "Risk of fraud in joint investments or businesses; speculative ventures are harmful; economic instability impacts financial matters.",
+        "hi": "संयुक्त निवेश या व्यवसाय में धोखे का खतरा; तेजी-मंदी वाले व्यवसाय हानिकारक; आर्थिक अस्थिरता वित्तीय मामलों को प्रभावित करती है।"
+      },
+      "health_adj": {
+        "en": "Emotional impulses cause mental instability; neurotic mindset prevails; exercise should be avoided during this period.",
+        "hi": "भावनात्मक प्रेरणा से मानसिक अस्थिरता रहती है; न्यूरोटिक मनोवृत्ति बनी रहती है; इस समय व्यायाम नहीं करना चाहिए।"
+      }
+    },
+    "aliases": [
+      "Uranus opposition Neptune",
+      "Ura OPP Nep",
+      "Uranus-Opposition-Neptune",
+      "Uranus Opposition to Neptune"
+    ]
+  }
+}

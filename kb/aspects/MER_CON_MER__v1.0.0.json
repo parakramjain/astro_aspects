@@ -1,0 +1,238 @@
+{
+  "id": "MER_CON_MER__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Conjunction",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period favoring quick thinking, creativity, and clear planning. Ideal for study, writing, and research with efficiency gained through new ideas.",
+    "hi": "यह समय तेज सोच, रचनात्मकता और योजनाओं को स्पष्ट करने का होता है। पढ़ाई, लेखन और रिसर्च के लिए उपयुक्त है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Enhanced efficiency through new ideas; good for writing, research, and planning tasks.",
+      "hi": "नए विचार अपनाकर कार्यकुशलता बढ़ती है; लेखन, रिसर्च और योजना बनाने के कार्यों के लिए अच्छा।"
+    },
+    "relationships": {
+      "en": "Increased social conversations and opportunities for short trips.",
+      "hi": "सामाजिक बातचीत बढ़ती है और छोटे सफर के मौके मिलते हैं।"
+    },
+    "money": {
+      "en": "No specific financial indications; focus is on intellectual and social activities.",
+      "hi": "वित्तीय संकेत स्पष्ट नहीं हैं; ध्यान बौद्धिक और सामाजिक गतिविधियों पर है।"
+    },
+    "health_adj": {
+      "en": "No direct health adjustments noted; mental clarity and alertness are emphasized.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष बदलाव नहीं; मानसिक स्पष्टता और सतर्कता पर जोर।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Study and research",
+      "Writing projects",
+      "Short social trips"
+    ],
+    "hi": [
+      "पढ़ाई और रिसर्च",
+      "लेखन कार्य",
+      "छोटे सामाजिक सफर"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative thinking and planning",
+        "Initiate writing or research activities",
+        "Participate in social conversations and short trips"
+      ],
+      "hi": [
+        "रचनात्मक सोच और योजना बनाएं",
+        "लेखन या रिसर्च कार्य शुरू करें",
+        "सामाजिक बातचीत और छोटे सफर में भाग लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on clarity and efficiency in ideas",
+        "Utilize this time for study and writing"
+      ],
+      "hi": [
+        "विचारों में स्पष्टता और कार्यकुशलता पर ध्यान दें",
+        "इस समय का उपयोग पढ़ाई और लेखन के लिए करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain momentum in intellectual pursuits",
+        "Continue social interactions with awareness"
+      ],
+      "hi": [
+        "बौद्धिक प्रयासों में गति बनाए रखें",
+        "सामाजिक बातचीत सतर्कता के साथ जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "quick thinking",
+      "creativity",
+      "clarity",
+      "planning",
+      "study",
+      "writing",
+      "research",
+      "efficiency",
+      "short trips",
+      "social conversations"
+    ],
+    "hi": [
+      "तेज सोच",
+      "रचनात्मकता",
+      "स्पष्टता",
+      "योजना",
+      "पढ़ाई",
+      "लेखन",
+      "रिसर्च",
+      "कार्यकुशलता",
+      "छोटे सफर",
+      "सामाजिक बातचीत"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "efficient",
+      "intellectual",
+      "social"
+    ],
+    "hi": [
+      "रचनात्मक",
+      "कार्यकुशल",
+      "बौद्धिक",
+      "सामाजिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental clarity",
+      "new ideas",
+      "communication",
+      "learning"
+    ],
+    "hi": [
+      "मानसिक स्पष्टता",
+      "नए विचार",
+      "संचार",
+      "अध्ययन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-con-mer",
+      "core": "A time for quick thinking, creativity, and clear planning, supporting study, writing, and research.",
+      "tone": "Warm, encouraging, and focused on intellectual growth."
+    },
+    "hi": {
+      "title": "बुध योग बुध",
+      "core": "तेज सोच, रचनात्मकता और स्पष्ट योजना का समय, जो पढ़ाई, लेखन और रिसर्च में सहायक है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और बौद्धिक विकास पर केंद्रित।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This time favors quick thinking, creativity, and clarity in planning. Good for study, writing, and research. The person becomes efficient through new ideas.",
+        "hi": "यह समय तेज सोचए रचनात्मकता और योजनाओं को स्पष्ट करने का होता है। पढ़ाईए लेखन और रिसर्च के लिए उपयुक्त है। व्यक्ति नए विचार अपनाकर कार्यकुशलता बढ़ाता है।"
+      },
+      "career": {
+        "en": "Good for study, writing, and research. Efficiency increases through new ideas.",
+        "hi": "पढ़ाई, लेखन और रिसर्च के लिए उपयुक्त। नए विचार अपनाकर कार्यकुशलता बढ़ती है।"
+      },
+      "relationships": {
+        "en": "Short trips and social conversations are common.",
+        "hi": "छोटे सफर और सामाजिक बातचीत के मौके होते हैं।"
+      },
+      "money": {
+        "en": "No specific financial details provided.",
+        "hi": "वित्तीय विवरण स्पष्ट नहीं हैं।"
+      },
+      "health_adj": {
+        "en": "No health adjustments mentioned; focus on mental clarity.",
+        "hi": "स्वास्थ्य संबंधी कोई बदलाव नहीं; मानसिक स्पष्टता पर ध्यान।"
+      }
+    },
+    "aliases": [
+      "Mercury conjunction Mercury",
+      "Mer CON Mer",
+      "Mercury-Conjunction-Mercury",
+      "Mercury Conjunction to Mercury"
+    ]
+  }
+}

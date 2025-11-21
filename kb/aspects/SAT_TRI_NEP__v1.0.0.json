@@ -1,0 +1,253 @@
+{
+  "id": "SAT_TRI_NEP__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Trine",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Enhanced concentration, memory, and intuition lead to completion of plans and important work strategies. Inner inspiration and guidance from special personalities support fulfillment of desires and planning of new changes. Opportunities arise in hospitals, ashrams, religious, educational, or major business institutions, bringing stability and benefits from secret professional knowledge and past good deeds.",
+    "hi": "एकाग्रता, स्मरण शक्ति और अंतर्ज्ञान में वृद्धि से योजनाएँ पूर्ण होती हैं और महत्वपूर्ण कार्य योजनाएँ बनती हैं। आंतरिक प्रेरणा और विशेष व्यक्तित्वों से मार्गदर्शन इच्छाओं की पूर्ति और नए परिवर्तन की रूपरेखा बनाने में सहायक होता है। अस्पताल, आश्रम, धार्मिक, शैक्षणिक या महत्वपूर्ण व्यावसायिक संस्थाओं में अवसर मिलते हैं, जिससे जीवन में स्थिरता और गुप्त व्यावसायिक जानकारी तथा पूर्व के अच्छे कर्मों का लाभ होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities arise for important work with hospitals, ashrams, religious, educational, or major business organizations. Secret professional information brings benefits and helps form effective work strategies.",
+      "hi": "अस्पताल, आश्रम, धार्मिक, शैक्षणिक या महत्वपूर्ण व्यावसायिक संस्थाओं से जुड़े महत्वपूर्ण कार्यों के अवसर मिलते हैं। व्यावसायिक क्षेत्र में गुप्त जानकारी लाभदायक होती है और कार्य योजनाएँ बनती हैं।"
+    },
+    "relationships": {
+      "en": "Guidance from special personalities supports inner inspiration and fulfillment of desires, fostering virtuous actions and stable connections.",
+      "hi": "विशेष व्यक्तित्वों से मार्गदर्शन आंतरिक प्रेरणा और इच्छापूर्ति में सहायक होता है, जिससे पुण्य कर्म और स्थिर संबंध बनते हैं।"
+    },
+    "money": {
+      "en": "Benefits come from secret professional information and the fruits of past good deeds, contributing to financial stability.",
+      "hi": "व्यावसायिक गुप्त जानकारी और पूर्व के अच्छे कर्मों के फल से लाभ होता है, जो आर्थिक स्थिरता में सहायक है।"
+    },
+    "health_adj": {
+      "en": "Increased concentration and memory power support mental stability and overall well-being.",
+      "hi": "एकाग्रता और स्मरण शक्ति में वृद्धि मानसिक स्थिरता और समग्र स्वास्थ्य को बढ़ावा देती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Completion of important plans",
+      "New work strategies",
+      "Opportunities in hospitals, ashrams, religious or educational institutions",
+      "Receiving guidance from special personalities",
+      "Fulfillment of desires",
+      "Planning new changes"
+    ],
+    "hi": [
+      "महत्वपूर्ण योजनाओं का पूर्ण होना",
+      "नए कार्य योजनाओं का निर्माण",
+      "अस्पताल, आश्रम, धार्मिक या शैक्षणिक संस्थाओं में अवसर",
+      "विशेष व्यक्तित्वों से मार्गदर्शन प्राप्ति",
+      "इच्छाओं की पूर्ति",
+      "नए परिवर्तन की रूपरेखा बनाना"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on completing important plans and forming work strategies",
+        "Seek guidance from experienced or special personalities",
+        "Explore opportunities in hospitals, ashrams, religious, educational, or major business sectors"
+      ],
+      "hi": [
+        "महत्वपूर्ण योजनाओं को पूर्ण करने और कार्य योजनाएँ बनाने पर ध्यान दें",
+        "अनुभवी या विशेष व्यक्तित्वों से मार्गदर्शन प्राप्त करें",
+        "अस्पताल, आश्रम, धार्मिक, शैक्षणिक या व्यावसायिक क्षेत्रों में अवसर तलाशें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize increased intuition and inner inspiration for decision-making",
+        "Engage in virtuous actions to receive positive outcomes",
+        "Leverage secret professional information for benefits"
+      ],
+      "hi": [
+        "निर्णय लेने में बढ़े हुए अंतर्ज्ञान और आंतरिक प्रेरणा का उपयोग करें",
+        "सकारात्मक परिणामों के लिए पुण्य कर्म करें",
+        "लाभ के लिए व्यावसायिक गुप्त जानकारी का लाभ उठाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain focus on long-term stability",
+        "Continue virtuous actions and ethical behavior",
+        "Stay open to guidance and new opportunities"
+      ],
+      "hi": [
+        "दीर्घकालिक स्थिरता पर ध्यान बनाए रखें",
+        "पुण्य कर्म और नैतिक व्यवहार जारी रखें",
+        "मार्गदर्शन और नए अवसरों के लिए खुले रहें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "concentration",
+      "memory",
+      "intuition",
+      "planning",
+      "guidance",
+      "fulfillment",
+      "opportunities",
+      "stability",
+      "secret knowledge",
+      "virtuous actions"
+    ],
+    "hi": [
+      "एकाग्रता",
+      "स्मरण शक्ति",
+      "अंतर्ज्ञान",
+      "योजना",
+      "मार्गदर्शन",
+      "इच्छापूर्ति",
+      "अवसर",
+      "स्थिरता",
+      "गुप्त जानकारी",
+      "पुण्य कर्म"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "inspirational",
+      "stable",
+      "beneficial",
+      "intuitive"
+    ],
+    "hi": [
+      "सहायक",
+      "प्रेरणादायक",
+      "स्थिर",
+      "लाभकारी",
+      "अंतर्ज्ञानी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "inner growth",
+      "professional opportunity",
+      "spiritual guidance",
+      "mental clarity",
+      "ethical development"
+    ],
+    "hi": [
+      "आंतरिक विकास",
+      "व्यावसायिक अवसर",
+      "आध्यात्मिक मार्गदर्शन",
+      "मानसिक स्पष्टता",
+      "नैतिक विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-tri-nep",
+      "core": "This aspect enhances concentration, intuition, and memory, supporting the completion of plans and the formation of important work strategies. It brings inner inspiration, guidance from special personalities, and opportunities in key institutions, fostering stability and the fruition of past good deeds.",
+      "tone": "Warm, supportive, and optimistic"
+    },
+    "hi": {
+      "title": "शनि त्रिकोण नेपच्यून",
+      "core": "यह योग एकाग्रता, अंतर्ज्ञान और स्मरण शक्ति को बढ़ाता है, जिससे योजनाएँ पूर्ण होती हैं और महत्वपूर्ण कार्य योजनाएँ बनती हैं। आंतरिक प्रेरणा, विशेष व्यक्तित्वों से मार्गदर्शन और महत्वपूर्ण संस्थाओं में अवसर मिलते हैं, जो स्थिरता और पूर्व के अच्छे कर्मों के फल को बढ़ावा देते हैं।",
+      "tone": "सहानुभूतिपूर्ण, सहायक और आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Concentration and memory power develop. Plans will be completed/important work strategies will be formed. Intuition increases. Hidden knowledge about subjects is revealed. Inner inspiration is received. Guidance comes from special personalities. Desires get fulfilled. New changes get planned. Opportunities come for important work with hospitals, ashrams, religious institutions, educational institutions or major business organizations. Secret professional information brings benefits. Life gains stability. Fruits of past good deeds are received. Virtuous actions emerge.",
+        "hi": "एकाग्रता और स्मरण शक्ति का विकास होता है। योजना पूर्ण होगी/महत्वपूर्ण कार्य योजना बनेगी। व्यक्ति का अंतर्ज्ञान बढ़ता है। किसी विषय के गहरे रहस्य की जानकारी मिलती है। आंतरिक प्रेरणा मिलती है। किसी विशेष व्यक्तित्व से मार्गदर्शन मिलता है। इच्छापूर्ति का आनंद मिलेगा। नए परिवर्तन की रूपरेखा बनेगी। इस समय व्यक्ति को अस्पतालए आश्रमए धार्मिक संस्थाए शैक्षणिक संस्था या किसी महत्वपूर्ण व्यावसायिक संस्था से जुड़े महत्वपूर्ण कार्यों के अवसर मिलते हैं। व्यक्ति को व्यावसायिक क्षेत्र में गुप्त जानकारी मिलती है जिससे लाभ होता है। जीवन में स्थिरता के अवसर आते हैं। पूर्व के अच्छे कर्मों का फल मिलता है। पुण्य कर्म उदित होते हैं।"
+      },
+      "career": {
+        "en": "Opportunities come for important work with hospitals, ashrams, religious institutions, educational institutions or major business organizations. Secret professional information brings benefits.",
+        "hi": "इस समय व्यक्ति को अस्पतालए आश्रमए धार्मिक संस्थाए शैक्षणिक संस्था या किसी महत्वपूर्ण व्यावसायिक संस्था से जुड़े महत्वपूर्ण कार्यों के अवसर मिलते हैं। व्यक्ति को व्यावसायिक क्षेत्र में गुप्त जानकारी मिलती है जिससे लाभ होता है।"
+      },
+      "relationships": {
+        "en": "Guidance comes from special personalities. Inner inspiration is received. Desires get fulfilled. Virtuous actions emerge.",
+        "hi": "किसी विशेष व्यक्तित्व से मार्गदर्शन मिलता है। आंतरिक प्रेरणा मिलती है। इच्छापूर्ति का आनंद मिलेगा। पुण्य कर्म उदित होते हैं।"
+      },
+      "money": {
+        "en": "Secret professional information brings benefits. Fruits of past good deeds are received.",
+        "hi": "व्यवसायिक क्षेत्र में गुप्त जानकारी मिलती है जिससे लाभ होता है। पूर्व के अच्छे कर्मों का फल मिलता है।"
+      },
+      "health_adj": {
+        "en": "Concentration and memory power develop, supporting mental stability.",
+        "hi": "एकाग्रता और स्मरण शक्ति का विकास होता है, जो मानसिक स्थिरता को बढ़ावा देता है।"
+      }
+    },
+    "aliases": [
+      "Saturn trine Neptune",
+      "Sat TRI Nep",
+      "Saturn-Trine-Neptune",
+      "Saturn Trine to Neptune"
+    ]
+  }
+}

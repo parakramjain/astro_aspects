@@ -1,0 +1,230 @@
+{
+  "id": "PLU_TRI_PLU__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Trine",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Spiritual wisdom deepens with a profound understanding of life and death cycles, encouraging conscious exploration of existence's mysteries.",
+    "hi": "आध्यात्मिक ज्ञान गहरा होता है और जीवन-मृत्यु के चक्रों की गहन समझ विकसित होती है, जिससे अस्तित्व के रहस्यों का सचेत अन्वेषण होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Encourages thoughtful reflection on career purpose and transformation.",
+      "hi": "कैरियर के उद्देश्य और परिवर्तन पर विचारशील चिंतन को प्रोत्साहित करता है।"
+    },
+    "relationships": {
+      "en": "Promotes awareness of deep emotional cycles and transformative connections.",
+      "hi": "गहरे भावनात्मक चक्रों और परिवर्तनकारी संबंधों की जागरूकता बढ़ाता है।"
+    },
+    "money": {
+      "en": "Invites mindful consideration of financial cycles and their impact.",
+      "hi": "वित्तीय चक्रों और उनके प्रभाव पर सचेत विचार करने का अवसर देता है।"
+    },
+    "health_adj": {
+      "en": "Highlights awareness of life-death cycles, encouraging holistic well-being.",
+      "hi": "जीवन-मृत्यु के चक्रों की जागरूकता को उजागर करता है, जो समग्र स्वास्थ्य को प्रोत्साहित करता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual growth",
+      "Life transformation",
+      "Deep personal insight"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "जीवन परिवर्तन",
+      "गहन व्यक्तिगत अंतर्दृष्टि"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential for over-introspection leading to detachment",
+      "Beware of becoming overly absorbed in existential themes"
+    ],
+    "hi": [
+      "अत्यधिक आत्मनिरीक्षण से अलगाव की संभावना",
+      "अस्तित्वगत विषयों में अत्यधिक उलझने से सावधान रहें"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in meditation or spiritual study",
+        "Reflect on life cycles and personal growth"
+      ],
+      "hi": [
+        "ध्यान या आध्यात्मिक अध्ययन में संलग्न हों",
+        "जीवन चक्रों और व्यक्तिगत विकास पर विचार करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on conscious exploration of existence",
+        "Deepen understanding of transformational processes"
+      ],
+      "hi": [
+        "अस्तित्व के सचेत अन्वेषण पर ध्यान केंद्रित करें",
+        "परिवर्तनकारी प्रक्रियाओं की समझ को गहरा करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Integrate insights gained into daily life",
+        "Maintain balance between reflection and action"
+      ],
+      "hi": [
+        "प्राप्त अंतर्दृष्टियों को दैनिक जीवन में समाहित करें",
+        "चिंतन और क्रिया के बीच संतुलन बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "spiritual wisdom",
+      "life-death cycles",
+      "profound understanding",
+      "conscious exploration",
+      "existence mysteries"
+    ],
+    "hi": [
+      "आध्यात्मिक ज्ञान",
+      "जीवन-मृत्यु चक्र",
+      "गहन समझ",
+      "सचेत अन्वेषण",
+      "अस्तित्व के रहस्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "deep",
+      "transformative",
+      "reflective",
+      "conscious"
+    ],
+    "hi": [
+      "गहरा",
+      "परिवर्तनकारी",
+      "चिंतनशील",
+      "सचेत"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "existential awareness",
+      "life transformation"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "अस्तित्व जागरूकता",
+      "जीवन परिवर्तन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-tri-plu",
+      "core": "Deepening spiritual wisdom and conscious exploration of life's mysteries.",
+      "tone": "Warm, reflective, and insightful."
+    },
+    "hi": {
+      "title": "प्लूटो त्रिकोण प्लूटो",
+      "core": "आध्यात्मिक ज्ञान का गहराना और जीवन के रहस्यों का सचेत अन्वेषण।",
+      "tone": "सहानुभूतिपूर्ण, चिंतनशील और सूक्ष्म।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Spiritual wisdom deepens with profound understanding of life and death cycles, encouraging conscious exploration of existence.",
+        "hi": "आध्यात्मिक ज्ञान गहरा होता है और जीवन-मृत्यु के चक्रों की गहन समझ विकसित होती है, जिससे अस्तित्व के रहस्यों का सचेत अन्वेषण होता है।"
+      },
+      "career": {
+        "en": "Encourages thoughtful reflection on career purpose and transformation.",
+        "hi": "कैरियर के उद्देश्य और परिवर्तन पर विचारशील चिंतन को प्रोत्साहित करता है।"
+      },
+      "relationships": {
+        "en": "Promotes awareness of deep emotional cycles and transformative connections.",
+        "hi": "गहरे भावनात्मक चक्रों और परिवर्तनकारी संबंधों की जागरूकता बढ़ाता है।"
+      },
+      "money": {
+        "en": "Invites mindful consideration of financial cycles and their impact.",
+        "hi": "वित्तीय चक्रों और उनके प्रभाव पर सचेत विचार करने का अवसर देता है।"
+      },
+      "health_adj": {
+        "en": "Highlights awareness of life-death cycles, encouraging holistic well-being.",
+        "hi": "जीवन-मृत्यु के चक्रों की जागरूकता को उजागर करता है, जो समग्र स्वास्थ्य को प्रोत्साहित करता है।"
+      }
+    },
+    "aliases": [
+      "Pluto trine Pluto",
+      "Plu TRI Plu",
+      "Pluto-Trine-Pluto",
+      "Pluto Trine to Pluto"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "id": "MAR_TRI_PLU__v1.0.0",
+  "pair": [
+    "Mars",
+    "Trine",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Strong willpower enhances work quality and physical-mental capacities, enabling self-improvement and effective task completion with powerful efforts.",
+    "hi": "प्रबल इच्छाशक्ति कार्य की गुणवत्ता और शारीरिक-मांसिक क्षमताओं को बढ़ाती है, जिससे स्व.उन्नति और शक्तिशाली प्रयासों से कार्य पूर्ण होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Improvement in work quality and professional management of joint assets or investments through determined efforts.",
+      "hi": "कार्य की गुणवत्ता में सुधार और प्रबल इच्छाशक्ति से संयुक्त संपत्ति/निवेश का उत्कृष्ट प्रबंधन।"
+    },
+    "relationships": {
+      "en": "Willingness to accept others' ideas when necessary for progress.",
+      "hi": "उन्नति के लिए आवश्यकतानुसार दूसरों के विचार स्वीकार करने की प्रवृत्ति।"
+    },
+    "money": {
+      "en": "Effective handling and benefit from joint assets and investments due to strong willpower.",
+      "hi": "प्रबल इच्छाशक्ति के कारण संयुक्त संपत्ति और निवेश का प्रभावी प्रबंधन एवं लाभ।"
+    },
+    "health_adj": {
+      "en": "Enhancement of physical and mental capacities.",
+      "hi": "शारीरिक और मानसिक क्षमताओं में सुधार।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Self-improvement opportunities",
+      "Completion of important tasks",
+      "Professional asset management"
+    ],
+    "hi": [
+      "स्व.उन्नति के अवसर",
+      "महत्वपूर्ण कार्यों की पूर्ति",
+      "पेशेवर संपत्ति प्रबंधन"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Use strong willpower to improve work quality",
+        "Be open to others' ideas for progress",
+        "Manage joint assets with determination"
+      ],
+      "hi": [
+        "कार्य की गुणवत्ता सुधारने हेतु प्रबल इच्छाशक्ति का उपयोग करें",
+        "उन्नति के लिए दूसरों के विचार स्वीकार करें",
+        "संयुक्त संपत्ति का दृढ़ता से प्रबंधन करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus efforts on completing tasks powerfully",
+        "Enhance physical and mental capacities"
+      ],
+      "hi": [
+        "शक्तिशाली प्रयासों से कार्य पूर्ण करें",
+        "शारीरिक और मानसिक क्षमताओं को बढ़ाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain progress by continuing strong efforts",
+        "Sustain openness to collaborative ideas"
+      ],
+      "hi": [
+        "मजबूत प्रयास जारी रखकर उन्नति बनाए रखें",
+        "सहयोगी विचारों के प्रति खुलापन बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "willpower",
+      "self-improvement",
+      "work quality",
+      "physical capacity",
+      "mental capacity",
+      "task completion",
+      "joint assets",
+      "investment management",
+      "accepting ideas",
+      "determination"
+    ],
+    "hi": [
+      "इच्छाशक्ति",
+      "स्व.उन्नति",
+      "कार्य गुणवत्ता",
+      "शारीरिक क्षमता",
+      "मानसिक क्षमता",
+      "कार्य पूर्णता",
+      "संयुक्त संपत्ति",
+      "निवेश प्रबंधन",
+      "विचार स्वीकारना",
+      "दृढ़ता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intense",
+      "powerful",
+      "determined",
+      "improving",
+      "professional"
+    ],
+    "hi": [
+      "तीव्र",
+      "शक्तिशाली",
+      "दृढ़",
+      "सुधारात्मक",
+      "पेशेवर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "self-improvement",
+      "strong effort",
+      "collaboration",
+      "effective management"
+    ],
+    "hi": [
+      "स्व.उन्नति",
+      "मजबूत प्रयास",
+      "सहयोग",
+      "प्रभावी प्रबंधन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-tri-plu",
+      "core": "Powerful willpower enhances work quality, physical and mental strength, enabling self-improvement and successful task completion.",
+      "tone": "Warm, neutral, encouraging"
+    },
+    "hi": {
+      "title": "मंगल त्रिकोण प्लूटो",
+      "core": "प्रबल इच्छाशक्ति कार्य गुणवत्ता, शारीरिक और मानसिक शक्ति को बढ़ाती है, जिससे स्व.उन्नति और सफल कार्य पूर्ति संभव होती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, प्रोत्साहक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Strong willpower enhances work quality and physical-mental capacities, enabling self-improvement and effective task completion with powerful efforts.",
+        "hi": "प्रबल इच्छाशक्ति कार्य की गुणवत्ता और शारीरिक-मांसिक क्षमताओं को बढ़ाती है, जिससे स्व.उन्नति और शक्तिशाली प्रयासों से कार्य पूर्ण होता है।"
+      },
+      "career": {
+        "en": "Improvement in work quality and professional management of joint assets or investments through determined efforts.",
+        "hi": "कार्य की गुणवत्ता में सुधार और प्रबल इच्छाशक्ति से संयुक्त संपत्ति/निवेश का उत्कृष्ट प्रबंधन।"
+      },
+      "relationships": {
+        "en": "Willingness to accept others' ideas when necessary for progress.",
+        "hi": "उन्नति के लिए आवश्यकतानुसार दूसरों के विचार स्वीकार करने की प्रवृत्ति।"
+      },
+      "money": {
+        "en": "Effective handling and benefit from joint assets and investments due to strong willpower.",
+        "hi": "प्रबल इच्छाशक्ति के कारण संयुक्त संपत्ति और निवेश का प्रभावी प्रबंधन एवं लाभ।"
+      },
+      "health_adj": {
+        "en": "Enhancement of physical and mental capacities.",
+        "hi": "शारीरिक और मानसिक क्षमताओं में सुधार।"
+      }
+    },
+    "aliases": [
+      "Mars trine Pluto",
+      "Mar TRI Plu",
+      "Mars-Trine-Pluto",
+      "Mars Trine to Pluto"
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": "PLU_SEX_NEP__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Sextile",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Pluto and Neptune opens opportunity/skill. Pluto: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": "Influence emerges via opportunity/skill.",
+    "relationships": "Influence emerges via opportunity/skill.",
+    "money": "Influence emerges via opportunity/skill.",
+    "health_adj": "Influence emerges via opportunity/skill."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "opportunity",
+    "sextile",
+    "skill"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Pluto Sextile Neptune",
+      "core": "Sextile between Pluto and Neptune opens opportunity/skill. Pluto: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Pluto Sextile Neptune (हिन्दी)",
+      "core": "Pluto और Neptune का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Pluto and Neptune opens opportunity/skill. Pluto: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": "Influence emerges via opportunity/skill.",
+      "relationships": "Influence emerges via opportunity/skill.",
+      "money": "Influence emerges via opportunity/skill.",
+      "health_adj": "Influence emerges via opportunity/skill."
+    },
+    "aliases": [
+      "Pluto sextile Neptune",
+      "Plu SEX Nep",
+      "Pluto-Sextile-Neptune",
+      "Pluto Sextile to Neptune"
+    ]
+  }
+}

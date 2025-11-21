@@ -1,0 +1,243 @@
+{
+  "id": "PLU_TRI_MAR__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Trine",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates enhanced willpower and improvements in work quality and physical-mental capacities, offering opportunities for self-improvement and effective collaboration. It supports strong, determined efforts to complete tasks and professional management of joint assets or investments.",
+    "hi": "यह योग तीव्र इच्छाशक्ति, कार्य की गुणवत्ता और शारीरिक-मनोवैज्ञानिक क्षमताओं में सुधार दर्शाता है, जो स्व-उन्नति और प्रभावी सहयोग के अवसर प्रदान करता है। यह कार्यों को पूरा करने के लिए मजबूत और प्रबल प्रयासों तथा संयुक्त संपत्ति या निवेश के पेशेवर प्रबंधन का समर्थन करता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Improved work quality and strong efforts help in task completion; professional management of joint assets and investments is excellent.",
+      "hi": "कार्य की गुणवत्ता में सुधार और मजबूत प्रयास कार्य पूरा करने में सहायक होते हैं; संयुक्त संपत्ति और निवेश का पेशेवर प्रबंधन उत्कृष्ट होता है।"
+    },
+    "relationships": {
+      "en": "Willingness to accept others' ideas when needed facilitates progress and collaboration.",
+      "hi": "आवश्यकता पड़ने पर दूसरों के विचार स्वीकार करने की प्रवृत्ति उन्नति और सहयोग को बढ़ावा देती है।"
+    },
+    "money": {
+      "en": "Effective and professional handling of joint assets and investments benefits from determined willpower.",
+      "hi": "प्रबल इच्छाशक्ति से संयुक्त संपत्ति और निवेश का प्रभावी तथा पेशेवर प्रबंधन लाभकारी होता है।"
+    },
+    "health_adj": {
+      "en": "Enhancement of physical and mental capacities supports overall well-being and work performance.",
+      "hi": "शारीरिक और मानसिक क्षमताओं में सुधार समग्र स्वास्थ्य और कार्य प्रदर्शन का समर्थन करता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Opportunities for self-improvement",
+      "Completion of significant tasks",
+      "Professional management of joint investments"
+    ],
+    "hi": [
+      "स्व-उन्नति के अवसर",
+      "महत्वपूर्ण कार्यों की पूर्ति",
+      "संयुक्त निवेश का पेशेवर प्रबंधन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks described; maintain balance in strong efforts."
+    ],
+    "hi": [
+      "स्पष्ट जोखिम नहीं बताए गए; मजबूत प्रयासों में संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Leverage strong willpower to improve work quality",
+        "Be open to others' ideas to aid progress",
+        "Manage joint assets with professionalism"
+      ],
+      "hi": [
+        "कार्य की गुणवत्ता सुधारने के लिए प्रबल इच्छाशक्ति का उपयोग करें",
+        "प्रगति के लिए दूसरों के विचारों को स्वीकार करें",
+        "संयुक्त संपत्ति का पेशेवर प्रबंधन करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus efforts on completing important tasks",
+        "Collaborate effectively by accepting necessary ideas",
+        "Utilize enhanced physical and mental capacities"
+      ],
+      "hi": [
+        "महत्वपूर्ण कार्यों को पूरा करने पर ध्यान दें",
+        "आवश्यक विचार स्वीकार कर प्रभावी सहयोग करें",
+        "सुधरे हुए शारीरिक और मानसिक क्षमताओं का उपयोग करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain gains in willpower and work quality",
+        "Continue professional management of shared investments",
+        "Sustain openness to collaborative ideas"
+      ],
+      "hi": [
+        "इच्छाशक्ति और कार्य गुणवत्ता में प्राप्त सुधार बनाए रखें",
+        "संयुक्त निवेश के पेशेवर प्रबंधन को जारी रखें",
+        "सहयोगी विचारों के प्रति खुलापन बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "willpower",
+      "work quality",
+      "self-improvement",
+      "collaboration",
+      "strong efforts",
+      "joint assets",
+      "professional management"
+    ],
+    "hi": [
+      "इच्छाशक्ति",
+      "कार्य गुणवत्ता",
+      "स्व-उन्नति",
+      "सहयोग",
+      "मजबूत प्रयास",
+      "संयुक्त संपत्ति",
+      "पेशेवर प्रबंधन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intense",
+      "determined",
+      "improving",
+      "collaborative",
+      "professional"
+    ],
+    "hi": [
+      "तीव्र",
+      "प्रबल",
+      "सुधारात्मक",
+      "सहयोगी",
+      "पेशेवर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "self-improvement",
+      "task completion",
+      "joint financial management",
+      "mental and physical enhancement"
+    ],
+    "hi": [
+      "स्व-उन्नति",
+      "कार्य पूर्णता",
+      "संयुक्त वित्तीय प्रबंधन",
+      "मानसिक और शारीरिक सुधार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-tri-mar",
+      "core": "Enhanced willpower and work quality lead to self-improvement and effective joint management.",
+      "tone": "Warm, professional, and encouraging"
+    },
+    "hi": {
+      "title": "प्लूटो ट्राइन मंगल",
+      "core": "प्रबल इच्छाशक्ति और कार्य गुणवत्ता से स्व-उन्नति और प्रभावी संयुक्त प्रबंधन होता है।",
+      "tone": "सहानुभूतिपूर्ण, पेशेवर और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Enhanced willpower and improvements in work quality and physical-mental capacities offer self-improvement opportunities and support strong efforts.",
+        "hi": "प्रबल इच्छाशक्ति तथा कार्य गुणवत्ता और शारीरिक-मनोवैज्ञानिक क्षमताओं में सुधार स्व-उन्नति के अवसर प्रदान करते हैं और मजबूत प्रयासों का समर्थन करते हैं।"
+      },
+      "career": {
+        "en": "Strong, determined efforts improve work quality and enable excellent management of joint assets and investments.",
+        "hi": "मजबूत और प्रबल प्रयास कार्य गुणवत्ता में सुधार करते हैं और संयुक्त संपत्ति व निवेश का उत्कृष्ट प्रबंधन संभव बनाते हैं।"
+      },
+      "relationships": {
+        "en": "Acceptance of others' ideas when necessary aids progress and collaboration.",
+        "hi": "आवश्यकता पड़ने पर दूसरों के विचार स्वीकार करना उन्नति और सहयोग में सहायक होता है।"
+      },
+      "money": {
+        "en": "Professional management of joint assets and investments benefits from determined willpower.",
+        "hi": "प्रबल इच्छाशक्ति से संयुक्त संपत्ति और निवेश का पेशेवर प्रबंधन लाभकारी होता है।"
+      },
+      "health_adj": {
+        "en": "Physical and mental capacity enhancements support overall well-being and work performance.",
+        "hi": "शारीरिक और मानसिक क्षमताओं में सुधार समग्र स्वास्थ्य और कार्य प्रदर्शन का समर्थन करता है।"
+      }
+    },
+    "aliases": [
+      "Pluto trine Mars",
+      "Plu TRI Mar",
+      "Pluto-Trine-Mars",
+      "Pluto Trine to Mars"
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "PLU_CON_VEN__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Conjunction",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Strong emotional depth and attachment, with relationships marked by control or passion and a connection to past emotional experiences.",
+    "hi": "भावनात्मक गहराई और लगाव की प्रबल भावना, जिसमें संबंधों में नियंत्रण या जुनून होता है और व्यक्ति पुराने भावनात्मक अनुभवों से जुड़ा होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Emotional intensity may influence professional relationships and decision-making.",
+      "hi": "भावनात्मक गहराई पेशेवर संबंधों और निर्णयों को प्रभावित कर सकती है।"
+    },
+    "relationships": {
+      "en": "Relationships may involve control dynamics or passionate attachments, reflecting deep emotional bonds.",
+      "hi": "संबंधों में नियंत्रण या जुनून हो सकता है, जो गहरे भावनात्मक बंधनों को दर्शाता है।"
+    },
+    "money": {
+      "en": "Financial matters may be influenced by emotional attachments or past experiences.",
+      "hi": "वित्तीय मामलों में भावनात्मक लगाव या पुराने अनुभवों का प्रभाव हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Emotional depth may affect mental well-being; awareness of emotional patterns is beneficial.",
+      "hi": "भावनात्मक गहराई मानसिक स्वास्थ्य को प्रभावित कर सकती है; भावनात्मक पैटर्न की समझ लाभकारी है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional relationship developments",
+      "Revisiting past emotional experiences"
+    ],
+    "hi": [
+      "भावनात्मक संबंधों का विकास",
+      "पुराने भावनात्मक अनुभवों से जुड़ाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential for controlling behavior in relationships",
+      "Strong passions may lead to emotional turbulence"
+    ],
+    "hi": [
+      "संबंधों में नियंत्रण की संभावना",
+      "प्रबल जुनून से भावनात्मक अस्थिरता हो सकती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Reflect on emotional attachments",
+        "Be mindful of control tendencies in relationships"
+      ],
+      "hi": [
+        "भावनात्मक लगाव पर विचार करें",
+        "संबंधों में नियंत्रण की प्रवृत्ति से सावधान रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on deep emotional connection",
+        "Address past emotional issues consciously"
+      ],
+      "hi": [
+        "गहरे भावनात्मक संबंध पर ध्यान दें",
+        "पुराने भावनात्मक मुद्दों को सचेत रूप से संबोधित करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Release excessive control or possessiveness",
+        "Allow emotional healing and detachment"
+      ],
+      "hi": [
+        "अत्यधिक नियंत्रण या स्वामित्व छोड़ें",
+        "भावनात्मक उपचार और अलगाव की अनुमति दें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional depth",
+      "attachment",
+      "control",
+      "passion",
+      "past experiences"
+    ],
+    "hi": [
+      "भावनात्मक गहराई",
+      "लगाव",
+      "नियंत्रण",
+      "जुनून",
+      "पुराने अनुभव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intense",
+      "connected",
+      "passionate"
+    ],
+    "hi": [
+      "तीव्र",
+      "जुड़ा हुआ",
+      "जुनूनी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional bonding",
+      "control dynamics",
+      "past influence"
+    ],
+    "hi": [
+      "भावनात्मक बंधन",
+      "नियंत्रण की गतिशीलता",
+      "पुराने प्रभाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-con-ven",
+      "core": "Strong emotional depth and attachment with control or passion in relationships.",
+      "tone": "Warm, neutral, and reflective"
+    },
+    "hi": {
+      "title": "प्लूटो संयोजन शुक्र",
+      "core": "संबंधों में नियंत्रण या जुनून के साथ भावनात्मक गहराई और लगाव।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Strong emotional depth and attachment. Relationships may show control or passion. The person may feel connected to past emotional experiences.",
+        "hi": "भावनात्मक गहराई और लगाव की भावना प्रबल होती है। संबंधों में नियंत्रण या जुनून देखने को मिल सकता है। व्यक्ति पुराने अनुभवों से जुड़ाव महसूस कर सकता है।"
+      },
+      "career": {
+        "en": "Emotional intensity may influence professional relationships and decision-making.",
+        "hi": "भावनात्मक गहराई पेशेवर संबंधों और निर्णयों को प्रभावित कर सकती है।"
+      },
+      "relationships": {
+        "en": "Relationships may involve control dynamics or passionate attachments, reflecting deep emotional bonds.",
+        "hi": "संबंधों में नियंत्रण या जुनून हो सकता है, जो गहरे भावनात्मक बंधनों को दर्शाता है।"
+      },
+      "money": {
+        "en": "Financial matters may be influenced by emotional attachments or past experiences.",
+        "hi": "वित्तीय मामलों में भावनात्मक लगाव या पुराने अनुभवों का प्रभाव हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Emotional depth may affect mental well-being; awareness of emotional patterns is beneficial.",
+        "hi": "भावनात्मक गहराई मानसिक स्वास्थ्य को प्रभावित कर सकती है; भावनात्मक पैटर्न की समझ लाभकारी है।"
+      }
+    },
+    "aliases": [
+      "Pluto conjunction Venus",
+      "Plu CON Ven",
+      "Pluto-Conjunction-Venus",
+      "Pluto Conjunction to Venus"
+    ]
+  }
+}

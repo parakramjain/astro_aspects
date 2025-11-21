@@ -1,0 +1,239 @@
+{
+  "id": "URA_CON_MER__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Conjunction",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period marked by quick thinking, enhanced communication, and interest in science and technology, leading to improvements in work and possible changes in business or finance.",
+    "hi": "यह समय तेज़ सोच, बेहतर संवाद और विज्ञान तथा तकनीक में रुचि से भरा होता है, जो काम में सुधार और व्यापार या वित्त में बदलाव ला सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Improvement in work through adoption of modern tools and technology; sudden innovative ideas may arise.",
+      "hi": "आधुनिक तकनीक अपनाकर काम में सुधार; अचानक नए विचार आ सकते हैं।"
+    },
+    "relationships": {
+      "en": "Communication with special individuals is enhanced, facilitating meaningful exchanges.",
+      "hi": "खास लोगों से बातचीत बेहतर होती है, जिससे सार्थक संवाद संभव होता है।"
+    },
+    "money": {
+      "en": "Possible changes or shifts in business, finance, taxes, or investments.",
+      "hi": "व्यापार, वित्त, टैक्स या निवेश में बदलाव संभव हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus is on mental activity and communication.",
+      "hi": "स्वास्थ्य संबंधी विशेष बदलाव नहीं; ध्यान मानसिक गतिविधि और संवाद पर है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Innovation and idea generation",
+      "Business and financial changes",
+      "Enhanced communication"
+    ],
+    "hi": [
+      "नवाचार और विचार उत्पन्न होना",
+      "व्यापार और वित्तीय बदलाव",
+      "संचार में सुधार"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Sudden decisions may require careful consideration.",
+      "Changes in financial matters could bring uncertainty."
+    ],
+    "hi": [
+      "अचानक लिए गए निर्णयों में सावधानी आवश्यक है।",
+      "वित्तीय मामलों में बदलाव अनिश्चितता ला सकते हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Embrace modern technology to improve work efficiency.",
+        "Engage actively in communication with key contacts."
+      ],
+      "hi": [
+        "काम में सुधार के लिए आधुनिक तकनीक अपनाएं।",
+        "महत्वपूर्ण लोगों से सक्रिय रूप से संवाद करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be open to sudden ideas and decisions.",
+        "Monitor changes in business and financial areas closely."
+      ],
+      "hi": [
+        "अचानक विचारों और निर्णयों के लिए तैयार रहें।",
+        "व्यापार और वित्तीय क्षेत्रों में बदलाव पर ध्यान दें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review decisions made during this period for long-term impact.",
+        "Adjust strategies if financial or business changes occur."
+      ],
+      "hi": [
+        "इस अवधि में लिए गए निर्णयों की दीर्घकालिक प्रभाव के लिए समीक्षा करें।",
+        "वित्तीय या व्यापारिक बदलाव होने पर रणनीतियाँ समायोजित करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "fast thinking",
+      "communication",
+      "science",
+      "technology",
+      "electricity",
+      "modern tools",
+      "sudden ideas",
+      "business changes",
+      "financial shifts"
+    ],
+    "hi": [
+      "तेज़ सोच",
+      "संचार",
+      "विज्ञान",
+      "तकनीक",
+      "बिजली",
+      "आधुनिक उपकरण",
+      "अचानक विचार",
+      "व्यापार बदलाव",
+      "वित्तीय परिवर्तन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "innovative",
+      "dynamic",
+      "intellectual",
+      "progressive"
+    ],
+    "hi": [
+      "नवोन्मेषी",
+      "गतिशील",
+      "बौद्धिक",
+      "प्रगतिशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "technology and science focus",
+      "communication enhancement",
+      "business and finance transformation"
+    ],
+    "hi": [
+      "तकनीक और विज्ञान पर ध्यान",
+      "संचार में सुधार",
+      "व्यापार और वित्तीय परिवर्तन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-con-mer",
+      "core": "A time of rapid mental activity, innovative communication, and interest in technology leading to work improvements and possible financial changes.",
+      "tone": "Warm, neutral, and encouraging thoughtful adaptation."
+    },
+    "hi": {
+      "title": "यूरेनस संयोजन बुध",
+      "core": "तेज़ मानसिक गतिविधि, नवाचारी संचार और तकनीक में रुचि का समय, जो काम में सुधार और वित्तीय बदलाव ला सकता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सोच-समझकर अनुकूलन के लिए प्रोत्साहित करने वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Fast thinking, communication flow, interest in science and technology, work improvement, sudden ideas, business and financial changes.",
+        "hi": "तेज़ सोच, संचार प्रवाह, विज्ञान और तकनीक में रुचि, काम में सुधार, अचानक विचार, व्यापार और वित्तीय बदलाव।"
+      },
+      "career": {
+        "en": "Improvement in work using modern tools and technology; emergence of sudden ideas or decisions.",
+        "hi": "आधुनिक उपकरणों और तकनीक के उपयोग से काम में सुधार; अचानक विचार या निर्णय।"
+      },
+      "relationships": {
+        "en": "Enhanced communication with special individuals.",
+        "hi": "खास लोगों से बेहतर संवाद।"
+      },
+      "money": {
+        "en": "Possible changes in business, finance, taxes, or investments.",
+        "hi": "व्यापार, वित्त, टैक्स या निवेश में संभावित बदलाव।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments; emphasis on mental and communicative activity.",
+        "hi": "विशेष स्वास्थ्य बदलाव नहीं; मानसिक और संवादात्मक गतिविधि पर जोर।"
+      }
+    },
+    "aliases": [
+      "Uranus conjunction Mercury",
+      "Ura CON Mer",
+      "Uranus-Conjunction-Mercury",
+      "Uranus Conjunction to Mercury"
+    ]
+  }
+}

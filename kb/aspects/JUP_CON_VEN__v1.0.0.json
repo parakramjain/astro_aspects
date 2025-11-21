@@ -1,0 +1,239 @@
+{
+  "id": "JUP_CON_VEN__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Conjunction",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A time of optimism, generosity, and social charm. The person is considerate and promotes hobbies, art, and community work. Businesses related to art or fashion benefit.",
+    "hi": "आशावाद, उदारता और सामाजिक आकर्षण का समय। व्यक्ति दूसरों की ज़रूरतों का ध्यान रखता है और अपने शौक, कला और समाजसेवा को बढ़ावा देता है। कला और फैशन से जुड़े व्यापार को लाभ होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Businesses related to art or fashion benefit during this period.",
+      "hi": "इस अवधि में कला और फैशन से जुड़े व्यापार को लाभ होता है।"
+    },
+    "relationships": {
+      "en": "The person displays social charm and is considerate of others' needs.",
+      "hi": "व्यक्ति सामाजिक लोकप्रियता दिखाता है और दूसरों की ज़रूरतों का ध्यान रखता है।"
+    },
+    "money": {
+      "en": "Financial gains are likely in artistic or fashion-related businesses.",
+      "hi": "कला या फैशन से जुड़े व्यवसायों में आर्थिक लाभ संभव है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Optimism",
+      "Generosity",
+      "Social charm",
+      "Promotion of hobbies and community work"
+    ],
+    "hi": [
+      "आशावाद",
+      "उदारता",
+      "सामाजिक लोकप्रियता",
+      "शौक और समाजसेवा को बढ़ावा"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in social and community activities.",
+        "Promote hobbies and artistic interests.",
+        "Explore opportunities in art or fashion businesses."
+      ],
+      "hi": [
+        "सामाजिक और समाजसेवी गतिविधियों में भाग लें।",
+        "अपने शौक और कला में रुचि बढ़ाएं।",
+        "कला या फैशन व्यापार में अवसर तलाशें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on generosity and social charm.",
+        "Support community and artistic projects."
+      ],
+      "hi": [
+        "उदारता और सामाजिक आकर्षण पर ध्यान दें।",
+        "समाज और कला परियोजनाओं का समर्थन करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain optimism and continue promoting hobbies.",
+        "Sustain social connections and generosity."
+      ],
+      "hi": [
+        "आशावाद बनाए रखें और शौक को बढ़ावा देते रहें।",
+        "सामाजिक संबंध और उदारता बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "optimism",
+      "generosity",
+      "social charm",
+      "considerate",
+      "hobbies",
+      "art",
+      "community work",
+      "fashion",
+      "business benefit"
+    ],
+    "hi": [
+      "आशावाद",
+      "उदारता",
+      "सामाजिक लोकप्रियता",
+      "ध्यान रखना",
+      "शौक",
+      "कला",
+      "समाजसेवा",
+      "फैशन",
+      "व्यापार लाभ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "supportive",
+      "creative",
+      "social"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "समर्थक",
+      "रचनात्मक",
+      "सामाजिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "optimism",
+      "generosity",
+      "artistic promotion",
+      "social engagement"
+    ],
+    "hi": [
+      "आशावाद",
+      "उदारता",
+      "कला का प्रचार",
+      "सामाजिक जुड़ाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-con-ven",
+      "core": "A time marked by optimism, generosity, and social charm, encouraging artistic and community pursuits.",
+      "tone": "Warm, encouraging, and positive"
+    },
+    "hi": {
+      "title": "बृहस्पति और शुक्र का संयोग",
+      "core": "आशावाद, उदारता और सामाजिक लोकप्रियता से भरा समय, जो कला और समाजसेवा को बढ़ावा देता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और सकारात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A time of optimism, generosity, and social charm. The person is considerate and promotes hobbies, art, and community work. Businesses related to art or fashion benefit.",
+        "hi": "आशावाद, उदारता और सामाजिक आकर्षण का समय। व्यक्ति दूसरों की ज़रूरतों का ध्यान रखता है और अपने शौक, कला और समाजसेवा को बढ़ावा देता है। कला और फैशन से जुड़े व्यापार को लाभ होता है।"
+      },
+      "career": {
+        "en": "Businesses related to art or fashion benefit during this period.",
+        "hi": "इस अवधि में कला और फैशन से जुड़े व्यापार को लाभ होता है।"
+      },
+      "relationships": {
+        "en": "The person displays social charm and is considerate of others' needs.",
+        "hi": "व्यक्ति सामाजिक लोकप्रियता दिखाता है और दूसरों की ज़रूरतों का ध्यान रखता है।"
+      },
+      "money": {
+        "en": "Financial gains are likely in artistic or fashion-related businesses.",
+        "hi": "कला या फैशन से जुड़े व्यवसायों में आर्थिक लाभ संभव है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं हैं।"
+      }
+    },
+    "aliases": [
+      "Jupiter conjunction Venus",
+      "Jup CON Ven",
+      "Jupiter-Conjunction-Venus",
+      "Jupiter Conjunction to Venus"
+    ]
+  }
+}

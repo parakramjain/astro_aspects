@@ -1,0 +1,227 @@
+{
+  "id": "SUN_CON_VEN__v1.0.0",
+  "pair": [
+    "Sun",
+    "Conjunction",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect enhances the person's feelings of love, appreciation for art and beauty, and favors romantic relationships. It also brings opportunities for praise and recognition.",
+    "hi": "यह योग व्यक्ति के प्रेम, कला और सौंदर्य की भावना को बढ़ाता है तथा रोमांटिक संबंधों के लिए अनुकूल होता है। यह प्रशंसा और सम्मान के अवसर भी लाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "The person may receive praise and recognition, possibly related to artistic or creative talents.",
+      "hi": "व्यक्ति को कला या रचनात्मक प्रतिभा से संबंधित प्रशंसा और सम्मान मिल सकता है।"
+    },
+    "relationships": {
+      "en": "Favorable for romantic relationships with increased interest in love and beauty.",
+      "hi": "रोमांटिक संबंधों के लिए अनुकूल, प्रेम और सौंदर्य में रुचि बढ़ती है।"
+    },
+    "money": {
+      "en": "No specific financial effects are indicated during this period.",
+      "hi": "इस अवधि में वित्तीय प्रभाव स्पष्ट नहीं हैं।"
+    },
+    "health_adj": {
+      "en": "No particular health adjustments or concerns are noted.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन या चिंता नहीं बताई गई है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "romantic relationship",
+      "artistic interest",
+      "recognition"
+    ],
+    "hi": [
+      "रोमांटिक संबंध",
+      "कलात्मक रुचि",
+      "सम्मान"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in artistic or creative activities to enhance appreciation.",
+        "Nurture romantic relationships with openness and affection."
+      ],
+      "hi": [
+        "कला या रचनात्मक गतिविधियों में संलग्न हों।",
+        "रोमांटिक संबंधों को खुलापन और स्नेह के साथ पोषित करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Seek opportunities for social recognition and praise.",
+        "Express feelings of love and appreciation openly."
+      ],
+      "hi": [
+        "सामाजिक प्रशंसा और सम्मान के अवसर खोजें।",
+        "प्रेम और प्रशंसा की भावनाओं को खुलकर व्यक्त करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain the positive connections developed during this time.",
+        "Reflect on the appreciation for beauty and art gained."
+      ],
+      "hi": [
+        "इस समय विकसित सकारात्मक संबंधों को बनाए रखें।",
+        "प्राप्त सौंदर्य और कला की सराहना पर विचार करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "love",
+      "art",
+      "beauty",
+      "romantic relationships",
+      "praise",
+      "recognition"
+    ],
+    "hi": [
+      "प्रेम",
+      "कला",
+      "सौंदर्य",
+      "रोमांटिक संबंध",
+      "प्रशंसा",
+      "सम्मान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "appreciative",
+      "romantic",
+      "creative"
+    ],
+    "hi": [
+      "अनुकूल",
+      "सराहनीय",
+      "रोमांटिक",
+      "रचनात्मक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "love and beauty",
+      "artistic expression",
+      "social recognition"
+    ],
+    "hi": [
+      "प्रेम और सौंदर्य",
+      "कलात्मक अभिव्यक्ति",
+      "सामाजिक सम्मान"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-con-ven",
+      "core": "Enhances love, beauty, and artistic appreciation; favors romantic relationships and recognition.",
+      "tone": "Warm, positive, and encouraging."
+    },
+    "hi": {
+      "title": "सूर्य का शुक्र से योग",
+      "core": "प्रेम, सौंदर्य और कला की भावना को बढ़ाता है; रोमांटिक संबंधों और सम्मान के लिए अनुकूल।",
+      "tone": "स्नेहपूर्ण, सकारात्मक और प्रोत्साहक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This aspect enhances the person's feelings of love, appreciation for art and beauty, and favors romantic relationships. It also brings opportunities for praise and recognition.",
+        "hi": "यह योग व्यक्ति के प्रेम, कला और सौंदर्य की भावना को बढ़ाता है तथा रोमांटिक संबंधों के लिए अनुकूल होता है। यह प्रशंसा और सम्मान के अवसर भी लाता है।"
+      },
+      "career": {
+        "en": "The person may receive praise and recognition, possibly related to artistic or creative talents.",
+        "hi": "व्यक्ति को कला या रचनात्मक प्रतिभा से संबंधित प्रशंसा और सम्मान मिल सकता है।"
+      },
+      "relationships": {
+        "en": "Favorable for romantic relationships with increased interest in love and beauty.",
+        "hi": "रोमांटिक संबंधों के लिए अनुकूल, प्रेम और सौंदर्य में रुचि बढ़ती है।"
+      },
+      "money": {
+        "en": "No specific financial effects are indicated during this period.",
+        "hi": "इस अवधि में वित्तीय प्रभाव स्पष्ट नहीं हैं।"
+      },
+      "health_adj": {
+        "en": "No particular health adjustments or concerns are noted.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन या चिंता नहीं बताई गई है।"
+      }
+    },
+    "aliases": [
+      "Sun conjunction Venus",
+      "Sun CON Ven",
+      "Sun-Conjunction-Venus",
+      "Sun Conjunction to Venus"
+    ]
+  }
+}

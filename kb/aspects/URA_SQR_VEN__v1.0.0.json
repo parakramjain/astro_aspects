@@ -1,0 +1,235 @@
+{
+  "id": "URA_SQR_VEN__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Square",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Emotional instability and rebelliousness in relationships cause detachment from joy and impulsive actions leading to physical and social difficulties.",
+    "hi": "भावनात्मक अस्थिरता और संबंधों में विद्रोह से सुख से अलगाव होता है तथा आवेगी व्यवहार शारीरिक और सामाजिक समस्याएं उत्पन्न करता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Impulsive behavior may affect professional relationships and cause instability at work.",
+      "hi": "आवेगी व्यवहार से पेशेवर संबंध प्रभावित हो सकते हैं और कार्यस्थल पर अस्थिरता आ सकती है।"
+    },
+    "relationships": {
+      "en": "Emotional instability and rebelliousness increase discord and irresponsibility in relationships.",
+      "hi": "भावनात्मक अस्थिरता और विद्रोह से संबंधों में झगड़ा और गैर-जिम्मेदारी बढ़ती है।"
+    },
+    "money": {
+      "en": "Impulsive actions can lead to financial unpredictability and challenges.",
+      "hi": "आवेगी निर्णय वित्तीय अनिश्चितता और समस्याएं ला सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional turmoil and impulsiveness may contribute to physical and social health issues.",
+      "hi": "भावनात्मक उथल-पुथल और आवेग शारीरिक एवं सामाजिक स्वास्थ्य समस्याओं का कारण बन सकते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Relationship challenges",
+      "Emotional upheaval",
+      "Social conflicts"
+    ],
+    "hi": [
+      "संबंधों में कठिनाइयाँ",
+      "भावनात्मक उथल-पुथल",
+      "सामाजिक विवाद"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional instability may lead to impulsive decisions.",
+      "Rebelliousness can cause social and physical problems.",
+      "Detachment from joy may affect wellbeing."
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता आवेगी निर्णय ला सकती है।",
+      "विद्रोह सामाजिक और शारीरिक समस्याएं उत्पन्न कर सकता है।",
+      "सुख से अलगाव से स्वास्थ्य प्रभावित हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Practice emotional awareness in relationships.",
+        "Channel rebellious energy constructively."
+      ],
+      "hi": [
+        "संबंधों में भावनात्मक जागरूकता अपनाएं।",
+        "विद्रोही ऊर्जा को रचनात्मक रूप से उपयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive reactions during emotional stress.",
+        "Seek balance to reduce social conflicts."
+      ],
+      "hi": [
+        "भावनात्मक तनाव में आवेगी प्रतिक्रिया से बचें।",
+        "सामाजिक विवाद कम करने के लिए संतुलन खोजें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons from emotional challenges.",
+        "Gradually regain stability in relationships."
+      ],
+      "hi": [
+        "भावनात्मक चुनौतियों से सीखें।",
+        "संबंधों में धीरे-धीरे स्थिरता पुनः प्राप्त करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional instability",
+      "rebelliousness",
+      "impulsiveness",
+      "detachment",
+      "social issues",
+      "physical problems"
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता",
+      "विद्रोह",
+      "आवेग",
+      "अलगाव",
+      "सामाजिक समस्याएं",
+      "शारीरिक समस्याएं"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "unstable",
+      "impulsive",
+      "rebellious",
+      "detached"
+    ],
+    "hi": [
+      "अस्थिर",
+      "आवेगी",
+      "विद्रोही",
+      "अलगाव"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "relationship tension",
+      "emotional upheaval",
+      "social challenges"
+    ],
+    "hi": [
+      "संबंध तनाव",
+      "भावनात्मक उथल-पुथल",
+      "सामाजिक चुनौतियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-squ-ven",
+      "core": "Emotional instability and rebelliousness in relationships cause detachment from joy and impulsive actions leading to physical and social difficulties.",
+      "tone": "Warm, neutral, and cautiously descriptive"
+    },
+    "hi": {
+      "title": "यूरेनस स्क्वायर वीनस",
+      "core": "भावनात्मक अस्थिरता और संबंधों में विद्रोह से सुख से अलगाव होता है तथा आवेगी व्यवहार शारीरिक और सामाजिक समस्याएं उत्पन्न करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक वर्णनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional instability and rebelliousness in relationships cause detachment from joy and impulsive actions leading to physical and social difficulties.",
+        "hi": "भावनात्मक अस्थिरता और संबंधों में विद्रोह से सुख से अलगाव होता है तथा आवेगी व्यवहार शारीरिक और सामाजिक समस्याएं उत्पन्न करता है।"
+      },
+      "career": {
+        "en": "Impulsive behavior may affect professional relationships and cause instability at work.",
+        "hi": "आवेगी व्यवहार से पेशेवर संबंध प्रभावित हो सकते हैं और कार्यस्थल पर अस्थिरता आ सकती है।"
+      },
+      "relationships": {
+        "en": "Emotional instability and rebelliousness increase discord and irresponsibility in relationships.",
+        "hi": "भावनात्मक अस्थिरता और विद्रोह से संबंधों में झगड़ा और गैर-जिम्मेदारी बढ़ती है।"
+      },
+      "money": {
+        "en": "Impulsive actions can lead to financial unpredictability and challenges.",
+        "hi": "आवेगी निर्णय वित्तीय अनिश्चितता और समस्याएं ला सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional turmoil and impulsiveness may contribute to physical and social health issues.",
+        "hi": "भावनात्मक उथल-पुथल और आवेग शारीरिक एवं सामाजिक स्वास्थ्य समस्याओं का कारण बन सकते हैं।"
+      }
+    },
+    "aliases": [
+      "Uranus square Venus",
+      "Ura SQR Ven",
+      "Uranus-Square-Venus",
+      "Uranus Square to Venus"
+    ]
+  }
+}

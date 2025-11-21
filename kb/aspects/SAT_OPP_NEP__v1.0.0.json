@@ -1,0 +1,271 @@
+{
+  "id": "SAT_OPP_NEP__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Opposition",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates emotional detachment and insecurity in relationships, with tendencies to blame others and avoid responsibilities. Hidden fears and lack of confidence cause difficulties, and past negative actions may affect reputation. It is a challenging time for health, discipline, and dealings with charitable or religious institutions.",
+    "hi": "यह योग संबंधों में भावनात्मक उदासीनता और असुरक्षा दर्शाता है, जिसमें दूसरों को दोष देने और जिम्मेदारियों से बचने की प्रवृत्ति होती है। छिपे हुए भय और आत्मविश्वास की कमी समस्याएँ उत्पन्न करती हैं, तथा पूर्व के बुरे कर्म प्रतिष्ठा को प्रभावित कर सकते हैं। स्वास्थ्य, अनुशासन और धार्मिक या सहायता संस्थाओं से व्यवहार के लिए यह कठिन समय है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Risk of unethical or risky activities causing crises; reputation damage possible due to past actions.",
+      "hi": "अनैतिक या जोखिम भरे कार्यों से संकट उत्पन्न हो सकते हैं; पूर्व कर्मों के कारण प्रतिष्ठा हानि संभव है।"
+    },
+    "relationships": {
+      "en": "Emotional detachment, insecurity, loneliness, claiming supportiveness, blaming others, and hidden fears causing problems.",
+      "hi": "भावनात्मक उदासीनता, असुरक्षा, अकेलापन, सहायक होने का दावा, दूसरों को दोष देना, और छिपे भय समस्याएँ उत्पन्न करते हैं।"
+    },
+    "money": {
+      "en": "Unethical or risky financial dealings may lead to crises; avoid important transactions with religious or charitable institutions.",
+      "hi": "अनैतिक या जोखिम भरे वित्तीय व्यवहार संकट ला सकते हैं; धार्मिक या सहायता संस्थाओं के साथ महत्वपूर्ण लेन-देन से बचें।"
+    },
+    "health_adj": {
+      "en": "Exercise may disrupt physical balance and weaken health; overall health may be fragile during this period.",
+      "hi": "व्यायाम से शारीरिक संतुलन बिगड़ सकता है और स्वास्थ्य कमजोर हो सकता है; इस समय स्वास्थ्य नाजुक हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Relationship challenges",
+      "Reputation issues",
+      "Health concerns",
+      "Conflict with institutions"
+    ],
+    "hi": [
+      "संबंधों में चुनौतियाँ",
+      "प्रतिष्ठा संबंधी समस्याएँ",
+      "स्वास्थ्य की चिंता",
+      "संस्थाओं के साथ विवाद"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional pain and fear in relationships",
+      "Loss of confidence and discipline",
+      "Avoidance of responsibilities",
+      "Physical health imbalance from exercise",
+      "Crises from unethical or risky actions",
+      "Negative consequences of past bad deeds"
+    ],
+    "hi": [
+      "संबंधों में भावनात्मक दुख और भय",
+      "आत्मविश्वास और अनुशासन की कमी",
+      "जिम्मेदारियों से बचाव",
+      "व्यायाम से शारीरिक असंतुलन",
+      "अनैतिक या जोखिम भरे कार्यों से संकट",
+      "पूर्व बुरे कर्मों के नकारात्मक परिणाम"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of emotional detachment and insecurity in relationships",
+        "Avoid blaming others and seeking undue sympathy",
+        "Maintain discipline and face responsibilities",
+        "Exercise caution in dealings with religious or charitable institutions"
+      ],
+      "hi": [
+        "संबंधों में भावनात्मक उदासीनता और असुरक्षा से सावधान रहें",
+        "दूसरों को दोष देने और अत्यधिक सहानुभूति मांगने से बचें",
+        "अनुशासन बनाए रखें और जिम्मेदारियों का सामना करें",
+        "धार्मिक या सहायता संस्थाओं से व्यवहार में सावधानी रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Recognize hidden fears causing problems",
+        "Avoid risky or unethical activities",
+        "Refrain from strenuous exercise that may harm health"
+      ],
+      "hi": [
+        "समस्याएँ उत्पन्न करने वाले छिपे भय पहचानें",
+        "जोखिम भरे या अनैतिक कार्यों से बचें",
+        "स्वास्थ्य को नुकसान पहुंचाने वाले कठोर व्यायाम से बचें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually regain confidence and discipline",
+        "Reduce blaming others and seeking sympathy",
+        "Restore emotional balance and responsibility"
+      ],
+      "hi": [
+        "धीरे-धीरे आत्मविश्वास और अनुशासन पुनः प्राप्त करें",
+        "दूसरों को दोष देना और सहानुभूति मांगना कम करें",
+        "भावनात्मक संतुलन और जिम्मेदारी बहाल करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional detachment",
+      "insecurity",
+      "blaming others",
+      "hidden fears",
+      "lack of confidence",
+      "avoidance of responsibility",
+      "health imbalance",
+      "reputation damage",
+      "unethical risk"
+    ],
+    "hi": [
+      "भावनात्मक उदासीनता",
+      "असुरक्षा",
+      "दूसरों को दोष देना",
+      "छिपे भय",
+      "आत्मविश्वास की कमी",
+      "जिम्मेदारी से बचना",
+      "स्वास्थ्य असंतुलन",
+      "प्रतिष्ठा हानि",
+      "अनैतिक जोखिम"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "emotional",
+      "insecure",
+      "risk-prone",
+      "responsibility-avoidant",
+      "health-vulnerable"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "असुरक्षित",
+      "जोखिमपूर्ण",
+      "जिम्मेदारी से बचने वाला",
+      "स्वास्थ्य कमजोर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional pain",
+      "fear and insecurity",
+      "blame and sympathy seeking",
+      "hidden fears",
+      "discipline and confidence issues",
+      "health caution",
+      "reputation risk",
+      "ethical challenges"
+    ],
+    "hi": [
+      "भावनात्मक दुख",
+      "भय और असुरक्षा",
+      "दोषारोपण और सहानुभूति मांगना",
+      "छिपे भय",
+      "अनुशासन और आत्मविश्वास की समस्याएँ",
+      "स्वास्थ्य सावधानी",
+      "प्रतिष्ठा जोखिम",
+      "नैतिक चुनौतियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-opp-nep",
+      "core": "This aspect highlights emotional detachment, insecurity, and hidden fears affecting relationships and reputation, along with health and ethical challenges.",
+      "tone": "Warm, neutral, and cautiously descriptive"
+    },
+    "hi": {
+      "title": "शनि विपरीत नेपच्यून",
+      "core": "यह योग भावनात्मक उदासीनता, असुरक्षा और छिपे भय को दर्शाता है जो संबंधों, प्रतिष्ठा, स्वास्थ्य और नैतिकता को प्रभावित करते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक वर्णनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Relationships cause emotional detachment, insecurity, and hidden fears leading to problems; lack of confidence and discipline burdens others; past bad actions affect reputation.",
+        "hi": "संबंधों में भावनात्मक उदासीनता, असुरक्षा और छिपे भय समस्याएँ उत्पन्न करते हैं; आत्मविश्वास और अनुशासन की कमी दूसरों के लिए बोझ है; पूर्व बुरे कर्म प्रतिष्ठा को प्रभावित करते हैं।"
+      },
+      "career": {
+        "en": "Unethical or risky activities may cause crises and harm reputation due to consequences of past actions.",
+        "hi": "अनैतिक या जोखिम भरे कार्य संकट उत्पन्न कर सकते हैं और पूर्व कर्मों के कारण प्रतिष्ठा को नुकसान पहुंचा सकते हैं।"
+      },
+      "relationships": {
+        "en": "Emotional pain, fear, insecurity, blaming others, and seeking sympathy characterize relationship dynamics.",
+        "hi": "भावनात्मक दुख, भय, असुरक्षा, दूसरों को दोष देना और सहानुभूति मांगना संबंधों की विशेषताएँ हैं।"
+      },
+      "money": {
+        "en": "Avoid dealings with religious, charitable, or medical institutions; unethical financial activities may lead to crises.",
+        "hi": "धार्मिक, सहायता या चिकित्सा संस्थाओं से व्यवहार से बचें; अनैतिक वित्तीय कार्य संकट ला सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Exercise may harm physical balance and health; overall health may weaken during this period.",
+        "hi": "व्यायाम से शारीरिक संतुलन और स्वास्थ्य प्रभावित हो सकता है; इस अवधि में स्वास्थ्य कमजोर हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Saturn opposition Neptune",
+      "Sat OPP Nep",
+      "Saturn-Opposition-Neptune",
+      "Saturn Opposition to Neptune"
+    ]
+  }
+}

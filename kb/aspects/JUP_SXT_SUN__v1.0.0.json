@@ -1,0 +1,255 @@
+{
+  "id": "JUP_SEX_SUN__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Sextile",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased inner strength leads to respect, honor, and enthusiasm for achieving goals in educational, intellectual, philosophical, or charitable fields, with successful collaboration and leadership in group activities.",
+    "hi": "आत्मबल बढ़ने से मान-सम्मान प्राप्त होता है और व्यक्ति शैक्षिक, बौद्धिक, तत्त्वज्ञान या दान के क्षेत्र में अपने उद्देश्य को पाने के लिए उत्साही रहता है, साथ ही सामूहिक कार्यों में सफल भागीदारी और नेतृत्व करता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Development of leadership qualities and success in group activities or special responsibilities; support from religious or educational institutions for research or deep study.",
+      "hi": "नेतृत्व गुणों का विकास और सामूहिक कार्यों या विशेष जिम्मेदारियों में सफलता; अनुसंधान या गहन अध्ययन के लिए धार्मिक या शैक्षिक संस्थानों से सहायता प्राप्ति।"
+    },
+    "relationships": {
+      "en": "Successful collaboration with friends and group members, enhancing social bonds through shared responsibilities.",
+      "hi": "मित्रों और समूह के सदस्यों के साथ सफल भागीदारी, साझा जिम्मेदारियों से सामाजिक संबंध मजबूत होते हैं।"
+    },
+    "money": {
+      "en": "No direct financial indications, but support from institutions may aid research or study-related funding.",
+      "hi": "प्रत्यक्ष वित्तीय संकेत नहीं हैं, पर संस्थानों से सहायता अनुसंधान या अध्ययन संबंधी वित्तीय मदद में सहायक हो सकती है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments mentioned.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन नहीं बताया गया है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational achievements",
+      "Philosophical or charitable pursuits",
+      "Travel opportunities",
+      "Leadership roles in group activities",
+      "Support from institutions for research"
+    ],
+    "hi": [
+      "शैक्षिक उपलब्धियाँ",
+      "तत्त्वज्ञान या दान संबंधी प्रयास",
+      "यात्रा के अवसर",
+      "सामूहिक कार्यों में नेतृत्व",
+      "अनुसंधान हेतु संस्थानों से सहायता"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage enthusiastically in educational, intellectual, or charitable goals",
+        "Collaborate actively with friends or groups",
+        "Seek support from religious or educational institutions for research"
+      ],
+      "hi": [
+        "शैक्षिक, बौद्धिक या दान संबंधी उद्देश्यों में उत्साहपूर्वक भाग लें",
+        "मित्रों या समूहों के साथ सक्रिय सहयोग करें",
+        "अनुसंधान के लिए धार्मिक या शैक्षिक संस्थानों से सहायता प्राप्त करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Lead group activities or fulfill special responsibilities successfully",
+        "Initiate or deepen research or study efforts with institutional support"
+      ],
+      "hi": [
+        "सामूहिक कार्यों में नेतृत्व करें या विशेष जिम्मेदारियों का सफलतापूर्वक निर्वाह करें",
+        "संस्थानिक सहायता से अनुसंधान या अध्ययन कार्य प्रारंभ या गहरा करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain enthusiasm and leadership qualities even as the aspect wanes",
+        "Continue collaborative efforts and institutional connections"
+      ],
+      "hi": [
+        "अस्पेक्ट कमजोर होने पर भी उत्साह और नेतृत्व गुण बनाए रखें",
+        "सहयोगात्मक प्रयास और संस्थागत संबंध जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "inner strength",
+      "respect",
+      "honor",
+      "fame",
+      "enthusiasm",
+      "education",
+      "intellectual",
+      "philosophy",
+      "charity",
+      "travel",
+      "collaboration",
+      "leadership",
+      "research support",
+      "group activities"
+    ],
+    "hi": [
+      "आत्मबल",
+      "मान",
+      "सम्मान",
+      "यश",
+      "उत्साह",
+      "शिक्षा",
+      "बौद्धिक",
+      "तत्त्वज्ञान",
+      "दान",
+      "भ्रमण",
+      "भागीदारी",
+      "नेतृत्व",
+      "अनुसंधान सहायता",
+      "सामूहिक कार्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "collaborative",
+      "leadership",
+      "enthusiastic",
+      "educational"
+    ],
+    "hi": [
+      "सहायक",
+      "सहयोगी",
+      "नेतृत्व",
+      "उत्साही",
+      "शैक्षिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "personal growth",
+      "social recognition",
+      "intellectual pursuit",
+      "group dynamics",
+      "institutional support"
+    ],
+    "hi": [
+      "व्यक्तिगत विकास",
+      "सामाजिक मान्यता",
+      "बौद्धिक प्रयास",
+      "सामूहिक गतिशीलता",
+      "संस्थागत सहायता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-16"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-sxt-sun",
+      "core": "This aspect enhances inner strength, respect, and enthusiasm for educational and philosophical goals, fostering leadership and successful group collaboration.",
+      "tone": "Warm, encouraging, and optimistic"
+    },
+    "hi": {
+      "title": "बृहस्पति षट्कोण सूर्य",
+      "core": "यह योग आत्मबल, सम्मान और शैक्षिक व दार्शनिक लक्ष्यों के प्रति उत्साह बढ़ाता है, नेतृत्व और सफल सामूहिक भागीदारी को प्रोत्साहित करता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Inner strength increases leading to respect, honor, and enthusiasm for achieving goals in educational, intellectual, philosophical, or charitable fields with successful leadership and collaboration.",
+        "hi": "आत्मबल बढ़ने से मान, सम्मान और शैक्षिक, बौद्धिक, दार्शनिक या दान संबंधी लक्ष्यों को पाने के लिए उत्साह होता है, साथ ही सफल नेतृत्व और सहयोग होता है।"
+      },
+      "career": {
+        "en": "Leadership qualities develop with success in group activities and support from religious or educational institutions for research or deep study.",
+        "hi": "नेतृत्व गुण विकसित होते हैं और समूह कार्यों में सफलता मिलती है, साथ ही अनुसंधान या गहन अध्ययन के लिए धार्मिक या शैक्षिक संस्थानों से सहायता मिलती है।"
+      },
+      "relationships": {
+        "en": "Successful partnerships with friends and group members enhance social bonds and shared responsibilities.",
+        "hi": "मित्रों और समूह सदस्यों के साथ सफल भागीदारी सामाजिक संबंध और साझा जिम्मेदारियों को बढ़ाती है।"
+      },
+      "money": {
+        "en": "No direct financial effects noted; institutional support may assist research funding.",
+        "hi": "प्रत्यक्ष वित्तीय प्रभाव नहीं बताए गए; संस्थागत सहायता अनुसंधान के वित्तपोषण में सहायक हो सकती है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments mentioned in the aspect.",
+        "hi": "इस योग में कोई विशेष स्वास्थ्य समायोजन नहीं बताया गया है।"
+      }
+    },
+    "aliases": [
+      "Jupiter sextile Sun",
+      "Jup SEX Sun",
+      "Jupiter-Sextile-Sun",
+      "Jupiter Sextile to Sun"
+    ]
+  }
+}

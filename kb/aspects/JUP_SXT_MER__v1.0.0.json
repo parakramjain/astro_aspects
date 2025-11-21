@@ -1,0 +1,241 @@
+{
+  "id": "JUP_SEX_MER__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Sextile",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect encourages deep conversations, new beginnings, and creative thinking. It fosters interest in travel, foreign cultures, languages, religion, and history, making it a favorable time for starting educational or writing projects.",
+    "hi": "यह योग गहरी बातचीत, नई शुरुआत और रचनात्मक सोच को बढ़ावा देता है। यह यात्रा, विदेशी संस्कृतियों, भाषाओं, धर्म और इतिहास में रुचि को प्रोत्साहित करता है, और शिक्षा या लेखन के नए कार्य शुरू करने के लिए अनुकूल समय है।"
+  },
+  "facets": {
+    "career": {
+      "en": "A good period for initiating educational pursuits or writing projects, supported by increased creativity and intellectual engagement.",
+      "hi": "शिक्षा या लेखन के नए कार्य शुरू करने के लिए अनुकूल समय, जिसमें रचनात्मकता और बौद्धिक रुचि बढ़ती है।"
+    },
+    "relationships": {
+      "en": "Encourages meaningful and deep discussions, enhancing communication and understanding.",
+      "hi": "गहरी और सार्थक बातचीत को प्रोत्साहित करता है, जिससे संवाद और समझ बढ़ती है।"
+    },
+    "money": {
+      "en": "Opportunities may arise related to travel or cultural interests, potentially influencing financial decisions.",
+      "hi": "यात्रा या सांस्कृतिक रुचियों से संबंधित अवसर मिल सकते हैं, जो वित्तीय निर्णयों को प्रभावित कर सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus remains on mental and intellectual activities.",
+      "hi": "स्वास्थ्य संबंधी विशेष बदलाव नहीं; ध्यान मानसिक और बौद्धिक गतिविधियों पर केंद्रित है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New educational beginnings",
+      "Creative writing projects",
+      "Travel opportunities",
+      "Cultural and intellectual exploration"
+    ],
+    "hi": [
+      "नई शैक्षिक शुरुआत",
+      "रचनात्मक लेखन परियोजनाएं",
+      "यात्रा के अवसर",
+      "सांस्कृतिक और बौद्धिक अन्वेषण"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balance in new ventures."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; नई शुरुआत में संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in deep discussions and exchange ideas.",
+        "Explore interests in foreign cultures and languages.",
+        "Plan educational or writing projects."
+      ],
+      "hi": [
+        "गहरी बातचीत में भाग लें और विचारों का आदान-प्रदान करें।",
+        "विदेशी संस्कृतियों और भाषाओं में रुचि बढ़ाएं।",
+        "शैक्षिक या लेखन परियोजनाओं की योजना बनाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate new creative or educational endeavors.",
+        "Consider travel plans or cultural studies."
+      ],
+      "hi": [
+        "नई रचनात्मक या शैक्षिक पहल शुरू करें।",
+        "यात्रा योजनाओं या सांस्कृतिक अध्ययन पर विचार करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on insights gained from discussions and travels.",
+        "Consolidate learning and creative outputs."
+      ],
+      "hi": [
+        "बातचीत और यात्राओं से प्राप्त ज्ञान पर विचार करें।",
+        "सीखी गई बातों और रचनात्मक कार्यों को संजोएं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "deep discussions",
+      "new beginnings",
+      "creative ideas",
+      "travel",
+      "foreign cultures",
+      "languages",
+      "education",
+      "writing"
+    ],
+    "hi": [
+      "गहरी बातचीत",
+      "नई शुरुआत",
+      "रचनात्मक सोच",
+      "यात्रा",
+      "विदेशी संस्कृतियां",
+      "भाषाएं",
+      "शिक्षा",
+      "लेखन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intellectual",
+      "creative",
+      "exploratory",
+      "opportunistic"
+    ],
+    "hi": [
+      "बौद्धिक",
+      "रचनात्मक",
+      "अन्वेषणशील",
+      "अवसरवादी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "education",
+      "culture",
+      "travel",
+      "communication"
+    ],
+    "hi": [
+      "शिक्षा",
+      "संस्कृति",
+      "यात्रा",
+      "संचार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-16"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-sxt-mer",
+      "core": "A time for deep conversations, new starts, and creative thinking, with opportunities in travel and cultural interests.",
+      "tone": "Warm, encouraging, and intellectually stimulating."
+    },
+    "hi": {
+      "title": "बृहस्पति षट्कोण बुध",
+      "core": "गहरी बातचीत, नई शुरुआत और रचनात्मक सोच का समय, यात्रा और सांस्कृतिक रुचियों में अवसर।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और बौद्धिक रूप से प्रेरणादायक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period increases deep discussions, new beginnings, and creative ideas. Opportunities for small or long-distance travel arise. Interest in foreign languages, cultures, religion, and history grows. It's a good time to start something new in education or writing.",
+        "hi": "इस समय गहरी बातचीतए नई शुरुआत और रचनात्मक सोच में बढ़ोतरी होती है। छोटी.बड़ी यात्राओं के अवसर मिलते हैं। विदेशी भाषाए संस्कृतिए धर्म और इतिहास से जुड़ी चीज़ों में रुचि बढ़ती है। शिक्षा और लेखन में नई शुरुआत के लिए यह समय अच्छा है।"
+      },
+      "career": {
+        "en": "A good time to start new projects in education or writing, supported by increased creativity and intellectual engagement.",
+        "hi": "शिक्षा और लेखन में नई शुरुआत के लिए अनुकूल समय, जिसमें रचनात्मकता और बौद्धिक रुचि बढ़ती है।"
+      },
+      "relationships": {
+        "en": "Period encourages deep and meaningful discussions, enhancing communication.",
+        "hi": "गहरी और सार्थक बातचीत को प्रोत्साहित करता है, जिससे संवाद बढ़ता है।"
+      },
+      "money": {
+        "en": "Opportunities related to travel or cultural interests may influence financial decisions.",
+        "hi": "यात्रा या सांस्कृतिक रुचियों से जुड़े अवसर वित्तीय निर्णयों को प्रभावित कर सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; focus on mental and intellectual activities.",
+        "hi": "स्वास्थ्य संबंधी विशेष बदलाव नहीं; ध्यान मानसिक और बौद्धिक गतिविधियों पर है।"
+      }
+    },
+    "aliases": [
+      "Jupiter sextile Mercury",
+      "Jup SEX Mer",
+      "Jupiter-Sextile-Mercury",
+      "Jupiter Sextile to Mercury"
+    ]
+  }
+}

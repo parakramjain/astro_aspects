@@ -1,0 +1,239 @@
+{
+  "id": "MOO_TRI_PLU__v1.0.0",
+  "pair": [
+    "Moon",
+    "Trine",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period for breaking old thought patterns, gaining deep understanding, and discovering inner strength and true qualities. It offers opportunities for major life changes and creative work, with learning from personal experiences and possible gains from past investments.",
+    "hi": "पुरानी सोचों को तोड़ने, गहरी समझ हासिल करने, और अपने अंदर की शक्ति व सच्चे गुणों को पहचानने का समय। यह जीवन में बड़े बदलाव और रचनात्मक कार्य के अवसर देता है, साथ ही अनुभवों से सीखने और पुराने निवेशों से लाभ मिलने की संभावना भी होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities for creative work and major improvements in professional life through inner growth and new understanding.",
+      "hi": "आंतरिक विकास और नई समझ के माध्यम से रचनात्मक कार्य और पेशेवर जीवन में बड़े सुधार के अवसर।"
+    },
+    "relationships": {
+      "en": "A chance to overcome negative patterns and recognize true qualities within oneself, improving personal connections.",
+      "hi": "नकारात्मक आदतों से उबरने और अपने सच्चे गुणों को पहचानने का मौका, जो व्यक्तिगत संबंधों में सुधार लाता है।"
+    },
+    "money": {
+      "en": "Potential gains from old resources or past investments, alongside opportunities for financial change.",
+      "hi": "पुराने संसाधनों या निवेशों से लाभ की संभावना, साथ ही वित्तीय बदलाव के अवसर।"
+    },
+    "health_adj": {
+      "en": "Inner strength increases, supporting mental resilience and positive transformation.",
+      "hi": "मनोबल बढ़ता है, जो मानसिक सहनशीलता और सकारात्मक परिवर्तन का समर्थन करता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "personal transformation",
+      "creative projects",
+      "financial gains"
+    ],
+    "hi": [
+      "व्यक्तिगत परिवर्तन",
+      "रचनात्मक परियोजनाएं",
+      "वित्तीय लाभ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Beware of clinging to old habits that may hinder growth.",
+      "Avoid rushed decisions despite the urge for change."
+    ],
+    "hi": [
+      "विकास में बाधा डालने वाली पुरानी आदतों को पकड़ने से बचें।",
+      "बदलाव की इच्छा के बावजूद जल्दबाजी में निर्णय लेने से बचें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Reflect on and release limiting thought patterns.",
+        "Explore creative outlets and new approaches.",
+        "Review past investments or resources for potential benefits."
+      ],
+      "hi": [
+        "सीमित सोच के पैटर्न पर विचार करें और उन्हें छोड़ें।",
+        "रचनात्मक कार्यों और नए तरीकों को अपनाएं।",
+        "पुराने निवेशों या संसाधनों की समीक्षा करें लाभ के लिए।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on inner strength and self-awareness.",
+        "Engage deeply with personal experiences for learning.",
+        "Identify opportunities for significant change."
+      ],
+      "hi": [
+        "आंतरिक शक्ति और आत्म-जागरूकता पर ध्यान दें।",
+        "सीखने के लिए अपने अनुभवों से गहराई से जुड़ें।",
+        "महत्वपूर्ण बदलाव के अवसर पहचानें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Consolidate insights gained and prepare for next phase.",
+        "Avoid reverting to old negative habits.",
+        "Plan for sustained creative or transformative efforts."
+      ],
+      "hi": [
+        "प्राप्त ज्ञान को समेटें और अगले चरण की तैयारी करें।",
+        "पुरानी नकारात्मक आदतों में वापस जाने से बचें।",
+        "स्थायी रचनात्मक या परिवर्तनकारी प्रयासों की योजना बनाएं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "transformation",
+      "inner strength",
+      "creative work",
+      "learning",
+      "financial gain",
+      "breaking old patterns"
+    ],
+    "hi": [
+      "परिवर्तन",
+      "आंतरिक शक्ति",
+      "रचनात्मक कार्य",
+      "सीखना",
+      "वित्तीय लाभ",
+      "पुराने पैटर्न तोड़ना"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "insightful",
+      "empowering",
+      "transformative",
+      "reflective"
+    ],
+    "hi": [
+      "सूझ-बूझ वाला",
+      "सशक्त बनाने वाला",
+      "परिवर्तनकारी",
+      "चिंतनशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "personal growth",
+      "creative expression",
+      "financial opportunity"
+    ],
+    "hi": [
+      "व्यक्तिगत विकास",
+      "रचनात्मक अभिव्यक्ति",
+      "वित्तीय अवसर"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-tri-plu",
+      "core": "A time for deep inner transformation, breaking old habits, and embracing creative and financial opportunities.",
+      "tone": "Warm, encouraging, and insightful"
+    },
+    "hi": {
+      "title": "चंद्र त्रिकोण प्लूटो",
+      "core": "गहरी आंतरिक परिवर्तन, पुरानी आदतों को तोड़ने, और रचनात्मक व वित्तीय अवसरों को अपनाने का समय।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और सूझ-बूझ वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Breaking old thinking patterns, gaining deep understanding, discovering inner strength and true qualities, opportunities for major change and creative work, learning from experiences, gains from old investments.",
+        "hi": "पुरानी सोचों को तोड़ना, गहरी समझ हासिल करना, आंतरिक शक्ति और सच्चे गुणों को पहचानना, बड़े बदलाव और रचनात्मक कार्य के अवसर, अनुभवों से सीखना, पुराने निवेशों से लाभ।"
+      },
+      "career": {
+        "en": "Creative work opportunities and major improvements through inner growth and new understanding.",
+        "hi": "आंतरिक विकास और नई समझ से रचनात्मक कार्य और बड़े सुधार के अवसर।"
+      },
+      "relationships": {
+        "en": "Overcoming bad habits, recognizing true qualities, improving personal connections.",
+        "hi": "बुरी आदतों से उबरना, सच्चे गुणों को पहचानना, व्यक्तिगत संबंधों में सुधार।"
+      },
+      "money": {
+        "en": "Gains from old resources or investments and chances for financial change.",
+        "hi": "पुराने संसाधनों या निवेशों से लाभ और वित्तीय बदलाव के अवसर।"
+      },
+      "health_adj": {
+        "en": "Increased inner strength supporting mental resilience and positive change.",
+        "hi": "मनोबल बढ़ना जो मानसिक सहनशीलता और सकारात्मक परिवर्तन को बढ़ावा देता है।"
+      }
+    },
+    "aliases": [
+      "Moon trine Pluto",
+      "Moo TRI Plu",
+      "Moon-Trine-Pluto",
+      "Moon Trine to Pluto"
+    ]
+  }
+}

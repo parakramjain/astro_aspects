@@ -1,0 +1,243 @@
+{
+  "id": "MOO_CON_MAR__v1.0.0",
+  "pair": [
+    "Moon",
+    "Conjunction",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates a temperament prone to anger and irritability, with an emotional and potentially unhealthy mindset. It may affect digestion and cause difficulties or emotional conflicts in relationships with the opposite sex.",
+    "hi": "यह योग स्वभाव में क्रोध और चिड़चिड़ापन दर्शाता है, साथ ही भावनात्मक और अस्वस्थ मनस्थिति हो सकती है। यह पाचन तंत्र को प्रभावित कर सकता है और विपरीत लिंग के साथ संबंधों में समस्या या भावनात्मक द्वंद्व ला सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Emotional irritability may influence workplace interactions and stress management.",
+      "hi": "भावनात्मक चिड़चिड़ापन कार्यस्थल पर संबंधों और तनाव प्रबंधन को प्रभावित कर सकता है।"
+    },
+    "relationships": {
+      "en": "Potential emotional conflicts and difficulties in relationships with the opposite sex.",
+      "hi": "विपरीत लिंग के साथ संबंधों में भावनात्मक द्वंद्व और कठिनाइयाँ हो सकती हैं।"
+    },
+    "money": {
+      "en": "No specific financial implications indicated.",
+      "hi": "कोई विशेष वित्तीय प्रभाव नहीं दर्शाया गया है।"
+    },
+    "health_adj": {
+      "en": "Digestive system may be adversely affected; emotional health concerns are present.",
+      "hi": "पाचन तंत्र पर बुरा प्रभाव पड़ सकता है; भावनात्मक स्वास्थ्य की चिंता हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional challenges",
+      "Relationship difficulties",
+      "Health-related issues"
+    ],
+    "hi": [
+      "भावनात्मक चुनौतियाँ",
+      "संबंधों में कठिनाइयाँ",
+      "स्वास्थ्य संबंधी समस्याएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased anger and irritability",
+      "Emotional instability",
+      "Digestive health concerns",
+      "Relationship conflicts with opposite sex"
+    ],
+    "hi": [
+      "क्रोध और चिड़चिड़ापन बढ़ना",
+      "भावनात्मक अस्थिरता",
+      "पाचन स्वास्थ्य की समस्या",
+      "विपरीत लिंग से संबंधों में संघर्ष"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Monitor emotional responses to reduce irritability",
+        "Be mindful of relationship dynamics with opposite sex",
+        "Maintain digestive health through diet and lifestyle"
+      ],
+      "hi": [
+        "चिड़चिड़ापन कम करने के लिए भावनात्मक प्रतिक्रियाओं पर ध्यान दें",
+        "विपरीत लिंग के साथ संबंधों में सावधानी बरतें",
+        "पाचन स्वास्थ्य के लिए आहार और जीवनशैली का ध्यान रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Address emotional tension directly",
+        "Avoid confrontations in relationships",
+        "Support digestive system health"
+      ],
+      "hi": [
+        "भावनात्मक तनाव को सीधे संबोधित करें",
+        "संबंधों में टकराव से बचें",
+        "पाचन तंत्र के स्वास्थ्य का समर्थन करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Emotional state may begin to stabilize",
+        "Improvement in relationship harmony possible",
+        "Digestive issues may lessen"
+      ],
+      "hi": [
+        "भावनात्मक स्थिति स्थिर होने लगती है",
+        "संबंधों में सामंजस्य में सुधार संभव है",
+        "पाचन समस्याएँ कम हो सकती हैं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "anger",
+      "irritability",
+      "emotional conflict",
+      "unhealthy mindset",
+      "digestive issues",
+      "relationship difficulties"
+    ],
+    "hi": [
+      "क्रोध",
+      "चिड़चिड़ापन",
+      "भावनात्मक द्वंद्व",
+      "अस्वस्थ मनस्थिति",
+      "पाचन समस्या",
+      "संबंधों में कठिनाई"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "challenging",
+      "conflict-prone",
+      "health-affected"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "चुनौतीपूर्ण",
+      "संघर्षपूर्ण",
+      "स्वास्थ्य प्रभावित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional tension",
+      "relationship strain",
+      "health vulnerability"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "संबंधों में तनाव",
+      "स्वास्थ्य की कमजोरी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-con-mar",
+      "core": "This aspect suggests emotional irritability, anger, and potential difficulties in relationships, along with digestive health concerns.",
+      "tone": "Warm, neutral, and cautiously observant"
+    },
+    "hi": {
+      "title": "चंद्र ग्रह का मंगल से योग",
+      "core": "यह योग भावनात्मक चिड़चिड़ापन, क्रोध और संबंधों में कठिनाइयाँ तथा पाचन स्वास्थ्य की समस्याएँ दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Temperament shows anger and irritability with emotional and unhealthy mindset; digestive system affected; relationship conflicts with opposite sex.",
+        "hi": "स्वभाव में क्रोध और चिड़चिड़ापन, भावनात्मक और अस्वस्थ मनस्थिति; पाचन तंत्र प्रभावित; विपरीत लिंग से संबंधों में संघर्ष।"
+      },
+      "career": {
+        "en": "Emotional irritability may impact workplace interactions and stress management.",
+        "hi": "भावनात्मक चिड़चिड़ापन कार्यस्थल पर संबंधों और तनाव प्रबंधन को प्रभावित कर सकता है।"
+      },
+      "relationships": {
+        "en": "Difficulties and emotional conflict in relationships with the opposite sex.",
+        "hi": "विपरीत लिंग के साथ संबंधों में कठिनाई और भावनात्मक द्वंद्व।"
+      },
+      "money": {
+        "en": "No direct financial effects noted.",
+        "hi": "कोई प्रत्यक्ष वित्तीय प्रभाव नहीं।"
+      },
+      "health_adj": {
+        "en": "Digestive system adversely affected; emotional health issues present.",
+        "hi": "पाचन तंत्र पर बुरा प्रभाव; भावनात्मक स्वास्थ्य की समस्या।"
+      }
+    },
+    "aliases": [
+      "Moon conjunction Mars",
+      "Moo CON Mar",
+      "Moon-Conjunction-Mars",
+      "Moon Conjunction to Mars"
+    ]
+  }
+}

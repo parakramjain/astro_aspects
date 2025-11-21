@@ -1,0 +1,251 @@
+{
+  "id": "SAT_OPP_MER__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Opposition",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Planning is challenged by pessimism and mental strain, causing communication delays and disruptions. Legal and government decisions may encounter obstacles. Health could be negatively affected.",
+    "hi": "नकारात्मक सोच और मानसिक दबाव के कारण योजना बनाना कठिन होता है, जिससे संचार में देरी और बाधा आती है। कानूनी और सरकारी निर्णयों में रुकावटें हो सकती हैं। स्वास्थ्य पर भी नकारात्मक प्रभाव पड़ सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work plans may face difficulties due to negative thinking and mental pressure, causing delays or disruptions in communication and decision-making.",
+      "hi": "नकारात्मक सोच और मानसिक दबाव के कारण कार्य योजनाओं में कठिनाई आ सकती है, जिससे संचार और निर्णय लेने में देरी या बाधा हो सकती है।"
+    },
+    "relationships": {
+      "en": "Communication delays or disruptions may affect interactions, potentially causing misunderstandings or tension.",
+      "hi": "संचार में देरी या बाधा के कारण संबंधों में गलतफहमी या तनाव हो सकता है।"
+    },
+    "money": {
+      "en": "Legal or governmental financial decisions might face obstacles or delays.",
+      "hi": "कानूनी या सरकारी वित्तीय निर्णयों में रुकावटें या देरी हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Health may suffer due to mental pressure and pessimism.",
+      "hi": "मानसिक दबाव और नकारात्मक सोच के कारण स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Planning challenges",
+      "Communication issues",
+      "Legal/governmental obstacles",
+      "Health concerns"
+    ],
+    "hi": [
+      "योजना बनाने में कठिनाई",
+      "संचार समस्याएं",
+      "कानूनी/सरकारी रुकावटें",
+      "स्वास्थ्य संबंधी चिंताएं"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Mental pressure may impair clear thinking.",
+      "Communication delays can cause misunderstandings.",
+      "Legal or governmental decisions may be obstructed.",
+      "Health risks due to stress and pessimism."
+    ],
+    "hi": [
+      "मानसिक दबाव स्पष्ट सोच को प्रभावित कर सकता है।",
+      "संचार में देरी गलतफहमी पैदा कर सकती है।",
+      "कानूनी या सरकारी निर्णयों में बाधा आ सकती है।",
+      "तनाव और नकारात्मक सोच से स्वास्थ्य जोखिम।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of negative thoughts affecting plans.",
+        "Allow extra time for communication and decisions.",
+        "Monitor legal/governmental processes carefully.",
+        "Take care of mental health to support overall well-being."
+      ],
+      "hi": [
+        "योजनाओं पर नकारात्मक सोच का प्रभाव समझें।",
+        "संचार और निर्णयों के लिए अतिरिक्त समय दें।",
+        "कानूनी/सरकारी प्रक्रियाओं पर ध्यान रखें।",
+        "मानसिक स्वास्थ्य का ध्यान रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Expect increased mental pressure and communication delays.",
+        "Prepare for possible obstacles in legal/government matters.",
+        "Be cautious about health and stress levels."
+      ],
+      "hi": [
+        "मानसिक दबाव और संचार में देरी की संभावना।",
+        "कानूनी/सरकारी मामलों में रुकावटों के लिए तैयार रहें।",
+        "स्वास्थ्य और तनाव पर सावधानी बरतें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Mental pressure and communication issues may lessen.",
+        "Legal and governmental obstacles might resolve gradually.",
+        "Health conditions could improve with reduced stress."
+      ],
+      "hi": [
+        "मानसिक दबाव और संचार समस्याएं कम हो सकती हैं।",
+        "कानूनी और सरकारी रुकावटें धीरे-धीरे दूर हो सकती हैं।",
+        "तनाव कम होने से स्वास्थ्य में सुधार हो सकता है।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "pessimism",
+      "mental pressure",
+      "planning difficulty",
+      "communication delay",
+      "legal obstacles",
+      "government decisions",
+      "health impact"
+    ],
+    "hi": [
+      "नकारात्मक सोच",
+      "मानसिक दबाव",
+      "योजना में कठिनाई",
+      "संचार में देरी",
+      "कानूनी बाधाएं",
+      "सरकारी निर्णय",
+      "स्वास्थ्य प्रभाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "disruptive",
+      "stressful",
+      "delayed"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "विघटनकारी",
+      "तनावपूर्ण",
+      "देरी वाला"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental strain",
+      "communication challenges",
+      "legal/governmental interference",
+      "health caution"
+    ],
+    "hi": [
+      "मानसिक तनाव",
+      "संचार चुनौतियां",
+      "कानूनी/सरकारी बाधाएं",
+      "स्वास्थ्य सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-opp-mer",
+      "core": "Planning and communication face difficulties due to mental pressure and pessimism, affecting legal decisions and health.",
+      "tone": "Warm, neutral, cautious"
+    },
+    "hi": {
+      "title": "शनि विपरीत बुध",
+      "core": "मानसिक दबाव और नकारात्मक सोच के कारण योजना और संचार में कठिनाई, जो कानूनी निर्णयों और स्वास्थ्य को प्रभावित करती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Planning is challenged by pessimism and mental strain, causing communication delays and disruptions. Legal and government decisions may encounter obstacles. Health could be negatively affected.",
+        "hi": "नकारात्मक सोच और मानसिक दबाव के कारण योजना बनाना कठिन होता है, जिससे संचार में देरी और बाधा आती है। कानूनी और सरकारी निर्णयों में रुकावटें हो सकती हैं। स्वास्थ्य पर भी नकारात्मक प्रभाव पड़ सकता है।"
+      },
+      "career": {
+        "en": "Work plans may face difficulties due to negative thinking and mental pressure, causing delays or disruptions in communication and decision-making.",
+        "hi": "नकारात्मक सोच और मानसिक दबाव के कारण कार्य योजनाओं में कठिनाई आ सकती है, जिससे संचार और निर्णय लेने में देरी या बाधा हो सकती है।"
+      },
+      "relationships": {
+        "en": "Communication delays or disruptions may affect interactions, potentially causing misunderstandings or tension.",
+        "hi": "संचार में देरी या बाधा के कारण संबंधों में गलतफहमी या तनाव हो सकता है।"
+      },
+      "money": {
+        "en": "Legal or governmental financial decisions might face obstacles or delays.",
+        "hi": "कानूनी या सरकारी वित्तीय निर्णयों में रुकावटें या देरी हो सकती है।"
+      },
+      "health_adj": {
+        "en": "Health may suffer due to mental pressure and pessimism.",
+        "hi": "मानसिक दबाव और नकारात्मक सोच के कारण स्वास्थ्य प्रभावित हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Saturn opposition Mercury",
+      "Sat OPP Mer",
+      "Saturn-Opposition-Mercury",
+      "Saturn Opposition to Mercury"
+    ]
+  }
+}

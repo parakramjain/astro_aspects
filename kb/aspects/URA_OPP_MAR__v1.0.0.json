@@ -1,0 +1,257 @@
+{
+  "id": "URA_OPP_MAR__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Opposition",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates potential anger, disputes, stubbornness, and carelessness that may lead to accidents and mental instability, obstructing goal achievement. It is an unfavorable time for new ventures, institutions, or agreements, with possible conflicts in professional and joint financial matters. Caution is advised in technical and engineering work due to risks of problems and losses.",
+    "hi": "यह योग क्रोध, विवाद, हठधर्मिता और असावधानी से दुर्घटना की संभावना और मानसिक अस्थिरता के कारण उद्देश्य पूर्ति में बाधा दर्शाता है। नए कार्य, संस्था या समझौते के लिए यह समय अनुपयुक्त है। पेशेवर और संयुक्त वित्तीय मामलों में विवाद हो सकते हैं। तकनीकी और इंजीनियरिंग कार्यों में सावधानी आवश्यक है क्योंकि समस्या और हानि का खतरा रहता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Increased incidents and conflicts may arise professionally; technical and engineering work may face obstacles and deception.",
+      "hi": "पेशेवर स्थिति में अधिक घटनाएं और विवाद उत्पन्न हो सकते हैं; तकनीकी और इंजीनियरिंग कार्यों में बाधा और धोखा हो सकता है।"
+    },
+    "relationships": {
+      "en": "Disputes and stubbornness can cause tension; joint assets and businesses may become sources of problems.",
+      "hi": "विवाद और हठधर्मिता से तनाव हो सकता है; संयुक्त संपत्ति और व्यवसाय समस्या का स्रोत बन सकते हैं।"
+    },
+    "money": {
+      "en": "Joint assets, businesses, taxes, and insurance may pose difficulties and risks of major losses with wrong technical applications.",
+      "hi": "संयुक्त संपत्ति, व्यवसाय, कर और बीमा में समस्या हो सकती है; गलत तकनीकी प्रयोग से बड़ी हानि का जोखिम रहता है।"
+    },
+    "health_adj": {
+      "en": "Mental instability and increased excitability require control; caution needed with tools, electrical devices, explosives, and weapons.",
+      "hi": "मानसिक अस्थिरता और उत्तेजना में वृद्धि पर नियंत्रण आवश्यक है; उपकरण, विद्युत उपकरण, विस्फोटक और हथियारों में सावधानी बरतें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Accidents",
+      "Conflicts",
+      "Obstacles in new ventures",
+      "Technical problems"
+    ],
+    "hi": [
+      "दुर्घटनाएं",
+      "विवाद",
+      "नए कार्यों में बाधाएं",
+      "तकनीकी समस्याएं"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Accidents due to anger, carelessness, or stubbornness",
+      "Mental instability obstructing goals",
+      "Conflicts in professional and joint financial matters",
+      "Losses from wrong technical applications",
+      "Risks with tools, electrical devices, explosives, and weapons"
+    ],
+    "hi": [
+      "क्रोध, असावधानी या हठधर्मिता से दुर्घटना का खतरा",
+      "मानसिक अस्थिरता से उद्देश्य पूर्ति में बाधा",
+      "पेशेवर और संयुक्त वित्तीय मामलों में विवाद",
+      "गलत तकनीकी प्रयोग से हानि",
+      "उपकरण, विद्युत उपकरण, विस्फोटक और हथियारों में जोखिम"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in professional and technical work",
+        "Avoid starting new ventures, institutions, or agreements",
+        "Control excitability and mental instability"
+      ],
+      "hi": [
+        "पेशेवर और तकनीकी कार्यों में सावधानी बरतें",
+        "नए कार्य, संस्था या समझौते शुरू करने से बचें",
+        "उत्तेजना और मानसिक अस्थिरता पर नियंत्रण रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be especially careful with tools, electrical devices, explosives, and weapons",
+        "Monitor for intuitive changes and manage reactions"
+      ],
+      "hi": [
+        "उपकरण, विद्युत उपकरण, विस्फोटक और हथियारों में विशेष सावधानी रखें",
+        "अंतर्ज्ञानिक परिवर्तनों पर ध्यान दें और प्रतिक्रिया नियंत्रित करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual reduction in conflicts and accidents",
+        "Improved mental stability and control over excitability"
+      ],
+      "hi": [
+        "विवाद और दुर्घटनाओं में धीरे-धीरे कमी",
+        "मानसिक स्थिरता और उत्तेजना नियंत्रण में सुधार"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "anger",
+      "disputes",
+      "stubbornness",
+      "carelessness",
+      "accidents",
+      "mental instability",
+      "conflicts",
+      "technical problems",
+      "caution",
+      "excitability"
+    ],
+    "hi": [
+      "क्रोध",
+      "विवाद",
+      "हठधर्मिता",
+      "असावधानी",
+      "दुर्घटना",
+      "मानसिक अस्थिरता",
+      "झगड़ा",
+      "तकनीकी समस्या",
+      "सावधानी",
+      "उत्तेजना"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "unstable",
+      "risk-prone",
+      "conflictual",
+      "cautious"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "जोखिमपूर्ण",
+      "विवादास्पद",
+      "सावधानीपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "anger and disputes",
+      "mental instability",
+      "professional conflicts",
+      "technical risks",
+      "caution with tools and devices"
+    ],
+    "hi": [
+      "क्रोध और विवाद",
+      "मानसिक अस्थिरता",
+      "पेशेवर विवाद",
+      "तकनीकी जोखिम",
+      "उपकरण और उपकरणों में सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-opp-mar",
+      "core": "Potential for anger, disputes, and carelessness causing accidents and mental instability; unfavorable for new ventures and professional harmony.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "यूरेनस विपक्ष मंगल",
+      "core": "क्रोध, विवाद और असावधानी से दुर्घटना और मानसिक अस्थिरता की संभावना; नए कार्य और पेशेवर सामंजस्य के लिए अनुपयुक्त।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Anger, disputes, stubbornness, carelessness may cause accidents and mental instability obstructs goals.",
+        "hi": "क्रोध, विवाद, हठधर्मिता, असावधानी से दुर्घटना हो सकती है और मानसिक अस्थिरता उद्देश्य पूर्ति में बाधा है।"
+      },
+      "career": {
+        "en": "Professional conflicts may increase; technical and engineering work may face problems and deception.",
+        "hi": "पेशेवर विवाद बढ़ सकते हैं; तकनीकी और इंजीनियरिंग कार्यों में समस्या और धोखा हो सकता है।"
+      },
+      "relationships": {
+        "en": "Disputes and stubbornness cause tension; joint assets and businesses may be problematic.",
+        "hi": "विवाद और हठधर्मिता तनाव उत्पन्न करते हैं; संयुक्त संपत्ति और व्यवसाय समस्या हो सकते हैं।"
+      },
+      "money": {
+        "en": "Joint assets, businesses, taxes, and insurance may cause problems; wrong technical use risks major loss.",
+        "hi": "संयुक्त संपत्ति, व्यवसाय, कर और बीमा समस्या कर सकते हैं; गलत तकनीकी प्रयोग से बड़ी हानि हो सकती है।"
+      },
+      "health_adj": {
+        "en": "Mental instability and excitability require control; caution with tools, electrical devices, explosives, and weapons.",
+        "hi": "मानसिक अस्थिरता और उत्तेजना पर नियंत्रण आवश्यक; उपकरण, विद्युत उपकरण, विस्फोटक और हथियारों में सावधानी।"
+      }
+    },
+    "aliases": [
+      "Uranus opposition Mars",
+      "Ura OPP Mar",
+      "Uranus-Opposition-Mars",
+      "Uranus Opposition to Mars"
+    ]
+  }
+}

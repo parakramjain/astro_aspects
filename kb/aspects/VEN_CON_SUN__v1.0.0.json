@@ -1,0 +1,223 @@
+{
+  "id": "VEN_CON_SUN__v1.0.0",
+  "pair": [
+    "Venus",
+    "Conjunction",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect enhances the person's feelings of love, art, and beauty, favoring romantic relationships and increasing interest in aesthetics. It may also bring praise and recognition.",
+    "hi": "यह योग व्यक्ति के प्रेम, कला और सौंदर्य की भावना को बढ़ाता है, रोमांटिक संबंधों के लिए अनुकूल होता है और सौंदर्य में रुचि बढ़ाता है। इस समय प्रशंसा और सम्मान भी मिल सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Increased appreciation for beauty and arts may positively influence creative or artistic career pursuits.",
+      "hi": "सौंदर्य और कला के प्रति बढ़ी हुई रुचि रचनात्मक या कलात्मक करियर को सकारात्मक रूप से प्रभावित कर सकती है।"
+    },
+    "relationships": {
+      "en": "Favorable period for romantic relationships with enhanced feelings of love and affection.",
+      "hi": "प्रेम और स्नेह की भावना बढ़ने से रोमांटिक संबंधों के लिए अनुकूल समय।"
+    },
+    "money": {
+      "en": "No specific financial implications are indicated during this aspect.",
+      "hi": "इस योग के दौरान कोई विशेष वित्तीय प्रभाव स्पष्ट नहीं हैं।"
+    },
+    "health_adj": {
+      "en": "No particular health adjustments or concerns are noted in this period.",
+      "hi": "इस समय कोई विशेष स्वास्थ्य समायोजन या चिंता नहीं बताई गई है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Romantic developments",
+      "Recognition and praise",
+      "Increased artistic interest"
+    ],
+    "hi": [
+      "रोमांटिक विकास",
+      "प्रशंसा और सम्मान",
+      "कलात्मक रुचि में वृद्धि"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in artistic or creative activities to harness increased aesthetic interest.",
+        "Nurture romantic relationships with openness and affection."
+      ],
+      "hi": [
+        "बढ़ी हुई सौंदर्य रुचि का लाभ उठाने के लिए कलात्मक या रचनात्मक गतिविधियों में भाग लें।",
+        "रोमांटिक संबंधों को खुलापन और स्नेह के साथ पोषित करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Seek opportunities for social recognition and appreciation.",
+        "Express feelings of love and appreciation openly."
+      ],
+      "hi": [
+        "सामाजिक प्रशंसा और मान्यता के अवसर खोजें।",
+        "प्रेम और प्रशंसा की भावनाओं को खुले रूप से व्यक्त करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain balance in relationships as increased focus on love and beauty may shift priorities."
+      ],
+      "hi": [
+        "जैसे-जैसे प्रेम और सौंदर्य पर ध्यान बढ़े, प्राथमिकताओं में बदलाव हो सकता है, इसलिए संबंधों में संतुलन बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "love",
+      "art",
+      "beauty",
+      "romantic relationships",
+      "praise",
+      "recognition"
+    ],
+    "hi": [
+      "प्रेम",
+      "कला",
+      "सौंदर्य",
+      "रोमांटिक संबंध",
+      "प्रशंसा",
+      "सम्मान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "expressive",
+      "appreciative"
+    ],
+    "hi": [
+      "अनुकूल",
+      "अभिव्यक्तिपूर्ण",
+      "सराहनीय"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "romance",
+      "creativity",
+      "recognition"
+    ],
+    "hi": [
+      "रोमांस",
+      "रचनात्मकता",
+      "मान्यता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-con-sun",
+      "core": "Enhanced love, art, and beauty feelings; favorable for romance and recognition.",
+      "tone": "Warm, positive, and encouraging"
+    },
+    "hi": {
+      "title": "शुक्र का सूर्य से योग",
+      "core": "प्रेम, कला और सौंदर्य की भावना में वृद्धि; रोमांस और सम्मान के लिए अनुकूल।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "During this time, the person’s sense of love, art, and beauty increases. It is favorable for romantic relationships, and the person may develop a greater interest in beauty and the arts. The person may also receive praise and recognition during this period.",
+        "hi": "इस समय व्यक्ति के प्रेम संबंधए कलाए और सौंदर्य की भावना में वृद्धि होती है। यह समय रोमांटिक संबंधों के लिए अनुकूल होता है और व्यक्ति को सौंदर्य और कला में रुचि बढ़ सकती है। इस समय व्यक्ति को प्रशंसा और सम्मान प्राप्त हो सकता है।"
+      },
+      "career": {
+        "en": "Increased interest in beauty and arts may positively affect creative career paths.",
+        "hi": "सौंदर्य और कला में बढ़ी रुचि रचनात्मक करियर को सकारात्मक रूप से प्रभावित कर सकती है।"
+      },
+      "relationships": {
+        "en": "Favorable for romantic relationships with enhanced feelings of love.",
+        "hi": "प्रेम की भावना बढ़ने से रोमांटिक संबंधों के लिए अनुकूल।"
+      },
+      "money": {
+        "en": "No specific financial effects mentioned.",
+        "hi": "कोई विशेष वित्तीय प्रभाव नहीं बताए गए।"
+      },
+      "health_adj": {
+        "en": "No health adjustments or concerns specified.",
+        "hi": "कोई स्वास्थ्य समायोजन या चिंता निर्दिष्ट नहीं।"
+      }
+    },
+    "aliases": [
+      "Venus conjunction Sun",
+      "Ven CON Sun",
+      "Venus-Conjunction-Sun",
+      "Venus Conjunction to Sun"
+    ]
+  }
+}

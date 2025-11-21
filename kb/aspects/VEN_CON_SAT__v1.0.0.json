@@ -1,0 +1,233 @@
+{
+  "id": "VEN_CON_SAT__v1.0.0",
+  "pair": [
+    "Venus",
+    "Conjunction",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person becomes serious, cautious, and values meaningful relationships, forming stable but somewhat distant bonds.",
+    "hi": "व्यक्ति गंभीर, सतर्क और सच्चे रिश्तों को महत्व देता है, जो स्थिर लेकिन थोड़े दूरी वाले होते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business ties form with mature or senior individuals, emphasizing responsibility and experience.",
+      "hi": "व्यापार में पुराने सहयोगियों या ज़िम्मेदार लोगों से संबंध बनते हैं, जो अनुभव और जिम्मेदारी को दर्शाते हैं।"
+    },
+    "relationships": {
+      "en": "Relationships feel stable and meaningful but maintain some emotional distance.",
+      "hi": "रिश्ते स्थिर और सच्चे होते हैं लेकिन उनमें कुछ दूरी बनी रहती है।"
+    },
+    "money": {
+      "en": "Financial dealings are cautious and often involve mature partners or senior associates.",
+      "hi": "वित्तीय मामलों में सतर्कता होती है और अक्सर पुराने या वरिष्ठ सहयोगियों के साथ संबंध बनते हैं।"
+    },
+    "health_adj": {
+      "en": "A serious and cautious approach to health is likely, focusing on stability.",
+      "hi": "स्वास्थ्य के प्रति गंभीर और सतर्क रवैया होता है, जो स्थिरता पर केंद्रित है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Forming serious relationships",
+      "Establishing business partnerships with senior individuals"
+    ],
+    "hi": [
+      "गंभीर रिश्ते बनाना",
+      "वरिष्ठ व्यक्तियों के साथ व्यापारिक साझेदारी स्थापित करना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Relationships may feel emotionally distant despite stability",
+      "Caution may lead to hesitancy in new ventures"
+    ],
+    "hi": [
+      "रिश्तों में स्थिरता के बावजूद भावनात्मक दूरी हो सकती है",
+      "सतर्कता नए प्रयासों में हिचकिचाहट ला सकती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on building meaningful and stable relationships",
+        "Engage with experienced or senior business partners"
+      ],
+      "hi": [
+        "सच्चे और स्थिर रिश्ते बनाने पर ध्यान दें",
+        "अनुभवी या वरिष्ठ व्यापारिक साझेदारों के साथ जुड़ें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Maintain cautious and serious communication",
+        "Value responsibility and maturity in interactions"
+      ],
+      "hi": [
+        "सतर्क और गंभीर संवाद बनाए रखें",
+        "मुलाकातों में जिम्मेदारी और परिपक्वता को महत्व दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional distance in relationships",
+        "Reassess cautious tendencies to avoid missed opportunities"
+      ],
+      "hi": [
+        "रिश्तों में भावनात्मक दूरी पर विचार करें",
+        "मौकों को खोने से बचने के लिए सतर्कता की प्रवृत्ति का पुनर्मूल्यांकन करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "seriousness",
+      "caution",
+      "meaningful relationships",
+      "stability",
+      "distance",
+      "maturity",
+      "seniority"
+    ],
+    "hi": [
+      "गंभीरता",
+      "सतर्कता",
+      "सच्चे रिश्ते",
+      "स्थिरता",
+      "दूरी",
+      "परिपक्वता",
+      "वरिष्ठता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "stable",
+      "cautious",
+      "mature",
+      "responsible"
+    ],
+    "hi": [
+      "स्थिर",
+      "सतर्क",
+      "परिपक्व",
+      "जिम्मेदार"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "relationship stability",
+      "business maturity",
+      "emotional distance"
+    ],
+    "hi": [
+      "रिश्तों की स्थिरता",
+      "व्यापार में परिपक्वता",
+      "भावनात्मक दूरी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-con-sat",
+      "core": "A serious and cautious approach to relationships and business, valuing stability and maturity.",
+      "tone": "Warm, neutral, and grounded"
+    },
+    "hi": {
+      "title": "शुक्र संयोजन शनि",
+      "core": "रिश्तों और व्यापार में गंभीर और सतर्क दृष्टिकोण, स्थिरता और परिपक्वता को महत्व देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और यथार्थवादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person becomes serious, cautious, and values meaningful relationships, forming stable but somewhat distant bonds.",
+        "hi": "व्यक्ति गंभीर, सतर्क और सच्चे रिश्तों को महत्व देता है, जो स्थिर लेकिन थोड़े दूरी वाले होते हैं।"
+      },
+      "career": {
+        "en": "Business ties form with mature or senior individuals, emphasizing responsibility and experience.",
+        "hi": "व्यापार में पुराने सहयोगियों या ज़िम्मेदार लोगों से संबंध बनते हैं, जो अनुभव और जिम्मेदारी को दर्शाते हैं।"
+      },
+      "relationships": {
+        "en": "Relationships feel stable and meaningful but maintain some emotional distance.",
+        "hi": "रिश्ते स्थिर और सच्चे होते हैं लेकिन उनमें कुछ दूरी बनी रहती है।"
+      },
+      "money": {
+        "en": "Financial dealings are cautious and often involve mature partners or senior associates.",
+        "hi": "वित्तीय मामलों में सतर्कता होती है और अक्सर पुराने या वरिष्ठ सहयोगियों के साथ संबंध बनते हैं।"
+      },
+      "health_adj": {
+        "en": "A serious and cautious approach to health is likely, focusing on stability.",
+        "hi": "स्वास्थ्य के प्रति गंभीर और सतर्क रवैया होता है, जो स्थिरता पर केंद्रित है।"
+      }
+    },
+    "aliases": [
+      "Venus conjunction Saturn",
+      "Ven CON Sat",
+      "Venus-Conjunction-Saturn",
+      "Venus Conjunction to Saturn"
+    ]
+  }
+}

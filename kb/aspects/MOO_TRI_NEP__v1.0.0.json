@@ -1,0 +1,249 @@
+{
+  "id": "MOO_TRI_NEP__v1.0.0",
+  "pair": [
+    "Moon",
+    "Trine",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect fosters growth in imagination, faith, and creativity, bringing peace from past good deeds and enhancing understanding of others' needs. It supports women and encourages spiritual thinking to correct past mistakes and find the right path, improving financial and family life with an inclination toward music, art, or spirituality.",
+    "hi": "यह योग कल्पना, आस्था और रचनात्मकता में वृद्धि करता है, पुराने अच्छे कर्मों से शांति देता है और दूसरों की जरूरतों को समझने की शक्ति बढ़ाता है। यह महिलाओं के प्रति सहयोगी भावना लाता है और आध्यात्मिक सोच बढ़ाकर गलत फैसलों में सुधार और सही मार्ग दिखाता है, जिससे आर्थिक और पारिवारिक जीवन में सुधार होता है तथा संगीत, कला या आध्यात्मिकता की ओर झुकाव होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Creativity and spiritual thinking enhance career direction and decision-making.",
+      "hi": "रचनात्मकता और आध्यात्मिक सोच करियर की दिशा और निर्णय लेने में सुधार लाती है।"
+    },
+    "relationships": {
+      "en": "Improved empathy and supportive feelings toward women strengthen relationships.",
+      "hi": "बेहतर सहानुभूति और महिलाओं के प्रति सहयोगी भावना संबंधों को मजबूत बनाती है।"
+    },
+    "money": {
+      "en": "Financial life shows improvement, supported by positive past actions and clearer insight.",
+      "hi": "आर्थिक स्थिति में सुधार होता है, जो पुराने अच्छे कर्मों और स्पष्ट दृष्टिकोण से समर्थित है।"
+    },
+    "health_adj": {
+      "en": "Spiritual growth and peace of mind contribute to overall well-being.",
+      "hi": "आध्यात्मिक विकास और मानसिक शांति समग्र स्वास्थ्य में योगदान देते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual growth",
+      "Creative pursuits",
+      "Improved family harmony",
+      "Financial improvement"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "रचनात्मक गतिविधियाँ",
+      "पारिवारिक सद्भाव में सुधार",
+      "आर्थिक सुधार"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks noted; maintain balanced spiritual and practical focus."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; आध्यात्मिक और व्यावहारिक संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative or spiritual activities.",
+        "Support and understand women around you.",
+        "Reflect on past decisions to improve current path."
+      ],
+      "hi": [
+        "रचनात्मक या आध्यात्मिक गतिविधियों में भाग लें।",
+        "अपने आस-पास की महिलाओं का समर्थन और समझ बढ़ाएं।",
+        "अपने पिछले निर्णयों पर विचार करें और वर्तमान मार्ग सुधारें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on spiritual thinking and peaceful reflection.",
+        "Explore music, art, or related interests."
+      ],
+      "hi": [
+        "आध्यात्मिक सोच और शांति से चिंतन पर ध्यान दें।",
+        "संगीत, कला या संबंधित रुचियों का अन्वेषण करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain insights gained to continue positive growth.",
+        "Keep nurturing creativity and empathy."
+      ],
+      "hi": [
+        "प्राप्त ज्ञान को बनाए रखें ताकि सकारात्मक विकास जारी रहे।",
+        "रचनात्मकता और सहानुभूति को पोषित करते रहें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "imagination",
+      "faith",
+      "creativity",
+      "peace",
+      "support",
+      "spirituality",
+      "music",
+      "art",
+      "family",
+      "financial improvement"
+    ],
+    "hi": [
+      "कल्पना",
+      "आस्था",
+      "रचनात्मकता",
+      "शांति",
+      "सहयोग",
+      "आध्यात्मिकता",
+      "संगीत",
+      "कला",
+      "पारिवारिक",
+      "आर्थिक सुधार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "peaceful",
+      "creative",
+      "spiritual",
+      "empathetic"
+    ],
+    "hi": [
+      "सहायक",
+      "शांतिपूर्ण",
+      "रचनात्मक",
+      "आध्यात्मिक",
+      "सहानुभूतिपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "creative expression",
+      "empathy",
+      "family harmony",
+      "financial stability"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "रचनात्मक अभिव्यक्ति",
+      "सहानुभूति",
+      "पारिवारिक सद्भाव",
+      "आर्थिक स्थिरता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-tri-nep",
+      "core": "Growth in imagination, faith, and creativity brings peace and spiritual insight, improving relationships and financial life.",
+      "tone": "Warm, supportive, and reflective"
+    },
+    "hi": {
+      "title": "चंद्रमा त्रिकोण नेपच्यून",
+      "core": "कल्पना, आस्था और रचनात्मकता में वृद्धि से शांति और आध्यात्मिक समझ मिलती है, जो संबंधों और आर्थिक जीवन को सुधारती है।",
+      "tone": "सहानुभूतिपूर्ण, सहयोगी और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Imagination, faith, and creativity grow during this time, bringing peace from past good deeds and better understanding of others' needs.",
+        "hi": "इस समय कल्पना, आस्था और रचनात्मकता में वृद्धि होती है, पुराने अच्छे कर्मों से शांति मिलती है और दूसरों की जरूरतों को बेहतर समझा जाता है।"
+      },
+      "career": {
+        "en": "Creativity and spiritual thinking enhance career direction and decision-making.",
+        "hi": "रचनात्मकता और आध्यात्मिक सोच करियर की दिशा और निर्णय लेने में सुधार लाती है।"
+      },
+      "relationships": {
+        "en": "There is a supportive feeling toward women and improved empathy for others.",
+        "hi": "महिलाओं के प्रति सहयोगी भावना और दूसरों के लिए बेहतर सहानुभूति होती है।"
+      },
+      "money": {
+        "en": "Financial and family life improves, supported by positive past actions.",
+        "hi": "आर्थिक और पारिवारिक जीवन में सुधार होता है, जो पुराने सकारात्मक कर्मों से समर्थित है।"
+      },
+      "health_adj": {
+        "en": "Spiritual thinking increases, contributing to peace and well-being.",
+        "hi": "आध्यात्मिक सोच बढ़ती है, जो शांति और स्वास्थ्य में योगदान देती है।"
+      }
+    },
+    "aliases": [
+      "Moon trine Neptune",
+      "Moo TRI Nep",
+      "Moon-Trine-Neptune",
+      "Moon Trine to Neptune"
+    ]
+  }
+}

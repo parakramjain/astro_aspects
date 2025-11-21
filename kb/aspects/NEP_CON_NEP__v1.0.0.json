@@ -1,0 +1,137 @@
+{
+  "id": "NEP_CON_NEP__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Conjunction",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Conjunction between Neptune and Neptune fuses in intensification. Neptune: . Neptune: . General tenor: mixed; outcome depends on maturity, timing, and context.",
+  "facets": {
+    "career": "Influence emerges via intensification.",
+    "relationships": "Influence emerges via intensification.",
+    "money": "Influence emerges via intensification.",
+    "health_adj": "Influence emerges via intensification."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Friction escalating into conflict; respect pacing and boundaries."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: intensification).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: intensification)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: intensification).",
+      "Make the decisive call; accept/decline offers consciously. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: intensification)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: intensification).",
+      "Close loops, stabilize routines, prune scope creep. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: intensification)."
+    ]
+  },
+  "keywords": [
+    "conjunction",
+    "intensification"
+  ],
+  "quality_tags": [
+    "major",
+    "mixed",
+    "fusion"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Neptune Conjunction Neptune",
+      "core": "Conjunction between Neptune and Neptune fuses in intensification. Neptune: . Neptune: . General tenor: mixed; outcome depends on maturity, timing, and context.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Neptune Conjunction Neptune (हिन्दी)",
+      "core": "Neptune और Neptune का Conjunction — ऊर्जा intensification के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Conjunction between Neptune and Neptune fuses in intensification. Neptune: . Neptune: . General tenor: mixed; outcome depends on maturity, timing, and context.",
+      "career": "Influence emerges via intensification.",
+      "relationships": "Influence emerges via intensification.",
+      "money": "Influence emerges via intensification.",
+      "health_adj": "Influence emerges via intensification."
+    },
+    "aliases": [
+      "Neptune conjunction Neptune",
+      "Nep CON Nep",
+      "Neptune-Conjunction-Neptune",
+      "Neptune Conjunction to Neptune"
+    ]
+  }
+}

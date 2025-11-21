@@ -1,0 +1,267 @@
+{
+  "id": "SUN_SEX_NEP__v1.0.0",
+  "pair": [
+    "Sun",
+    "Sextile",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Heightened intuition and imagination combined with mental excitement lead to self-motivated leadership in cultural and social activities, compassion for the less fortunate, and increased interest in spiritual knowledge and artistic pursuits.",
+    "hi": "अन्तर्ज्ञान और कल्पनाशक्ति की बढ़ती सक्रियता तथा मानसिक उत्तेजना से व्यक्ति आत्मप्रेरणा से सांस्कृतिक और सामाजिक गतिविधियों में नेतृत्व करता है, कम भाग्यवानों के प्रति दया भाव रखता है और आध्यात्मिक ज्ञान तथा कलात्मक रुचियों में वृद्धि होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Progress and advancement in artistic, photography, cinema, and music-related fields; opportunities to lead cultural/social events.",
+      "hi": "कला, फोटोग्राफी, सिनेमा और संगीत से जुड़े क्षेत्रों में प्रगति और उन्नति; सांस्कृतिक/सामाजिक घटनाओं में नेतृत्व के अवसर।"
+    },
+    "relationships": {
+      "en": "Increased compassion and understanding towards less fortunate individuals and children; enhanced ability to understand young people's feelings.",
+      "hi": "कम भाग्यवानों और बच्चों के प्रति दया और समझ बढ़ना; छोटे लोगों की भावनाओं को समझने की क्षमता में वृद्धि।"
+    },
+    "money": {
+      "en": "Opportunities may arise through involvement with charitable, religious, or cultural institutions; appreciation for artistic and beauty-related pursuits may bring indirect benefits.",
+      "hi": "धार्मिक, सांस्कृतिक या सहायता संस्थाओं से जुड़ाव के माध्यम से अवसर; कलात्मक और सौंदर्य संबंधी रुचियों से अप्रत्यक्ष लाभ।"
+    },
+    "health_adj": {
+      "en": "Potential interactions with hospitals, asylums, or monasteries; mental awakening may lead to increased self-awareness and premonitions.",
+      "hi": "औषधालय, पागलखाना या आश्रम से व्यवहार की संभावना; मानसिक जागृति से आत्मज्ञान और पूर्वाभास की वृद्धि।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Cultural/social leadership",
+      "Spiritual learning and teaching",
+      "Artistic and musical advancement",
+      "Family and domestic improvement",
+      "Psychological insight"
+    ],
+    "hi": [
+      "सांस्कृतिक/सामाजिक नेतृत्व",
+      "आध्यात्मिक अध्ययन और शिक्षण",
+      "कलात्मक और संगीत क्षेत्र में उन्नति",
+      "पारिवारिक और घरेलू सुधार",
+      "मनोवैज्ञानिक समझ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional sensitivity may increase, requiring balance.",
+      "Potential for confusion between imagination and reality.",
+      "Avoid over-identification with others' suffering."
+    ],
+    "hi": [
+      "भावनात्मक संवेदनशीलता बढ़ सकती है, संतुलन आवश्यक है।",
+      "कल्पना और वास्तविकता में भ्रम हो सकता है।",
+      "दूसरों के दुख में अत्यधिक समवेदना से बचें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in cultural and social leadership roles.",
+        "Share spiritual or elemental knowledge with children.",
+        "Explore artistic and musical interests.",
+        "Support charitable and religious institutions."
+      ],
+      "hi": [
+        "सांस्कृतिक और सामाजिक नेतृत्व की भूमिकाओं में भाग लें।",
+        "बच्चों को आध्यात्मिक या तत्त्वज्ञान समझाएं।",
+        "कलात्मक और संगीत रुचियों का अन्वेषण करें।",
+        "सहायता और धार्मिक संस्थाओं का समर्थन करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on self-motivation to lead in social events.",
+        "Increase study of child psychology.",
+        "Apply imagination to improve family/domestic environment."
+      ],
+      "hi": [
+        "सामाजिक घटनाओं में नेतृत्व के लिए आत्मप्रेरणा पर ध्यान दें।",
+        "बाल मनोविज्ञान का अध्ययन बढ़ाएं।",
+        "पारिवारिक/घरेलू वातावरण सुधारने के लिए कल्पना का प्रयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past events and insights gained.",
+        "Maintain awareness to distinguish intuition from illusion.",
+        "Continue spiritual discussions with interest."
+      ],
+      "hi": [
+        "भूतकाल की घटनाओं और प्राप्त ज्ञान पर विचार करें।",
+        "अन्तर्ज्ञान और भ्रम में अंतर बनाए रखें।",
+        "आध्यात्मिक चर्चाओं में रुचि बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intuition",
+      "imagination",
+      "mental excitement",
+      "self-motivation",
+      "cultural leadership",
+      "compassion",
+      "spiritual knowledge",
+      "child psychology",
+      "artistic appreciation",
+      "family improvement",
+      "premonition"
+    ],
+    "hi": [
+      "अन्तर्ज्ञान",
+      "कल्पना",
+      "मानसिक उत्तेजना",
+      "आत्मप्रेरणा",
+      "सांस्कृतिक नेतृत्व",
+      "दया",
+      "आध्यात्मिक ज्ञान",
+      "बाल मनोविज्ञान",
+      "कलात्मक प्रशंसा",
+      "पारिवारिक सुधार",
+      "पूर्वाभास"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intuitive",
+      "imaginative",
+      "compassionate",
+      "spiritual",
+      "artistic",
+      "insightful",
+      "progressive"
+    ],
+    "hi": [
+      "अन्तर्ज्ञानी",
+      "कल्पनाशील",
+      "दयालु",
+      "आध्यात्मिक",
+      "कलात्मक",
+      "सूक्ष्मदर्शी",
+      "प्रगतिशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual awakening",
+      "artistic growth",
+      "social compassion",
+      "psychological insight",
+      "family harmony"
+    ],
+    "hi": [
+      "आध्यात्मिक जागृति",
+      "कलात्मक विकास",
+      "सामाजिक दया",
+      "मनोवैज्ञानिक समझ",
+      "पारिवारिक सद्भाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-sxt-nep",
+      "core": "This aspect highlights active intuition and imagination, fostering leadership in cultural and social spheres, compassion, spiritual interest, and artistic advancement.",
+      "tone": "Warm, insightful, and encouraging"
+    },
+    "hi": {
+      "title": "सूर्य षट्कोण नेपच्यून",
+      "core": "यह योग अन्तर्ज्ञान और कल्पना की सक्रियता को दर्शाता है, जो सांस्कृतिक और सामाजिक क्षेत्रों में नेतृत्व, दया, आध्यात्मिक रुचि और कलात्मक उन्नति को बढ़ावा देता है।",
+      "tone": "सहानुभूतिपूर्ण, सूक्ष्मदर्शी और प्रोत्साहक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Active intuition and imagination combined with mental excitement lead to self-motivated leadership and spiritual interest.",
+        "hi": "अन्तर्ज्ञान और कल्पना की सक्रियता तथा मानसिक उत्तेजना से आत्मप्रेरित नेतृत्व और आध्यात्मिक रुचि होती है।"
+      },
+      "career": {
+        "en": "Advancement in artistic, photography, cinema, and music fields; leadership in cultural/social events.",
+        "hi": "कलात्मक, फोटोग्राफी, सिनेमा और संगीत क्षेत्रों में उन्नति; सांस्कृतिक/सामाजिक घटनाओं में नेतृत्व।"
+      },
+      "relationships": {
+        "en": "Compassion and understanding towards less fortunate and children; development of child psychology knowledge.",
+        "hi": "कम भाग्यवानों और बच्चों के प्रति दया और समझ; बाल मनोविज्ञान की जानकारी।"
+      },
+      "money": {
+        "en": "Opportunities through charitable, religious, or cultural institutions; artistic appreciation benefits.",
+        "hi": "धार्मिक, सांस्कृतिक या सहायता संस्थाओं से अवसर; कलात्मक प्रशंसा से लाभ।"
+      },
+      "health_adj": {
+        "en": "Interactions with hospitals, asylums, or monasteries; mental awakening and premonitions through self-awareness.",
+        "hi": "औषधालय, पागलखाना, आश्रम से व्यवहार; मानसिक जागृति और आत्मज्ञान से पूर्वाभास।"
+      }
+    },
+    "aliases": [
+      "Sun sextile Neptune",
+      "Sun SEX Nep",
+      "Sun-Sextile-Neptune",
+      "Sun Sextile to Neptune"
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "MER_CON_URA__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Conjunction",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Conjunction between Mercury and Uranus fuses in intensification. Mercury: analysis, communication, commerce, learning, tech. Uranus: . General tenor: mixed; outcome depends on maturity, timing, and context.",
+  "facets": {
+    "career": "Negotiation, analytics, documentation, skilling.  Emphasis: intensification.",
+    "relationships": "Dialog, problem-solving, curiosity.  Emphasis: intensification.",
+    "money": "Trading, freelancing, multi-stream income, contracts.  Emphasis: intensification.",
+    "health_adj": "Nervous system, breath, routine mobility.  Emphasis: intensification."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Friction escalating into conflict; respect pacing and boundaries."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification).",
+      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification).",
+      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification)."
+    ]
+  },
+  "keywords": [
+    "analysis",
+    "commerce",
+    "communication",
+    "conjunction",
+    "intensification",
+    "learning",
+    "tech"
+  ],
+  "quality_tags": [
+    "major",
+    "mixed",
+    "fusion"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "",
+    "",
+    "Wealth & Pricing",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Mercury Conjunction Uranus",
+      "core": "Conjunction between Mercury and Uranus fuses in intensification. Mercury: analysis, communication, commerce, learning, tech. Uranus: . General tenor: mixed; outcome depends on maturity, timing, and context.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Mercury Conjunction Uranus (हिन्दी)",
+      "core": "Mercury और Uranus का Conjunction — ऊर्जा intensification के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Conjunction between Mercury and Uranus fuses in intensification. Mercury: analysis, communication, commerce, learning, tech. Uranus: . General tenor: mixed; outcome depends on maturity, timing, and context.",
+      "career": "Negotiation, analytics, documentation, skilling.  Emphasis: intensification.",
+      "relationships": "Dialog, problem-solving, curiosity.  Emphasis: intensification.",
+      "money": "Trading, freelancing, multi-stream income, contracts.  Emphasis: intensification.",
+      "health_adj": "Nervous system, breath, routine mobility.  Emphasis: intensification."
+    },
+    "aliases": [
+      "Mercury conjunction Uranus",
+      "Mer CON Ura",
+      "Mercury-Conjunction-Uranus",
+      "Mercury Conjunction to Uranus"
+    ]
+  }
+}

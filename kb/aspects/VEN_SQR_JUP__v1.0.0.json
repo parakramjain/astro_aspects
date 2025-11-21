@@ -1,0 +1,239 @@
+{
+  "id": "VEN_SQR_JUP__v1.0.0",
+  "pair": [
+    "Venus",
+    "Square",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person experiences confusion between optimism and problems, leading to overspending and unhappiness even during joyful times, while taking full responsibility despite obstacles.",
+    "hi": "व्यक्ति की भावना और समस्याएँ एक-दूसरे को भ्रमित करती हैं, जिससे अति खर्च और सुख के समय भी असंतोष होता है, फिर भी वे बाधाओं के बावजूद पूरी जिम्मेदारी लेते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Challenges arise from conflicting optimism and difficulties, requiring responsibility despite obstacles.",
+      "hi": "विपरीत आशावाद और कठिनाइयों से चुनौतियाँ आती हैं, फिर भी बाधाओं के बावजूद जिम्मेदारी निभानी पड़ती है।"
+    },
+    "relationships": {
+      "en": "Emotional confusion may cause dissatisfaction even in happy moments, affecting interpersonal harmony.",
+      "hi": "भावनात्मक भ्रम के कारण सुखद पलों में भी असंतोष हो सकता है, जो संबंधों को प्रभावित करता है।"
+    },
+    "money": {
+      "en": "Tendency to overspend despite problems, leading to financial imbalance.",
+      "hi": "समस्याओं के बावजूद अति खर्च करने की प्रवृत्ति, जिससे वित्तीय असंतुलन होता है।"
+    },
+    "health_adj": {
+      "en": "Emotional unrest may affect overall well-being; managing stress is important.",
+      "hi": "भावनात्मक अशांति से समग्र स्वास्थ्य प्रभावित हो सकता है; तनाव प्रबंधन आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Financial challenges",
+      "Emotional conflicts",
+      "Responsibility under pressure"
+    ],
+    "hi": [
+      "वित्तीय चुनौतियाँ",
+      "भावनात्मक संघर्ष",
+      "दबाव में जिम्मेदारी"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Overspending leading to financial strain",
+      "Emotional dissatisfaction despite positive circumstances",
+      "Taking on full responsibility may cause stress"
+    ],
+    "hi": [
+      "अति खर्च से वित्तीय दबाव",
+      "सकारात्मक परिस्थितियों में भी भावनात्मक असंतोष",
+      "पूरी जिम्मेदारी लेने से तनाव हो सकता है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of spending habits",
+        "Acknowledge emotional conflicts without judgment",
+        "Accept responsibility with balanced perspective"
+      ],
+      "hi": [
+        "खर्च की आदतों पर ध्यान दें",
+        "भावनात्मक संघर्षों को बिना निर्णय के स्वीकार करें",
+        "संतुलित दृष्टिकोण से जिम्मेदारी लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on managing optimism realistically",
+        "Avoid impulsive financial decisions",
+        "Maintain emotional clarity during challenges"
+      ],
+      "hi": [
+        "वास्तविक रूप से आशावाद प्रबंधित करें",
+        "आकस्मिक वित्तीय निर्णयों से बचें",
+        "चुनौतियों में भावनात्मक स्पष्टता बनाए रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons learned from past overspending",
+        "Reassess emotional responses to joyful events",
+        "Gradually delegate responsibility to reduce stress"
+      ],
+      "hi": [
+        "अतीत के अति खर्च से सीखे गए पाठों पर विचार करें",
+        "सुखद घटनाओं पर भावनात्मक प्रतिक्रियाओं का पुनर्मूल्यांकन करें",
+        "तनाव कम करने के लिए धीरे-धीरे जिम्मेदारी सौंपें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "optimism",
+      "confusion",
+      "overspending",
+      "unhappiness",
+      "responsibility",
+      "obstacles"
+    ],
+    "hi": [
+      "आशावाद",
+      "भ्रम",
+      "अति खर्च",
+      "असंतोष",
+      "जिम्मेदारी",
+      "बाधाएँ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional complexity",
+      "financial caution",
+      "responsibility"
+    ],
+    "hi": [
+      "भावनात्मक जटिलता",
+      "वित्तीय सावधानी",
+      "जिम्मेदारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional conflict",
+      "financial imbalance",
+      "personal accountability"
+    ],
+    "hi": [
+      "भावनात्मक संघर्ष",
+      "वित्तीय असंतुलन",
+      "व्यक्तिगत जिम्मेदारी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-squ-jup",
+      "core": "This aspect indicates a mix of optimism and problems causing confusion, overspending, and emotional dissatisfaction, yet a strong sense of responsibility persists despite obstacles.",
+      "tone": "Warm, neutral, reflective"
+    },
+    "hi": {
+      "title": "शुक्र चतुर्भुज बृहस्पति",
+      "core": "यह योग आशावाद और समस्याओं के मिश्रण को दर्शाता है, जिससे भ्रम, अति खर्च और भावनात्मक असंतोष होता है, फिर भी बाधाओं के बावजूद जिम्मेदारी बनी रहती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Confusion between optimism and problems leads to overspending and unhappiness, with full responsibility taken despite obstacles.",
+        "hi": "आशावाद और समस्याओं के बीच भ्रम से अति खर्च और असंतोष होता है, फिर भी बाधाओं के बावजूद पूरी जिम्मेदारी ली जाती है।"
+      },
+      "career": {
+        "en": "Career challenges stem from conflicting optimism and difficulties, requiring responsibility despite obstacles.",
+        "hi": "करियर में चुनौतियाँ आशावाद और कठिनाइयों के विरोध से आती हैं, फिर भी बाधाओं के बावजूद जिम्मेदारी निभानी होती है।"
+      },
+      "relationships": {
+        "en": "Emotional confusion may cause dissatisfaction even in joy, affecting relationships.",
+        "hi": "भावनात्मक भ्रम के कारण सुख में भी असंतोष हो सकता है, जो संबंधों को प्रभावित करता है।"
+      },
+      "money": {
+        "en": "Overspending despite problems can cause financial imbalance.",
+        "hi": "समस्याओं के बावजूद अति खर्च वित्तीय असंतुलन पैदा कर सकता है।"
+      },
+      "health_adj": {
+        "en": "Emotional unrest may impact well-being; stress management is important.",
+        "hi": "भावनात्मक अशांति से स्वास्थ्य प्रभावित हो सकता है; तनाव प्रबंधन आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Venus square Jupiter",
+      "Ven SQR Jup",
+      "Venus-Square-Jupiter",
+      "Venus Square to Jupiter"
+    ]
+  }
+}

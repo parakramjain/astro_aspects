@@ -1,0 +1,266 @@
+{
+  "id": "JUP_TRI_JUP__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Trine",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Opportunities and benefits arise from education, religion, philosophy, travel, and cultural activities, enhancing importance and growth in these areas along with institutional and professional expansion.",
+    "hi": "शिक्षा, धर्म, तत्वज्ञान, यात्रा और सांस्कृतिक गतिविधियों से लाभ और अवसर प्राप्त होते हैं, जिनसे इन क्षेत्रों में महत्व और विकास बढ़ता है तथा संस्थागत और पेशेवर विस्तार के अवसर मिलते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Possibilities for professional growth including foreign-related work and fluctuations; expansion in work scope.",
+      "hi": "पेशेवर विकास के अवसर, जिनमें विदेशों से संबंधित कार्य और उतार-चढ़ाव शामिल हैं; कार्य क्षेत्र का विस्तार।"
+    },
+    "relationships": {
+      "en": "Opportunities for religious and social travel and joyful experiences with family and community.",
+      "hi": "धार्मिक और सामाजिक यात्रा के अवसर तथा परिवार और समुदाय के साथ आनंददायक अनुभव।"
+    },
+    "money": {
+      "en": "Increase in financial sources and institutional advantages in legal or government matters.",
+      "hi": "आर्थिक स्रोतों में वृद्धि और कानूनी या सरकारी मामलों में संस्थागत लाभ।"
+    },
+    "health_adj": {
+      "en": "Improvements in home and family environment may positively influence well-being.",
+      "hi": "घर और परिवार की स्थितियों में सुधार से स्वास्थ्य पर सकारात्मक प्रभाव पड़ सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational achievements",
+      "Religious or cultural travel",
+      "Professional expansion",
+      "Legal/governmental institutional benefits",
+      "Family/home improvements"
+    ],
+    "hi": [
+      "शैक्षिक उपलब्धियां",
+      "धार्मिक या सांस्कृतिक यात्रा",
+      "पेशेवर विस्तार",
+      "कानूनी/सरकारी संस्थागत लाभ",
+      "परिवार/घर की सुधार"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential fluctuations in foreign-related work may cause instability.",
+      "Opportunities may require careful navigation of institutional/legal systems."
+    ],
+    "hi": [
+      "विदेशों से संबंधित कार्य में उतार-चढ़ाव अस्थिरता ला सकते हैं।",
+      "अवसरों के लिए संस्थागत/कानूनी प्रणालियों को सावधानी से समझना आवश्यक है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in educational and cultural activities to maximize benefits.",
+        "Explore opportunities in legal and governmental institutions.",
+        "Consider professional growth avenues including foreign connections."
+      ],
+      "hi": [
+        "लाभ के लिए शिक्षा और सांस्कृतिक गतिविधियों में भाग लें।",
+        "कानूनी और सरकारी संस्थानों में अवसर तलाशें।",
+        "विदेशी संबंधों सहित पेशेवर विकास के रास्ते देखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on study or work related to religion, philosophy, or travel.",
+        "Leverage institutional advantages in legal/government matters.",
+        "Pursue family and home improvements actively."
+      ],
+      "hi": [
+        "धर्म, तत्वज्ञान या यात्रा से संबंधित अध्ययन या कार्य पर ध्यान दें।",
+        "कानूनी/सरकारी मामलों में संस्थागत लाभ का उपयोग करें।",
+        "परिवार और घर की सुधार में सक्रिय रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain gains in educational and professional fields.",
+        "Sustain financial sources and institutional benefits.",
+        "Continue to seek joyful social and religious experiences."
+      ],
+      "hi": [
+        "शैक्षिक और पेशेवर क्षेत्रों में प्राप्त लाभ बनाए रखें।",
+        "आर्थिक स्रोतों और संस्थागत लाभों को स्थिर रखें।",
+        "धार्मिक और सामाजिक आनंद के अनुभवों को जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "education",
+      "religion",
+      "philosophy",
+      "travel",
+      "culture",
+      "institutional benefits",
+      "legal matters",
+      "government",
+      "family",
+      "financial growth",
+      "professional expansion",
+      "foreign work",
+      "social joy"
+    ],
+    "hi": [
+      "शिक्षा",
+      "धर्म",
+      "तत्वज्ञान",
+      "यात्रा",
+      "संस्कृति",
+      "संस्थागत लाभ",
+      "कानूनी कार्य",
+      "सरकार",
+      "परिवार",
+      "आर्थिक वृद्धि",
+      "पेशेवर विस्तार",
+      "विदेशी कार्य",
+      "सामाजिक आनंद"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "beneficial",
+      "expansive",
+      "institutional",
+      "cultural",
+      "educational",
+      "professional",
+      "financial"
+    ],
+    "hi": [
+      "लाभकारी",
+      "विस्तारवादी",
+      "संस्थागत",
+      "सांस्कृतिक",
+      "शैक्षिक",
+      "पेशेवर",
+      "आर्थिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "growth through learning",
+      "spiritual and social enrichment",
+      "institutional support",
+      "family well-being",
+      "professional opportunity"
+    ],
+    "hi": [
+      "अध्ययन के माध्यम से विकास",
+      "आध्यात्मिक और सामाजिक समृद्धि",
+      "संस्थागत समर्थन",
+      "परिवार की भलाई",
+      "पेशेवर अवसर"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-16"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-tri-jup",
+      "core": "This aspect indicates benefits and growth in education, religion, philosophy, travel, and cultural activities, along with institutional and professional expansion.",
+      "tone": "Warm, optimistic, and encouraging"
+    },
+    "hi": {
+      "title": "बृहस्पति त्रिकोण बृहस्पति",
+      "core": "यह योग शिक्षा, धर्म, तत्वज्ञान, यात्रा और सांस्कृतिक गतिविधियों में लाभ और विकास के साथ-साथ संस्थागत और पेशेवर विस्तार को दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, आशावादी और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Benefits from education, religion, philosophy, travel, and cultural activities with growth and importance in these areas and institutional advantages.",
+        "hi": "शिक्षा, धर्म, तत्वज्ञान, यात्रा और सांस्कृतिक गतिविधियों से लाभ, इन क्षेत्रों में विकास और महत्व तथा संस्थागत लाभ।"
+      },
+      "career": {
+        "en": "Professional expansion opportunities including foreign-related work and fluctuations.",
+        "hi": "विदेशी संबंधित कार्य और उतार-चढ़ाव सहित पेशेवर विस्तार के अवसर।"
+      },
+      "relationships": {
+        "en": "Religious and social travel and joyful experiences with family and community.",
+        "hi": "धार्मिक और सामाजिक यात्रा तथा परिवार और समुदाय के साथ आनंददायक अनुभव।"
+      },
+      "money": {
+        "en": "Increase in financial sources and institutional benefits in legal/government matters.",
+        "hi": "आर्थिक स्रोतों में वृद्धि और कानूनी/सरकारी मामलों में संस्थागत लाभ।"
+      },
+      "health_adj": {
+        "en": "Home and family improvements positively affect well-being.",
+        "hi": "घर और परिवार की स्थितियों में सुधार से स्वास्थ्य पर सकारात्मक प्रभाव।"
+      }
+    },
+    "aliases": [
+      "Jupiter trine Jupiter",
+      "Jup TRI Jup",
+      "Jupiter-Trine-Jupiter",
+      "Jupiter Trine to Jupiter"
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "id": "MOO_SQR_NEP__v1.0.0",
+  "pair": [
+    "Moon",
+    "Square",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates a time of confusion, emotional instability, and spiritual or psychological challenges. It may cause disconnection from family, dominance of certain beliefs, and resurfacing of old unresolved emotions, along with potential financial misunderstandings and mental or emotional exhaustion.",
+    "hi": "यह योग भ्रम, भावनात्मक अस्थिरता और धार्मिक या मानसिक उलझनों का समय दर्शाता है। यह परिवार से कटाव, किसी विचारधारा का प्रभाव और पुरानी अधूरी भावनाओं के उभरने के साथ आर्थिक भ्रम और मानसिक या भावनात्मक थकावट ला सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Potential for mental exhaustion and stress affecting work performance; possible misunderstandings in professional matters.",
+      "hi": "काम में मानसिक थकावट और तनाव का प्रभाव; पेशेवर मामलों में भ्रम की संभावना।"
+    },
+    "relationships": {
+      "en": "Irresponsible behavior toward family and feelings of disconnection; emotional challenges within close relationships.",
+      "hi": "परिवार के प्रति गैर-जिम्मेदार व्यवहार और कटाव की भावना; निकट संबंधों में भावनात्मक चुनौतियाँ।"
+    },
+    "money": {
+      "en": "Financial matters may involve deception or misunderstandings leading to confusion or loss.",
+      "hi": "आर्थिक मामलों में धोखा या भ्रम की स्थिति बन सकती है, जिससे नुकसान हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Mental or emotional exhaustion, stress, and possible illness related to psychological strain.",
+      "hi": "मानसिक या भावनात्मक थकावट, तनाव और मानसिक दबाव से जुड़ी बीमारी हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional challenges",
+      "Family disconnection",
+      "Financial misunderstandings",
+      "Spiritual or psychological dilemmas"
+    ],
+    "hi": [
+      "भावनात्मक चुनौतियाँ",
+      "परिवार से कटाव",
+      "आर्थिक भ्रम",
+      "धार्मिक या मानसिक उलझनें"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Confusion leading to poor decisions",
+      "Emotional instability affecting relationships",
+      "Financial deception or misunderstandings",
+      "Mental or emotional exhaustion"
+    ],
+    "hi": [
+      "भ्रम के कारण गलत निर्णय",
+      "भावनात्मक अस्थिरता से संबंधों पर प्रभाव",
+      "आर्थिक धोखा या भ्रम",
+      "मानसिक या भावनात्मक थकावट"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Maintain clear communication with family and colleagues",
+        "Be cautious with financial dealings",
+        "Monitor emotional health and seek support if needed"
+      ],
+      "hi": [
+        "परिवार और सहकर्मियों से स्पष्ट संवाद बनाए रखें",
+        "आर्थिक मामलों में सतर्क रहें",
+        "भावनात्मक स्वास्थ्य पर ध्यान दें और आवश्यकता हो तो सहायता लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid making major decisions",
+        "Practice grounding and mindfulness",
+        "Limit exposure to confusing or deceptive influences"
+      ],
+      "hi": [
+        "महत्वपूर्ण निर्णय लेने से बचें",
+        "स्थिरता और जागरूकता का अभ्यास करें",
+        "भ्रमित या धोखाधड़ी वाले प्रभावों से बचें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on unresolved emotions",
+        "Rebuild connections with family gradually",
+        "Clarify financial misunderstandings"
+      ],
+      "hi": [
+        "अधूरी भावनाओं पर विचार करें",
+        "परिवार से संबंध धीरे-धीरे पुनः बनाएं",
+        "आर्थिक भ्रम को स्पष्ट करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "confusion",
+      "emotional instability",
+      "spiritual dilemmas",
+      "family disconnection",
+      "belief dominance",
+      "old memories",
+      "financial deception",
+      "mental exhaustion",
+      "stress"
+    ],
+    "hi": [
+      "भ्रम",
+      "भावनात्मक अस्थिरता",
+      "धार्मिक उलझन",
+      "परिवार से कटाव",
+      "विचारधारा का प्रभाव",
+      "पुरानी यादें",
+      "आर्थिक धोखा",
+      "मानसिक थकावट",
+      "तनाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "confusing",
+      "emotional",
+      "psychological",
+      "spiritual"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भ्रमित",
+      "भावनात्मक",
+      "मानसिक",
+      "धार्मिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional confusion",
+      "family issues",
+      "financial caution",
+      "mental health awareness"
+    ],
+    "hi": [
+      "भावनात्मक भ्रम",
+      "परिवार संबंधी मुद्दे",
+      "आर्थिक सतर्कता",
+      "मानसिक स्वास्थ्य जागरूकता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-squ-nep",
+      "core": "A time marked by emotional confusion, spiritual dilemmas, and challenges in family and financial matters.",
+      "tone": "Warm, neutral, and cautiously observant"
+    },
+    "hi": {
+      "title": "चंद्र वर्ग नेपच्यून",
+      "core": "यह समय भावनात्मक भ्रम, धार्मिक उलझनें, और परिवार तथा आर्थिक मामलों में चुनौतियाँ लेकर आता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This aspect indicates a time of confusion, emotional instability, and spiritual or psychological challenges. It may cause disconnection from family, dominance of certain beliefs, and resurfacing of old unresolved emotions, along with potential financial misunderstandings and mental or emotional exhaustion.",
+        "hi": "यह योग भ्रम, भावनात्मक अस्थिरता और धार्मिक या मानसिक उलझनों का समय दर्शाता है। यह परिवार से कटाव, किसी विचारधारा का प्रभाव और पुरानी अधूरी भावनाओं के उभरने के साथ आर्थिक भ्रम और मानसिक या भावनात्मक थकावट ला सकता है।"
+      },
+      "career": {
+        "en": "Potential for mental exhaustion and stress affecting work performance; possible misunderstandings in professional matters.",
+        "hi": "काम में मानसिक थकावट और तनाव का प्रभाव; पेशेवर मामलों में भ्रम की संभावना।"
+      },
+      "relationships": {
+        "en": "Irresponsible behavior toward family and feelings of disconnection; emotional challenges within close relationships.",
+        "hi": "परिवार के प्रति गैर-जिम्मेदार व्यवहार और कटाव की भावना; निकट संबंधों में भावनात्मक चुनौतियाँ।"
+      },
+      "money": {
+        "en": "Financial matters may involve deception or misunderstandings leading to confusion or loss.",
+        "hi": "आर्थिक मामलों में धोखा या भ्रम की स्थिति बन सकती है, जिससे नुकसान हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Mental or emotional exhaustion, stress, and possible illness related to psychological strain.",
+        "hi": "मानसिक या भावनात्मक थकावट, तनाव और मानसिक दबाव से जुड़ी बीमारी हो सकती है।"
+      }
+    },
+    "aliases": [
+      "Moon square Neptune",
+      "Moo SQR Nep",
+      "Moon-Square-Neptune",
+      "Moon Square to Neptune"
+    ]
+  }
+}

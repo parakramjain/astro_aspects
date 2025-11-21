@@ -1,0 +1,261 @@
+{
+  "id": "PLU_OPP_NEP__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Opposition",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect signifies a period of spiritual growth and cultural revival, accompanied by political and economic instability. It reveals hidden dynamics in important relationships and challenges in joint financial matters, often causing mental distress due to sudden physical or unexpected problems.",
+    "hi": "यह योग आध्यात्मिक विकास और सांस्कृतिक पुनरुत्थान का समय दर्शाता है, जिसमें राजनीतिक और आर्थिक अस्थिरता भी होती है। यह महत्वपूर्ण संबंधों में छिपे हुए घटनाक्रम प्रकट करता है और संयुक्त वित्तीय मामलों में चुनौतियाँ लाता है, जिससे अचानक शारीरिक या अप्रत्याशित समस्याओं के कारण मानसिक तनाव हो सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Political and economic turbulence may create instability affecting career progress.",
+      "hi": "राजनीतिक और आर्थिक उथल-पुथल से करियर में अस्थिरता आ सकती है।"
+    },
+    "relationships": {
+      "en": "Important relationships may involve hidden or unclear dynamics causing challenges.",
+      "hi": "महत्वपूर्ण संबंधों में छिपे हुए या अस्पष्ट घटनाक्रम होने से चुनौतियाँ आ सकती हैं।"
+    },
+    "money": {
+      "en": "Joint assets and business matters may prove difficult and challenging.",
+      "hi": "संयुक्त संपत्ति और व्यवसायिक मामलों में कठिनाइयाँ आ सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Sudden physical problems may arise, leading to mental distress.",
+      "hi": "अचानक शारीरिक समस्याएँ उत्पन्न हो सकती हैं, जिससे मानसिक तनाव हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual knowledge expansion",
+      "Cultural tradition revival",
+      "Political and economic instability",
+      "Challenges in joint financial matters"
+    ],
+    "hi": [
+      "आध्यात्मिक जानकारी में वृद्धि",
+      "सांस्कृतिक रीति-रिवाजों का पुनरुद्धार",
+      "राजनीतिक और आर्थिक अस्थिरता",
+      "संयुक्त वित्तीय मामलों में चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Mental distress due to sudden physical or unexpected problems",
+      "Instability from political and economic turbulence",
+      "Hidden complications in important relationships",
+      "Difficulties in joint assets or business matters"
+    ],
+    "hi": [
+      "अचानक शारीरिक या अप्रत्याशित समस्याओं से मानसिक तनाव",
+      "राजनीतिक और आर्थिक उथल-पुथल से अस्थिरता",
+      "महत्वपूर्ण संबंधों में छिपी जटिलताएँ",
+      "संयुक्त संपत्ति या व्यवसाय में कठिनाइयाँ"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek deeper understanding of spiritual and cultural traditions",
+        "Be cautious in political and economic decisions",
+        "Monitor relationship dynamics carefully",
+        "Review joint financial matters prudently"
+      ],
+      "hi": [
+        "आध्यात्मिक और सांस्कृतिक परंपराओं को गहराई से समझें",
+        "राजनीतिक और आर्थिक निर्णयों में सतर्क रहें",
+        "संबंधों की गतिशीलता पर ध्यान दें",
+        "संयुक्त वित्तीय मामलों की सावधानीपूर्वक समीक्षा करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Expect heightened awareness of hidden relationship issues",
+        "Prepare for possible sudden physical or mental challenges",
+        "Anticipate instability in political and economic areas",
+        "Address joint asset or business difficulties directly"
+      ],
+      "hi": [
+        "छिपे हुए संबंधी मुद्दों की जागरूकता बढ़ेगी",
+        "अचानक शारीरिक या मानसिक चुनौतियों के लिए तैयार रहें",
+        "राजनीतिक और आर्थिक क्षेत्रों में अस्थिरता की संभावना",
+        "संयुक्त संपत्ति या व्यवसाय की कठिनाइयों का सीधे समाधान करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Mental distress may lessen as sudden problems resolve",
+        "Political and economic conditions may stabilize gradually",
+        "Hidden relationship dynamics may become clearer",
+        "Joint financial challenges may ease over time"
+      ],
+      "hi": [
+        "अचानक समस्याओं के समाधान के साथ मानसिक तनाव कम हो सकता है",
+        "राजनीतिक और आर्थिक स्थिति धीरे-धीरे स्थिर हो सकती है",
+        "छिपे हुए संबंधी घटनाक्रम स्पष्ट हो सकते हैं",
+        "संयुक्त वित्तीय चुनौतियाँ समय के साथ कम हो सकती हैं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "spiritual growth",
+      "cultural revival",
+      "political instability",
+      "economic turbulence",
+      "hidden dynamics",
+      "mental distress",
+      "joint assets",
+      "business challenges"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "सांस्कृतिक पुनरुत्थान",
+      "राजनीतिक अस्थिरता",
+      "आर्थिक उथल-पुथल",
+      "छिपे हुए घटनाक्रम",
+      "मानसिक तनाव",
+      "संयुक्त संपत्ति",
+      "व्यवसायिक चुनौतियाँ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "transformative",
+      "unstable",
+      "revealing"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "परिवर्तनकारी",
+      "अस्थिर",
+      "प्रकट करने वाला"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual expansion",
+      "cultural tradition",
+      "political/economic unrest",
+      "relationship complexity",
+      "health and mental strain",
+      "financial cooperation"
+    ],
+    "hi": [
+      "आध्यात्मिक विस्तार",
+      "सांस्कृतिक परंपरा",
+      "राजनीतिक/आर्थिक अशांति",
+      "संबंधों की जटिलता",
+      "स्वास्थ्य और मानसिक तनाव",
+      "वित्तीय सहयोग"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-opp-nep",
+      "core": "A period marked by spiritual growth and cultural revival amid political and economic instability, revealing hidden relationship dynamics and challenges in joint financial matters.",
+      "tone": "Warm, neutral, and cautiously insightful"
+    },
+    "hi": {
+      "title": "प्लूटो विपक्ष नेपच्यून",
+      "core": "यह समय आध्यात्मिक विकास और सांस्कृतिक पुनरुत्थान का है, जिसमें राजनीतिक और आर्थिक अस्थिरता के बीच महत्वपूर्ण संबंधों के छिपे हुए घटनाक्रम और संयुक्त वित्तीय चुनौतियाँ सामने आती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Spiritual knowledge expands; cultural traditions reemerge; political and economic turbulence causes instability; hidden dynamics in important relationships; physical and sudden problems cause mental distress; joint assets and business matters are challenging.",
+        "hi": "आध्यात्मिक जानकारी में वृद्धि होती है; सांस्कृतिक रीति-रिवाज पुनः प्रकट होते हैं; राजनीतिक और आर्थिक उथल-पुथल से असंतुलन होता है; महत्वपूर्ण संबंधों में छिपे हुए घटनाक्रम होते हैं; शारीरिक और अचानक समस्याओं से मानसिक तनाव होता है; संयुक्त संपत्ति और व्यवसायिक मामले चुनौतीपूर्ण होते हैं।"
+      },
+      "career": {
+        "en": "Political and economic turbulence creates instability affecting career progression.",
+        "hi": "राजनीतिक और आर्थिक उथल-पुथल से करियर में अस्थिरता आती है।"
+      },
+      "relationships": {
+        "en": "Important relationships involve hidden dynamics causing challenges.",
+        "hi": "महत्वपूर्ण संबंधों में छिपे हुए घटनाक्रम चुनौतियाँ लाते हैं।"
+      },
+      "money": {
+        "en": "Joint assets and business matters prove difficult and challenging.",
+        "hi": "संयुक्त संपत्ति और व्यवसायिक मामले कठिन और चुनौतीपूर्ण होते हैं।"
+      },
+      "health_adj": {
+        "en": "Sudden physical problems cause mental distress.",
+        "hi": "अचानक शारीरिक समस्याओं से मानसिक तनाव होता है।"
+      }
+    },
+    "aliases": [
+      "Pluto opposition Neptune",
+      "Plu OPP Nep",
+      "Pluto-Opposition-Neptune",
+      "Pluto Opposition to Neptune"
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "id": "JUP_OPP_PLU__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Opposition",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Potential losses and disputes arising from others' involvement, especially in family, financial, and social matters, with risks of legal and emotional distress.",
+    "hi": "दूसरों के सहयोग से हानि और विवाद की संभावना, विशेषकर पारिवारिक, आर्थिक और सामाजिक मामलों में, जिससे कानूनी और भावनात्मक कष्ट हो सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Unfavorable conditions for dealings with hospitals, universities, cultural, or charitable institutions; volatility may cause significant setbacks.",
+      "hi": "अस्पताल, विश्वविद्यालय, सांस्कृतिक या सहायता संस्थानों से व्यवहार के लिए प्रतिकूल समय; उतार-चढ़ाव से बड़े नुकसान हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "Risk of family disintegration and disputes related to religious, social, or charitable activities; deception and conflicts possible in joint matters.",
+      "hi": "पारिवारिक विघटन और धार्मिक, सामाजिक या धार्मिक कार्यों से संबंधित विवाद की संभावना; संयुक्त मामलों में धोखा और झगड़े हो सकते हैं।"
+    },
+    "money": {
+      "en": "Financial transactions require caution to avoid conflicts; disputes and deception likely regarding joint assets, businesses, taxes, insurance, and inheritance causing legal issues.",
+      "hi": "आर्थिक लेन-देन में सतर्कता आवश्यक है; संयुक्त संपत्ति, व्यवसाय, कर, बीमा और पैतृक संपत्ति में विवाद और धोखे की संभावना जिससे कानूनी परेशानी हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Unfavorable for hospital-related dealings; volatility may lead to significant losses or distress.",
+      "hi": "अस्पताल संबंधी व्यवहार के लिए प्रतिकूल; उतार-चढ़ाव से बड़े नुकसान या कष्ट हो सकते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family disputes",
+      "Legal conflicts",
+      "Financial disagreements",
+      "Social or religious disputes"
+    ],
+    "hi": [
+      "पारिवारिक विवाद",
+      "कानूनी झगड़े",
+      "आर्थिक असहमति",
+      "सामाजिक या धार्मिक विवाद"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Loss through others' help",
+      "Family disintegration possible",
+      "Disputes in joint assets and businesses",
+      "Legal distress from financial conflicts",
+      "Volatility causing massive losses"
+    ],
+    "hi": [
+      "दूसरों के सहयोग में हानि की संभावना",
+      "पारिवारिक विघटन संभव",
+      "संयुक्त संपत्ति और व्यवसाय में विवाद",
+      "आर्थिक विवादों से कानूनी कष्ट",
+      "उतार-चढ़ाव से विशाल हानि"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in financial and legal dealings",
+        "Avoid risky joint ventures",
+        "Be vigilant in social and charitable engagements"
+      ],
+      "hi": [
+        "आर्थिक और कानूनी व्यवहार में सतर्कता बरतें",
+        "जोखिम भरे संयुक्त उद्यमों से बचें",
+        "सामाजिक और सहायता कार्यों में सावधानी रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Review joint assets and agreements carefully",
+        "Prepare for potential disputes",
+        "Avoid major financial commitments"
+      ],
+      "hi": [
+        "संयुक्त संपत्ति और समझौतों की सावधानीपूर्वक समीक्षा करें",
+        "संभावित विवादों के लिए तैयार रहें",
+        "बड़े आर्थिक निर्णय टालें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Resolve disputes amicably",
+        "Reassess financial partnerships",
+        "Focus on stabilizing family relations"
+      ],
+      "hi": [
+        "विवादों को सौहार्दपूर्ण ढंग से सुलझाएं",
+        "आर्थिक साझेदारी की पुनः समीक्षा करें",
+        "पारिवारिक संबंधों को स्थिर करने पर ध्यान दें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "loss",
+      "disputes",
+      "family disintegration",
+      "legal distress",
+      "financial caution",
+      "volatility",
+      "joint assets",
+      "deception"
+    ],
+    "hi": [
+      "हानि",
+      "विवाद",
+      "पारिवारिक विघटन",
+      "कानूनी कष्ट",
+      "आर्थिक सतर्कता",
+      "उतार-चढ़ाव",
+      "संयुक्त संपत्ति",
+      "धोखा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "volatile",
+      "cautious",
+      "conflict-prone"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "सतर्क",
+      "विवादास्पद"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family and social conflict",
+      "financial risk and legal issues",
+      "volatility and loss",
+      "caution in joint dealings"
+    ],
+    "hi": [
+      "पारिवारिक और सामाजिक विवाद",
+      "आर्थिक जोखिम और कानूनी समस्याएं",
+      "अस्थिरता और हानि",
+      "संयुक्त व्यवहार में सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-opp-plu",
+      "core": "This aspect indicates potential losses and disputes arising from others' involvement, especially in family, financial, and social matters, with risks of legal and emotional distress.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "बृहस्पति विपरीत प्लूटो",
+      "core": "यह योग दूसरों के सहयोग से हानि और विवाद की संभावना दर्शाता है, विशेषकर पारिवारिक, आर्थिक और सामाजिक मामलों में, जिससे कानूनी और भावनात्मक कष्ट हो सकते हैं।",
+      "tone": "निष्पक्ष, सतर्क और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Risk of loss through others' help with potential family disintegration and disputes in social, religious, and financial matters causing legal distress.",
+        "hi": "दूसरों के सहयोग में हानि की संभावना, पारिवारिक विघटन और सामाजिक, धार्मिक तथा आर्थिक मामलों में विवाद जिससे कानूनी कष्ट हो।"
+      },
+      "career": {
+        "en": "Unfavorable for dealings with hospitals, universities, cultural, or charitable institutions; volatility may cause significant setbacks.",
+        "hi": "अस्पताल, विश्वविद्यालय, सांस्कृतिक या सहायता संस्थानों से व्यवहार के लिए प्रतिकूल; उतार-चढ़ाव से बड़े नुकसान हो सकते हैं।"
+      },
+      "relationships": {
+        "en": "Family disintegration and disputes related to religious, social, or charitable activities; deception and conflicts possible in joint matters.",
+        "hi": "पारिवारिक विघटन और धार्मिक, सामाजिक या सहायता कार्यों से संबंधित विवाद; संयुक्त मामलों में धोखा और झगड़े संभव।"
+      },
+      "money": {
+        "en": "Financial transactions require caution; disputes and deception likely regarding joint assets, businesses, taxes, insurance, and inheritance causing legal issues.",
+        "hi": "आर्थिक लेन-देन में सतर्कता आवश्यक; संयुक्त संपत्ति, व्यवसाय, कर, बीमा, और पैतृक संपत्ति में विवाद और धोखा संभव जिससे कानूनी परेशानी।"
+      },
+      "health_adj": {
+        "en": "Unfavorable for hospital-related dealings; volatility may lead to significant losses or distress.",
+        "hi": "अस्पताल संबंधी व्यवहार के लिए प्रतिकूल; उतार-चढ़ाव से बड़े नुकसान या कष्ट हो सकते हैं।"
+      }
+    },
+    "aliases": [
+      "Jupiter opposition Pluto",
+      "Jup OPP Plu",
+      "Jupiter-Opposition-Pluto",
+      "Jupiter Opposition to Pluto"
+    ]
+  }
+}

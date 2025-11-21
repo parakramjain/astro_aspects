@@ -1,0 +1,232 @@
+{
+  "id": "NEP_OPP_NEP__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Opposition",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A phase of spiritual awakening and detachment from social and cultural engagements, often accompanied by physical or mental dependence on family, marking a significant life transition.",
+    "hi": "आध्यात्मिक जागृति और सामाजिक-सांस्कृतिक गतिविधियों से मानसिक अलगाव का समय, जिसमें शारीरिक या मानसिक रूप से परिवार पर निर्भरता होती है, जो जीवन के महत्वपूर्ण परिवर्तन को दर्शाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "A period of withdrawal from active social or cultural career engagements, focusing more on inner spiritual growth than external achievements.",
+      "hi": "सामाजिक या सांस्कृतिक करियर गतिविधियों से पीछे हटने का समय, जिसमें बाहरी उपलब्धियों की बजाय आंतरिक आध्यात्मिक विकास पर ध्यान केंद्रित होता है।"
+    },
+    "relationships": {
+      "en": "Detachment from social events and increased dependence on family members, reflecting a shift towards more intimate and supportive bonds.",
+      "hi": "सामाजिक घटनाओं से मानसिक अलगाव और परिवार के सदस्यों पर बढ़ती निर्भरता, जो अधिक घनिष्ठ और सहायक संबंधों की ओर बदलाव को दर्शाता है।"
+    },
+    "money": {
+      "en": "Financial matters may become less central as focus shifts away from external social activities towards personal and family support.",
+      "hi": "वित्तीय मामलों का महत्व कम हो सकता है क्योंकि ध्यान बाहरी सामाजिक गतिविधियों से हटकर व्यक्तिगत और पारिवारिक समर्थन की ओर केंद्रित होता है।"
+    },
+    "health_adj": {
+      "en": "Potential increased physical or mental vulnerability requiring support from family, indicating a sensitive phase in life.",
+      "hi": "शारीरिक या मानसिक रूप से अधिक संवेदनशीलता हो सकती है, जिसके लिए परिवार से समर्थन की आवश्यकता होती है, जो जीवन के संवेदनशील चरण को दर्शाता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual awakening",
+      "Life transition",
+      "Family dependence"
+    ],
+    "hi": [
+      "आध्यात्मिक जागृति",
+      "जीवन परिवर्तन",
+      "पारिवारिक निर्भरता"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional detachment from social environments may lead to isolation.",
+      "Increased dependence on family could affect personal autonomy."
+    ],
+    "hi": [
+      "सामाजिक वातावरण से भावनात्मक अलगाव अकेलेपन का कारण बन सकता है।",
+      "परिवार पर बढ़ती निर्भरता व्यक्तिगत स्वतंत्रता को प्रभावित कर सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Embrace spiritual growth opportunities.",
+        "Seek supportive family connections."
+      ],
+      "hi": [
+        "आध्यात्मिक विकास के अवसरों को अपनाएं।",
+        "पारिवारिक समर्थन संबंधों को मजबूत करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on inner reflection and detachment from social distractions.",
+        "Prepare for increased reliance on close family members."
+      ],
+      "hi": [
+        "आंतरिक चिंतन और सामाजिक व्याकुलताओं से अलगाव पर ध्यान दें।",
+        "निकट परिवार के सदस्यों पर बढ़ती निर्भरता के लिए तैयार रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually reduce dependence on family to regain autonomy.",
+        "Re-engage with social and cultural activities cautiously."
+      ],
+      "hi": [
+        "स्वायत्तता पुनः प्राप्त करने के लिए परिवार पर निर्भरता धीरे-धीरे कम करें।",
+        "सावधानी से सामाजिक और सांस्कृतिक गतिविधियों में पुनः भाग लें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "spiritual awakening",
+      "detachment",
+      "family dependence",
+      "life transition",
+      "social withdrawal"
+    ],
+    "hi": [
+      "आध्यात्मिक जागृति",
+      "अलगाव",
+      "पारिवारिक निर्भरता",
+      "जीवन परिवर्तन",
+      "सामाजिक वापसी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "reflective",
+      "supportive",
+      "transitional",
+      "detached"
+    ],
+    "hi": [
+      "चिंतनशील",
+      "सहायक",
+      "परिवर्तनशील",
+      "अलगावपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "family support",
+      "life closure",
+      "emotional detachment"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "पारिवारिक समर्थन",
+      "जीवन का समापन",
+      "भावनात्मक अलगाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-opp-nep",
+      "core": "This aspect indicates a necessary spiritual awakening accompanied by detachment from social and cultural events, often leading to physical or mental dependence on family during a significant life phase.",
+      "tone": "Warm, reflective, and gently cautionary"
+    },
+    "hi": {
+      "title": "नेपच्यून विपरीत नेपच्यून",
+      "core": "यह योग आवश्यक आध्यात्मिक जागृति को दर्शाता है, जिसमें सामाजिक और सांस्कृतिक घटनाओं से अलगाव होता है और जीवन के महत्वपूर्ण चरण में शारीरिक या मानसिक रूप से परिवार पर निर्भरता होती है।",
+      "tone": "सहानुभूतिपूर्ण, चिंतनशील और सौम्य सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Spiritual awakening becomes necessary. Detachment from cultural/social events occurs. Physical/mental dependence on family members marks life's final phase.",
+        "hi": "जीवन में आ/यात्मिक जागृति की ओर बढ़ना आवश्यक रहता है। सांस्कृतिक/सामाजिक घटनाओं से व्यक्ति मानसिक रूप से अलग रहता है। शारीरिक या मानसिक रूप से घर के किसी सदस्य पर निर्भर रहता है तथा यह जीवन का अंतिम समय रहता है।"
+      },
+      "career": {
+        "en": "Detachment from cultural/social events implies withdrawal from active career engagements, focusing on spiritual growth.",
+        "hi": "सांस्कृतिक/सामाजिक घटनाओं से अलगाव का अर्थ सक्रिय करियर गतिविधियों से पीछे हटना और आध्यात्मिक विकास पर ध्यान केंद्रित करना है।"
+      },
+      "relationships": {
+        "en": "Mental detachment from social events and dependence on family members characterize relationships during this phase.",
+        "hi": "सामाजिक घटनाओं से मानसिक अलगाव और परिवार के सदस्यों पर निर्भरता इस चरण में संबंधों की विशेषता है।"
+      },
+      "money": {
+        "en": "Focus shifts away from social activities, possibly reducing emphasis on financial matters.",
+        "hi": "सामाजिक गतिविधियों से ध्यान हटने के कारण वित्तीय मामलों का महत्व कम हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Physical or mental dependence on family suggests increased vulnerability requiring support.",
+        "hi": "परिवार पर शारीरिक या मानसिक निर्भरता बढ़ती संवेदनशीलता और समर्थन की आवश्यकता को दर्शाती है।"
+      }
+    },
+    "aliases": [
+      "Neptune opposition Neptune",
+      "Nep OPP Nep",
+      "Neptune-Opposition-Neptune",
+      "Neptune Opposition to Neptune"
+    ]
+  }
+}

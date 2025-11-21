@@ -1,0 +1,243 @@
+{
+  "id": "PLU_TRI_VEN__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Trine",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Inspiration in creative arts and music leads to innovation and growth in personal and financial areas, accompanied by deep emotional and passionate attractions.",
+    "hi": "कला और संगीत में प्रेरणा से नवाचार और व्यक्तिगत तथा आर्थिक विकास होता है, साथ ही गहरे भावुक और जुनूनी आकर्षण भी बनते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Interest in creating new things from old objects and developing new techniques through self-motivation.",
+      "hi": "पुरानी वस्तुओं से नई चीजें बनाने में रुचि और आत्मप्रेरणा से नई तकनीकें विकसित करना।"
+    },
+    "relationships": {
+      "en": "Intense attraction toward passionate love and the opposite gender; emotional or sexual opportunities may arise.",
+      "hi": "जुनूनी प्रेम और विपरीत लिंग के प्रति गहरा आकर्षण; भावनात्मक या यौनिक अवसर बन सकते हैं।"
+    },
+    "money": {
+      "en": "Smooth progress in matters related to joint assets, inheritance, investments, insurance, or taxes; expansion of financial resources.",
+      "hi": "संयुक्त संपत्ति, पैतृक संपत्ति, निवेश, बीमा या कर संबंधी काम आसानी से होते हैं; आर्थिक स्रोतों का विस्तार।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated in the descriptions.",
+      "hi": "स्वास्थ्य संबंधी कोई विशिष्ट समायोजन वर्णित नहीं है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative inspiration",
+      "Financial growth",
+      "Emotional and passionate relationships"
+    ],
+    "hi": [
+      "रचनात्मक प्रेरणा",
+      "आर्थिक विकास",
+      "भावनात्मक और जुनूनी संबंध"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional or sexual opportunities may arise, requiring mindful handling."
+    ],
+    "hi": [
+      "भावनात्मक या यौनिक अवसर बन सकते हैं, जिन्हें सावधानी से संभालना चाहिए।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Explore creative projects using old materials.",
+        "Develop new skills through self-motivation.",
+        "Manage joint financial matters carefully."
+      ],
+      "hi": [
+        "पुरानी वस्तुओं से रचनात्मक प्रोजेक्ट करें।",
+        "आत्मप्रेरणा से नई कौशल विकसित करें।",
+        "संयुक्त वित्तीय मामलों को सावधानी से संभालें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on artistic inspiration and financial opportunities.",
+        "Be open to deepening emotional connections."
+      ],
+      "hi": [
+        "कलात्मक प्रेरणा और आर्थिक अवसरों पर ध्यान दें।",
+        "भावनात्मक संबंधों को गहरा करने के लिए खुले रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain balance in emotional and financial matters.",
+        "Avoid impulsive decisions in relationships."
+      ],
+      "hi": [
+        "भावनात्मक और आर्थिक मामलों में संतुलन बनाए रखें।",
+        "रिश्तों में जल्दबाजी से बचें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "inspiration",
+      "creativity",
+      "self-motivation",
+      "financial growth",
+      "joint assets",
+      "inheritance",
+      "investments",
+      "passionate love",
+      "emotional attraction"
+    ],
+    "hi": [
+      "प्रेरणा",
+      "रचनात्मकता",
+      "आत्मप्रेरणा",
+      "आर्थिक विकास",
+      "संयुक्त संपत्ति",
+      "पैतृक संपत्ति",
+      "निवेश",
+      "जुनूनी प्रेम",
+      "भावनात्मक आकर्षण"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "inspirational",
+      "creative",
+      "motivated",
+      "financially favorable",
+      "emotionally intense"
+    ],
+    "hi": [
+      "प्रेरणादायक",
+      "रचनात्मक",
+      "प्रेरित",
+      "आर्थिक रूप से अनुकूल",
+      "भावनात्मक रूप से तीव्र"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "arts and music",
+      "innovation",
+      "financial management",
+      "passionate relationships"
+    ],
+    "hi": [
+      "कला और संगीत",
+      "नवाचार",
+      "वित्तीय प्रबंधन",
+      "जुनूनी संबंध"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-tri-ven",
+      "core": "Inspiration in arts and music fosters creativity, financial growth, and deep emotional connections.",
+      "tone": "Warm, insightful, and encouraging."
+    },
+    "hi": {
+      "title": "प्लूटो ट्राइन वीनस",
+      "core": "कला और संगीत में प्रेरणा से रचनात्मकता, आर्थिक विकास और गहरे भावनात्मक संबंध बनते हैं।",
+      "tone": "सहानुभूतिपूर्ण, सूचनात्मक और प्रोत्साहक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Deep inspiration arises in arts and music leading to creativity and growth in personal and financial areas with intense emotional attraction.",
+        "hi": "कला और संगीत में गहरी प्रेरणा से रचनात्मकता और व्यक्तिगत तथा आर्थिक विकास होता है, साथ ही तीव्र भावनात्मक आकर्षण भी बनता है।"
+      },
+      "career": {
+        "en": "Interest in creating new things from old objects and developing new techniques through self-motivation.",
+        "hi": "पुरानी वस्तुओं से नई चीजें बनाने में रुचि और आत्मप्रेरणा से नई तकनीकें विकसित करना।"
+      },
+      "relationships": {
+        "en": "Intense attraction toward passionate love and opposite gender; emotional or sexual opportunities may manifest.",
+        "hi": "जुनूनी प्रेम और विपरीत लिंग के प्रति गहरा आकर्षण; भावनात्मक या यौनिक अवसर बन सकते हैं।"
+      },
+      "money": {
+        "en": "Smooth progress in joint assets, inheritance, investments, insurance, or taxes; expansion of financial resources.",
+        "hi": "संयुक्त संपत्ति, पैतृक संपत्ति, निवेश, बीमा या कर संबंधी काम आसानी से होते हैं; आर्थिक स्रोतों का विस्तार।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "कोई विशिष्ट स्वास्थ्य समायोजन नहीं बताया गया।"
+      }
+    },
+    "aliases": [
+      "Pluto trine Venus",
+      "Plu TRI Ven",
+      "Pluto-Trine-Venus",
+      "Pluto Trine to Venus"
+    ]
+  }
+}

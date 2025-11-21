@@ -1,0 +1,247 @@
+{
+  "id": "MER_OPP_NEP__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Opposition",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates confusion and lack of self-trust, with a tendency to be influenced by illusions. It may lead to wrong decisions in various areas and mental fatigue.",
+    "hi": "यह योग व्यक्ति में भ्रम और आत्मविश्वास की कमी दर्शाता है, जिससे वह भ्रमों में आ जाता है। यह विभिन्न क्षेत्रों में गलत निर्णय और मानसिक थकावट ला सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Potential for wrong decisions affecting business or professional communication.",
+      "hi": "व्यापार या पेशेवर संचार में गलत निर्णय की संभावना।"
+    },
+    "relationships": {
+      "en": "Easily influenced by others, may believe illusions affecting trust.",
+      "hi": "दूसरों के प्रभाव में आना आसान, विश्वास को प्रभावित करने वाले भ्रम मान लेना।"
+    },
+    "money": {
+      "en": "Risk of incorrect choices impacting financial matters.",
+      "hi": "वित्तीय मामलों में गलत निर्णय लेने का जोखिम।"
+    },
+    "health_adj": {
+      "en": "Possible mental fatigue and risk of misdiagnosis or wrong treatment.",
+      "hi": "मानसिक थकावट और गलत निदान या उपचार की संभावना।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business decisions",
+      "Travel plans",
+      "Health consultations",
+      "Communication challenges"
+    ],
+    "hi": [
+      "व्यापार निर्णय",
+      "यात्रा योजनाएं",
+      "स्वास्थ्य परामर्श",
+      "संचार चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Confusion leading to poor judgment",
+      "Susceptibility to illusions",
+      "Mental exhaustion",
+      "Possibility of misdiagnosis"
+    ],
+    "hi": [
+      "गलत निर्णय के लिए भ्रम",
+      "भ्रमों के प्रति संवेदनशीलता",
+      "मानसिक थकावट",
+      "गलत निदान की संभावना"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious with decisions in business and travel",
+        "Verify information before accepting it",
+        "Monitor mental health and rest adequately"
+      ],
+      "hi": [
+        "व्यापार और यात्रा में निर्णय सावधानी से लें",
+        "जानकारी को स्वीकार करने से पहले जांच करें",
+        "मानसिक स्वास्थ्य पर ध्यान दें और पर्याप्त आराम करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid making important decisions impulsively",
+        "Seek second opinions in health matters",
+        "Stay grounded to reduce illusions"
+      ],
+      "hi": [
+        "महत्वपूर्ण निर्णय जल्दबाजी में न लें",
+        "स्वास्थ्य मामलों में दूसरी राय लें",
+        "भ्रम कम करने के लिए स्थिर रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual improvement in clarity and self-trust",
+        "Reduced susceptibility to illusions",
+        "Better mental focus and decision-making"
+      ],
+      "hi": [
+        "स्पष्टता और आत्मविश्वास में धीरे-धीरे सुधार",
+        "भ्रमों के प्रति संवेदनशीलता में कमी",
+        "बेहतर मानसिक एकाग्रता और निर्णय क्षमता"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "confusion",
+      "lack of self-trust",
+      "illusions",
+      "wrong decisions",
+      "mental fatigue",
+      "misdiagnosis"
+    ],
+    "hi": [
+      "भ्रम",
+      "आत्मविश्वास की कमी",
+      "भ्रम",
+      "गलत निर्णय",
+      "मानसिक थकावट",
+      "गलत निदान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "uncertain",
+      "influential",
+      "mental strain"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अनिश्चित",
+      "प्रभावशाली",
+      "मानसिक तनाव"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "confusion",
+      "trust issues",
+      "illusion",
+      "decision-making risk"
+    ],
+    "hi": [
+      "भ्रम",
+      "विश्वास की समस्या",
+      "भ्रम",
+      "निर्णय जोखिम"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-opp-nep",
+      "core": "This aspect brings confusion, lack of self-trust, and susceptibility to illusions, affecting decisions and mental clarity.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "बुध विपरीत वरुण",
+      "core": "यह योग भ्रम, आत्मविश्वास की कमी और भ्रमों के प्रति संवेदनशीलता लाता है, जो निर्णय और मानसिक स्पष्टता को प्रभावित करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Confusion and lack of self-trust with illusions influencing decisions and mental fatigue.",
+        "hi": "भ्रम और आत्मविश्वास की कमी, भ्रमों के प्रभाव से निर्णय और मानसिक थकावट।"
+      },
+      "career": {
+        "en": "Wrong decisions may occur in business and communication.",
+        "hi": "व्यापार और संचार में गलत निर्णय हो सकते हैं।"
+      },
+      "relationships": {
+        "en": "Easily influenced by others and prone to believing illusions.",
+        "hi": "दूसरों के प्रभाव में आना आसान और भ्रम मान लेना।"
+      },
+      "money": {
+        "en": "Financial decisions may be affected by illusions and poor judgment.",
+        "hi": "वित्तीय निर्णय भ्रम और गलत निर्णय से प्रभावित हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Mental fatigue and risk of misdiagnosis or wrong treatment.",
+        "hi": "मानसिक थकावट और गलत निदान या उपचार का खतरा।"
+      }
+    },
+    "aliases": [
+      "Mercury opposition Neptune",
+      "Mer OPP Nep",
+      "Mercury-Opposition-Neptune",
+      "Mercury Opposition to Neptune"
+    ]
+  }
+}

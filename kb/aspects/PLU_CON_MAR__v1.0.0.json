@@ -1,0 +1,245 @@
+{
+  "id": "PLU_CON_MAR__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Conjunction",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Strong willpower and aggressiveness drive focus on spiritual, mental, and physical growth. Interest in secretive, collective, or physical labor fields is prominent. Caution advised regarding anger and disputes. Professionally favorable for joint ventures and financial matters. Transforms old situations into new ones.",
+    "hi": "तीव्र इच्छाशक्ति और आक्रामकता से व्यक्ति आध्यात्मिक, मानसिक और शारीरिक विकास पर ध्यान केंद्रित करता है। गुप्त, सामूहिक या शारीरिक श्रम वाले कार्यों में रुचि रहती है। क्रोध और विवादों में सावधानी आवश्यक है। पेशेवर रूप से संयुक्त व्यवसाय और वित्तीय मामलों के लिए अनुकूल। पुरानी परिस्थितियों को बदलकर नई बनाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Drawn to secret research, police, military, collective, engineering, and physical labor fields. Favorable for joint ventures, assets, taxes, insurance, and investments.",
+      "hi": "गुप्त शोध, पुलिस, सैन्य, सामूहिक, इंजीनियरिंग और शारीरिक परिश्रम वाले कार्यों की ओर प्रवृत्ति। संयुक्त व्यवसाय, संपत्ति, कर, बीमा और निवेश के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Needs to control anger and excitement; avoid crowded and dispute-prone places to maintain harmony.",
+      "hi": "क्रोध और उत्तेजना पर नियंत्रण आवश्यक; भीड़भाड़ और विवाद संभावित स्थानों से दूर रहना चाहिए।"
+    },
+    "money": {
+      "en": "Favorable period for managing joint assets, taxes, insurance, and investments.",
+      "hi": "संयुक्त संपत्ति, कर, बीमा और निवेश के प्रबंधन के लिए लाभदायक समय।"
+    },
+    "health_adj": {
+      "en": "Good time for physical exertion and athletes; must manage anger and avoid stressful environments.",
+      "hi": "शारीरिक परिश्रम और एथलीट्स के लिए उपयुक्त समय; क्रोध नियंत्रित करें और तनावपूर्ण स्थानों से बचें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual and physical improvement",
+      "Engagement in secretive or collective work",
+      "Joint ventures and financial dealings",
+      "Transformation of old situations"
+    ],
+    "hi": [
+      "आध्यात्मिक और शारीरिक सुधार",
+      "गुप्त या सामूहिक कार्यों में संलग्नता",
+      "संयुक्त व्यवसाय और वित्तीय कार्य",
+      "पुरानी परिस्थितियों का परिवर्तन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Anger and excitement need control",
+      "Avoid crowded and dispute-prone areas",
+      "Disputes may become serious if combined with adverse conditions"
+    ],
+    "hi": [
+      "क्रोध और उत्तेजना पर नियंत्रण आवश्यक",
+      "भीड़भाड़ और विवाद संभावित स्थानों से बचें",
+      "अन्य प्रतिकूल स्थितियों में विवाद गंभीर हो सकते हैं"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on self-improvement spiritually, mentally, and physically",
+        "Engage in research, collective, or physical labor activities",
+        "Manage joint ventures and financial matters carefully"
+      ],
+      "hi": [
+        "आध्यात्मिक, मानसिक और शारीरिक सुधार पर ध्यान दें",
+        "शोध, सामूहिक या शारीरिक कार्यों में संलग्न हों",
+        "संयुक्त व्यवसाय और वित्तीय मामलों को सावधानी से संभालें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise control over anger and excitement",
+        "Avoid crowded and dispute-prone places"
+      ],
+      "hi": [
+        "क्रोध और उत्तेजना पर नियंत्रण रखें",
+        "भीड़भाड़ और विवाद संभावित स्थानों से दूर रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue transformation of old situations into new ones",
+        "Maintain caution in disputes and stressful environments"
+      ],
+      "hi": [
+        "पुरानी परिस्थितियों को नई में बदलना जारी रखें",
+        "विवाद और तनावपूर्ण स्थानों में सावधानी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "willpower",
+      "aggressiveness",
+      "spiritual growth",
+      "secret research",
+      "physical labor",
+      "anger control",
+      "joint ventures",
+      "transformation"
+    ],
+    "hi": [
+      "इच्छाशक्ति",
+      "आक्रामकता",
+      "आध्यात्मिक विकास",
+      "गुप्त शोध",
+      "शारीरिक परिश्रम",
+      "क्रोध नियंत्रण",
+      "संयुक्त व्यवसाय",
+      "परिवर्तन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intense",
+      "focused",
+      "transformative",
+      "cautious"
+    ],
+    "hi": [
+      "तीव्र",
+      "केन्द्रित",
+      "परिवर्तनकारी",
+      "सावधान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "self-improvement",
+      "discipline",
+      "conflict management",
+      "professional growth"
+    ],
+    "hi": [
+      "स्व-सुधार",
+      "अनुशासन",
+      "विवाद प्रबंधन",
+      "पेशेवर विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-con-mar",
+      "core": "Strong willpower and aggressiveness focus on growth and transformation, with caution advised in disputes.",
+      "tone": "Warm, neutral, and professional"
+    },
+    "hi": {
+      "title": "प्लूटो संयोजन मंगल",
+      "core": "तीव्र इच्छाशक्ति और आक्रामकता विकास और परिवर्तन पर केंद्रित, विवादों में सावधानी आवश्यक।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और पेशेवर"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Strong willpower and aggressiveness drive focus on spiritual, mental, and physical growth. Interest in secretive, collective, or physical labor fields is prominent. Caution advised regarding anger and disputes. Professionally favorable for joint ventures and financial matters. Transforms old situations into new ones.",
+        "hi": "तीव्र इच्छाशक्ति और आक्रामकता से व्यक्ति आध्यात्मिक, मानसिक और शारीरिक विकास पर ध्यान केंद्रित करता है। गुप्त, सामूहिक या शारीरिक श्रम वाले कार्यों में रुचि रहती है। क्रोध और विवादों में सावधानी आवश्यक है। पेशेवर रूप से संयुक्त व्यवसाय और वित्तीय मामलों के लिए अनुकूल। पुरानी परिस्थितियों को बदलकर नई बनाता है।"
+      },
+      "career": {
+        "en": "Drawn to secret research, police, military, collective, engineering, and physical labor fields. Favorable for joint ventures, assets, taxes, insurance, and investments.",
+        "hi": "गुप्त शोध, पुलिस, सैन्य, सामूहिक, इंजीनियरिंग और शारीरिक परिश्रम वाले कार्यों की ओर प्रवृत्ति। संयुक्त व्यवसाय, संपत्ति, कर, बीमा और निवेश के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Needs to control anger and excitement; avoid crowded and dispute-prone places to maintain harmony.",
+        "hi": "क्रोध और उत्तेजना पर नियंत्रण आवश्यक; भीड़भाड़ और विवाद संभावित स्थानों से दूर रहना चाहिए।"
+      },
+      "money": {
+        "en": "Favorable period for managing joint assets, taxes, insurance, and investments.",
+        "hi": "संयुक्त संपत्ति, कर, बीमा और निवेश के प्रबंधन के लिए लाभदायक समय।"
+      },
+      "health_adj": {
+        "en": "Good time for physical exertion and athletes; must manage anger and avoid stressful environments.",
+        "hi": "शारीरिक परिश्रम और एथलीट्स के लिए उपयुक्त समय; क्रोध नियंत्रित करें और तनावपूर्ण स्थानों से बचें।"
+      }
+    },
+    "aliases": [
+      "Pluto conjunction Mars",
+      "Plu CON Mar",
+      "Pluto-Conjunction-Mars",
+      "Pluto Conjunction to Mars"
+    ]
+  }
+}

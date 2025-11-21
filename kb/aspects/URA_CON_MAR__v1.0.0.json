@@ -1,0 +1,281 @@
+{
+  "id": "URA_CON_MAR__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Conjunction",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased activity and desire for independence within social groups, with a dominant attitude and possible sudden challenges or changes in social status.",
+    "hi": "मित्र समूहों में सक्रियता और स्वतंत्रता की इच्छा बढ़ती है, व्यक्ति प्रमुख समझता है और सामाजिक स्थिति में अचानक परिवर्तन या चुनौतियाँ आ सकती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Engagement with profound subjects such as future studies, economics, politics, and electrical works; dynamic energy in professional pursuits.",
+      "hi": "भविष्य ज्ञान, अर्थशास्त्र, राजनीति और विद्युत कार्यों जैसे गहन विषयों में संलग्नता; पेशेवर गतिविधियों में गतिशीलता।"
+    },
+    "relationships": {
+      "en": "Dominance over friends or groups, possible conflicts arising from social status changes or disputes involving joint or inherited assets.",
+      "hi": "मित्रों या समूहों पर प्रभुत्व, सामाजिक स्थिति परिवर्तन या संयुक्त/पैतृक संपत्ति विवादों से मतभेद।"
+    },
+    "money": {
+      "en": "Potential disputes related to joint or inherited property, taxes, or dividends; sudden financial losses possible if anger or disputes arise.",
+      "hi": "संयुक्त या पैतृक संपत्ति, कर, लाभांश से संबंधित विवाद; क्रोध या विवाद से अचानक आर्थिक हानि संभव।"
+    },
+    "health_adj": {
+      "en": "Risk of sudden disputes or dangers if anger is provoked; social etiquette may be lacking in behavior.",
+      "hi": "क्रोध उत्पन्न होने पर अचानक विवाद या खतरा; व्यवहार में सामाजिक शिष्टाचार की कमी।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Social status changes",
+      "Sudden disappointing events",
+      "News of death or adversity of close acquaintance",
+      "Engagement with profound or future-oriented studies"
+    ],
+    "hi": [
+      "सामाजिक स्थिति में परिवर्तन",
+      "अचानक निराशाजनक घटनाएँ",
+      "निकट परिचित की मृत्यु या विपरीत समाचार",
+      "गहन या भविष्य ज्ञान से जुड़ाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Sudden unexpected disappointing events may occur",
+      "Possible news of death or adversity of a close acquaintance",
+      "Conflicts or disputes regarding joint/inherited assets, taxes, or dividends",
+      "Anger may cause sudden losses, disputes, or dangers if criminal tendencies exist",
+      "Lack of social etiquette in behavior"
+    ],
+    "hi": [
+      "अचानक निराशाजनक घटनाएँ हो सकती हैं",
+      "निकट परिचित की मृत्यु या विपरीत समाचार मिल सकता है",
+      "संयुक्त/पैतृक संपत्ति, कर, लाभांश विवाद हो सकते हैं",
+      "अपराधी प्रवृत्ति होने पर क्रोध से हानि, विवाद या खतरा उत्पन्न हो सकता है",
+      "व्यवहार में सामाजिक शिष्टाचार की कमी रहती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage actively in social or organizational groups",
+        "Pursue independence with dynamic energy",
+        "Explore profound subjects like economics, politics, or future studies"
+      ],
+      "hi": [
+        "सामाजिक या संगठनात्मक समूहों में सक्रिय रूप से भाग लें",
+        "स्वतंत्रता की इच्छा को गतिशीलता के साथ आगे बढ़ाएं",
+        "अर्थशास्त्र, राजनीति या भविष्य ज्ञान जैसे गहन विषयों का अध्ययन करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be cautious of dominance in friendships or groups",
+        "Prepare for possible sudden changes in social status",
+        "Avoid anger-driven disputes especially related to shared assets"
+      ],
+      "hi": [
+        "मित्रता या समूहों में प्रभुत्व के प्रति सावधान रहें",
+        "सामाजिक स्थिति में अचानक बदलाव के लिए तैयार रहें",
+        "संयुक्त संपत्ति से जुड़े विवादों में क्रोध से बचें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on social behavior and etiquette",
+        "Resolve conflicts related to joint or inherited assets calmly",
+        "Manage anger to avoid sudden losses or dangers"
+      ],
+      "hi": [
+        "सामाजिक व्यवहार और शिष्टाचार पर विचार करें",
+        "संयुक्त या पैतृक संपत्ति से जुड़े विवादों को शांति से सुलझाएं",
+        "अचानक हानि या खतरे से बचने के लिए क्रोध को नियंत्रित करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "activity",
+      "independence",
+      "dominance",
+      "social status",
+      "sudden events",
+      "disappointment",
+      "death news",
+      "profound studies",
+      "future knowledge",
+      "economics",
+      "politics",
+      "electrical works",
+      "anger",
+      "disputes",
+      "joint assets",
+      "inheritance",
+      "taxes",
+      "dividends",
+      "social etiquette"
+    ],
+    "hi": [
+      "सक्रियता",
+      "स्वतंत्रता",
+      "प्रभुत्व",
+      "सामाजिक स्थिति",
+      "अचानक घटनाएँ",
+      "निराशा",
+      "मृत्यु समाचार",
+      "गहन अध्ययन",
+      "भविष्य ज्ञान",
+      "अर्थशास्त्र",
+      "राजनीति",
+      "विद्युत कार्य",
+      "क्रोध",
+      "विवाद",
+      "संयुक्त संपत्ति",
+      "पैतृक संपत्ति",
+      "कर",
+      "लाभांश",
+      "सामाजिक शिष्टाचार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "dynamic",
+      "dominant",
+      "independent",
+      "conflict-prone",
+      "socially active",
+      "unpredictable"
+    ],
+    "hi": [
+      "गतिशील",
+      "प्रमुख",
+      "स्वतंत्र",
+      "विवादास्पद",
+      "सामाजिक सक्रिय",
+      "अनिश्चित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "social dynamics",
+      "power struggles",
+      "sudden changes",
+      "intellectual pursuits",
+      "emotional volatility"
+    ],
+    "hi": [
+      "सामाजिक गतिशीलता",
+      "शक्ति संघर्ष",
+      "अचानक परिवर्तन",
+      "बौद्धिक रुचियाँ",
+      "भावनात्मक अस्थिरता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-con-mar",
+      "core": "Increased activity and desire for independence within social groups, with a dominant attitude and possible sudden challenges or changes in social status.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "यूरेनस संयोजन मंगल",
+      "core": "मित्र समूहों में सक्रियता और स्वतंत्रता की इच्छा बढ़ती है, व्यक्ति प्रमुख समझता है और सामाजिक स्थिति में अचानक परिवर्तन या चुनौतियाँ आ सकती हैं।",
+      "tone": "सहज, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Activity increases in friend circles with a strong desire for independence and dominance, alongside possible sudden social changes or disappointments.",
+        "hi": "मित्र समूहों में सक्रियता बढ़ती है, स्वतंत्रता और प्रभुत्व की प्रबल इच्छा होती है, साथ ही सामाजिक स्थिति में अचानक परिवर्तन या निराशा हो सकती है।"
+      },
+      "career": {
+        "en": "Engagement with deep subjects like future studies, economics, politics, and electrical works, showing dynamic energy in professional areas.",
+        "hi": "भविष्य ज्ञान, अर्थशास्त्र, राजनीति और विद्युत कार्यों जैसे गहन विषयों में संलग्नता, पेशेवर क्षेत्र में गतिशीलता।"
+      },
+      "relationships": {
+        "en": "Dominant behavior in friendships and groups, with potential conflicts over social status and shared assets.",
+        "hi": "मित्रता और समूहों में प्रमुख व्यवहार, सामाजिक स्थिति और साझा संपत्ति पर संभावित विवाद।"
+      },
+      "money": {
+        "en": "Disputes related to joint or inherited property, taxes, and dividends; risk of sudden losses if anger arises.",
+        "hi": "संयुक्त या पैतृक संपत्ति, कर, लाभांश से संबंधित विवाद; क्रोध होने पर अचानक हानि का खतरा।"
+      },
+      "health_adj": {
+        "en": "Possible sudden disputes or dangers caused by anger; lack of social etiquette in behavior.",
+        "hi": "क्रोध से उत्पन्न अचानक विवाद या खतरा; व्यवहार में सामाजिक शिष्टाचार की कमी।"
+      }
+    },
+    "aliases": [
+      "Uranus conjunction Mars",
+      "Ura CON Mar",
+      "Uranus-Conjunction-Mars",
+      "Uranus Conjunction to Mars"
+    ]
+  }
+}

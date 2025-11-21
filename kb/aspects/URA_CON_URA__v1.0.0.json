@@ -1,0 +1,230 @@
+{
+  "id": "URA_CON_URA__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Conjunction",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A phase of liberation from material and social duties, typically around age 84, marked by increased interest in spiritual and reincarnation topics and a rise in childlike purity.",
+    "hi": "यह भौतिक और सामाजिक जिम्मेदारियों से मुक्ति का समय है, जो आमतौर पर जीवन के 84 वर्ष के आसपास आता है, जिसमें धार्मिक, आध्यात्मिक और पुनर्जन्म विषयों में रुचि बढ़ती है और स्वभाव में बाल सुलभ निर्मलता आती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "A period where career responsibilities may lessen, allowing focus on spiritual or philosophical interests.",
+      "hi": "यह ऐसा समय होता है जब करियर की जिम्मेदारियाँ कम हो सकती हैं और ध्यान आध्यात्मिक या दार्शनिक रुचियों पर केंद्रित हो सकता है।"
+    },
+    "relationships": {
+      "en": "Relationships may reflect a simpler, more innocent nature, with possible emphasis on spiritual connections.",
+      "hi": "रिश्ते सरल और निर्मल स्वभाव के होते हैं, और आध्यात्मिक संबंधों पर अधिक ध्यान हो सकता है।"
+    },
+    "money": {
+      "en": "Material concerns may diminish as focus shifts away from social and financial obligations.",
+      "hi": "सामाजिक और वित्तीय जिम्मेदारियों से ध्यान हटने के कारण भौतिक चिंताएँ कम हो सकती हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments noted; a general increase in purity of nature is implied.",
+      "hi": "स्वास्थ्य के लिए कोई विशेष सुझाव नहीं हैं; स्वभाव में निर्मलता बढ़ने का संकेत मिलता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual Awakening",
+      "Life Transition",
+      "Elder Years"
+    ],
+    "hi": [
+      "आध्यात्मिक जागरूकता",
+      "जीवन परिवर्तन",
+      "वृद्धावस्था"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Explore spiritual and reincarnation topics.",
+        "Embrace simplicity and childlike qualities in behavior."
+      ],
+      "hi": [
+        "धार्मिक और पुनर्जन्म विषयों का अध्ययन करें।",
+        "व्यवहार में सरलता और बाल सुलभता अपनाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on inner freedom from material and social duties.",
+        "Cultivate purity and innocence in nature."
+      ],
+      "hi": [
+        "भौतिक और सामाजिक जिम्मेदारियों से आंतरिक मुक्ति पर ध्यान दें।",
+        "स्वभाव में निर्मलता और मासूमियत बढ़ाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Prepare for a gradual shift away from external obligations.",
+        "Maintain openness to spiritual growth."
+      ],
+      "hi": [
+        "बाहरी जिम्मेदारियों से धीरे-धीरे हटने की तैयारी करें।",
+        "आध्यात्मिक विकास के लिए खुले रहें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "freedom",
+      "material detachment",
+      "social responsibility",
+      "spiritual interest",
+      "reincarnation",
+      "childlike purity",
+      "elder years"
+    ],
+    "hi": [
+      "मुक्ति",
+      "भौतिक अलगाव",
+      "सामाजिक जिम्मेदारी",
+      "आध्यात्मिक रुचि",
+      "पुनर्जन्म",
+      "बाल सुलभ निर्मलता",
+      "वृद्धावस्था"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "liberation",
+      "innocence",
+      "spirituality",
+      "transition"
+    ],
+    "hi": [
+      "मुक्ति",
+      "निर्मलता",
+      "आध्यात्मिकता",
+      "परिवर्तन"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "life transition",
+      "renewal",
+      "purity"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "जीवन परिवर्तन",
+      "नवीनता",
+      "निर्मलता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-con-ura",
+      "core": "A time of release from material and social duties, with growing spiritual interests and increased childlike purity, typically occurring around age 84.",
+      "tone": "Warm, reflective, and encouraging openness to spiritual exploration."
+    },
+    "hi": {
+      "title": "यूरेनस संयोजन यूरेनस",
+      "core": "यह समय भौतिक और सामाजिक जिम्मेदारियों से मुक्ति का होता है, जिसमें आध्यात्मिक रुचि बढ़ती है और बाल सुलभ निर्मलता आती है, जो आमतौर पर 84 वर्ष के आसपास आता है।",
+      "tone": "सहानुभूतिपूर्ण, चिंतनशील और आध्यात्मिक खोज के लिए प्रोत्साहित करने वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Freedom from material and social responsibilities arises around age 84, with increased interest in spiritual and reincarnation topics and a rise in childlike purity.",
+        "hi": "भौतिक और सामाजिक जिम्मेदारियों से मुक्ति जीवन के 84 वर्ष के आसपास आती है, जिसमें धार्मिक और पुनर्जन्म विषयों में रुचि बढ़ती है और बाल सुलभ निर्मलता बढ़ती है।"
+      },
+      "career": {
+        "en": "Career responsibilities lessen, allowing focus on spiritual or philosophical interests.",
+        "hi": "करियर की जिम्मेदारियाँ कम होती हैं और ध्यान आध्यात्मिक या दार्शनिक रुचियों पर केंद्रित होता है।"
+      },
+      "relationships": {
+        "en": "Relationships reflect simplicity and increased innocence, with possible spiritual emphasis.",
+        "hi": "रिश्ते सरल और निर्मल होते हैं, और आध्यात्मिक पहलू पर ध्यान हो सकता है।"
+      },
+      "money": {
+        "en": "Material and financial concerns diminish as focus shifts away from social obligations.",
+        "hi": "सामाजिक जिम्मेदारियों से ध्यान हटने पर भौतिक और वित्तीय चिंताएँ कम होती हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health notes; general increase in purity of nature implied.",
+        "hi": "कोई विशेष स्वास्थ्य सुझाव नहीं; स्वभाव में निर्मलता बढ़ने का संकेत।"
+      }
+    },
+    "aliases": [
+      "Uranus conjunction Uranus",
+      "Ura CON Ura",
+      "Uranus-Conjunction-Uranus",
+      "Uranus Conjunction to Uranus"
+    ]
+  }
+}

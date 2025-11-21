@@ -1,0 +1,247 @@
+{
+  "id": "PLU_OPP_MOO__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Opposition",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Difficulty in understanding others' emotions, emotional distance in family, conflicts with women, and uncontrollable major life changes often related to joint assets or debt.",
+    "hi": "दूसरों की भावनाओं को समझने में कठिनाई, परिवार में भावनात्मक दूरी, महिलाओं से टकराव, और संयुक्त संपत्ति या ऋण से जुड़े बड़े और अप्रत्याशित जीवन परिवर्तन।"
+  },
+  "facets": {
+    "career": {
+      "en": "Career may be affected by emotional conflicts and sudden changes beyond control.",
+      "hi": "करियर पर भावनात्मक टकराव और अप्रत्याशित बदलावों का प्रभाव हो सकता है।"
+    },
+    "relationships": {
+      "en": "Emotional distance within family and potential conflicts with women are likely.",
+      "hi": "परिवार में भावनात्मक दूरी और महिलाओं से टकराव संभव है।"
+    },
+    "money": {
+      "en": "Issues may arise related to joint assets or debts, causing financial stress.",
+      "hi": "संयुक्त संपत्ति या ऋण से संबंधित समस्याएं उत्पन्न हो सकती हैं, जिससे वित्तीय तनाव हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Emotional stress due to family conflicts and life changes may affect well-being.",
+      "hi": "परिवारिक टकराव और जीवन में बदलावों के कारण भावनात्मक तनाव स्वास्थ्य पर प्रभाव डाल सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional conflicts",
+      "Family distance",
+      "Major life changes",
+      "Financial disputes"
+    ],
+    "hi": [
+      "भावनात्मक टकराव",
+      "परिवार में दूरी",
+      "बड़े जीवन परिवर्तन",
+      "वित्तीय विवाद"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Struggle to understand others' emotions",
+      "Emotional distance in family",
+      "Conflicts with women",
+      "Uncontrollable major life changes",
+      "Problems with joint assets or debt"
+    ],
+    "hi": [
+      "दूसरों की भावनाओं को समझने में कठिनाई",
+      "परिवार में भावनात्मक दूरी",
+      "महिलाओं से टकराव",
+      "नियंत्रण से बाहर बड़े जीवन परिवर्तन",
+      "संयुक्त संपत्ति या ऋण से समस्याएं"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Develop emotional awareness and empathy",
+        "Communicate openly with family members",
+        "Monitor joint financial matters carefully"
+      ],
+      "hi": [
+        "भावनात्मक जागरूकता और सहानुभूति विकसित करें",
+        "परिवार के सदस्यों से खुलकर संवाद करें",
+        "संयुक्त वित्तीय मामलों की सावधानीपूर्वक निगरानी करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Address emotional misunderstandings promptly",
+        "Prepare for sudden life changes",
+        "Review joint assets and debts thoroughly"
+      ],
+      "hi": [
+        "भावनात्मक गलतफहमियों को तुरंत सुलझाएं",
+        "अचानक जीवन परिवर्तनों के लिए तैयार रहें",
+        "संयुक्त संपत्ति और ऋण की पूरी समीक्षा करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional lessons learned",
+        "Rebuild family relationships with care",
+        "Resolve financial issues cautiously"
+      ],
+      "hi": [
+        "सीखी गई भावनात्मक सीखों पर विचार करें",
+        "परिवारिक संबंधों को सावधानी से पुनर्निर्मित करें",
+        "वित्तीय मुद्दों को सावधानीपूर्वक सुलझाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional distance",
+      "conflict",
+      "major changes",
+      "joint assets",
+      "debt"
+    ],
+    "hi": [
+      "भावनात्मक दूरी",
+      "टकराव",
+      "बड़े परिवर्तन",
+      "संयुक्त संपत्ति",
+      "ऋण"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "transformative",
+      "emotional",
+      "uncontrollable"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "परिवर्तनकारी",
+      "भावनात्मक",
+      "नियंत्रण से बाहर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family dynamics",
+      "emotional struggle",
+      "financial complexity",
+      "life transformation"
+    ],
+    "hi": [
+      "परिवारिक संबंध",
+      "भावनात्मक संघर्ष",
+      "वित्तीय जटिलता",
+      "जीवन परिवर्तन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-opp-moo",
+      "core": "Difficulty in understanding others’ emotions, emotional distance in family, conflicts with women, and uncontrollable major life changes often related to joint assets or debt.",
+      "tone": "Warm, neutral, and reflective"
+    },
+    "hi": {
+      "title": "प्लूटो विपक्ष चंद्र",
+      "core": "दूसरों की भावनाओं को समझने में कठिनाई, परिवार में भावनात्मक दूरी, महिलाओं से टकराव, और संयुक्त संपत्ति या ऋण से जुड़े बड़े और अप्रत्याशित जीवन परिवर्तन।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Difficulty in understanding others' emotions, emotional distance in family, conflicts with women, and uncontrollable major life changes often related to joint assets or debt.",
+        "hi": "दूसरों की भावनाओं को समझने में कठिनाई, परिवार में भावनात्मक दूरी, महिलाओं से टकराव, और संयुक्त संपत्ति या ऋण से जुड़े बड़े और अप्रत्याशित जीवन परिवर्तन।"
+      },
+      "career": {
+        "en": "Career may be affected by emotional conflicts and sudden changes beyond control.",
+        "hi": "करियर पर भावनात्मक टकराव और अप्रत्याशित बदलावों का प्रभाव हो सकता है।"
+      },
+      "relationships": {
+        "en": "Emotional distance within family and potential conflicts with women are likely.",
+        "hi": "परिवार में भावनात्मक दूरी और महिलाओं से टकराव संभव है।"
+      },
+      "money": {
+        "en": "Issues may arise related to joint assets or debts, causing financial stress.",
+        "hi": "संयुक्त संपत्ति या ऋण से संबंधित समस्याएं उत्पन्न हो सकती हैं, जिससे वित्तीय तनाव हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Emotional stress due to family conflicts and life changes may affect well-being.",
+        "hi": "परिवारिक टकराव और जीवन में बदलावों के कारण भावनात्मक तनाव स्वास्थ्य पर प्रभाव डाल सकता है।"
+      }
+    },
+    "aliases": [
+      "Pluto opposition Moon",
+      "Plu OPP Moo",
+      "Pluto-Opposition-Moon",
+      "Pluto Opposition to Moon"
+    ]
+  }
+}

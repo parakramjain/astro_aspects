@@ -1,0 +1,245 @@
+{
+  "id": "PLU_OPP_MER__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Opposition",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person tends to be controlling, manipulative, or secretive, attempting to influence others mentally. This creates tension in business and personal decisions, advising caution with contracts.",
+    "hi": "व्यक्ति में ज़िद, दबाव डालने की प्रवृत्ति या गुप्त व्यवहार बढ़ जाता है। वह मानसिक रूप से दूसरों को प्रभावित करने की कोशिश करता है। व्यापारिक और निजी निर्णयों में तनाव होता है, इसलिए अनुबंधों में सावधानी बरतनी चाहिए।"
+  },
+  "facets": {
+    "career": {
+      "en": "Tension and difficulties in business decisions; risk in signing contracts without care.",
+      "hi": "व्यापारिक निर्णयों में परेशानी और तनाव; अनुबंधों पर सावधानी के बिना साइन करने में जोखिम।"
+    },
+    "relationships": {
+      "en": "Controlling or secretive behavior may affect personal interactions and cause conflicts.",
+      "hi": "व्यक्तिगत संबंधों में ज़िद या गुप्त व्यवहार से मतभेद और विवाद हो सकते हैं।"
+    },
+    "money": {
+      "en": "Financial decisions may face tension; avoid careless agreements or contracts.",
+      "hi": "वित्तीय निर्णयों में तनाव हो सकता है; अनुबंधों या समझौतों में सावधानी रखें।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; mental stress from controlling tendencies may be present.",
+      "hi": "विशेष स्वास्थ्य समायोजन नहीं बताए गए; मानसिक तनाव हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business negotiations",
+      "Contract signings",
+      "Personal conflicts"
+    ],
+    "hi": [
+      "व्यापारिक वार्ताएं",
+      "अनुबंधों पर हस्ताक्षर",
+      "व्यक्तिगत विवाद"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Tendency to be manipulative or controlling",
+      "Mental tension affecting decisions",
+      "Avoid signing contracts without care"
+    ],
+    "hi": [
+      "ज़िद या दबाव डालने की प्रवृत्ति",
+      "निर्णयों में मानसिक तनाव",
+      "अनुबंधों पर सावधानी के बिना साइन न करें"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be aware of controlling tendencies",
+        "Communicate openly to reduce tension",
+        "Review decisions carefully"
+      ],
+      "hi": [
+        "ज़िद की प्रवृत्ति से सावधान रहें",
+        "तनाव कम करने के लिए खुलकर संवाद करें",
+        "निर्णयों की सावधानी से समीक्षा करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid signing contracts impulsively",
+        "Monitor mental influence on others",
+        "Stay cautious in business and personal decisions"
+      ],
+      "hi": [
+        "अनुबंधों पर जल्दबाजी में साइन न करें",
+        "दूसरों पर मानसिक प्रभाव पर ध्यान दें",
+        "व्यापारिक और निजी निर्णयों में सावधानी बरतें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on controlling behaviors",
+        "Resolve tensions through dialogue",
+        "Reassess agreements before proceeding"
+      ],
+      "hi": [
+        "ज़िद वाले व्यवहार पर विचार करें",
+        "संवाद से तनाव दूर करें",
+        "आगे बढ़ने से पहले समझौतों की पुनः समीक्षा करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "controlling",
+      "manipulative",
+      "secretive",
+      "mental influence",
+      "tension",
+      "contracts",
+      "caution"
+    ],
+    "hi": [
+      "ज़िद",
+      "दबाव डालना",
+      "गुप्त व्यवहार",
+      "मानसिक प्रभाव",
+      "तनाव",
+      "अनुबंध",
+      "सावधानी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautious",
+      "mental",
+      "tension"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधान",
+      "मानसिक",
+      "तनाव"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "control dynamics",
+      "mental tension",
+      "business caution",
+      "secretiveness"
+    ],
+    "hi": [
+      "नियंत्रण संबंध",
+      "मानसिक तनाव",
+      "व्यापार में सावधानी",
+      "गुप्त व्यवहार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-opp-mer",
+      "core": "This aspect indicates a tendency toward controlling and secretive behavior, causing tension in decisions and advising caution with contracts.",
+      "tone": "Warm, neutral, and advisory"
+    },
+    "hi": {
+      "title": "प्लूटो विपरीत बुध",
+      "core": "यह योग ज़िद और गुप्त व्यवहार की प्रवृत्ति दिखाता है, जिससे निर्णयों में तनाव होता है और अनुबंधों में सावधानी की सलाह मिलती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सलाहकार"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Person becomes controlling, manipulative, or secretive; mental influence attempts; tension in decisions; caution with contracts.",
+        "hi": "व्यक्ति ज़िदी, दबाव डालने वाला या गुप्त व्यवहार करता है; मानसिक प्रभाव की कोशिश; निर्णयों में तनाव; अनुबंधों में सावधानी।"
+      },
+      "career": {
+        "en": "Business and personal decisions face tension; avoid careless contract signings.",
+        "hi": "व्यापारिक और निजी निर्णयों में तनाव; अनुबंधों पर सावधानी बरतें।"
+      },
+      "relationships": {
+        "en": "Controlling or secretive tendencies may cause conflicts.",
+        "hi": "ज़िद या गुप्त प्रवृत्ति से विवाद हो सकते हैं।"
+      },
+      "money": {
+        "en": "Financial decisions tense; avoid signing agreements without care.",
+        "hi": "वित्तीय निर्णय तनावपूर्ण; सावधानी के बिना समझौते न करें।"
+      },
+      "health_adj": {
+        "en": "No specific health notes; possible mental stress from controlling behavior.",
+        "hi": "कोई विशेष स्वास्थ्य सूचना नहीं; नियंत्रण प्रवृत्ति से मानसिक तनाव संभव।"
+      }
+    },
+    "aliases": [
+      "Pluto opposition Mercury",
+      "Plu OPP Mer",
+      "Pluto-Opposition-Mercury",
+      "Pluto Opposition to Mercury"
+    ]
+  }
+}

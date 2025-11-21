@@ -1,0 +1,247 @@
+{
+  "id": "SAT_CON_JUP__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Conjunction",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Effectively manages administrative, public relations, and institutional responsibilities by establishing order through hard work and moral values. Organizes financial and legal systems, with opportunities to start new ventures and business travel. Rewards from past efforts are realized.",
+    "hi": "प्रबंधन, जनसंपर्क और संस्था की जिम्मेदारियों को कठिन परिश्रम और नैतिक मूल्यों के आधार पर सुव्यवस्थित और प्रभावी ढंग से निभाता है। आर्थिक और कानूनी व्यवस्थाओं को व्यवस्थित करता है। नए कार्य प्रारंभ करने और व्यवसाय यात्रा के अवसर मिलते हैं। पूर्व प्रयासों के परिणाम प्राप्त होते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Strong progress in management and organizational roles; opportunities to initiate new projects and business travel.",
+      "hi": "प्रबंधन और संगठनात्मक भूमिकाओं में मजबूत प्रगति; नए कार्य प्रारंभ करने और व्यवसाय यात्रा के अवसर।"
+    },
+    "relationships": {
+      "en": "Handles public relations and institutional responsibilities with order and discipline.",
+      "hi": "जनसंपर्क और संस्था की जिम्मेदारियों को सुव्यवस्था और अनुशासन के साथ निभाता है।"
+    },
+    "money": {
+      "en": "Organizes financial systems effectively, leading to rewards from past efforts.",
+      "hi": "आर्थिक व्यवस्थाओं को प्रभावी ढंग से व्यवस्थित करता है, जिससे पूर्व प्रयासों के परिणाम मिलते हैं।"
+    },
+    "health_adj": {
+      "en": "Requires sustained hard work and adherence to moral values; no specific health issues indicated.",
+      "hi": "कठिन परिश्रम और नैतिक मूल्यों का पालन आवश्यक है; कोई विशेष स्वास्थ्य समस्या संकेतित नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Initiation of new ventures",
+      "Business travel",
+      "Receiving rewards from past efforts"
+    ],
+    "hi": [
+      "नए कार्य प्रारंभ करना",
+      "व्यवसाय यात्रा",
+      "पूर्व प्रयासों के परिणाम प्राप्त करना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Demands hard work and moral discipline; potential strain if values are compromised."
+    ],
+    "hi": [
+      "कठिन परिश्रम और नैतिक अनुशासन की आवश्यकता; यदि मूल्य समझौता होते हैं तो तनाव हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on organizing and systematizing financial and legal matters.",
+        "Prepare for opportunities to start new projects.",
+        "Maintain moral values in all responsibilities."
+      ],
+      "hi": [
+        "आर्थिक और कानूनी मामलों को व्यवस्थित करने पर ध्यान दें।",
+        "नए कार्य प्रारंभ करने के अवसरों के लिए तैयारी करें।",
+        "सभी जिम्मेदारियों में नैतिक मूल्यों को बनाए रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Implement structured administration and public relations tasks.",
+        "Engage in business travel if opportunities arise.",
+        "Recognize and utilize rewards from past efforts."
+      ],
+      "hi": [
+        "प्रशासन और जनसंपर्क कार्यों को सुव्यवस्थित करें।",
+        "व्यवसाय यात्रा के अवसर आने पर भाग लें।",
+        "पूर्व प्रयासों के परिणामों को पहचानें और उपयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and consolidate financial and legal systems.",
+        "Reflect on the outcomes of past hard work."
+      ],
+      "hi": [
+        "आर्थिक और कानूनी व्यवस्थाओं की समीक्षा और समेकन करें।",
+        "पूर्व कठिन परिश्रम के परिणामों पर विचार करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "administration",
+      "organization",
+      "hard work",
+      "moral values",
+      "financial systems",
+      "legal proceedings",
+      "new ventures",
+      "business travel",
+      "rewards"
+    ],
+    "hi": [
+      "प्रबंधन",
+      "व्यवस्था",
+      "कठिन परिश्रम",
+      "नैतिक मूल्य",
+      "आर्थिक व्यवस्था",
+      "कानूनी कार्यवाही",
+      "नए कार्य",
+      "व्यवसाय यात्रा",
+      "परिणाम"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "disciplined",
+      "organized",
+      "responsible",
+      "hardworking",
+      "moral"
+    ],
+    "hi": [
+      "अनुशासित",
+      "सुव्यवस्थित",
+      "जिम्मेदार",
+      "मेहनती",
+      "नैतिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "order",
+      "responsibility",
+      "systematization",
+      "reward",
+      "initiative"
+    ],
+    "hi": [
+      "सुव्यवस्था",
+      "जिम्मेदारी",
+      "व्यवस्था",
+      "परिणाम",
+      "प्रारंभ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-con-jup",
+      "core": "Effective management of responsibilities with hard work and moral values, leading to organized systems and new opportunities.",
+      "tone": "Warm, neutral, and professional"
+    },
+    "hi": {
+      "title": "शनि योग बृहस्पति",
+      "core": "कठिन परिश्रम और नैतिक मूल्यों के साथ जिम्मेदारियों का प्रभावी प्रबंधन, जिससे सुव्यवस्थित व्यवस्था और नए अवसर मिलते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और पेशेवर"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Manages administration, public relations, and institutional duties effectively by establishing order through hard work and moral values. Organizes financial and legal systems. Opportunities for new ventures and business travel. Rewards from past efforts.",
+        "hi": "प्रबंधन, जनसंपर्क और संस्था की जिम्मेदारियों को कठिन परिश्रम और नैतिक मूल्यों के आधार पर सुव्यवस्थित और प्रभावी ढंग से निभाता है। आर्थिक और कानूनी व्यवस्थाओं को व्यवस्थित करता है। नए कार्य प्रारंभ करने और व्यवसाय यात्रा के अवसर मिलते हैं। पूर्व प्रयासों के परिणाम प्राप्त होते हैं।"
+      },
+      "career": {
+        "en": "Strong progress in management and organizational responsibilities, with chances to start new projects and business travel.",
+        "hi": "प्रबंधन और संगठनात्मक जिम्मेदारियों में मजबूत प्रगति, नए कार्य प्रारंभ करने और व्यवसाय यात्रा के अवसर।"
+      },
+      "relationships": {
+        "en": "Handles public relations and institutional responsibilities with order and discipline.",
+        "hi": "जनसंपर्क और संस्था की जिम्मेदारियों को सुव्यवस्था और अनुशासन के साथ निभाता है।"
+      },
+      "money": {
+        "en": "Organizes financial systems effectively, leading to rewards from past efforts.",
+        "hi": "आर्थिक व्यवस्थाओं को प्रभावी ढंग से व्यवस्थित करता है, जिससे पूर्व प्रयासों के परिणाम मिलते हैं।"
+      },
+      "health_adj": {
+        "en": "Requires sustained hard work and adherence to moral values; no specific health issues indicated.",
+        "hi": "कठिन परिश्रम और नैतिक मूल्यों का पालन आवश्यक है; कोई विशेष स्वास्थ्य समस्या संकेतित नहीं।"
+      }
+    },
+    "aliases": [
+      "Saturn conjunction Jupiter",
+      "Sat CON Jup",
+      "Saturn-Conjunction-Jupiter",
+      "Saturn Conjunction to Jupiter"
+    ]
+  }
+}

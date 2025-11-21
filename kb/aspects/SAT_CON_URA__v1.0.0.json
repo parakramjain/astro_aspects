@@ -1,0 +1,253 @@
+{
+  "id": "SAT_CON_URA__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Conjunction",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased responsibility and engagement in professional and group settings, with a focus on modern technology, disciplined work, and long-term benefits.",
+    "hi": "पेशेवर और समूह संबंधों में बढ़ी हुई जिम्मेदारी और जुड़ाव, आधुनिक तकनीक, अनुशासित कार्य और दीर्घकालिक लाभों पर ध्यान केंद्रित।"
+  },
+  "facets": {
+    "career": {
+      "en": "Joins new professional circles; involved in engineering, production, research, or electrical work with organizational discipline; ideal for serious, scientific, or mathematical work; current efforts yield long-term benefits.",
+      "hi": "नए पेशेवर समूह से जुड़ना; इंजीनियरिंग, उत्पादकता, शोध या विद्युत क्षेत्र के व्यवस्थित कार्य; गंभीर, वैज्ञानिक या गणितीय कार्य के लिए उपयुक्त; वर्तमान प्रयासों से दीर्घकालिक लाभ।"
+    },
+    "relationships": {
+      "en": "Increased responsibility in friendships, institutions, groups, and business associations.",
+      "hi": "मित्रता, संस्थाओं, समूहों और व्यवसायिक संबंधों में बढ़ी हुई जिम्मेदारी।"
+    },
+    "money": {
+      "en": "Timely investments bring special gains; profitable ventures and special discoveries succeed.",
+      "hi": "समय पर किए गए निवेश विशेष लाभ देते हैं; लाभकारी प्रयास और विशेष खोज सफल होते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional advancement",
+      "Joining new groups",
+      "Recognition for past work",
+      "Successful investments",
+      "Spiritual accomplishments"
+    ],
+    "hi": [
+      "पेशेवर उन्नति",
+      "नए समूहों से जुड़ना",
+      "पूर्व कार्यों के लिए सम्मान",
+      "सफल निवेश",
+      "आध्यात्मिक सिद्धि"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain organizational discipline to sustain benefits."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; लाभ बनाए रखने के लिए संस्थागत अनुशासन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage actively in professional and group responsibilities.",
+        "Explore modern technologies relevant to your work.",
+        "Maintain disciplined organizational practices."
+      ],
+      "hi": [
+        "पेशेवर और समूह जिम्मेदारियों में सक्रिय रूप से भाग लें।",
+        "अपने कार्य से संबंधित आधुनिक तकनीकों का अन्वेषण करें।",
+        "संस्थागत अनुशासन बनाए रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on engineering, production, research, or electrical projects.",
+        "Pursue serious, esoteric, mathematical, or scientific work.",
+        "Make timely investments for special gains."
+      ],
+      "hi": [
+        "इंजीनियरिंग, उत्पादकता, शोध या विद्युत परियोजनाओं पर ध्यान दें।",
+        "गंभीर, गूढ़, गणितीय या वैज्ञानिक कार्य करें।",
+        "विशेष लाभ के लिए समय पर निवेश करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue leveraging past work recognition.",
+        "Sustain motivation toward purposeful goals.",
+        "Maintain spiritual practices and tools."
+      ],
+      "hi": [
+        "पूर्व कार्यों की मान्यता का लाभ उठाते रहें।",
+        "उद्देश्यपूर्ण लक्ष्यों के प्रति प्रेरणा बनाए रखें।",
+        "आध्यात्मिक साधन और अभ्यास बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "responsibility",
+      "professional groups",
+      "modern technology",
+      "discipline",
+      "long-term benefits",
+      "investments",
+      "recognition",
+      "scientific work",
+      "spiritual accomplishments"
+    ],
+    "hi": [
+      "जिम्मेदारी",
+      "पेशेवर समूह",
+      "आधुनिक तकनीक",
+      "अनुशासन",
+      "दीर्घकालिक लाभ",
+      "निवेश",
+      "सम्मान",
+      "वैज्ञानिक कार्य",
+      "आध्यात्मिक सिद्धि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "serious",
+      "disciplined",
+      "purpose-driven",
+      "innovative",
+      "productive"
+    ],
+    "hi": [
+      "गंभीर",
+      "अनुशासित",
+      "उद्देश्यपूर्ण",
+      "नवोन्मेषी",
+      "उत्पादक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "technology engagement",
+      "organizational discipline",
+      "long-term success",
+      "spiritual opportunity"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "तकनीकी जुड़ाव",
+      "संस्थागत अनुशासन",
+      "दीर्घकालिक सफलता",
+      "आध्यात्मिक अवसर"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-con-ura",
+      "core": "This aspect highlights increased responsibility in social and professional groups, interest in modern technology, disciplined work, and opportunities for long-term benefits including spiritual growth.",
+      "tone": "Warm, professional, and encouraging"
+    },
+    "hi": {
+      "title": "शनि संयोजन यूरेनस",
+      "core": "यह योग सामाजिक और पेशेवर समूहों में बढ़ी जिम्मेदारी, आधुनिक तकनीक में रुचि, अनुशासित कार्य और दीर्घकालिक लाभ तथा आध्यात्मिक विकास के अवसर दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, पेशेवर और प्रोत्साहक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Increased responsibility and engagement in professional and group settings, with a focus on modern technology, disciplined work, and long-term benefits.",
+        "hi": "पेशेवर और समूह संबंधों में बढ़ी हुई जिम्मेदारी और जुड़ाव, आधुनिक तकनीक, अनुशासित कार्य और दीर्घकालिक लाभों पर ध्यान केंद्रित।"
+      },
+      "career": {
+        "en": "Joins new professional circles; involved in engineering, production, research, or electrical work with organizational discipline; ideal for serious, scientific, or mathematical work; current efforts yield long-term benefits.",
+        "hi": "नए पेशेवर समूह से जुड़ना; इंजीनियरिंग, उत्पादकता, शोध या विद्युत क्षेत्र के व्यवस्थित कार्य; गंभीर, वैज्ञानिक या गणितीय कार्य के लिए उपयुक्त; वर्तमान प्रयासों से दीर्घकालिक लाभ।"
+      },
+      "relationships": {
+        "en": "Increased responsibility in friendships, institutions, groups, and business associations.",
+        "hi": "मित्रता, संस्थाओं, समूहों और व्यवसायिक संबंधों में बढ़ी हुई जिम्मेदारी।"
+      },
+      "money": {
+        "en": "Timely investments bring special gains; profitable ventures and special discoveries succeed.",
+        "hi": "समय पर किए गए निवेश विशेष लाभ देते हैं; लाभकारी प्रयास और विशेष खोज सफल होते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+      }
+    },
+    "aliases": [
+      "Saturn conjunction Uranus",
+      "Sat CON Ura",
+      "Saturn-Conjunction-Uranus",
+      "Saturn Conjunction to Uranus"
+    ]
+  }
+}

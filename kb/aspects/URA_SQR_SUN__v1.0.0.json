@@ -1,0 +1,243 @@
+{
+  "id": "URA_SQR_SUN__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Square",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The individual strongly desires autonomy but may face serious issues if responsibilities are neglected. Conflicts arise when they seek freedom for themselves while expecting others to uphold duties, potentially causing harm to relationships.",
+    "hi": "व्यक्ति किसी भी स्थिति में स्वत्व चाहता है, लेकिन जिम्मेदारियों की अनदेखी से गंभीर समस्याएं हो सकती हैं। जब वे अपनी स्वतंत्रता चाहते हैं और दूसरों से कर्तव्य पालन की उम्मीद करते हैं, तो संघर्ष और संबंधों में चोट हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Desire for independence may conflict with workplace responsibilities, risking tensions with colleagues or supervisors.",
+      "hi": "स्वतंत्रता की इच्छा कार्यस्थल की जिम्मेदारियों से टकरा सकती है, जिससे सहकर्मियों या वरिष्ठों के साथ तनाव हो सकता है।"
+    },
+    "relationships": {
+      "en": "Seeking personal freedom while expecting others to fulfill duties can create conflicts and emotional hurt in relationships.",
+      "hi": "अपनी स्वतंत्रता चाहते हुए दूसरों से कर्तव्य पालन की उम्मीद करने से संबंधों में संघर्ष और भावनात्मक चोट हो सकती है।"
+    },
+    "money": {
+      "en": "Neglecting financial responsibilities due to a focus on autonomy may lead to serious consequences.",
+      "hi": "स्वतंत्रता पर ध्यान देने के कारण वित्तीय जिम्मेदारियों की अनदेखी से गंभीर परिणाम हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Stress from conflicts and neglecting duties may affect overall well-being.",
+      "hi": "संघर्ष और कर्तव्यों की अनदेखी से तनाव बढ़ सकता है जो स्वास्थ्य पर असर डाल सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts over responsibilities",
+      "Challenges in balancing freedom and duties",
+      "Tense interpersonal situations"
+    ],
+    "hi": [
+      "जिम्मेदारियों को लेकर संघर्ष",
+      "स्वतंत्रता और कर्तव्यों के बीच संतुलन की चुनौतियाँ",
+      "तनावपूर्ण पारस्परिक स्थितियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Neglecting responsibilities can cause serious problems",
+      "Expecting others to maintain duties while seeking personal freedom may lead to conflicts",
+      "Behavior may unintentionally hurt others"
+    ],
+    "hi": [
+      "जिम्मेदारियों की अनदेखी से गंभीर समस्याएं हो सकती हैं",
+      "स्वयं की स्वतंत्रता चाहते हुए दूसरों से कर्तव्य पालन की उम्मीद संघर्ष पैदा कर सकती है",
+      "व्यवहार से दूसरों को चोट लग सकती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Strive to balance autonomy with responsibility",
+        "Communicate expectations clearly to avoid conflicts",
+        "Be mindful of how behavior affects others"
+      ],
+      "hi": [
+        "स्वतंत्रता और जिम्मेदारी में संतुलन बनाएँ",
+        "संघर्ष से बचने के लिए अपेक्षाओं को स्पष्ट रूप से व्यक्त करें",
+        "अपने व्यवहार से दूसरों पर पड़ने वाले प्रभाव के प्रति सजग रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on managing duties carefully",
+        "Avoid neglecting responsibilities",
+        "Maintain respectful interactions"
+      ],
+      "hi": [
+        "कर्तव्यों का सावधानीपूर्वक प्रबंधन करें",
+        "जिम्मेदारियों की अनदेखी न करें",
+        "सम्मानजनक बातचीत बनाए रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past conflicts caused by neglect",
+        "Adjust expectations of self and others",
+        "Work on healing tense relationships"
+      ],
+      "hi": [
+        "पूर्व की अनदेखी से हुए संघर्षों पर विचार करें",
+        "स्वयं और दूसरों से अपेक्षाओं को समायोजित करें",
+        "तनावपूर्ण संबंधों को सुधारने का प्रयास करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "autonomy",
+      "responsibility",
+      "conflict",
+      "freedom",
+      "neglect",
+      "tension",
+      "hurt"
+    ],
+    "hi": [
+      "स्वत्व",
+      "जिम्मेदारी",
+      "संघर्ष",
+      "स्वतंत्रता",
+      "अनदेखी",
+      "तनाव",
+      "चोट"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "independent",
+      "conflicted",
+      "responsibility-challenged",
+      "relationship-strained"
+    ],
+    "hi": [
+      "स्वतंत्र",
+      "संघर्षपूर्ण",
+      "जिम्मेदारी में चुनौती",
+      "संबंध तनावपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "freedom vs duty",
+      "personal autonomy",
+      "interpersonal tension"
+    ],
+    "hi": [
+      "स्वतंत्रता बनाम कर्तव्य",
+      "व्यक्तिगत स्वत्व",
+      "पारस्परिक तनाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-squ-sun",
+      "core": "This aspect highlights a strong desire for autonomy that may conflict with responsibilities, potentially causing interpersonal tensions and challenges in balancing freedom with duties.",
+      "tone": "Warm, neutral, and reflective"
+    },
+    "hi": {
+      "title": "यूरेनस स्क्वायर सूर्य",
+      "core": "यह योग स्वत्व की तीव्र इच्छा को दर्शाता है जो जिम्मेदारियों से टकरा सकती है, जिससे पारस्परिक तनाव और स्वतंत्रता व कर्तव्य के बीच संतुलन की चुनौतियाँ हो सकती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person desires autonomy in any situation but neglecting responsibilities may cause serious problems and conflicts due to expecting others to maintain duties.",
+        "hi": "व्यक्ति किसी स्थिति में स्वत्व चाहता है, लेकिन जिम्मेदारियों की अनदेखी से गंभीर समस्याएं हो सकती हैं और दूसरों से कर्तव्य पालन की उम्मीद संघर्ष पैदा कर सकती है।"
+      },
+      "career": {
+        "en": "Independence desire may clash with workplace duties, risking tensions with colleagues or supervisors.",
+        "hi": "स्वतंत्रता की इच्छा कार्यस्थल की जिम्मेदारियों से टकरा सकती है, जिससे सहकर्मियों या वरिष्ठों के साथ तनाव हो सकता है।"
+      },
+      "relationships": {
+        "en": "Seeking freedom for self while expecting others to uphold duties can hurt others and create a tense atmosphere.",
+        "hi": "स्वयं की स्वतंत्रता चाहते हुए दूसरों से कर्तव्य पालन की उम्मीद करने से अन्य को चोट लगती है और तनावपूर्ण माहौल बनता है।"
+      },
+      "money": {
+        "en": "Neglect of financial responsibilities due to focus on autonomy may lead to serious consequences.",
+        "hi": "स्वतंत्रता पर ध्यान देने के कारण वित्तीय जिम्मेदारियों की अनदेखी से गंभीर परिणाम हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Stress from conflicts and neglecting duties may impact overall health.",
+        "hi": "संघर्ष और कर्तव्यों की अनदेखी से तनाव बढ़ सकता है जो स्वास्थ्य पर असर डाल सकता है।"
+      }
+    },
+    "aliases": [
+      "Uranus square Sun",
+      "Ura SQR Sun",
+      "Uranus-Square-Sun",
+      "Uranus Square to Sun"
+    ]
+  }
+}

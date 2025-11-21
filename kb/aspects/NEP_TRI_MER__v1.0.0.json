@@ -1,0 +1,235 @@
+{
+  "id": "NEP_TRI_MER__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Trine",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Enhanced imagination, mental strength, and intuition bring inspiration and knowledge, favoring creative and spiritual pursuits.",
+    "hi": "कल्पना शक्ति, मानसिक शक्ति और अंतर्ज्ञान में वृद्धि से प्रेरणा और ज्ञान प्राप्त होता है, जो रचनात्मक और आध्यात्मिक कार्यों के लिए अनुकूल है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable period for writing, music, art, and spiritual studies due to heightened inspiration and mental clarity.",
+      "hi": "लेखन, संगीत, कला और आध्यात्मिक अध्ययन के लिए प्रेरणा और मानसिक स्पष्टता के कारण अनुकूल समय।"
+    },
+    "relationships": {
+      "en": "Improved intuition may enhance understanding and communication in relationships.",
+      "hi": "बेहतर अंतर्ज्ञान से संबंधों में समझ और संवाद में सुधार हो सकता है।"
+    },
+    "money": {
+      "en": "No specific financial effects indicated; creativity may indirectly support income.",
+      "hi": "विशेष वित्तीय प्रभाव नहीं दर्शाए गए; रचनात्मकता अप्रत्यक्ष रूप से आय में सहायक हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Mental strength and intuition are supported; no direct health cautions noted.",
+      "hi": "मानसिक शक्ति और अंतर्ज्ञान समर्थित हैं; कोई सीधे स्वास्थ्य संबंधी चेतावनी नहीं है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative inspiration",
+      "Spiritual study",
+      "Artistic expression"
+    ],
+    "hi": [
+      "रचनात्मक प्रेरणा",
+      "आध्यात्मिक अध्ययन",
+      "कलात्मक अभिव्यक्ति"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in writing, music, or art projects",
+        "Pursue spiritual or intuitive studies",
+        "Use enhanced imagination for problem-solving"
+      ],
+      "hi": [
+        "लेखन, संगीत या कला परियोजनाओं में संलग्न हों",
+        "आध्यात्मिक या अंतर्ज्ञान संबंधी अध्ययन करें",
+        "समस्या समाधान के लिए बढ़ी हुई कल्पना का उपयोग करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on creative and spiritual activities",
+        "Capture inspired ideas promptly"
+      ],
+      "hi": [
+        "रचनात्मक और आध्यात्मिक गतिविधियों पर ध्यान दें",
+        "प्रेरित विचारों को तुरंत दर्ज करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on insights gained",
+        "Maintain mental clarity and intuition"
+      ],
+      "hi": [
+        "प्राप्त अंतर्दृष्टि पर विचार करें",
+        "मानसिक स्पष्टता और अंतर्ज्ञान बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "imagination",
+      "mental strength",
+      "intuition",
+      "inspiration",
+      "knowledge",
+      "writing",
+      "music",
+      "art",
+      "spiritual study"
+    ],
+    "hi": [
+      "कल्पना शक्ति",
+      "मानसिक शक्ति",
+      "अंतर्ज्ञान",
+      "प्रेरणा",
+      "ज्ञान",
+      "लेखन",
+      "संगीत",
+      "कला",
+      "आध्यात्मिक अध्ययन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "enhancing",
+      "inspirational",
+      "creative",
+      "spiritual"
+    ],
+    "hi": [
+      "वर्धक",
+      "प्रेरणादायक",
+      "रचनात्मक",
+      "आध्यात्मिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "spiritual growth",
+      "mental clarity"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "आध्यात्मिक विकास",
+      "मानसिक स्पष्टता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-tri-mer",
+      "core": "This aspect enhances imagination, mental strength, and intuition, offering inspiration and knowledge. It is an excellent time for creative and spiritual pursuits.",
+      "tone": "Warm, encouraging, and insightful"
+    },
+    "hi": {
+      "title": "नेपच्यून त्रिकोण बुध",
+      "core": "यह योग कल्पना शक्ति, मानसिक शक्ति और अंतर्ज्ञान को बढ़ाता है, जिससे प्रेरणा और ज्ञान मिलता है। यह रचनात्मक और आध्यात्मिक कार्यों के लिए उत्तम समय है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Enhanced imagination, mental strength, and intuition bring inspiration and knowledge, favoring creative and spiritual pursuits.",
+        "hi": "कल्पना शक्ति, मानसिक शक्ति और अंतर्ज्ञान में वृद्धि से प्रेरणा और ज्ञान प्राप्त होता है, जो रचनात्मक और आध्यात्मिक कार्यों के लिए अनुकूल है।"
+      },
+      "career": {
+        "en": "Favorable period for writing, music, art, and spiritual studies due to heightened inspiration and mental clarity.",
+        "hi": "लेखन, संगीत, कला और आध्यात्मिक अध्ययन के लिए प्रेरणा और मानसिक स्पष्टता के कारण अनुकूल समय।"
+      },
+      "relationships": {
+        "en": "Improved intuition may enhance understanding and communication in relationships.",
+        "hi": "बेहतर अंतर्ज्ञान से संबंधों में समझ और संवाद में सुधार हो सकता है।"
+      },
+      "money": {
+        "en": "No specific financial effects indicated; creativity may indirectly support income.",
+        "hi": "विशेष वित्तीय प्रभाव नहीं दर्शाए गए; रचनात्मकता अप्रत्यक्ष रूप से आय में सहायक हो सकती है।"
+      },
+      "health_adj": {
+        "en": "Mental strength and intuition are supported; no direct health cautions noted.",
+        "hi": "मानसिक शक्ति और अंतर्ज्ञान समर्थित हैं; कोई सीधे स्वास्थ्य संबंधी चेतावनी नहीं है।"
+      }
+    },
+    "aliases": [
+      "Neptune trine Mercury",
+      "Nep TRI Mer",
+      "Neptune-Trine-Mercury",
+      "Neptune Trine to Mercury"
+    ]
+  }
+}

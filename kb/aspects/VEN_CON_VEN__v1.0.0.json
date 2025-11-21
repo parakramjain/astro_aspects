@@ -1,0 +1,234 @@
+{
+  "id": "VEN_CON_VEN__v1.0.0",
+  "pair": [
+    "Venus",
+    "Conjunction",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A graceful, artistic, and affectionate period marked by increased self-esteem and blossoming relationships.",
+    "hi": "यह समय सुंदरता, कला और प्रेम से भरा होता है, जिसमें आत्मसम्मान बढ़ता है और रिश्ते मधुर बनते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "A time to express creativity and grace in professional endeavors.",
+      "hi": "व्यावसायिक कार्यों में रचनात्मकता और सौम्यता व्यक्त करने का समय।"
+    },
+    "relationships": {
+      "en": "Relationships tend to blossom with affection and deeper connections.",
+      "hi": "रिश्ते प्रेम और गहरे जुड़ाव के साथ मधुर बनते हैं।"
+    },
+    "money": {
+      "en": "Financial matters may benefit from increased confidence and harmonious interactions.",
+      "hi": "वित्तीय मामलों में आत्मविश्वास और सामंजस्यपूर्ण संबंध लाभकारी हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional well-being improves with feelings of love and artistic connection.",
+      "hi": "प्रेम और कला से जुड़ाव के कारण भावनात्मक स्वास्थ्य में सुधार होता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Artistic expression",
+      "Relationship growth",
+      "Self-esteem boost"
+    ],
+    "hi": [
+      "कलात्मक अभिव्यक्ति",
+      "रिश्तों का विकास",
+      "आत्मसम्मान में वृद्धि"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative or artistic activities.",
+        "Nurture relationships with affection.",
+        "Focus on self-esteem and personal beauty."
+      ],
+      "hi": [
+        "रचनात्मक या कलात्मक गतिविधियों में भाग लें।",
+        "रिश्तों को प्रेम से पोषित करें।",
+        "आत्मसम्मान और व्यक्तिगत सुंदरता पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Celebrate beauty and harmony in surroundings.",
+        "Express love and artistic talents openly."
+      ],
+      "hi": [
+        "अपने आस-पास की सुंदरता और सामंजस्य का जश्न मनाएं।",
+        "प्रेम और कलात्मक प्रतिभाओं को खुले दिल से व्यक्त करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain affectionate bonds even as energies shift.",
+        "Continue valuing beauty and self-worth."
+      ],
+      "hi": [
+        "ऊर्जाओं के बदलाव के बावजूद प्रेमपूर्ण संबंध बनाए रखें।",
+        "सुंदरता और आत्म-मूल्य को महत्व देना जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "grace",
+      "artistic",
+      "affection",
+      "beauty",
+      "music",
+      "love",
+      "self-esteem",
+      "relationships"
+    ],
+    "hi": [
+      "सुंदरता",
+      "आकर्षण",
+      "सौम्यता",
+      "कला",
+      "संगीत",
+      "प्रेम",
+      "आत्मसम्मान",
+      "रिश्ते"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "harmonious",
+      "creative",
+      "affectionate",
+      "uplifting"
+    ],
+    "hi": [
+      "सामंजस्यपूर्ण",
+      "रचनात्मक",
+      "प्रेमपूर्ण",
+      "उत्साहवर्धक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "beauty",
+      "love",
+      "art",
+      "self-worth"
+    ],
+    "hi": [
+      "सुंदरता",
+      "प्रेम",
+      "कला",
+      "आत्म-मूल्य"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-con-ven",
+      "core": "A time of artistic grace, affection, and blossoming relationships with increased self-esteem.",
+      "tone": "Warm, positive, and encouraging"
+    },
+    "hi": {
+      "title": "शुक्र संयोग शुक्र",
+      "core": "कलात्मक सौम्यता, प्रेम और बढ़ते रिश्तों का समय जिसमें आत्मसम्मान बढ़ता है।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A graceful, artistic, and affectionate time with increased self-esteem and blossoming relationships.",
+        "hi": "यह समय सुंदरता, कला और प्रेम से भरा होता है, जिसमें आत्मसम्मान बढ़ता है और रिश्ते मधुर बनते हैं।"
+      },
+      "career": {
+        "en": "Express creativity and grace in professional life.",
+        "hi": "व्यावसायिक जीवन में रचनात्मकता और सौम्यता व्यक्त करें।"
+      },
+      "relationships": {
+        "en": "Relationships deepen and become more affectionate.",
+        "hi": "रिश्ते गहरे और प्रेमपूर्ण बनते हैं।"
+      },
+      "money": {
+        "en": "Confidence and harmony positively influence financial matters.",
+        "hi": "आत्मविश्वास और सामंजस्य वित्तीय मामलों को सकारात्मक रूप से प्रभावित करते हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional health improves through connection with love and art.",
+        "hi": "प्रेम और कला से जुड़ाव के कारण भावनात्मक स्वास्थ्य में सुधार होता है।"
+      }
+    },
+    "aliases": [
+      "Venus conjunction Venus",
+      "Ven CON Ven",
+      "Venus-Conjunction-Venus",
+      "Venus Conjunction to Venus"
+    ]
+  }
+}

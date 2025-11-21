@@ -1,0 +1,243 @@
+{
+  "id": "MER_TRI_JUP__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Trine",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A favorable period for intellectual pursuits, education, and significant business activities, bringing optimism and benefits from foreign or long-distance connections, improving both family and professional life.",
+    "hi": "बौद्धिक गतिविधियों, शिक्षा और महत्वपूर्ण व्यापारिक प्रयासों के लिए अनुकूल समय, जो आशावाद बढ़ाता है और विदेशों या लंबी दूरी के संबंधों से लाभ देता है, पारिवारिक और व्यावसायिक जीवन में सुधार लाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Improvement in professional life and success in major business efforts.",
+      "hi": "व्यावसायिक जीवन में सुधार और बड़े व्यापारिक प्रयासों में सफलता।"
+    },
+    "relationships": {
+      "en": "Enhancement in family life and beneficial foreign or long-distance connections.",
+      "hi": "पारिवारिक जीवन में सुधार और विदेशों या लंबी दूरी के संबंधों से लाभ।"
+    },
+    "money": {
+      "en": "Positive outcomes from business efforts and foreign connections may improve financial status.",
+      "hi": "व्यापारिक प्रयासों और विदेशों के संबंधों से सकारात्मक परिणाम वित्तीय स्थिति में सुधार ला सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य के लिए कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Study",
+      "Writing",
+      "Higher Education",
+      "Business Efforts",
+      "Foreign Travel"
+    ],
+    "hi": [
+      "पढ़ाई",
+      "लेखन",
+      "उच्च शिक्षा",
+      "व्यापारिक प्रयास",
+      "विदेश यात्रा"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in study and writing activities.",
+        "Pursue higher education or major business projects.",
+        "Leverage foreign connections or plan long travels."
+      ],
+      "hi": [
+        "पढ़ाई और लेखन में संलग्न हों।",
+        "उच्च शिक्षा या बड़े व्यापारिक प्रोजेक्ट करें।",
+        "विदेशी संबंधों का लाभ उठाएं या लंबी यात्रा की योजना बनाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on optimism and positive communication.",
+        "Strengthen family and professional relationships."
+      ],
+      "hi": [
+        "आशावाद और सकारात्मक संवाद पर ध्यान दें।",
+        "पारिवारिक और व्यावसायिक संबंध मजबूत करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain gains in study and business efforts.",
+        "Continue nurturing foreign and family connections."
+      ],
+      "hi": [
+        "पढ़ाई और व्यापारिक प्रयासों में प्राप्त लाभ बनाए रखें।",
+        "विदेशी और पारिवारिक संबंधों को संजोए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Study",
+      "Writing",
+      "Higher Education",
+      "Business",
+      "Optimism",
+      "Foreign Connections",
+      "Long Travel",
+      "Family Improvement",
+      "Professional Growth"
+    ],
+    "hi": [
+      "पढ़ाई",
+      "लेखन",
+      "उच्च शिक्षा",
+      "व्यापार",
+      "आशावाद",
+      "विदेशी संबंध",
+      "लंबी यात्रा",
+      "पारिवारिक सुधार",
+      "व्यावसायिक विकास"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Favorable",
+      "Optimistic",
+      "Beneficial",
+      "Supportive"
+    ],
+    "hi": [
+      "अनुकूल",
+      "आशावादी",
+      "लाभकारी",
+      "समर्थक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Education",
+      "Communication",
+      "Travel",
+      "Business Growth",
+      "Family Harmony"
+    ],
+    "hi": [
+      "शिक्षा",
+      "संचार",
+      "यात्रा",
+      "व्यापार विकास",
+      "पारिवारिक सद्भाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-tri-jup",
+      "core": "A time favorable for study, writing, higher education, and major business efforts, bringing optimism and benefits from foreign connections or long travels, improving family and professional life.",
+      "tone": "Warm, positive, and encouraging"
+    },
+    "hi": {
+      "title": "बुध त्रिकोण बृहस्पति",
+      "core": "पढ़ाई, लेखन, उच्च शिक्षा और बड़े व्यापारिक प्रयासों के लिए अनुकूल समय, जो आशावाद बढ़ाता है और विदेशों या लंबी यात्राओं से लाभ देता है, पारिवारिक और व्यावसायिक जीवन में सुधार करता है।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A favorable time for study, writing, higher education, and major business efforts. Optimism increases, and the person benefits from foreign connections or long travels. Both family and professional life improve.",
+        "hi": "यह समय पढ़ाईए लेखनए उच्च शिक्षा और बड़े व्यापारिक प्रयासों के लिए बहुत अनुकूल होता है। आशावाद बढ़ता है और व्यक्ति विदेशों या लंबी यात्राओं से लाभ पाता है। पारिवारिक और व्यवसायिक स्थिति में सुधार होता है।"
+      },
+      "career": {
+        "en": "Improvement in professional life and success in major business efforts.",
+        "hi": "व्यावसायिक जीवन में सुधार और बड़े व्यापारिक प्रयासों में सफलता।"
+      },
+      "relationships": {
+        "en": "Enhancement in family life and beneficial foreign or long-distance connections.",
+        "hi": "पारिवारिक जीवन में सुधार और विदेशों या लंबी दूरी के संबंधों से लाभ।"
+      },
+      "money": {
+        "en": "Positive outcomes from business efforts and foreign connections may improve financial status.",
+        "hi": "व्यापारिक प्रयासों और विदेशों के संबंधों से सकारात्मक परिणाम वित्तीय स्थिति में सुधार ला सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य के लिए कोई विशेष सुझाव नहीं।"
+      }
+    },
+    "aliases": [
+      "Mercury trine Jupiter",
+      "Mer TRI Jup",
+      "Mercury-Trine-Jupiter",
+      "Mercury Trine to Jupiter"
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "id": "MAR_TRI_NEP__v1.0.0",
+  "pair": [
+    "Mars",
+    "Trine",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Activation of intuition, imagination, and artistic power, leading to effortless self-expression and enhanced inspiration. Favorable for spiritual education, research, and transformative use of modern tools in professional settings.",
+    "hi": "अंतर्ज्ञान, कल्पना और कलात्मक कार्यशक्ति का सक्रिय होना, जिससे सरल अभिव्यक्ति और प्रेरणा में वृद्धि होती है। धार्मिक शिक्षा, शोधकार्य और आधुनिक साधनों के उपयोग के लिए अनुकूल समय।"
+  },
+  "facets": {
+    "career": {
+      "en": "Ideal for research work and using modern techniques for strong transformations in work, business, or institutions. Benefits from joint ventures, assets, inheritance, taxes, and insurance professionally.",
+      "hi": "शोधकार्य के लिए उपयुक्त, कार्यक्षेत्र/व्यवसाय/संस्था में आधुनिक तकनीकों से मजबूत परिवर्तन। संयुक्त व्यवसाय, संपत्ति, पैतृक संपत्ति, कर और बीमा से पेशेवर लाभ।"
+    },
+    "relationships": {
+      "en": "Focus on shared resources and joint ventures may influence professional relationships positively.",
+      "hi": "संयुक्त संसाधन और व्यवसाय से पेशेवर संबंधों में सकारात्मक प्रभाव।"
+    },
+    "money": {
+      "en": "Financial benefits may arise from joint assets, inheritance, taxes, and insurance.",
+      "hi": "संयुक्त संपत्ति, पैतृक संपत्ति, कर और बीमा से वित्तीय लाभ संभव।"
+    },
+    "health_adj": {
+      "en": "Enhanced meditation and inspiration support mental and spiritual well-being.",
+      "hi": "ध्यान और प्रेरणा में वृद्धि मानसिक और आध्यात्मिक स्वास्थ्य के लिए सहायक।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Artistic creation",
+      "Spiritual education",
+      "Research breakthroughs",
+      "Professional transformations",
+      "Financial gains from inheritance or joint ventures"
+    ],
+    "hi": [
+      "कलात्मक सृजन",
+      "आध्यात्मिक शिक्षा",
+      "शोध में सफलता",
+      "पेशेवर परिवर्तन",
+      "पैतृक संपत्ति या संयुक्त व्यवसाय से वित्तीय लाभ"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in artistic or creative activities with ease.",
+        "Pursue spiritual or religious studies.",
+        "Utilize modern tools and techniques for work transformations."
+      ],
+      "hi": [
+        "सरलता से कलात्मक या रचनात्मक कार्य करें।",
+        "धार्मिक या आध्यात्मिक अध्ययन करें।",
+        "कार्य में परिवर्तन के लिए आधुनिक साधनों का उपयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on meditation and inspiration.",
+        "Collaborate in joint ventures or shared assets.",
+        "Apply research skills for breakthroughs."
+      ],
+      "hi": [
+        "ध्यान और प्रेरणा पर ध्यान दें।",
+        "संयुक्त व्यवसाय या साझा संपत्ति में सहयोग करें।",
+        "शोध कौशल का उपयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain benefits from previous joint ventures or inheritances.",
+        "Continue spiritual education and artistic practices."
+      ],
+      "hi": [
+        "पूर्व संयुक्त व्यवसाय या विरासत से लाभ बनाए रखें।",
+        "आध्यात्मिक शिक्षा और कलात्मक अभ्यास जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intuition",
+      "imagination",
+      "artistic power",
+      "self-expression",
+      "meditation",
+      "inspiration",
+      "spiritual education",
+      "research",
+      "modern techniques",
+      "transformations",
+      "joint ventures",
+      "inheritance",
+      "taxes",
+      "insurance"
+    ],
+    "hi": [
+      "अंतर्ज्ञान",
+      "कल्पना",
+      "कलात्मक शक्ति",
+      "स्व-अभिव्यक्ति",
+      "ध्यान",
+      "प्रेरणा",
+      "आध्यात्मिक शिक्षा",
+      "शोध",
+      "आधुनिक तकनीक",
+      "परिवर्तन",
+      "संयुक्त व्यवसाय",
+      "पैतृक संपत्ति",
+      "कर",
+      "बीमा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "creative",
+      "inspirational",
+      "transformative",
+      "collaborative"
+    ],
+    "hi": [
+      "अनुकूल",
+      "रचनात्मक",
+      "प्रेरणादायक",
+      "परिवर्तनकारी",
+      "सहयोगी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "artistic expression",
+      "spiritual growth",
+      "professional development",
+      "financial collaboration"
+    ],
+    "hi": [
+      "कलात्मक अभिव्यक्ति",
+      "आध्यात्मिक विकास",
+      "पेशेवर विकास",
+      "वित्तीय सहयोग"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-tri-nep",
+      "core": "Activation of intuition and artistic power, supporting effortless expression and spiritual growth.",
+      "tone": "Warm, encouraging, and professional."
+    },
+    "hi": {
+      "title": "मंगल त्रिकोण नेपच्यून",
+      "core": "अंतर्ज्ञान और कलात्मक शक्ति का सक्रिय होना, सरल अभिव्यक्ति और आध्यात्मिक विकास को समर्थन।",
+      "tone": "सौम्य, प्रोत्साहित करने वाला और पेशेवर।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Intuition, imagination, and artistic power activate, enabling effortless self-expression and enhanced inspiration.",
+        "hi": "अंतर्ज्ञान, कल्पना और कलात्मक शक्ति सक्रिय होती है, जिससे सरल अभिव्यक्ति और प्रेरणा बढ़ती है।"
+      },
+      "career": {
+        "en": "Favorable for research and using modern tools for strong transformations in work or business. Gains from joint ventures and inheritance.",
+        "hi": "शोध और कार्य/व्यवसाय में आधुनिक साधनों से परिवर्तन के लिए अनुकूल। संयुक्त व्यवसाय और विरासत से लाभ।"
+      },
+      "relationships": {
+        "en": "Professional relationships benefit from joint ventures and shared assets.",
+        "hi": "पेशेवर संबंध संयुक्त व्यवसाय और साझा संपत्ति से लाभान्वित होते हैं।"
+      },
+      "money": {
+        "en": "Financial benefits arise from inheritance, joint assets, taxes, and insurance.",
+        "hi": "वित्तीय लाभ विरासत, संयुक्त संपत्ति, कर और बीमा से होते हैं।"
+      },
+      "health_adj": {
+        "en": "Meditation and inspiration enhance mental and spiritual well-being.",
+        "hi": "ध्यान और प्रेरणा मानसिक और आध्यात्मिक स्वास्थ्य को बढ़ावा देती हैं।"
+      }
+    },
+    "aliases": [
+      "Mars trine Neptune",
+      "Mar TRI Nep",
+      "Mars-Trine-Neptune",
+      "Mars Trine to Neptune"
+    ]
+  }
+}

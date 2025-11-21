@@ -1,0 +1,235 @@
+{
+  "id": "MAR_TRI_MOO__v1.0.0",
+  "pair": [
+    "Mars",
+    "Trine",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect increases energy and confidence, enabling clear communication and efficient work. It favors starting significant tasks that benefit others and supports new projects, physical labor, and firm decisions.",
+    "hi": "यह योग जोश और आत्मविश्वास बढ़ाता है, जिससे व्यक्ति स्पष्ट संवाद करता है और तेज़ी से काम करता है। यह दूसरों के लाभ के लिए बड़े कार्य शुरू करने, नए प्रोजेक्ट, शारीरिक मेहनत और मजबूत निर्णय के लिए अनुकूल होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for initiating new projects, working efficiently, and making firm decisions.",
+      "hi": "नए प्रोजेक्ट शुरू करने, तेज़ी से काम करने और मजबूत निर्णय लेने के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Confidence and clear communication improve interactions.",
+      "hi": "आत्मविश्वास और स्पष्ट संवाद से संबंध बेहतर होते हैं।"
+    },
+    "money": {
+      "en": "Good time for ventures that require effort and benefit others, potentially leading to financial progress.",
+      "hi": "मेहनत और दूसरों को फायदा पहुंचाने वाले कार्यों के लिए अच्छा समय, जिससे आर्थिक प्रगति हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Increased energy and strength support physical work and overall vitality.",
+      "hi": "बढ़ी हुई ऊर्जा और ताकत शारीरिक मेहनत और समग्र स्वास्थ्य के लिए सहायक।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Starting new projects",
+      "Physical work",
+      "Making firm decisions"
+    ],
+    "hi": [
+      "नए प्रोजेक्ट शुरू करना",
+      "शारीरिक मेहनत",
+      "मजबूत निर्णय लेना"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in big tasks that help others",
+        "Communicate clearly and confidently",
+        "Work efficiently and steadily"
+      ],
+      "hi": [
+        "ऐसे बड़े काम करें जो दूसरों को फायदा पहुंचाएं",
+        "स्पष्ट और आत्मविश्वास से बात करें",
+        "तेज़ और सही तरीके से काम करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Begin new projects",
+        "Focus on farming or physical labor",
+        "Make firm decisions"
+      ],
+      "hi": [
+        "नए प्रोजेक्ट शुरू करें",
+        "खेती या शारीरिक मेहनत पर ध्यान दें",
+        "मजबूत निर्णय लें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain confidence and clear communication",
+        "Continue efficient work habits"
+      ],
+      "hi": [
+        "आत्मविश्वास और स्पष्ट संवाद बनाए रखें",
+        "तेज़ और सही काम करने की आदत जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "energy",
+      "confidence",
+      "clear communication",
+      "efficient work",
+      "new projects",
+      "physical labor",
+      "firm decisions"
+    ],
+    "hi": [
+      "जोश",
+      "आत्मविश्वास",
+      "स्पष्ट संवाद",
+      "तेज़ काम",
+      "नए प्रोजेक्ट",
+      "शारीरिक मेहनत",
+      "मजबूत निर्णय"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "productive",
+      "supportive"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "उत्पादक",
+      "सहायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "energy boost",
+      "confidence",
+      "clarity",
+      "efficiency",
+      "new beginnings"
+    ],
+    "hi": [
+      "ऊर्जा वृद्धि",
+      "आत्मविश्वास",
+      "स्पष्टता",
+      "कुशलता",
+      "नई शुरुआत"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-tri-moo",
+      "core": "Energy and confidence increase, supporting clear communication and efficient work. Good for starting significant tasks and making firm decisions.",
+      "tone": "Warm, encouraging, practical"
+    },
+    "hi": {
+      "title": "मंगल त्रिकोण चंद्र",
+      "core": "जोश और आत्मविश्वास बढ़ता है, जिससे स्पष्ट संवाद और तेज़ काम संभव होता है। बड़े कार्य शुरू करने और मजबूत निर्णय लेने के लिए अच्छा समय।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, व्यावहारिक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Energy and strength increase during this time. The person feels confident and speaks clearly. It’s a great time to start big tasks that help others too. The person works efficiently and in a solid way. This time is good for new projects, farming, physical work, or firm decisions.",
+        "hi": "इस समय जोश और ताकत बढ़ती है। व्यक्ति आत्मविश्वासी होता है और सीधे.साफ शब्दों में अपनी बात रखता है। कोई बड़ा काम शुरू करने का अच्छा समय हैए जिसमें मेहनत से सभी को फायदा हो। व्यक्ति तेज़ और सही तरीके से काम करता है। यह समय नए प्रोजेक्टए खेतीए फिजिकल मेहनतए या किसी मजबूत निर्णय के लिए ठीक रहता है।"
+      },
+      "career": {
+        "en": "The person works efficiently and in a solid way. This time is good for new projects, farming, physical work, or firm decisions.",
+        "hi": "व्यक्ति तेज़ और सही तरीके से काम करता है। यह समय नए प्रोजेक्टए खेतीए फिजिकल मेहनतए या किसी मजबूत निर्णय के लिए ठीक रहता है।"
+      },
+      "relationships": {
+        "en": "The person feels confident and speaks clearly.",
+        "hi": "व्यक्ति आत्मविश्वासी होता है और सीधे.साफ शब्दों में अपनी बात रखता है।"
+      },
+      "money": {
+        "en": "It’s a great time to start big tasks that help others too.",
+        "hi": "कोई बड़ा काम शुरू करने का अच्छा समय हैए जिसमें मेहनत से सभी को फायदा हो।"
+      },
+      "health_adj": {
+        "en": "Energy and strength increase during this time.",
+        "hi": "इस समय जोश और ताकत बढ़ती है।"
+      }
+    },
+    "aliases": [
+      "Mars trine Moon",
+      "Mar TRI Moo",
+      "Mars-Trine-Moon",
+      "Mars Trine to Moon"
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "id": "URA_CON_SAT__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Conjunction",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates increased responsibility within friendships, institutions, groups, or business settings. It involves joining new professional circles and an interest in modern technology. The individual engages in disciplined, organized work related to engineering, production, research, or electrical fields, gaining purpose-driven motivation and recognition for past efforts. It supports serious, esoteric, mathematical, or scientific work with long-term benefits from current professional efforts, timely investments, and successful ventures or discoveries. Opportunities for spiritual tools and accomplishments may also arise.",
+    "hi": "यह योग मित्रता, संस्था, समूह या व्यवसाय में बढ़ी हुई जिम्मेदारी दर्शाता है। व्यक्ति नए पेशेवर समूहों से जुड़ता है और नई तकनीक में रुचि लेता है। यह इंजीनियरिंग, उत्पादकता, शोध या विद्युत क्षेत्र के व्यवस्थित और अनुशासित कार्यों में संलग्न होता है, जिससे उद्देश्यपूर्ण प्रेरणा और पूर्व कार्यों के लिए यश प्राप्त होता है। यह गंभीर, गूढ़, गणितीय या वैज्ञानिक कार्यों के लिए उपयुक्त है, जिसमें वर्तमान पेशेवर प्रयासों से दीर्घकालिक लाभ होते हैं, समय पर निवेश विशेष लाभ देते हैं, और लाभकारी प्रयास या विशेष खोज सफल होती हैं। आध्यात्मिक साधन और सिद्धि के अवसर भी मिल सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Engagement in disciplined engineering, production, research, or electrical work; joining new professional groups; recognition for past work; suitable for serious, scientific, or mathematical fields; long-term benefits from current efforts.",
+      "hi": "अनुशासित इंजीनियरिंग, उत्पादकता, शोध या विद्युत कार्यों में संलग्नता; नए पेशेवर समूहों से जुड़ना; पूर्व कार्यों के लिए यश; गंभीर, वैज्ञानिक या गणितीय क्षेत्रों के लिए उपयुक्त; वर्तमान प्रयासों से दीर्घकालिक लाभ।"
+    },
+    "relationships": {
+      "en": "Increased responsibility in friendships, institutions, groups, and business; joining new professional circles.",
+      "hi": "मित्रता, संस्था, समूह और व्यवसाय में बढ़ी हुई जिम्मेदारी; नए पेशेवर समूहों से जुड़ना।"
+    },
+    "money": {
+      "en": "Timely investments bring special gains; profitable ventures and special discoveries succeed; current professional efforts yield long-term financial benefits.",
+      "hi": "समय पर निवेश विशेष लाभ देते हैं; लाभकारी प्रयास और विशेष खोज सफल होती हैं; वर्तमान पेशेवर प्रयासों से दीर्घकालिक आर्थिक लाभ।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी विशेष समायोजन नहीं दर्शाए गए हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Joining new professional groups",
+      "Recognition for past work",
+      "Successful investments",
+      "Engagement in scientific or technical projects",
+      "Spiritual accomplishments"
+    ],
+    "hi": [
+      "नए पेशेवर समूहों से जुड़ना",
+      "पूर्व कार्यों के लिए यश प्राप्ति",
+      "सफल निवेश",
+      "वैज्ञानिक या तकनीकी परियोजनाओं में संलग्नता",
+      "आध्यात्मिक सिद्धि"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased responsibilities may require careful management",
+      "Balancing innovation with organizational discipline is important"
+    ],
+    "hi": [
+      "बढ़ी हुई जिम्मेदारियों का सावधानीपूर्वक प्रबंधन आवश्यक हो सकता है",
+      "नवाचार और संस्थागत अनुशासन के बीच संतुलन महत्वपूर्ण है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Join new professional or social groups",
+        "Explore interests in modern technology",
+        "Engage in organized, disciplined work in technical fields"
+      ],
+      "hi": [
+        "नए पेशेवर या सामाजिक समूहों से जुड़ें",
+        "नई तकनीक में रुचि विकसित करें",
+        "तकनीकी क्षेत्रों में व्यवस्थित और अनुशासित कार्य करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on serious, scientific, mathematical, or esoteric work",
+        "Invest in timely opportunities",
+        "Pursue recognition for past achievements"
+      ],
+      "hi": [
+        "गंभीर, वैज्ञानिक, गणितीय या गूढ़ कार्यों पर ध्यान दें",
+        "समय पर निवेश करें",
+        "पूर्व उपलब्धियों के लिए यश प्राप्त करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain long-term perspective on professional efforts",
+        "Continue disciplined approach to work and investments"
+      ],
+      "hi": [
+        "पेशेवर प्रयासों में दीर्घकालिक दृष्टिकोण बनाए रखें",
+        "कार्य और निवेश में अनुशासित दृष्टिकोण जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "responsibility",
+      "professional circles",
+      "modern technology",
+      "engineering",
+      "discipline",
+      "recognition",
+      "scientific work",
+      "long-term benefits",
+      "investments",
+      "spiritual accomplishments"
+    ],
+    "hi": [
+      "जिम्मेदारी",
+      "पेशेवर समूह",
+      "नई तकनीक",
+      "इंजीनियरिंग",
+      "अनुशासन",
+      "यश",
+      "वैज्ञानिक कार्य",
+      "दीर्घकालिक लाभ",
+      "निवेश",
+      "आध्यात्मिक सिद्धि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "organized",
+      "disciplined",
+      "purpose-driven",
+      "serious",
+      "innovative",
+      "recognition",
+      "long-term"
+    ],
+    "hi": [
+      "व्यवस्थित",
+      "अनुशासित",
+      "उद्देश्यपूर्ण",
+      "गंभीर",
+      "नवोन्मेषी",
+      "यश",
+      "दीर्घकालिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "technological interest",
+      "responsibility",
+      "scientific and esoteric pursuits",
+      "spiritual development"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "तकनीकी रुचि",
+      "जिम्मेदारी",
+      "वैज्ञानिक और गूढ़ प्रयास",
+      "आध्यात्मिक विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-con-sat",
+      "core": "Increased responsibility and disciplined engagement in professional and technical fields, with recognition and long-term benefits.",
+      "tone": "Warm, professional, and encouraging"
+    },
+    "hi": {
+      "title": "यूरेनस संयोजन शनि",
+      "core": "पेशेवर और तकनीकी क्षेत्रों में बढ़ी हुई जिम्मेदारी और अनुशासित संलग्नता, यश और दीर्घकालिक लाभ के साथ।",
+      "tone": "सहानुभूतिपूर्ण, पेशेवर और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Increased responsibility in friendships, institutions, groups, and business; joining new professional circles; interest in modern technology; disciplined work in engineering, production, research, and electrical fields; purpose-driven motivation; recognition for past work; ideal for serious, esoteric, mathematical, and scientific work; long-term benefits from current efforts; timely investments; successful ventures and discoveries; spiritual accomplishments possible.",
+        "hi": "मित्रता, संस्था, समूह और व्यवसाय में बढ़ी हुई जिम्मेदारी; नए पेशेवर समूहों से जुड़ना; नई तकनीक में रुचि; इंजीनियरिंग, उत्पादकता, शोध और विद्युत क्षेत्रों में अनुशासित कार्य; उद्देश्यपूर्ण प्रेरणा; पूर्व कार्यों के लिए यश; गंभीर, गूढ़, गणितीय और वैज्ञानिक कार्यों के लिए उपयुक्त; वर्तमान प्रयासों से दीर्घकालिक लाभ; समय पर निवेश; सफल प्रयास और खोज; आध्यात्मिक सिद्धि संभव।"
+      },
+      "career": {
+        "en": "Engagement in engineering, production, research, and electrical work with organizational discipline; joining new professional groups; recognition for past achievements; suitable for serious, scientific, mathematical, and esoteric fields; long-term benefits from current professional efforts.",
+        "hi": "संस्थागत अनुशासन के साथ इंजीनियरिंग, उत्पादकता, शोध और विद्युत कार्यों में संलग्नता; नए पेशेवर समूहों से जुड़ना; पूर्व उपलब्धियों के लिए यश; गंभीर, वैज्ञानिक, गणितीय और गूढ़ क्षेत्रों के लिए उपयुक्त; वर्तमान पेशेवर प्रयासों से दीर्घकालिक लाभ।"
+      },
+      "relationships": {
+        "en": "Increased responsibility in friendships, institutions, groups, and business; joining new professional circles.",
+        "hi": "मित्रता, संस्था, समूह और व्यवसाय में बढ़ी हुई जिम्मेदारी; नए पेशेवर समूहों से जुड़ना।"
+      },
+      "money": {
+        "en": "Timely investments bring special gains; profitable ventures and special discoveries succeed; current professional efforts yield long-term financial benefits.",
+        "hi": "समय पर निवेश विशेष लाभ देते हैं; लाभकारी प्रयास और विशेष खोज सफल होती हैं; वर्तमान पेशेवर प्रयासों से दीर्घकालिक आर्थिक लाभ।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी विशेष समायोजन नहीं दर्शाए गए हैं।"
+      }
+    },
+    "aliases": [
+      "Uranus conjunction Saturn",
+      "Ura CON Sat",
+      "Uranus-Conjunction-Saturn",
+      "Uranus Conjunction to Saturn"
+    ]
+  }
+}

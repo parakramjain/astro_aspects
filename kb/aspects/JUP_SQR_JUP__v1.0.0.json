@@ -1,0 +1,260 @@
+{
+  "id": "JUP_SQR_JUP__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Square",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Conflicts and mental confusion arise in religious, educational, cultural, and professional views, leading to misuse of morality and thoughtless actions causing financial and professional difficulties. Caution is advised in dealings, especially foreign trade, and in avoiding fraud and unreliable people.",
+    "hi": "धार्मिक, शैक्षणिक, सांस्कृतिक और पेशेवर मतों में मतभेद और मानसिक दुविधा होती है, जिससे नैतिकता का दुरुपयोग और बिना सोचे-समझे कार्यों से आर्थिक व पेशेवर समस्याएँ उत्पन्न होती हैं। लेन-देन में सावधानी बरतनी चाहिए, विशेषकर विदेशी व्यापार में, और धोखाधड़ी व अविश्वसनीय लोगों से बचना चाहिए।"
+  },
+  "facets": {
+    "career": {
+      "en": "Professional challenges include financial difficulties, transport issues, and problems in foreign trade or dealings.",
+      "hi": "पेशेवर स्थिति में आर्थिक कठिनाइयाँ, परिवहन बाधाएँ और विदेशी व्यापार या व्यवहार में समस्याएँ होती हैं।"
+    },
+    "relationships": {
+      "en": "Family responsibilities should not be neglected despite conflicts in views and mental confusion.",
+      "hi": "मतभेद और मानसिक दुविधा के बावजूद घर और परिवार की जिम्मेदारियों को टालना नहीं चाहिए।"
+    },
+    "money": {
+      "en": "Overspending and financial problems may occur due to thoughtless actions; cautious handling of finances is necessary.",
+      "hi": "बिना सोचे-समझे कार्यों के कारण अत्यधिक खर्च और आर्थिक समस्याएँ हो सकती हैं; आर्थिक मामलों में सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Mental confusion and stress related to conflicts and challenges may affect well-being.",
+      "hi": "मतभेदों और चुनौतियों से जुड़ी मानसिक दुविधा और तनाव से स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts in beliefs",
+      "Financial difficulties",
+      "Professional challenges",
+      "Transport and trade issues"
+    ],
+    "hi": [
+      "मतभेद",
+      "आर्थिक कठिनाइयाँ",
+      "पेशेवर चुनौतियाँ",
+      "परिवहन और व्यापार समस्याएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Risk of deceit and misuse of morality",
+      "Avoid fraudulent activities",
+      "Beware of untrustworthy people",
+      "Get-rich-quick attempts are risky"
+    ],
+    "hi": [
+      "धोखाधड़ी और नैतिकता के दुरुपयोग का खतरा",
+      "धोखाधड़ी से बचें",
+      "अविश्वसनीय लोगों से सावधान रहें",
+      "तेजी से अमीर बनने के प्रयास जोखिमपूर्ण हैं"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Handle finances carefully",
+        "Avoid fraudulent and risky activities",
+        "Be cautious in foreign trade and dealings",
+        "Maintain family responsibilities"
+      ],
+      "hi": [
+        "आर्थिक मामलों में सावधानी बरतें",
+        "धोखाधड़ी और जोखिमपूर्ण कार्यों से बचें",
+        "विदेशी व्यापार और व्यवहार में सतर्क रहें",
+        "परिवार की जिम्मेदारियाँ निभाएँ"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid overspending",
+        "Do not neglect family duties",
+        "Stay away from untrustworthy people",
+        "Be cautious with get-rich-quick schemes"
+      ],
+      "hi": [
+        "अत्यधिक खर्च से बचें",
+        "परिवार की जिम्मेदारियाँ न टालें",
+        "अविश्वसनीय लोगों से दूर रहें",
+        "तेजी से अमीर बनने की योजनाओं में सावधानी रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reassess professional and financial decisions",
+        "Distance from deceitful influences",
+        "Focus on thoughtful actions",
+        "Seek clarity in conflicting views"
+      ],
+      "hi": [
+        "पेशेवर और आर्थिक निर्णयों का पुनर्मूल्यांकन करें",
+        "धोखेबाज प्रभावों से दूरी बनाएं",
+        "सोच-समझकर कार्य करें",
+        "मतभेदों में स्पष्टता प्राप्त करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "conflict",
+      "mental confusion",
+      "misuse of morality",
+      "overspending",
+      "financial difficulties",
+      "transport issues",
+      "foreign trade challenges",
+      "fraud avoidance",
+      "family responsibilities",
+      "caution"
+    ],
+    "hi": [
+      "मतभेद",
+      "मानसिक दुविधा",
+      "नैतिकता का दुरुपयोग",
+      "अत्यधिक खर्च",
+      "आर्थिक कठिनाइयाँ",
+      "परिवहन समस्या",
+      "विदेशी व्यापार की चुनौतियाँ",
+      "धोखाधड़ी से बचाव",
+      "परिवार की जिम्मेदारियाँ",
+      "सावधानी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautious",
+      "complex",
+      "risk-aware"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधान",
+      "जटिल",
+      "जोखिम-सचेत"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "conflict resolution",
+      "financial caution",
+      "ethical challenges",
+      "professional obstacles"
+    ],
+    "hi": [
+      "विवाद समाधान",
+      "आर्थिक सावधानी",
+      "नैतिक चुनौतियाँ",
+      "पेशेवर बाधाएँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-squ-jup",
+      "core": "Conflicts and confusion in beliefs and professional matters cause challenges and require caution in finances and dealings.",
+      "tone": "Warm, neutral, advisory"
+    },
+    "hi": {
+      "title": "बृहस्पति वर्ग बृहस्पति",
+      "core": "विश्वासों और पेशेवर मामलों में मतभेद और दुविधा चुनौतियाँ लाती हैं, आर्थिक और व्यवहारिक मामलों में सावधानी आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सलाहमूलक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Conflicts in religious, educational, cultural, and professional views with mental confusion, misuse of morality, and thoughtless actions causing financial and professional problems.",
+        "hi": "धार्मिक, शैक्षणिक, सांस्कृतिक और पेशेवर मतों में मतभेद, मानसिक दुविधा, नैतिकता का दुरुपयोग और बिना सोचे कार्यों से आर्थिक व पेशेवर समस्याएँ।"
+      },
+      "career": {
+        "en": "Professional financial difficulties, transport issues, and challenges in foreign trade and dealings.",
+        "hi": "पेशेवर आर्थिक कठिनाइयाँ, परिवहन बाधाएँ, विदेशी व्यापार और व्यवहार में कठिनाइयाँ।"
+      },
+      "relationships": {
+        "en": "Family responsibilities should be maintained despite conflicts and confusion.",
+        "hi": "मतभेद और दुविधा के बावजूद परिवार की जिम्मेदारियाँ निभानी चाहिए।"
+      },
+      "money": {
+        "en": "Overspending and financial problems due to thoughtless actions; careful financial management advised.",
+        "hi": "बिना सोचे-समझे खर्च और आर्थिक समस्याएँ; आर्थिक प्रबंधन में सावधानी जरूरी।"
+      },
+      "health_adj": {
+        "en": "Mental confusion and stress related to conflicts and challenges may affect well-being.",
+        "hi": "मतभेदों और चुनौतियों से जुड़ी मानसिक दुविधा और तनाव स्वास्थ्य को प्रभावित कर सकता है।"
+      }
+    },
+    "aliases": [
+      "Jupiter square Jupiter",
+      "Jup SQR Jup",
+      "Jupiter-Square-Jupiter",
+      "Jupiter Square to Jupiter"
+    ]
+  }
+}

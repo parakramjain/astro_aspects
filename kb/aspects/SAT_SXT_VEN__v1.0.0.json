@@ -1,0 +1,150 @@
+{
+  "id": "SAT_SEX_VEN__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Sextile",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Saturn and Venus opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": "Authority via mastery, long-term credibility.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
+    "relationships": "Commitment realism, boundaries, duty.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
+    "money": "Slow steady accrual, austerity, debt realism.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
+    "health_adj": "Bones, teeth, chronic load; routines & posture.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution.",
+    "Burnout via over-responsibility; schedule recovery windows.",
+    "People-pleasing → scope creep; set clear give-and-get."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "affection",
+    "art",
+    "dharma via effort",
+    "discipline",
+    "harmony",
+    "limits",
+    "opportunity",
+    "pleasure",
+    "sextile",
+    "skill",
+    "structure",
+    "time",
+    "values"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "Relationship Tone",
+    "",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Saturn Sextile Venus",
+      "core": "Sextile between Saturn and Venus opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Saturn Sextile Venus (हिन्दी)",
+      "core": "Saturn और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Saturn and Venus opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": "Authority via mastery, long-term credibility.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
+      "relationships": "Commitment realism, boundaries, duty.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
+      "money": "Slow steady accrual, austerity, debt realism.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
+      "health_adj": "Bones, teeth, chronic load; routines & posture.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+    },
+    "aliases": [
+      "Saturn sextile Venus",
+      "Sat SEX Ven",
+      "Saturn-Sextile-Venus",
+      "Saturn Sextile to Venus"
+    ]
+  }
+}

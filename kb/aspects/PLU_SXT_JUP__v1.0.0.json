@@ -1,0 +1,145 @@
+{
+  "id": "PLU_SEX_JUP__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Sextile",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Pluto and Jupiter opens opportunity/skill. Pluto: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": " Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
+    "relationships": " Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
+    "money": " Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
+    "health_adj": " Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution.",
+    "Overpromising; align scale with capacity."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "abundance",
+    "faith",
+    "growth",
+    "law",
+    "mentor",
+    "opportunity",
+    "sextile",
+    "skill",
+    "wisdom"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "",
+    "Wealth & Pricing",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Pluto Sextile Jupiter",
+      "core": "Sextile between Pluto and Jupiter opens opportunity/skill. Pluto: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Pluto Sextile Jupiter (हिन्दी)",
+      "core": "Pluto और Jupiter का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Pluto and Jupiter opens opportunity/skill. Pluto: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": " Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
+      "relationships": " Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
+      "money": " Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
+      "health_adj": " Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+    },
+    "aliases": [
+      "Pluto sextile Jupiter",
+      "Plu SEX Jup",
+      "Pluto-Sextile-Jupiter",
+      "Pluto Sextile to Jupiter"
+    ]
+  }
+}

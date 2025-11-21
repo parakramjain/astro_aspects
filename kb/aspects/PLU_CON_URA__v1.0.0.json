@@ -1,0 +1,241 @@
+{
+  "id": "PLU_CON_URA__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Conjunction",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person seeks major changes in current circumstances using willpower and inner strength, gaining revolutionary opportunities and sometimes profound spiritual insights. New friendships arise linked to new interests or work, while old friendships fade. Significant natural, political, or geographical changes may prompt cultural or economic shifts. Sudden changes can affect joint or inherited assets, taxes, insurance, or investments. Outcomes vary depending on other factors.",
+    "hi": "व्यक्ति इच्छाशक्ति और आत्मबल द्वारा वर्तमान परिस्थितियों में महत्वपूर्ण परिवर्तन करने का प्रयास करता है तथा क्रांतिकारी अवसर प्राप्त करता है। कुछ लोगों को गहरे आध्यात्मिक अनुभव भी होते हैं। नए कार्य या रुचि से जुड़े लोगों से नई मित्रता बनती है और पुराने मित्र धीरे-धीरे कम हो जाते हैं। बड़े प्राकृतिक, राजनीतिक या भौगोलिक परिवर्तनों के कारण सांस्कृतिक या आर्थिक बदलाव हो सकते हैं। संयुक्त या पैतृक संपत्ति, कर, बीमा या निवेश में अचानक परिवर्तन हो सकते हैं। परिणाम अन्य कारकों पर निर्भर करते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities for revolutionary changes and new interests arise, leading to new professional connections.",
+      "hi": "क्रांतिकारी बदलाव और नई रुचियों के अवसर मिलते हैं, जिससे नए व्यावसायिक संबंध बनते हैं।"
+    },
+    "relationships": {
+      "en": "New friendships form related to new interests or work, while old friendships tend to fade.",
+      "hi": "नई रुचि या कार्य से जुड़े लोगों से मित्रता बनती है और पुराने मित्र धीरे-धीरे कम हो जाते हैं।"
+    },
+    "money": {
+      "en": "Sudden changes may occur in joint or inherited assets, taxes, insurance, or investments.",
+      "hi": "संयुक्त या पैतृक संपत्ति, कर, बीमा या निवेश में अचानक परिवर्तन हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; inner strength and willpower are emphasized.",
+      "hi": "विशेष स्वास्थ्य संबंधी बदलाव नहीं बताए गए; इच्छाशक्ति और आत्मबल पर जोर है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Major personal transformation",
+      "New friendships and social shifts",
+      "Natural or political upheavals",
+      "Sudden financial or asset changes"
+    ],
+    "hi": [
+      "व्यक्तिगत बड़े परिवर्तन",
+      "नई मित्रता और सामाजिक बदलाव",
+      "प्राकृतिक या राजनीतिक उथल-पुथल",
+      "आर्थिक या संपत्ति में अचानक बदलाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Effects can be positive or negative depending on other factors.",
+      "Sudden changes in assets or finances may cause instability.",
+      "Old friendships fading may lead to social adjustment challenges."
+    ],
+    "hi": [
+      "प्रभाव अन्य कारकों पर निर्भर करते हैं, अच्छे या बुरे हो सकते हैं।",
+      "संपत्ति या वित्त में अचानक बदलाव अस्थिरता ला सकते हैं।",
+      "पुरानी मित्रता कम होने से सामाजिक समायोजन में कठिनाई हो सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Use willpower to initiate positive changes.",
+        "Explore new interests and form new connections.",
+        "Stay open to spiritual insights."
+      ],
+      "hi": [
+        "सकारात्मक बदलाव के लिए इच्छाशक्ति का उपयोग करें।",
+        "नई रुचियों को अपनाएं और नए संबंध बनाएं।",
+        "आध्यात्मिक अनुभूतियों के लिए खुले रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be alert to sudden shifts in joint or inherited assets.",
+        "Monitor changes in taxes, insurance, or investments closely."
+      ],
+      "hi": [
+        "संयुक्त या पैतृक संपत्ति में अचानक बदलाव के प्रति सतर्क रहें।",
+        "कर, बीमा या निवेश में परिवर्तनों पर ध्यान दें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on the changes in friendships and social circles.",
+        "Assess the impact of recent cultural or economic shifts."
+      ],
+      "hi": [
+        "मित्रता और सामाजिक परिवर्तनों पर विचार करें।",
+        "हाल के सांस्कृतिक या आर्थिक बदलावों के प्रभाव का मूल्यांकन करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "willpower",
+      "revolutionary change",
+      "spiritual realization",
+      "new friendships",
+      "natural/political change",
+      "sudden financial shifts"
+    ],
+    "hi": [
+      "इच्छाशक्ति",
+      "क्रांतिकारी परिवर्तन",
+      "आध्यात्मिक अनुभूति",
+      "नई मित्रता",
+      "प्राकृतिक/राजनैतिक परिवर्तन",
+      "अचानक आर्थिक बदलाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "transformative",
+      "dynamic",
+      "opportunity",
+      "uncertain outcome"
+    ],
+    "hi": [
+      "परिवर्तनशील",
+      "गतिशील",
+      "अवसर",
+      "अनिश्चित परिणाम"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "personal transformation",
+      "social renewal",
+      "economic and cultural shifts",
+      "spiritual awakening"
+    ],
+    "hi": [
+      "व्यक्तिगत परिवर्तन",
+      "सामाजिक नवीनीकरण",
+      "आर्थिक और सांस्कृतिक बदलाव",
+      "आध्यात्मिक जागरण"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-con-ura",
+      "core": "Significant changes through willpower bring revolutionary opportunities and shifts in relationships, finances, and culture.",
+      "tone": "Warm, neutral, and open to varied outcomes."
+    },
+    "hi": {
+      "title": "प्लूटो संयोजन यूरेनस",
+      "core": "इच्छाशक्ति से महत्वपूर्ण परिवर्तन होते हैं जो क्रांतिकारी अवसर और संबंध, वित्त तथा संस्कृति में बदलाव लाते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और विविध परिणामों के लिए खुला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Person seeks major changes via willpower, gaining revolutionary chances and spiritual insights; new friendships form, old ones fade; major natural/political/geographical changes cause cultural/economic shifts; sudden changes in joint/inherited assets, taxes, insurance possible; effects vary.",
+        "hi": "व्यक्ति इच्छाशक्ति से बड़े परिवर्तन चाहता है, क्रांतिकारी अवसर और आध्यात्मिक अनुभव प्राप्त करता है; नई मित्रता बनती है, पुरानी कम होती है; बड़े प्राकृतिक/राजनैतिक/भौगोलिक बदलाव सांस्कृतिक/आर्थिक परिवर्तन लाते हैं; संयुक्त/पैतृक संपत्ति, कर, बीमा में अचानक बदलाव संभव; प्रभाव भिन्न हो सकते हैं।"
+      },
+      "career": {
+        "en": "Revolutionary changes and new interests create new professional connections.",
+        "hi": "क्रांतिकारी बदलाव और नई रुचियां नए व्यावसायिक संबंध बनाती हैं।"
+      },
+      "relationships": {
+        "en": "New friendships linked to new interests/work form; old friendships fade.",
+        "hi": "नई रुचि/कार्य से जुड़ी नई मित्रता बनती है; पुरानी मित्रता कम होती है।"
+      },
+      "money": {
+        "en": "Sudden changes may affect joint/inherited assets, taxes, insurance, investments.",
+        "hi": "संयुक्त/पैतृक संपत्ति, कर, बीमा, निवेश में अचानक बदलाव हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No direct health effects noted; emphasis on inner strength and willpower.",
+        "hi": "स्वास्थ्य पर सीधे प्रभाव नहीं; इच्छाशक्ति और आत्मबल पर जोर।"
+      }
+    },
+    "aliases": [
+      "Pluto conjunction Uranus",
+      "Plu CON Ura",
+      "Pluto-Conjunction-Uranus",
+      "Pluto Conjunction to Uranus"
+    ]
+  }
+}

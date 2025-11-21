@@ -1,0 +1,237 @@
+{
+  "id": "MER_OPP_SUN__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Opposition",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The individual is influenced by an egoistic personal perspective, which can lead to conflicts and poor decisions on important matters. Excessive talking may negatively impact work, and over-practice can result in unnecessary experience. There are difficulties in negotiations involving authority and challenges in securing jobs, proposals, business activities, or authority.",
+    "hi": "व्यक्ति अहंकारपूर्ण निजि दृष्टिकोण से प्रभावित होता है, जिससे झगड़ा हो सकता है और महत्वपूर्ण मामलों पर निर्णय सही नहीं हो पाते। अधिक वाणी से काम पर नकारात्मक प्रभाव पड़ता है और ज्यादा अभ्यास से बेवजह अनुभव होता है। अधिकार से जुड़ी बातचीत में कठिनाइयाँ और नौकरी, प्रस्ताव, व्यावसायिक गतिविधियाँ या अधिकार प्राप्त करने में समस्याएँ होती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Challenges in negotiations involving authority; difficulties in obtaining jobs, proposals, or business opportunities; excessive talking may affect work performance.",
+      "hi": "अधिकार से जुड़ी बातचीत में कठिनाइयाँ; नौकरी, प्रस्ताव या व्यावसायिक अवसर प्राप्त करने में समस्याएँ; अधिक वाणी से काम पर असर।"
+    },
+    "relationships": {
+      "en": "Egoistic attitudes may cause conflicts; communication issues due to excessive talking.",
+      "hi": "अहंकारपूर्ण व्यवहार से झगड़े हो सकते हैं; अधिक वाणी के कारण संचार में समस्या।"
+    },
+    "money": {
+      "en": "Difficulties in business activities and proposals; challenges in gaining authority may impact financial matters.",
+      "hi": "व्यावसायिक गतिविधियों और प्रस्तावों में कठिनाइयाँ; अधिकार प्राप्ति में समस्या से वित्तीय मामलों पर प्रभाव।"
+    },
+    "health_adj": {
+      "en": "No direct health implications noted; however, stress from conflicts and excessive talking may affect well-being.",
+      "hi": "स्वास्थ्य पर सीधे प्रभाव नहीं बताया गया; परन्तु झगड़ों और अधिक वाणी से तनाव हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Negotiation difficulties",
+      "Job or business challenges",
+      "Authority-related conflicts"
+    ],
+    "hi": [
+      "बातचीत में कठिनाइयाँ",
+      "नौकरी या व्यवसाय में समस्याएँ",
+      "अधिकार से जुड़ी झगड़े"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Ego may cause conflicts",
+      "Wrong decisions on important issues",
+      "Excessive talking affecting work",
+      "Difficulties in negotiations and authority"
+    ],
+    "hi": [
+      "अहंकार से झगड़े हो सकते हैं",
+      "महत्वपूर्ण मुद्दों पर गलत निर्णय",
+      "अधिक वाणी से काम प्रभावित",
+      "बातचीत और अधिकार में कठिनाइयाँ"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of ego-driven perspectives",
+        "Practice clear and concise communication",
+        "Approach negotiations with patience"
+      ],
+      "hi": [
+        "अहंकारपूर्ण दृष्टिकोण से सावधान रहें",
+        "स्पष्ट और संक्षिप्त संवाद करें",
+        "बातचीत में धैर्य रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid excessive talking during work and negotiations",
+        "Review decisions carefully on important matters"
+      ],
+      "hi": [
+        "काम और बातचीत में अधिक वाणी से बचें",
+        "महत्वपूर्ण निर्णयों की सावधानी से समीक्षा करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past conflicts caused by ego",
+        "Learn from negotiation difficulties experienced"
+      ],
+      "hi": [
+        "अहंकार से हुए पिछले झगड़ों पर विचार करें",
+        "अनुभव की गई बातचीत की कठिनाइयों से सीखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "ego",
+      "conflict",
+      "excessive talking",
+      "negotiation difficulties",
+      "authority challenges",
+      "wrong decisions"
+    ],
+    "hi": [
+      "अहंकार",
+      "झगड़ा",
+      "अधिक वाणी",
+      "बातचीत की कठिनाई",
+      "अधिकार की समस्या",
+      "गलत निर्णय"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "conflict-prone",
+      "communication-sensitive"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "झगड़ालू प्रवृत्ति",
+      "संचार-संवेदनशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "ego and self-perspective",
+      "communication issues",
+      "authority and negotiation challenges"
+    ],
+    "hi": [
+      "अहंकार और निजि दृष्टिकोण",
+      "संचार की समस्याएँ",
+      "अधिकार और बातचीत की कठिनाइयाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-opp-sun",
+      "core": "Influence of egoistic perspective causing conflicts, communication challenges, and difficulties in authority-related matters.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "बुध का सूर्य के विरुद्ध योग",
+      "core": "अहंकारपूर्ण दृष्टिकोण से झगड़े, संचार की समस्याएँ और अधिकार से जुड़ी कठिनाइयाँ होती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person is influenced by an egoistic personal perspective leading to conflicts and poor decisions; excessive talking affects work; difficulties in negotiations and authority.",
+        "hi": "व्यक्ति अहंकारपूर्ण दृष्टिकोण से प्रभावित होता है जिससे झगड़े और गलत निर्णय होते हैं; अधिक वाणी से काम प्रभावित होता है; बातचीत और अधिकार में कठिनाइयाँ होती हैं।"
+      },
+      "career": {
+        "en": "Difficulties in negotiations involving authority; challenges in job, proposals, and business activities; excessive talking impacts work.",
+        "hi": "अधिकार से बातचीत में कठिनाइयाँ; नौकरी, प्रस्ताव और व्यवसाय में समस्याएँ; अधिक वाणी से काम प्रभावित होता है।"
+      },
+      "relationships": {
+        "en": "Ego causes conflicts; excessive talking leads to communication issues.",
+        "hi": "अहंकार से झगड़े; अधिक वाणी से संचार में समस्या।"
+      },
+      "money": {
+        "en": "Challenges in business and proposals; difficulties in gaining authority may affect finances.",
+        "hi": "व्यापार और प्रस्तावों में कठिनाइयाँ; अधिकार प्राप्ति में समस्या से वित्तीय प्रभाव।"
+      },
+      "health_adj": {
+        "en": "No direct health effects noted; stress from conflicts and excessive talking possible.",
+        "hi": "स्वास्थ्य पर सीधे प्रभाव नहीं; झगड़े और अधिक वाणी से तनाव संभव।"
+      }
+    },
+    "aliases": [
+      "Mercury opposition Sun",
+      "Mer OPP Sun",
+      "Mercury-Opposition-Sun",
+      "Mercury Opposition to Sun"
+    ]
+  }
+}

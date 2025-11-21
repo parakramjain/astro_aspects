@@ -1,0 +1,275 @@
+{
+  "id": "PLU_CON_SUN__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Conjunction",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Strong willpower leads to leadership or progress, with lasting impact and fundamental changes. Involvement in joint ventures, modern technology, secret or occult matters is possible, alongside risks from increased sexual desire or harsh control tendencies.",
+    "hi": "प्रबल इच्छा शक्ति के कारण व्यक्ति नेतृत्व या प्रगति करेगा, जिसका दीर्घकालिक और मूलभूत प्रभाव होगा। संयुक्त व्यवसाय, आधुनिक तकनीक, गुप्त या अघोर विषयों में रुचि हो सकती है, साथ ही कामोत्तेजना या कठोर नियंत्रण से जोखिम भी हो सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Leadership roles, progress in modern technology sectors, joint ventures, secret or occult businesses, and involvement with insurance, taxes, or inherited property.",
+      "hi": "नेतृत्व की भूमिकाएँ, आधुनिक तकनीक क्षेत्र में प्रगति, संयुक्त व्यवसाय, गुप्त या अघोर व्यवसाय, बीमा, कर या पैतृक सम्पत्ति से जुड़ाव।"
+    },
+    "relationships": {
+      "en": "Potential for increased sexual desire leading to serious consequences or jealousy; harsh or cunning behavior may lead to controlling others by force.",
+      "hi": "कामोत्तेजना बढ़ने से गंभीर परिणाम या ईर्ष्या हो सकती है; कठोर या कुटिल व्यवहार से दूसरों पर बलपूर्वक नियंत्रण की प्रवृत्ति।"
+    },
+    "money": {
+      "en": "Engagement with insurance, taxes, inherited property, and joint ventures involving modern or secretive sectors.",
+      "hi": "बीमा, कर, पैतृक सम्पत्ति तथा आधुनिक या गुप्त क्षेत्रों में संयुक्त व्यवसाय से जुड़ाव।"
+    },
+    "health_adj": {
+      "en": "Increased inclination towards occult practices and magic; caution advised regarding consequences of heightened sexual desire.",
+      "hi": "अघोर साधना और जादू में रुचि बढ़ना; कामोत्तेजना के गंभीर परिणामों के प्रति सावधानी।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Leadership opportunities",
+      "Joint ventures",
+      "Involvement in secret or occult matters",
+      "Engagement with insurance, taxes, or inherited property"
+    ],
+    "hi": [
+      "नेतृत्व के अवसर",
+      "संयुक्त व्यवसाय",
+      "गुप्त या अघोर विषयों में संलिप्तता",
+      "बीमा, कर या पैतृक सम्पत्ति से जुड़ाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Serious consequences from increased sexual desire",
+      "Creation of envy or jealousy",
+      "Harsh or cunning behavior leading to forceful control"
+    ],
+    "hi": [
+      "कामोत्तेजना से गंभीर परिणाम",
+      "ईर्ष्या का निर्माण",
+      "कठोर या कुटिल व्यवहार से बलपूर्वक नियंत्रण"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Use strong willpower to lead or progress",
+        "Engage in joint ventures and modern technology sectors",
+        "Explore secret or occult interests cautiously"
+      ],
+      "hi": [
+        "प्रबल इच्छा शक्ति से नेतृत्व या प्रगति करें",
+        "संयुक्त व्यवसाय और आधुनिक तकनीक में संलग्न हों",
+        "गुप्त या अघोर रुचियों को सावधानी से अपनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on leadership and courageous expression",
+        "Initiate fundamental changes with lasting impact",
+        "Be mindful of controlling tendencies"
+      ],
+      "hi": [
+        "नेतृत्व और साहसिक अभिव्यक्ति पर ध्यान दें",
+        "दीर्घकालिक प्रभाव वाले मूलभूत परिवर्तन शुरू करें",
+        "नियंत्रण प्रवृत्तियों के प्रति सजग रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on consequences of harsh or cunning behavior",
+        "Avoid forceful control over others",
+        "Manage increased sexual desires responsibly"
+      ],
+      "hi": [
+        "कठोर या कुटिल व्यवहार के परिणामों पर विचार करें",
+        "दूसरों पर बलपूर्वक नियंत्रण से बचें",
+        "कामोत्तेजना को जिम्मेदारी से नियंत्रित करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Strong willpower",
+      "Leadership",
+      "Progress",
+      "Joint ventures",
+      "Modern technology",
+      "Secret dealings",
+      "Life and death matters",
+      "Insurance",
+      "Taxes",
+      "Inherited property",
+      "Sexual desire",
+      "Envy",
+      "Harshness",
+      "Cunning",
+      "Control",
+      "Magic",
+      "Occult"
+    ],
+    "hi": [
+      "प्रबल इच्छा शक्ति",
+      "नेतृत्व",
+      "प्रगति",
+      "संयुक्त व्यवसाय",
+      "आधुनिक तकनीक",
+      "गुप्त धंधे",
+      "जीवन-मृत्यु संबंधी बातें",
+      "बीमा",
+      "कर",
+      "पैतृक सम्पत्ति",
+      "कामोत्तेजना",
+      "ईर्ष्या",
+      "कठोरता",
+      "कुटिलता",
+      "नियंत्रण",
+      "जादू",
+      "अघोर साधना"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Strong-willed",
+      "Leadership",
+      "Progressive",
+      "Courageous",
+      "Secretive",
+      "Occult interest",
+      "Controlling"
+    ],
+    "hi": [
+      "प्रबल इच्छाशक्ति",
+      "नेतृत्व",
+      "प्रगतिशील",
+      "साहसी",
+      "गुप्त",
+      "अघोर रुचि",
+      "नियंत्रणकारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Willpower and leadership",
+      "Transformation and fundamental change",
+      "Secret and occult matters",
+      "Power and control dynamics",
+      "Risks from desire and jealousy"
+    ],
+    "hi": [
+      "इच्छाशक्ति और नेतृत्व",
+      "परिवर्तन और मूलभूत बदलाव",
+      "गुप्त और अघोर विषय",
+      "शक्ति और नियंत्रण संबंधी गतिशीलता",
+      "कामोत्तेजना और ईर्ष्या से जोखिम"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-con-sun",
+      "core": "Strong willpower manifests as leadership or progress, influencing fundamental changes and involvement in secret, modern, or occult matters with caution advised.",
+      "tone": "Warm, neutral, and cautiously insightful"
+    },
+    "hi": {
+      "title": "प्लूटो संयोजन सूर्य",
+      "core": "प्रबल इच्छा शक्ति नेतृत्व या प्रगति के रूप में प्रकट होती है, जो मूलभूत बदलावों और गुप्त, आधुनिक या अघोर विषयों में संलिप्तता को प्रभावित करती है, सावधानी आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Strong willpower leads to leadership or progress with lasting impact and fundamental changes, involving secret, modern, or occult matters.",
+        "hi": "प्रबल इच्छा शक्ति नेतृत्व या प्रगति की ओर ले जाती है, जिसका दीर्घकालिक और मूलभूत प्रभाव होता है, जिसमें गुप्त, आधुनिक या अघोर विषय शामिल हैं।"
+      },
+      "career": {
+        "en": "Leadership roles, progress in modern technology, joint ventures, secret or occult businesses, insurance, taxes, and inherited property involvement.",
+        "hi": "नेतृत्व की भूमिकाएँ, आधुनिक तकनीक में प्रगति, संयुक्त व्यवसाय, गुप्त या अघोर व्यवसाय, बीमा, कर और पैतृक सम्पत्ति से जुड़ाव।"
+      },
+      "relationships": {
+        "en": "Risks from increased sexual desire causing serious consequences or jealousy; harsh or cunning behavior may lead to forceful control over others.",
+        "hi": "कामोत्तेजना से गंभीर परिणाम या ईर्ष्या हो सकती है; कठोर या कुटिल व्यवहार से दूसरों पर बलपूर्वक नियंत्रण हो सकता है।"
+      },
+      "money": {
+        "en": "Engagement with insurance, taxes, inherited property, and joint ventures in modern or secretive sectors.",
+        "hi": "बीमा, कर, पैतृक सम्पत्ति और आधुनिक या गुप्त क्षेत्रों में संयुक्त व्यवसाय से जुड़ाव।"
+      },
+      "health_adj": {
+        "en": "Increased interest in occult practices and magic; caution regarding consequences of heightened sexual desire.",
+        "hi": "अघोर साधना और जादू में रुचि बढ़ना; कामोत्तेजना के परिणामों के प्रति सावधानी।"
+      }
+    },
+    "aliases": [
+      "Pluto conjunction Sun",
+      "Plu CON Sun",
+      "Pluto-Conjunction-Sun",
+      "Pluto Conjunction to Sun"
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "id": "MAR_SQR_MAR__v1.0.0",
+  "pair": [
+    "Mars",
+    "Square",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Prevailing anger, disputes, stubbornness, and selfishness cause conflicts, especially with authorities and higher classes. It is an inopportune time to start new ventures due to these tendencies. There is risk of accidents, injuries, and aggressive illnesses. Extreme caution is advised with firearms and tools. Professional fluctuations may lead to losses, and purchases of technical or engineering equipment may result in losses or fraud.",
+    "hi": "क्रोध, विवाद, हठधर्मिता और स्वार्थ की प्रवृत्ति के कारण अधिकारियों और उच्च वर्ग से विवाद होते हैं। इन प्रवृत्तियों के कारण नए कार्य शुरू करने का समय उचित नहीं है। दुर्घटना, चोट और आक्रामक बीमारियों का खतरा रहता है। बंदूक और उपकरणों के उपयोग में अत्यधिक सावधानी आवश्यक है। पेशेवर उतार-चढ़ाव से हानि हो सकती है और तकनीकी या इंजीनियरिंग सामान की खरीद में नुकसान या धोखाधड़ी हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Professional fluctuations causing losses; avoid starting new ventures; caution advised in technical or engineering equipment purchases.",
+      "hi": "पेशेवर स्थिति में उतार-चढ़ाव से हानि; नए कार्य शुरू करने से बचें; तकनीकी या इंजीनियरिंग सामान की खरीद में सावधानी बरतें।"
+    },
+    "relationships": {
+      "en": "Conflicts and disputes prevail, especially with authorities and higher social classes due to selfishness and stubbornness.",
+      "hi": "स्वार्थ और हठधर्मिता के कारण अधिकारियों और उच्च वर्ग से विवाद और झगड़े होते हैं।"
+    },
+    "money": {
+      "en": "Risk of losses and fraud related to purchases of technical or engineering equipment; professional instability may affect finances.",
+      "hi": "तकनीकी या इंजीनियरिंग सामान की खरीद में हानि और धोखाधड़ी का खतरा; पेशेवर अस्थिरता से वित्तीय नुकसान हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Risk of accidents, injuries, and aggressive illnesses; extreme caution required with firearms, tools, and dangerous equipment.",
+      "hi": "दुर्घटना, चोट और आक्रामक बीमारियों का खतरा; बंदूक, उपकरण और खतरनाक सामान के उपयोग में अत्यधिक सावधानी आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts and disputes",
+      "Professional fluctuations",
+      "Accidents and injuries",
+      "Losses due to fraud or poor purchases"
+    ],
+    "hi": [
+      "विवाद और झगड़े",
+      "पेशेवर उतार-चढ़ाव",
+      "दुर्घटना और चोट",
+      "धोखाधड़ी या खराब खरीद से हानि"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Heightened risk of accidents and injuries",
+      "Potential for aggressive illnesses",
+      "Conflicts with authorities and higher social classes",
+      "Losses from professional instability and fraudulent purchases"
+    ],
+    "hi": [
+      "दुर्घटना और चोट का अधिक खतरा",
+      "आक्रामक बीमारियों की संभावना",
+      "अधिकारियों और उच्च वर्ग से विवाद",
+      "पेशेवर अस्थिरता और धोखाधड़ी से हानि"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise extreme caution with firearms, tools, and technical equipment",
+        "Avoid initiating new ventures during this period",
+        "Be mindful of professional fluctuations and plan accordingly"
+      ],
+      "hi": [
+        "बंदूक, उपकरण और तकनीकी सामान के उपयोग में अत्यधिक सावधानी बरतें",
+        "इस समय नए कार्य शुरू करने से बचें",
+        "पेशेवर उतार-चढ़ाव को ध्यान में रखकर योजना बनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid conflicts and disputes where possible",
+        "Refrain from major purchases of technical or engineering equipment",
+        "Maintain caution to prevent accidents and injuries"
+      ],
+      "hi": [
+        "संभावित विवादों और झगड़ों से बचें",
+        "तकनीकी या इंजीनियरिंग सामान की बड़ी खरीद से बचें",
+        "दुर्घटना और चोट से बचाव के लिए सावधानी बरतें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual reduction in conflicts and disputes",
+        "Stabilization of professional conditions",
+        "Decreased risk of accidents and losses"
+      ],
+      "hi": [
+        "विवाद और झगड़ों में धीरे-धीरे कमी",
+        "पेशेवर स्थिति में स्थिरता",
+        "दुर्घटना और हानि का खतरा कम होना"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "anger",
+      "disputes",
+      "conflicts",
+      "stubbornness",
+      "selfishness",
+      "authorities",
+      "accidents",
+      "injuries",
+      "professional fluctuations",
+      "losses",
+      "fraud",
+      "caution"
+    ],
+    "hi": [
+      "क्रोध",
+      "विवाद",
+      "झगड़ा",
+      "हठधर्मिता",
+      "स्वार्थ",
+      "अधिकारी",
+      "दुर्घटना",
+      "चोट",
+      "पेशेवर उतार-चढ़ाव",
+      "हानि",
+      "धोखाधड़ी",
+      "सावधानी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "volatile",
+      "cautious",
+      "conflict-prone"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "सावधान",
+      "विवादग्रस्त"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "conflict and dispute",
+      "risk and caution",
+      "professional instability",
+      "accident prevention"
+    ],
+    "hi": [
+      "विवाद और झगड़ा",
+      "जोखिम और सावधानी",
+      "पेशेवर अस्थिरता",
+      "दुर्घटना रोकथाम"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-squ-mar",
+      "core": "This aspect indicates prevailing anger, disputes, and selfishness leading to conflicts, especially with authorities. It warns against starting new ventures and advises caution with dangerous tools and professional matters.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "मंगल वर्ग मंगल",
+      "core": "यह योग क्रोध, विवाद और स्वार्थ की प्रवृत्ति दर्शाता है जो विशेषकर अधिकारियों से संघर्ष उत्पन्न करता है। नए कार्य शुरू करने से बचने और खतरनाक उपकरणों तथा पेशेवर मामलों में सावधानी बरतने की सलाह देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Anger, disputes, stubbornness, selfishness, conflicts with authorities, inopportune time for new ventures, risk of accidents and injuries, caution with firearms and tools, professional fluctuations causing losses, risk of fraud in technical purchases.",
+        "hi": "क्रोध, विवाद, हठधर्मिता, स्वार्थ, अधिकारियों से विवाद, नए कार्य के लिए अनुपयुक्त समय, दुर्घटना और चोट का खतरा, बंदूक और उपकरणों में सावधानी, पेशेवर उतार-चढ़ाव से हानि, तकनीकी खरीद में धोखाधड़ी का खतरा।"
+      },
+      "career": {
+        "en": "Professional fluctuations causing losses; avoid new ventures; caution in technical or engineering equipment purchases.",
+        "hi": "पेशेवर उतार-चढ़ाव से हानि; नए कार्य से बचाव; तकनीकी या इंजीनियरिंग सामान की खरीद में सावधानी।"
+      },
+      "relationships": {
+        "en": "Conflicts and disputes especially with authorities and higher classes due to selfishness and stubbornness.",
+        "hi": "स्वार्थ और हठधर्मिता के कारण अधिकारियों और उच्च वर्ग से विवाद और झगड़े।"
+      },
+      "money": {
+        "en": "Losses and fraud risk in technical or engineering equipment purchases; financial impact from professional instability.",
+        "hi": "तकनीकी या इंजीनियरिंग सामान की खरीद में हानि और धोखाधड़ी का खतरा; पेशेवर अस्थिरता से वित्तीय प्रभाव।"
+      },
+      "health_adj": {
+        "en": "Risk of accidents, injuries, and aggressive illnesses; extreme caution with firearms and tools.",
+        "hi": "दुर्घटना, चोट और आक्रामक बीमारियों का खतरा; बंदूक और उपकरणों में अत्यधिक सावधानी।"
+      }
+    },
+    "aliases": [
+      "Mars square Mars",
+      "Mar SQR Mar",
+      "Mars-Square-Mars",
+      "Mars Square to Mars"
+    ]
+  }
+}

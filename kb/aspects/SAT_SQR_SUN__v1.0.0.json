@@ -1,0 +1,245 @@
+{
+  "id": "SAT_SQR_SUN__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Square",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A challenging period marked by despair in personal ambition and burdens in self-expression, leading to reduced vitality and obstacles in social and literary activities. Increased solitude and dependency on others may arise, along with a tendency toward fantasy or false perceptions.",
+    "hi": "व्यक्तिनिक महत्त्वाकांक्षा में निराशा और स्वयं को अभिव्यक्त करने में बोझ के कारण जीवन चेतना में कमी और सामाजिक-साहित्यिक गतिविधियों में बाधाएं उत्पन्न होती हैं। स्वभाव में एकाकीपन और दूसरों पर निर्भरता बढ़ती है, साथ ही फंतासी या असत्य धारणा की प्रवृत्ति होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Burden of business responsibility and work may reduce vitality and create obstacles in professional activities.",
+      "hi": "व्यवसायिक जिम्मेदारी और कार्य का बोझ जीवन चेतना को कम करता है और पेशेवर गतिविधियों में बाधाएं उत्पन्न करता है।"
+    },
+    "relationships": {
+      "en": "Solitude increases, leading to dependent behavior towards others and challenges in social interactions.",
+      "hi": "एकाकीपन बढ़ता है, जिससे दूसरों पर निर्भरता और सामाजिक संबंधों में कठिनाइयाँ होती हैं।"
+    },
+    "money": {
+      "en": "Business responsibilities may create stress impacting financial activities indirectly.",
+      "hi": "व्यवसायिक जिम्मेदारियों के कारण वित्तीय गतिविधियों पर अप्रत्यक्ष दबाव पड़ सकता है।"
+    },
+    "health_adj": {
+      "en": "Vitality may decline and health could be adversely affected due to burdens and stress.",
+      "hi": "बोझ और तनाव के कारण जीवन चेतना में कमी और स्वास्थ्य पर प्रतिकूल प्रभाव हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional challenges",
+      "Social withdrawal",
+      "Health concerns"
+    ],
+    "hi": [
+      "पेशेवर चुनौतियाँ",
+      "सामाजिक अलगाव",
+      "स्वास्थ्य संबंधी चिंताएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid initiating new social events or activities during this time.",
+      "Be cautious of increased fantasy or false perceptions affecting judgment.",
+      "Monitor health due to stress and responsibility burdens."
+    ],
+    "hi": [
+      "इस समय नए सामाजिक कार्य या घटनाओं की शुरुआत न करें।",
+      "निर्णय पर प्रभाव डालने वाली फंतासी या असत्य धारणा से सावधान रहें।",
+      "तनाव और जिम्मेदारियों के बोझ के कारण स्वास्थ्य पर ध्यान दें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Recognize and manage feelings of despair in ambitions.",
+        "Limit social engagements to avoid obstacles.",
+        "Seek support to reduce dependency."
+      ],
+      "hi": [
+        "महत्त्वाकांक्षा में निराशा को पहचानें और प्रबंधित करें।",
+        "बाधाओं से बचने के लिए सामाजिक सहभागिता सीमित करें।",
+        "निर्भरता कम करने के लिए सहायता प्राप्त करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid social or literary events.",
+        "Focus on managing responsibilities carefully.",
+        "Be mindful of mental clarity and perceptions."
+      ],
+      "hi": [
+        "सामाजिक या साहित्यिक कार्यक्रमों से बचें।",
+        "जिम्मेदारियों को सावधानी से संभालें।",
+        "मानसिक स्पष्टता और धारणा पर ध्यान दें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual relief from burdens may improve vitality.",
+        "Social activity can be cautiously resumed.",
+        "Perceptions may become clearer with time."
+      ],
+      "hi": [
+        "बोझ से धीरे-धीरे राहत मिलने पर जीवन चेतना में सुधार होगा।",
+        "सावधानीपूर्वक सामाजिक गतिविधियाँ फिर से शुरू की जा सकती हैं।",
+        "समय के साथ धारणा स्पष्ट हो सकती है।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "despair",
+      "burden",
+      "solitude",
+      "dependency",
+      "fantasy",
+      "obstacles",
+      "responsibility"
+    ],
+    "hi": [
+      "निराशा",
+      "बोझ",
+      "एकाकीपन",
+      "निर्भरता",
+      "फंतासी",
+      "बाधा",
+      "जिम्मेदारी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "restrictive",
+      "stressful",
+      "isolating"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "प्रतिबंधात्मक",
+      "तनावपूर्ण",
+      "एकांतकारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "personal ambition",
+      "health impact",
+      "social withdrawal",
+      "mental clarity"
+    ],
+    "hi": [
+      "व्यक्तिगत महत्त्वाकांक्षा",
+      "स्वास्थ्य प्रभाव",
+      "सामाजिक अलगाव",
+      "मानसिक स्पष्टता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-squ-sun",
+      "core": "A period of personal and social challenges marked by burden, despair, and solitude, affecting vitality and perception.",
+      "tone": "Warm, neutral, and reflective"
+    },
+    "hi": {
+      "title": "शनि वर्ग सूर्य",
+      "core": "बोझ, निराशा और एकाकीपन से प्रभावित व्यक्तिगत और सामाजिक चुनौतियों का समय, जो जीवन चेतना और धारणा को प्रभावित करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Despair in personal ambition and burden in self-expression leading to reduced vitality and social obstacles.",
+        "hi": "व्यक्तिगत महत्त्वाकांक्षा में निराशा और अभिव्यक्ति के बोझ से जीवन चेतना में कमी और सामाजिक बाधाएं।"
+      },
+      "career": {
+        "en": "Business responsibility and work burden reduce vitality and create obstacles.",
+        "hi": "व्यवसायिक जिम्मेदारी और कार्य का बोझ जीवन चेतना को कम करता है और बाधाएं उत्पन्न करता है।"
+      },
+      "relationships": {
+        "en": "Increased solitude and dependent behavior towards others.",
+        "hi": "एकाकीपन बढ़ना और दूसरों पर निर्भर व्यवहार।"
+      },
+      "money": {
+        "en": "Stress from responsibilities may indirectly affect financial matters.",
+        "hi": "जिम्मेदारियों के तनाव से वित्तीय मामलों पर अप्रत्यक्ष प्रभाव।"
+      },
+      "health_adj": {
+        "en": "Vitality decline and adverse health impact due to burdens.",
+        "hi": "बोझ के कारण जीवन चेतना में कमी और स्वास्थ्य पर प्रतिकूल प्रभाव।"
+      }
+    },
+    "aliases": [
+      "Saturn square Sun",
+      "Sat SQR Sun",
+      "Saturn-Square-Sun",
+      "Saturn Square to Sun"
+    ]
+  }
+}

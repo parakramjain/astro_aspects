@@ -1,0 +1,255 @@
+{
+  "id": "VEN_OPP_SAT__v1.0.0",
+  "pair": [
+    "Venus",
+    "Opposition",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Emotional loneliness and sadness due to lack of love dominate, causing sorrow in expressing romantic feelings and affecting professional life with hesitation and lack of confidence.",
+    "hi": "प्रेम की कमी के कारण भावनात्मक अकेलापन और दुःख की स्थिति बनी रहती है, जिससे रोमांटिक भावनाओं की अभिव्यक्ति दुखद हो जाती है और पेशेवर जीवन में संकोच व आत्मविश्वास की कमी से प्रभाव पड़ता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Professional work is affected by hesitation, stinginess, and lack of confidence, leading to indifference or despair.",
+      "hi": "काम.धंधे में संकोच, कंजूसी और आत्मविश्वास की कमी से प्रभाव पड़ता है, जिससे उदासीनता या निराशा की स्थिति बनती है।"
+    },
+    "relationships": {
+      "en": "Lack of affectionate feelings and disappointment in love cause emotional loneliness and sorrow in romantic expression.",
+      "hi": "प्यार की कमी और निराशा से भावनात्मक अकेलापन और रोमांटिक भावनाओं की अभिव्यक्ति में दुःख होता है।"
+    },
+    "money": {
+      "en": "Financial fluctuations and resurfacing of old account-related issues occur; reductions in comfort and travel expenses are likely.",
+      "hi": "आर्थिक उतार-चढ़ाव होते हैं और पुराने लेन-देन से जुड़ी समस्याएँ उभर सकती हैं; आराम और यात्रा खर्च में कमी हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Emotional distress from loneliness and disappointment may indirectly affect well-being.",
+      "hi": "अकेलेपन और निराशा से उत्पन्न भावनात्मक तनाव से स्वास्थ्य पर अप्रत्यक्ष प्रभाव हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional challenges",
+      "Professional difficulties",
+      "Financial instability",
+      "Relationship dissatisfaction"
+    ],
+    "hi": [
+      "भावनात्मक चुनौतियाँ",
+      "पेशेवर कठिनाइयाँ",
+      "आर्थिक अस्थिरता",
+      "संबंधों में असंतोष"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Hesitation and lack of confidence may cause problems.",
+      "Period unfavorable for authorities and public relations.",
+      "Financial fluctuations and old account issues may arise.",
+      "Reductions in comfort and travel expenses expected."
+    ],
+    "hi": [
+      "संकोच और आत्मविश्वास की कमी से समस्याएँ हो सकती हैं।",
+      "यह समय अधिकारी वर्ग और जनसंपर्क के लिए अनुकूल नहीं है।",
+      "आर्थिक उतार-चढ़ाव और पुराने लेन-देन की समस्याएँ हो सकती हैं।",
+      "आराम और यात्रा खर्च में कमी हो सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious in expressing romantic feelings to avoid sorrow.",
+        "Maintain confidence and avoid hesitation in professional matters.",
+        "Monitor financial accounts carefully to manage fluctuations."
+      ],
+      "hi": [
+        "रोमांटिक भावनाओं को व्यक्त करते समय सावधानी बरतें ताकि दुःख न हो।",
+        "पेशेवर मामलों में आत्मविश्वास बनाए रखें और संकोच से बचें।",
+        "आर्थिक खातों की सावधानीपूर्वक निगरानी करें ताकि उतार-चढ़ाव संभाले जा सकें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Expect emotional loneliness and professional indifference.",
+        "Prepare for financial fluctuations and possible old account issues."
+      ],
+      "hi": [
+        "भावनात्मक अकेलापन और पेशेवर उदासीनता की संभावना रखें।",
+        "आर्थिक उतार-चढ़ाव और पुराने लेन-देन की समस्याओं के लिए तैयार रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual improvement in confidence and emotional expression may occur.",
+        "Financial stability and comfort expenses might begin to recover."
+      ],
+      "hi": [
+        "आत्मविश्वास और भावनात्मक अभिव्यक्ति में धीरे-धीरे सुधार हो सकता है।",
+        "आर्थिक स्थिरता और आराम खर्च में सुधार शुरू हो सकता है।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional loneliness",
+      "disappointment",
+      "lack of love",
+      "hesitation",
+      "stinginess",
+      "lack of confidence",
+      "professional indifference",
+      "financial fluctuations",
+      "old account issues",
+      "reduced comfort",
+      "reduced travel expenses"
+    ],
+    "hi": [
+      "भावनात्मक अकेलापन",
+      "निराशा",
+      "प्रेम की कमी",
+      "संकोच",
+      "कंजूसी",
+      "आत्मविश्वास की कमी",
+      "पेशेवर उदासीनता",
+      "आर्थिक उतार-चढ़ाव",
+      "पुराने लेन-देन की समस्याएँ",
+      "आराम में कमी",
+      "यात्रा खर्च में कमी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "emotional",
+      "unstable",
+      "hesitant",
+      "restrictive"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "अस्थिर",
+      "संकोची",
+      "सीमित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional sorrow",
+      "professional difficulty",
+      "financial instability",
+      "relationship strain"
+    ],
+    "hi": [
+      "भावनात्मक दुःख",
+      "पेशेवर कठिनाई",
+      "आर्थिक अस्थिरता",
+      "संबंधों में तनाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-opp-sat",
+      "core": "This aspect indicates emotional loneliness and disappointment due to lack of love, affecting romantic expression and professional confidence.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "शुक्र विपरीत शनि",
+      "core": "यह योग प्रेम की कमी के कारण भावनात्मक अकेलापन और निराशा दर्शाता है, जो रोमांटिक अभिव्यक्ति और पेशेवर आत्मविश्वास को प्रभावित करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional loneliness and sadness due to lack of love dominate, causing sorrow in expressing romantic feelings and affecting professional life with hesitation and lack of confidence.",
+        "hi": "प्रेम की कमी के कारण भावनात्मक अकेलापन और दुःख की स्थिति बनी रहती है, जिससे रोमांटिक भावनाओं की अभिव्यक्ति दुखद हो जाती है और पेशेवर जीवन में संकोच व आत्मविश्वास की कमी से प्रभाव पड़ता है।"
+      },
+      "career": {
+        "en": "Professional work is affected by hesitation, stinginess, and lack of confidence, leading to indifference or despair.",
+        "hi": "काम.धंधे में संकोच, कंजूसी और आत्मविश्वास की कमी से प्रभाव पड़ता है, जिससे उदासीनता या निराशा की स्थिति बनती है।"
+      },
+      "relationships": {
+        "en": "Lack of affectionate feelings and disappointment in love cause emotional loneliness and sorrow in romantic expression.",
+        "hi": "प्यार की कमी और निराशा से भावनात्मक अकेलापन और रोमांटिक भावनाओं की अभिव्यक्ति में दुःख होता है।"
+      },
+      "money": {
+        "en": "Financial fluctuations and resurfacing of old account-related issues occur; reductions in comfort and travel expenses are likely.",
+        "hi": "आर्थिक उतार-चढ़ाव होते हैं और पुराने लेन-देन से जुड़ी समस्याएँ उभर सकती हैं; आराम और यात्रा खर्च में कमी हो सकती है।"
+      },
+      "health_adj": {
+        "en": "Emotional distress from loneliness and disappointment may indirectly affect well-being.",
+        "hi": "अकेलेपन और निराशा से उत्पन्न भावनात्मक तनाव से स्वास्थ्य पर अप्रत्यक्ष प्रभाव हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Venus opposition Saturn",
+      "Ven OPP Sat",
+      "Venus-Opposition-Saturn",
+      "Venus Opposition to Saturn"
+    ]
+  }
+}

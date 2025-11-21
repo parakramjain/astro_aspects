@@ -1,0 +1,249 @@
+{
+  "id": "PLU_TRI_NEP__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Trine",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Receives divine guidance and benefits from scientific and modern work, with financial support for cultural projects and government favors in joint matters.",
+    "hi": "आंतरिक प्रेरणा और विशेष मार्गदर्शन प्राप्त होता है। व्यक्ति सांस्कृतिक, वैज्ञानिक और आधुनिक कार्यों से लाभ पाता है तथा संयुक्त मामलों में सरकारी सहायता मिलती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Advantages in scientific, modern, and cultural work; opportunities to establish new social and economic arrangements.",
+      "hi": "वैज्ञानिक, आधुनिक और सांस्कृतिक कार्यों में लाभ; नई सामाजिक और आर्थिक व्यवस्थाएँ स्थापित करने के अवसर।"
+    },
+    "relationships": {
+      "en": "Support and cooperation in joint ventures, shared property, taxes, insurance, and benefits from government and non-government sources.",
+      "hi": "संयुक्त व्यवसाय, पैतृक संपत्ति, कर, बीमा और भत्तों में सरकारी और अशासकीय सहयोग मिलता है।"
+    },
+    "money": {
+      "en": "Financial assistance for cultural and institutional projects; benefits from sudden messages and spiritual inspiration.",
+      "hi": "सांस्कृतिक और संस्थागत कार्यों के लिए आर्थिक सहायता; अचानक प्राप्त संदेशों और आध्यात्मिक प्रेरणा से लाभ।"
+    },
+    "health_adj": {
+      "en": "Inner inspiration and insight support well-being; spiritual and scientific motivation enhances mental health.",
+      "hi": "आंतरिक प्रेरणा और अंतर्दृष्टि से स्वास्थ्य में सुधार; आध्यात्मिक और वैज्ञानिक प्रेरणा मानसिक स्वास्थ्य को बढ़ावा देती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Receiving divine or inner guidance",
+      "Financial support for cultural or scientific projects",
+      "Government favors in joint or inherited matters",
+      "Travel for spiritual or research purposes"
+    ],
+    "hi": [
+      "विशेष आंतरिक मार्गदर्शन प्राप्ति",
+      "सांस्कृतिक या वैज्ञानिक परियोजनाओं के लिए आर्थिक सहायता",
+      "संयुक्त या पैतृक मामलों में सरकारी लाभ",
+      "आध्यात्मिक या शोध हेतु यात्रा"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Uncertainty in sudden messages or inspirations",
+      "Dependence on external financial or governmental support"
+    ],
+    "hi": [
+      "अचानक प्राप्त संदेशों या प्रेरणाओं में अनिश्चितता",
+      "बाहरी आर्थिक या सरकारी सहायता पर निर्भरता"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek opportunities in scientific and cultural fields",
+        "Pursue joint ventures with government or institutional support",
+        "Be open to inner guidance and sudden insights"
+      ],
+      "hi": [
+        "वैज्ञानिक और सांस्कृतिक क्षेत्रों में अवसर खोजें",
+        "सरकारी या संस्थागत समर्थन के साथ संयुक्त व्यवसाय करें",
+        "आंतरिक मार्गदर्शन और अचानक प्राप्त अंतर्दृष्टि के लिए खुले रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize financial support for cultural or institutional projects",
+        "Engage in travel for spiritual or research purposes",
+        "Leverage government favors in joint or inherited matters"
+      ],
+      "hi": [
+        "सांस्कृतिक या संस्थागत परियोजनाओं के लिए आर्थिक सहायता का उपयोग करें",
+        "आध्यात्मिक या शोध हेतु यात्रा करें",
+        "संयुक्त या पैतृक मामलों में सरकारी लाभ का लाभ उठाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain clarity on the source of sudden inspirations",
+        "Prepare for changes in financial or governmental support"
+      ],
+      "hi": [
+        "अचानक प्राप्त प्रेरणाओं के स्रोत पर स्पष्टता बनाए रखें",
+        "आर्थिक या सरकारी सहायता में बदलाव के लिए तैयार रहें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "divine guidance",
+      "scientific work",
+      "modern projects",
+      "financial support",
+      "cultural benefits",
+      "government favors",
+      "joint matters",
+      "inner inspiration",
+      "spiritual insight",
+      "travel"
+    ],
+    "hi": [
+      "विशेष मार्गदर्शन",
+      "वैज्ञानिक कार्य",
+      "आधुनिक परियोजनाएं",
+      "आर्थिक सहायता",
+      "सांस्कृतिक लाभ",
+      "सरकारी सहयोग",
+      "संयुक्त मामले",
+      "आंतरिक प्रेरणा",
+      "आध्यात्मिक अंतर्दृष्टि",
+      "यात्रा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "insightful",
+      "opportunistic",
+      "collaborative"
+    ],
+    "hi": [
+      "सहायक",
+      "दृष्टिपूर्ण",
+      "अवसरवादी",
+      "सहयोगी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual and scientific integration",
+      "cultural and institutional growth",
+      "governmental collaboration",
+      "financial and social restructuring"
+    ],
+    "hi": [
+      "आध्यात्मिक और वैज्ञानिक समन्वय",
+      "सांस्कृतिक और संस्थागत विकास",
+      "सरकारी सहयोग",
+      "आर्थिक और सामाजिक पुनर्गठन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-tri-nep",
+      "core": "Divine guidance and benefits in scientific, cultural, and joint governmental matters.",
+      "tone": "Warm, neutral, and encouraging"
+    },
+    "hi": {
+      "title": "प्लूटो ट्राइन नेपच्यून",
+      "core": "वैज्ञानिक, सांस्कृतिक और संयुक्त सरकारी मामलों में विशेष मार्गदर्शन और लाभ।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Receives divine guidance and benefits from scientific and modern work, with financial support for cultural projects and government favors in joint matters.",
+        "hi": "आंतरिक प्रेरणा और विशेष मार्गदर्शन प्राप्त होता है। व्यक्ति सांस्कृतिक, वैज्ञानिक और आधुनिक कार्यों से लाभ पाता है तथा संयुक्त मामलों में सरकारी सहायता मिलती है।"
+      },
+      "career": {
+        "en": "Advantages in scientific, modern, and cultural work; opportunities to establish new social and economic arrangements.",
+        "hi": "वैज्ञानिक, आधुनिक और सांस्कृतिक कार्यों में लाभ; नई सामाजिक और आर्थिक व्यवस्थाएँ स्थापित करने के अवसर।"
+      },
+      "relationships": {
+        "en": "Support and cooperation in joint ventures, shared property, taxes, insurance, and benefits from government and non-government sources.",
+        "hi": "संयुक्त व्यवसाय, पैतृक संपत्ति, कर, बीमा और भत्तों में सरकारी और अशासकीय सहयोग मिलता है।"
+      },
+      "money": {
+        "en": "Financial assistance for cultural and institutional projects; benefits from sudden messages and spiritual inspiration.",
+        "hi": "सांस्कृतिक और संस्थागत कार्यों के लिए आर्थिक सहायता; अचानक प्राप्त संदेशों और आध्यात्मिक प्रेरणा से लाभ।"
+      },
+      "health_adj": {
+        "en": "Inner inspiration and insight support well-being; spiritual and scientific motivation enhances mental health.",
+        "hi": "आंतरिक प्रेरणा और अंतर्दृष्टि से स्वास्थ्य में सुधार; आध्यात्मिक और वैज्ञानिक प्रेरणा मानसिक स्वास्थ्य को बढ़ावा देती है।"
+      }
+    },
+    "aliases": [
+      "Pluto trine Neptune",
+      "Plu TRI Nep",
+      "Pluto-Trine-Neptune",
+      "Pluto Trine to Neptune"
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "id": "SAT_OPP_PLU__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Opposition",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Important relationships face conflict, deception, and fear, with possible struggles involving authorities and hidden legal issues. Business dealings may involve fraud or blackmail, making volatile enterprises risky.",
+    "hi": "महत्वपूर्ण संबंधों में संघर्ष, बेईमानी और डरावनी स्थिति रहती है। अधिकारियों के साथ संघर्ष और गुप्त कानूनी परेशानियां संभव हैं। व्यवसाय में धोखा या ब्लैकमेल की स्थिति हो सकती है, जिससे तेजी-मंदी वाले व्यवसाय जोखिम में रहते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business may involve fraud or blackmail; risky for volatile markets; struggles with authorities possible.",
+      "hi": "व्यवसाय में धोखा या ब्लैकमेल की स्थिति हो सकती है; तेजी-मंदी वाले बाजार के लिए जोखिम भरा; अधिकारियों के साथ संघर्ष संभव है।"
+    },
+    "relationships": {
+      "en": "Important relationships experience conflict, deception, and fear; avoid untrustworthy people.",
+      "hi": "महत्वपूर्ण संबंधों में संघर्ष, बेईमानी और डरावनी स्थिति रहती है; अविश्वसनीय लोगों से बचें।"
+    },
+    "money": {
+      "en": "Financial dealings may involve fraud or blackmail; volatile businesses carry higher risks.",
+      "hi": "वित्तीय लेन-देन में धोखा या ब्लैकमेल हो सकता है; तेजी-मंदी वाले व्यवसाय अधिक जोखिम भरे होते हैं।"
+    },
+    "health_adj": {
+      "en": "Stress from conflicts and legal troubles may affect well-being.",
+      "hi": "संघर्ष और कानूनी परेशानियों से तनाव हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflict in relationships",
+      "Legal issues",
+      "Business fraud or blackmail"
+    ],
+    "hi": [
+      "संबंधों में संघर्ष",
+      "कानूनी समस्याएं",
+      "व्यवसाय में धोखा या ब्लैकमेल"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Risk of deception and fraud in business",
+      "Hidden legal troubles possible",
+      "Volatile businesses are risky",
+      "Conflicts with authorities"
+    ],
+    "hi": [
+      "व्यवसाय में धोखे और बेईमानी का खतरा",
+      "गुप्त कानूनी परेशानियां संभव",
+      "तेजी-मंदी वाले व्यवसाय जोखिम भरे",
+      "अधिकारियों के साथ संघर्ष"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious in business dealings",
+        "Avoid untrustworthy people",
+        "Stay alert to possible legal issues"
+      ],
+      "hi": [
+        "व्यवसाय में सावधानी बरतें",
+        "अविश्वसनीय लोगों से बचें",
+        "संभावित कानूनी समस्याओं के प्रति सतर्क रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid risky or volatile business ventures",
+        "Maintain clear communication in relationships",
+        "Monitor interactions with authorities carefully"
+      ],
+      "hi": [
+        "जोखिम भरे या तेजी-मंदी वाले व्यवसायों से बचें",
+        "संबंधों में स्पष्ट संवाद बनाए रखें",
+        "अधिकारियों के साथ व्यवहार पर ध्यान रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and resolve conflicts gradually",
+        "Distance from untrustworthy influences",
+        "Seek clarity on any legal matters"
+      ],
+      "hi": [
+        "संघर्षों को धीरे-धीरे सुलझाएं",
+        "अविश्वसनीय प्रभावों से दूरी बनाएं",
+        "कानूनी मामलों में स्पष्टता प्राप्त करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "conflict",
+      "deception",
+      "fear",
+      "fraud",
+      "blackmail",
+      "struggle",
+      "authorities",
+      "legal troubles",
+      "risky business"
+    ],
+    "hi": [
+      "संघर्ष",
+      "बेईमानी",
+      "डर",
+      "धोखा",
+      "ब्लैकमेल",
+      "संघर्ष",
+      "अधिकारियों",
+      "कानूनी परेशानियां",
+      "जोखिम भरा व्यवसाय"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "volatile",
+      "cautious",
+      "stressful"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "सावधान",
+      "तनावपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "conflict in relationships",
+      "business risk",
+      "legal caution",
+      "trust issues"
+    ],
+    "hi": [
+      "संबंधों में संघर्ष",
+      "व्यवसाय जोखिम",
+      "कानूनी सावधानी",
+      "विश्वास की समस्याएं"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-opp-plu",
+      "core": "This aspect highlights conflicts and deception in important relationships and business, with potential legal troubles and struggles with authorities. Caution is advised.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "शनि विपरीत प्लूटो",
+      "core": "यह योग महत्वपूर्ण संबंधों और व्यवसाय में संघर्ष और बेईमानी को दर्शाता है, साथ ही कानूनी परेशानियों और अधिकारियों के साथ संघर्ष की संभावना होती है। सावधानी आवश्यक है।",
+      "tone": "तटस्थ, सावधान और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Important relationships face conflict, deception, and fear, with possible struggles involving authorities and hidden legal issues. Business dealings may involve fraud or blackmail, making volatile enterprises risky.",
+        "hi": "महत्वपूर्ण संबंधों में संघर्ष, बेईमानी और डरावनी स्थिति रहती है। अधिकारियों के साथ संघर्ष और गुप्त कानूनी परेशानियां संभव हैं। व्यवसाय में धोखा या ब्लैकमेल की स्थिति हो सकती है, जिससे तेजी-मंदी वाले व्यवसाय जोखिम में रहते हैं।"
+      },
+      "career": {
+        "en": "Business may involve fraud or blackmail; risky for volatile markets; struggles with authorities possible.",
+        "hi": "व्यवसाय में धोखा या ब्लैकमेल की स्थिति हो सकती है; तेजी-मंदी वाले बाजार के लिए जोखिम भरा; अधिकारियों के साथ संघर्ष संभव है।"
+      },
+      "relationships": {
+        "en": "Important relationships experience conflict, deception, and fear; avoid untrustworthy people.",
+        "hi": "महत्वपूर्ण संबंधों में संघर्ष, बेईमानी और डरावनी स्थिति रहती है; अविश्वसनीय लोगों से बचें।"
+      },
+      "money": {
+        "en": "Financial dealings may involve fraud or blackmail; volatile businesses carry higher risks.",
+        "hi": "वित्तीय लेन-देन में धोखा या ब्लैकमेल हो सकता है; तेजी-मंदी वाले व्यवसाय अधिक जोखिम भरे होते हैं।"
+      },
+      "health_adj": {
+        "en": "Stress from conflicts and legal troubles may affect well-being.",
+        "hi": "संघर्ष और कानूनी परेशानियों से तनाव हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Saturn opposition Pluto",
+      "Sat OPP Plu",
+      "Saturn-Opposition-Pluto",
+      "Saturn Opposition to Pluto"
+    ]
+  }
+}

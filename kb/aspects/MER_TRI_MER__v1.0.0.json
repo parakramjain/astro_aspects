@@ -1,0 +1,228 @@
+{
+  "id": "MER_TRI_MER__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Trine",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Communication is smooth, creative, and quick, fostering positive interactions and effective decision-making.",
+    "hi": "बातचीत में सहजता, रचनात्मकता और गति रहती है, जो सकारात्मक संवाद और प्रभावी निर्णय लेने में मदद करती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for new efforts, business decisions, and agreements.",
+      "hi": "नए प्रयासों, व्यापारिक फैसलों और समझौतों के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Positive conversations with siblings and close associates.",
+      "hi": "भाई-बहन और करीबी साथियों से सकारात्मक बातचीत।"
+    },
+    "money": {
+      "en": "Good time for contracts and business agreements.",
+      "hi": "अनुबंधों और व्यापारिक समझौतों के लिए अच्छा समय।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "business decisions",
+      "agreements",
+      "contracts",
+      "creative communication"
+    ],
+    "hi": [
+      "व्यापारिक फैसले",
+      "समझौते",
+      "अनुबंध",
+      "रचनात्मक बातचीत"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in new business efforts",
+        "Initiate agreements or contracts",
+        "Communicate clearly with siblings or close ones"
+      ],
+      "hi": [
+        "नए व्यापार प्रयासों में शामिल हों",
+        "समझौते या अनुबंध शुरू करें",
+        "भाई-बहन या करीबी लोगों से स्पष्ट संवाद करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Finalize contracts or agreements",
+        "Make important business decisions"
+      ],
+      "hi": [
+        "अनुबंध या समझौतों को अंतिम रूप दें",
+        "महत्वपूर्ण व्यापारिक निर्णय लें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain clarity in communication to avoid misunderstandings"
+      ],
+      "hi": [
+        "गलतफहमी से बचने के लिए संवाद में स्पष्टता बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "communication",
+      "creativity",
+      "quickness",
+      "agreements",
+      "business decisions",
+      "positive conversations"
+    ],
+    "hi": [
+      "बातचीत",
+      "रचनात्मकता",
+      "गति",
+      "समझौते",
+      "व्यापारिक फैसले",
+      "सकारात्मक बातचीत"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "smooth",
+      "creative",
+      "positive",
+      "effective"
+    ],
+    "hi": [
+      "सहज",
+      "रचनात्मक",
+      "सकारात्मक",
+      "प्रभावी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication",
+      "business",
+      "relationships"
+    ],
+    "hi": [
+      "बातचीत",
+      "व्यापार",
+      "रिश्ते"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-tri-mer",
+      "core": "Smooth and creative communication enabling positive interactions and decisions.",
+      "tone": "Warm, encouraging, and optimistic"
+    },
+    "hi": {
+      "title": "बुध त्रिकोण बुध",
+      "core": "सहज और रचनात्मक बातचीत जो सकारात्मक संवाद और निर्णयों को सक्षम बनाती है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Communication is smooth, creative, and quick, fostering positive interactions and effective decision-making.",
+        "hi": "बातचीत में सहजता, रचनात्मकता और गति रहती है, जो सकारात्मक संवाद और प्रभावी निर्णय लेने में मदद करती है।"
+      },
+      "career": {
+        "en": "Great time for new efforts or business decisions, ideal for agreements and contracts.",
+        "hi": "नए प्रयासों और व्यापारिक फैसलों के लिए सही समय है, समझौतों और अनुबंधों के लिए अनुकूल समय है।"
+      },
+      "relationships": {
+        "en": "Positive conversations with siblings or close ones.",
+        "hi": "भाई-बहन या साथियों से बातचीत सफल रहती है।"
+      },
+      "money": {
+        "en": "Ideal for agreements and contracts, supporting business dealings.",
+        "hi": "समझौतों और अनुबंधों के लिए अनुकूल समय है, व्यापारिक लेन-देन को समर्थन।"
+      },
+      "health_adj": {
+        "en": "No specific health indications provided.",
+        "hi": "कोई विशेष स्वास्थ्य संकेत नहीं दिए गए।"
+      }
+    },
+    "aliases": [
+      "Mercury trine Mercury",
+      "Mer TRI Mer",
+      "Mercury-Trine-Mercury",
+      "Mercury Trine to Mercury"
+    ]
+  }
+}

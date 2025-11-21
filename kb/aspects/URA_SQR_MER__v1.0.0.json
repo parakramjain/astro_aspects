@@ -1,0 +1,143 @@
+{
+  "id": "URA_SQR_MER__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Square",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Square between Uranus and Mercury drives friction/work. Uranus: . Mercury: analysis, communication, commerce, learning, tech. General tenor: growth via friction; endurance and clear boundaries are key.",
+  "facets": {
+    "career": " Negotiation, analytics, documentation, skilling. Emphasis: friction/work.",
+    "relationships": " Dialog, problem-solving, curiosity. Emphasis: friction/work.",
+    "money": " Trading, freelancing, multi-stream income, contracts. Emphasis: friction/work.",
+    "health_adj": " Nervous system, breath, routine mobility. Emphasis: friction/work."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Friction escalating into conflict; respect pacing and boundaries."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Uranus: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: friction/work).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Uranus: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: friction/work)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Uranus: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: friction/work).",
+      "Make the decisive call; accept/decline offers consciously. (Uranus: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: friction/work)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Uranus: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: friction/work).",
+      "Close loops, stabilize routines, prune scope creep. (Uranus: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: friction/work)."
+    ]
+  },
+  "keywords": [
+    "analysis",
+    "commerce",
+    "communication",
+    "friction",
+    "learning",
+    "square",
+    "tech",
+    "work"
+  ],
+  "quality_tags": [
+    "major",
+    "challenging"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "",
+    "",
+    "Wealth & Pricing",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Uranus Square Mercury",
+      "core": "Square between Uranus and Mercury drives friction/work. Uranus: . Mercury: analysis, communication, commerce, learning, tech. General tenor: growth via friction; endurance and clear boundaries are key.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Uranus Square Mercury (हिन्दी)",
+      "core": "Uranus और Mercury का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Square between Uranus and Mercury drives friction/work. Uranus: . Mercury: analysis, communication, commerce, learning, tech. General tenor: growth via friction; endurance and clear boundaries are key.",
+      "career": " Negotiation, analytics, documentation, skilling. Emphasis: friction/work.",
+      "relationships": " Dialog, problem-solving, curiosity. Emphasis: friction/work.",
+      "money": " Trading, freelancing, multi-stream income, contracts. Emphasis: friction/work.",
+      "health_adj": " Nervous system, breath, routine mobility. Emphasis: friction/work."
+    },
+    "aliases": [
+      "Uranus square Mercury",
+      "Ura SQR Mer",
+      "Uranus-Square-Mercury",
+      "Uranus Square to Mercury"
+    ]
+  }
+}

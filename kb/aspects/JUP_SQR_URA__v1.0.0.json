@@ -1,0 +1,259 @@
+{
+  "id": "JUP_SQR_URA__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Square",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period marked by false optimism, unrealistic fantasies, and mental instability. Desire for purity leads to difficulties. Time and effort are wasted on unproductive travel and work. Foreign dealings and travel cause problems. Risky secret activities should be avoided. Sudden unexpected problems may arise. Attempts to get rich quickly are likely to fail, with losses in joint ventures, taxes, insurance, and investments. Astrological predictions may prove incorrect. Fluctuations lead to losses.",
+    "hi": "यह समय झूठे आशावाद, अवास्तविक कल्पनाओं और मानसिक अस्थिरता से भरा होता है। पवित्रता की इच्छा से समस्याएँ उत्पन्न होती हैं। व्यर्थ यात्रा और कार्य में समय और प्रयास बर्बाद होते हैं। विदेशी व्यवहार और यात्रा से समस्या होती है। जोखिम भरे गुप्त कार्यों से बचना चाहिए। अप्रत्याशित समस्याएँ अचानक उत्पन्न हो सकती हैं। तेजी से अमीर बनने के प्रयास विफल हो सकते हैं, संयुक्त व्यवसाय, कर, बीमा और निवेश में हानि संभव है। ज्योतिषीय अनुमान गलत साबित हो सकते हैं। उतार-चढ़ाव से हानि होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Wastes time on unproductive work and travel; foreign dealings cause difficulties.",
+      "hi": "व्यर्थ कार्य और यात्रा में समय बर्बाद होता है; विदेशी व्यवहार से समस्या होती है।"
+    },
+    "relationships": {
+      "en": "Problems may arise due to unrealistic expectations and sudden unexpected issues.",
+      "hi": "अवास्तविक अपेक्षाओं और अचानक उत्पन्न समस्याओं से संबंधों में समस्या हो सकती है।"
+    },
+    "money": {
+      "en": "Losses likely in joint ventures, taxes, insurance, and investments; get-rich-quick attempts problematic.",
+      "hi": "संयुक्त व्यवसाय, कर, बीमा और निवेश में हानि की संभावना; तेजी से अमीर बनने के प्रयास समस्या उत्पन्न करते हैं।"
+    },
+    "health_adj": {
+      "en": "Mental instability and fluctuations may affect well-being.",
+      "hi": "मानसिक अस्थिरता और उतार-चढ़ाव से स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Unexpected problems",
+      "Foreign travel and dealings",
+      "Financial losses",
+      "Mental instability"
+    ],
+    "hi": [
+      "अप्रत्याशित समस्याएँ",
+      "विदेशी यात्रा और व्यवहार",
+      "आर्थिक हानि",
+      "मानसिक अस्थिरता"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid risky secret activities.",
+      "Get-rich-quick attempts are likely to fail.",
+      "Losses possible in joint ventures, taxes, insurance, and investments.",
+      "Astrological predictions may be unreliable."
+    ],
+    "hi": [
+      "जोखिम भरे गुप्त कार्यों से बचें।",
+      "तेजी से अमीर बनने के प्रयास विफल हो सकते हैं।",
+      "संयुक्त व्यवसाय, कर, बीमा और निवेश में हानि संभव है।",
+      "ज्योतिषीय अनुमान अविश्वसनीय हो सकते हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Avoid risky secret activities.",
+        "Be cautious with foreign travel and dealings.",
+        "Do not rely heavily on quick financial gains."
+      ],
+      "hi": [
+        "जोखिम भरे गुप्त कार्यों से बचें।",
+        "विदेशी यात्रा और व्यवहार में सावधानी रखें।",
+        "तेजी से धन लाभ पर अधिक निर्भर न रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Expect sudden unexpected problems.",
+        "Avoid get-rich-quick schemes.",
+        "Be prepared for fluctuations and losses."
+      ],
+      "hi": [
+        "अचानक अप्रत्याशित समस्याओं की संभावना।",
+        "तेजी से अमीर बनने की योजनाओं से बचें।",
+        "उतार-चढ़ाव और हानि के लिए तैयार रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Mental stability may gradually improve.",
+        "Problems related to foreign dealings and joint ventures may lessen.",
+        "Financial risks may reduce over time."
+      ],
+      "hi": [
+        "मानसिक स्थिरता धीरे-धीरे सुधर सकती है।",
+        "विदेशी व्यवहार और संयुक्त व्यवसाय से जुड़ी समस्याएँ कम हो सकती हैं।",
+        "आर्थिक जोखिम समय के साथ कम हो सकते हैं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "false optimism",
+      "unrealistic fantasies",
+      "mental instability",
+      "purity desire",
+      "wasted travel",
+      "foreign dealings",
+      "risk avoidance",
+      "unexpected problems",
+      "financial loss",
+      "fluctuations"
+    ],
+    "hi": [
+      "झूठा आशावाद",
+      "अवास्तविक कल्पना",
+      "मानसिक अस्थिरता",
+      "पवित्रता की इच्छा",
+      "व्यर्थ यात्रा",
+      "विदेशी व्यवहार",
+      "जोखिम से बचाव",
+      "अप्रत्याशित समस्याएँ",
+      "आर्थिक हानि",
+      "उतार-चढ़ाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "unstable",
+      "cautious",
+      "problematic",
+      "fluctuating"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "सावधानीपूर्ण",
+      "समस्या उत्पन्न करने वाला",
+      "उतार-चढ़ाव वाला"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental instability",
+      "financial risk",
+      "unexpected challenges",
+      "foreign complications",
+      "risk avoidance"
+    ],
+    "hi": [
+      "मानसिक अस्थिरता",
+      "आर्थिक जोखिम",
+      "अप्रत्याशित चुनौतियाँ",
+      "विदेशी जटिलताएँ",
+      "जोखिम से बचाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-squ-ura",
+      "core": "A time of false optimism, mental instability, and problematic financial and foreign dealings. Sudden problems and losses may occur; caution is advised.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "बृहस्पति वर्ग ऊरानस",
+      "core": "यह समय झूठे आशावाद, मानसिक अस्थिरता और आर्थिक तथा विदेशी व्यवहार में समस्याओं से भरा होता है। अचानक समस्याएँ और हानि हो सकती हैं; सावधानी आवश्यक है।",
+      "tone": "सौम्य, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "False optimism/unrealistic fantasies/mental instability prevails. Desire for purity causes problems. Wastes time on useless travel/work. Foreign dealings/travel bring issues. Avoid risky secret activities now. Unexpected problems may suddenly arise. Get-rich-quick attempts problematic. Losses likely in joint ventures/taxes/insurance/investments. Astrological predictions may fail. Fluctuations cause losses.",
+        "hi": "झूठा आशावाद/अवास्तविक कल्पना/मानसिक अस्थिरता की स्थिति रहती है। पवित्रता से रहने की इच्छा समस्या उत्पन्न करेगी। इस समय व्यक्ति व्यर्थ यात्रा/व्यर्थ कार्य करता है। विदेशी व्यवहार/यात्रा से समस्या उत्पन्न होती है। इस समय व्यक्ति को जोखिम भरे गुप्त कार्य नहीं करने चाहिए। अप्रत्याशित या अचानक रूप से कोई समस्या उत्पन्न हो सकती है। तेजी से अमीर बनने के प्रयास समस्या का कारण बनेंगे। संयुक्त व्यवसाय/कर/बीमा/निवेश आदि से हानि की संभावना रहेगी। ज्योतिष ज्ञान के अनुमान गलत साबित हो सकते हैं। उतार.चढ़ाव से हानि की संभावना रहती है।"
+      },
+      "career": {
+        "en": "Wastes time on unproductive work and travel; foreign dealings cause difficulties.",
+        "hi": "व्यर्थ कार्य और यात्रा में समय बर्बाद होता है; विदेशी व्यवहार से समस्या होती है।"
+      },
+      "relationships": {
+        "en": "Problems may arise due to unrealistic expectations and sudden unexpected issues.",
+        "hi": "अवास्तविक अपेक्षाओं और अचानक उत्पन्न समस्याओं से संबंधों में समस्या हो सकती है।"
+      },
+      "money": {
+        "en": "Losses likely in joint ventures, taxes, insurance, and investments; get-rich-quick attempts problematic.",
+        "hi": "संयुक्त व्यवसाय, कर, बीमा और निवेश में हानि की संभावना; तेजी से अमीर बनने के प्रयास समस्या उत्पन्न करते हैं।"
+      },
+      "health_adj": {
+        "en": "Mental instability and fluctuations may affect well-being.",
+        "hi": "मानसिक अस्थिरता और उतार-चढ़ाव से स्वास्थ्य प्रभावित हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Jupiter square Uranus",
+      "Jup SQR Ura",
+      "Jupiter-Square-Uranus",
+      "Jupiter Square to Uranus"
+    ]
+  }
+}

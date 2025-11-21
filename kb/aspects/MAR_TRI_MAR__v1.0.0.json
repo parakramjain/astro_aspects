@@ -1,0 +1,258 @@
+{
+  "id": "MAR_TRI_MAR__v1.0.0",
+  "pair": [
+    "Mars",
+    "Trine",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Strong ambition, creativity, self-confidence, and physical energy characterize this aspect. It enhances leadership and the ability to take loans, supports active engagement in sports or hard work, and favors travel and professional growth. Success and praise are likely in police or military fields.",
+    "hi": "मजबूत महत्वाकांक्षा, रचनात्मकता, आत्मविश्वास और शारीरिक ऊर्जा इस योग की विशेषताएँ हैं। यह नेतृत्व और ऋण लेने की क्षमता को बढ़ाता है, खेलकूद या मेहनती कार्यों में सक्रियता देता है, यात्रा और पेशेवर विकास के लिए अनुकूल होता है। पुलिस या सेना के कार्यों में सफलता और प्रशंसा मिलती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Improved leadership qualities, selection of new professional directions, progress through hard work, and success in police or military roles.",
+      "hi": "नेतृत्व गुणों में वृद्धि, नए पेशेवर आयामों का चयन, मेहनत से प्रगति और पुलिस या सेना के कार्यों में सफलता।"
+    },
+    "relationships": {
+      "en": "Self-confidence and ambition may positively influence social and professional interactions, though no specific relationship details are provided.",
+      "hi": "आत्मविश्वास और महत्वाकांक्षा सामाजिक और पेशेवर संबंधों को सकारात्मक रूप से प्रभावित कर सकते हैं, हालांकि विशेष विवरण नहीं दिए गए हैं।"
+    },
+    "money": {
+      "en": "Ability to take loans improves; profits can be gained through fluctuations and active efforts.",
+      "hi": "ऋण लेने की क्षमता बढ़ती है; उतार-चढ़ाव से लाभ और सक्रिय प्रयासों से आय होती है।"
+    },
+    "health_adj": {
+      "en": "High physical energy and dynamism support engagement in sports and hard work, promoting strong progress.",
+      "hi": "उच्च शारीरिक स्फूर्ति और गतिशीलता खेलकूद और मेहनती कार्यों में सक्रियता देती है, जिससे मजबूत प्रगति होती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Career advancement",
+      "Travel opportunities",
+      "Engagement in sports or physical activities",
+      "Success in police or military work"
+    ],
+    "hi": [
+      "पेशे में उन्नति",
+      "यात्रा के अवसर",
+      "खेलकूद या शारीरिक गतिविधियों में भागीदारी",
+      "पुलिस या सेना के कार्यों में सफलता"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage actively in physical or sports activities",
+        "Pursue leadership roles and new professional directions",
+        "Consider travel plans",
+        "Leverage opportunities for loans if needed"
+      ],
+      "hi": [
+        "शारीरिक या खेल गतिविधियों में सक्रिय भाग लें",
+        "नेतृत्व भूमिकाओं और नए पेशेवर आयामों का चयन करें",
+        "यात्रा की योजना बनाएं",
+        "आवश्यकता होने पर ऋण लेने के अवसरों का लाभ उठाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on creative and ambitious projects",
+        "Initiate efforts requiring physical energy and dynamism",
+        "Seek recognition in police or military-related work"
+      ],
+      "hi": [
+        "रचनात्मक और महत्वाकांक्षी परियोजनाओं पर ध्यान दें",
+        "शारीरिक ऊर्जा और गतिशीलता वाले कार्य शुरू करें",
+        "पुलिस या सेना संबंधी कार्यों में मान्यता प्राप्त करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain momentum in ongoing projects",
+        "Continue leveraging leadership skills",
+        "Sustain physical activity levels"
+      ],
+      "hi": [
+        "चल रही परियोजनाओं में गति बनाए रखें",
+        "नेतृत्व कौशल का उपयोग जारी रखें",
+        "शारीरिक गतिविधि के स्तर को बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "creativity",
+      "ambition",
+      "self-confidence",
+      "physical energy",
+      "leadership",
+      "loan-taking",
+      "sports",
+      "travel",
+      "professional growth",
+      "success",
+      "praise",
+      "police",
+      "military"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "महत्वाकांक्षा",
+      "आत्मविश्वास",
+      "शारीरिक ऊर्जा",
+      "नेतृत्व",
+      "ऋण लेना",
+      "खेलकूद",
+      "यात्रा",
+      "पेशेवर विकास",
+      "सफलता",
+      "प्रशंसा",
+      "पुलिस",
+      "सेना"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "dynamic",
+      "energetic",
+      "ambitious",
+      "confident",
+      "progressive",
+      "leadership"
+    ],
+    "hi": [
+      "गतिशील",
+      "ऊर्जावान",
+      "महत्वाकांक्षी",
+      "आत्मविश्वासी",
+      "प्रगतिशील",
+      "नेतृत्वकारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity and ambition",
+      "physical dynamism",
+      "leadership and authority",
+      "professional advancement",
+      "active engagement"
+    ],
+    "hi": [
+      "रचनात्मकता और महत्वाकांक्षा",
+      "शारीरिक गतिशीलता",
+      "नेतृत्व और अधिकार",
+      "पेशेवर उन्नति",
+      "सक्रिय भागीदारी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-tri-mar",
+      "core": "This aspect highlights strong ambition, creativity, and physical energy, fostering leadership and success in active pursuits including sports and police/military work.",
+      "tone": "Warm, encouraging, and professional"
+    },
+    "hi": {
+      "title": "मंगल त्रिकोण मंगल",
+      "core": "यह योग मजबूत महत्वाकांक्षा, रचनात्मकता और शारीरिक ऊर्जा को दर्शाता है, जो नेतृत्व और खेल तथा पुलिस/सेना के सक्रिय कार्यों में सफलता को बढ़ावा देता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और पेशेवर"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Creative work, strong ambition, self-confidence, physical energy and dynamism prevail. Leadership qualities and loan-taking ability improve. Engages in sports or hard work with solid progress. Good time for travel. Professionally selects new dimensions. Profits from fluctuations and gains through hustle. Receives praise and success in police/military work.",
+        "hi": "रचनात्मक कार्य, मजबूत महत्वाकांक्षा, आत्मविश्वास, शारीरिक स्फूर्ति और गतिशीलता की स्थिति रहती है। इस समय व्यक्ति में ऋण लेने/नेतृत्व के गुणों की वृद्धि होती है। खेलकूद में भाग लेता है या मेहनत के काम करता है तथा मजबूत कार्य प्रगति करता है। यात्रा के लिए उपयुक्त समय। पेशेवर स्थिति में इस समयकाल में व्यक्ति नए आयामों का चयन करता है। उतार-चढ़ाव से लाभ प्राप्त करता है तथा भाग-दौड़ के बल पर लाभ कमाता है। पुलिस तथा सेना संबंधी कार्यों में प्रशंसा और सफलता प्राप्त करता है।"
+      },
+      "career": {
+        "en": "Leadership qualities improve, new professional dimensions are selected, solid progress through hard work, success and praise in police and military work.",
+        "hi": "नेतृत्व गुणों में वृद्धि, नए पेशेवर आयामों का चयन, मेहनत से मजबूत प्रगति, पुलिस और सेना के कार्यों में सफलता और प्रशंसा।"
+      },
+      "relationships": {
+        "en": "Self-confidence and ambition influence social and professional interactions positively, though specific details are not provided.",
+        "hi": "आत्मविश्वास और महत्वाकांक्षा सामाजिक और पेशेवर संबंधों को सकारात्मक रूप से प्रभावित करते हैं, हालांकि विशेष विवरण नहीं दिए गए हैं।"
+      },
+      "money": {
+        "en": "Improved loan-taking ability; profits from fluctuations and active efforts.",
+        "hi": "ऋण लेने की क्षमता में सुधार; उतार-चढ़ाव और सक्रिय प्रयासों से लाभ।"
+      },
+      "health_adj": {
+        "en": "Physical energy and dynamism support sports and hard work, leading to strong progress.",
+        "hi": "शारीरिक ऊर्जा और गतिशीलता खेल और मेहनती कार्यों में सहायता करती है, जिससे मजबूत प्रगति होती है।"
+      }
+    },
+    "aliases": [
+      "Mars trine Mars",
+      "Mar TRI Mar",
+      "Mars-Trine-Mars",
+      "Mars Trine to Mars"
+    ]
+  }
+}

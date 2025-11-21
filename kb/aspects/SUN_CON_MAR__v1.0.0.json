@@ -1,0 +1,237 @@
+{
+  "id": "SUN_CON_MAR__v1.0.0",
+  "pair": [
+    "Sun",
+    "Conjunction",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This period boosts energy and courage, encouraging facing new challenges and taking risks; however, unfavorable timing may cause aggression and impulsiveness.",
+    "hi": "यह समय ऊर्जा और साहस बढ़ाता है, नई चुनौतियों का सामना करने और जोखिम लेने की प्रवृत्ति बढ़ाता है; प्रतिकूल समय में यह आक्रामकता और जल्दबाजी ला सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Increased drive to take on challenges and pursue ambitious goals, with a risk of impulsive decisions.",
+      "hi": "नई चुनौतियाँ स्वीकार करने और महत्वाकांक्षी लक्ष्य पाने की प्रवृत्ति बढ़ती है, लेकिन जल्दबाजी में निर्णय लेने का खतरा रहता है।"
+    },
+    "relationships": {
+      "en": "More courage to address issues and take initiative, though potential for aggression or impatience exists.",
+      "hi": "मुद्दों का सामना करने और पहल करने का साहस बढ़ता है, लेकिन आक्रामकता या अधीरता का खतरा हो सकता है।"
+    },
+    "money": {
+      "en": "Willingness to take financial risks may increase, but caution is advised to avoid impulsive actions.",
+      "hi": "वित्तीय जोखिम लेने की प्रवृत्ति बढ़ सकती है, परंतु जल्दबाजी से बचना आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Energy levels rise, supporting physical activity, but watch for impulsiveness that may lead to accidents.",
+      "hi": "ऊर्जा स्तर बढ़ता है, जिससे शारीरिक गतिविधि में मदद मिलती है, परंतु जल्दबाजी से चोट लगने का खतरा रहता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New challenges",
+      "Risk-taking opportunities",
+      "Increased courage"
+    ],
+    "hi": [
+      "नई चुनौतियाँ",
+      "जोखिम लेने के अवसर",
+      "बढ़ा हुआ साहस"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Possible aggression",
+      "Impulsiveness",
+      "Hasty decisions"
+    ],
+    "hi": [
+      "संभावित आक्रामकता",
+      "जल्दबाजी",
+      "अति शीघ्र निर्णय"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Channel increased energy into constructive challenges",
+        "Prepare mentally for risk-taking"
+      ],
+      "hi": [
+        "बढ़ी हुई ऊर्जा को रचनात्मक चुनौतियों में लगाएं",
+        "जोखिम लेने के लिए मानसिक तैयारी करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise caution to avoid impulsive reactions",
+        "Focus on controlled expression of courage"
+      ],
+      "hi": [
+        "जल्दबाजी से बचने के लिए सावधानी बरतें",
+        "साहस को नियंत्रित रूप से व्यक्त करने पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons learned from risks taken",
+        "Calm aggressive tendencies"
+      ],
+      "hi": [
+        "लिए गए जोखिमों से सीखे गए पाठों पर विचार करें",
+        "आक्रामक प्रवृत्तियों को शांत करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "energy",
+      "courage",
+      "challenges",
+      "risk",
+      "aggression",
+      "impulsiveness"
+    ],
+    "hi": [
+      "ऊर्जा",
+      "साहस",
+      "चुनौतियाँ",
+      "जोखिम",
+      "आक्रामकता",
+      "जल्दबाजी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "dynamic",
+      "bold",
+      "energetic",
+      "potentially aggressive"
+    ],
+    "hi": [
+      "गतिशील",
+      "साहसी",
+      "ऊर्जावान",
+      "संभावित आक्रामक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "courage and risk",
+      "energy surge",
+      "challenge readiness",
+      "impulse control"
+    ],
+    "hi": [
+      "साहस और जोखिम",
+      "ऊर्जा में वृद्धि",
+      "चुनौती के लिए तैयारी",
+      "प्रेरणा नियंत्रण"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-con-mar",
+      "core": "This period boosts energy and courage, encouraging new challenges and risk-taking, with caution advised against aggression and impulsiveness.",
+      "tone": "Warm, neutral, and encouraging with gentle caution."
+    },
+    "hi": {
+      "title": "सूर्य संयोजन मंगल",
+      "core": "यह समय ऊर्जा और साहस बढ़ाता है, नई चुनौतियाँ स्वीकार करने और जोखिम लेने को प्रोत्साहित करता है, साथ ही आक्रामकता और जल्दबाजी से सावधानी बरतने की सलाह देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला, साथ ही सावधानीपूर्ण।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period boosts energy and courage, encouraging facing new challenges and taking risks; however, unfavorable timing may cause aggression and impulsiveness.",
+        "hi": "यह समय ऊर्जा और साहस बढ़ाता है, नई चुनौतियों का सामना करने और जोखिम लेने की प्रवृत्ति बढ़ाता है; प्रतिकूल समय में यह आक्रामकता और जल्दबाजी ला सकता है।"
+      },
+      "career": {
+        "en": "Increased drive to take on challenges and pursue ambitious goals, with a risk of impulsive decisions.",
+        "hi": "नई चुनौतियाँ स्वीकार करने और महत्वाकांक्षी लक्ष्य पाने की प्रवृत्ति बढ़ती है, लेकिन जल्दबाजी में निर्णय लेने का खतरा रहता है।"
+      },
+      "relationships": {
+        "en": "More courage to address issues and take initiative, though potential for aggression or impatience exists.",
+        "hi": "मुद्दों का सामना करने और पहल करने का साहस बढ़ता है, लेकिन आक्रामकता या अधीरता का खतरा हो सकता है।"
+      },
+      "money": {
+        "en": "Willingness to take financial risks may increase, but caution is advised to avoid impulsive actions.",
+        "hi": "वित्तीय जोखिम लेने की प्रवृत्ति बढ़ सकती है, परंतु जल्दबाजी से बचना आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "Energy levels rise, supporting physical activity, but watch for impulsiveness that may lead to accidents.",
+        "hi": "ऊर्जा स्तर बढ़ता है, जिससे शारीरिक गतिविधि में मदद मिलती है, परंतु जल्दबाजी से चोट लगने का खतरा रहता है।"
+      }
+    },
+    "aliases": [
+      "Sun conjunction Mars",
+      "Sun CON Mar",
+      "Sun-Conjunction-Mars",
+      "Sun Conjunction to Mars"
+    ]
+  }
+}

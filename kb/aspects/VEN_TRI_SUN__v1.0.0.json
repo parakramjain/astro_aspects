@@ -1,0 +1,243 @@
+{
+  "id": "VEN_TRI_SUN__v1.0.0",
+  "pair": [
+    "Venus",
+    "Trine",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect fosters artistic expression, social and romantic qualities, and a positive, optimistic outlook on life, bringing happiness and cooperation from others.",
+    "hi": "यह योग कलात्मक अभिव्यक्ति, सामाजिक और रोमांटिक गुणों को बढ़ावा देता है तथा जीवन के प्रति सुखद और आशावादी दृष्टिकोण लाता है, जिससे व्यक्ति प्रसन्न रहता है और दूसरों से सहयोग प्राप्त होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable conditions for artistic and social work; good cooperation in professional and romantic endeavors.",
+      "hi": "कलात्मक और सामाजिक कार्यों के लिए अनुकूल स्थिति; व्यावसायिक और रोमांटिक प्रयासों में अच्छा सहयोग।"
+    },
+    "relationships": {
+      "en": "Positive interactions with family, relatives, women, and marital matters; good time for discussions and social harmony.",
+      "hi": "परिवार, रिश्तेदारों, महिलाओं और वैवाहिक मामलों में सकारात्मक व्यवहार; वार्ता और सामाजिक मेलजोल के लिए अच्छा समय।"
+    },
+    "money": {
+      "en": "Favorable financial exchanges, progress, and cooperation in business matters.",
+      "hi": "व्यवसायिक आर्थिक विनिमय, उन्नति और सहयोग के लिए अनुकूल समय।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; overall positive and pleasant disposition.",
+      "hi": "विशेष स्वास्थ्य समायोजन संकेतित नहीं; समग्र रूप से सुखद और सकारात्मक मनोदशा।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Artistic expression",
+      "Social and romantic activities",
+      "Family and marital discussions",
+      "Business cooperation"
+    ],
+    "hi": [
+      "कलात्मक अभिव्यक्ति",
+      "सामाजिक और रोमांटिक कार्य",
+      "परिवार और वैवाहिक चर्चा",
+      "व्यवसायिक सहयोग"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in artistic and creative projects",
+        "Foster social and romantic relationships",
+        "Initiate discussions on family and marital matters",
+        "Seek cooperation in business and financial dealings"
+      ],
+      "hi": [
+        "कलात्मक और रचनात्मक परियोजनाओं में संलग्न हों",
+        "सामाजिक और रोमांटिक संबंधों को बढ़ावा दें",
+        "परिवार और वैवाहिक मामलों पर चर्चा शुरू करें",
+        "व्यवसाय और वित्तीय लेन-देन में सहयोग प्राप्त करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Maximize artistic expression and social interactions",
+        "Focus on positive communication with family and partners",
+        "Capitalize on financial cooperation and progress"
+      ],
+      "hi": [
+        "कलात्मक अभिव्यक्ति और सामाजिक संपर्क को अधिकतम करें",
+        "परिवार और साथी के साथ सकारात्मक संवाद पर ध्यान दें",
+        "आर्थिक सहयोग और उन्नति का लाभ उठाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain optimism and pleasant demeanor",
+        "Continue nurturing relationships and cooperation"
+      ],
+      "hi": [
+        "आशावाद और सुखद स्वभाव बनाए रखें",
+        "संबंधों और सहयोग को बनाए रखना जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Artistic expression",
+      "Social harmony",
+      "Romantic qualities",
+      "Optimism",
+      "Cooperation",
+      "Financial progress",
+      "Family discussions",
+      "Marital matters"
+    ],
+    "hi": [
+      "कलात्मक अभिव्यक्ति",
+      "सामाजिक सद्भाव",
+      "रोमांटिक गुण",
+      "आशावाद",
+      "सहयोग",
+      "आर्थिक उन्नति",
+      "परिवार चर्चा",
+      "वैवाहिक मामले"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Positive",
+      "Optimistic",
+      "Cooperative",
+      "Pleasant"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "आशावादी",
+      "सहयोगी",
+      "सुखद"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Art",
+      "Social life",
+      "Romance",
+      "Family",
+      "Finance"
+    ],
+    "hi": [
+      "कला",
+      "सामाजिक जीवन",
+      "रोमांस",
+      "परिवार",
+      "वित्त"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-tri-sun",
+      "core": "Enhances artistic expression, social and romantic qualities with optimism and cooperation.",
+      "tone": "Warm, positive, and encouraging"
+    },
+    "hi": {
+      "title": "शुक्र त्रिकोण सूर्य",
+      "core": "कलात्मक अभिव्यक्ति, सामाजिक और रोमांटिक गुणों को आशावाद और सहयोग के साथ बढ़ाता है।",
+      "tone": "स्नेहपूर्ण, सकारात्मक और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This aspect enhances artistic expression, social and romantic work, and similar qualities. There is a pleasant and optimistic outlook towards life. The person remains happy and receives cooperation from others.",
+        "hi": "यह योग कलात्मक अभिव्यक्तिए सामाजिक और रोमांटिक कार्य आदि गुणों को प्रदर्शित करता है। जीवन के प्रति सुखद और आशावादी दृष्टिकोण रहता है। इस समय व्यक्ति प्रसन्न रहता है और दूसरों से सहयोग प्राप्त होता है।"
+      },
+      "career": {
+        "en": "Favorable conditions for artistic and social work; good cooperation in professional and romantic endeavors.",
+        "hi": "कलात्मक और सामाजिक कार्यों के लिए अनुकूल स्थिति; व्यावसायिक और रोमांटिक प्रयासों में अच्छा सहयोग।"
+      },
+      "relationships": {
+        "en": "Positive interactions with family, relatives, women, and marital matters; good time for discussions and social harmony.",
+        "hi": "संयुक्त परिवार/रिश्तेदार/महिलाओं से वार्ता/व्यवहार हेतु वैवाहिक चर्चा हेतु उत्तम समय।"
+      },
+      "money": {
+        "en": "In business, financial exchanges, progress, and cooperation are favorable.",
+        "hi": "व्यवसायिक स्थिति में आर्थिक/वित्तीय विनिमय/उन्नति/सहयोग प्राप्त होता है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; overall positive and pleasant disposition.",
+        "hi": "विशेष स्वास्थ्य समायोजन संकेतित नहीं; समग्र रूप से सुखद और सकारात्मक मनोदशा।"
+      }
+    },
+    "aliases": [
+      "Venus trine Sun",
+      "Ven TRI Sun",
+      "Venus-Trine-Sun",
+      "Venus Trine to Sun"
+    ]
+  }
+}

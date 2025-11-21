@@ -1,0 +1,245 @@
+{
+  "id": "JUP_SEX_URA__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Sextile",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates intuitive independence, optimism, and enthusiasm for new collective endeavors, with benefits from social and educational institutions and growing interest in spirituality and foreign cultures.",
+    "hi": "यह योग अंतर्ज्ञानिक स्वतंत्रता, आशावाद, नए सामूहिक कार्यों के प्रति उत्सुकता दर्शाता है, सामाजिक और शैक्षणिक संस्थानों से लाभ तथा आध्यात्मिकता और विदेशी संस्कृतियों में बढ़ती रुचि होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities arise through social, religious, educational, scientific, and large professional institutions, expanding related knowledge and supporting higher education and investments.",
+      "hi": "सामाजिक, धार्मिक, शैक्षणिक, वैज्ञानिक और बड़े पेशेवर संस्थानों से अवसर प्राप्त होते हैं, संबंधित ज्ञान का विस्तार होता है तथा उच्च शिक्षा और निवेश में सहायता मिलती है।"
+    },
+    "relationships": {
+      "en": "Friendships form with energetic individuals, with mutual support available from friends.",
+      "hi": "उत्तेजित स्वभाव वाले लोगों से मित्रता होती है और मित्रों से पारस्परिक सहयोग के अवसर रहते हैं।"
+    },
+    "money": {
+      "en": "Unexpected opportunities for major investments and higher education grants may occur, leading to beneficial financial outcomes.",
+      "hi": "अप्रत्याशित रूप से उच्च शिक्षा अनुदान और बड़े निवेश के अवसर प्राप्त होते हैं, जिससे लाभ होता है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments are indicated by this aspect.",
+      "hi": "इस योग से स्वास्थ्य संबंधी कोई विशेष समायोजन संकेतित नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New collective projects",
+      "Higher education opportunities",
+      "Major investments",
+      "Friendship support"
+    ],
+    "hi": [
+      "नए सामूहिक कार्य",
+      "उच्च शिक्षा के अवसर",
+      "बड़े निवेश",
+      "मित्रों का सहयोग"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Unexpected changes may require adaptability",
+      "Reliance on social institutions may fluctuate"
+    ],
+    "hi": [
+      "अप्रत्याशित परिवर्तन के लिए अनुकूलन आवश्यक हो सकता है",
+      "सामाजिक संस्थानों पर निर्भरता बदल सकती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in group or collective activities",
+        "Explore spiritual and occult studies",
+        "Network with energetic and supportive people"
+      ],
+      "hi": [
+        "सामूहिक कार्यों में भाग लें",
+        "आध्यात्मिक और गूढ़ ज्ञान का अध्ययन करें",
+        "उत्तेजित और सहयोगी लोगों से संपर्क बढ़ाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Seek opportunities in social, educational, and scientific institutions",
+        "Pursue higher education grants and investments"
+      ],
+      "hi": [
+        "सामाजिक, शैक्षणिक और वैज्ञानिक संस्थानों में अवसर खोजें",
+        "उच्च शिक्षा अनुदान और निवेश के प्रयास करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain optimism and independence despite changes",
+        "Continue nurturing friendships and social connections"
+      ],
+      "hi": [
+        "परिवर्तनों के बावजूद आशावाद और स्वतंत्रता बनाए रखें",
+        "मित्रता और सामाजिक संबंधों को बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intuitive independence",
+      "optimism",
+      "collective work",
+      "friendships",
+      "social institutions",
+      "spirituality",
+      "foreign cultures",
+      "education grants",
+      "investments"
+    ],
+    "hi": [
+      "अंतर्ज्ञानिक स्वतंत्रता",
+      "आशावाद",
+      "सामूहिक कार्य",
+      "मित्रता",
+      "सामाजिक संस्थान",
+      "आध्यात्मिकता",
+      "विदेशी संस्कृतियाँ",
+      "शिक्षा अनुदान",
+      "निवेश"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "optimistic",
+      "supportive",
+      "expansive",
+      "intuitive"
+    ],
+    "hi": [
+      "आशावादी",
+      "सहायक",
+      "विस्तारित",
+      "अंतर्ज्ञानिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "social networking",
+      "educational advancement",
+      "financial opportunity"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "सामाजिक नेटवर्किंग",
+      "शैक्षणिक उन्नति",
+      "आर्थिक अवसर"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-16"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-sxt-ura",
+      "core": "This aspect highlights intuitive independence and enthusiasm for new collective ventures, with benefits from social and educational institutions and growing spiritual and cultural interests.",
+      "tone": "Warm, optimistic, encouraging"
+    },
+    "hi": {
+      "title": "बृहस्पति षट्कोण यूरेनस",
+      "core": "यह योग अंतर्ज्ञानिक स्वतंत्रता और नए सामूहिक कार्यों के प्रति उत्साह दर्शाता है, सामाजिक और शैक्षणिक संस्थानों से लाभ तथा आध्यात्मिक और सांस्कृतिक रुचियों में वृद्धि होती है।",
+      "tone": "सहानुभूतिपूर्ण, आशावादी, प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Intuitive independence, optimism, enthusiasm for new collective works, benefits from social/religious/educational/scientific/large professional institutions, growing interest in spirituality, occultism, astrology, awakened interest in foreign cultures and social conditions, unexpected opportunities for higher education grants and major investments, mutual support from friends.",
+        "hi": "अंतर्ज्ञानिक स्वतंत्रता, आशावाद, नए सामूहिक कार्यों के प्रति उत्सुकता, सामाजिक/धार्मिक/शैक्षणिक/वैज्ञानिक/बड़े पेशेवर संस्थानों से लाभ, आध्यात्मिकता, गूढ़ ज्ञान, ज्योतिष में बढ़ती रुचि, विदेशी संस्कृति और सामाजिक स्थिति के प्रति जागृत रुचि, उच्च शिक्षा अनुदान और बड़े निवेश के अप्रत्याशित अवसर, मित्रों से पारस्परिक सहयोग।"
+      },
+      "career": {
+        "en": "Benefits from social, religious, educational, scientific, and large professional institutions; expansion of related knowledge; unexpected opportunities for higher education grants and major investments.",
+        "hi": "सामाजिक, धार्मिक, शैक्षणिक, वैज्ञानिक और बड़े पेशेवर संस्थानों से लाभ; संबंधित ज्ञान का विस्तार; उच्च शिक्षा अनुदान और बड़े निवेश के अप्रत्याशित अवसर।"
+      },
+      "relationships": {
+        "en": "Friendships with energetic people; mutual support from friends available.",
+        "hi": "उत्तेजित स्वभाव वाले लोगों से मित्रता; मित्रों से पारस्परिक सहयोग के अवसर।"
+      },
+      "money": {
+        "en": "Unexpected opportunities for higher education grants and major investments; investments tend to be beneficial.",
+        "hi": "उच्च शिक्षा अनुदान और बड़े निवेश के अप्रत्याशित अवसर; निवेश लाभदायक रहता है।"
+      },
+      "health_adj": {
+        "en": "No specific health-related notes provided.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष नोट नहीं दिया गया।"
+      }
+    },
+    "aliases": [
+      "Jupiter sextile Uranus",
+      "Jup SEX Ura",
+      "Jupiter-Sextile-Uranus",
+      "Jupiter Sextile to Uranus"
+    ]
+  }
+}

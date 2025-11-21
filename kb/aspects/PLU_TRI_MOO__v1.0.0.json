@@ -1,0 +1,245 @@
+{
+  "id": "PLU_TRI_MOO__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Trine",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period of breaking old thought patterns and gaining deep understanding, increasing inner strength and recognizing true qualities, with opportunities for major change or creative work and learning from personal experiences.",
+    "hi": "पुरानी सोचों से निकलने और गहरी समझ हासिल करने का समय, मनोबल बढ़ना और अपने सच्चे गुणों को पहचानना, जीवन में बड़ा सुधार या रचनात्मक काम करने के अवसर के साथ अपने अनुभवों से सीखना।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities for significant improvement or engaging in creative work.",
+      "hi": "बड़ा सुधार या रचनात्मक काम करने के अवसर।"
+    },
+    "relationships": {
+      "en": "Enhanced inner strength may improve personal understanding and emotional depth.",
+      "hi": "मनोबल बढ़ने से व्यक्तिगत समझ और भावनात्मक गहराई में सुधार हो सकता है।"
+    },
+    "money": {
+      "en": "Potential gains from old resources or investments.",
+      "hi": "पुराने संसाधनों या निवेश से फायदा मिलने की संभावना।"
+    },
+    "health_adj": {
+      "en": "Increased inner strength supports mental and emotional well-being.",
+      "hi": "मनोबल बढ़ने से मानसिक और भावनात्मक स्वास्थ्य में सहायता मिलती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Breaking old habits",
+      "Major personal change",
+      "Creative endeavors",
+      "Learning from experience",
+      "Financial gains from past investments"
+    ],
+    "hi": [
+      "बुरी आदतों से उबरना",
+      "व्यक्तिगत बड़ा सुधार",
+      "रचनात्मक प्रयास",
+      "अनुभव से सीखना",
+      "पुराने निवेश से आर्थिक लाभ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Beware of clinging to outdated thinking patterns.",
+      "Avoid impulsive decisions despite increased inner strength."
+    ],
+    "hi": [
+      "पुरानी सोचों से चिपके रहने से बचें।",
+      "मनोबल बढ़ने के बावजूद जल्दबाजी में फैसले न लें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Reflect on and challenge old thought patterns.",
+        "Use inner strength to overcome bad habits.",
+        "Explore creative projects or changes."
+      ],
+      "hi": [
+        "पुरानी सोचों पर विचार करें और उन्हें चुनौती दें।",
+        "बुरी आदतों को छोड़ने के लिए मनोबल का उपयोग करें।",
+        "रचनात्मक परियोजनाओं या बदलावों को आजमाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on self-discovery and recognizing true qualities.",
+        "Consider revisiting past investments or resources."
+      ],
+      "hi": [
+        "अपने सच्चे गुणों को पहचानने और आत्म-खोज पर ध्यान दें।",
+        "पुराने निवेश या संसाधनों को पुनः देखें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain lessons learned from experiences.",
+        "Prepare for gradual integration of changes."
+      ],
+      "hi": [
+        "अनुभवों से सीखे गए पाठ बनाए रखें।",
+        "बदलावों को धीरे-धीरे अपनाने की तैयारी करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "deep understanding",
+      "inner strength",
+      "breaking old patterns",
+      "major change",
+      "creative work",
+      "learning",
+      "financial gains"
+    ],
+    "hi": [
+      "गहरी समझ",
+      "मनोबल",
+      "पुरानी सोचों से निकलना",
+      "बड़ा सुधार",
+      "रचनात्मक काम",
+      "सीखना",
+      "आर्थिक लाभ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "transformative",
+      "empowering",
+      "reflective",
+      "opportunity"
+    ],
+    "hi": [
+      "परिवर्तनकारी",
+      "सशक्तिकरण",
+      "विचारशील",
+      "अवसर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "self-discovery",
+      "habit change",
+      "creative expression",
+      "personal growth",
+      "resource utilization"
+    ],
+    "hi": [
+      "आत्म-खोज",
+      "आदतों में बदलाव",
+      "रचनात्मक अभिव्यक्ति",
+      "व्यक्तिगत विकास",
+      "संसाधनों का उपयोग"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-tri-moo",
+      "core": "A time to break old thought patterns, gain deep understanding, and embrace inner strength for personal growth and creative opportunities.",
+      "tone": "Warm, encouraging, and insightful"
+    },
+    "hi": {
+      "title": "प्लूटो ट्राइन मून",
+      "core": "पुरानी सोचों को तोड़ने, गहरी समझ पाने और व्यक्तिगत विकास व रचनात्मक अवसरों के लिए मनोबल बढ़ाने का समय।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Breaking old thinking patterns, gaining deep understanding, increasing inner strength, discovering true qualities, major change, creative work, learning from experiences, gains from old resources.",
+        "hi": "पुरानी सोचों से निकलना, गहरी समझ, मनोबल बढ़ना, सच्चे गुणों की पहचान, बड़ा सुधार, रचनात्मक काम, अनुभवों से सीखना, पुराने संसाधनों से लाभ।"
+      },
+      "career": {
+        "en": "Opportunities for major improvement or creative projects.",
+        "hi": "बड़े सुधार या रचनात्मक परियोजनाओं के अवसर।"
+      },
+      "relationships": {
+        "en": "Increased inner strength enhances emotional depth and understanding.",
+        "hi": "मनोबल बढ़ने से भावनात्मक गहराई और समझ में सुधार।"
+      },
+      "money": {
+        "en": "Potential financial gains from past investments or resources.",
+        "hi": "पुराने निवेश या संसाधनों से संभावित आर्थिक लाभ।"
+      },
+      "health_adj": {
+        "en": "Inner strength supports mental and emotional well-being.",
+        "hi": "मनोबल मानसिक और भावनात्मक स्वास्थ्य में सहायक।"
+      }
+    },
+    "aliases": [
+      "Pluto trine Moon",
+      "Plu TRI Moo",
+      "Pluto-Trine-Moon",
+      "Pluto Trine to Moon"
+    ]
+  }
+}

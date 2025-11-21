@@ -1,0 +1,245 @@
+{
+  "id": "SUN_OPP_MOO__v1.0.0",
+  "pair": [
+    "Sun",
+    "Opposition",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Challenges arise in relationships with the opposite sex and senior family members, causing emotional tension and ego conflicts within the family. Financial caution is advised due to potential issues and wasteful spending. Emotional excitement may clash with rational decisions.",
+    "hi": "विपरीत लिंग और परिवार के वरिष्ठ सदस्यों के साथ संबंधों में कठिनाइयाँ आती हैं, जिससे परिवार में भावनात्मक तनाव और अहंकार के टकराव होते हैं। संभावित आर्थिक समस्याओं और व्यर्थ खर्च के कारण सावधानी आवश्यक है। भावनात्मक उत्तेजना और तर्कसंगत निर्णयों में टकराव हो सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Not a favorable time for fast-moving or business ventures; caution is advised in professional dealings.",
+      "hi": "तेजी से बढ़ने वाले या व्यवसायिक कार्यों के लिए अनुकूल समय नहीं है; पेशेवर मामलों में सावधानी बरतें।"
+    },
+    "relationships": {
+      "en": "Difficulties with opposite sex and senior family members; emotional conflicts and tension prevail in domestic environment; unfavorable interactions with children.",
+      "hi": "विपरीत लिंग और वरिष्ठ परिवार के सदस्यों के साथ कठिनाइयाँ; घरेलू वातावरण में भावनात्मक तनाव और कलह; बच्चों के साथ व्यवहार के लिए असमय।"
+    },
+    "money": {
+      "en": "Risk of financial problems and wasteful expenditure; careful consideration of family and domestic financial needs is necessary.",
+      "hi": "आर्थिक समस्याओं और व्यर्थ खर्च का जोखिम; परिवार और घरेलू वित्तीय आवश्यकताओं को सोच-समझ कर पूरा करें।"
+    },
+    "health_adj": {
+      "en": "Emotional tension and ego conflicts may affect mental well-being; managing stress within family environment is important.",
+      "hi": "भावनात्मक तनाव और अहंकार के टकराव मानसिक स्वास्थ्य को प्रभावित कर सकते हैं; पारिवारिक वातावरण में तनाव प्रबंधन आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family conflicts",
+      "Relationship challenges",
+      "Financial caution periods"
+    ],
+    "hi": [
+      "पारिवारिक कलह",
+      "संबंधों में कठिनाइयाँ",
+      "आर्थिक सावधानी के समय"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional conflicts with opposite sex and senior family members",
+      "Financial issues and wasteful spending",
+      "Unfavorable time for business ventures",
+      "Tension in domestic environment"
+    ],
+    "hi": [
+      "विपरीत लिंग और वरिष्ठ परिवार के सदस्यों के साथ भावनात्मक संघर्ष",
+      "आर्थिक समस्याएं और व्यर्थ खर्च",
+      "व्यवसाय के लिए असमय",
+      "घरेलू वातावरण में तनाव"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in family and financial matters",
+        "Avoid fast-moving business ventures",
+        "Be mindful of emotional tensions"
+      ],
+      "hi": [
+        "परिवार और आर्थिक मामलों में सावधानी बरतें",
+        "तेजी से बढ़ने वाले व्यवसाय से बचें",
+        "भावनात्मक तनावों का ध्यान रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on managing ego and emotional conflicts",
+        "Carefully consider financial decisions",
+        "Limit interactions that may cause tension"
+      ],
+      "hi": [
+        "अहंकार और भावनात्मक संघर्षों का प्रबंधन करें",
+        "आर्थिक निर्णय सोच-समझ कर लें",
+        "तनाव उत्पन्न करने वाले संपर्क सीमित करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Emotional tensions may ease",
+        "Financial risks may reduce",
+        "Improved family interactions possible"
+      ],
+      "hi": [
+        "भावनात्मक तनाव कम हो सकते हैं",
+        "आर्थिक जोखिम घट सकते हैं",
+        "परिवार में बेहतर संबंध संभव"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional tension",
+      "ego conflict",
+      "family stress",
+      "financial risk",
+      "relationship difficulty",
+      "wasteful expenditure"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "अहंकार संघर्ष",
+      "पारिवारिक तनाव",
+      "आर्थिक जोखिम",
+      "संबंधों में कठिनाई",
+      "व्यर्थ खर्च"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "tense",
+      "cautious",
+      "emotional"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "तनावपूर्ण",
+      "सावधान",
+      "भावनात्मक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family dynamics",
+      "emotional vs rational conflict",
+      "financial caution",
+      "relationship strain"
+    ],
+    "hi": [
+      "पारिवारिक गतिशीलता",
+      "भावनात्मक और तर्कसंगत संघर्ष",
+      "आर्थिक सावधानी",
+      "संबंधों में तनाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-opp-moo",
+      "core": "This aspect indicates emotional tension and conflicts in family and relationships, with caution advised in financial and business matters.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "सूर्य का चंद्रमा के समविरोध",
+      "core": "यह योग परिवार और संबंधों में भावनात्मक तनाव और संघर्ष दर्शाता है, साथ ही आर्थिक और व्यवसायिक मामलों में सावधानी की सलाह देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Challenges with opposite sex and senior family members cause emotional tension and ego conflicts, leading to family stress and financial caution.",
+        "hi": "विपरीत लिंग और वरिष्ठ परिवार के सदस्यों के साथ कठिनाइयाँ भावनात्मक तनाव और अहंकार संघर्ष उत्पन्न करती हैं, जिससे पारिवारिक तनाव और आर्थिक सावधानी होती है।"
+      },
+      "career": {
+        "en": "Unfavorable time for fast-moving or business ventures; professional caution advised.",
+        "hi": "तेजी से बढ़ने वाले व्यवसाय के लिए असमय; पेशेवर सावधानी आवश्यक।"
+      },
+      "relationships": {
+        "en": "Difficulties with opposite sex and senior family members; emotional conflicts and tension in domestic environment; unfavorable interactions with children.",
+        "hi": "विपरीत लिंग और वरिष्ठ परिवार के सदस्यों के साथ कठिनाइयाँ; घरेलू वातावरण में भावनात्मक तनाव और कलह; बच्चों के साथ व्यवहार के लिए असमय।"
+      },
+      "money": {
+        "en": "Risk of financial problems and wasteful expenditure; careful consideration of family and domestic financial needs.",
+        "hi": "आर्थिक समस्याओं और व्यर्थ खर्च का जोखिम; परिवार और घरेलू वित्तीय आवश्यकताओं को सोच-समझ कर पूरा करें।"
+      },
+      "health_adj": {
+        "en": "Emotional tension and ego conflicts may affect mental well-being; managing stress in family environment is important.",
+        "hi": "भावनात्मक तनाव और अहंकार के टकराव मानसिक स्वास्थ्य को प्रभावित कर सकते हैं; पारिवारिक वातावरण में तनाव प्रबंधन आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Sun opposition Moon",
+      "Sun OPP Moo",
+      "Sun-Opposition-Moon",
+      "Sun Opposition to Moon"
+    ]
+  }
+}

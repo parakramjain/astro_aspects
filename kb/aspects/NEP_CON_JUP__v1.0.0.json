@@ -1,0 +1,253 @@
+{
+  "id": "NEP_CON_JUP__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Conjunction",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period fostering spiritual growth, increased compassion, and creative expression, with connections to religious and charitable environments and exposure to foreign cultures.",
+    "hi": "आध्यात्मिक विकास, उदारता और रचनात्मकता को बढ़ावा देने वाला समय, जिसमें धार्मिक और धर्मार्थ संस्थाओं से संबंध बनते हैं तथा विदेशी संस्कृतियों का संपर्क होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Creativity in artistic fields like painting flourishes; practicality may decline due to emotional and idealistic tendencies affecting professional life.",
+      "hi": "चित्रकारी जैसे कलात्मक क्षेत्रों में रचनात्मकता बढ़ती है; भावुकता और आदर्शवाद के कारण व्यावसायिक जीवन में व्यावहारिकता कम हो सकती है।"
+    },
+    "relationships": {
+      "en": "Growth in generosity and compassion; intense religious feelings influence personal and family relationships.",
+      "hi": "उदारता और दयाभाव में वृद्धि होती है; तीव्र धार्मिक भावनाएं पारिवारिक और व्यक्तिगत संबंधों को प्रभावित करती हैं।"
+    },
+    "money": {
+      "en": "Potential benefits from artistic objects; caution advised against gambling due to reduced practicality.",
+      "hi": "कलात्मक वस्तुओं से लाभ के अवसर रहते हैं; व्यावहारिकता में कमी के कारण जुआ खेलने से बचना चाहिए।"
+    },
+    "health_adj": {
+      "en": "Increased interest in meditation and yoga may support emotional well-being; emotional mentality may reduce practical health focus.",
+      "hi": "ध्यान और योग में रुचि बढ़ती है जो भावनात्मक स्वास्थ्य में सहायक हो सकती है; भावुक मानसिकता से व्यावहारिक स्वास्थ्य पर ध्यान कम हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual growth",
+      "Artistic creativity",
+      "Religious involvement",
+      "Cultural exposure"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "कलात्मक रचनात्मकता",
+      "धार्मिक भागीदारी",
+      "सांस्कृतिक संपर्क"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Reduced practicality may affect family and professional life.",
+      "Avoid gambling during this period."
+    ],
+    "hi": [
+      "व्यावहारिकता में कमी पारिवारिक और पेशेवर जीवन को प्रभावित कर सकती है।",
+      "इस समय में जुआ खेलने से बचें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in meditation and yoga practices.",
+        "Connect with spiritual or charitable organizations.",
+        "Explore artistic creative activities."
+      ],
+      "hi": [
+        "ध्यान और योग का अभ्यास करें।",
+        "आध्यात्मिक या धर्मार्थ संस्थाओं से जुड़ें।",
+        "कलात्मक रचनात्मक गतिविधियों में भाग लें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on spiritual knowledge and compassion.",
+        "Avoid gambling strictly.",
+        "Utilize opportunities related to artistic objects."
+      ],
+      "hi": [
+        "आध्यात्मिक ज्ञान और दया पर ध्यान दें।",
+        "जुआ खेलने से पूरी तरह बचें।",
+        "कलात्मक वस्तुओं से जुड़े अवसरों का लाभ उठाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain balance between emotional ideals and practical responsibilities.",
+        "Continue creative and spiritual pursuits with caution."
+      ],
+      "hi": [
+        "भावनात्मक आदर्शों और व्यावहारिक जिम्मेदारियों के बीच संतुलन बनाए रखें।",
+        "सावधानी के साथ रचनात्मक और आध्यात्मिक कार्य जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "spiritual growth",
+      "compassion",
+      "creativity",
+      "meditation",
+      "yoga",
+      "religious feelings",
+      "charity",
+      "foreign cultures",
+      "artistic objects",
+      "generosity"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "दयाभाव",
+      "रचनात्मकता",
+      "ध्यान",
+      "योग",
+      "धार्मिक भावनाएं",
+      "धर्मार्थ",
+      "विदेशी संस्कृतियां",
+      "कलात्मक वस्तुएं",
+      "उदारता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "spiritual",
+      "creative",
+      "compassionate",
+      "idealistic",
+      "generous"
+    ],
+    "hi": [
+      "आध्यात्मिक",
+      "रचनात्मक",
+      "दयालु",
+      "आदर्शवादी",
+      "उदार"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spirituality",
+      "art",
+      "charity",
+      "meditation",
+      "cultural exchange"
+    ],
+    "hi": [
+      "आध्यात्म",
+      "कला",
+      "धर्मार्थ",
+      "ध्यान",
+      "सांस्कृतिक आदान-प्रदान"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-con-jup",
+      "core": "This aspect highlights spiritual growth, compassion, and artistic creativity, with connections to religious places and exposure to foreign cultures. Practicality may lessen, so caution is advised.",
+      "tone": "Warm, insightful, and balanced"
+    },
+    "hi": {
+      "title": "नेपच्यून संयोजन बृहस्पति",
+      "core": "यह योग आध्यात्मिक विकास, दया और कलात्मक रचनात्मकता को दर्शाता है, जिसमें धार्मिक स्थलों से संबंध और विदेशी संस्कृतियों का संपर्क होता है। व्यावहारिकता कम हो सकती है, इसलिए सावधानी जरूरी है।",
+      "tone": "सहानुभूतिपूर्ण, सूचनात्मक और संतुलित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Opportunities for spiritual knowledge growth, increased compassion, intense religious feelings, and exposure to foreign cultures with creative artistic expression.",
+        "hi": "आध्यात्मिक ज्ञान में वृद्धि, उदारता, तीव्र धार्मिक भावनाएं, विदेशी संस्कृतियों का संपर्क और रचनात्मक कलात्मक अभिव्यक्ति के अवसर।"
+      },
+      "career": {
+        "en": "Highly creative period for painting and artistic pursuits; emotional mentality reduces practicality affecting professional life.",
+        "hi": "चित्रकारी और कलात्मक कार्यों के लिए अत्यंत रचनात्मक समय; भावुक मानसिकता से व्यावसायिक जीवन में व्यावहारिकता कम होती है।"
+      },
+      "relationships": {
+        "en": "Generosity and compassion grow; intense religious feelings influence family and personal relationships.",
+        "hi": "उदारता और दयाभाव बढ़ते हैं; तीव्र धार्मिक भावनाएं पारिवारिक और व्यक्तिगत संबंधों को प्रभावित करती हैं।"
+      },
+      "money": {
+        "en": "Benefits possible from artistic objects; must avoid gambling due to reduced practicality.",
+        "hi": "कलात्मक वस्तुओं से लाभ संभव; व्यावहारिकता कम होने के कारण जुआ से बचना चाहिए।"
+      },
+      "health_adj": {
+        "en": "Interest in meditation and yoga increases, supporting emotional well-being; emotional mentality may reduce practical health focus.",
+        "hi": "ध्यान और योग में रुचि बढ़ती है, जो भावनात्मक स्वास्थ्य में सहायक है; भावुक मानसिकता से व्यावहारिक स्वास्थ्य पर ध्यान कम हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Neptune conjunction Jupiter",
+      "Nep CON Jup",
+      "Neptune-Conjunction-Jupiter",
+      "Neptune Conjunction to Jupiter"
+    ]
+  }
+}

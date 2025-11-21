@@ -1,0 +1,8 @@
+Aspect or Card ID,Error
+MER_TRI_MER__v1.0.0,GPT payload invalid: Missing top-level field: core_meaning
+MOO_CON_NEP__v1.0.0,GPT payload invalid: Missing top-level field: core_meaning
+MOO_TRI_SAT__v1.0.0,GPT payload invalid: Missing top-level field: core_meaning
+PLU_CON_MOO__v1.0.0,GPT payload invalid: Missing top-level field: core_meaning
+PLU_TRI_MOO__v1.0.0,GPT payload invalid: Missing top-level field: core_meaning
+SAT_CON_MAR__v1.0.0,GPT payload invalid: Missing top-level field: core_meaning
+SAT_OPP_SUN__v1.0.0,GPT payload invalid: Missing top-level field: core_meaning

@@ -1,0 +1,263 @@
+{
+  "id": "SAT_TRI_PLU__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Trine",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased concentration and willpower support persistent efforts leading to success. This period reveals secret knowledge related to administration or business and favors spiritual practices and investigation of hidden matters. Opportunities for professional growth and desire for change in business or politics arise.",
+    "hi": "एकाग्रता और इच्छाशक्ति में वृद्धि होती है जिससे निरंतर प्रयास सफल होते हैं। यह समय प्रशासनिक या व्यावसायिक गुप्त जानकारी प्रकट करता है और ध्यान, योग तथा गुप्त विषयों की खोज के लिए अनुकूल होता है। व्यावसायिक उन्नति के अवसर मिलते हैं और व्यक्ति व्यावसायिक या राजनीतिक स्तर पर परिवर्तन चाहता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities for professional growth and expansion appear; person seeks changes at business or political levels.",
+      "hi": "व्यावसायिक स्थिति और कार्य विस्तार के अवसर मिलते हैं; व्यक्ति व्यावसायिक या राजनीतिक स्तर पर परिवर्तन की इच्छा रखता है।"
+    },
+    "relationships": {
+      "en": "No explicit information provided about relationships in this aspect.",
+      "hi": "इस योग में संबंधों के बारे में स्पष्ट जानकारी नहीं दी गई है।"
+    },
+    "money": {
+      "en": "Secret knowledge about administrative or business matters may influence financial decisions positively.",
+      "hi": "प्रशासनिक या व्यावसायिक क्षेत्र की गुप्त जानकारी वित्तीय निर्णयों को सकारात्मक रूप से प्रभावित कर सकती है।"
+    },
+    "health_adj": {
+      "en": "Favorable time for meditation, yoga, and spiritual discipline promoting mental and emotional well-being.",
+      "hi": "ध्यान, योग और आध्यात्मिक अनुशासन के लिए अनुकूल समय जो मानसिक और भावनात्मक स्वास्थ्य को बढ़ावा देता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional growth",
+      "Spiritual progress",
+      "Investigation of hidden matters",
+      "Business or political changes"
+    ],
+    "hi": [
+      "व्यावसायिक उन्नति",
+      "आध्यात्मिक प्रगति",
+      "गुप्त रहस्यों की खोज",
+      "व्यावसायिक या राजनीतिक परिवर्तन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No specific risks mentioned; caution advised when dealing with confidential legal matters."
+    ],
+    "hi": [
+      "कोई विशेष जोखिम नहीं बताया गया; गोपनीय कानूनी कार्यवाही में सावधानी बरतनी चाहिए।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in persistent efforts toward goals",
+        "Explore secret or confidential information carefully",
+        "Practice meditation, yoga, or spiritual disciplines"
+      ],
+      "hi": [
+        "लक्ष्यों की प्राप्ति के लिए निरंतर प्रयास करें",
+        "गुप्त या गोपनीय जानकारी सावधानी से खोजें",
+        "ध्यान, योग या आध्यात्मिक अनुशासन का अभ्यास करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on uncovering hidden knowledge",
+        "Initiate or deepen spiritual practices",
+        "Pursue professional growth opportunities"
+      ],
+      "hi": [
+        "गुप्त जानकारी उजागर करने पर ध्यान दें",
+        "आध्यात्मिक अभ्यास शुरू करें या गहरा करें",
+        "व्यावसायिक उन्नति के अवसरों का पीछा करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain efforts toward goals despite challenges",
+        "Continue spiritual discipline and investigation of matters"
+      ],
+      "hi": [
+        "चुनौतियों के बावजूद लक्ष्यों के प्रति प्रयास जारी रखें",
+        "आध्यात्मिक अनुशासन और खोज जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "concentration",
+      "willpower",
+      "persistence",
+      "secret knowledge",
+      "administration",
+      "business",
+      "meditation",
+      "yoga",
+      "spiritual discipline",
+      "investigation",
+      "professional growth",
+      "expansion",
+      "change",
+      "politics"
+    ],
+    "hi": [
+      "एकाग्रता",
+      "इच्छाशक्ति",
+      "निरंतरता",
+      "गुप्त जानकारी",
+      "प्रशासन",
+      "व्यवसाय",
+      "ध्यान",
+      "योग",
+      "आध्यात्मिक अनुशासन",
+      "खोज",
+      "व्यावसायिक उन्नति",
+      "कार्य विस्तार",
+      "परिवर्तन",
+      "राजनीति"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "focused",
+      "persistent",
+      "revealing",
+      "spiritual",
+      "investigative",
+      "growth-oriented"
+    ],
+    "hi": [
+      "अनुकूल",
+      "एकाग्र",
+      "निरंतर",
+      "प्रकट करने वाला",
+      "आध्यात्मिक",
+      "खोजपूर्ण",
+      "विकासोन्मुख"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual progress",
+      "professional development",
+      "secret knowledge",
+      "legal confidentiality",
+      "business and political change"
+    ],
+    "hi": [
+      "आध्यात्मिक प्रगति",
+      "व्यावसायिक विकास",
+      "गुप्त जानकारी",
+      "कानूनी गोपनीयता",
+      "व्यवसायिक और राजनीतिक परिवर्तन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-tri-plu",
+      "core": "This aspect enhances concentration and willpower, supporting persistent efforts that lead to success. It reveals secret knowledge related to administration and business, favors spiritual disciplines, and opens opportunities for professional growth and change.",
+      "tone": "Warm, encouraging, and focused on growth and discovery."
+    },
+    "hi": {
+      "title": "शनि त्रिकोण प्लूटो",
+      "core": "यह योग एकाग्रता और इच्छाशक्ति को बढ़ाता है, जिससे निरंतर प्रयास सफल होते हैं। यह प्रशासन और व्यवसाय से जुड़ी गुप्त जानकारी प्रकट करता है, आध्यात्मिक अनुशासन के लिए अनुकूल है और व्यावसायिक विकास तथा परिवर्तन के अवसर प्रदान करता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, विकास और खोज पर केंद्रित।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Increased concentration and willpower support persistent efforts leading to success. This period reveals secret knowledge related to administration or business and favors spiritual practices and investigation of hidden matters.",
+        "hi": "एकाग्रता और इच्छाशक्ति में वृद्धि होती है जिससे निरंतर प्रयास सफल होते हैं। यह समय प्रशासनिक या व्यावसायिक गुप्त जानकारी प्रकट करता है और ध्यान, योग तथा गुप्त विषयों की खोज के लिए अनुकूल होता है।"
+      },
+      "career": {
+        "en": "Opportunities for professional growth and expansion appear; person seeks changes at business or political levels.",
+        "hi": "व्यावसायिक स्थिति और कार्य विस्तार के अवसर मिलते हैं; व्यक्ति व्यावसायिक या राजनीतिक स्तर पर परिवर्तन की इच्छा रखता है।"
+      },
+      "relationships": {
+        "en": "No explicit information provided about relationships in this aspect.",
+        "hi": "इस योग में संबंधों के बारे में स्पष्ट जानकारी नहीं दी गई है।"
+      },
+      "money": {
+        "en": "Secret knowledge about administrative or business matters may influence financial decisions positively.",
+        "hi": "प्रशासनिक या व्यावसायिक क्षेत्र की गुप्त जानकारी वित्तीय निर्णयों को सकारात्मक रूप से प्रभावित कर सकती है।"
+      },
+      "health_adj": {
+        "en": "Favorable time for meditation, yoga, and spiritual discipline promoting mental and emotional well-being.",
+        "hi": "ध्यान, योग और आध्यात्मिक अनुशासन के लिए अनुकूल समय जो मानसिक और भावनात्मक स्वास्थ्य को बढ़ावा देता है।"
+      }
+    },
+    "aliases": [
+      "Saturn trine Pluto",
+      "Sat TRI Plu",
+      "Saturn-Trine-Pluto",
+      "Saturn Trine to Pluto"
+    ]
+  }
+}

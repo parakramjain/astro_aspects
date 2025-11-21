@@ -1,0 +1,239 @@
+{
+  "id": "MOO_CON_SUN__v1.0.0",
+  "pair": [
+    "Moon",
+    "Conjunction",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This period increases activity in family, domestic, and private settings, favoring family progress, social work, property acquisition, conception for women, and agricultural initiatives.",
+    "hi": "यह समय पारिवारिक, घरेलू और निजी परिवेश में सक्रियता बढ़ाता है, जो पारिवारिक उन्नति, सामाजिक कार्य, संपत्ति प्राप्ति, महिलाओं के लिए गर्भ धारण और कृषि कार्यों के लिए अनुकूल है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities to initiate social work and agricultural activities may arise.",
+      "hi": "सामाजिक कार्य और कृषि से संबंधित कार्य शुरू करने के अवसर मिल सकते हैं।"
+    },
+    "relationships": {
+      "en": "Increased engagement within family and private relationships is likely.",
+      "hi": "पारिवारिक और निजी संबंधों में सक्रियता बढ़ने की संभावना है।"
+    },
+    "money": {
+      "en": "Favorable time for acquiring property and related financial progress.",
+      "hi": "संपत्ति प्राप्ति और उससे जुड़ी आर्थिक उन्नति के लिए शुभ समय।"
+    },
+    "health_adj": {
+      "en": "Potentially favorable period for conception for women; no specific health risks noted.",
+      "hi": "महिलाओं के लिए गर्भ धारण का उपयुक्त समय हो सकता है; कोई विशेष स्वास्थ्य जोखिम नहीं बताए गए हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family progress",
+      "Social work",
+      "Property acquisition",
+      "Conception (for women)",
+      "Agricultural activities"
+    ],
+    "hi": [
+      "पारिवारिक उन्नति",
+      "सामाजिक कार्य",
+      "संपत्ति प्राप्ति",
+      "गर्भ धारण (महिलाओं के लिए)",
+      "कृषि कार्य"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage actively in family and domestic matters",
+        "Begin social work projects",
+        "Start agricultural or farming activities"
+      ],
+      "hi": [
+        "पारिवारिक और घरेलू मामलों में सक्रियता दिखाएं",
+        "सामाजिक कार्य शुरू करें",
+        "कृषि या खेती के कार्य प्रारंभ करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on family progress and property acquisition",
+        "Consider conception if applicable"
+      ],
+      "hi": [
+        "पारिवारिक उन्नति और संपत्ति प्राप्ति पर ध्यान दें",
+        "यदि उपयुक्त हो तो गर्भ धारण पर विचार करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain family and social engagements",
+        "Continue agricultural activities"
+      ],
+      "hi": [
+        "पारिवारिक और सामाजिक संपर्क बनाए रखें",
+        "कृषि कार्य जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "family",
+      "domestic",
+      "private",
+      "social work",
+      "property",
+      "conception",
+      "agriculture",
+      "farming"
+    ],
+    "hi": [
+      "पारिवारिक",
+      "घरेलू",
+      "निजी",
+      "सामाजिक कार्य",
+      "संपत्ति",
+      "गर्भ धारण",
+      "कृषि",
+      "खेती"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "active",
+      "progressive"
+    ],
+    "hi": [
+      "अनुकूल",
+      "सक्रिय",
+      "प्रगतिशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family engagement",
+      "social contribution",
+      "property acquisition",
+      "fertility",
+      "agriculture"
+    ],
+    "hi": [
+      "पारिवारिक जुड़ाव",
+      "सामाजिक योगदान",
+      "संपत्ति प्राप्ति",
+      "प्रजनन",
+      "कृषि"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-con-sun",
+      "core": "A time of increased activity in family and private life, supporting progress in family, social work, property, conception, and agriculture.",
+      "tone": "Warm, encouraging, and neutral"
+    },
+    "hi": {
+      "title": "चंद्रमा संयोजन सूर्य",
+      "core": "पारिवारिक और निजी जीवन में सक्रियता बढ़ाने वाला समय, जो परिवार, सामाजिक कार्य, संपत्ति, गर्भ धारण और कृषि में प्रगति का समर्थन करता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और तटस्थ"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period increases activity in family, domestic, and private settings, favoring family progress, social work, property acquisition, conception for women, and agricultural initiatives.",
+        "hi": "यह समय पारिवारिक, घरेलू और निजी परिवेश में सक्रियता बढ़ाता है, जो पारिवारिक उन्नति, सामाजिक कार्य, संपत्ति प्राप्ति, महिलाओं के लिए गर्भ धारण और कृषि कार्यों के लिए अनुकूल है।"
+      },
+      "career": {
+        "en": "Opportunities to initiate social work and agricultural activities may arise.",
+        "hi": "सामाजिक कार्य और कृषि से संबंधित कार्य शुरू करने के अवसर मिल सकते हैं।"
+      },
+      "relationships": {
+        "en": "Increased engagement within family and private relationships is likely.",
+        "hi": "पारिवारिक और निजी संबंधों में सक्रियता बढ़ने की संभावना है।"
+      },
+      "money": {
+        "en": "Favorable time for acquiring property and related financial progress.",
+        "hi": "संपत्ति प्राप्ति और उससे जुड़ी आर्थिक उन्नति के लिए शुभ समय।"
+      },
+      "health_adj": {
+        "en": "Potentially favorable period for conception for women; no specific health risks noted.",
+        "hi": "महिलाओं के लिए गर्भ धारण का उपयुक्त समय हो सकता है; कोई विशेष स्वास्थ्य जोखिम नहीं बताए गए हैं।"
+      }
+    },
+    "aliases": [
+      "Moon conjunction Sun",
+      "Moo CON Sun",
+      "Moon-Conjunction-Sun",
+      "Moon Conjunction to Sun"
+    ]
+  }
+}

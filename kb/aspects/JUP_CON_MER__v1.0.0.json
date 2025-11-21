@@ -1,0 +1,249 @@
+{
+  "id": "JUP_CON_MER__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Conjunction",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Supports long-term planning, career success, optimism, and educational pursuits; enhances interest in religion, philosophy, foreign cultures, and higher education; favorable for writing, speaking, publishing, and promotions.",
+    "hi": "दीर्घकालिक योजना, करियर सफलता, आशावाद और शैक्षणिक गतिविधियों के लिए अनुकूल; धार्मिकता, दर्शनशास्त्र, विदेशी संस्कृति और उच्च शिक्षा में रुचि बढ़ाता है; लेखन, बोलने, प्रकाशन और प्रचार के लिए अच्छा समय।"
+  },
+  "facets": {
+    "career": {
+      "en": "Encourages career advancement, success in professional activities, and opportunities for promotion.",
+      "hi": "करियर में उन्नति, व्यावसायिक गतिविधियों में सफलता और पदोन्नति के अवसर मिलते हैं।"
+    },
+    "relationships": {
+      "en": "Fosters optimistic and positive communication; supports sharing ideas and cultural interests.",
+      "hi": "आशावादी और सकारात्मक संवाद को बढ़ावा देता है; विचारों और सांस्कृतिक रुचियों के आदान-प्रदान में सहायक।"
+    },
+    "money": {
+      "en": "Potentially favorable for financial gains related to publishing, speaking engagements, or educational services.",
+      "hi": "प्रकाशन, भाषण या शैक्षिक सेवाओं से संबंधित वित्तीय लाभ के लिए अनुकूल।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; generally supports mental optimism and clarity.",
+      "hi": "विशेष स्वास्थ्य समायोजन नहीं; सामान्यतः मानसिक आशावाद और स्पष्टता को बढ़ावा देता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Long-term planning",
+      "Career success",
+      "Educational activities",
+      "Writing and publishing",
+      "Promotions"
+    ],
+    "hi": [
+      "दीर्घकालिक योजना",
+      "करियर सफलता",
+      "शैक्षणिक गतिविधियाँ",
+      "लेखन और प्रकाशन",
+      "प्रचार"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks noted; maintain balanced optimism without overextension."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; संतुलित आशावाद बनाए रखें, अतिआत्मविश्वास से बचें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in long-term career and educational planning.",
+        "Pursue writing, speaking, and publishing opportunities.",
+        "Explore interests in religion, philosophy, and foreign cultures."
+      ],
+      "hi": [
+        "दीर्घकालिक करियर और शैक्षणिक योजना बनाएं।",
+        "लेखन, बोलने और प्रकाशन के अवसरों का लाभ उठाएं।",
+        "धर्म, दर्शनशास्त्र और विदेशी संस्कृति में रुचि बढ़ाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on optimism and clear communication.",
+        "Initiate projects related to education and publishing."
+      ],
+      "hi": [
+        "आशावाद और स्पष्ट संवाद पर ध्यान दें।",
+        "शिक्षा और प्रकाशन से जुड़े प्रोजेक्ट शुरू करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain momentum in ongoing educational or career efforts.",
+        "Continue to nurture philosophical and cultural interests."
+      ],
+      "hi": [
+        "चल रही शैक्षणिक या करियर गतिविधियों में गति बनाए रखें।",
+        "दर्शन और सांस्कृतिक रुचियों को बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "long-term planning",
+      "career success",
+      "optimism",
+      "education",
+      "religion",
+      "philosophy",
+      "foreign cultures",
+      "writing",
+      "speaking",
+      "publishing",
+      "promotions"
+    ],
+    "hi": [
+      "दीर्घकालिक योजना",
+      "करियर सफलता",
+      "आशावाद",
+      "शिक्षा",
+      "धर्म",
+      "दर्शनशास्त्र",
+      "विदेशी संस्कृति",
+      "लेखन",
+      "बोलना",
+      "प्रकाशन",
+      "प्रचार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "optimistic",
+      "educational",
+      "promotional"
+    ],
+    "hi": [
+      "सहायक",
+      "आशावादी",
+      "शैक्षणिक",
+      "प्रचारात्मक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "career growth",
+      "intellectual expansion",
+      "cultural interest",
+      "communication"
+    ],
+    "hi": [
+      "करियर विकास",
+      "बौद्धिक विस्तार",
+      "सांस्कृतिक रुचि",
+      "संचार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-con-mer",
+      "core": "A favorable period for long-term planning, career success, optimism, and educational activities, enhancing interests in religion, philosophy, and foreign cultures, and supporting writing, speaking, publishing, and promotions.",
+      "tone": "Warm, encouraging, and optimistic."
+    },
+    "hi": {
+      "title": "बृहस्पति संयोजन बुध",
+      "core": "दीर्घकालिक योजना, करियर सफलता, आशावाद और शैक्षणिक गतिविधियों के लिए अनुकूल समय, जो धर्म, दर्शनशास्त्र और विदेशी संस्कृति में रुचि बढ़ाता है तथा लेखन, बोलने, प्रकाशन और प्रचार में सहायक होता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और आशावादी।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Supports long-term planning, career success, optimism, and educational pursuits; enhances interest in religion, philosophy, foreign cultures, and higher education; favorable for writing, speaking, publishing, and promotions.",
+        "hi": "दीर्घकालिक योजना, करियर सफलता, आशावाद और शैक्षणिक गतिविधियों के लिए अनुकूल; धार्मिकता, दर्शनशास्त्र, विदेशी संस्कृति और उच्च शिक्षा में रुचि बढ़ाता है; लेखन, बोलने, प्रकाशन और प्रचार के लिए अच्छा समय।"
+      },
+      "career": {
+        "en": "Encourages career advancement, success in professional activities, and opportunities for promotion.",
+        "hi": "करियर में उन्नति, व्यावसायिक गतिविधियों में सफलता और पदोन्नति के अवसर मिलते हैं।"
+      },
+      "relationships": {
+        "en": "Fosters optimistic and positive communication; supports sharing ideas and cultural interests.",
+        "hi": "आशावादी और सकारात्मक संवाद को बढ़ावा देता है; विचारों और सांस्कृतिक रुचियों के आदान-प्रदान में सहायक।"
+      },
+      "money": {
+        "en": "Potentially favorable for financial gains related to publishing, speaking engagements, or educational services.",
+        "hi": "प्रकाशन, भाषण या शैक्षिक सेवाओं से संबंधित वित्तीय लाभ के लिए अनुकूल।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; generally supports mental optimism and clarity.",
+        "hi": "विशेष स्वास्थ्य समायोजन नहीं; सामान्यतः मानसिक आशावाद और स्पष्टता को बढ़ावा देता है।"
+      }
+    },
+    "aliases": [
+      "Jupiter conjunction Mercury",
+      "Jup CON Mer",
+      "Jupiter-Conjunction-Mercury",
+      "Jupiter Conjunction to Mercury"
+    ]
+  }
+}

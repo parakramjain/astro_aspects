@@ -1,0 +1,245 @@
+{
+  "id": "URA_SQR_NEP__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Square",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Mental instability and irregular lifestyle cause conflicts and aimlessness, with sudden negative thoughts emerging. Exercise is harmful and should be avoided.",
+    "hi": "अस्थिर मानसिकता और अनियमित जीवन में द्वंद्व और लक्ष्यहीनता होती है, साथ ही अचानक नकारात्मक विचार उभरते हैं। इस समय व्यायाम हानिकारक होता है और इससे बचना चाहिए।"
+  },
+  "facets": {
+    "career": {
+      "en": "Conflicts and irregular behavior may disrupt career focus and progress.",
+      "hi": "द्वंद्व और अनियमित व्यवहार से करियर पर ध्यान और प्रगति प्रभावित हो सकती है।"
+    },
+    "relationships": {
+      "en": "Emotional instability and irresponsibility may cause tension and aimlessness in relationships.",
+      "hi": "भावुक अस्थिरता और गैर-जिम्मेदारी से संबंधों में तनाव और लक्ष्यहीनता हो सकती है।"
+    },
+    "money": {
+      "en": "Irregular lifestyle and mental conflicts can lead to poor financial decisions or aimlessness in money matters.",
+      "hi": "अनियमित जीवनशैली और मानसिक द्वंद्व से वित्तीय निर्णयों में अस्थिरता या लक्ष्यहीनता हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Exercise is highly detrimental during this period and should be avoided to prevent harm.",
+      "hi": "इस समय व्यायाम अत्यंत हानिकारक होता है, इसलिए इससे बचना चाहिए।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Mental conflicts",
+      "Irresponsibility",
+      "Aimlessness"
+    ],
+    "hi": [
+      "मानसिक द्वंद्व",
+      "गैर-जिम्मेदारी",
+      "लक्ष्यहीनता"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Sudden emergence of negative thoughts",
+      "Mental instability",
+      "Harm from exercise"
+    ],
+    "hi": [
+      "अचानक नकारात्मक विचारों का उभरना",
+      "मानसिक अस्थिरता",
+      "व्यायाम से हानि"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Avoid exercise",
+        "Stay mindful of mental state",
+        "Avoid impulsive decisions"
+      ],
+      "hi": [
+        "व्यायाम से बचें",
+        "मानसिक स्थिति पर ध्यान दें",
+        "आवेगपूर्ण निर्णय न लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Refrain from exercise",
+        "Monitor for sudden negative thoughts",
+        "Maintain focus on goals"
+      ],
+      "hi": [
+        "व्यायाम न करें",
+        "अचानक नकारात्मक विचारों पर नजर रखें",
+        "लक्ष्यों पर ध्यान बनाए रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually resume exercise with caution",
+        "Reflect on mental clarity",
+        "Reassess goals and plans"
+      ],
+      "hi": [
+        "सावधानी से व्यायाम पुनः शुरू करें",
+        "मानसिक स्पष्टता पर विचार करें",
+        "लक्ष्यों और योजनाओं का पुनर्मूल्यांकन करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Mental instability",
+      "Irresponsibility",
+      "Irregular lifestyle",
+      "Conflicts",
+      "Negative thoughts",
+      "Aimlessness",
+      "Avoid exercise"
+    ],
+    "hi": [
+      "अस्थिर मानसिकता",
+      "गैर-जिम्मेदारी",
+      "अनियमित जीवनशैली",
+      "द्वंद्व",
+      "नकारात्मक विचार",
+      "लक्ष्यहीनता",
+      "व्यायाम से बचें"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Emotional",
+      "Unstable",
+      "Conflicted",
+      "Cautious"
+    ],
+    "hi": [
+      "भावुक",
+      "अस्थिर",
+      "द्वंद्वपूर्ण",
+      "सावधान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Mental conflict",
+      "Emotional instability",
+      "Health caution",
+      "Goal distraction"
+    ],
+    "hi": [
+      "मानसिक द्वंद्व",
+      "भावुक अस्थिरता",
+      "स्वास्थ्य सावधानी",
+      "लक्ष्य विचलन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-squ-nep",
+      "core": "Mental instability and irregular lifestyle cause conflicts and aimlessness, with sudden negative thoughts emerging. Exercise is harmful and should be avoided.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "यूरेनस स्क्वायर नेपच्यून",
+      "core": "अस्थिर मानसिकता और अनियमित जीवन में द्वंद्व और लक्ष्यहीनता होती है, साथ ही अचानक नकारात्मक विचार उभरते हैं। इस समय व्यायाम हानिकारक होता है और इससे बचना चाहिए।",
+      "tone": "निष्पक्ष, सावधान और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Mental instability and irregular lifestyle cause conflicts and aimlessness, with sudden negative thoughts emerging. Exercise is harmful and should be avoided.",
+        "hi": "अस्थिर मानसिकता और अनियमित जीवन में द्वंद्व और लक्ष्यहीनता होती है, साथ ही अचानक नकारात्मक विचार उभरते हैं। इस समय व्यायाम हानिकारक होता है और इससे बचना चाहिए।"
+      },
+      "career": {
+        "en": "Conflicts and irregular behavior may disrupt career focus and progress.",
+        "hi": "द्वंद्व और अनियमित व्यवहार से करियर पर ध्यान और प्रगति प्रभावित हो सकती है।"
+      },
+      "relationships": {
+        "en": "Emotional instability and irresponsibility may cause tension and aimlessness in relationships.",
+        "hi": "भावुक अस्थिरता और गैर-जिम्मेदारी से संबंधों में तनाव और लक्ष्यहीनता हो सकती है।"
+      },
+      "money": {
+        "en": "Irregular lifestyle and mental conflicts can lead to poor financial decisions or aimlessness in money matters.",
+        "hi": "अनियमित जीवनशैली और मानसिक द्वंद्व से वित्तीय निर्णयों में अस्थिरता या लक्ष्यहीनता हो सकती है।"
+      },
+      "health_adj": {
+        "en": "Exercise is highly detrimental during this period and should be avoided to prevent harm.",
+        "hi": "इस समय व्यायाम अत्यंत हानिकारक होता है, इसलिए इससे बचना चाहिए।"
+      }
+    },
+    "aliases": [
+      "Uranus square Neptune",
+      "Ura SQR Nep",
+      "Uranus-Square-Neptune",
+      "Uranus Square to Neptune"
+    ]
+  }
+}

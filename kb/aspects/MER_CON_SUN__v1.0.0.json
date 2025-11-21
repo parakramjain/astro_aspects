@@ -1,0 +1,243 @@
+{
+  "id": "MER_CON_SUN__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Conjunction",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect enhances self-confidence, clarity of thought, and intellectual perspective, improving reasoning and decision-making, which supports success in education, writing, and scientific work. However, unfavorable conditions may cause mental restlessness and confusion.",
+    "hi": "यह योग आत्मविश्वास, विचारों की स्पष्टता और बौद्धिक दृष्टिकोण को बढ़ाता है, जिससे तर्कशक्ति और निर्णय क्षमता में सुधार होता है, जो शिक्षा, लेखन और वैज्ञानिक कार्यों में सफलता में सहायक होता है। परंतु प्रतिकूल परिस्थितियों में मानसिक बेचैनी और भ्रम की स्थिति हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Improved logical reasoning and decision-making aid success in education, writing, and scientific activities.",
+      "hi": "तर्कशक्ति और निर्णय क्षमता में सुधार शिक्षा, लेखन और वैज्ञानिक गतिविधियों में सफलता में मदद करता है।"
+    },
+    "relationships": {
+      "en": "Increased clarity of thought may improve communication, but mental restlessness could cause misunderstandings if conditions are adverse.",
+      "hi": "विचारों की स्पष्टता संचार में सुधार कर सकती है, परंतु प्रतिकूल परिस्थितियों में मानसिक बेचैनी से गलतफहमी हो सकती है।"
+    },
+    "money": {
+      "en": "Enhanced intellectual outlook supports sound financial decisions, though caution is advised during mental confusion.",
+      "hi": "बौद्धिक दृष्टिकोण वित्तीय निर्णयों को समर्थन देता है, लेकिन भ्रम की स्थिति में सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Mental restlessness and confusion may affect mental well-being if circumstances are unfavorable.",
+      "hi": "यदि परिस्थितियाँ प्रतिकूल हों तो मानसिक बेचैनी और भ्रम मानसिक स्वास्थ्य को प्रभावित कर सकते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational achievements",
+      "Writing projects",
+      "Scientific endeavors"
+    ],
+    "hi": [
+      "शैक्षिक उपलब्धियाँ",
+      "लेखन परियोजनाएँ",
+      "वैज्ञानिक प्रयास"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential for mental restlessness",
+      "Possible confusion under adverse conditions"
+    ],
+    "hi": [
+      "मानसिक बेचैनी की संभावना",
+      "प्रतिकूल परिस्थितियों में भ्रम हो सकता है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on intellectual tasks and decision-making",
+        "Engage in educational or scientific activities"
+      ],
+      "hi": [
+        "बौद्धिक कार्यों और निर्णय लेने पर ध्यान दें",
+        "शैक्षिक या वैज्ञानिक गतिविधियों में भाग लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize peak clarity and confidence for important decisions",
+        "Pursue writing or research projects"
+      ],
+      "hi": [
+        "महत्वपूर्ण निर्णयों के लिए स्पष्टता और आत्मविश्वास का उपयोग करें",
+        "लेखन या शोध परियोजनाओं को आगे बढ़ाएँ"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Monitor for mental restlessness",
+        "Avoid making decisions if confused"
+      ],
+      "hi": [
+        "मानसिक बेचैनी पर ध्यान दें",
+        "यदि भ्रम हो तो निर्णय लेने से बचें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "self-confidence",
+      "clarity",
+      "intellect",
+      "reasoning",
+      "decision-making",
+      "education",
+      "writing",
+      "science",
+      "mental restlessness",
+      "confusion"
+    ],
+    "hi": [
+      "आत्मविश्वास",
+      "स्पष्टता",
+      "बौद्धिकता",
+      "तर्कशक्ति",
+      "निर्णय क्षमता",
+      "शिक्षा",
+      "लेखन",
+      "विज्ञान",
+      "मानसिक बेचैनी",
+      "भ्रम"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intellectual",
+      "confident",
+      "logical",
+      "potentially restless"
+    ],
+    "hi": [
+      "बौद्धिक",
+      "आत्मविश्वासी",
+      "तार्किक",
+      "संभावित बेचैन"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental clarity",
+      "intellectual growth",
+      "educational success",
+      "risk of confusion"
+    ],
+    "hi": [
+      "मानसिक स्पष्टता",
+      "बौद्धिक विकास",
+      "शैक्षिक सफलता",
+      "भ्रम का जोखिम"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-con-sun",
+      "core": "This aspect boosts self-confidence and clarity of thought, enhancing reasoning and decision-making, which supports success in education, writing, and science. Unfavorable conditions may cause mental restlessness and confusion.",
+      "tone": "Warm, neutral, and encouraging with gentle caution."
+    },
+    "hi": {
+      "title": "बुध संयोजन सूर्य",
+      "core": "यह योग आत्मविश्वास और विचारों की स्पष्टता बढ़ाता है, तर्कशक्ति और निर्णय क्षमता में सुधार करता है, जो शिक्षा, लेखन और विज्ञान में सफलता में सहायक होता है। प्रतिकूल परिस्थितियों में मानसिक बेचैनी और भ्रम हो सकता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला, साथ ही सौम्य सावधानी।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Enhances self-confidence, clarity, and intellectual outlook, improving reasoning and decision-making, aiding success in education, writing, and science; may cause mental restlessness and confusion if conditions are unfavorable.",
+        "hi": "आत्मविश्वास, स्पष्टता और बौद्धिक दृष्टिकोण को बढ़ाता है, तर्कशक्ति और निर्णय क्षमता में सुधार करता है, शिक्षा, लेखन और विज्ञान में सफलता में मदद करता है; प्रतिकूल परिस्थितियों में मानसिक बेचैनी और भ्रम हो सकता है।"
+      },
+      "career": {
+        "en": "Improved logical reasoning and decision-making support success in educational, writing, and scientific fields.",
+        "hi": "तर्कशक्ति और निर्णय क्षमता में सुधार शैक्षिक, लेखन और वैज्ञानिक क्षेत्रों में सफलता को समर्थन देता है।"
+      },
+      "relationships": {
+        "en": "Clarity of thought may enhance communication; mental restlessness under adverse conditions can cause misunderstandings.",
+        "hi": "विचारों की स्पष्टता संचार को बेहतर बना सकती है; प्रतिकूल परिस्थितियों में मानसिक बेचैनी से गलतफहमी हो सकती है।"
+      },
+      "money": {
+        "en": "Intellectual outlook aids sound financial decisions; caution advised during mental confusion.",
+        "hi": "बौद्धिक दृष्टिकोण वित्तीय निर्णयों में सहायता करता है; भ्रम की स्थिति में सावधानी आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "Mental restlessness and confusion may impact mental well-being if circumstances are unfavorable.",
+        "hi": "यदि परिस्थितियाँ प्रतिकूल हों तो मानसिक बेचैनी और भ्रम मानसिक स्वास्थ्य को प्रभावित कर सकते हैं।"
+      }
+    },
+    "aliases": [
+      "Mercury conjunction Sun",
+      "Mer CON Sun",
+      "Mercury-Conjunction-Sun",
+      "Mercury Conjunction to Sun"
+    ]
+  }
+}

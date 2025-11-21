@@ -1,0 +1,247 @@
+{
+  "id": "VEN_SQR_SUN__v1.0.0",
+  "pair": [
+    "Venus",
+    "Square",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Dissatisfaction and unnecessary expenses arise from seeking happiness through wrong means, causing problems including possible losses related to children. Emotional confusion and shortsighted behavior may lead to financial strain and hurt feelings in social contexts.",
+    "hi": "असंतोष और व्यर्थ खर्च गलत रास्तों से सुख प्राप्ति की कोशिश से उत्पन्न होते हैं, जिससे बच्चों से संबंधित नुकसान सहित समस्याएँ होती हैं। भावनात्मक भ्रम और अदूरदर्शी व्यवहार आर्थिक तनाव और सामाजिक मामलों में भावनाओं को ठेस पहुँचाते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Lack of effort and procrastination on dissatisfying or economic tasks may affect work performance.",
+      "hi": "परिश्रम की कमी और आर्थिक या असंतोषजनक कार्यों को टालना कार्य प्रदर्शन को प्रभावित कर सकता है।"
+    },
+    "relationships": {
+      "en": "Emotional hurt in social issues and seeking praise or attention from others can cause strain.",
+      "hi": "सामाजिक समस्याओं में भावनाओं को ठेस पहुँचना और दूसरों से प्रशंसा या आकर्षण प्राप्त करने की कोशिश तनाव उत्पन्न कर सकती है।"
+    },
+    "money": {
+      "en": "Excessive spending to gain social approval or on exaggerated customs may lead to losses and financial difficulties.",
+      "hi": "सामाजिक स्वीकृति पाने या बढ़-चढ़ कर रीति-रिवाजों पर खर्च करना नुकसान और आर्थिक कठिनाइयाँ ला सकता है।"
+    },
+    "health_adj": {
+      "en": "Emotional confusion and dissatisfaction may impact mental well-being.",
+      "hi": "भावनात्मक भ्रम और असंतोष मानसिक स्वास्थ्य पर प्रभाव डाल सकते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Financial strain",
+      "Social conflicts",
+      "Losses related to children",
+      "Emotional challenges"
+    ],
+    "hi": [
+      "आर्थिक तनाव",
+      "सामाजिक विवाद",
+      "बच्चों से संबंधित नुकसान",
+      "भावनात्मक चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Unnecessary expenses leading to financial loss",
+      "Emotional hurt in social situations",
+      "Shortsighted decisions causing problems",
+      "Avoidance or procrastination of important tasks"
+    ],
+    "hi": [
+      "व्यर्थ खर्च से आर्थिक नुकसान",
+      "सामाजिक स्थितियों में भावनात्मक ठेस",
+      "अदूरदर्शी निर्णयों से समस्या",
+      "महत्वपूर्ण कार्यों से बचाव या टालमटोल"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of spending motivated by social approval",
+        "Avoid shortcuts or wrong means to seek happiness",
+        "Address emotional confusion through reflection"
+      ],
+      "hi": [
+        "सामाजिक स्वीकृति के लिए खर्च में सावधानी रखें",
+        "सुख पाने के लिए गलत रास्तों से बचें",
+        "भावनात्मक भ्रम को चिंतन से समझें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Recognize and limit unnecessary expenses",
+        "Confront dissatisfaction rather than procrastinate",
+        "Communicate openly to reduce social emotional hurt"
+      ],
+      "hi": [
+        "व्यर्थ खर्च को पहचानें और सीमित करें",
+        "असंतोष का सामना करें, टालें नहीं",
+        "सामाजिक भावनात्मक ठेस कम करने के लिए खुलकर संवाद करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past impulsive spending and its causes",
+        "Learn from emotional confusion in social events",
+        "Plan economic tasks carefully to avoid procrastination"
+      ],
+      "hi": [
+        "अतीत के आवेगपूर्ण खर्च और कारणों पर विचार करें",
+        "सामाजिक घटनाओं में भावनात्मक भ्रम से सीखें",
+        "आर्थिक कार्यों की योजना सावधानी से बनाएं ताकि टालमटोल न हो"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "dissatisfaction",
+      "unnecessary expenses",
+      "emotional confusion",
+      "social attention",
+      "shortsighted behavior",
+      "procrastination"
+    ],
+    "hi": [
+      "असंतोष",
+      "व्यर्थ खर्च",
+      "भावनात्मक भ्रम",
+      "सामाजिक आकर्षण",
+      "अदूरदर्शी व्यवहार",
+      "टालमटोल"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "emotional",
+      "financial caution",
+      "social sensitivity"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "आर्थिक सावधानी",
+      "सामाजिक संवेदनशीलता"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "financial strain",
+      "social dynamics",
+      "emotional complexity",
+      "behavioral caution"
+    ],
+    "hi": [
+      "आर्थिक तनाव",
+      "सामाजिक गतिशीलता",
+      "भावनात्मक जटिलता",
+      "व्यवहारिक सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-squ-sun",
+      "core": "Challenges arise from dissatisfaction and unnecessary expenses linked to seeking happiness through improper means, affecting social and financial aspects.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "शुक्र वर्ग सूर्य",
+      "core": "असंतोष और गलत तरीकों से सुख की खोज से व्यर्थ खर्च और समस्याएँ उत्पन्न होती हैं, जो सामाजिक और आर्थिक पक्षों को प्रभावित करती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Dissatisfaction and unnecessary expenses arise from seeking happiness through wrong means, causing problems including possible losses related to children. Emotional confusion and shortsighted behavior may lead to financial strain and hurt feelings in social contexts.",
+        "hi": "असंतोष और व्यर्थ खर्च गलत रास्तों से सुख प्राप्ति की कोशिश से उत्पन्न होते हैं, जिससे बच्चों से संबंधित नुकसान सहित समस्याएँ होती हैं। भावनात्मक भ्रम और अदूरदर्शी व्यवहार आर्थिक तनाव और सामाजिक मामलों में भावनाओं को ठेस पहुँचाते हैं।"
+      },
+      "career": {
+        "en": "Lack of effort and procrastination on dissatisfying or economic tasks may affect work performance.",
+        "hi": "परिश्रम की कमी और आर्थिक या असंतोषजनक कार्यों को टालना कार्य प्रदर्शन को प्रभावित कर सकता है।"
+      },
+      "relationships": {
+        "en": "Emotional hurt in social issues and seeking praise or attention from others can cause strain.",
+        "hi": "सामाजिक समस्याओं में भावनाओं को ठेस पहुँचना और दूसरों से प्रशंसा या आकर्षण प्राप्त करने की कोशिश तनाव उत्पन्न कर सकती है।"
+      },
+      "money": {
+        "en": "Excessive spending to gain social approval or on exaggerated customs may lead to losses and financial difficulties.",
+        "hi": "सामाजिक स्वीकृति पाने या बढ़-चढ़ कर रीति-रिवाजों पर खर्च करना नुकसान और आर्थिक कठिनाइयाँ ला सकता है।"
+      },
+      "health_adj": {
+        "en": "Emotional confusion and dissatisfaction may impact mental well-being.",
+        "hi": "भावनात्मक भ्रम और असंतोष मानसिक स्वास्थ्य पर प्रभाव डाल सकते हैं।"
+      }
+    },
+    "aliases": [
+      "Venus square Sun",
+      "Ven SQR Sun",
+      "Venus-Square-Sun",
+      "Venus Square to Sun"
+    ]
+  }
+}

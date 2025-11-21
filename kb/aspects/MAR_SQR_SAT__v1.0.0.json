@@ -1,0 +1,259 @@
+{
+  "id": "MAR_SQR_SAT__v1.0.0",
+  "pair": [
+    "Mars",
+    "Square",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period marked by increased responsibilities, hard work, and potential disappointments. Challenges arise from hasty or disorganized efforts leading to mistakes and the need to redo tasks. There is a risk of physical injury and professional conflicts, including disputes with authorities and legal difficulties.",
+    "hi": "यह समय जिम्मेदारियों में वृद्धि, कठिन परिश्रम और निराशाओं से भरा होता है। जल्दबाजी और अव्यवस्था के कारण गलतियाँ होती हैं और कार्य दोबारा करना पड़ता है। शारीरिक चोट और पेशेवर झगड़े, अधिकारियों व कानूनी समस्याओं की संभावना रहती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Professional challenges, conflicts, and despair may occur. Mistakes due to rushed work require redoing tasks. Disputes with authorities or government departments are likely.",
+      "hi": "पेशेवर क्षेत्र में समस्याएँ, झगड़े और निराशा हो सकती है। जल्दबाजी में की गई गलतियों के कारण कार्य दोबारा करना पड़ता है। अधिकारियों या सरकारी विभागों से विवाद की संभावना रहती है।"
+    },
+    "relationships": {
+      "en": "Feelings of revenge and unsatisfactory behavior may affect interactions. Disputes and conflicts can arise, especially with authoritative figures.",
+      "hi": "बदले की भावना और असंतोषजनक व्यवहार संबंधों को प्रभावित कर सकते हैं। विशेषकर अधिकारियों के साथ विवाद और मतभेद हो सकते हैं।"
+    },
+    "money": {
+      "en": "Financial fluctuations may cause losses. Unfavorable legal situations can increase financial risks.",
+      "hi": "आर्थिक उतार-चढ़ाव से हानि हो सकती है। प्रतिकूल कानूनी स्थिति वित्तीय जोखिम बढ़ा सकती है।"
+    },
+    "health_adj": {
+      "en": "Risk of physical injuries, especially related to skin, bones, or teeth, causing severe pain.",
+      "hi": "शरीर में चोट लगने का खतरा रहता है, विशेषकर त्वचा, हड्डी या दाँत से संबंधित समस्याओं के कारण तेज दर्द हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Increased responsibilities",
+      "Professional conflicts",
+      "Legal disputes",
+      "Physical injuries"
+    ],
+    "hi": [
+      "जिम्मेदारियों में वृद्धि",
+      "पेशेवर झगड़े",
+      "कानूनी विवाद",
+      "शारीरिक चोटें"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Mistakes due to haste requiring rework",
+      "Physical injury risks",
+      "Disputes with authorities",
+      "Legal troubles and possible arrest",
+      "Financial losses from fluctuations"
+    ],
+    "hi": [
+      "जल्दबाजी से हुई गलतियों के कारण पुनः कार्य करना",
+      "शारीरिक चोट का खतरा",
+      "अधिकारियों से विवाद",
+      "कानूनी समस्याएं और गिरफ्तारी की संभावना",
+      "आर्थिक उतार-चढ़ाव से हानि"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in work to avoid mistakes",
+        "Manage responsibilities carefully",
+        "Avoid conflicts with authorities",
+        "Be mindful of physical safety"
+      ],
+      "hi": [
+        "गलतियों से बचने के लिए कार्य में सावधानी बरतें",
+        "जिम्मेदारियों को ध्यान से संभालें",
+        "अधिकारियों से विवाद से बचें",
+        "शारीरिक सुरक्षा का ध्यान रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Reassess and redo incomplete or faulty tasks",
+        "Address disputes calmly",
+        "Seek medical attention for pain or injury",
+        "Monitor legal situations closely"
+      ],
+      "hi": [
+        "अधूरे या गलत कार्यों को पुनः जांचें और करें",
+        "विवादों को शांतिपूर्वक सुलझाएं",
+        "दर्द या चोट के लिए चिकित्सकीय सहायता लें",
+        "कानूनी स्थिति पर ध्यान रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual easing of conflicts and responsibilities",
+        "Improvement in physical health",
+        "Reduction in legal and financial risks"
+      ],
+      "hi": [
+        "विवादों और जिम्मेदारियों में धीरे-धीरे कमी",
+        "शारीरिक स्वास्थ्य में सुधार",
+        "कानूनी और वित्तीय जोखिमों में कमी"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "disappointment",
+      "revenge",
+      "responsibility",
+      "hard work",
+      "mistakes",
+      "physical injury",
+      "professional conflict",
+      "legal disputes",
+      "financial loss"
+    ],
+    "hi": [
+      "निराशा",
+      "बदला",
+      "जिम्मेदारी",
+      "कठिन परिश्रम",
+      "गलती",
+      "शारीरिक चोट",
+      "पेशेवर झगड़ा",
+      "कानूनी विवाद",
+      "आर्थिक हानि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "demanding",
+      "conflict-prone",
+      "risk-laden"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "मांगपूर्ण",
+      "विवादास्पद",
+      "जोखिमपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "responsibility increase",
+      "conflict and dispute",
+      "risk of injury",
+      "legal and financial instability"
+    ],
+    "hi": [
+      "जिम्मेदारी में वृद्धि",
+      "विवाद और झगड़ा",
+      "चोट का खतरा",
+      "कानूनी और आर्थिक अस्थिरता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-squ-sat",
+      "core": "A challenging aspect indicating increased responsibilities, conflicts, and risks requiring careful management.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "मंगल वर्ग शनि",
+      "core": "यह एक चुनौतीपूर्ण योग है जो बढ़ी हुई जिम्मेदारियां, विवाद और जोखिमों को दर्शाता है, जिन्हें सावधानी से संभालना आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Increased responsibilities, hard labor, potential disappointments, and risks of injury and conflict characterize this aspect.",
+        "hi": "इस योग में जिम्मेदारियों में वृद्धि, कठिन परिश्रम, निराशा और चोट व विवाद के जोखिम होते हैं।"
+      },
+      "career": {
+        "en": "Professional difficulties, need to redo work due to mistakes, and disputes with authorities are common.",
+        "hi": "पेशेवर कठिनाइयाँ, गलतियों के कारण कार्य दोबारा करना और अधिकारियों से विवाद आम हैं।"
+      },
+      "relationships": {
+        "en": "Feelings of revenge and unsatisfactory behavior may cause conflicts, especially with authority figures.",
+        "hi": "बदले की भावना और असंतोषजनक व्यवहार से विशेषकर अधिकारियों के साथ विवाद हो सकते हैं।"
+      },
+      "money": {
+        "en": "Financial fluctuations may lead to losses and legal troubles can increase risks.",
+        "hi": "आर्थिक उतार-चढ़ाव से हानि हो सकती है और कानूनी समस्याएं जोखिम बढ़ा सकती हैं।"
+      },
+      "health_adj": {
+        "en": "There is a risk of physical injuries and severe pain related to skin, bones, or teeth.",
+        "hi": "शारीरिक चोट और त्वचा, हड्डी या दाँत से संबंधित तेज दर्द का खतरा रहता है।"
+      }
+    },
+    "aliases": [
+      "Mars square Saturn",
+      "Mar SQR Sat",
+      "Mars-Square-Saturn",
+      "Mars Square to Saturn"
+    ]
+  }
+}

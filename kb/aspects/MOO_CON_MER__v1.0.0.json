@@ -1,0 +1,239 @@
+{
+  "id": "MOO_CON_MER__v1.0.0",
+  "pair": [
+    "Moon",
+    "Conjunction",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Exchange of family and work ideas, domestic gatherings, and discussions involving women; business focus on domestic and women's clothing.",
+    "hi": "पारिवारिक एवं कार्य संबंधी विचारों का आदान-प्रदान, घरेलू आयोजन और महिलाओं की भागीदारी; व्यापार में घरेलू एवं महिलाओं से संबंधित वस्त्रों पर ध्यान।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business related to domestic fabrics, clothing, and women's apparel sales.",
+      "hi": "घरेलू वस्त्र, कपड़े और महिलाओं से संबंधित वस्त्रों की बिक्री से जुड़ा व्यापार।"
+    },
+    "relationships": {
+      "en": "Visits from guests, telephonic conversations with family and relatives, and special discussions or events at home involving friends and women.",
+      "hi": "अतिथियों का आगमन, परिवार और रिश्तेदारों से टेलीफोन वार्तालाप, तथा घर पर मित्रों और महिलाओं के साथ विशेष चर्चा या कार्यक्रम।"
+    },
+    "money": {
+      "en": "Focus on sales in domestic and women's clothing sectors.",
+      "hi": "घरेलू एवं महिलाओं के वस्त्रों के क्षेत्र में बिक्री पर ध्यान।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family gatherings",
+      "Domestic events",
+      "Business dealings in clothing"
+    ],
+    "hi": [
+      "पारिवारिक आयोजन",
+      "घरेलू कार्यक्रम",
+      "वस्त्र व्यापार से संबंधित घटनाएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "None explicitly stated."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताया गया।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in family and work-related discussions.",
+        "Host or participate in domestic gatherings involving women.",
+        "Focus business efforts on domestic and women's clothing."
+      ],
+      "hi": [
+        "पारिवारिक एवं कार्य संबंधी विचार-विमर्श में भाग लें।",
+        "महिलाओं की भागीदारी वाले घरेलू आयोजनों में शामिल हों।",
+        "व्यापार में घरेलू एवं महिलाओं के वस्त्रों पर ध्यान केंद्रित करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Facilitate telephonic conversations with family and relatives.",
+        "Organize or attend special home discussions or events with friends and women."
+      ],
+      "hi": [
+        "परिवार और रिश्तेदारों से टेलीफोन वार्तालाप करें।",
+        "मित्रों और महिलाओं के साथ घर पर विशेष चर्चा या कार्यक्रम आयोजित करें या उसमें भाग लें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reduce focus on domestic gatherings and clothing-related business temporarily.",
+        "Limit telephonic and in-person family discussions."
+      ],
+      "hi": [
+        "अस्थायी रूप से घरेलू आयोजनों और वस्त्र व्यापार पर ध्यान कम करें।",
+        "पारिवारिक टेलीफोन और आमने-सामने की चर्चाओं को सीमित करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "family",
+      "work ideas",
+      "guests",
+      "telephonic conversations",
+      "domestic event",
+      "women's participation",
+      "domestic fabrics",
+      "clothing sales"
+    ],
+    "hi": [
+      "पारिवारिक",
+      "कार्य विचार",
+      "अतिथि",
+      "टेलीफोन वार्तालाप",
+      "घरेलू आयोजन",
+      "महिलाओं की भागीदारी",
+      "घरेलू वस्त्र",
+      "कपड़े की बिक्री"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "communicative",
+      "domestic",
+      "collaborative",
+      "social"
+    ],
+    "hi": [
+      "संचारात्मक",
+      "घरेलू",
+      "सहयोगात्मक",
+      "सामाजिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family harmony",
+      "business in apparel",
+      "women's involvement",
+      "social gatherings"
+    ],
+    "hi": [
+      "पारिवारिक सद्भाव",
+      "वस्त्र व्यापार",
+      "महिलाओं की भागीदारी",
+      "सामाजिक आयोजन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-con-mer",
+      "core": "Exchange of family and work ideas with domestic gatherings and women's participation; business focus on clothing.",
+      "tone": "Warm, neutral, and informative."
+    },
+    "hi": {
+      "title": "चंद्र ग्रहण बुध",
+      "core": "पारिवारिक एवं कार्य विचारों का आदान-प्रदान, घरेलू आयोजन और महिलाओं की भागीदारी; वस्त्र व्यापार पर ध्यान।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सूचनात्मक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Exchange of family and work ideas, domestic gatherings, and discussions involving women; business focus on domestic and women's clothing.",
+        "hi": "पारिवारिक एवं कार्य संबंधी विचारों का आदान-प्रदान, घरेलू आयोजन और महिलाओं की भागीदारी; व्यापार में घरेलू एवं महिलाओं से संबंधित वस्त्रों पर ध्यान।"
+      },
+      "career": {
+        "en": "Business related to domestic fabrics, clothing, and women's apparel sales.",
+        "hi": "घरेलू वस्त्र, कपड़े और महिलाओं से संबंधित वस्त्रों की बिक्री से जुड़ा व्यापार।"
+      },
+      "relationships": {
+        "en": "Visits from guests, telephonic conversations with family and relatives, and special discussions or events at home involving friends and women.",
+        "hi": "अतिथियों का आगमन, परिवार और रिश्तेदारों से टेलीफोन वार्तालाप, तथा घर पर मित्रों और महिलाओं के साथ विशेष चर्चा या कार्यक्रम।"
+      },
+      "money": {
+        "en": "Focus on sales in domestic and women's clothing sectors.",
+        "hi": "घरेलू एवं महिलाओं के वस्त्रों के क्षेत्र में बिक्री पर ध्यान।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+      }
+    },
+    "aliases": [
+      "Moon conjunction Mercury",
+      "Moo CON Mer",
+      "Moon-Conjunction-Mercury",
+      "Moon Conjunction to Mercury"
+    ]
+  }
+}

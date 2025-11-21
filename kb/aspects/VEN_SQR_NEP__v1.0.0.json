@@ -1,0 +1,239 @@
+{
+  "id": "VEN_SQR_NEP__v1.0.0",
+  "pair": [
+    "Venus",
+    "Square",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person experiences emotional confusion and disappointment in love, leading to escapism and health problems caused by wrong assumptions.",
+    "hi": "व्यक्ति भावनात्मक दुविधा और प्रेम में निराशा का अनुभव करता है, जिससे वह बचने की प्रवृत्ति और गलत धारणाओं के कारण स्वास्थ्य समस्याओं से ग्रस्त होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Career may be affected by emotional confusion and practical troubles arising from wrong assumptions.",
+      "hi": "करियर पर भावनात्मक दुविधा और गलत धारणाओं से उत्पन्न व्यावहारिक समस्याओं का प्रभाव पड़ सकता है।"
+    },
+    "relationships": {
+      "en": "Relationships face risk of disappointment and feelings of rejection, with potential for emotional confusion.",
+      "hi": "संबंधों में निराशा और अस्वीकृति की भावना का खतरा रहता है, साथ ही भावनात्मक दुविधा हो सकती है।"
+    },
+    "money": {
+      "en": "Financial matters may encounter practical difficulties due to incorrect assumptions.",
+      "hi": "वित्तीय मामलों में गलत धारणाओं के कारण व्यावहारिक कठिनाइयाँ आ सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Health can be negatively impacted, possibly linked to emotional stress and escapist tendencies.",
+      "hi": "स्वास्थ्य पर नकारात्मक प्रभाव पड़ सकता है, जो भावनात्मक तनाव और बचने की प्रवृत्ति से जुड़ा हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional confusion",
+      "Disappointment in love",
+      "Health issues"
+    ],
+    "hi": [
+      "भावनात्मक दुविधा",
+      "प्रेम में निराशा",
+      "स्वास्थ्य समस्याएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional confusion can lead to escapism.",
+      "Wrong assumptions may cause practical and emotional troubles.",
+      "Possibility of feeling rejected in relationships.",
+      "Health may be affected."
+    ],
+    "hi": [
+      "भावनात्मक दुविधा बचने की प्रवृत्ति ला सकती है।",
+      "गलत धारणाएँ व्यावहारिक और भावनात्मक समस्याएँ पैदा कर सकती हैं।",
+      "संबंधों में अस्वीकृति की संभावना।",
+      "स्वास्थ्य प्रभावित हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious of emotional confusion influencing decisions.",
+        "Avoid making assumptions without clarity."
+      ],
+      "hi": [
+        "निर्णयों में भावनात्मक दुविधा से सावधान रहें।",
+        "स्पष्टता के बिना धारणाएँ न बनाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Recognize signs of disappointment and escapism.",
+        "Address emotional confusion directly."
+      ],
+      "hi": [
+        "निराशा और बचने की प्रवृत्ति के संकेत पहचानें।",
+        "भावनात्मक दुविधा का सीधे सामना करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on and correct wrong assumptions.",
+        "Focus on practical solutions to emotional challenges."
+      ],
+      "hi": [
+        "गलत धारणाओं पर विचार करें और उन्हें सुधारें।",
+        "भावनात्मक चुनौतियों के व्यावहारिक समाधान पर ध्यान दें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional confusion",
+      "disappointment",
+      "escapism",
+      "health issues",
+      "wrong assumptions",
+      "rejection"
+    ],
+    "hi": [
+      "भावनात्मक दुविधा",
+      "निराशा",
+      "बचना",
+      "स्वास्थ्य समस्याएँ",
+      "गलत धारणाएँ",
+      "अस्वीकृति"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "challenging",
+      "confusing",
+      "sensitive"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "चुनौतीपूर्ण",
+      "दुविधापूर्ण",
+      "संवेदनशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "love challenges",
+      "emotional instability",
+      "health vulnerability",
+      "practical difficulties"
+    ],
+    "hi": [
+      "प्रेम की चुनौतियाँ",
+      "भावनात्मक अस्थिरता",
+      "स्वास्थ्य की संवेदनशीलता",
+      "व्यावहारिक कठिनाइयाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-squ-nep",
+      "core": "Emotional confusion and disappointment in love lead to escapism and health issues caused by wrong assumptions.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "शुक्र वर्ग नेपच्यून",
+      "core": "भावनात्मक दुविधा और प्रेम में निराशा बचने की प्रवृत्ति और गलत धारणाओं से स्वास्थ्य समस्याएँ लाती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person experiences emotional confusion and disappointment in love, leading to escapism and health problems caused by wrong assumptions.",
+        "hi": "व्यक्ति भावनात्मक दुविधा और प्रेम में निराशा का अनुभव करता है, जिससे वह बचने की प्रवृत्ति और गलत धारणाओं के कारण स्वास्थ्य समस्याओं से ग्रस्त होता है।"
+      },
+      "career": {
+        "en": "Career may be affected by emotional confusion and practical troubles arising from wrong assumptions.",
+        "hi": "करियर पर भावनात्मक दुविधा और गलत धारणाओं से उत्पन्न व्यावहारिक समस्याओं का प्रभाव पड़ सकता है।"
+      },
+      "relationships": {
+        "en": "Relationships face risk of disappointment and feelings of rejection, with potential for emotional confusion.",
+        "hi": "संबंधों में निराशा और अस्वीकृति की भावना का खतरा रहता है, साथ ही भावनात्मक दुविधा हो सकती है।"
+      },
+      "money": {
+        "en": "Financial matters may encounter practical difficulties due to incorrect assumptions.",
+        "hi": "वित्तीय मामलों में गलत धारणाओं के कारण व्यावहारिक कठिनाइयाँ आ सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Health can be negatively impacted, possibly linked to emotional stress and escapist tendencies.",
+        "hi": "स्वास्थ्य पर नकारात्मक प्रभाव पड़ सकता है, जो भावनात्मक तनाव और बचने की प्रवृत्ति से जुड़ा हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Venus square Neptune",
+      "Ven SQR Nep",
+      "Venus-Square-Neptune",
+      "Venus Square to Neptune"
+    ]
+  }
+}

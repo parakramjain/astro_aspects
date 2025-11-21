@@ -1,0 +1,245 @@
+{
+  "id": "MOO_TRI_VEN__v1.0.0",
+  "pair": [
+    "Moon",
+    "Trine",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period marked by joy, love, peace, and beauty, encouraging kindness and harmony in social and family life.",
+    "hi": "यह समय खुशी, प्यार, शांति और सुंदरता से भरा होता है, जो सामाजिक और पारिवारिक जीवन में दया और सद्भाव को प्रोत्साहित करता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Enjoyment in social activities may enhance workplace harmony and cooperative efforts.",
+      "hi": "सामाजिक गतिविधियों में आनंद कार्यस्थल पर सद्भाव और सहयोग को बढ़ावा दे सकता है।"
+    },
+    "relationships": {
+      "en": "Kindness and love towards family; favorable for meeting special people and improving home atmosphere.",
+      "hi": "परिवार के प्रति प्यार और दया; खास लोगों से मिलने और घर के माहौल में सुधार के लिए अनुकूल।"
+    },
+    "money": {
+      "en": "Financial improvements are likely, contributing to a more peaceful life.",
+      "hi": "आर्थिक सुधार संभव हैं, जो जीवन में अधिक शांति लाते हैं।"
+    },
+    "health_adj": {
+      "en": "Life feels more peaceful, promoting emotional well-being.",
+      "hi": "जीवन में शांति का अनुभव होता है, जो भावनात्मक स्वास्थ्य को बढ़ावा देता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Social gatherings",
+      "Home decoration",
+      "Meeting special people",
+      "Household changes",
+      "Financial improvement"
+    ],
+    "hi": [
+      "सामाजिक समारोह",
+      "घर की सजावट",
+      "खास लोगों से मिलना",
+      "घर के माहौल में बदलाव",
+      "आर्थिक सुधार"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in social activities with kindness",
+        "Be gentle and loving with family",
+        "Consider home decoration or changes"
+      ],
+      "hi": [
+        "सामाजिक गतिविधियों में दया से भाग लें",
+        "परिवार के साथ प्यार और कोमलता दिखाएं",
+        "घर की सजावट या बदलाव पर विचार करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on peaceful interactions",
+        "Meet or connect with special people",
+        "Implement household improvements"
+      ],
+      "hi": [
+        "शांतिपूर्ण बातचीत पर ध्यान दें",
+        "खास लोगों से मिलें या जुड़ें",
+        "घर में सुधार करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain kindness in social and family relations",
+        "Continue nurturing peace and beauty around"
+      ],
+      "hi": [
+        "सामाजिक और पारिवारिक संबंधों में दया बनाए रखें",
+        "अपने आस-पास शांति और सुंदरता को बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "joy",
+      "love",
+      "peace",
+      "beauty",
+      "kindness",
+      "social activities",
+      "family",
+      "home decoration",
+      "financial improvement"
+    ],
+    "hi": [
+      "खुशी",
+      "प्यार",
+      "शांति",
+      "सजावट",
+      "दया",
+      "सामाजिक काम",
+      "परिवार",
+      "घर की सजावट",
+      "आर्थिक सुधार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "harmonious",
+      "peaceful",
+      "loving",
+      "supportive"
+    ],
+    "hi": [
+      "सामंजस्यपूर्ण",
+      "शांतिपूर्ण",
+      "प्यार भरा",
+      "सहायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "social harmony",
+      "family kindness",
+      "emotional peace",
+      "beautification",
+      "financial ease"
+    ],
+    "hi": [
+      "सामाजिक सद्भाव",
+      "परिवार में दया",
+      "भावनात्मक शांति",
+      "सजावट",
+      "आर्थिक सुगमता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-tri-ven",
+      "core": "A time of joy, love, peace, and beauty fostering kindness and harmony in social and family life.",
+      "tone": "Warm, neutral, and encouraging peaceful and loving interactions."
+    },
+    "hi": {
+      "title": "चंद्र त्रिकोण शुक्र",
+      "core": "खुशी, प्यार, शांति और सुंदरता का समय जो सामाजिक और पारिवारिक जीवन में दया और सद्भाव को बढ़ावा देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और शांतिपूर्ण व प्रेमपूर्ण संबंधों को प्रोत्साहित करने वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This is a time of joy, love, peace, and beauty encouraging kindness and harmony in social and family life.",
+        "hi": "यह समय खुशी, प्यार, शांति और सुंदरता से भरा होता है, जो सामाजिक और पारिवारिक जीवन में दया और सद्भाव को प्रोत्साहित करता है।"
+      },
+      "career": {
+        "en": "Enjoyment in social activities may enhance workplace harmony and cooperative efforts.",
+        "hi": "सामाजिक गतिविधियों में आनंद कार्यस्थल पर सद्भाव और सहयोग को बढ़ावा दे सकता है।"
+      },
+      "relationships": {
+        "en": "Kindness and love towards family; favorable for meeting special people and improving home atmosphere.",
+        "hi": "परिवार के प्रति प्यार और दया; खास लोगों से मिलने और घर के माहौल में सुधार के लिए अनुकूल।"
+      },
+      "money": {
+        "en": "Financial improvements are likely, contributing to a more peaceful life.",
+        "hi": "आर्थिक सुधार संभव हैं, जो जीवन में अधिक शांति लाते हैं।"
+      },
+      "health_adj": {
+        "en": "Life feels more peaceful, promoting emotional well-being.",
+        "hi": "जीवन में शांति का अनुभव होता है, जो भावनात्मक स्वास्थ्य को बढ़ावा देता है।"
+      }
+    },
+    "aliases": [
+      "Moon trine Venus",
+      "Moo TRI Ven",
+      "Moon-Trine-Venus",
+      "Moon Trine to Venus"
+    ]
+  }
+}

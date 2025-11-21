@@ -1,0 +1,144 @@
+{
+  "id": "PLU_SEX_SUN__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Sextile",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Pluto and Sun opens opportunity/skill. Pluto: . Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": " Authority, recognition, leadership, alignment with purpose. Emphasis: opportunity/skill.",
+    "relationships": " Self-respect, healthy boundaries, paternal figures. Emphasis: opportunity/skill.",
+    "money": " Status-linked income, government/authority-linked gains. Emphasis: opportunity/skill.",
+    "health_adj": " Heart, vitality, heat regulation; consider circadian rhythm. Emphasis: opportunity/skill."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "authority",
+    "ego",
+    "identity",
+    "opportunity",
+    "purpose",
+    "sextile",
+    "skill",
+    "visibility",
+    "vitality"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "",
+    "",
+    "Health & Routine"
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Pluto Sextile Sun",
+      "core": "Sextile between Pluto and Sun opens opportunity/skill. Pluto: . Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Pluto Sextile Sun (हिन्दी)",
+      "core": "Pluto और Sun का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Pluto and Sun opens opportunity/skill. Pluto: . Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": " Authority, recognition, leadership, alignment with purpose. Emphasis: opportunity/skill.",
+      "relationships": " Self-respect, healthy boundaries, paternal figures. Emphasis: opportunity/skill.",
+      "money": " Status-linked income, government/authority-linked gains. Emphasis: opportunity/skill.",
+      "health_adj": " Heart, vitality, heat regulation; consider circadian rhythm. Emphasis: opportunity/skill."
+    },
+    "aliases": [
+      "Pluto sextile Sun",
+      "Plu SEX Sun",
+      "Pluto-Sextile-Sun",
+      "Pluto Sextile to Sun"
+    ]
+  }
+}

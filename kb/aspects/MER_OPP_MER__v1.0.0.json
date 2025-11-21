@@ -1,0 +1,232 @@
+{
+  "id": "MER_OPP_MER__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Opposition",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Mental conflicts, miscommunication, and delays cause obstacles in plans and work.",
+    "hi": "विचारों में विरोध, गलतफहमियां और संचार में बाधा से योजना और काम में रुकावटें आती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work faces delays and hurdles due to miscommunication and mental conflicts.",
+      "hi": "गलतफहमी और मानसिक विरोध के कारण काम में देरी और रुकावटें आती हैं।"
+    },
+    "relationships": {
+      "en": "Possible arguments with siblings or peers due to misunderstandings.",
+      "hi": "गलतफहमी के कारण भाई-बहन या साथियों से बहस संभव है।"
+    },
+    "money": {
+      "en": "Plans related to finances may face obstacles and delays.",
+      "hi": "वित्तीय योजनाओं में रुकावटें और देरी हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Health may be negatively affected during this period.",
+      "hi": "इस समय स्वास्थ्य पर नकारात्मक असर पड़ सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Mental conflicts",
+      "Delays in work",
+      "Arguments with siblings or peers"
+    ],
+    "hi": [
+      "विचारों में विरोध",
+      "काम में देरी",
+      "भाई-बहन या साथियों से बहस"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Miscommunication can cause misunderstandings.",
+      "Plans may face unexpected hurdles.",
+      "Health might be adversely impacted."
+    ],
+    "hi": [
+      "गलतफहमी से विवाद हो सकते हैं।",
+      "योजनाओं में अप्रत्याशित रुकावटें आ सकती हैं।",
+      "स्वास्थ्य पर नकारात्मक प्रभाव पड़ सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Communicate clearly to avoid misunderstandings.",
+        "Be patient with delays and obstacles."
+      ],
+      "hi": [
+        "गलतफहमी से बचने के लिए स्पष्ट संवाद करें।",
+        "देरी और रुकावटों के प्रति धैर्य रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid arguments with siblings or peers.",
+        "Review plans carefully for possible issues."
+      ],
+      "hi": [
+        "भाई-बहन या साथियों से बहस से बचें।",
+        "संभावित समस्याओं के लिए योजनाओं की सावधानी से समीक्षा करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Focus on resolving mental conflicts.",
+        "Take care of health and reduce stress."
+      ],
+      "hi": [
+        "मानसिक विरोधों को सुलझाने पर ध्यान दें।",
+        "स्वास्थ्य का ध्यान रखें और तनाव कम करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "mental conflicts",
+      "miscommunication",
+      "delays",
+      "hurdles",
+      "arguments",
+      "health impact"
+    ],
+    "hi": [
+      "विचारों में विरोध",
+      "गलतफहमी",
+      "देरी",
+      "रुकावटें",
+      "बहस",
+      "स्वास्थ्य प्रभाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "conflict-prone",
+      "delaying"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "विवाद-संवेदनशील",
+      "देरी करने वाला"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication issues",
+      "mental tension",
+      "relationship strain"
+    ],
+    "hi": [
+      "संचार समस्याएं",
+      "मानसिक तनाव",
+      "रिश्तों में तनाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-opp-mer",
+      "core": "This aspect indicates mental conflicts, miscommunication, and delays causing obstacles in plans and work.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "बुध का विरोध बुध",
+      "core": "यह योग विचारों में विरोध, गलतफहमियां और देरी से योजना और काम में रुकावटें दर्शाता है।",
+      "tone": "निष्पक्ष, सतर्क और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Mental conflicts, miscommunication, and delays cause obstacles in plans and work.",
+        "hi": "विचारों में विरोध, गलतफहमियां और संचार में बाधा से योजना और काम में रुकावटें आती हैं।"
+      },
+      "career": {
+        "en": "Work faces delays and hurdles due to miscommunication and mental conflicts.",
+        "hi": "गलतफहमी और मानसिक विरोध के कारण काम में देरी और रुकावटें आती हैं।"
+      },
+      "relationships": {
+        "en": "Possible arguments with siblings or peers due to misunderstandings.",
+        "hi": "गलतफहमी के कारण भाई-बहन या साथियों से बहस संभव है।"
+      },
+      "money": {
+        "en": "Plans related to finances may face obstacles and delays.",
+        "hi": "वित्तीय योजनाओं में रुकावटें और देरी हो सकती है।"
+      },
+      "health_adj": {
+        "en": "Health may be negatively affected during this period.",
+        "hi": "इस समय स्वास्थ्य पर नकारात्मक असर पड़ सकता है।"
+      }
+    },
+    "aliases": [
+      "Mercury opposition Mercury",
+      "Mer OPP Mer",
+      "Mercury-Opposition-Mercury",
+      "Mercury Opposition to Mercury"
+    ]
+  }
+}

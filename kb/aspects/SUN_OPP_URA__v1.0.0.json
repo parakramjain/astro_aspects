@@ -1,0 +1,249 @@
+{
+  "id": "SUN_OPP_URA__v1.0.0",
+  "pair": [
+    "Sun",
+    "Opposition",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A strong desire for independence or to impose your will on others may cause social and financial complications. This is an unfavorable period for joint ventures, new plans, and changes, requiring increased focus on work and business.",
+    "hi": "स्वतंत्रता की तीव्र इच्छा या दूसरों पर अपनी इच्छा थोपने से सामाजिक और आर्थिक उलझनें उत्पन्न हो सकती हैं। यह संयुक्त व्यवसाय, नई योजनाओं और परिवर्तनों के लिए प्रतिकूल समय है, जिसमें कार्य और व्यवसाय पर अधिक ध्यान देने की आवश्यकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Unfavorable conditions for joint ventures and new experiments; increased focus needed on work and business matters.",
+      "hi": "संयुक्त व्यवसाय और नए प्रयोगों के लिए प्रतिकूल स्थिति; कार्य और व्यवसाय पर अधिक ध्यान देने की आवश्यकता।"
+    },
+    "relationships": {
+      "en": "Desire for independence or imposing will on others may cause unreliable social behavior and problematic friendships.",
+      "hi": "स्वतंत्रता की इच्छा या दूसरों पर इच्छा थोपने से अविश्वसनीय सामाजिक व्यवहार और समस्याग्रस्त मित्रता हो सकती है।"
+    },
+    "money": {
+      "en": "Risk of financial loss from investments and licenses; unfavorable conditions for joint property, insurance, tax, legal disputes, and joint investments.",
+      "hi": "निवेश और लाइसेंस से आर्थिक हानि का जोखिम; संयुक्त सम्पत्ति, बीमा, कर, कानूनी विवाद और संयुक्त निवेश के लिए प्रतिकूल स्थिति।"
+    },
+    "health_adj": {
+      "en": "No specific health indications; general caution advised due to social and financial stress.",
+      "hi": "विशिष्ट स्वास्थ्य संकेत नहीं; सामाजिक और आर्थिक तनाव के कारण सामान्य सावधानी आवश्यक।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Desire for independence",
+      "Social complications",
+      "Financial loss",
+      "Unfavorable joint ventures",
+      "Failure or uncertainty in new plans"
+    ],
+    "hi": [
+      "स्वतंत्रता की इच्छा",
+      "सामाजिक उलझनें",
+      "आर्थिक हानि",
+      "संयुक्त व्यवसाय में प्रतिकूलता",
+      "नई योजनाओं में असफलता या अनिश्चितता"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Complications from unreliable social behavior and friendships",
+      "Financial loss from investments or licenses",
+      "Unfavorable conditions for joint property and legal disputes",
+      "Failure or uncertainty in new experiments or plans"
+    ],
+    "hi": [
+      "अविश्वसनीय सामाजिक व्यवहार और मित्रता से उलझन",
+      "निवेश या लाइसेंस से आर्थिक हानि",
+      "संयुक्त सम्पत्ति और कानूनी विवादों में प्रतिकूलता",
+      "नए प्रयोगों या योजनाओं में असफलता या अनिश्चितता"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in financial investments and joint ventures",
+        "Maintain focus on work and business responsibilities",
+        "Be mindful of social interactions and avoid imposing will"
+      ],
+      "hi": [
+        "आर्थिक निवेश और संयुक्त व्यवसाय में सावधानी बरतें",
+        "कार्य और व्यवसाय की जिम्मेदारियों पर ध्यान केंद्रित करें",
+        "सामाजिक संबंधों में सावधानी रखें और अपनी इच्छा थोपने से बचें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid initiating major changes or new plans",
+        "Monitor joint property, insurance, tax, and legal matters closely",
+        "Stay alert to potential social complications"
+      ],
+      "hi": [
+        "महत्वपूर्ण परिवर्तन या नई योजनाएं शुरू करने से बचें",
+        "संयुक्त सम्पत्ति, बीमा, कर और कानूनी मामलों पर ध्यान रखें",
+        "संभावित सामाजिक उलझनों के प्रति सतर्क रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual easing of social and financial tensions",
+        "Improved stability in joint ventures and investments",
+        "Reduced risk of conflicts with authorities or elders"
+      ],
+      "hi": [
+        "सामाजिक और आर्थिक तनाव में धीरे-धीरे कमी",
+        "संयुक्त व्यवसाय और निवेशों में स्थिरता में सुधार",
+        "अधिकारियों या बुजुर्गों के साथ संघर्ष का जोखिम कम होना"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "independence",
+      "unreliable social behavior",
+      "financial risk",
+      "joint ventures",
+      "uncertainty",
+      "work focus"
+    ],
+    "hi": [
+      "स्वतंत्रता",
+      "अविश्वसनीय सामाजिक व्यवहार",
+      "आर्थिक जोखिम",
+      "संयुक्त व्यवसाय",
+      "अनिश्चितता",
+      "कार्य पर ध्यान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "unfavorable",
+      "complicated",
+      "risky",
+      "challenging"
+    ],
+    "hi": [
+      "प्रतिकूल",
+      "जटिल",
+      "जोखिमपूर्ण",
+      "चुनौतीपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "authority conflict",
+      "social instability",
+      "financial caution",
+      "joint enterprise difficulties"
+    ],
+    "hi": [
+      "अधिकार संघर्ष",
+      "सामाजिक अस्थिरता",
+      "आर्थिक सावधानी",
+      "संयुक्त उद्यम की कठिनाइयाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-opp-ura",
+      "core": "A period marked by a strong urge for independence and challenges in social and financial areas, requiring caution and focus.",
+      "tone": "Warm, neutral, and cautiously observant"
+    },
+    "hi": {
+      "title": "सूर्य विपक्ष यूरेनस",
+      "core": "स्वतंत्रता की तीव्र इच्छा और सामाजिक व आर्थिक क्षेत्रों में चुनौतियों वाला समय, जिसमें सावधानी और ध्यान आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Desire for independence or imposing will leads to social and financial complications; unfavorable for joint ventures and new plans.",
+        "hi": "स्वतंत्रता की इच्छा या इच्छा थोपने से सामाजिक और आर्थिक उलझन; संयुक्त व्यवसाय और नई योजनाओं के लिए प्रतिकूल।"
+      },
+      "career": {
+        "en": "Unfavorable conditions for joint ventures and new experiments; increased focus needed on work and business matters.",
+        "hi": "संयुक्त व्यवसाय और नए प्रयोगों के लिए प्रतिकूल स्थिति; कार्य और व्यवसाय पर अधिक ध्यान आवश्यक।"
+      },
+      "relationships": {
+        "en": "Unreliable social behavior and friendships may cause complications due to desire for independence or imposing will.",
+        "hi": "स्वतंत्रता की इच्छा या इच्छा थोपने से अविश्वसनीय सामाजिक व्यवहार और मित्रता से उलझन।"
+      },
+      "money": {
+        "en": "Risk of loss from financial investments and licenses; unfavorable for joint property, insurance, tax, legal disputes, and investments.",
+        "hi": "आर्थिक निवेश और लाइसेंस से हानि का जोखिम; संयुक्त सम्पत्ति, बीमा, कर, कानूनी विवाद और निवेश के लिए प्रतिकूल।"
+      },
+      "health_adj": {
+        "en": "No specific health issues noted; general caution advised due to social and financial stress.",
+        "hi": "विशिष्ट स्वास्थ्य समस्याएं नहीं; सामाजिक और आर्थिक तनाव के कारण सामान्य सावधानी आवश्यक।"
+      }
+    },
+    "aliases": [
+      "Sun opposition Uranus",
+      "Sun OPP Ura",
+      "Sun-Opposition-Uranus",
+      "Sun Opposition to Uranus"
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "id": "JUP_CON_SAT__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Conjunction",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Effectively manages administrative, public relations, and institutional responsibilities by establishing order and requiring hard work grounded in moral values. Organizes financial and legal systems, with opportunities to start new ventures and business travel. Rewards from past efforts are realized during this period.",
+    "hi": "व्यक्ति प्रबंधन, जनसंपर्क और संस्था की जिम्मेदारियों को प्रभावी ढंग से निभाता है, सुव्यवस्था स्थापित करता है और नैतिक मूल्यों पर आधारित कठिन परिश्रम करता है। आर्थिक और कानूनी व्यवस्थाओं को सुव्यवस्थित करता है। नए कार्य प्रारंभ करने और व्यवसाय यात्रा के अवसर मिलते हैं। इस समय पूर्व किए गए परिश्रम के परिणाम प्राप्त होते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Manages administration and institutional duties effectively, organizes legal proceedings, and initiates new ventures with opportunities for business travel.",
+      "hi": "प्रबंधन और संस्था की जिम्मेदारियों को प्रभावी ढंग से संभालता है, कानूनी कार्यवाही व्यवस्थित करता है और नए कार्य प्रारंभ करने के अवसर मिलते हैं। व्यवसाय यात्रा के अवसर भी रहते हैं।"
+    },
+    "relationships": {
+      "en": "Handles public relations responsibilities with order and discipline, emphasizing moral values in interactions.",
+      "hi": "जनसंपर्क की जिम्मेदारियों को सुव्यवस्था और अनुशासन के साथ निभाता है, और संबंधों में नैतिक मूल्यों पर जोर देता है।"
+    },
+    "money": {
+      "en": "Organizes financial systems carefully, reflecting hard work and moral principles; rewards from past financial efforts may be realized.",
+      "hi": "आर्थिक व्यवस्थाओं को सुव्यवस्थित करता है, जो कठिन परिश्रम और नैतिक सिद्धांतों पर आधारित होती हैं; पूर्व के आर्थिक प्रयासों के परिणाम प्राप्त हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Requires sustained effort and discipline; no specific health issues mentioned but hard work may demand physical and mental stamina.",
+      "hi": "लगातार परिश्रम और अनुशासन की आवश्यकता होती है; कोई विशेष स्वास्थ्य समस्या नहीं बताई गई है, लेकिन कठिन परिश्रम के लिए शारीरिक और मानसिक सहनशक्ति जरूरी हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Initiation of new ventures",
+      "Business travel opportunities",
+      "Receiving rewards from past efforts"
+    ],
+    "hi": [
+      "नए कार्य प्रारंभ करना",
+      "व्यवसाय यात्रा के अवसर",
+      "पूर्व प्रयासों के परिणाम प्राप्त करना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Demands hard work which may cause fatigue if not managed well",
+      "Moral values must guide actions to maintain order and success"
+    ],
+    "hi": [
+      "कठिन परिश्रम से थकान हो सकती है यदि सही ढंग से प्रबंधित न किया जाए",
+      "सफलता और सुव्यवस्था बनाए रखने के लिए कार्य नैतिक मूल्यों पर आधारित होना चाहिए"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on organizing and systematizing financial and legal matters",
+        "Maintain discipline and moral values in all responsibilities",
+        "Be open to new business ventures and travel opportunities"
+      ],
+      "hi": [
+        "आर्थिक और कानूनी मामलों को व्यवस्थित और सुव्यवस्थित करें",
+        "सभी जिम्मेदारियों में अनुशासन और नैतिक मूल्यों को बनाए रखें",
+        "नए व्यवसायिक कार्यों और यात्रा के अवसरों के लिए तैयार रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Implement structured administrative processes",
+        "Engage in diligent hard work with ethical considerations",
+        "Plan and initiate new projects carefully"
+      ],
+      "hi": [
+        "संरचित प्रशासनिक प्रक्रियाओं को लागू करें",
+        "नैतिक विचारों के साथ परिश्रम करें",
+        "नए परियोजनाओं की सावधानीपूर्वक योजना बनाएं और प्रारंभ करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Avoid neglecting moral principles under pressure",
+        "Do not overlook the need for systematic organization",
+        "Manage workload to prevent burnout"
+      ],
+      "hi": [
+        "दबाव में नैतिक सिद्धांतों की अनदेखी न करें",
+        "सुव्यवस्था की आवश्यकता को नजरअंदाज न करें",
+        "थकावट से बचने के लिए कार्यभार प्रबंधित करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "administration",
+      "order",
+      "hard work",
+      "moral values",
+      "financial organization",
+      "legal system",
+      "new ventures",
+      "business travel",
+      "rewards"
+    ],
+    "hi": [
+      "प्रबंधन",
+      "सुव्यवस्था",
+      "कठिन परिश्रम",
+      "नैतिक मूल्य",
+      "आर्थिक व्यवस्था",
+      "कानूनी प्रणाली",
+      "नए कार्य",
+      "व्यवसाय यात्रा",
+      "परिणाम"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "disciplined",
+      "organized",
+      "ethical",
+      "responsible",
+      "productive"
+    ],
+    "hi": [
+      "अनुशासित",
+      "संगठित",
+      "नैतिक",
+      "जिम्मेदार",
+      "उत्पादक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "institutional responsibility",
+      "systematization",
+      "moral diligence",
+      "reward for effort",
+      "business development"
+    ],
+    "hi": [
+      "संस्थागत जिम्मेदारी",
+      "सुव्यवस्था",
+      "नैतिक परिश्रम",
+      "परिश्रम का फल",
+      "व्यवसाय विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-con-sat",
+      "core": "This aspect emphasizes disciplined management of responsibilities with a strong ethical foundation, leading to organized systems and potential new opportunities.",
+      "tone": "Warm, neutral, and encouraging focus on hard work and moral values."
+    },
+    "hi": {
+      "title": "बृहस्पति संयोजन शनि",
+      "core": "यह योग जिम्मेदारियों के अनुशासित प्रबंधन और नैतिक आधार पर जोर देता है, जिससे सुव्यवस्थित प्रणाली और नए अवसर प्राप्त होते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और कठिन परिश्रम तथा नैतिक मूल्यों पर प्रोत्साहन।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Manages administration/public relations/institutional responsibilities effectively, establishing order. Requires hard work based on moral values. Organizes financial systems. Systematizes legal proceedings. Opportunities to initiate new ventures. Business travel possibilities. Reaps rewards of past efforts during this period.",
+        "hi": "व्यक्ति प्रबंधन.व्यवस्था/जनसंपर्क/संस्था की जिम्मेदारी से संबंधित मजबूत कार्य प्रगति करता है तथा सुव्यवस्था स्थापित करता है। व्यक्ति को कठिन परिश्रम करना होता हैए और व्यक्ति नैतिक मूल्यों के आधार पर कार्य करता है। आर्थिक व्यवस्था को सुव्यवस्थित करता है। कानूनी कार्यवाही व्यवस्थित करता है। जीवन में नए कार्य प्रारंभ के अवसर भी रहते हैं। व्यवसाय के लिए यात्रा के अवसर भी रहते हैं। इस समयकाल में पूर्व में किए परिश्रम के परिणाम प्राप्त होते हैं।"
+      },
+      "career": {
+        "en": "Manages administration and institutional duties effectively, organizes legal proceedings, and initiates new ventures with opportunities for business travel.",
+        "hi": "प्रबंधन और संस्था की जिम्मेदारियों को प्रभावी ढंग से संभालता है, कानूनी कार्यवाही व्यवस्थित करता है और नए कार्य प्रारंभ करने के अवसर मिलते हैं। व्यवसाय यात्रा के अवसर भी रहते हैं।"
+      },
+      "relationships": {
+        "en": "Handles public relations responsibilities with order and discipline, emphasizing moral values in interactions.",
+        "hi": "जनसंपर्क की जिम्मेदारियों को सुव्यवस्था और अनुशासन के साथ निभाता है, और संबंधों में नैतिक मूल्यों पर जोर देता है।"
+      },
+      "money": {
+        "en": "Organizes financial systems carefully, reflecting hard work and moral principles; rewards from past financial efforts may be realized.",
+        "hi": "आर्थिक व्यवस्थाओं को सुव्यवस्थित करता है, जो कठिन परिश्रम और नैतिक सिद्धांतों पर आधारित होती हैं; पूर्व के आर्थिक प्रयासों के परिणाम प्राप्त हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Requires sustained effort and discipline; no specific health issues mentioned but hard work may demand physical and mental stamina.",
+        "hi": "लगातार परिश्रम और अनुशासन की आवश्यकता होती है; कोई विशेष स्वास्थ्य समस्या नहीं बताई गई है, लेकिन कठिन परिश्रम के लिए शारीरिक और मानसिक सहनशक्ति जरूरी हो सकती है।"
+      }
+    },
+    "aliases": [
+      "Jupiter conjunction Saturn",
+      "Jup CON Sat",
+      "Jupiter-Conjunction-Saturn",
+      "Jupiter Conjunction to Saturn"
+    ]
+  }
+}

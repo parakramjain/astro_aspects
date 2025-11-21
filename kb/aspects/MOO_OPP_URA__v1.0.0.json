@@ -1,0 +1,235 @@
+{
+  "id": "MOO_OPP_URA__v1.0.0",
+  "pair": [
+    "Moon",
+    "Opposition",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Emotional instability and sudden changes may cause tension in relationships and the home environment, with a strong need for freedom and potential risks in decisions and spending.",
+    "hi": "भावनात्मक अस्थिरता और अचानक बदलाव रिश्तों तथा घरेलू माहौल में तनाव ला सकते हैं, स्वतंत्रता की तीव्र आवश्यकता होती है और निर्णय व खर्च में जोखिम हो सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Sudden decisions or changes at work may create instability; caution is advised with investments or spending.",
+      "hi": "काम में अचानक निर्णय या बदलाव अस्थिरता ला सकते हैं; निवेश या खर्च में सावधानी जरूरी है।"
+    },
+    "relationships": {
+      "en": "Risk of broken relationships due to emotional volatility and a desire for rebellion or freedom; family environment may feel unsettled.",
+      "hi": "भावनात्मक अस्थिरता और बगावत या स्वतंत्रता की इच्छा के कारण रिश्ते टूटने का खतरा; पारिवारिक माहौल अस्थिर हो सकता है।"
+    },
+    "money": {
+      "en": "Sudden investments or spending may be harmful; financial decisions require careful consideration.",
+      "hi": "अचानक निवेश या खर्च नुकसानदायक हो सकते हैं; वित्तीय निर्णय सोच-समझकर लें।"
+    },
+    "health_adj": {
+      "en": "Emotional instability might affect overall well-being; managing stress is important.",
+      "hi": "भावनात्मक अस्थिरता से समग्र स्वास्थ्य प्रभावित हो सकता है; तनाव प्रबंधन आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional upheaval",
+      "Relationship challenges",
+      "Sudden financial decisions"
+    ],
+    "hi": [
+      "भावनात्मक उथल-पुथल",
+      "रिश्तों में चुनौतियाँ",
+      "अचानक वित्तीय निर्णय"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional instability may disrupt relationships.",
+      "Sudden decisions can lead to losses.",
+      "Home environment may feel unsettled."
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता रिश्तों को प्रभावित कर सकती है।",
+      "अचानक निर्णय नुकसानदायक हो सकते हैं।",
+      "घरेलू माहौल अस्थिर हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be aware of emotional fluctuations.",
+        "Seek balance between freedom and responsibility."
+      ],
+      "hi": [
+        "भावनात्मक उतार-चढ़ाव से अवगत रहें।",
+        "स्वतंत्रता और जिम्मेदारी में संतुलन बनाए रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive decisions or spending.",
+        "Communicate openly to reduce relationship tension."
+      ],
+      "hi": [
+        "आवेगपूर्ण निर्णय या खर्च से बचें।",
+        "रिश्तों में तनाव कम करने के लिए खुलकर संवाद करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past emotional reactions.",
+        "Stabilize home environment and finances."
+      ],
+      "hi": [
+        "पूर्व भावनात्मक प्रतिक्रियाओं पर विचार करें।",
+        "घरेलू माहौल और वित्त को स्थिर करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Emotional instability",
+      "Sudden changes",
+      "Rebellion",
+      "Freedom",
+      "Unsettled home",
+      "Risky decisions",
+      "Broken relationships"
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता",
+      "अचानक बदलाव",
+      "बगावत",
+      "स्वतंत्रता",
+      "अस्थिर घरेलू माहौल",
+      "जोखिमपूर्ण निर्णय",
+      "टूटे रिश्ते"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Volatile",
+      "Unstable",
+      "Impulsive"
+    ],
+    "hi": [
+      "अस्थिर",
+      "अस्थायी",
+      "आवेगपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Emotional tension",
+      "Freedom versus stability",
+      "Risk management"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "स्वतंत्रता बनाम स्थिरता",
+      "जोखिम प्रबंधन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-opp-ura",
+      "core": "This aspect indicates emotional instability and sudden changes that may affect relationships and home life, with a strong desire for freedom and potential risks in decisions and spending.",
+      "tone": "Warm, neutral, cautious"
+    },
+    "hi": {
+      "title": "चंद्रमा का यूरेनस के विपरीत",
+      "core": "यह योग भावनात्मक अस्थिरता और अचानक बदलाव दर्शाता है जो रिश्तों और घरेलू जीवन को प्रभावित कर सकते हैं, स्वतंत्रता की तीव्र इच्छा और निर्णय व खर्च में जोखिम के साथ।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional instability and sudden changes may cause tension in relationships and the home environment, with a strong need for freedom and potential risks in decisions and spending.",
+        "hi": "भावनात्मक अस्थिरता और अचानक बदलाव रिश्तों तथा घरेलू माहौल में तनाव ला सकते हैं, स्वतंत्रता की तीव्र आवश्यकता होती है और निर्णय व खर्च में जोखिम हो सकता है।"
+      },
+      "career": {
+        "en": "Sudden decisions or changes at work may create instability; caution is advised with investments or spending.",
+        "hi": "काम में अचानक निर्णय या बदलाव अस्थिरता ला सकते हैं; निवेश या खर्च में सावधानी जरूरी है।"
+      },
+      "relationships": {
+        "en": "Risk of broken relationships due to emotional volatility and a desire for rebellion or freedom; family environment may feel unsettled.",
+        "hi": "भावनात्मक अस्थिरता और बगावत या स्वतंत्रता की इच्छा के कारण रिश्ते टूटने का खतरा; पारिवारिक माहौल अस्थिर हो सकता है।"
+      },
+      "money": {
+        "en": "Sudden investments or spending may be harmful; financial decisions require careful consideration.",
+        "hi": "अचानक निवेश या खर्च नुकसानदायक हो सकते हैं; वित्तीय निर्णय सोच-समझकर लें।"
+      },
+      "health_adj": {
+        "en": "Emotional instability might affect overall well-being; managing stress is important.",
+        "hi": "भावनात्मक अस्थिरता से समग्र स्वास्थ्य प्रभावित हो सकता है; तनाव प्रबंधन आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Moon opposition Uranus",
+      "Moo OPP Ura",
+      "Moon-Opposition-Uranus",
+      "Moon Opposition to Uranus"
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "id": "MAR_TRI_MER__v1.0.0",
+  "pair": [
+    "Mars",
+    "Trine",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Clear thinking and fast action lead to effective, well-planned decisions with a strong balance of thought and action.",
+    "hi": "विचारों में स्पष्टता और तेज़ कार्रवाई से योजनाबद्ध और प्रभावशाली निर्णय लिए जाते हैं, जिसमें सोच और करने की शक्ति का संतुलन होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for administrative, military, or law-related work due to clear thinking and decisive action.",
+      "hi": "प्रशासन, सेना या कानून से जुड़े कार्यों के लिए समय अच्छा है क्योंकि सोच स्पष्ट और निर्णय तेज़ होते हैं।"
+    },
+    "relationships": {
+      "en": "Balanced communication and action promote effective interactions.",
+      "hi": "संतुलित सोच और कार्य से प्रभावशाली संबंध बनते हैं।"
+    },
+    "money": {
+      "en": "Well-planned decisions can support financial management and resource allocation.",
+      "hi": "योजनाबद्ध निर्णय वित्तीय प्रबंधन और संसाधन आवंटन में सहायक होते हैं।"
+    },
+    "health_adj": {
+      "en": "Mental clarity and quick responses may enhance overall well-being.",
+      "hi": "मानसिक स्पष्टता और तेज़ प्रतिक्रिया से समग्र स्वास्थ्य में सुधार हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Administrative decisions",
+      "Military or law-related activities"
+    ],
+    "hi": [
+      "प्रशासनिक निर्णय",
+      "सेना या कानून से जुड़े कार्य"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No specific risks mentioned; maintain balance between thought and action."
+    ],
+    "hi": [
+      "कोई विशेष जोखिम नहीं बताया गया; सोच और कार्य में संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in planning and decision-making tasks",
+        "Focus on administrative or law-related projects"
+      ],
+      "hi": [
+        "योजनाबद्ध कार्यों और निर्णय लेने में लगें",
+        "प्रशासन या कानून से जुड़े प्रोजेक्ट पर ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Implement well-thought-out plans quickly",
+        "Balance thought with decisive action"
+      ],
+      "hi": [
+        "सोचे-समझे योजनाओं को तेज़ी से लागू करें",
+        "सोच और निर्णायक कार्य में संतुलन रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review decisions for effectiveness",
+        "Maintain clarity in communication and actions"
+      ],
+      "hi": [
+        "निर्णयों की प्रभावशीलता की समीक्षा करें",
+        "संचार और कार्य में स्पष्टता बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "clear thinking",
+      "fast action",
+      "balanced thought and action",
+      "effective decisions",
+      "administration",
+      "military",
+      "law"
+    ],
+    "hi": [
+      "स्पष्ट सोच",
+      "तेज़ कार्रवाई",
+      "सोच और कार्य में संतुलन",
+      "प्रभावशाली निर्णय",
+      "प्रशासन",
+      "सेना",
+      "कानून"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "clarity",
+      "decisiveness",
+      "balance",
+      "effectiveness"
+    ],
+    "hi": [
+      "स्पष्टता",
+      "निर्णायकता",
+      "संतुलन",
+      "प्रभावशीलता"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "thought-action harmony",
+      "strategic planning",
+      "administrative efficiency"
+    ],
+    "hi": [
+      "सोच-कार्य सामंजस्य",
+      "रणनीतिक योजना",
+      "प्रशासनिक दक्षता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-tri-mer",
+      "core": "Clear thinking and fast action lead to effective, balanced decisions.",
+      "tone": "Warm, neutral, and professional"
+    },
+    "hi": {
+      "title": "मंगल त्रिकोण बुध",
+      "core": "स्पष्ट सोच और तेज़ कार्रवाई से प्रभावशाली और संतुलित निर्णय होते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और पेशेवर"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Clear thinking and fast action prevail. The person takes effective, well-planned decisions. A strong balance of thought and action.",
+        "hi": "विचारों में स्पष्टता और काम में तेज़ी रहती है। व्यक्ति योजनाबद्ध तरीके से प्रभावशाली निर्णय लेता है। सोचने और करने की शक्ति में संतुलन रहता है।"
+      },
+      "career": {
+        "en": "Good time for administrative, military, or law-related work.",
+        "hi": "पुलिसए सेनाए या प्रशासन से जुड़े कामों के लिए समय अच्छा है।"
+      },
+      "relationships": {
+        "en": "Balanced thought and action support effective communication and interactions.",
+        "hi": "सोचने और करने की शक्ति में संतुलन रहता है, जिससे प्रभावशाली संबंध बनते हैं।"
+      },
+      "money": {
+        "en": "Effective, well-planned decisions support financial matters.",
+        "hi": "योजनाबद्ध और प्रभावशाली निर्णय वित्तीय मामलों में सहायक होते हैं।"
+      },
+      "health_adj": {
+        "en": "Mental clarity and quick action may improve overall well-being.",
+        "hi": "मानसिक स्पष्टता और तेज़ कार्रवाई से समग्र स्वास्थ्य में सुधार हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Mars trine Mercury",
+      "Mar TRI Mer",
+      "Mars-Trine-Mercury",
+      "Mars Trine to Mercury"
+    ]
+  }
+}

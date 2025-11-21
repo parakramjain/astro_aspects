@@ -1,0 +1,249 @@
+{
+  "id": "SUN_TRI_MAR__v1.0.0",
+  "pair": [
+    "Sun",
+    "Trine",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Enhanced physical, mental, and economic strength boosts confidence and courage, aiding progress toward creative goals and influence, with successful opportunities in politics, business, economics, and social fields, alongside health improvements from physical work.",
+    "hi": "शारीरिक, मानसिक और आर्थिक शक्ति में वृद्धि से आत्मविश्वास और साहस बढ़ता है, जो रचनात्मक लक्ष्यों की ओर प्रगति और प्रभावशाली बनने में मदद करता है। राजनीति, व्यवसाय, आर्थिक और सामाजिक क्षेत्रों में सफल अवसर प्राप्त होते हैं तथा शारीरिक कार्य से स्वास्थ्य में सुधार होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities arise to successfully complete tasks related to politics, business, economics, and social fields, enhancing influence and progress.",
+      "hi": "राजनीति, व्यवसाय, आर्थिक और सामाजिक क्षेत्रों से संबंधित कार्यों को सफलतापूर्वक पूरा करने के अवसर प्राप्त होते हैं, जिससे प्रभाव और प्रगति बढ़ती है।"
+    },
+    "relationships": {
+      "en": "Confidence and courage improve personal influence, potentially strengthening social interactions and presence.",
+      "hi": "आत्मविश्वास और साहस से व्यक्तिगत प्रभाव बढ़ता है, जो सामाजिक संबंधों और उपस्थिति को मजबूत कर सकता है।"
+    },
+    "money": {
+      "en": "Economic strength is enhanced, supporting successful ventures and financial opportunities in various fields.",
+      "hi": "आर्थिक शक्ति में वृद्धि होती है, जो विभिन्न क्षेत्रों में सफल प्रयासों और वित्तीय अवसरों का समर्थन करती है।"
+    },
+    "health_adj": {
+      "en": "Health benefits and improvements occur through physical work or use of tools, accompanied by increased morale.",
+      "hi": "शारीरिक कार्य या उपकरणों के उपयोग से स्वास्थ्य लाभ और सुधार होता है, साथ ही मनोबल में वृद्धि होती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Career advancement",
+      "Creative achievements",
+      "Political or business success",
+      "Health improvement"
+    ],
+    "hi": [
+      "करियर उन्नति",
+      "रचनात्मक उपलब्धियाँ",
+      "राजनीतिक या व्यवसायिक सफलता",
+      "स्वास्थ्य में सुधार"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Pursue creative and professional goals confidently",
+        "Engage in physical activities or use tools for health benefits",
+        "Seek opportunities in politics, business, economics, and social fields"
+      ],
+      "hi": [
+        "आत्मविश्वास के साथ रचनात्मक और पेशेवर लक्ष्यों को आगे बढ़ाएं",
+        "स्वास्थ्य लाभ के लिए शारीरिक गतिविधियों या उपकरणों का उपयोग करें",
+        "राजनीति, व्यवसाय, आर्थिक और सामाजिक क्षेत्रों में अवसर खोजें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Capitalize on increased confidence and courage",
+        "Focus on completing important tasks in relevant fields",
+        "Utilize physical work to enhance health"
+      ],
+      "hi": [
+        "बढ़े हुए आत्मविश्वास और साहस का लाभ उठाएं",
+        "संबंधित क्षेत्रों में महत्वपूर्ण कार्यों को पूरा करने पर ध्यान दें",
+        "स्वास्थ्य बढ़ाने के लिए शारीरिक कार्य का उपयोग करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain morale and continue health-supporting activities",
+        "Sustain progress toward creative and professional goals"
+      ],
+      "hi": [
+        "मनोबल बनाए रखें और स्वास्थ्य-सहायक गतिविधियाँ जारी रखें",
+        "रचनात्मक और पेशेवर लक्ष्यों की ओर प्रगति बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "strength",
+      "confidence",
+      "courage",
+      "creative goals",
+      "influence",
+      "success",
+      "politics",
+      "business",
+      "economics",
+      "social fields",
+      "health improvement",
+      "physical work",
+      "morale"
+    ],
+    "hi": [
+      "शक्ति",
+      "आत्मविश्वास",
+      "साहस",
+      "रचनात्मक उद्देश्य",
+      "प्रभाव",
+      "सफलता",
+      "राजनीति",
+      "व्यवसाय",
+      "आर्थिक",
+      "सामाजिक क्षेत्र",
+      "स्वास्थ्य सुधार",
+      "शारीरिक कार्य",
+      "मनोबल"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "empowering",
+      "supportive",
+      "productive"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "सशक्तिकरण",
+      "समर्थक",
+      "उत्पादक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "strength enhancement",
+      "confidence boost",
+      "health and vitality",
+      "career and social success"
+    ],
+    "hi": [
+      "शक्ति वृद्धि",
+      "आत्मविश्वास में वृद्धि",
+      "स्वास्थ्य और जीवंतता",
+      "करियर और सामाजिक सफलता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-tri-mar",
+      "core": "This aspect enhances strength, confidence, and courage, supporting progress in creative and professional areas with health benefits from physical activity.",
+      "tone": "Warm, encouraging, and balanced"
+    },
+    "hi": {
+      "title": "सूर्य त्रिकोण मंगल",
+      "core": "यह योग शक्ति, आत्मविश्वास और साहस बढ़ाता है, रचनात्मक और पेशेवर क्षेत्रों में प्रगति का समर्थन करता है तथा शारीरिक गतिविधि से स्वास्थ्य लाभ होता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और संतुलित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Enhanced physical, mental, and economic strength boosts confidence and courage, aiding progress toward creative goals and influence, with successful opportunities in politics, business, economics, and social fields, alongside health improvements from physical work.",
+        "hi": "शारीरिक, मानसिक और आर्थिक शक्ति में वृद्धि से आत्मविश्वास और साहस बढ़ता है, जो रचनात्मक लक्ष्यों की ओर प्रगति और प्रभावशाली बनने में मदद करता है। राजनीति, व्यवसाय, आर्थिक और सामाजिक क्षेत्रों में सफल अवसर प्राप्त होते हैं तथा शारीरिक कार्य से स्वास्थ्य में सुधार होता है।"
+      },
+      "career": {
+        "en": "Opportunities arise to successfully complete tasks related to politics, business, economics, and social fields, enhancing influence and progress.",
+        "hi": "राजनीति, व्यवसाय, आर्थिक और सामाजिक क्षेत्रों से संबंधित कार्यों को सफलतापूर्वक पूरा करने के अवसर प्राप्त होते हैं, जिससे प्रभाव और प्रगति बढ़ती है।"
+      },
+      "relationships": {
+        "en": "Confidence and courage improve personal influence, potentially strengthening social interactions and presence.",
+        "hi": "आत्मविश्वास और साहस से व्यक्तिगत प्रभाव बढ़ता है, जो सामाजिक संबंधों और उपस्थिति को मजबूत कर सकता है।"
+      },
+      "money": {
+        "en": "Economic strength is enhanced, supporting successful ventures and financial opportunities in various fields.",
+        "hi": "आर्थिक शक्ति में वृद्धि होती है, जो विभिन्न क्षेत्रों में सफल प्रयासों और वित्तीय अवसरों का समर्थन करती है।"
+      },
+      "health_adj": {
+        "en": "Health benefits and improvements occur through physical work or use of tools, accompanied by increased morale.",
+        "hi": "शारीरिक कार्य या उपकरणों के उपयोग से स्वास्थ्य लाभ और सुधार होता है, साथ ही मनोबल में वृद्धि होती है।"
+      }
+    },
+    "aliases": [
+      "Sun trine Mars",
+      "Sun TRI Mar",
+      "Sun-Trine-Mars",
+      "Sun Trine to Mars"
+    ]
+  }
+}

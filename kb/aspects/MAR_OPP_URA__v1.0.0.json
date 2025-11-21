@@ -1,0 +1,253 @@
+{
+  "id": "MAR_OPP_URA__v1.0.0",
+  "pair": [
+    "Mars",
+    "Opposition",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Mars opposition Uranus indicates potential for anger, disputes, and carelessness leading to accidents and mental instability that hinders goal achievement. It is an unfavorable time for new ventures, institutions, or agreements, with increased conflicts especially in professional and joint financial matters. Technical and engineering work may face obstacles and risks, requiring caution.",
+    "hi": "मंगल का यूरेनस के विपरीत होने से क्रोध, विवाद, हठधर्मिता और असावधानी से दुर्घटना की संभावना रहती है तथा मानसिक अस्थिरता के कारण उद्देश्य पूर्ति में बाधा आती है। नए कार्य, संस्था या समझौते के लिए यह समय अनुपयुक्त होता है। पेशेवर और संयुक्त वित्तीय मामलों में विवाद बढ़ सकते हैं। तकनीकी और इंजीनियरिंग कार्यों में समस्याएँ और जोखिम रह सकते हैं, इसलिए सावधानी आवश्यक है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Increased incidents and conflicts may arise professionally, especially in technical or engineering fields where obstacles and deception are possible.",
+      "hi": "पेशेवर क्षेत्र में अधिक घटनाएँ और विवाद उत्पन्न हो सकते हैं, विशेषकर तकनीकी या इंजीनियरिंग कार्यों में जहाँ बाधा और धोखा संभव है।"
+    },
+    "relationships": {
+      "en": "Joint assets, businesses, taxes, and insurance matters may become sources of problems and disputes.",
+      "hi": "संयुक्त संपत्ति, व्यवसाय, कर और बीमा संबंधी मामले समस्या और विवाद का कारण बन सकते हैं।"
+    },
+    "money": {
+      "en": "Risks of major losses exist due to wrong technical applications; joint financial dealings may be problematic.",
+      "hi": "गलत तकनीकी प्रयोग से बड़ी हानि का जोखिम रहता है; संयुक्त वित्तीय मामलों में समस्या हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Mental instability and increased excitability require control; caution advised with tools, electrical devices, explosives, and weapons.",
+      "hi": "मानसिक अस्थिरता और उत्तेजना में वृद्धि पर नियंत्रण आवश्यक है; उपकरण, विद्युत उपकरण, विस्फोटक और हथियारों में सावधानी बरतें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Accidents",
+      "Disputes and conflicts",
+      "Obstacles in new ventures",
+      "Technical and engineering challenges"
+    ],
+    "hi": [
+      "दुर्घटनाएँ",
+      "विवाद और झगड़े",
+      "नए कार्यों में बाधाएँ",
+      "तकनीकी और इंजीनियरिंग चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Accidents due to anger, carelessness, or stubbornness",
+      "Mental instability obstructing goals",
+      "Problems in joint assets, taxes, and insurance",
+      "Major losses from incorrect technical use",
+      "Conflicts in professional settings"
+    ],
+    "hi": [
+      "क्रोध, असावधानी या हठधर्मिता से दुर्घटना का खतरा",
+      "मानसिक अस्थिरता से उद्देश्य पूर्ति में बाधा",
+      "संयुक्त संपत्ति, कर और बीमा में समस्या",
+      "गलत तकनीकी प्रयोग से बड़ी हानि",
+      "पेशेवर क्षेत्र में विवाद"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution with tools, electrical devices, explosives, and weapons",
+        "Control excitability and mental instability",
+        "Avoid starting new ventures, institutions, or agreements"
+      ],
+      "hi": [
+        "उपकरण, विद्युत उपकरण, विस्फोटक और हथियारों में सावधानी बरतें",
+        "उत्तेजना और मानसिक अस्थिरता पर नियंत्रण रखें",
+        "नए कार्य, संस्था या समझौते शुरू करने से बचें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be alert to sudden intuitive changes",
+        "Monitor for increased conflicts and disputes",
+        "Take extra care in technical and engineering work"
+      ],
+      "hi": [
+        "अचानक अंतर्ज्ञानिक परिवर्तनों के प्रति सतर्क रहें",
+        "विवाद और झगड़ों में वृद्धि पर ध्यान दें",
+        "तकनीकी और इंजीनियरिंग कार्यों में अतिरिक्त सावधानी बरतें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually reduce involvement in joint financial matters if problematic",
+        "Work on stabilizing mental focus and reducing excitability"
+      ],
+      "hi": [
+        "यदि समस्या हो तो संयुक्त वित्तीय मामलों से धीरे-धीरे दूरी बनाएं",
+        "मानसिक एकाग्रता स्थिर करने और उत्तेजना कम करने पर काम करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "anger",
+      "disputes",
+      "accidents",
+      "mental instability",
+      "conflicts",
+      "technical risks",
+      "carelessness",
+      "excitability"
+    ],
+    "hi": [
+      "क्रोध",
+      "विवाद",
+      "दुर्घटना",
+      "मानसिक अस्थिरता",
+      "झगड़ा",
+      "तकनीकी जोखिम",
+      "असावधानी",
+      "उत्तेजना"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "unstable",
+      "risky",
+      "conflict-prone"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "जोखिमपूर्ण",
+      "विवाद-संवेदनशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "caution",
+      "control",
+      "obstacles",
+      "conflict",
+      "risk management"
+    ],
+    "hi": [
+      "सावधानी",
+      "नियंत्रण",
+      "बाधाएँ",
+      "विवाद",
+      "जोखिम प्रबंधन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-opp-ura",
+      "core": "Potential for anger, disputes, accidents, and mental instability affecting goals and new ventures. Caution advised in technical and joint financial matters.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "मंगल का यूरेनस के विपरीत",
+      "core": "क्रोध, विवाद, दुर्घटना और मानसिक अस्थिरता की संभावना जो उद्देश्य और नए कार्यों को प्रभावित करती है। तकनीकी और संयुक्त वित्तीय मामलों में सावधानी आवश्यक।",
+      "tone": "निष्पक्ष, सतर्क और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Mars opposition Uranus indicates anger, disputes, carelessness causing accidents and mental instability obstructing goals. Not suitable for new ventures or agreements. Conflicts likely professionally and in joint financial matters. Technical work may face obstacles and risks.",
+        "hi": "मंगल का यूरेनस के विपरीत होने से क्रोध, विवाद, असावधानी से दुर्घटना होती है और मानसिक अस्थिरता उद्देश्य पूर्ति में बाधा डालती है। नए कार्य या समझौते के लिए अनुकूल नहीं। पेशेवर और संयुक्त वित्तीय मामलों में विवाद संभव। तकनीकी कार्यों में बाधा और जोखिम।"
+      },
+      "career": {
+        "en": "Professional life may see increased incidents and conflicts, especially in engineering and technical fields with risks of deception and obstacles.",
+        "hi": "पेशेवर जीवन में घटनाओं और विवादों में वृद्धि हो सकती है, विशेषकर इंजीनियरिंग और तकनीकी क्षेत्रों में धोखा और बाधा का खतरा।"
+      },
+      "relationships": {
+        "en": "Joint assets, businesses, taxes, and insurance may cause problems and disputes.",
+        "hi": "संयुक्त संपत्ति, व्यवसाय, कर और बीमा समस्याएँ और विवाद उत्पन्न कर सकते हैं।"
+      },
+      "money": {
+        "en": "Wrong technical applications risk major losses; joint financial dealings may be problematic.",
+        "hi": "गलत तकनीकी प्रयोग से बड़ी हानि का जोखिम; संयुक्त वित्तीय मामलों में समस्या हो सकती है।"
+      },
+      "health_adj": {
+        "en": "Mental instability and excitability require control; caution with tools, electrical devices, explosives, and weapons.",
+        "hi": "मानसिक अस्थिरता और उत्तेजना पर नियंत्रण आवश्यक; उपकरण, विद्युत उपकरण, विस्फोटक और हथियारों में सावधानी बरतें।"
+      }
+    },
+    "aliases": [
+      "Mars opposition Uranus",
+      "Mar OPP Ura",
+      "Mars-Opposition-Uranus",
+      "Mars Opposition to Uranus"
+    ]
+  }
+}

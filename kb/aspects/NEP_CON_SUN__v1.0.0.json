@@ -1,0 +1,263 @@
+{
+  "id": "NEP_CON_SUN__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Conjunction",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect enhances imagination and creativity, favoring artistic and cultural pursuits. It may bring intuition and special awareness but also risks of deception, secret affairs, and family discord if negative influences are present.",
+    "hi": "यह योग कल्पना शक्ति और सृजनात्मकता को बढ़ाता है, जो कलाकारों और सांस्कृतिक कार्यों के लिए अनुकूल है। यह अंतर्ज्ञान और विशेष जागरूकता ला सकता है, लेकिन प्रतिकूल प्रभाव होने पर छल, छिपे संबंध और पारिवारिक कलह का खतरा भी होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for artists, singers, photographers, cinematographers, and similar professions; may involve dedicated work with cultural or religious organizations.",
+      "hi": "कलाकारों, गायकों, फोटोग्राफरों, सिनेमैटोग्राफरों और इसी तरह के पेशों के लिए अनुकूल; सांस्कृतिक या धार्मिक संस्थाओं के साथ निष्ठापूर्वक कार्य कर सकता है।"
+    },
+    "relationships": {
+      "en": "Potential for secret love affairs, deceitful relationships, or family separation if negative influences exist; otherwise, family events may be significant.",
+      "hi": "यदि प्रतिकूल प्रभाव हों तो छिपे प्रेम संबंध, कुटिल संबंध या पारिवारिक अलगाव हो सकता है; अन्यथा परिवार में महत्वपूर्ण घटनाएँ हो सकती हैं।"
+    },
+    "money": {
+      "en": "No direct financial indications; time may be wasted in daydreaming, possibly affecting practical money management.",
+      "hi": "प्रत्यक्ष वित्तीय संकेत नहीं; दिवास्वप्न में समय व्यर्थ हो सकता है, जो आर्थिक प्रबंधन को प्रभावित कर सकता है।"
+    },
+    "health_adj": {
+      "en": "Heightened anxiety and negative mindset; women may face risks of unwanted pregnancies; overall tendency to avoid responsibilities.",
+      "hi": "चिंता और नकारात्मक सोच बढ़ सकती है; महिलाओं के लिए अनचाहे गर्भ की संभावना; जिम्मेदारियों से बचने की प्रवृत्ति।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Artistic and creative developments",
+      "Family events or discord",
+      "Spiritual or meditative experiences",
+      "Association with cultural or religious institutions"
+    ],
+    "hi": [
+      "कलात्मक और सृजनात्मक विकास",
+      "पारिवारिक घटनाएँ या कलह",
+      "आध्यात्मिक या ध्यान संबंधी अनुभव",
+      "सांस्कृतिक या धार्मिक संस्थाओं से जुड़ाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Risk of secret or deceitful relationships",
+      "Possibility of family separation or discord",
+      "Tendency to avoid responsibilities and waste time",
+      "Increased anxiety and negative thoughts",
+      "Women may face unwanted pregnancies"
+    ],
+    "hi": [
+      "छिपे या कुटिल संबंधों का खतरा",
+      "पारिवारिक अलगाव या कलह की संभावना",
+      "जिम्मेदारियों से बचने और समय व्यर्थ करने की प्रवृत्ति",
+      "चिंता और नकारात्मक विचारधारा में वृद्धि",
+      "महिलाओं के लिए अनचाहे गर्भ की संभावना"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative and artistic activities",
+        "Seek spiritual or intuitive guidance",
+        "Dedicate efforts to cultural or religious organizations"
+      ],
+      "hi": [
+        "सृजनात्मक और कलात्मक गतिविधियों में संलग्न हों",
+        "आध्यात्मिक या अंतर्ज्ञान संबंधी मार्गदर्शन लें",
+        "सांस्कृतिक या धार्मिक संस्थाओं के लिए समर्पित प्रयास करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be cautious of secret or deceptive relationships",
+        "Avoid neglecting responsibilities",
+        "Monitor mental health and anxiety levels"
+      ],
+      "hi": [
+        "छिपे या कुटिल संबंधों से सावधान रहें",
+        "जिम्मेदारियों की उपेक्षा न करें",
+        "मानसिक स्वास्थ्य और चिंता पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons from intuition or meditation",
+        "Reassess involvement with organizations",
+        "Balance imagination with practical duties"
+      ],
+      "hi": [
+        "अंतर्ज्ञान या ध्यान से प्राप्त सीखों पर विचार करें",
+        "संस्थाओं से जुड़ाव का पुनर्मूल्यांकन करें",
+        "कल्पना और व्यावहारिक कर्तव्यों में संतुलन बनाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "imagination",
+      "creativity",
+      "intuition",
+      "secret affairs",
+      "family discord",
+      "anxiety",
+      "daydreaming",
+      "artistic professions",
+      "spiritual awareness",
+      "cultural institutions"
+    ],
+    "hi": [
+      "कल्पना",
+      "सृजनात्मकता",
+      "अंतर्ज्ञान",
+      "छिपे संबंध",
+      "पारिवारिक कलह",
+      "चिंता",
+      "दिवास्वप्न",
+      "कलात्मक पेशे",
+      "आध्यात्मिक जागरूकता",
+      "सांस्कृतिक संस्थाएं"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "intuitive",
+      "dedicated",
+      "unstable",
+      "anxious",
+      "imaginative"
+    ],
+    "hi": [
+      "सृजनात्मक",
+      "अंतर्ज्ञानी",
+      "निष्ठावान",
+      "अस्थिर",
+      "चिंतित",
+      "कल्पनाशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "art and creativity",
+      "spiritual insight",
+      "family dynamics",
+      "emotional fluctuation",
+      "responsibility avoidance"
+    ],
+    "hi": [
+      "कला और सृजनात्मकता",
+      "आध्यात्मिक अंतर्दृष्टि",
+      "पारिवारिक संबंध",
+      "भावनात्मक उतार-चढ़ाव",
+      "जिम्मेदारी से बचाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-con-sun",
+      "core": "This aspect enhances imagination and creativity, supporting artistic and spiritual pursuits while cautioning against deception and family discord.",
+      "tone": "Warm, neutral, and insightful"
+    },
+    "hi": {
+      "title": "नेपच्यून संयोजन सूर्य",
+      "core": "यह योग कल्पना और सृजनात्मकता को बढ़ाता है, जो कलात्मक और आध्यात्मिक कार्यों के लिए सहायक है, साथ ही छल और पारिवारिक कलह से सावधान करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Enhances imagination and creativity; may bring intuition and special awareness; risks of deception and family discord if negative influences present.",
+        "hi": "कल्पना और सृजनात्मकता बढ़ाता है; अंतर्ज्ञान और विशेष जागरूकता ला सकता है; प्रतिकूल प्रभाव होने पर छल और पारिवारिक कलह का खतरा।"
+      },
+      "career": {
+        "en": "Favorable for artistic professions and dedicated work with cultural or religious organizations.",
+        "hi": "कलात्मक पेशों के लिए अनुकूल और सांस्कृतिक या धार्मिक संस्थाओं के साथ निष्ठापूर्वक कार्य।"
+      },
+      "relationships": {
+        "en": "Potential for secret or deceitful relationships and family separation; significant family events possible.",
+        "hi": "छिपे या कुटिल संबंधों और पारिवारिक अलगाव की संभावना; महत्वपूर्ण पारिवारिक घटनाएँ हो सकती हैं।"
+      },
+      "money": {
+        "en": "No direct financial effects; tendency to waste time in daydreaming may affect practical money matters.",
+        "hi": "प्रत्यक्ष वित्तीय प्रभाव नहीं; दिवास्वप्न में समय व्यर्थ करने की प्रवृत्ति आर्थिक मामलों को प्रभावित कर सकती है।"
+      },
+      "health_adj": {
+        "en": "Increased anxiety and negative mindset; women may face unwanted pregnancies; avoidance of responsibilities noted.",
+        "hi": "चिंता और नकारात्मक सोच में वृद्धि; महिलाओं के लिए अनचाहे गर्भ की संभावना; जिम्मेदारियों से बचाव।"
+      }
+    },
+    "aliases": [
+      "Neptune conjunction Sun",
+      "Nep CON Sun",
+      "Neptune-Conjunction-Sun",
+      "Neptune Conjunction to Sun"
+    ]
+  }
+}

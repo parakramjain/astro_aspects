@@ -1,0 +1,154 @@
+{
+  "id": "MOO_SEX_JUP__v1.0.0",
+  "pair": [
+    "Moon",
+    "Sextile",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Moon and Jupiter opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": "Public reception, brand sentiment, consistency.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
+    "relationships": "Bonding, nurturance, emotional safety.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
+    "money": "Cyclic cashflow, consumer sentiment.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
+    "health_adj": "Hydration, sleep, digestion; stress sensitivity.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+  },
+  "life_event_type": [
+    "Birth of Child / Parenthood"
+  ],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution.",
+    "Overpromising; align scale with capacity."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "abundance",
+    "care",
+    "emotion",
+    "faith",
+    "growth",
+    "habits",
+    "home",
+    "law",
+    "mentor",
+    "mother",
+    "opportunity",
+    "public mood",
+    "sextile",
+    "skill",
+    "wisdom"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic",
+    "external-opportunity"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "",
+    "Wealth & Pricing",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Moon Sextile Jupiter",
+      "core": "Sextile between Moon and Jupiter opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Moon Sextile Jupiter (हिन्दी)",
+      "core": "Moon और Jupiter का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Moon and Jupiter opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": "Public reception, brand sentiment, consistency.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
+      "relationships": "Bonding, nurturance, emotional safety.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
+      "money": "Cyclic cashflow, consumer sentiment.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
+      "health_adj": "Hydration, sleep, digestion; stress sensitivity.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+    },
+    "aliases": [
+      "Moon sextile Jupiter",
+      "Moo SEX Jup",
+      "Moon-Sextile-Jupiter",
+      "Moon Sextile to Jupiter"
+    ]
+  }
+}

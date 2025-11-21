@@ -1,0 +1,249 @@
+{
+  "id": "SAT_OPP_SUN__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Opposition",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates increased stubbornness, ego, selfishness, and ambition, which tend to worsen problems. It challenges business and financial endeavors, with authoritative demands rising and new efforts often failing.",
+    "hi": "यह योग स्वभाव में जिद, अहंकार, स्वार्थ और महत्वाकांक्षा की वृद्धि दर्शाता है, जो समस्याओं को बढ़ाता है। यह व्यावसायिक और आर्थिक प्रयासों के लिए कठिनाई लाता है, अधिकार सम्पन्न व्यक्तियों की मांग बढ़ती है और नए प्रयास अक्सर विफल होते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business situations face challenges; achieving normal outcomes is difficult; authoritative demands increase.",
+      "hi": "व्यावसायिक स्थितियाँ कठिन होती हैं; सामान्य प्राप्तियाँ मुश्किल होती हैं; अधिकार सम्पन्न व्यक्तियों की मांग बढ़ती है।"
+    },
+    "relationships": {
+      "en": "Behavior marked by stubbornness and antagonism; some oppose for reputation; protective yet conflicting interactions.",
+      "hi": "व्यवहार में जिद और विरोधाभास होता है; कुछ प्रतिष्ठा के लिए विरोध करते हैं; संरक्षित लेकिन संघर्षपूर्ण संबंध।"
+    },
+    "money": {
+      "en": "Unfavorable period for financial investments due to fluctuations; new changes or methods tend to fail.",
+      "hi": "आर्थिक निवेशों के लिए प्रतिकूल समय, तेजी-मंदी की संभावना; नए परिवर्तन या प्रयास विफल रहते हैं।"
+    },
+    "health_adj": {
+      "en": "Increased ego and stubbornness may cause stress and aggravate problems.",
+      "hi": "अहंकार और जिद बढ़ने से तनाव और समस्याएँ विकराल हो सकती हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business challenges",
+      "Reputation conflicts",
+      "Financial fluctuations"
+    ],
+    "hi": [
+      "व्यावसायिक कठिनाइयाँ",
+      "प्रतिष्ठा संघर्ष",
+      "आर्थिक उतार-चढ़ाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased stubbornness and ego may worsen conflicts.",
+      "High demands from authority figures can create pressure.",
+      "Financial investments are risky due to market fluctuations.",
+      "New efforts or changes are likely to fail."
+    ],
+    "hi": [
+      "जिद और अहंकार संघर्ष बढ़ा सकते हैं।",
+      "अधिकारियों की अधिक मांग दबाव पैदा कर सकती है।",
+      "आर्थिक निवेश उतार-चढ़ाव के कारण जोखिम भरे हैं।",
+      "नए प्रयास या परिवर्तन विफल होने की संभावना है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise patience with stubborn behavior.",
+        "Be cautious with financial investments.",
+        "Prepare for challenges in business dealings."
+      ],
+      "hi": [
+        "जिद वाले व्यवहार में धैर्य रखें।",
+        "आर्थिक निवेशों में सावधानी बरतें।",
+        "व्यवसायिक मामलों में चुनौतियों के लिए तैयार रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid initiating new changes or methods.",
+        "Manage conflicts with authoritative individuals carefully.",
+        "Limit financial risks during this time."
+      ],
+      "hi": [
+        "नए परिवर्तन या पद्धति शुरू करने से बचें।",
+        "अधिकारियों के साथ संघर्ष सावधानी से संभालें।",
+        "इस समय आर्थिक जोखिम सीमित करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual easing of stubbornness and conflicts.",
+        "Improvement in business and financial stability.",
+        "Reduced pressure from authority demands."
+      ],
+      "hi": [
+        "जिद और संघर्ष में धीरे-धीरे कमी।",
+        "व्यवसाय और आर्थिक स्थिरता में सुधार।",
+        "अधिकारियों की मांगों से दबाव कम होना।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "stubbornness",
+      "ego",
+      "ambition",
+      "conflict",
+      "business challenges",
+      "financial risk",
+      "authority demands",
+      "failure of new efforts"
+    ],
+    "hi": [
+      "जिद",
+      "अहंकार",
+      "महत्वाकांक्षा",
+      "संघर्ष",
+      "व्यावसायिक कठिनाई",
+      "आर्थिक जोखिम",
+      "अधिकार मांग",
+      "नए प्रयासों की विफलता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "stressful",
+      "protective",
+      "antagonistic"
+    ],
+    "hi": [
+      "कठिन",
+      "तनावपूर्ण",
+      "संरक्षात्मक",
+      "विरोधी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "ego and ambition increase",
+      "business and financial instability",
+      "authority pressure",
+      "failure of new initiatives"
+    ],
+    "hi": [
+      "अहंकार और महत्वाकांक्षा वृद्धि",
+      "व्यवसायिक और आर्थिक अस्थिरता",
+      "अधिकार दबाव",
+      "नए प्रयासों की विफलता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-opp-sun",
+      "core": "Increased ego and stubbornness create challenges in business, finances, and relationships, with authoritative pressures and risk of failure in new efforts.",
+      "tone": "Neutral, cautious, and descriptive"
+    },
+    "hi": {
+      "title": "शनि का सूर्य के विरुद्ध योग",
+      "core": "अहंकार और जिद बढ़ने से व्यवसाय, वित्त और संबंधों में चुनौतियाँ आती हैं, अधिकार दबाव और नए प्रयासों की विफलता का जोखिम होता है।",
+      "tone": "तटस्थ, सावधान और वर्णनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Increased stubbornness, ego, selfishness, and ambition aggravate problems, challenging business and financial efforts with high demands from authority and failure of new methods.",
+        "hi": "जिद, अहंकार, स्वार्थ और महत्वाकांक्षा की वृद्धि से समस्याएँ बढ़ती हैं, व्यवसाय और वित्तीय प्रयासों में कठिनाई होती है, अधिकार मांगें अधिक होती हैं और नई पद्धतियाँ विफल होती हैं।"
+      },
+      "career": {
+        "en": "Business situations are difficult; normal achievements are hard; authoritative demands rise.",
+        "hi": "व्यवसायिक स्थितियाँ कठिन होती हैं; सामान्य प्राप्तियाँ मुश्किल होती हैं; अधिकार मांगें बढ़ती हैं।"
+      },
+      "relationships": {
+        "en": "Behavior shows stubbornness and antagonism; some oppose for reputation; protective but conflicting interactions.",
+        "hi": "व्यवहार में जिद और विरोध होता है; कुछ प्रतिष्ठा के लिए विरोध करते हैं; संरक्षित लेकिन संघर्षपूर्ण संबंध।"
+      },
+      "money": {
+        "en": "Financial investments face unfavorable fluctuations; new changes or efforts fail.",
+        "hi": "आर्थिक निवेशों में तेजी-मंदी के कारण प्रतिकूलता; नए परिवर्तन या प्रयास विफल होते हैं।"
+      },
+      "health_adj": {
+        "en": "Increased ego and stubbornness may cause stress and worsen problems.",
+        "hi": "अहंकार और जिद बढ़ने से तनाव और समस्याएँ बढ़ सकती हैं।"
+      }
+    },
+    "aliases": [
+      "Saturn opposition Sun",
+      "Sat OPP Sun",
+      "Saturn-Opposition-Sun",
+      "Saturn Opposition to Sun"
+    ]
+  }
+}

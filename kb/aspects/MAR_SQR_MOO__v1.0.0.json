@@ -1,0 +1,251 @@
+{
+  "id": "MAR_SQR_MOO__v1.0.0",
+  "pair": [
+    "Mars",
+    "Square",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect signals mental unrest, irritability, and impulsive decisions, leading to emotional instability and potential conflicts within the family, especially involving women.",
+    "hi": "यह योग मानसिक अशांति, चिड़चिड़ापन और जल्दबाजी में निर्णय लेने का संकेत देता है, जिससे भावनात्मक अस्थिरता और परिवार में, खासकर महिलाओं से जुड़ी, विवाद हो सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Impulsiveness may cause losses in business; caution is advised when handling tools and machines.",
+      "hi": "व्यापार में आवेग के कारण नुकसान हो सकता है; मशीनों और उपकरणों का सावधानी से उपयोग करें।"
+    },
+    "relationships": {
+      "en": "Family disputes may arise, particularly related to emotions or women, reflecting emotional instability.",
+      "hi": "परिवार में झगड़े हो सकते हैं, विशेषकर भावनाओं या महिलाओं से जुड़े, जो मानसिक अस्थिरता को दर्शाते हैं।"
+    },
+    "money": {
+      "en": "Not a favorable period for real estate or property dealings; impulsive actions can lead to financial losses.",
+      "hi": "ज़मीन-जायदाद से जुड़े कामों के लिए यह समय अनुकूल नहीं है; जल्दबाजी में फैसले वित्तीय नुकसान कर सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Risk of accidents due to emotional instability; handle tools and machines carefully.",
+      "hi": "भावनात्मक अस्थिरता के कारण दुर्घटना का खतरा; मशीनों और उपकरणों का सावधानी से उपयोग करें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family disputes",
+      "Impulsive decisions",
+      "Business losses",
+      "Accident risk"
+    ],
+    "hi": [
+      "परिवार में झगड़े",
+      "जल्दबाजी में निर्णय",
+      "व्यापार में नुकसान",
+      "दुर्घटना का खतरा"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional instability may lead to wrong choices.",
+      "Increased chance of accidents.",
+      "Impulsiveness can cause financial loss.",
+      "Not suitable for property transactions."
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता से गलत निर्णय हो सकते हैं।",
+      "दुर्घटना की संभावना बढ़ जाती है।",
+      "आवेग से वित्तीय नुकसान हो सकता है।",
+      "जायदाद के लेन-देन के लिए अनुकूल नहीं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise patience in decision-making.",
+        "Communicate calmly within family.",
+        "Avoid impulsive business moves."
+      ],
+      "hi": [
+        "निर्णय लेने में धैर्य रखें।",
+        "परिवार में शांति से संवाद करें।",
+        "व्यापार में जल्दबाजी से बचें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Handle tools and machines with extra care.",
+        "Be mindful of emotional reactions.",
+        "Avoid property-related transactions."
+      ],
+      "hi": [
+        "मशीनों और उपकरणों का विशेष सावधानी से उपयोग करें।",
+        "भावनात्मक प्रतिक्रियाओं पर ध्यान दें।",
+        "जायदाद से जुड़े काम टालें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual reduction in irritability and impulsiveness.",
+        "Improved emotional stability.",
+        "Better judgment in family and business matters."
+      ],
+      "hi": [
+        "चिड़चिड़ापन और जल्दबाजी में कमी।",
+        "भावनात्मक स्थिरता में सुधार।",
+        "परिवार और व्यापार में बेहतर निर्णय क्षमता।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "mental unrest",
+      "irritability",
+      "impulsive decisions",
+      "family disputes",
+      "emotional instability",
+      "accident risk",
+      "business losses",
+      "property caution"
+    ],
+    "hi": [
+      "मानसिक अशांति",
+      "चिड़चिड़ापन",
+      "जल्दबाजी में निर्णय",
+      "परिवार में झगड़े",
+      "भावनात्मक अस्थिरता",
+      "दुर्घटना का खतरा",
+      "व्यापार में नुकसान",
+      "जायदाद में सावधानी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "unstable",
+      "impulsive",
+      "cautious"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "आवेगी",
+      "सावधानीपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional tension",
+      "family conflict",
+      "risk awareness",
+      "business caution"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "परिवारिक विवाद",
+      "जोखिम जागरूकता",
+      "व्यापार में सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-squ-moo",
+      "core": "Mental unrest and impulsiveness may cause family disputes and business losses; caution is advised.",
+      "tone": "Warm, neutral, and advisory"
+    },
+    "hi": {
+      "title": "मंगल वर्ग चंद्र",
+      "core": "मानसिक अशांति और जल्दबाजी से परिवार में झगड़े और व्यापार में नुकसान हो सकता है; सावधानी आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सलाहकार"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This aspect signals mental unrest, irritability, and impulsive decisions, leading to emotional instability and potential conflicts within the family, especially involving women.",
+        "hi": "यह योग मानसिक अशांति, चिड़चिड़ापन और जल्दबाजी में निर्णय लेने का संकेत देता है, जिससे भावनात्मक अस्थिरता और परिवार में, खासकर महिलाओं से जुड़ी, विवाद हो सकते हैं।"
+      },
+      "career": {
+        "en": "Impulsiveness may cause losses in business; caution is advised when handling tools and machines.",
+        "hi": "व्यापार में आवेग के कारण नुकसान हो सकता है; मशीनों और उपकरणों का सावधानी से उपयोग करें।"
+      },
+      "relationships": {
+        "en": "Family disputes may arise, particularly related to emotions or women, reflecting emotional instability.",
+        "hi": "परिवार में झगड़े हो सकते हैं, विशेषकर भावनाओं या महिलाओं से जुड़े, जो मानसिक अस्थिरता को दर्शाते हैं।"
+      },
+      "money": {
+        "en": "Not a favorable period for real estate or property dealings; impulsive actions can lead to financial losses.",
+        "hi": "ज़मीन-जायदाद से जुड़े कामों के लिए यह समय अनुकूल नहीं है; जल्दबाजी में फैसले वित्तीय नुकसान कर सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Risk of accidents due to emotional instability; handle tools and machines carefully.",
+        "hi": "भावनात्मक अस्थिरता के कारण दुर्घटना का खतरा; मशीनों और उपकरणों का सावधानी से उपयोग करें।"
+      }
+    },
+    "aliases": [
+      "Mars square Moon",
+      "Mar SQR Moo",
+      "Mars-Square-Moon",
+      "Mars Square to Moon"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "id": "VEN_SQR_PLU__v1.0.0",
+  "pair": [
+    "Venus",
+    "Square",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person suppresses feelings and becomes controlling or obsessive in relationships, causing intense emotional pressure and possessiveness that may disrupt business or finances.",
+    "hi": "व्यक्ति अपनी भावनाओं को दबाता है और संबंधों में नियंत्रित या आसक्त हो जाता है, जिससे तीव्र भावनात्मक दबाव और स्वामित्व की भावना उत्पन्न होती है जो व्यवसाय या वित्तीय मामलों में बाधा डाल सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business or financial disturbances may arise due to possessiveness and emotional intensity.",
+      "hi": "स्वामित्व की भावना और भावनात्मक तीव्रता के कारण व्यवसायिक समस्याएँ उत्पन्न हो सकती हैं।"
+    },
+    "relationships": {
+      "en": "Relationships tend to become controlling, obsessive, and marked by bitterness and irritability.",
+      "hi": "संबंध नियंत्रित, आसक्त और कटुता तथा चिड़चिड़ाहट से भरे हो सकते हैं।"
+    },
+    "money": {
+      "en": "Financial issues may occur linked to emotional possessiveness and pressure.",
+      "hi": "भावनात्मक स्वामित्व और दबाव के कारण वित्तीय समस्याएँ हो सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional stress from controlling tendencies may affect overall well-being.",
+      "hi": "नियंत्रण की प्रवृत्ति से उत्पन्न भावनात्मक तनाव समग्र स्वास्थ्य को प्रभावित कर सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Relationship challenges",
+      "Emotional conflicts",
+      "Business or financial disturbances"
+    ],
+    "hi": [
+      "संबंधों में चुनौतियाँ",
+      "भावनात्मक संघर्ष",
+      "व्यवसायिक या वित्तीय समस्याएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Possessiveness may lead to conflicts in relationships.",
+      "Emotional suppression can increase tension and irritability.",
+      "Financial or business disruptions are possible."
+    ],
+    "hi": [
+      "स्वामित्व संबंधों में संघर्ष उत्पन्न कर सकता है।",
+      "भावनाओं को दबाने से तनाव और चिड़चिड़ाहट बढ़ सकती है।",
+      "वित्तीय या व्यवसायिक बाधाएँ संभव हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Recognize controlling or obsessive tendencies in relationships.",
+        "Address emotional pressure constructively.",
+        "Monitor financial decisions carefully."
+      ],
+      "hi": [
+        "संबंधों में नियंत्रण या आसक्ति की प्रवृत्ति को पहचानें।",
+        "भावनात्मक दबाव को रचनात्मक रूप से संभालें।",
+        "वित्तीय निर्णयों पर सावधानी रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be mindful of increased irritability and possessiveness.",
+        "Avoid forcing situations in personal relationships.",
+        "Review business matters for potential disturbances."
+      ],
+      "hi": [
+        "बढ़ी हुई चिड़चिड़ाहट और स्वामित्व से सावधान रहें।",
+        "व्यक्तिगत संबंधों में जबरदस्ती से बचें।",
+        "संभावित व्यवधानों के लिए व्यवसायिक मामलों की समीक्षा करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Emotional intensity and possessiveness may lessen.",
+        "Relationship tensions could ease gradually.",
+        "Business and financial situations might stabilize."
+      ],
+      "hi": [
+        "भावनात्मक तीव्रता और स्वामित्व कम हो सकते हैं।",
+        "संबंधों का तनाव धीरे-धीरे कम हो सकता है।",
+        "व्यवसाय और वित्तीय स्थिति स्थिर हो सकती है।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "suppression",
+      "controlling",
+      "obsessive",
+      "emotional pressure",
+      "possessiveness",
+      "relationship tension",
+      "business disturbance",
+      "financial issues"
+    ],
+    "hi": [
+      "दबाव",
+      "नियंत्रण",
+      "आसक्ति",
+      "भावनात्मक दबाव",
+      "स्वामित्व",
+      "संबंधों में तनाव",
+      "व्यवसायिक बाधा",
+      "वित्तीय समस्या"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intense",
+      "challenging",
+      "emotional",
+      "possessive"
+    ],
+    "hi": [
+      "तीव्र",
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "स्वामित्वपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "relationship dynamics",
+      "emotional control",
+      "financial caution"
+    ],
+    "hi": [
+      "संबंधों की गतिशीलता",
+      "भावनात्मक नियंत्रण",
+      "वित्तीय सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-squ-plu",
+      "core": "Suppression of feelings leads to controlling and obsessive relationship patterns, causing emotional pressure and possible financial or business disturbances.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "शुक्र वर्ग प्लूटो",
+      "core": "भावनाओं को दबाने से संबंधों में नियंत्रण और आसक्ति की प्रवृत्ति होती है, जिससे भावनात्मक दबाव और संभवतः वित्तीय या व्यवसायिक समस्याएँ उत्पन्न होती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person suppresses feelings and becomes controlling or obsessive in relationships, causing intense emotional pressure and possessiveness that may disrupt business or finances.",
+        "hi": "व्यक्ति अपनी भावनाओं को दबाता है और संबंधों में नियंत्रित या आसक्त हो जाता है, जिससे तीव्र भावनात्मक दबाव और स्वामित्व की भावना उत्पन्न होती है जो व्यवसाय या वित्तीय मामलों में बाधा डाल सकती है।"
+      },
+      "career": {
+        "en": "Business or financial disturbances may arise due to possessiveness and emotional intensity.",
+        "hi": "स्वामित्व की भावना और भावनात्मक तीव्रता के कारण व्यवसायिक समस्याएँ उत्पन्न हो सकती हैं।"
+      },
+      "relationships": {
+        "en": "Relationships tend to become controlling, obsessive, and marked by bitterness and irritability.",
+        "hi": "संबंध नियंत्रित, आसक्त और कटुता तथा चिड़चिड़ाहट से भरे हो सकते हैं।"
+      },
+      "money": {
+        "en": "Financial issues may occur linked to emotional possessiveness and pressure.",
+        "hi": "भावनात्मक स्वामित्व और दबाव के कारण वित्तीय समस्याएँ हो सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional stress from controlling tendencies may affect overall well-being.",
+        "hi": "नियंत्रण की प्रवृत्ति से उत्पन्न भावनात्मक तनाव समग्र स्वास्थ्य को प्रभावित कर सकता है।"
+      }
+    },
+    "aliases": [
+      "Venus square Pluto",
+      "Ven SQR Plu",
+      "Venus-Square-Pluto",
+      "Venus Square to Pluto"
+    ]
+  }
+}

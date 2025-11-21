@@ -1,0 +1,232 @@
+{
+  "id": "VEN_TRI_VEN__v1.0.0",
+  "pair": [
+    "Venus",
+    "Trine",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person experiences charm, attraction, and artistic peace, fostering creativity and emotional harmony.",
+    "hi": "व्यक्ति अपने जीवन में आकर्षण, उदारता और कलात्मक शांति का अनुभव करता है, जिससे रचनात्मकता और भावनात्मक सामंजस्य बढ़ता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for artistic pursuits and creative work, benefiting those involved in music and arts.",
+      "hi": "संगीत और कला से जुड़े लोगों के लिए कलात्मक कार्यों में लाभकारी समय।"
+    },
+    "relationships": {
+      "en": "A good period for female interactions and emotional harmony in relationships.",
+      "hi": "महिलाओं के साथ संबंधों में अनुकूल समय और भावनात्मक सामंजस्य।"
+    },
+    "money": {
+      "en": "No specific financial implications indicated.",
+      "hi": "वित्तीय मामलों में कोई विशेष संकेत नहीं।"
+    },
+    "health_adj": {
+      "en": "Promotes emotional peace and well-being through artistic and musical engagement.",
+      "hi": "कलात्मक और संगीत संबंधी गतिविधियों से भावनात्मक शांति और स्वास्थ्य में सुधार।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative opportunities",
+      "Enhanced social interactions with women",
+      "Emotional harmony"
+    ],
+    "hi": [
+      "रचनात्मक अवसर",
+      "महिलाओं के साथ सामाजिक संबंधों में वृद्धि",
+      "भावनात्मक सामंजस्य"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative and artistic activities",
+        "Foster positive interactions with women",
+        "Focus on emotional balance"
+      ],
+      "hi": [
+        "रचनात्मक और कलात्मक गतिविधियों में संलग्न हों",
+        "महिलाओं के साथ सकारात्मक संबंध बनाएं",
+        "भावनात्मक संतुलन पर ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize peak charm and attraction",
+        "Participate in music and artistic events",
+        "Enhance emotional harmony"
+      ],
+      "hi": [
+        "अपने आकर्षण और मोहकता का अधिकतम उपयोग करें",
+        "संगीत और कलात्मक कार्यक्रमों में भाग लें",
+        "भावनात्मक सामंजस्य बढ़ाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain creative momentum",
+        "Sustain harmonious relationships"
+      ],
+      "hi": [
+        "रचनात्मक गति बनाए रखें",
+        "सामंजस्यपूर्ण संबंध बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "charm",
+      "attraction",
+      "artistic peace",
+      "creativity",
+      "music",
+      "emotional harmony",
+      "female interactions"
+    ],
+    "hi": [
+      "आकर्षण",
+      "मोहकता",
+      "कलात्मक शांति",
+      "रचनात्मकता",
+      "संगीत",
+      "भावनात्मक सामंजस्य",
+      "महिला संबंध"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "harmonious",
+      "creative",
+      "peaceful"
+    ],
+    "hi": [
+      "अनुकूल",
+      "सामंजस्यपूर्ण",
+      "रचनात्मक",
+      "शांतिपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "artistic expression",
+      "emotional balance",
+      "social harmony"
+    ],
+    "hi": [
+      "कलात्मक अभिव्यक्ति",
+      "भावनात्मक संतुलन",
+      "सामाजिक सामंजस्य"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-tri-ven",
+      "core": "Charm, creativity, and emotional harmony fostered through artistic and social connections.",
+      "tone": "Warm, positive, and encouraging"
+    },
+    "hi": {
+      "title": "शुक्र त्रिकोण शुक्र",
+      "core": "कलात्मक और सामाजिक संबंधों के माध्यम से आकर्षण, रचनात्मकता और भावनात्मक सामंजस्य।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person experiences charm, attraction, and artistic peace, fostering creativity and emotional harmony.",
+        "hi": "व्यक्ति अपने जीवन में आकर्षण, उदारता और कलात्मक शांति का अनुभव करता है, जिससे रचनात्मकता और भावनात्मक सामंजस्य बढ़ता है।"
+      },
+      "career": {
+        "en": "Favorable for artistic pursuits and creative work, benefiting those involved in music and arts.",
+        "hi": "संगीत और कला से जुड़े लोगों के लिए कलात्मक कार्यों में लाभकारी समय।"
+      },
+      "relationships": {
+        "en": "A good period for female interactions and emotional harmony in relationships.",
+        "hi": "महिलाओं के साथ संबंधों में अनुकूल समय और भावनात्मक सामंजस्य।"
+      },
+      "money": {
+        "en": "No specific financial implications indicated.",
+        "hi": "वित्तीय मामलों में कोई विशेष संकेत नहीं।"
+      },
+      "health_adj": {
+        "en": "Promotes emotional peace and well-being through artistic and musical engagement.",
+        "hi": "कलात्मक और संगीत संबंधी गतिविधियों से भावनात्मक शांति और स्वास्थ्य में सुधार।"
+      }
+    },
+    "aliases": [
+      "Venus trine Venus",
+      "Ven TRI Ven",
+      "Venus-Trine-Venus",
+      "Venus Trine to Venus"
+    ]
+  }
+}

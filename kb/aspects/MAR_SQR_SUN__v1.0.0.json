@@ -1,0 +1,257 @@
+{
+  "id": "MAR_SQR_SUN__v1.0.0",
+  "pair": [
+    "Mars",
+    "Square",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Irrational and provocative behavior can cause conflicts, disputes, and potential harm. Excessive anger, malice, and imposing one's will may lead to serious quarrels and stress-related health issues.",
+    "hi": "अव्यवहारिक और उत्तेजक व्यवहार से झगड़े, विवाद और संभावित हानि हो सकती है। अत्यधिक क्रोध, द्वेष और अपनी इच्छा दूसरों पर थोपने से गंभीर मतभेद और तनाव से जुड़ी स्वास्थ्य समस्याएँ हो सकती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Provocative actions and imposing will may cause workplace disputes or disagreements.",
+      "hi": "उत्तेजक व्यवहार और अपनी इच्छा थोपने से कार्यस्थल पर विवाद या मतभेद हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "Anger, malice, and sulking behavior can lead to quarrels and strained relations.",
+      "hi": "क्रोध, द्वेष और कुढ़ने वाले व्यवहार से झगड़े और संबंधों में तनाव हो सकता है।"
+    },
+    "money": {
+      "en": "Unnecessary expenses and revenge-driven spending may create financial problems.",
+      "hi": "अनावश्यक व्यय और प्रतिशोध से प्रेरित खर्च से वित्तीय समस्याएँ हो सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Excessive stress may lead to heart-related issues or physical harm from accidents.",
+      "hi": "अत्यधिक तनाव से हृदय रोग या दुर्घटना से शारीरिक हानि हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "conflicts",
+      "accidents",
+      "health issues",
+      "disputes"
+    ],
+    "hi": [
+      "झगड़े",
+      "दुर्घटनाएँ",
+      "स्वास्थ्य समस्याएँ",
+      "विवाद"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Provocative anger can escalate conflicts.",
+      "Resentment may lead to dangerous situations.",
+      "Excessive stress risks heart disease.",
+      "Physical harm or accidents are possible."
+    ],
+    "hi": [
+      "उत्तेजक क्रोध झगड़ों को बढ़ा सकता है।",
+      "कुंठा खतरनाक परिस्थितियाँ उत्पन्न कर सकती है।",
+      "अत्यधिक तनाव हृदय रोग का जोखिम बढ़ाता है।",
+      "शारीरिक हानि या दुर्घटना संभव है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Manage anger and avoid provoking others.",
+        "Control unnecessary expenses.",
+        "Be mindful of stress levels."
+      ],
+      "hi": [
+        "क्रोध को नियंत्रित करें और दूसरों को उत्तेजित न करें।",
+        "अनावश्यक खर्च से बचें।",
+        "तनाव के स्तर पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise caution to prevent quarrels.",
+        "Avoid imposing will aggressively.",
+        "Monitor health for stress-related symptoms."
+      ],
+      "hi": [
+        "झगड़ों से बचने के लिए सावधानी बरतें।",
+        "अपनी इच्छा जबरदस्ती न थोपें।",
+        "तनाव से जुड़ी स्वास्थ्य समस्याओं पर नजर रखें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Tensions may ease, reducing conflict risk.",
+        "Stress levels might decrease.",
+        "Opportunity to resolve disputes calmly."
+      ],
+      "hi": [
+        "तनाव कम हो सकता है, जिससे झगड़े का खतरा घटेगा।",
+        "तनाव के स्तर में कमी आ सकती है।",
+        "शांतिपूर्वक विवाद सुलझाने का अवसर।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "irrational behavior",
+      "revenge",
+      "provocative anger",
+      "malice",
+      "quarrels",
+      "disputes",
+      "stress",
+      "heart disease",
+      "accident",
+      "physical harm"
+    ],
+    "hi": [
+      "अव्यवहारिक व्यवहार",
+      "प्रतिशोध",
+      "उत्तेजक क्रोध",
+      "द्वेष",
+      "झगड़ा",
+      "विवाद",
+      "तनाव",
+      "हृदय रोग",
+      "दुर्घटना",
+      "शारीरिक हानि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "provocative",
+      "stressful",
+      "conflict-prone",
+      "emotional",
+      "volatile"
+    ],
+    "hi": [
+      "उत्तेजक",
+      "तनावपूर्ण",
+      "विवादास्पद",
+      "भावनात्मक",
+      "अस्थिर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "anger management",
+      "conflict resolution",
+      "stress awareness",
+      "health caution"
+    ],
+    "hi": [
+      "क्रोध नियंत्रण",
+      "विवाद समाधान",
+      "तनाव जागरूकता",
+      "स्वास्थ्य सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-squ-sun",
+      "core": "Irrational and provocative behavior may cause conflicts and health risks. Managing anger and stress is advised.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "मंगल वर्ग सूर्य",
+      "core": "अव्यवहारिक और उत्तेजक व्यवहार से झगड़े और स्वास्थ्य जोखिम हो सकते हैं। क्रोध और तनाव को नियंत्रित करना आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Irrational behavior, revenge, or unnecessary expenses will create problems. Provocative anger, malice, excessive display, imposing one's will on others can lead to quarrels, disputes, or disagreements.",
+        "hi": "अव्यवहारिक व्यवहारए कोई प्रतिशोधए व्यय द्वारा समस्या निर्मित होगी। उत्तेजनात्मक क्रोधए द्वेषए अधिक प्रदर्शनए अपनी इच्छा दूसरों पर थोपना/लादना आदि स्थितियों के कारण झगड़ा/विवाद/मतभेद हो सकता है।"
+      },
+      "career": {
+        "en": "Provocative anger and imposing will can cause disputes or disagreements in professional settings.",
+        "hi": "उत्तेजनात्मक क्रोध और अपनी इच्छा थोपने से पेशेवर माहौल में विवाद या मतभेद हो सकते हैं।"
+      },
+      "relationships": {
+        "en": "Anger, malice, sulking behavior, and provocative actions may lead to quarrels and strained relationships.",
+        "hi": "क्रोध, द्वेष, कुढ़ने वाला व्यवहार और उत्तेजक क्रियाएँ झगड़े और तनावपूर्ण संबंधों का कारण बन सकती हैं।"
+      },
+      "money": {
+        "en": "Unnecessary expenses and revenge-driven spending may create financial problems.",
+        "hi": "अनावश्यक व्यय और प्रतिशोध से प्रेरित खर्च से वित्तीय समस्याएँ हो सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Excessive stress may lead to heart disease or physical harm from accidents.",
+        "hi": "अत्यधिक तनावए हृदय रोग हो सकता है और दुर्घटना से शारीरिक हानि संभव है।"
+      }
+    },
+    "aliases": [
+      "Mars square Sun",
+      "Mar SQR Sun",
+      "Mars-Square-Sun",
+      "Mars Square to Sun"
+    ]
+  }
+}

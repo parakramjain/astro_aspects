@@ -1,0 +1,253 @@
+{
+  "id": "SAT_OPP_URA__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Opposition",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Conflict arises between personal freedom and responsibilities, causing struggles and restrictions. This opposition leads to disputes with authorities, increased frustration, and sudden problems affecting various life areas.",
+    "hi": "व्यक्तिगत स्वतंत्रता और जिम्मेदारी के बीच संघर्ष उत्पन्न होता है, जिससे बाधाएँ और प्रतिबंध बनते हैं। इस विरोध के कारण अधिकारी वर्ग से मतभेद, निराशा और अचानक समस्याएँ आती हैं जो जीवन के विभिन्न क्षेत्रों को प्रभावित करती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Struggles and disputes with authorities occur, leading to professional losses and obstacles in joint business or legal matters.",
+      "hi": "अधिकारी वर्ग से संघर्ष और मतभेद होते हैं, जिससे व्यावसायिक नुकसान और संयुक्त व्यवसाय या कानूनी मामलों में अड़चनें आती हैं।"
+    },
+    "relationships": {
+      "en": "Rebellion against elders and harsh behavior towards subordinates create tension and conflicts in relationships.",
+      "hi": "बड़ों से विद्रोह और अधीनस्थों के प्रति कठोर व्यवहार से संबंधों में तनाव और संघर्ष उत्पन्न होते हैं।"
+    },
+    "money": {
+      "en": "Financial issues arise especially in joint property, business, taxes, insurance, and legal obstacles may cause losses.",
+      "hi": "संयुक्त संपत्ति, व्यवसाय, कर, बीमा में आर्थिक समस्याएँ और कानूनी अड़चनें नुकसान का कारण बनती हैं।"
+    },
+    "health_adj": {
+      "en": "Increased irritability and frustration may affect emotional well-being; sudden unexpected problems can arise.",
+      "hi": "चिड़चिड़ापन और निराशा बढ़ने से मानसिक स्थिति प्रभावित हो सकती है; अचानक अप्रत्याशित समस्याएँ आ सकती हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts with authorities",
+      "Sudden unexpected problems",
+      "Legal or financial obstacles",
+      "Professional or business losses"
+    ],
+    "hi": [
+      "अधिकारी वर्ग से संघर्ष",
+      "अचानक अप्रत्याशित समस्याएँ",
+      "कानूनी या आर्थिक अड़चनें",
+      "व्यावसायिक या व्यापारिक नुकसान"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased frustration and irritability",
+      "Disputes causing relationship strain",
+      "Financial losses due to selfish actions",
+      "Legal and joint business complications"
+    ],
+    "hi": [
+      "निराशा और चिड़चिड़ापन बढ़ना",
+      "संबंधों में तनाव के कारण झगड़े",
+      "स्वार्थपूर्ण कार्यों से आर्थिक नुकसान",
+      "कानूनी और संयुक्त व्यवसाय की जटिलताएँ"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Maintain patience in conflicts",
+        "Communicate clearly with authorities",
+        "Avoid selfish decisions in business",
+        "Prepare for unexpected challenges"
+      ],
+      "hi": [
+        "संघर्षों में धैर्य बनाए रखें",
+        "अधिकारी वर्ग से स्पष्ट संवाद करें",
+        "व्यवसाय में स्वार्थपूर्ण निर्णय टालें",
+        "अप्रत्याशित चुनौतियों के लिए तैयार रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Expect increased tension with elders and subordinates",
+        "Watch for sudden problems affecting career and finances",
+        "Be cautious in joint legal or financial matters"
+      ],
+      "hi": [
+        "बड़ों और अधीनस्थों के साथ तनाव बढ़ने की संभावना",
+        "व्यवसाय और वित्त में अचानक समस्याओं पर ध्यान दें",
+        "संयुक्त कानूनी या आर्थिक मामलों में सावधानी बरतें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Avoid harsh reactions to authority",
+        "Manage frustration constructively",
+        "Seek compromise between freedom and responsibility"
+      ],
+      "hi": [
+        "अधिकारी वर्ग के प्रति कठोर प्रतिक्रिया से बचें",
+        "निराशा को सकारात्मक रूप से संभालें",
+        "स्वतंत्रता और जिम्मेदारी के बीच समझौता करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "conflict",
+      "freedom vs responsibility",
+      "rebellion",
+      "frustration",
+      "legal obstacles",
+      "financial loss",
+      "irritability",
+      "sudden problems"
+    ],
+    "hi": [
+      "संघर्ष",
+      "स्वतंत्रता बनाम जिम्मेदारी",
+      "विद्रोह",
+      "निराशा",
+      "कानूनी अड़चन",
+      "आर्थिक नुकसान",
+      "चिड़चिड़ापन",
+      "अचानक समस्याएँ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "conflictual",
+      "restrictive",
+      "unpredictable"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "संघर्षपूर्ण",
+      "प्रतिबंधात्मक",
+      "अप्रत्याशित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "authority issues",
+      "freedom limitations",
+      "professional struggles",
+      "financial/legal complications"
+    ],
+    "hi": [
+      "अधिकारी समस्याएँ",
+      "स्वतंत्रता की सीमाएँ",
+      "व्यावसायिक संघर्ष",
+      "आर्थिक/कानूनी जटिलताएँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-opp-ura",
+      "core": "This aspect indicates tension between personal freedom and responsibilities, leading to conflicts and sudden challenges.",
+      "tone": "Neutral, informative, cautious"
+    },
+    "hi": {
+      "title": "शनि विरुद्ध अरुण",
+      "core": "यह योग व्यक्तिगत स्वतंत्रता और जिम्मेदारियों के बीच तनाव दर्शाता है, जिससे संघर्ष और अचानक चुनौतियाँ उत्पन्न होती हैं।",
+      "tone": "सहज, सूचनात्मक, सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Conflict between personal freedom and responsibilities arises. Opposition creates struggles and restrictions, leading to frustration and disputes.",
+        "hi": "व्यक्तिगत स्वतंत्रता और जिम्मेदारी में असंगति के कारण संघर्ष उत्पन्न होता है। विरोध से बाधाएँ और प्रतिबंध बनते हैं, जिससे निराशा और झगड़े होते हैं।"
+      },
+      "career": {
+        "en": "Opposition causes disputes with authorities and professional losses, including legal and joint business obstacles.",
+        "hi": "विरोध के कारण अधिकारी वर्ग से मतभेद और व्यावसायिक नुकसान होते हैं, साथ ही कानूनी और संयुक्त व्यवसाय में अड़चनें आती हैं।"
+      },
+      "relationships": {
+        "en": "Person rebels against elders and behaves harshly with subordinates, causing tension and conflicts.",
+        "hi": "व्यक्ति अपने बड़ों से विद्रोह करता है और अधीनस्थों से कठोर व्यवहार करता है, जिससे तनाव और संघर्ष होते हैं।"
+      },
+      "money": {
+        "en": "Financial issues arise in joint property, business, taxes, and insurance, with legal obstacles causing losses.",
+        "hi": "संयुक्त संपत्ति, व्यवसाय, कर और बीमा में आर्थिक समस्याएँ और कानूनी अड़चनें नुकसान का कारण बनती हैं।"
+      },
+      "health_adj": {
+        "en": "Irritability and frustration increase; sudden unexpected problems affect emotional well-being.",
+        "hi": "चिड़चिड़ापन और निराशा बढ़ती है; अचानक अप्रत्याशित समस्याएँ मानसिक स्थिति को प्रभावित करती हैं।"
+      }
+    },
+    "aliases": [
+      "Saturn opposition Uranus",
+      "Sat OPP Ura",
+      "Saturn-Opposition-Uranus",
+      "Saturn Opposition to Uranus"
+    ]
+  }
+}

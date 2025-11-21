@@ -1,0 +1,239 @@
+{
+  "id": "MER_SQR_JUP__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Square",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates over-optimism, incomplete understanding, and impulsive decisions, leading to difficulty in applying ideas practically and obstacles in new work or education.",
+    "hi": "यह योग अत्यधिक आशावाद, अधूरी समझ और बिना सोचे-समझे फैसलों को दर्शाता है, जिससे विचारों को व्यावहारिक रूप से लागू करने में कठिनाई और नए काम या शिक्षा में रुकावटें आती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Challenges in starting new work or educational pursuits due to incomplete understanding and impulsive decisions.",
+      "hi": "अधूरी समझ और जल्दबाजी के कारण नए काम या शिक्षा शुरू करने में चुनौतियाँ।"
+    },
+    "relationships": {
+      "en": "Potential misunderstandings or impulsive reactions affecting communication and cooperation.",
+      "hi": "संचार और सहयोग में गलतफहमियां या जल्दबाजी से प्रतिक्रिया प्रभावित हो सकती है।"
+    },
+    "money": {
+      "en": "Unwise use of money, time, and energy leading to inefficiency and obstacles.",
+      "hi": "धन, समय और शक्ति का अनुचित उपयोग जिससे असफलता और बाधाएँ उत्पन्न होती हैं।"
+    },
+    "health_adj": {
+      "en": "Possible strain due to mismanagement of energy and impulsive actions.",
+      "hi": "ऊर्जा के गलत प्रबंधन और जल्दबाजी के कारण संभव तनाव।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New work challenges",
+      "Educational obstacles",
+      "Impulsive decision-making periods"
+    ],
+    "hi": [
+      "नए कार्य की चुनौतियाँ",
+      "शैक्षिक बाधाएँ",
+      "जल्दबाजी में निर्णय लेने के समय"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Over-optimism may cloud judgment",
+      "Incomplete understanding can cause setbacks",
+      "Impulsive decisions may lead to wasted resources"
+    ],
+    "hi": [
+      "अत्यधिक आशावाद निर्णय को प्रभावित कर सकता है",
+      "अधूरी समझ से असफलता हो सकती है",
+      "जल्दबाजी में लिए गए फैसले संसाधनों की बर्बादी कर सकते हैं"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Pause to evaluate ideas before acting",
+        "Seek clarity and complete understanding",
+        "Manage resources like time and energy carefully"
+      ],
+      "hi": [
+        "कार्रवाई से पहले विचारों का मूल्यांकन करें",
+        "स्पष्टता और पूर्ण समझ प्राप्त करें",
+        "समय और ऊर्जा जैसे संसाधनों का सावधानी से प्रबंधन करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive decisions",
+        "Focus on practical application of ideas",
+        "Be cautious with new work or educational efforts"
+      ],
+      "hi": [
+        "जल्दबाजी से निर्णय लेने से बचें",
+        "विचारों को व्यावहारिक रूप से लागू करने पर ध्यान दें",
+        "नए काम या शिक्षा में सावधानी बरतें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons learned from obstacles",
+        "Reassess resource management strategies",
+        "Gradually rebuild practical approaches"
+      ],
+      "hi": [
+        "बाधाओं से मिली सीख पर विचार करें",
+        "संसाधन प्रबंधन रणनीतियों का पुनर्मूल्यांकन करें",
+        "व्यावहारिक दृष्टिकोण को धीरे-धीरे पुनर्निर्मित करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "over-optimism",
+      "incomplete understanding",
+      "impulsive decisions",
+      "practical difficulties",
+      "obstacles",
+      "resource mismanagement"
+    ],
+    "hi": [
+      "अत्यधिक आशावाद",
+      "अधूरी समझ",
+      "जल्दबाजी में निर्णय",
+      "व्यावहारिक कठिनाइयाँ",
+      "बाधाएँ",
+      "संसाधन का गलत प्रबंधन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautious",
+      "reflective"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधान",
+      "विचारशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "optimism vs realism",
+      "decision-making",
+      "resource management"
+    ],
+    "hi": [
+      "आशावाद बनाम यथार्थ",
+      "निर्णय लेना",
+      "संसाधन प्रबंधन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-squ-jup",
+      "core": "A period marked by over-optimism, incomplete understanding, and impulsive decisions causing practical difficulties and obstacles in new endeavors.",
+      "tone": "Warm, neutral, and cautiously reflective"
+    },
+    "hi": {
+      "title": "बुध वर्ग गुरु",
+      "core": "यह समय अत्यधिक आशावाद, अधूरी समझ और बिना सोचे-समझे फैसलों से भरा होता है, जो नए प्रयासों में व्यावहारिक कठिनाइयाँ और बाधाएँ लाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक विचारशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Over-optimism, incomplete understanding, impulsive decisions, practical difficulties, obstacles in new work or education.",
+        "hi": "अत्यधिक आशावाद, अधूरी समझ, जल्दबाजी में निर्णय, व्यावहारिक कठिनाइयाँ, नए काम या शिक्षा में बाधाएँ।"
+      },
+      "career": {
+        "en": "Difficulties in applying ideas practically; obstacles in new work or educational efforts.",
+        "hi": "विचारों को व्यावहारिक रूप से लागू करने में कठिनाई; नए काम या शिक्षा में बाधाएँ।"
+      },
+      "relationships": {
+        "en": "Challenges in communication and cooperation due to impulsive reactions or misunderstandings.",
+        "hi": "जल्दबाजी या गलतफहमियों के कारण संचार और सहयोग में चुनौतियाँ।"
+      },
+      "money": {
+        "en": "Unwise use of money, time, and energy leading to inefficiency.",
+        "hi": "धन, समय और ऊर्जा का अनुचित उपयोग जिससे असफलता होती है।"
+      },
+      "health_adj": {
+        "en": "Possible strain from mismanagement of energy and impulsive actions.",
+        "hi": "ऊर्जा के गलत प्रबंधन और जल्दबाजी के कारण संभव तनाव।"
+      }
+    },
+    "aliases": [
+      "Mercury square Jupiter",
+      "Mer SQR Jup",
+      "Mercury-Square-Jupiter",
+      "Mercury Square to Jupiter"
+    ]
+  }
+}

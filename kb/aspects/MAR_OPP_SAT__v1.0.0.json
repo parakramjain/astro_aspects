@@ -1,0 +1,251 @@
+{
+  "id": "MAR_OPP_SAT__v1.0.0",
+  "pair": [
+    "Mars",
+    "Opposition",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates potential despair, extreme physical fatigue, and body pain. It involves conflicts with authorities and challenges related to parents, government, or institutional responsibilities. Professionally, it calls for shouldering responsibilities without making changes. Caution is advised in using tools and vehicles, and legal matters require vigilance. There is a high chance of losses due to fluctuations.",
+    "hi": "यह योग निराशा, अत्यधिक शारीरिक थकान और शरीर में दर्द की संभावना दर्शाता है। इसमें अधिकारियों के साथ विवाद और माता-पिता, सरकारी या संस्थागत जिम्मेदारियों से जुड़ी समस्याएं होती हैं। पेशेवर रूप से जिम्मेदारियां संभालनी पड़ती हैं और बदलाव से बचना चाहिए। उपकरणों और वाहनों के उपयोग में सावधानी आवश्यक है तथा कानूनी मामलों में सतर्कता जरूरी है। उतार-चढ़ाव में हानि की संभावना अधिक होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Must bear professional responsibilities; avoid job changes currently; face challenges from authorities or institutions.",
+      "hi": "पेशेवर जिम्मेदारियां संभालनी पड़ती हैं; इस समय नौकरी में बदलाव न करें; अधिकारियों या संस्थाओं से चुनौतियां होती हैं।"
+    },
+    "relationships": {
+      "en": "Conflicts and frustrations with higher-ups and authority figures; issues may arise with parents or government bodies.",
+      "hi": "उच्च अधिकारियों और सत्ता वर्ग से विवाद और निराशा; माता-पिता या सरकारी संस्थाओं से समस्याएं हो सकती हैं।"
+    },
+    "money": {
+      "en": "High probability of losses due to fluctuations; legal matters require full alertness.",
+      "hi": "उतार-चढ़ाव के कारण हानि की संभावना अधिक; कानूनी मामलों में पूरी सतर्कता आवश्यक।"
+    },
+    "health_adj": {
+      "en": "Likely despair, extreme physical fatigue, and body pain; caution advised.",
+      "hi": "निराशा, अत्यधिक शारीरिक थकान और शरीर में दर्द की संभावना; सावधानी आवश्यक।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts with authorities",
+      "Professional responsibilities",
+      "Legal challenges",
+      "Health fatigue"
+    ],
+    "hi": [
+      "अधिकारियों से विवाद",
+      "पेशेवर जिम्मेदारियां",
+      "कानूनी चुनौतियां",
+      "शारीरिक थकान"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid changing jobs currently.",
+      "Use tools and vehicles cautiously.",
+      "Be fully alert in legal matters.",
+      "Expect possible losses from fluctuations."
+    ],
+    "hi": [
+      "इस समय नौकरी में बदलाव न करें।",
+      "उपकरणों और वाहनों का सावधानीपूर्वक उपयोग करें।",
+      "कानूनी मामलों में पूरी सतर्कता बरतें।",
+      "उतार-चढ़ाव में हानि की संभावना है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution with tools and vehicles.",
+        "Maintain alertness in legal situations."
+      ],
+      "hi": [
+        "उपकरणों और वाहनों में सावधानी बरतें।",
+        "कानूनी मामलों में सतर्क रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid professional changes.",
+        "Prepare to handle increased responsibilities."
+      ],
+      "hi": [
+        "पेशेवर बदलाव से बचें।",
+        "बढ़ी हुई जिम्मेदारियों को संभालने के लिए तैयार रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Monitor health for fatigue and pain.",
+        "Resolve conflicts with authorities carefully."
+      ],
+      "hi": [
+        "थकान और दर्द के लिए स्वास्थ्य पर ध्यान दें।",
+        "अधिकारियों से विवादों को सावधानी से सुलझाएं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "despair",
+      "fatigue",
+      "body pain",
+      "conflict",
+      "authority",
+      "responsibility",
+      "caution",
+      "legal alertness",
+      "loss",
+      "fluctuation"
+    ],
+    "hi": [
+      "निराशा",
+      "थकान",
+      "शारीरिक दर्द",
+      "विवाद",
+      "अधिकार",
+      "जिम्मेदारी",
+      "सावधानी",
+      "कानूनी सतर्कता",
+      "हानि",
+      "उतार-चढ़ाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "responsibility-heavy",
+      "cautious",
+      "alert"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "जिम्मेदारी भारी",
+      "सावधान",
+      "सतर्क"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "authority conflict",
+      "professional duty",
+      "health strain",
+      "legal vigilance",
+      "risk of loss"
+    ],
+    "hi": [
+      "अधिकार संघर्ष",
+      "पेशेवर कर्तव्य",
+      "स्वास्थ्य तनाव",
+      "कानूनी सतर्कता",
+      "हानि का जोखिम"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-opp-sat",
+      "core": "This aspect suggests physical fatigue, conflicts with authorities, professional responsibilities, and legal caution with a risk of losses.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "मंगल विपक्ष शनि",
+      "core": "यह योग शारीरिक थकान, अधिकारियों से विवाद, पेशेवर जिम्मेदारियां और कानूनी सतर्कता के साथ हानि के जोखिम को दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Despair, extreme physical fatigue, body pain, conflicts with authorities, professional responsibilities, legal vigilance, risk of losses.",
+        "hi": "निराशा, अत्यधिक शारीरिक थकान, शरीर में दर्द, अधिकारियों से विवाद, पेशेवर जिम्मेदारियां, कानूनी सतर्कता, हानि का जोखिम।"
+      },
+      "career": {
+        "en": "Must shoulder responsibilities professionally; avoid changes; face authority challenges.",
+        "hi": "पेशेवर रूप से जिम्मेदारियां संभालनी होंगी; बदलाव से बचें; अधिकारियों से चुनौतियां।"
+      },
+      "relationships": {
+        "en": "Frustrations and conflicts with higher-ups and parental or government figures.",
+        "hi": "उच्च अधिकारियों और माता-पिता या सरकारी व्यक्तियों से विवाद और निराशा।"
+      },
+      "money": {
+        "en": "High chance of losses due to fluctuations; legal matters need alertness.",
+        "hi": "उतार-चढ़ाव के कारण हानि की संभावना अधिक; कानूनी मामलों में सतर्कता।"
+      },
+      "health_adj": {
+        "en": "Likely despair, extreme fatigue, and body pain; caution advised.",
+        "hi": "निराशा, अत्यधिक थकान और शरीर में दर्द की संभावना; सावधानी आवश्यक।"
+      }
+    },
+    "aliases": [
+      "Mars opposition Saturn",
+      "Mar OPP Sat",
+      "Mars-Opposition-Saturn",
+      "Mars Opposition to Saturn"
+    ]
+  }
+}

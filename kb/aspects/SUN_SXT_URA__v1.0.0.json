@@ -1,0 +1,255 @@
+{
+  "id": "SUN_SEX_URA__v1.0.0",
+  "pair": [
+    "Sun",
+    "Sextile",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect supports independent enhancement of original creative expression, inspired by self-realization. It brings sudden opportunities, important agreements, and intellectual stimulation in technical and spiritual knowledge.",
+    "hi": "यह योग स्वतंत्र रूप से मूल क्रियात्मक अभिव्यक्ति को उन्नत करने में सहायक है, जो आत्मज्ञान से प्रेरित होता है। यह आकस्मिक अवसर, महत्वपूर्ण संधियाँ और तकनीकी व आध्यात्मिक ज्ञान में बौद्धिक रुचि लाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Inspiration for researchers and artists increases; business and research agreements are favored; intellectual interest in technical and astrological fields grows.",
+      "hi": "शोधकर्ताओं व कलाकारों को प्रेरणा मिलती है; व्यवसायिक व शोध संबंधी संधियाँ बनती हैं; तकनीकी और ज्योतिषीय क्षेत्रों में बौद्धिक रुचि बढ़ती है।"
+    },
+    "relationships": {
+      "en": "New friendships and social work develop; connections with significant institutions form; extraordinary agreements occur.",
+      "hi": "नई मित्रता और सामाजिक कार्य विकसित होते हैं; महत्वपूर्ण संस्थाओं से संबंध जुड़ते हैं; असाधारण संधियाँ बनती हैं।"
+    },
+    "money": {
+      "en": "Investments in research yield profits; business agreements enhance financial prospects.",
+      "hi": "शोध कार्य में निवेश लाभदायक होता है; व्यवसायिक संधियाँ आर्थिक संभावनाएँ बढ़ाती हैं।"
+    },
+    "health_adj": {
+      "en": "A favorable time to impart scientific and spiritual knowledge to children; intellectual stimulation is prominent.",
+      "hi": "बच्चों को विज्ञान और आध्यात्मिक ज्ञान देने के लिए अनुकूल समय; बौद्धिक उत्तेजना प्रमुख रहती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative inspiration",
+      "Sudden opportunities",
+      "Important agreements",
+      "New social connections",
+      "Business and research profits"
+    ],
+    "hi": [
+      "सृजनात्मक प्रेरणा",
+      "आकस्मिक अवसर",
+      "महत्वपूर्ण संधियाँ",
+      "नई सामाजिक संबंध",
+      "व्यवसाय और शोध लाभ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Unexpected opportunities require careful evaluation.",
+      "Important agreements should be reviewed thoroughly."
+    ],
+    "hi": [
+      "आकस्मिक अवसरों का सावधानीपूर्वक मूल्यांकन आवश्यक है।",
+      "महत्वपूर्ण संधियों की पूरी जांच करनी चाहिए।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Pursue creative projects independently.",
+        "Engage in intellectual and technical learning.",
+        "Build new social and institutional connections."
+      ],
+      "hi": [
+        "स्वतंत्र रूप से सृजनात्मक परियोजनाओं को आगे बढ़ाएँ।",
+        "बौद्धिक और तकनीकी अध्ययन में संलग्न हों।",
+        "नई सामाजिक और संस्थागत संबंध बनाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Finalize important agreements.",
+        "Share scientific and spiritual knowledge with children.",
+        "Capitalize on sudden opportunities."
+      ],
+      "hi": [
+        "महत्वपूर्ण संधियाँ अंतिम रूप दें।",
+        "बच्चों को वैज्ञानिक और आध्यात्मिक ज्ञान दें।",
+        "आकस्मिक अवसरों का लाभ उठाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review agreements made during this period.",
+        "Maintain flexibility with evolving opportunities."
+      ],
+      "hi": [
+        "इस अवधि में बनी संधियों की समीक्षा करें।",
+        "बदलते अवसरों के प्रति लचीलापन बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "independent creativity",
+      "self-realization",
+      "inspiration",
+      "sudden opportunities",
+      "important agreements",
+      "technical knowledge",
+      "spiritual knowledge",
+      "social connections",
+      "research profits"
+    ],
+    "hi": [
+      "स्वतंत्र क्रियात्मकता",
+      "आत्मज्ञान",
+      "प्रेरणा",
+      "आकस्मिक अवसर",
+      "महत्वपूर्ण संधियाँ",
+      "तकनीकी ज्ञान",
+      "आध्यात्मिक ज्ञान",
+      "सामाजिक संबंध",
+      "शोध लाभ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "independent",
+      "intellectual",
+      "opportunistic",
+      "social",
+      "profitable"
+    ],
+    "hi": [
+      "सृजनात्मक",
+      "स्वतंत्र",
+      "बौद्धिक",
+      "अवसरवादी",
+      "सामाजिक",
+      "लाभकारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity and innovation",
+      "intellectual growth",
+      "social networking",
+      "financial gain through research",
+      "spiritual and scientific knowledge sharing"
+    ],
+    "hi": [
+      "सृजनात्मकता और नवाचार",
+      "बौद्धिक विकास",
+      "सामाजिक नेटवर्किंग",
+      "शोध के माध्यम से वित्तीय लाभ",
+      "आध्यात्मिक और वैज्ञानिक ज्ञान साझा करना"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-sxt-ura",
+      "core": "Supports independent creative expression and sudden opportunities inspired by self-realization.",
+      "tone": "Warm, encouraging, and intellectually stimulating."
+    },
+    "hi": {
+      "title": "सूर्य षट्कोण यूरेनस",
+      "core": "स्वतंत्र सृजनात्मक अभिव्यक्ति और आत्मज्ञान से प्रेरित आकस्मिक अवसरों का समर्थन करता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और बौद्धिक रूप से उत्तेजक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Enables enhancement of original creative expression independently through self-realization, bringing inspiration and sudden opportunities.",
+        "hi": "स्वतंत्र रूप से मूल क्रियात्मक अभिव्यक्ति को आत्मज्ञान द्वारा उन्नत करने में सक्षम बनाता है, प्रेरणा और आकस्मिक अवसर लाता है।"
+      },
+      "career": {
+        "en": "Inspiration for researchers and artists; favorable business and research agreements; intellectual interest in technical and astrological knowledge.",
+        "hi": "शोधकर्ताओं व कलाकारों के लिए प्रेरणा; व्यवसायिक व शोध संधियाँ अनुकूल; तकनीकी और ज्योतिषीय ज्ञान में बौद्धिक रुचि।"
+      },
+      "relationships": {
+        "en": "Development of new friendships, social work, and connections with significant institutions; formation of extraordinary agreements.",
+        "hi": "नई मित्रता, सामाजिक कार्य और महत्वपूर्ण संस्थाओं से संबंध विकसित होते हैं; असाधारण संधियाँ बनती हैं।"
+      },
+      "money": {
+        "en": "Profitable returns from investments in research; business agreements enhance financial prospects.",
+        "hi": "शोध में निवेश से लाभ; व्यवसायिक संधियाँ वित्तीय संभावनाएँ बढ़ाती हैं।"
+      },
+      "health_adj": {
+        "en": "Favorable time to impart scientific and spiritual knowledge to children; intellectual stimulation is prominent.",
+        "hi": "बच्चों को वैज्ञानिक और आध्यात्मिक ज्ञान देने के लिए अनुकूल समय; बौद्धिक उत्तेजना प्रमुख।"
+      }
+    },
+    "aliases": [
+      "Sun sextile Uranus",
+      "Sun SEX Ura",
+      "Sun-Sextile-Uranus",
+      "Sun Sextile to Uranus"
+    ]
+  }
+}

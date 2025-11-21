@@ -1,0 +1,233 @@
+{
+  "id": "VEN_TRI_MAR__v1.0.0",
+  "pair": [
+    "Venus",
+    "Trine",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person gains creative and physical energy and expresses themselves. This is an active time for artistic and business pursuits with good results in social and financial matters.",
+    "hi": "व्यक्ति में रचनात्मक और शारीरिक ऊर्जा बढ़ती है और वह अपनी अभिव्यक्ति करता है। यह कला और व्यवसाय के लिए सक्रिय समय है जिसमें सामाजिक और आर्थिक मामलों में अच्छे परिणाम मिलते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "A favorable period for artistic and business activities with clarity and productivity.",
+      "hi": "कला और व्यवसाय में शुद्धता और उत्पादकता के साथ अनुकूल समय।"
+    },
+    "relationships": {
+      "en": "Increased romantic and physical activity enhances personal expression.",
+      "hi": "रोमांटिक और शारीरिक सक्रियता बढ़ने से व्यक्तिगत अभिव्यक्ति में वृद्धि।"
+    },
+    "money": {
+      "en": "Positive outcomes in financial matters are likely during this period.",
+      "hi": "इस समय आर्थिक मामलों में सकारात्मक परिणाम संभव हैं।"
+    },
+    "health_adj": {
+      "en": "Enhanced physical energy supports active engagement.",
+      "hi": "बढ़ी हुई शारीरिक ऊर्जा सक्रिय भागीदारी का समर्थन करती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Artistic pursuits",
+      "Business initiatives",
+      "Social engagements"
+    ],
+    "hi": [
+      "कलात्मक प्रयास",
+      "व्यवसायिक पहल",
+      "सामाजिक संपर्क"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative projects",
+        "Pursue business opportunities",
+        "Express yourself socially"
+      ],
+      "hi": [
+        "रचनात्मक परियोजनाओं में संलग्न हों",
+        "व्यवसाय के अवसरों का पीछा करें",
+        "सामाजिक रूप से अपनी अभिव्यक्ति करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on artistic and business activities",
+        "Leverage increased energy for expression"
+      ],
+      "hi": [
+        "कलात्मक और व्यवसायिक गतिविधियों पर ध्यान दें",
+        "अभिव्यक्ति के लिए बढ़ी हुई ऊर्जा का उपयोग करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain creative momentum",
+        "Continue social and financial efforts"
+      ],
+      "hi": [
+        "रचनात्मक गति बनाए रखें",
+        "सामाजिक और आर्थिक प्रयास जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "creative energy",
+      "physical energy",
+      "artistic pursuits",
+      "business",
+      "social matters",
+      "financial matters",
+      "expression"
+    ],
+    "hi": [
+      "रचनात्मक ऊर्जा",
+      "शारीरिक ऊर्जा",
+      "कलात्मक प्रयास",
+      "व्यवसाय",
+      "सामाजिक मामले",
+      "आर्थिक मामले",
+      "अभिव्यक्ति"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "active",
+      "productive",
+      "expressive",
+      "favorable"
+    ],
+    "hi": [
+      "सक्रिय",
+      "उत्पादक",
+      "अभिव्यक्तिपूर्ण",
+      "अनुकूल"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "energy",
+      "expression",
+      "success"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "ऊर्जा",
+      "अभिव्यक्ति",
+      "सफलता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-tri-mar",
+      "core": "A time of increased creative and physical energy fostering artistic and business success.",
+      "tone": "Warm, encouraging, and balanced"
+    },
+    "hi": {
+      "title": "शुक्र त्रिकोण मंगल",
+      "core": "रचनात्मक और शारीरिक ऊर्जा में वृद्धि का समय जो कला और व्यवसाय में सफलता लाता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और संतुलित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person gains creative and physical energy and expresses themselves. This is an active time for artistic and business pursuits with good results in social and financial matters.",
+        "hi": "व्यक्ति रोमांटिक एवं शारीरिक सक्रियता में बढ़ता है तथा अपनी अभिव्यक्ति को प्रस्तुत करने के लिए कुछ रचनात्मक कार्य करता है। यह समय कला एवं व्यवसाय में शुद्धता देता है।"
+      },
+      "career": {
+        "en": "A favorable period for artistic and business activities with clarity and productivity.",
+        "hi": "कला और व्यवसाय में शुद्धता और उत्पादकता के साथ अनुकूल समय।"
+      },
+      "relationships": {
+        "en": "Increased romantic and physical activity enhances personal expression.",
+        "hi": "रोमांटिक और शारीरिक सक्रियता बढ़ने से व्यक्तिगत अभिव्यक्ति में वृद्धि।"
+      },
+      "money": {
+        "en": "Positive outcomes in financial matters are likely during this period.",
+        "hi": "इस समय आर्थिक मामलों में सकारात्मक परिणाम संभव हैं।"
+      },
+      "health_adj": {
+        "en": "Enhanced physical energy supports active engagement.",
+        "hi": "बढ़ी हुई शारीरिक ऊर्जा सक्रिय भागीदारी का समर्थन करती है।"
+      }
+    },
+    "aliases": [
+      "Venus trine Mars",
+      "Ven TRI Mar",
+      "Venus-Trine-Mars",
+      "Venus Trine to Mars"
+    ]
+  }
+}

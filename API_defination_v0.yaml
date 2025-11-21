@@ -1,0 +1,788 @@
+openapi: 3.0.3
+info:
+  title: Astro Vision — Core REST
+  version: 1.0.0
+  description: Natal, Reports, and Compatibility endpoints with best-practice metadata.
+
+servers:
+  - url: https://api.astrovision.app/v1
+
+security:
+  - bearerAuth: []
+
+tags:
+  - name: Natal
+  - name: Reports
+  - name: Compatibility
+
+paths:
+  # ============================
+  # NATAL
+  # ============================
+  /natal/build-chart:
+    post:
+      tags: [Natal]
+      summary: Build Natal Chart (positions, signs, houses)
+      operationId: buildNatalChart
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/BirthPayload' }
+            examples:
+              sample:
+                value:
+                  name: "Amit"
+                  dateOfBirth: "1991-07-14"
+                  timeOfBirth: "22:35:00"
+                  placeOfBirth: "Mumbai, IN"
+                  timeZone: "Asia/Kolkata"
+                  latitude: 19.0760
+                  longitude: 72.8777
+      responses:
+        '200':
+          description: Chart computed
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/NatalChartOut' }
+        '204':
+          description: No content (e.g., nothing computable for inputs)
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '422':
+          $ref: '#/components/responses/Unprocessable'
+        '500':
+          $ref: '#/components/responses/ServerError'
+
+  /natal/dignities-table:
+    post:
+      tags: [Natal]
+      summary: Compute Dignities Table
+      operationId: computeDignitiesTable
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/BirthPayload' }
+      responses:
+        '200':
+          description: Dignities table
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/DignitiesOut' }
+        '204': { description: No content }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /natal/aspects:
+    post:
+      tags: [Natal]
+      summary: Compute Natal Aspects
+      operationId: computeNatalAspects
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/BirthPayload' }
+      responses:
+        '200':
+          description: Natal aspects dictionary
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/NatalAspectsOut' }
+        '204': { description: No content }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /natal/characteristics:
+    post:
+      tags: [Natal]
+      summary: Compute Natal Characteristics & KPI summary
+      operationId: computeNatalCharacteristics
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/BirthPayload' }
+      responses:
+        '200':
+          description: Characteristics and narrative
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/NatalCharacteristicsOut' }
+        '204': { description: No content }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  # ============================
+  # REPORTS
+  # ============================
+  /reports/life-events:
+    post:
+      tags: [Reports]
+      summary: Major & minor life events (summary windows)
+      operationId: reportLifeEvents
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/BirthPayload' }
+      responses:
+        '200':
+          description: Life events dictionary
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/LifeEventsOut' }
+        '204': { description: No content }
+        '206':
+          description: Partial content (paged)
+          headers:
+            X-Next-Cursor:
+              schema: { type: string }
+              description: Cursor for next page
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/LifeEventsOut' }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /reports/timeline:
+    post:
+      tags: [Reports]
+      summary: Report timeline (1y/6m/1m) with aspect windows and AI summary
+      operationId: reportTimeline
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              allOf:
+                - $ref: '#/components/schemas/BirthPayload'
+                - type: object
+                  required: [timePeriod, reportStartDate]
+                  properties:
+                    timePeriod:
+                      type: string
+                      enum: ["1Y","6M","1M"]
+                    reportStartDate:
+                      type: string
+                      format: date
+                      description: Defaults to first of current month; optionally first of next month.
+                    cursor:
+                      type: string
+                      nullable: true
+      responses:
+        '200':
+          description: Full timeline
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/TimelineOut' }
+        '206':
+          description: Partial timeline page
+          headers:
+            X-Next-Cursor:
+              schema: { type: string }
+              description: Cursor for next page
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/TimelineOut' }
+        '204': { description: No content }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /reports/daily-weekly:
+    post:
+      tags: [Reports]
+      summary: Daily/Weekly prediction update
+      operationId: dailyWeeklyPrediction
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              allOf:
+                - $ref: '#/components/schemas/BirthPayload'
+                - type: object
+                  properties:
+                    mode:
+                      type: string
+                      enum: ["DAILY","WEEKLY"]
+                      default: "DAILY"
+      responses:
+        '200':
+          description: Short summary + key areas
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/DailyWeeklyOut' }
+        '204': { description: No content }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /reports/upcoming-events:
+    post:
+      tags: [Reports]
+      summary: Upcoming major/minor events with categories
+      operationId: upcomingEvents
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/BirthPayload' }
+      responses:
+        '200':
+          description: Upcoming events
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/UpcomingEventsOut' }
+        '206':
+          description: Partial content (paged)
+          headers:
+            X-Next-Cursor:
+              schema: { type: string }
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/UpcomingEventsOut' }
+        '204': { description: No content }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  # ============================
+  # COMPATIBILITY
+  # ============================
+  /compat/synastry:
+    post:
+      tags: [Compatibility]
+      summary: Compatibility finder (pairwise)
+      operationId: compatibilityFinder
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/CompatibilityPairIn' }
+      responses:
+        '200':
+          description: Compatibility KPIs, total score, summary
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/CompatibilityOut' }
+        '204': { description: No content }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /compat/group:
+    post:
+      tags: [Compatibility]
+      summary: Group compatibility analysis (up to 10 people)
+      operationId: groupCompatibility
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/GroupCompatibilityIn' }
+      responses:
+        '200':
+          description: Pairwise matrix + group harmony + total score
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/GroupCompatibilityOut' }
+        '206':
+          description: Partial content (large groups with pagination)
+          headers:
+            X-Next-Cursor:
+              schema: { type: string }
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/GroupCompatibilityOut' }
+        '204': { description: No content }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /compat/soulmate-finder:
+    post:
+      tags: [Compatibility]
+      summary: Soulmate finder (returns candidate DOBs)
+      operationId: soulmateFinder
+      parameters:
+        - $ref: '#/components/parameters/XRequestId'
+        - $ref: '#/components/parameters/XSessionId'
+        - $ref: '#/components/parameters/XTransactionId'
+        - $ref: '#/components/parameters/XUserId'
+        - $ref: '#/components/parameters/XAppId'
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/BirthPayload' }
+      responses:
+        '200':
+          description: List of compatible date(s) of birth
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/SoulmateOut' }
+        '204': { description: No content }
+        '400': { $ref: '#/components/responses/BadRequest' }
+        '401': { $ref: '#/components/responses/Unauthorized' }
+        '422': { $ref: '#/components/responses/Unprocessable' }
+        '500': { $ref: '#/components/responses/ServerError' }
+
+components:
+  # ---------- Security ----------
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+
+  # ---------- Common Headers (Metadata) ----------
+  parameters:
+    XRequestId:
+      name: X-Request-ID
+      in: header
+      required: false
+      schema: { type: string }
+      description: Client-generated request id for idempotency/trace.
+    XSessionId:
+      name: X-Session-ID
+      in: header
+      required: false
+      schema: { type: string }
+      description: Client session identifier.
+    XTransactionId:
+      name: X-Transaction-ID
+      in: header
+      required: false
+      schema: { type: string }
+      description: Server-generated transaction id echoed back.
+    XUserId:
+      name: X-User-ID
+      in: header
+      required: false
+      schema: { type: string }
+      description: Authenticated user id.
+    XAppId:
+      name: X-App-ID
+      in: header
+      required: false
+      schema: { type: string }
+      description: Calling application id/client key.
+
+  # ---------- Standard responses ----------
+  responses:
+    BadRequest:
+      description: Invalid input payload
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/ErrorResponse' }
+    Unauthorized:
+      description: Missing/invalid authentication
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/ErrorResponse' }
+    Unprocessable:
+      description: Semantically invalid (e.g., impossible birth time/zone)
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/ErrorResponse' }
+    ServerError:
+      description: Unexpected server error
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/ErrorResponse' }
+
+  # ---------- Schemas ----------
+  schemas:
+    Meta:
+      type: object
+      required: [timestamp, requestId]
+      properties:
+        timestamp: { type: string, format: date-time }
+        requestId: { type: string }
+        sessionId: { type: string }
+        transactionId: { type: string }
+        userId: { type: string }
+        appId: { type: string }
+        apiVersion: { type: string, example: "1.0.0" }
+
+    ErrorResponse:
+      type: object
+      required: [meta, error]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        error:
+          type: object
+          required: [code, message]
+          properties:
+            code: { type: string, example: "BAD_REQUEST" }
+            message: { type: string }
+            details:
+              type: array
+              items:
+                type: object
+                properties:
+                  field: { type: string }
+                  issue: { type: string }
+
+    BirthPayload:
+      type: object
+      required:
+        - name
+        - dateOfBirth
+        - timeOfBirth
+        - placeOfBirth
+        - timeZone
+        - latitude
+        - longitude
+      properties:
+        name: { type: string }
+        dateOfBirth: { type: string, format: date }     # YYYY-MM-DD
+        timeOfBirth: { type: string, example: "22:35:00" }
+        placeOfBirth: { type: string }
+        timeZone: { type: string, example: "Asia/Kolkata" }
+        latitude: { type: number }
+        longitude: { type: number }
+
+    PlanetEntry:
+      type: object
+      required: [planetName, planetSign, planetDegree, houseNumber, houseName, houseSign]
+      properties:
+        planetName: { type: string, example: "Sun" }
+        planetSign: { type: string, example: "Cancer" }
+        planetDegree: { type: number, example: 107.1667, description: "Absolute ecliptic longitude (0–360°)" }
+        houseNumber: { type: integer, minimum: 1, maximum: 12 }
+        houseName: { type: string, example: "Eighth House" }
+        houseSign: { type: string, example: "Cancer" }
+
+    NatalChartOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: object
+          properties:
+            planets:
+              type: array
+              items: { $ref: '#/components/schemas/PlanetEntry' }
+
+    DignitiesOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: object
+          properties:
+            table:
+              type: array
+              description: Dignities table rows
+              items:
+                type: object
+                properties:
+                  planet: { type: string }
+                  rulership: { type: boolean }
+                  exaltation: { type: boolean }
+                  detriment: { type: boolean }
+                  fall: { type: boolean }
+                  essentialScore: { type: number }
+                  notes: { type: string }
+
+    NatalAspectsOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: array
+          description: List of natal aspects with strength & characteristics
+          items:
+            type: object
+            properties:
+              aspect: { type: string, example: "Sun trine Moon" }
+              strength: { type: number, description: "0..1 normalized or custom score" }
+              characteristics:
+                type: array
+                items: { type: string }
+
+    NatalCharacteristicsOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: object
+          properties:
+            description: { type: string, description: "Narrative natal description" }
+            kpis:
+              type: array
+              items:
+                type: object
+                properties:
+                  name: { type: string, example: "Leadership" }
+                  shortDescription: { type: string }
+
+    LifeEventsOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: array
+          items:
+            type: object
+            properties:
+              eventType: { type: string, enum: ["MAJOR","MINOR"] }
+              timePeriod: { type: string, example: "2026-01 to 2026-03" }
+              description: { type: string }
+
+    TimelineItem:
+      type: object
+      properties:
+        aspect: { type: string, example: "Jupiter sextile Moon" }
+        startTime: { type: string, format: date-time }
+        exactTime: { type: string, format: date-time }
+        leaveTime: { type: string, format: date-time }
+        description: { type: string }
+        keyPoints:
+          type: array
+          items: { type: string }
+
+    TimelineOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: object
+          properties:
+            items:
+              type: array
+              items: { $ref: '#/components/schemas/TimelineItem' }
+            aiSummary: { type: string }
+
+    DailyWeeklyOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: object
+          properties:
+            shortSummary: { type: string }
+            areas:
+              type: array
+              items:
+                type: object
+                properties:
+                  keyArea: { type: string, example: "Career" }
+                  shortDescription: { type: string }
+                  color:
+                    type: string
+                    enum: ["GREEN","RED","AMBER"]
+
+    UpcomingEventRow:
+      type: object
+      properties:
+        aspect: { type: string }
+        timePeriod:
+          type: object
+          properties:
+            startDate: { type: string, format: date }
+            exactDate: { type: string, format: date }
+            leaveDate: { type: string, format: date }
+        lifeEvent: { type: string }
+        shortDescription: { type: string }
+        category:
+          type: string
+          enum: ["POSITIVE","NEGATIVE"]
+
+    UpcomingEventsOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: array
+          items: { $ref: '#/components/schemas/UpcomingEventRow' }
+
+    PersonPayload:
+      type: object
+      required:
+        - name
+        - dateOfBirth
+        - timeOfBirth
+        - placeOfBirth
+        - timeZone
+        - latitude
+        - longitude
+      properties:
+        name: { type: string }
+        dateOfBirth: { type: string, format: date }
+        timeOfBirth: { type: string }
+        placeOfBirth: { type: string }
+        timeZone: { type: string }
+        latitude: { type: number }
+        longitude: { type: number }
+
+    CompatibilityPairIn:
+      type: object
+      required: [person1, person2, type]
+      properties:
+        person1: { $ref: '#/components/schemas/PersonPayload' }
+        person2: { $ref: '#/components/schemas/PersonPayload' }
+        type:
+          type: string
+          enum: ["Marriage","Friendship","Professional","General"]
+
+    KpiScoreRow:
+      type: object
+      properties:
+        kpi: { type: string, example: "Communication" }
+        score: { type: number, example: 0.78 }
+        description: { type: string }
+
+    CompatibilityOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: object
+          properties:
+            kpis:
+              type: array
+              items: { $ref: '#/components/schemas/KpiScoreRow' }
+            totalScore: { type: number, example: 0.74 }
+            summary: { type: string }
+
+    GroupCompatibilityIn:
+      type: object
+      required: [people, type]
+      properties:
+        people:
+          type: array
+          minItems: 2
+          maxItems: 10
+          items: { $ref: '#/components/schemas/PersonPayload' }
+        type:
+          type: string
+          enum: ["Friendship Group","Professional Team","Sport Team","Family","Relative"]
+        cursor:
+          type: string
+          nullable: true
+
+    PairwiseRow:
+      type: object
+      properties:
+        person1: { type: string }
+        person2: { type: string }
+        kpi: { type: string }
+        score: { type: number }
+        description: { type: string }
+
+    GroupCompatibilityOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: object
+          properties:
+            pairwise:
+              type: array
+              items: { $ref: '#/components/schemas/PairwiseRow' }
+            groupHarmony:
+              type: array
+              items: { $ref: '#/components/schemas/KpiScoreRow' }
+            totalGroupScore: { type: number }
+
+    SoulmateOut:
+      type: object
+      required: [meta, data]
+      properties:
+        meta: { $ref: '#/components/schemas/Meta' }
+        data:
+          type: object
+          properties:
+            datesOfBirth:
+              type: array
+              items: { type: string, format: date }

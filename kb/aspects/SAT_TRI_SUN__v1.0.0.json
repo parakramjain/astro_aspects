@@ -1,0 +1,249 @@
+{
+  "id": "SAT_TRI_SUN__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Trine",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased personal responsibility and progress with creative ambition in business; renewal and improvement of old social and romantic relationships; heightened awareness of responsibilities towards children; opportunities for guidance from elders; success in completing long-term plans; steady progress in political and high authority roles; suitable time for legal and administrative work with recognition for organizational ability.",
+    "hi": "व्यक्तिगत जिम्मेदारी और प्रगति में वृद्धि, व्यवसाय में रचनात्मक महत्त्वाकांक्षा; पुराने सामाजिक और रोमांटिक संबंधों का नवीनीकरण और सुधार; संतान के प्रति जिम्मेदारियों की बढ़ी हुई सजगता; बुजुर्गों से मार्गदर्शन के अवसर; दीर्घकालीन योजनाओं को पूरा करने में सफलता; राजनीतिक और उच्च पदों पर स्थिर प्रगति; कानूनी और प्रशासनिक कार्यों के लिए उचित समय, और संगठनात्मक क्षमता के लिए मान्यता।"
+  },
+  "facets": {
+    "career": {
+      "en": "Progress in business and political roles; success in long-term plans; suitable for legal and administrative tasks; recognition for management skills.",
+      "hi": "व्यवसाय और राजनीतिक भूमिकाओं में प्रगति; दीर्घकालीन योजनाओं में सफलता; कानूनी और प्रशासनिक कार्यों के लिए उपयुक्त; प्रबंधन कौशल के लिए मान्यता।"
+    },
+    "relationships": {
+      "en": "Renewal and improvement of old social and romantic relationships; increased responsibility towards children; opportunities for guidance from special individuals and elders.",
+      "hi": "पुराने सामाजिक और रोमांटिक संबंधों का नवीनीकरण और सुधार; संतान के प्रति जिम्मेदारी में वृद्धि; विशेष व्यक्तियों और बुजुर्गों से मार्गदर्शन के अवसर।"
+    },
+    "money": {
+      "en": "Opportunities arise to benefit from guidance and support; steady progress in high business roles.",
+      "hi": "मार्गदर्शन और सहायता से लाभ के अवसर प्राप्त होते हैं; उच्च व्यवसायिक भूमिकाओं में स्थिर प्रगति।"
+    },
+    "health_adj": {
+      "en": "Heightened awareness of responsibilities may support better care for children; no specific health risks noted.",
+      "hi": "जिम्मेदारियों की बढ़ी हुई सजगता से बच्चों की बेहतर देखभाल संभव; कोई विशेष स्वास्थ्य जोखिम नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Renewal of relationships",
+      "Career advancement",
+      "Legal and administrative success",
+      "Completion of long-term plans",
+      "Receiving guidance from elders"
+    ],
+    "hi": [
+      "संबंधों का नवीनीकरण",
+      "करियर में उन्नति",
+      "कानूनी और प्रशासनिक सफलता",
+      "दीर्घकालीन योजनाओं की पूर्ति",
+      "बुजुर्गों से मार्गदर्शन प्राप्ति"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balanced responsibility to avoid stress."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; तनाव से बचने के लिए जिम्मेदारी संतुलित रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek guidance from elders and special individuals",
+        "Focus on organizing and managing tasks",
+        "Renew and improve important relationships"
+      ],
+      "hi": [
+        "बुजुर्गों और विशेष व्यक्तियों से मार्गदर्शन लें",
+        "कार्यों को सुव्यवस्थित और प्रबंधित करने पर ध्यान दें",
+        "महत्वपूर्ण संबंधों का नवीनीकरण और सुधार करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage actively in legal and administrative work",
+        "Implement long-term plans",
+        "Demonstrate leadership in business and political roles"
+      ],
+      "hi": [
+        "कानूनी और प्रशासनिक कार्यों में सक्रिय भाग लें",
+        "दीर्घकालीन योजनाओं को लागू करें",
+        "व्यवसाय और राजनीतिक भूमिकाओं में नेतृत्व दिखाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain steady progress in responsibilities",
+        "Continue nurturing relationships and family duties"
+      ],
+      "hi": [
+        "जिम्मेदारियों में स्थिर प्रगति बनाए रखें",
+        "संबंधों और पारिवारिक कर्तव्यों को पोषित करते रहें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "personal responsibility",
+      "creative ambition",
+      "relationship renewal",
+      "guidance",
+      "long-term success",
+      "political progress",
+      "legal work",
+      "organizational ability"
+    ],
+    "hi": [
+      "व्यक्तिगत जिम्मेदारी",
+      "रचनात्मक महत्त्वाकांक्षा",
+      "संबंधों का नवीनीकरण",
+      "मार्गदर्शन",
+      "दीर्घकालीन सफलता",
+      "राजनीतिक प्रगति",
+      "कानूनी कार्य",
+      "संगठनात्मक क्षमता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "progressive",
+      "responsible",
+      "creative",
+      "stable",
+      "recognized"
+    ],
+    "hi": [
+      "प्रगतिशील",
+      "जिम्मेदार",
+      "रचनात्मक",
+      "स्थिर",
+      "स्वीकृत"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "ambition",
+      "renewal",
+      "guidance",
+      "management",
+      "success"
+    ],
+    "hi": [
+      "महत्त्वाकांक्षा",
+      "नवीनीकरण",
+      "मार्गदर्शन",
+      "प्रबंधन",
+      "सफलता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-tri-sun",
+      "core": "A time of increased responsibility, creative ambition, and steady progress in career and relationships, with opportunities for guidance and success.",
+      "tone": "Warm, encouraging, and balanced"
+    },
+    "hi": {
+      "title": "शनि त्रिकोण सूर्य",
+      "core": "जिम्मेदारी, रचनात्मक महत्त्वाकांक्षा और करियर व संबंधों में स्थिर प्रगति का समय, मार्गदर्शन और सफलता के अवसरों के साथ।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और संतुलित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Increased personal responsibility and progress with creative ambition in business; renewal and improvement of old social and romantic relationships; heightened awareness of responsibilities towards children; opportunities for guidance from elders; success in completing long-term plans; steady progress in political and high authority roles; suitable time for legal and administrative work with recognition for organizational ability.",
+        "hi": "व्यक्तिगत जिम्मेदारी और प्रगति में वृद्धि, व्यवसाय में रचनात्मक महत्त्वाकांक्षा; पुराने सामाजिक और रोमांटिक संबंधों का नवीनीकरण और सुधार; संतान के प्रति जिम्मेदारियों की बढ़ी हुई सजगता; बुजुर्गों से मार्गदर्शन के अवसर; दीर्घकालीन योजनाओं को पूरा करने में सफलता; राजनीतिक और उच्च पदों पर स्थिर प्रगति; कानूनी और प्रशासनिक कार्यों के लिए उचित समय, और संगठनात्मक क्षमता के लिए मान्यता।"
+      },
+      "career": {
+        "en": "Progress in business and political roles; success in long-term plans; suitable for legal and administrative tasks; recognition for management skills.",
+        "hi": "व्यवसाय और राजनीतिक भूमिकाओं में प्रगति; दीर्घकालीन योजनाओं में सफलता; कानूनी और प्रशासनिक कार्यों के लिए उपयुक्त; प्रबंधन कौशल के लिए मान्यता।"
+      },
+      "relationships": {
+        "en": "Renewal and improvement of old social and romantic relationships; increased responsibility towards children; opportunities for guidance from special individuals and elders.",
+        "hi": "पुराने सामाजिक और रोमांटिक संबंधों का नवीनीकरण और सुधार; संतान के प्रति जिम्मेदारी में वृद्धि; विशेष व्यक्तियों और बुजुर्गों से मार्गदर्शन के अवसर।"
+      },
+      "money": {
+        "en": "Opportunities arise to benefit from guidance and support; steady progress in high business roles.",
+        "hi": "मार्गदर्शन और सहायता से लाभ के अवसर प्राप्त होते हैं; उच्च व्यवसायिक भूमिकाओं में स्थिर प्रगति।"
+      },
+      "health_adj": {
+        "en": "Heightened awareness of responsibilities may support better care for children; no specific health risks noted.",
+        "hi": "जिम्मेदारियों की बढ़ी हुई सजगता से बच्चों की बेहतर देखभाल संभव; कोई विशेष स्वास्थ्य जोखिम नहीं।"
+      }
+    },
+    "aliases": [
+      "Saturn trine Sun",
+      "Sat TRI Sun",
+      "Saturn-Trine-Sun",
+      "Saturn Trine to Sun"
+    ]
+  }
+}

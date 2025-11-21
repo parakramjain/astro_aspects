@@ -1,0 +1,242 @@
+{
+  "id": "URA_SQR_URA__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Square",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A strong urge for total freedom from all duties leads to irresponsible behavior affecting work and colleagues, causing stalled progress and mental unrest.",
+    "hi": "व्यक्ति सभी जिम्मेदारियों से पूरी स्वतंत्रता चाहता है, जिससे गैर-जिम्मेदार व्यवहार होता है जो व्यवसाय और सहयोगियों को प्रभावित करता है तथा उन्नति रुक जाती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work may suffer due to irresponsibility; progress halts and new ventures feel unsafe.",
+      "hi": "गैर-जिम्मेदारी के कारण व्यवसाय प्रभावित होता है; उन्नति रुक जाती है और नई स्थितियाँ असुरक्षित लगती हैं।"
+    },
+    "relationships": {
+      "en": "Colleagues may face instability due to one’s behavior; social and professional challenges are difficult to handle.",
+      "hi": "व्यवहार से सहयोगी संकट में पड़ सकते हैं; सामाजिक और व्यावसायिक चुनौतियाँ कठिन लगती हैं।"
+    },
+    "money": {
+      "en": "Volatile businesses risk sudden heavy losses; caution is advised.",
+      "hi": "तेजी-मंदी वाले व्यवसायों में अचानक बड़ी हानि हो सकती है; सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Mental restlessness and instability prevail during this period.",
+      "hi": "मानसिक अस्थिरता और बेचैनी बनी रहती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Career challenges",
+      "New ventures",
+      "Social and professional difficulties"
+    ],
+    "hi": [
+      "व्यवसायिक चुनौतियाँ",
+      "नई स्थितियों में प्रवेश",
+      "सामाजिक और व्यावसायिक कठिनाइयाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Irresponsible behavior may harm work and colleagues.",
+      "Progress may stall.",
+      "Sudden heavy losses possible in volatile businesses."
+    ],
+    "hi": [
+      "गैर-जिम्मेदार व्यवहार व्यवसाय और सहयोगियों को नुकसान पहुँचा सकता है।",
+      "उन्नति रुक सकती है।",
+      "तेजी-मंदी वाले व्यवसायों में अचानक बड़ी हानि संभव है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in business ventures.",
+        "Be mindful of responsibilities to avoid harming colleagues.",
+        "Manage mental restlessness with calming practices."
+      ],
+      "hi": [
+        "व्यवसाय में सावधानी बरतें।",
+        "सहयोगियों को नुकसान न पहुँचाने के लिए जिम्मेदारियाँ समझें।",
+        "मानसिक बेचैनी को शांत करने के उपाय अपनाएँ।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid starting risky new ventures.",
+        "Stay aware of social and professional challenges.",
+        "Monitor mental state closely."
+      ],
+      "hi": [
+        "जोखिम भरे नए कार्य न शुरू करें।",
+        "सामाजिक और व्यावसायिक चुनौतियों का ध्यान रखें।",
+        "मानसिक स्थिति पर ध्यान दें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual improvement in handling responsibilities.",
+        "Reduced mental volatility.",
+        "Stabilization in work and relationships."
+      ],
+      "hi": [
+        "जिम्मेदारियों को संभालने में धीरे-धीरे सुधार।",
+        "मानसिक अस्थिरता में कमी।",
+        "कार्य और संबंधों में स्थिरता।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "freedom",
+      "irresponsibility",
+      "stalled progress",
+      "mental restlessness",
+      "business risk",
+      "social difficulty"
+    ],
+    "hi": [
+      "स्वतंत्रता",
+      "गैर-जिम्मेदारी",
+      "उन्नति रुकना",
+      "मानसिक बेचैनी",
+      "व्यवसाय जोखिम",
+      "सामाजिक कठिनाई"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "volatile",
+      "challenging",
+      "unstable",
+      "cautious"
+    ],
+    "hi": [
+      "अस्थिर",
+      "चुनौतीपूर्ण",
+      "अस्थिरता",
+      "सावधानीपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "freedom vs responsibility",
+      "risk management",
+      "mental instability",
+      "professional and social challenges"
+    ],
+    "hi": [
+      "स्वतंत्रता बनाम जिम्मेदारी",
+      "जोखिम प्रबंधन",
+      "मानसिक अस्थिरता",
+      "व्यावसायिक और सामाजिक चुनौतियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-squ-ura",
+      "core": "This aspect indicates a strong desire for freedom that may lead to irresponsible behavior, affecting work and relationships, causing stalled progress and mental unrest.",
+      "tone": "Professional, cautious, neutral"
+    },
+    "hi": {
+      "title": "यूरेनस स्क्वायर यूरेनस",
+      "core": "यह योग स्वतंत्रता की तीव्र इच्छा दर्शाता है जो गैर-जिम्मेदार व्यवहार कर सकता है, जिससे कार्य और संबंध प्रभावित होते हैं, उन्नति रुकती है और मानसिक बेचैनी रहती है।",
+      "tone": "पेशेवर, सावधानीपूर्ण, तटस्थ"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Strong urge for total freedom causing irresponsible behavior and stalled progress.",
+        "hi": "पूरी स्वतंत्रता की तीव्र इच्छा जो गैर-जिम्मेदार व्यवहार और उन्नति रुकने का कारण बनती है।"
+      },
+      "career": {
+        "en": "Work affected by irresponsibility; new ventures feel unsafe; progress stalls.",
+        "hi": "गैर-जिम्मेदारी से व्यवसाय प्रभावित; नई स्थितियाँ असुरक्षित; उन्नति रुकती है।"
+      },
+      "relationships": {
+        "en": "Colleagues face instability; difficulty handling social and professional challenges.",
+        "hi": "सहयोगी संकट में; सामाजिक और व्यावसायिक चुनौतियाँ कठिन।"
+      },
+      "money": {
+        "en": "Volatile businesses risk sudden heavy losses; caution advised.",
+        "hi": "तेजी-मंदी वाले व्यवसायों में अचानक बड़ी हानि संभव; सावधानी आवश्यक।"
+      },
+      "health_adj": {
+        "en": "Mental restlessness and instability prevail.",
+        "hi": "मानसिक बेचैनी और अस्थिरता बनी रहती है।"
+      }
+    },
+    "aliases": [
+      "Uranus square Uranus",
+      "Ura SQR Ura",
+      "Uranus-Square-Uranus",
+      "Uranus Square to Uranus"
+    ]
+  }
+}

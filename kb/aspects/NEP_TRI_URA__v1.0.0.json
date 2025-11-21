@@ -1,0 +1,269 @@
+{
+  "id": "NEP_TRI_URA__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Trine",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A powerful emergence of imagination, intuition, and spiritual awareness, fostering interest in meditation, occult studies, and social reforms, along with beneficial educational and financial opportunities.",
+    "hi": "कल्पना शक्ति, अंतर्ज्ञान और आध्यात्मिक बोध की प्रबल अनुभूति, जो ध्यान, गूढ़ अध्ययन और सामाजिक सुधारों में रुचि जगाती है तथा शैक्षणिक और आर्थिक अवसर प्रदान करती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for higher education, travel, and involvement with spiritual or educational institutions; interest in social and business reforms may influence career direction.",
+      "hi": "उच्च शिक्षा, यात्रा और आध्यात्मिक या शैक्षणिक संस्थानों से जुड़ने के लिए अनुकूल; सामाजिक और व्यावसायिक सुधारों में रुचि करियर दिशा को प्रभावित कर सकती है।"
+    },
+    "relationships": {
+      "en": "Opportunities for reunions with old friends and beneficial connections through spiritual or educational groups.",
+      "hi": "पुराने मित्रों से मिलने के अवसर और आध्यात्मिक या शैक्षणिक समूहों के माध्यम से लाभकारी संबंध।"
+    },
+    "money": {
+      "en": "Financial gains possible through joint assets, business ventures, insurance, or investments.",
+      "hi": "संयुक्त संपत्ति, व्यवसाय, बीमा या निवेश के माध्यम से आर्थिक लाभ संभव।"
+    },
+    "health_adj": {
+      "en": "Ideal time for meditation and yoga practices enhancing spiritual and mental well-being.",
+      "hi": "ध्यान और योग के लिए उपयुक्त समय, जो आध्यात्मिक और मानसिक स्वास्थ्य को बढ़ावा देता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual awakening",
+      "Educational advancement",
+      "Social reform interest",
+      "Financial partnership gains",
+      "Reunion with friends"
+    ],
+    "hi": [
+      "आध्यात्मिक जागरण",
+      "शैक्षणिक उन्नति",
+      "सामाजिक सुधार में रुचि",
+      "आर्थिक साझेदारी लाभ",
+      "मित्रों से पुनर्मिलन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Premonitions may occur but should be approached with discernment.",
+      "Interest in occult or religious practices requires balanced perspective."
+    ],
+    "hi": [
+      "पूर्वाभास हो सकते हैं, जिन्हें विवेक से समझना चाहिए।",
+      "गूढ़ या धार्मिक विषयों में रुचि संतुलित दृष्टिकोण से होनी चाहिए।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in meditation and yoga to enhance spiritual awareness.",
+        "Explore occult or religious studies with openness.",
+        "Connect with spiritual or educational institutions for growth."
+      ],
+      "hi": [
+        "आध्यात्मिक जागरूकता बढ़ाने के लिए ध्यान और योग करें।",
+        "गूढ़ या धार्मिक अध्ययन को खुले मन से अपनाएं।",
+        "विकास के लिए आध्यात्मिक या शैक्षणिक संस्थानों से जुड़ें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Participate in social or business reform initiatives.",
+        "Plan for higher education or travel opportunities.",
+        "Meet with old friends to strengthen bonds."
+      ],
+      "hi": [
+        "सामाजिक या व्यावसायिक सुधार पहलों में भाग लें।",
+        "उच्च शिक्षा या यात्रा के अवसरों की योजना बनाएं।",
+        "मित्रों से मिलकर संबंध मजबूत करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review joint financial ventures carefully.",
+        "Maintain balanced interest in spiritual and scientific knowledge."
+      ],
+      "hi": [
+        "संयुक्त आर्थिक प्रयासों की सावधानीपूर्वक समीक्षा करें।",
+        "आध्यात्मिक और वैज्ञानिक ज्ञान में संतुलित रुचि बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "imagination",
+      "intuition",
+      "spiritual awareness",
+      "meditation",
+      "yoga",
+      "occult",
+      "religious practices",
+      "premonitions",
+      "scientific knowledge",
+      "education",
+      "social reform",
+      "travel",
+      "reunion",
+      "joint assets",
+      "financial gains"
+    ],
+    "hi": [
+      "कल्पनाशक्ति",
+      "अंतर्ज्ञान",
+      "आध्यात्मिक बोध",
+      "ध्यान",
+      "योग",
+      "गूढ़ विषय",
+      "धार्मिक साधना",
+      "पूर्वाभास",
+      "वैज्ञानिक ज्ञान",
+      "शिक्षा",
+      "सामाजिक सुधार",
+      "यात्रा",
+      "पुनर्मिलन",
+      "संयुक्त संपत्ति",
+      "आर्थिक लाभ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "powerful",
+      "intuitive",
+      "spiritual",
+      "beneficial",
+      "educational",
+      "socially conscious",
+      "financially favorable"
+    ],
+    "hi": [
+      "प्रबल",
+      "अंतर्ज्ञानी",
+      "आध्यात्मिक",
+      "लाभकारी",
+      "शैक्षणिक",
+      "सामाजिक जागरूक",
+      "आर्थिक रूप से अनुकूल"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "education and learning",
+      "social reform",
+      "financial partnership",
+      "mental well-being"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "शिक्षा और अध्ययन",
+      "सामाजिक सुधार",
+      "आर्थिक साझेदारी",
+      "मानसिक स्वास्थ्य"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-tri-ura",
+      "core": "A time of enhanced imagination, intuition, and spiritual awareness, supporting meditation, occult interests, and social reforms with educational and financial benefits.",
+      "tone": "Warm, encouraging, and insightful"
+    },
+    "hi": {
+      "title": "नेपच्यून ट्राइन यूरेनस",
+      "core": "कल्पना, अंतर्ज्ञान और आध्यात्मिक बोध की वृद्धि का समय, जो ध्यान, गूढ़ रुचि और सामाजिक सुधारों को शैक्षणिक और आर्थिक लाभों के साथ समर्थन करता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Powerful imagination, intuition, and spiritual awareness emerge, ideal for meditation and yoga, with interest in occult and religious practices, and gains in scientific knowledge.",
+        "hi": "कल्पनाशक्ति, अंतर्ज्ञान और आध्यात्मिक बोध प्रबल होते हैं, ध्यान और योग के लिए उपयुक्त, गूढ़ और धार्मिक विषयों में रुचि तथा वैज्ञानिक ज्ञान की प्राप्ति।"
+      },
+      "career": {
+        "en": "Favorable for higher education, travel, and connections with spiritual or educational institutions; interest in social and business reforms.",
+        "hi": "उच्च शिक्षा, यात्रा और आध्यात्मिक या शैक्षणिक संस्थानों से जुड़ने के लिए अनुकूल; सामाजिक और व्यावसायिक सुधारों में रुचि।"
+      },
+      "relationships": {
+        "en": "Reunions with old friends and beneficial connections through spiritual or educational groups.",
+        "hi": "पुराने मित्रों से मिलने के अवसर और आध्यात्मिक या शैक्षणिक समूहों के माध्यम से लाभकारी संबंध।"
+      },
+      "money": {
+        "en": "Financial gains through joint assets, business ventures, insurance, or investments.",
+        "hi": "संयुक्त संपत्ति, व्यवसाय, बीमा या निवेश के माध्यम से आर्थिक लाभ।"
+      },
+      "health_adj": {
+        "en": "Ideal time for meditation and yoga enhancing spiritual and mental well-being.",
+        "hi": "ध्यान और योग के लिए उपयुक्त समय, जो आध्यात्मिक और मानसिक स्वास्थ्य को बढ़ावा देता है।"
+      }
+    },
+    "aliases": [
+      "Neptune trine Uranus",
+      "Nep TRI Ura",
+      "Neptune-Trine-Uranus",
+      "Neptune Trine to Uranus"
+    ]
+  }
+}

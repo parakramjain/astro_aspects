@@ -1,0 +1,235 @@
+{
+  "id": "MOO_TRI_SUN__v1.0.0",
+  "pair": [
+    "Moon",
+    "Trine",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Peaceful and enjoyable development in family, marital, and women's relationships, fostering self-awareness reflected in steady daily work pace.",
+    "hi": "पारिवारिक, वैवाहिक और महिलाओं के साथ शांतिपूर्ण और आनंददायक सम्बन्धों का विकास, जो आत्मचेतना को बढ़ावा देता है और नियमित दैनिक कार्य गति में परिलक्षित होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Steady and consistent work speed reflecting inner self-awareness.",
+      "hi": "आत्मचेतना को दर्शाती नियमित और स्थिर कार्य गति।"
+    },
+    "relationships": {
+      "en": "Peaceful and enjoyable connections within family, marital, and women's relationships.",
+      "hi": "पारिवारिक, वैवाहिक और महिलाओं के साथ शांतिपूर्ण और आनंददायक सम्बन्ध।"
+    },
+    "money": {
+      "en": "No specific financial implications indicated.",
+      "hi": "विशेष वित्तीय प्रभाव नहीं दर्शाए गए हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "विशेष स्वास्थ्य समायोजन नहीं दर्शाए गए हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family relationship development",
+      "Marital harmony",
+      "Women’s relationship growth"
+    ],
+    "hi": [
+      "पारिवारिक सम्बन्धों का विकास",
+      "वैवाहिक सौहार्द",
+      "महिलाओं के सम्बन्धों का विकास"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balance in relationships and work."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; सम्बन्धों और कार्य में संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Foster peaceful interactions in family and marital relationships.",
+        "Cultivate self-awareness to support steady work pace."
+      ],
+      "hi": [
+        "पारिवारिक और वैवाहिक सम्बन्धों में शांतिपूर्ण संवाद बढ़ाएं।",
+        "नियमित कार्य गति के लिए आत्मचेतना विकसित करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage in harmonious communication with family and women close to you.",
+        "Focus on consistent daily work routines reflecting inner balance."
+      ],
+      "hi": [
+        "परिवार और निकट महिलाओं के साथ सौहार्दपूर्ण संवाद करें।",
+        "आंतरिक संतुलन दर्शाने वाली नियमित कार्य दिनचर्या पर ध्यान दें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain the peaceful connections developed.",
+        "Continue nurturing self-awareness to support work consistency."
+      ],
+      "hi": [
+        "विकसित शांतिपूर्ण सम्बन्धों को बनाए रखें।",
+        "कार्य की निरंतरता के लिए आत्मचेतना को बढ़ावा देते रहें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "peaceful relationships",
+      "family harmony",
+      "marital connection",
+      "women’s relationships",
+      "self-awareness",
+      "steady work pace"
+    ],
+    "hi": [
+      "शांतिपूर्ण सम्बन्ध",
+      "पारिवारिक सौहार्द",
+      "वैवाहिक सम्बन्ध",
+      "महिलाओं के सम्बन्ध",
+      "आत्मचेतना",
+      "नियमित कार्य गति"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "peaceful",
+      "enjoyable",
+      "consistent",
+      "self-aware"
+    ],
+    "hi": [
+      "शांतिपूर्ण",
+      "आनंददायक",
+      "नियमित",
+      "आत्मचेतन"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family",
+      "marriage",
+      "women",
+      "self-awareness",
+      "daily routine"
+    ],
+    "hi": [
+      "परिवार",
+      "विवाह",
+      "महिलाएं",
+      "आत्मचेतना",
+      "दैनिक दिनचर्या"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-tri-sun",
+      "core": "This aspect indicates peaceful and enjoyable development in family, marital, and women's relationships, along with growing self-awareness reflected in steady daily work pace.",
+      "tone": "Warm, neutral, and encouraging"
+    },
+    "hi": {
+      "title": "चंद्र त्रिकोण सूर्य",
+      "core": "यह योग पारिवारिक, वैवाहिक और महिलाओं के साथ शांतिपूर्ण और आनंददायक सम्बन्धों के विकास तथा आत्मचेतना के बढ़ने को दर्शाता है, जो नियमित दैनिक कार्य गति में परिलक्षित होता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Peaceful and enjoyable development in family, marital, and women's relationships, fostering self-awareness reflected in steady daily work pace.",
+        "hi": "पारिवारिक, वैवाहिक और महिलाओं के साथ शांतिपूर्ण और आनंददायक सम्बन्धों का विकास, जो आत्मचेतना को बढ़ावा देता है और नियमित दैनिक कार्य गति में परिलक्षित होता है।"
+      },
+      "career": {
+        "en": "Steady and consistent work speed reflecting inner self-awareness.",
+        "hi": "आत्मचेतना को दर्शाती नियमित और स्थिर कार्य गति।"
+      },
+      "relationships": {
+        "en": "Peaceful and enjoyable connections within family, marital, and women's relationships.",
+        "hi": "पारिवारिक, वैवाहिक और महिलाओं के साथ शांतिपूर्ण और आनंददायक सम्बन्ध।"
+      },
+      "money": {
+        "en": "No specific financial implications indicated.",
+        "hi": "विशेष वित्तीय प्रभाव नहीं दर्शाए गए हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "विशेष स्वास्थ्य समायोजन नहीं दर्शाए गए हैं।"
+      }
+    },
+    "aliases": [
+      "Moon trine Sun",
+      "Moo TRI Sun",
+      "Moon-Trine-Sun",
+      "Moon Trine to Sun"
+    ]
+  }
+}

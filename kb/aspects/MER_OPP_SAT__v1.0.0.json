@@ -1,0 +1,150 @@
+{
+  "id": "MER_OPP_SAT__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Opposition",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Opposition between Mercury and Saturn faces polarity/awareness. Mercury: analysis, communication, commerce, learning, tech. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: mixed; outcome depends on maturity, timing, and context.",
+  "facets": {
+    "career": "Negotiation, analytics, documentation, skilling.  Authority via mastery, long-term credibility. Emphasis: polarity/awareness.",
+    "relationships": "Dialog, problem-solving, curiosity.  Commitment realism, boundaries, duty. Emphasis: polarity/awareness.",
+    "money": "Trading, freelancing, multi-stream income, contracts.  Slow steady accrual, austerity, debt realism. Emphasis: polarity/awareness.",
+    "health_adj": "Nervous system, breath, routine mobility.  Bones, teeth, chronic load; routines & posture. Emphasis: polarity/awareness."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Friction escalating into conflict; respect pacing and boundaries.",
+    "Burnout via over-responsibility; schedule recovery windows."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness).",
+      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness).",
+      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness)."
+    ]
+  },
+  "keywords": [
+    "analysis",
+    "awareness",
+    "commerce",
+    "communication",
+    "dharma via effort",
+    "discipline",
+    "learning",
+    "limits",
+    "opposition",
+    "polarity",
+    "structure",
+    "tech",
+    "time"
+  ],
+  "quality_tags": [
+    "major",
+    "mixed",
+    "discipline-required"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "",
+    "Wealth & Pricing",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Mercury Opposition Saturn",
+      "core": "Opposition between Mercury and Saturn faces polarity/awareness. Mercury: analysis, communication, commerce, learning, tech. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: mixed; outcome depends on maturity, timing, and context.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Mercury Opposition Saturn (हिन्दी)",
+      "core": "Mercury और Saturn का Opposition — ऊर्जा polarity/awareness के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Opposition between Mercury and Saturn faces polarity/awareness. Mercury: analysis, communication, commerce, learning, tech. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: mixed; outcome depends on maturity, timing, and context.",
+      "career": "Negotiation, analytics, documentation, skilling.  Authority via mastery, long-term credibility. Emphasis: polarity/awareness.",
+      "relationships": "Dialog, problem-solving, curiosity.  Commitment realism, boundaries, duty. Emphasis: polarity/awareness.",
+      "money": "Trading, freelancing, multi-stream income, contracts.  Slow steady accrual, austerity, debt realism. Emphasis: polarity/awareness.",
+      "health_adj": "Nervous system, breath, routine mobility.  Bones, teeth, chronic load; routines & posture. Emphasis: polarity/awareness."
+    },
+    "aliases": [
+      "Mercury opposition Saturn",
+      "Mer OPP Sat",
+      "Mercury-Opposition-Saturn",
+      "Mercury Opposition to Saturn"
+    ]
+  }
+}

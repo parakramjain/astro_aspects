@@ -1,0 +1,233 @@
+{
+  "id": "URA_CON_VEN__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Conjunction",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Sudden beginnings or endings in relationships; modern and unconventional personality; potential financial and social opportunities.",
+    "hi": "संबंधों में अचानक शुरुआत या अंत; आधुनिक और परंपरा से हटकर सोच वाला व्यक्तित्व; आर्थिक और सामाजिक अवसरों की संभावना।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities may arise through unconventional or modern approaches.",
+      "hi": "परंपरागत से हटकर आधुनिक तरीकों से अवसर मिल सकते हैं।"
+    },
+    "relationships": {
+      "en": "New relationships may start suddenly or old ones may end abruptly; the person tends to be modern and unconventional.",
+      "hi": "अचानक नए संबंध बन सकते हैं या पुराने टूट सकते हैं; व्यक्ति आधुनिक सोच वाला और परंपरा से हटकर होता है।"
+    },
+    "money": {
+      "en": "Financial opportunities are likely during this aspect.",
+      "hi": "इस प्रभाव के दौरान आर्थिक अवसर मिलने की संभावना होती है।"
+    },
+    "health_adj": {
+      "en": "No specific health indications mentioned.",
+      "hi": "स्वास्थ्य के संबंध में कोई विशेष संकेत नहीं दिए गए हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "relationship beginnings",
+      "relationship endings",
+      "financial opportunities",
+      "social opportunities"
+    ],
+    "hi": [
+      "संबंधों की शुरुआत",
+      "संबंधों का अंत",
+      "आर्थिक अवसर",
+      "सामाजिक अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Relationships may end suddenly, requiring emotional adjustment."
+    ],
+    "hi": [
+      "संबंध अचानक टूट सकते हैं, जिससे भावनात्मक समायोजन की आवश्यकता हो सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be open to new social and financial opportunities.",
+        "Embrace modern and unconventional ideas."
+      ],
+      "hi": [
+        "नए सामाजिक और आर्थिक अवसरों के लिए खुले रहें।",
+        "आधुनिक और परंपरा से हटकर विचार अपनाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Expect possible sudden changes in relationships.",
+        "Stay adaptable to shifting social dynamics."
+      ],
+      "hi": [
+        "संबंधों में अचानक बदलाव की संभावना रखें।",
+        "सामाजिक परिवर्तनों के प्रति लचीला रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on relationship changes calmly.",
+        "Prepare for transition in social or financial areas."
+      ],
+      "hi": [
+        "संबंधों में बदलाव पर शांतिपूर्वक विचार करें।",
+        "सामाजिक या आर्थिक क्षेत्रों में परिवर्तन के लिए तैयार रहें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "sudden relationships",
+      "modern",
+      "unconventional",
+      "financial opportunities",
+      "social opportunities"
+    ],
+    "hi": [
+      "अचानक संबंध",
+      "आधुनिक",
+      "परंपरा से हटकर",
+      "आर्थिक अवसर",
+      "सामाजिक अवसर"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "dynamic",
+      "innovative",
+      "opportunistic",
+      "unpredictable"
+    ],
+    "hi": [
+      "गतिशील",
+      "नवोन्मेषी",
+      "अवसरवादी",
+      "अनिश्चित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "change",
+      "modernity",
+      "opportunity",
+      "social dynamics"
+    ],
+    "hi": [
+      "परिवर्तन",
+      "आधुनिकता",
+      "अवसर",
+      "सामाजिक गतिशीलता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-con-ven",
+      "core": "This aspect indicates sudden beginnings or endings in relationships, a modern and unconventional personality, and likely financial and social opportunities.",
+      "tone": "Warm, neutral, and open to possibilities."
+    },
+    "hi": {
+      "title": "यूरेनस संयोजन शुक्र",
+      "core": "यह योग संबंधों में अचानक शुरुआत या अंत, आधुनिक और परंपरा से हटकर व्यक्तित्व, तथा आर्थिक और सामाजिक अवसरों की संभावना दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और संभावनाओं के लिए खुला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "New relationships may start or old ones may end suddenly. The person is modern and unconventional. Financial/social opportunities are likely.",
+        "hi": "अचानक नए संबंध बन सकते हैं या पुराने टूट सकते हैं। व्यक्ति आधुनिक सोच वाला होता है और परंपरा से हटकर चलता है। आर्थिक और सामाजिक अवसर भी मिल सकते हैं।"
+      },
+      "career": {
+        "en": "Opportunities may arise through unconventional or modern approaches.",
+        "hi": "परंपरागत से हटकर आधुनिक तरीकों से अवसर मिल सकते हैं।"
+      },
+      "relationships": {
+        "en": "New relationships may start suddenly or old ones may end abruptly; the person tends to be modern and unconventional.",
+        "hi": "अचानक नए संबंध बन सकते हैं या पुराने टूट सकते हैं; व्यक्ति आधुनिक सोच वाला और परंपरा से हटकर होता है।"
+      },
+      "money": {
+        "en": "Financial opportunities are likely during this aspect.",
+        "hi": "इस प्रभाव के दौरान आर्थिक अवसर मिलने की संभावना होती है।"
+      },
+      "health_adj": {
+        "en": "No specific health indications mentioned.",
+        "hi": "स्वास्थ्य के संबंध में कोई विशेष संकेत नहीं दिए गए हैं।"
+      }
+    },
+    "aliases": [
+      "Uranus conjunction Venus",
+      "Ura CON Ven",
+      "Uranus-Conjunction-Venus",
+      "Uranus Conjunction to Venus"
+    ]
+  }
+}

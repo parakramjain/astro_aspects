@@ -1,0 +1,247 @@
+{
+  "id": "VEN_SEX_MER__v1.0.0",
+  "pair": [
+    "Venus",
+    "Sextile",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect brings sweetness in communication, romantic and artistic expression, fostering understanding and love in relationships, and enhancing harmony and cooperation.",
+    "hi": "यह योग भाषा में मिठास, प्यार भरी बातचीत और कलात्मक अभिव्यक्ति लाता है, जिससे रिश्तों में समझ और प्रेम बढ़ता है तथा मधुरता और सहयोग बढ़ते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for business, branding, promotion, and design activities.",
+      "hi": "व्यापार, प्रचार, ब्रांडिंग और डिजाइन के लिए अनुकूल समय।"
+    },
+    "relationships": {
+      "en": "Growth in understanding and love, increased harmony and cooperation in relationships.",
+      "hi": "रिश्तों में समझ और प्रेम का विकास, मधुरता और सहयोग में वृद्धि।"
+    },
+    "money": {
+      "en": "Positive period for business and promotional efforts potentially improving financial prospects.",
+      "hi": "व्यापार और प्रचार के प्रयासों के लिए सकारात्मक समय जो आर्थिक स्थिति सुधार सकता है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus is on communication and harmony.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं; ध्यान भाषा और मेलजोल पर है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "romantic conversations",
+      "business promotion",
+      "artistic expression"
+    ],
+    "hi": [
+      "प्यार भरी बातचीत",
+      "व्यापार प्रचार",
+      "कलात्मक अभिव्यक्ति"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in meaningful and sweet communication",
+        "Pursue artistic or creative projects",
+        "Collaborate harmoniously in business or relationships"
+      ],
+      "hi": [
+        "मधुर और सार्थक संवाद करें",
+        "कलात्मक या रचनात्मक परियोजनाओं में लगें",
+        "व्यापार या रिश्तों में सहयोगपूर्ण व्यवहार करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on branding and promotion efforts",
+        "Express feelings openly in relationships",
+        "Enhance cooperation with others"
+      ],
+      "hi": [
+        "ब्रांडिंग और प्रचार पर ध्यान दें",
+        "रिश्तों में भावनाओं को खुले तौर पर व्यक्त करें",
+        "दूसरों के साथ सहयोग बढ़ाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain harmony to avoid misunderstandings",
+        "Avoid harsh or critical speech",
+        "Stay open to artistic inspiration"
+      ],
+      "hi": [
+        "गलतफहमी से बचने के लिए मेलजोल बनाए रखें",
+        "कठोर या आलोचनात्मक भाषा से बचें",
+        "कलात्मक प्रेरणा के लिए खुले रहें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "sweetness",
+      "communication",
+      "romance",
+      "artistic expression",
+      "harmony",
+      "cooperation",
+      "business",
+      "promotion",
+      "branding",
+      "design"
+    ],
+    "hi": [
+      "मिठास",
+      "संवाद",
+      "प्यार",
+      "कलात्मक अभिव्यक्ति",
+      "मेलजोल",
+      "सहयोग",
+      "व्यापार",
+      "प्रचार",
+      "ब्रांडिंग",
+      "डिजाइन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "harmonious",
+      "creative",
+      "romantic",
+      "cooperative"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "मेलजोलपूर्ण",
+      "रचनात्मक",
+      "रोमांटिक",
+      "सहयोगी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication",
+      "love",
+      "art",
+      "business",
+      "harmony"
+    ],
+    "hi": [
+      "संवाद",
+      "प्रेम",
+      "कला",
+      "व्यापार",
+      "मेलजोल"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-sxt-mer",
+      "core": "Sweetness in speech and artistic expression enhances relationships and business.",
+      "tone": "Warm, optimistic, and cooperative"
+    },
+    "hi": {
+      "title": "शुक्र षट्कोण बुध",
+      "core": "भाषा में मिठास और कलात्मक अभिव्यक्ति से रिश्ते और व्यापार बेहतर होते हैं।",
+      "tone": "सहानुभूतिपूर्ण, आशावादी और सहयोगी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This time brings sweetness in speech, romantic conversations, and artistic expression. Understanding and love grow in relationships. It’s a good time for business, branding, promotion, and design. Harmony and cooperation increase.",
+        "hi": "इस समय भाषा में मिठासए प्यार भरी बातचीत और कलात्मक अभिव्यक्ति दिखाई देती है। रिश्तों में समझ और प्रेम बना रहता है। व्यापारए प्रचारए ब्रांडिंग और डिजाइन के लिए यह समय उपयुक्त है। रिश्तों में मधुरता और सहयोग बढ़ता है।"
+      },
+      "career": {
+        "en": "Good time for business, branding, promotion, and design activities.",
+        "hi": "व्यापार, प्रचार, ब्रांडिंग और डिजाइन के लिए उपयुक्त समय।"
+      },
+      "relationships": {
+        "en": "Growth in understanding and love, increased harmony and cooperation.",
+        "hi": "रिश्तों में समझ और प्रेम का विकास, मधुरता और सहयोग बढ़ना।"
+      },
+      "money": {
+        "en": "Favorable period for business and promotional efforts improving financial prospects.",
+        "hi": "व्यापार और प्रचार के प्रयासों के लिए अनुकूल समय जो आर्थिक स्थिति सुधार सकता है।"
+      },
+      "health_adj": {
+        "en": "No specific health advice; focus on communication and harmony.",
+        "hi": "कोई विशेष स्वास्थ्य सलाह नहीं; ध्यान भाषा और मेलजोल पर है।"
+      }
+    },
+    "aliases": [
+      "Venus sextile Mercury",
+      "Ven SEX Mer",
+      "Venus-Sextile-Mercury",
+      "Venus Sextile to Mercury"
+    ]
+  }
+}

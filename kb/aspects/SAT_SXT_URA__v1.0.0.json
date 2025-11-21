@@ -1,0 +1,259 @@
+{
+  "id": "SAT_SEX_URA__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Sextile",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates taking responsibility for serious or institutional duties, connecting professionally with elders and high-status individuals, gaining progressive agreements, and harmoniously blending old and new situations. It enhances intuition and focus, enabling practical organization of abilities inspired by study, and brings unexpected opportunities.",
+    "hi": "यह योग व्यक्ति को किसी संस्था या गंभीर जिम्मेदारियों को ग्रहण करने, बुजुर्गों और उच्च वर्ग के व्यक्तियों से पेशेवर रूप से जुड़ने, उन्नतिकारक संधियाँ प्राप्त करने, तथा पुरानी और नई परिस्थितियों को मधुरता से समन्वय करने का संकेत देता है। यह अंतर्ज्ञान और एकाग्रता बढ़ाता है, अध्ययन से प्रेरणा लेकर व्यावहारिक क्षमताओं का आयोजन संभव बनाता है, और अप्रत्याशित अवसर लाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Engages in institutional or serious work responsibilities, connects with elders and specialists, finds opportunities in political management, joint ventures, government projects, and mechanical or scientific research.",
+      "hi": "संस्था या गंभीर कार्य जिम्मेदारियों में संलग्न होता है, बुजुर्गों और विशेषज्ञों से जुड़ता है, राजनीतिक प्रबंध, संयुक्त व्यवसाय, सरकारी परियोजनाओं, यांत्रिक या वैज्ञानिक शोध में अवसर प्राप्त करता है।"
+    },
+    "relationships": {
+      "en": "Builds professional connections with elders, specialists, and high-status individuals, fostering progressive agreements and harmonious coordination between traditional and modern elements.",
+      "hi": "बुजुर्गों, विशेषज्ञों और उच्च वर्ग के व्यक्तियों से पेशेवर संबंध बनाता है, उन्नतिकारक संधियाँ और पारंपरिक व आधुनिक तत्वों के मधुर समन्वय को बढ़ावा देता है।"
+    },
+    "money": {
+      "en": "Opportunities arise through political management, joint ventures, government collaborations, and scientific or mechanical research projects, potentially leading to progressive agreements.",
+      "hi": "राजनीतिक प्रबंध, संयुक्त व्यवसाय, सरकारी सहयोग, वैज्ञानिक या यांत्रिक शोध परियोजनाओं के माध्यम से अवसर प्राप्त होते हैं, जो उन्नतिकारक संधियों की ओर ले जा सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Increased intuition and focus support practical organization of abilities; no specific health risks or issues mentioned.",
+      "hi": "अंतर्ज्ञान और एकाग्रता में वृद्धि व्यावहारिक क्षमताओं के आयोजन में सहायक होती है; कोई विशेष स्वास्थ्य जोखिम या समस्या उल्लेखित नहीं है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Taking on institutional or serious work responsibilities",
+      "Forming progressive professional agreements",
+      "Engaging in political management or government projects",
+      "Receiving unexpected opportunities"
+    ],
+    "hi": [
+      "संस्था या गंभीर कार्य जिम्मेदारियाँ ग्रहण करना",
+      "उन्नतिकारक पेशेवर संधियाँ बनाना",
+      "राजनीतिक प्रबंध या सरकारी परियोजनाओं में संलग्न होना",
+      "अप्रत्याशित अवसर प्राप्त करना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; however, sudden opportunities may require careful consideration."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम उल्लेखित नहीं है; फिर भी, अचानक अवसरों पर सावधानीपूर्वक विचार करना आवश्यक हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Connect professionally with elders and specialists",
+        "Seek opportunities in political, joint venture, or government-related projects",
+        "Use enhanced intuition and focus to organize abilities practically"
+      ],
+      "hi": [
+        "बुजुर्गों और विशेषज्ञों से पेशेवर रूप से जुड़ें",
+        "राजनीतिक, संयुक्त व्यवसाय या सरकारी परियोजनाओं में अवसर खोजें",
+        "अंतर्ज्ञान और एकाग्रता का उपयोग कर क्षमताओं का व्यावहारिक आयोजन करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Take responsibility for institutional or serious friends' work duties",
+        "Blend old and new situations harmoniously",
+        "Be open to unexpected opportunities"
+      ],
+      "hi": [
+        "संस्था या गंभीर मित्रों की कार्य जिम्मेदारियाँ ग्रहण करें",
+        "पुरानी और नई परिस्थितियों को मधुरता से मिलाएं",
+        "अप्रत्याशित अवसरों के लिए खुले रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Avoid neglecting responsibilities to elders or specialists",
+        "Do not resist blending traditional and modern approaches",
+        "Be cautious about impulsive decisions regarding sudden opportunities"
+      ],
+      "hi": [
+        "बुजुर्गों या विशेषज्ञों की जिम्मेदारियों की उपेक्षा न करें",
+        "पारंपरिक और आधुनिक दृष्टिकोणों को मिलाने से इनकार न करें",
+        "अचानक अवसरों पर आवेगपूर्ण निर्णय लेने में सावधानी बरतें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "responsibility",
+      "institutional work",
+      "professional connections",
+      "progressive agreements",
+      "political management",
+      "joint ventures",
+      "government projects",
+      "scientific research",
+      "harmonious blending",
+      "intuition",
+      "focus",
+      "unexpected opportunities"
+    ],
+    "hi": [
+      "जिम्मेदारी",
+      "संस्थागत कार्य",
+      "पेशेवर संबंध",
+      "उन्नतिकारक संधियाँ",
+      "राजनीतिक प्रबंध",
+      "संयुक्त व्यवसाय",
+      "सरकारी परियोजनाएँ",
+      "वैज्ञानिक शोध",
+      "मधुर समन्वय",
+      "अंतर्ज्ञान",
+      "एकाग्रता",
+      "अप्रत्याशित अवसर"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "responsible",
+      "progressive",
+      "harmonious",
+      "intuitive",
+      "focused",
+      "opportunistic"
+    ],
+    "hi": [
+      "जिम्मेदार",
+      "उन्नतिकारक",
+      "मधुर",
+      "अंतर्ज्ञानी",
+      "एकाग्र",
+      "अवसरवादी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "institutional responsibility",
+      "professional networking",
+      "innovation and tradition",
+      "political and scientific opportunities",
+      "inspiration and organization"
+    ],
+    "hi": [
+      "संस्थागत जिम्मेदारी",
+      "पेशेवर नेटवर्किंग",
+      "नवाचार और परंपरा",
+      "राजनीतिक और वैज्ञानिक अवसर",
+      "प्रेरणा और आयोजन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-sxt-ura",
+      "core": "This aspect highlights responsibility in serious or institutional matters, professional connections with elders and specialists, progressive agreements, and blending old with new. It enhances intuition and focus, leading to practical organization and unexpected opportunities.",
+      "tone": "Warm, neutral, encouraging"
+    },
+    "hi": {
+      "title": "शनि षष्टभुज युरेनस",
+      "core": "यह योग गंभीर या संस्थागत मामलों में जिम्मेदारी, बुजुर्गों और विशेषज्ञों से पेशेवर संबंध, उन्नतिकारक संधियाँ, और पुरानी व नई चीजों का समन्वय दर्शाता है। यह अंतर्ज्ञान और एकाग्रता बढ़ाता है, जिससे व्यावहारिक आयोजन और अप्रत्याशित अवसर मिलते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Takes responsibility for institutional/serious friends' work duties. Connects with elders/specialists/high-status individuals professionally. Gains progressive agreements. Opportunities in political management/joint ventures/government projects/mechanical-scientific research. Harmoniously blends old and new situations/objects. Enhanced intuition/focus. Can practically organize abilities per one's studies through inspiration. Receives unexpected opportunities.",
+        "hi": "इस समय व्यक्ति किसी संस्था/गंभीर प्रकृति के मित्र या उनकी कार्य जिम्मेदारियों को ग्रहण करता है। पेशेवर प्रयासों की स्थिति में बुजुर्ग/विशिष्ट/उच्च वर्ग/गंभीर व्यक्तित्व वाले लोगों से जुड़ता है। उन्नतिकारक संधियाँ प्राप्त होती हैं। पेशेवर स्थितियों में राजनीतिक प्रबंध/संयुक्त व्यवसाय/सरकारी सहयोग/यांत्रिक/वैज्ञानिक शोध से संबंधित स्थितियों के अवसर रहते हैं। इस समय व्यक्ति नई और पुरानी परिस्थितियों/वस्तुओं में सहयोग और मधुरता से समन्वय कर लेता है। अंतर्ज्ञान और एकाग्रता में वृद्धि होती है। इस समय प्रेरणा द्वारा व्यावहारिक क्षमताओं को अपने अ/ययन के अनुसार सही.सही आयोजित कर सकता है। अचानक और अप्रत्याशित अवसर प्राप्त करता है।"
+      },
+      "career": {
+        "en": "Takes responsibility for institutional or serious work duties, connects with elders and specialists professionally, gains progressive agreements, and finds opportunities in political management, joint ventures, government projects, and mechanical or scientific research.",
+        "hi": "व्यक्ति संस्था या गंभीर कार्य जिम्मेदारियाँ ग्रहण करता है, बुजुर्गों और विशेषज्ञों से पेशेवर रूप से जुड़ता है, उन्नतिकारक संधियाँ प्राप्त करता है, और राजनीतिक प्रबंध, संयुक्त व्यवसाय, सरकारी परियोजनाओं, यांत्रिक या वैज्ञानिक शोध में अवसर पाता है।"
+      },
+      "relationships": {
+        "en": "Connects professionally with elders, specialists, and high-status individuals, fostering progressive agreements and harmonious coordination between old and new elements.",
+        "hi": "पेशेवर प्रयासों में बुजुर्गों, विशेषज्ञों और उच्च वर्ग के लोगों से जुड़ता है, उन्नतिकारक संधियाँ बनाता है और पुरानी व नई चीजों के मधुर समन्वय को बढ़ावा देता है।"
+      },
+      "money": {
+        "en": "Opportunities arise in political management, joint ventures, government collaborations, and scientific or mechanical research projects, leading to progressive agreements.",
+        "hi": "राजनीतिक प्रबंध, संयुक्त व्यवसाय, सरकारी सहयोग, वैज्ञानिक या यांत्रिक शोध परियोजनाओं में अवसर मिलते हैं, जो उन्नतिकारक संधियों की ओर ले जाते हैं।"
+      },
+      "health_adj": {
+        "en": "Increased intuition and focus help in practical organization of abilities; no specific health concerns noted.",
+        "hi": "अंतर्ज्ञान और एकाग्रता में वृद्धि व्यावहारिक क्षमताओं के आयोजन में सहायक होती है; कोई विशेष स्वास्थ्य चिंता नहीं बताई गई है।"
+      }
+    },
+    "aliases": [
+      "Saturn sextile Uranus",
+      "Sat SEX Ura",
+      "Saturn-Sextile-Uranus",
+      "Saturn Sextile to Uranus"
+    ]
+  }
+}

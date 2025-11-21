@@ -1,0 +1,243 @@
+{
+  "id": "URA_TRI_MAR__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Trine",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period marked by strong collective and excited work energy with a desire for independence. Confidence grows in initiating new ventures, especially in engineering, occult knowledge, and physical activities, leading to physical and mental improvements.",
+    "hi": "यह समय सामूहिक और उत्साहित कार्य गतिशीलता तथा स्वतंत्रता की इच्छा से परिपूर्ण होता है। नए कार्यों को आत्मविश्वास से प्रारंभ करने का अवसर मिलता है, विशेषकर इंजीनियरिंग, गूढ़ ज्ञान और शारीरिक कार्यों में, जिससे शारीरिक और मानसिक सुधार होते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Confidently starting new ventures; growth in engineering, occult knowledge, and physical work; suitable for electrical and future-oriented studies.",
+      "hi": "नए कार्यों को आत्मविश्वासपूर्वक प्रारंभ करना; इंजीनियरिंग, गूढ़ ज्ञान और शारीरिक कार्यों में वृद्धि; बिजली कार्य और भविष्य ज्ञान के लिए उपयुक्त।"
+    },
+    "relationships": {
+      "en": "High activity and dynamism with friends and social circles.",
+      "hi": "मित्रों और सामाजिक समूहों के साथ अत्यधिक गतिशीलता और सक्रियता।"
+    },
+    "money": {
+      "en": "Favorable for joint assets, businesses, and investments.",
+      "hi": "संयुक्त संपत्ति, व्यवसाय और निवेश के लिए अनुकूल समय।"
+    },
+    "health_adj": {
+      "en": "Physical and mental improvements are likely during this period.",
+      "hi": "इस समय शारीरिक और मानसिक सुधार होने की संभावना रहती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New ventures",
+      "Joint business or investments",
+      "Studies in electrical, occult, or future knowledge"
+    ],
+    "hi": [
+      "नए कार्य प्रारंभ करना",
+      "संयुक्त व्यवसाय या निवेश",
+      "बिजली, गूढ़ या भविष्य ज्ञान का अध्ययन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "High activity may lead to overexertion; maintain balance."
+    ],
+    "hi": [
+      "अत्यधिक सक्रियता से थकान हो सकती है; संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage confidently in new professional ventures.",
+        "Collaborate on joint assets and investments.",
+        "Pursue electrical, occult, or future-oriented studies."
+      ],
+      "hi": [
+        "नए पेशेवर कार्यों में आत्मविश्वास से भाग लें।",
+        "संयुक्त संपत्ति और निवेश में सहयोग करें।",
+        "बिजली, गूढ़ या भविष्य ज्ञान का अध्ययन करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate new projects with enthusiasm.",
+        "Increase activity with friends and social groups."
+      ],
+      "hi": [
+        "उत्साह के साथ नए कार्य प्रारंभ करें।",
+        "मित्रों और सामाजिक समूहों के साथ सक्रियता बढ़ाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain physical and mental health improvements.",
+        "Continue confidence in engineering and physical work."
+      ],
+      "hi": [
+        "शारीरिक और मानसिक स्वास्थ्य सुधार बनाए रखें।",
+        "इंजीनियरिंग और शारीरिक कार्य में आत्मविश्वास जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "strong work energy",
+      "independence",
+      "new ventures",
+      "self-confidence",
+      "engineering",
+      "occult knowledge",
+      "physical work",
+      "joint assets",
+      "investments",
+      "high activity"
+    ],
+    "hi": [
+      "मजबूत कार्य ऊर्जा",
+      "स्वतंत्रता",
+      "नए कार्य",
+      "आत्मविश्वास",
+      "इंजीनियरिंग",
+      "गूढ़ ज्ञान",
+      "शारीरिक कार्य",
+      "संयुक्त संपत्ति",
+      "निवेश",
+      "अत्यधिक सक्रियता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "dynamic",
+      "confident",
+      "collaborative",
+      "growth-oriented"
+    ],
+    "hi": [
+      "गतिशील",
+      "आत्मविश्वासी",
+      "सहयोगी",
+      "विकासोन्मुख"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional initiative",
+      "social dynamism",
+      "physical and mental improvement",
+      "future-oriented studies"
+    ],
+    "hi": [
+      "पेशेवर पहल",
+      "सामाजिक गतिशीलता",
+      "शारीरिक और मानसिक सुधार",
+      "भविष्य केंद्रित अध्ययन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-tri-mar",
+      "core": "A time of energetic work and confident new beginnings, especially in technical and occult fields, with strong social and joint financial opportunities.",
+      "tone": "Warm, encouraging, and balanced"
+    },
+    "hi": {
+      "title": "यूरेनस ट्राइन मार्स",
+      "core": "यह समय ऊर्जा से भरे कार्यों और आत्मविश्वासपूर्ण नए आरंभों का होता है, विशेषकर तकनीकी और गूढ़ क्षेत्रों में, साथ ही सामाजिक और संयुक्त वित्तीय अवसरों के लिए अनुकूल।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और संतुलित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Strong collective work energy with desire for independence; confidence in new ventures especially in engineering, occult, and physical work; physical and mental improvements.",
+        "hi": "मजबूत सामूहिक कार्य ऊर्जा और स्वतंत्रता की इच्छा; इंजीनियरिंग, गूढ़ और शारीरिक कार्यों में नए कार्यों के लिए आत्मविश्वास; शारीरिक और मानसिक सुधार।"
+      },
+      "career": {
+        "en": "Confidently initiating new ventures; growth in engineering, occult knowledge, and physical work; suitable time for electrical and future studies.",
+        "hi": "आत्मविश्वास से नए कार्य प्रारंभ करना; इंजीनियरिंग, गूढ़ ज्ञान और शारीरिक कार्यों में वृद्धि; बिजली और भविष्य अध्ययन के लिए उपयुक्त समय।"
+      },
+      "relationships": {
+        "en": "High activity and dynamism with friends and social groups.",
+        "hi": "मित्रों और सामाजिक समूहों के साथ अत्यधिक सक्रियता और गतिशीलता।"
+      },
+      "money": {
+        "en": "Favorable for joint assets, businesses, and investments.",
+        "hi": "संयुक्त संपत्ति, व्यवसाय और निवेश के लिए अनुकूल।"
+      },
+      "health_adj": {
+        "en": "Physical and mental improvements likely.",
+        "hi": "शारीरिक और मानसिक सुधार की संभावना।"
+      }
+    },
+    "aliases": [
+      "Uranus trine Mars",
+      "Ura TRI Mar",
+      "Uranus-Trine-Mars",
+      "Uranus Trine to Mars"
+    ]
+  }
+}

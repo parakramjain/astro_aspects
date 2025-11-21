@@ -1,0 +1,246 @@
+{
+  "id": "SUN_OPP_SUN__v1.0.0",
+  "pair": [
+    "Sun",
+    "Opposition",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Ego and power struggles cause conflicts, especially in important relationships. Compromise and collaboration are needed to sustain harmony and avoid harm.",
+    "hi": "अहंकार एवं शक्ति संघर्ष से महत्वपूर्ण संबंधों में तनाव होता है। समझौता और सहयोग से ही सद्भाव बना रहता है और हानि से बचा जा सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Risk of loss due to anger and hasty actions; collaboration can bring benefits.",
+      "hi": "क्रोध और जल्दबाजी से नुकसान हो सकता है; सहयोग से लाभ होगा।"
+    },
+    "relationships": {
+      "en": "Marital and important relationships may face quarrels and tension; only compromise can maintain them.",
+      "hi": "वैवाहिक और महत्वपूर्ण संबंधों में झगड़ा और तनाव हो सकता है; केवल समझौता संबंध बनाए रख सकता है।"
+    },
+    "money": {
+      "en": "Anger can cause business losses; caution is advised.",
+      "hi": "क्रोध से व्यवसाय में नुकसान हो सकता है; सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Avoid harshness and anger; be cautious to prevent harm.",
+      "hi": "कठोरता और क्रोध से बचें; हानि से बचने के लिए सावधान रहें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Relationship tension",
+      "Power struggles",
+      "Business challenges"
+    ],
+    "hi": [
+      "संबंधों में तनाव",
+      "शक्ति संघर्ष",
+      "व्यवसाय में चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Quarrels and tension in marital relationships",
+      "Anger causing business loss",
+      "Hasty actions leading to harm"
+    ],
+    "hi": [
+      "वैवाहिक संबंधों में झगड़ा और तनाव",
+      "क्रोध से व्यवसाय में नुकसान",
+      "जल्दबाजी से हानि"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Join forces and work collaboratively",
+        "Use compromise to sustain relationships",
+        "Be cautious with actions and emotions"
+      ],
+      "hi": [
+        "शक्ति मिलाकर सहयोग करें",
+        "संबंध बनाए रखने के लिए समझौता करें",
+        "क्रियाओं और भावनाओं में सावधानी रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid anger, excitement, and ego",
+        "Do not act harshly towards children",
+        "Be especially cautious to prevent harm"
+      ],
+      "hi": [
+        "क्रोध, उत्तेजना और अहंकार से बचें",
+        "बच्चों के साथ कठोर व्यवहार न करें",
+        "हानि से बचने के लिए विशेष सावधानी बरतें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain caution as tensions ease",
+        "Continue collaborative efforts",
+        "Monitor relationships for strain"
+      ],
+      "hi": [
+        "तनाव कम होने पर सावधानी बनाए रखें",
+        "सहयोग जारी रखें",
+        "संबंधों में तनाव पर ध्यान दें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "ego",
+      "power struggles",
+      "conflict",
+      "compromise",
+      "anger",
+      "collaboration",
+      "caution",
+      "tension"
+    ],
+    "hi": [
+      "अहंकार",
+      "शक्ति संघर्ष",
+      "संघर्ष",
+      "समझौता",
+      "क्रोध",
+      "सहयोग",
+      "सावधानी",
+      "तनाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautious",
+      "collaborative",
+      "tense"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधान",
+      "सहयोगी",
+      "तनावपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "relationship strain",
+      "power dynamics",
+      "emotional control",
+      "risk management"
+    ],
+    "hi": [
+      "संबंधों में तनाव",
+      "शक्ति संतुलन",
+      "भावनात्मक नियंत्रण",
+      "जोखिम प्रबंधन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-opp-sun",
+      "core": "Ego and power struggles cause conflicts; compromise and collaboration help sustain relationships and avoid harm.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "सूर्य विरोधी सूर्य",
+      "core": "अहंकार और शक्ति संघर्ष से तनाव होता है; समझौता और सहयोग से संबंध बनाए रखे जा सकते हैं और हानि टाली जा सकती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Ego and power struggles cause conflicts, especially in important relationships. Compromise and collaboration are needed to sustain harmony and avoid harm.",
+        "hi": "अहंकार एवं शक्ति संघर्ष से महत्वपूर्ण संबंधों में तनाव होता है। समझौता और सहयोग से ही सद्भाव बना रहता है और हानि से बचा जा सकता है।"
+      },
+      "career": {
+        "en": "Risk of loss due to anger and hasty actions; collaboration can bring benefits.",
+        "hi": "क्रोध और जल्दबाजी से नुकसान हो सकता है; सहयोग से लाभ होगा।"
+      },
+      "relationships": {
+        "en": "Marital and important relationships may face quarrels and tension; only compromise can maintain them.",
+        "hi": "वैवाहिक और महत्वपूर्ण संबंधों में झगड़ा और तनाव हो सकता है; केवल समझौता संबंध बनाए रख सकता है।"
+      },
+      "money": {
+        "en": "Anger can cause business losses; caution is advised.",
+        "hi": "क्रोध से व्यवसाय में नुकसान हो सकता है; सावधानी आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "Avoid harshness and anger; be cautious to prevent harm.",
+        "hi": "कठोरता और क्रोध से बचें; हानि से बचने के लिए सावधान रहें।"
+      }
+    },
+    "aliases": [
+      "Sun opposition Sun",
+      "Sun OPP Sun",
+      "Sun-Opposition-Sun",
+      "Sun Opposition to Sun"
+    ]
+  }
+}

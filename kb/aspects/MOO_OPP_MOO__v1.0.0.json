@@ -1,0 +1,242 @@
+{
+  "id": "MOO_OPP_MOO__v1.0.0",
+  "pair": [
+    "Moon",
+    "Opposition",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates heightened emotional fluctuations, potential imbalance in home, relationships, or work, and a sense of emotional disorientation. It calls for careful handling of matters related to women and attention to eating habits.",
+    "hi": "यह योग भावनाओं में अधिक उतार-चढ़ाव, घर, रिश्तों या काम में असंतुलन और भावनात्मक उलझन को दर्शाता है। महिलाओं से जुड़ी बातों में सावधानी और खानपान पर ध्यान देने की आवश्यकता होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Possible imbalance or tension at work; handle professional matters with care.",
+      "hi": "काम में असंतुलन या तनाव हो सकता है; पेशेवर मामलों में सावधानी बरतें।"
+    },
+    "relationships": {
+      "en": "Emotional swings may affect relationships; older relationships might experience tension; approach matters involving women thoughtfully.",
+      "hi": "भावनात्मक उतार-चढ़ाव रिश्तों को प्रभावित कर सकते हैं; पुराने रिश्तों में तनाव हो सकता है; महिलाओं से जुड़ी बातों में समझदारी से काम लें।"
+    },
+    "money": {
+      "en": "No specific financial indications; maintain balance and caution.",
+      "hi": "वित्तीय स्थिति के लिए कोई विशेष संकेत नहीं; संतुलन और सावधानी बनाए रखें।"
+    },
+    "health_adj": {
+      "en": "Monitor eating habits carefully; emotional stress may affect well-being.",
+      "hi": "खानपान पर ध्यान दें; भावनात्मक तनाव से स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional fluctuations",
+      "Relationship tension",
+      "Domestic imbalance"
+    ],
+    "hi": [
+      "भावनात्मक उतार-चढ़ाव",
+      "रिश्तों में तनाव",
+      "घरेलू असंतुलन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased emotional instability",
+      "Potential for tension in older relationships",
+      "Imbalance in home or work environments"
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता में वृद्धि",
+      "पुराने रिश्तों में तनाव की संभावना",
+      "घर या काम में असंतुलन"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of emotional swings",
+        "Handle interactions with women carefully",
+        "Maintain balanced eating habits"
+      ],
+      "hi": [
+        "भावनात्मक उतार-चढ़ाव का ध्यान रखें",
+        "महिलाओं से जुड़ी बातों में सावधानी बरतें",
+        "संतुलित खानपान बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise extra caution in relationships",
+        "Monitor emotional state closely",
+        "Avoid impulsive decisions at work or home"
+      ],
+      "hi": [
+        "रिश्तों में विशेष सावधानी बरतें",
+        "भावनात्मक स्थिति पर ध्यान दें",
+        "काम या घर में जल्दबाजी से बचें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual easing of emotional tension",
+        "Improvement in relationship balance",
+        "Return to more stable routines"
+      ],
+      "hi": [
+        "भावनात्मक तनाव में धीरे-धीरे कमी",
+        "रिश्तों में संतुलन में सुधार",
+        "स्थिर दिनचर्या की ओर वापसी"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional swings",
+      "imbalance",
+      "relationship tension",
+      "care with women",
+      "emotional confusion",
+      "eating habits"
+    ],
+    "hi": [
+      "भावनात्मक उतार-चढ़ाव",
+      "असंतुलन",
+      "रिश्तों में तनाव",
+      "महिलाओं से सावधानी",
+      "भावनात्मक उलझन",
+      "खानपान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "sensitive",
+      "unstable",
+      "cautious"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "संवेदनशील",
+      "अस्थिर",
+      "सावधान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional balance",
+      "relationship dynamics",
+      "home environment",
+      "self-care"
+    ],
+    "hi": [
+      "भावनात्मक संतुलन",
+      "रिश्तों की गतिशीलता",
+      "घरेलू माहौल",
+      "स्व-देखभाल"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-opp-moo",
+      "core": "Heightened emotional fluctuations and potential imbalance in personal and professional spheres, requiring careful attention to relationships and self-care.",
+      "tone": "Warm, neutral, and cautiously observant"
+    },
+    "hi": {
+      "title": "चंद्रमा विपक्ष चंद्रमा",
+      "core": "भावनाओं में अधिक उतार-चढ़ाव और व्यक्तिगत व पेशेवर क्षेत्रों में असंतुलन की संभावना, रिश्तों और स्व-देखभाल पर सावधानी आवश्यक।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्ण"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotions swing more than usual during this time. There may be imbalance in home, relationships, or work. Handle matters related to women carefully. The person may feel emotionally lost. Eating habits should be monitored. Tension may arise in older relationships.",
+        "hi": "इस समय भावनाओं में उतार.चढ़ाव ज़्यादा रहता है। घरए रिश्तों और काम में असंतुलन हो सकता है। महिलाओं से जुड़ी बातों में समझदारी से काम लेना चाहिए। व्यक्ति खुद को खोया हुआ महसूस कर सकता है। खानपान पर /यान देना चाहिए। पुराने रिश्तों में तनाव की स्थिति आ सकती है।"
+      },
+      "career": {
+        "en": "There may be imbalance in work during this time; handle professional matters carefully.",
+        "hi": "काम में असंतुलन हो सकता है; पेशेवर मामलों में सावधानी बरतें।"
+      },
+      "relationships": {
+        "en": "Tension may arise in older relationships; emotional swings affect relationships; handle matters related to women carefully.",
+        "hi": "पुराने रिश्तों में तनाव की स्थिति आ सकती है; भावनात्मक उतार-चढ़ाव रिश्तों को प्रभावित करते हैं; महिलाओं से जुड़ी बातों में समझदारी से काम लेना चाहिए।"
+      },
+      "money": {
+        "en": "No specific financial advice given; maintain balance.",
+        "hi": "वित्तीय मामलों में कोई विशेष सलाह नहीं; संतुलन बनाए रखें।"
+      },
+      "health_adj": {
+        "en": "Eating habits should be monitored; emotional stress may impact health.",
+        "hi": "खानपान पर ध्यान देना चाहिए; भावनात्मक तनाव स्वास्थ्य को प्रभावित कर सकता है।"
+      }
+    },
+    "aliases": [
+      "Moon opposition Moon",
+      "Moo OPP Moo",
+      "Moon-Opposition-Moon",
+      "Moon Opposition to Moon"
+    ]
+  }
+}

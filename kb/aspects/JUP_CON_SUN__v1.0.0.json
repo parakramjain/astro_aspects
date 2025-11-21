@@ -1,0 +1,239 @@
+{
+  "id": "JUP_CON_SUN__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Conjunction",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect signifies a period of increased religiosity, morality, and wisdom. It supports education, teaching, and social work, and may bring good fortune and opportunities for advancement.",
+    "hi": "यह योग धार्मिकता, नैतिकता और ज्ञान में वृद्धि का समय दर्शाता है। यह शिक्षा, अध्यापन और सामाजिक कार्यों के लिए अनुकूल होता है तथा भाग्य और उन्नति के अवसर प्रदान कर सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for education, teaching, and social work, with increased opportunities for advancement.",
+      "hi": "शिक्षा, अध्यापन और सामाजिक कार्यों के लिए अनुकूल, उन्नति के अवसर बढ़ सकते हैं।"
+    },
+    "relationships": {
+      "en": "Enhanced morality and wisdom may positively influence social interactions and community involvement.",
+      "hi": "बढ़ी हुई नैतिकता और ज्ञान सामाजिक संबंधों और समुदाय में भागीदारी को सकारात्मक बना सकते हैं।"
+    },
+    "money": {
+      "en": "Potential for good fortune and increased opportunities for financial advancement.",
+      "hi": "भाग्य का साथ मिल सकता है और आर्थिक उन्नति के अवसर बढ़ सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated during this period.",
+      "hi": "इस अवधि में स्वास्थ्य संबंधी कोई विशेष बदलाव संकेतित नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Education",
+      "Teaching",
+      "Social Work",
+      "Advancement Opportunities"
+    ],
+    "hi": [
+      "शिक्षा",
+      "अध्यापन",
+      "सामाजिक कार्य",
+      "उन्नति के अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balanced perspective."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताए गए; संतुलित दृष्टिकोण बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in educational or teaching activities.",
+        "Participate in social or community work.",
+        "Cultivate moral and spiritual growth."
+      ],
+      "hi": [
+        "शैक्षिक या अध्यापन गतिविधियों में भाग लें।",
+        "सामाजिक या समुदायिक कार्यों में शामिल हों।",
+        "नैतिक और आध्यात्मिक विकास को बढ़ावा दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on learning and wisdom.",
+        "Seek opportunities for advancement."
+      ],
+      "hi": [
+        "ज्ञान और सीखने पर ध्यान दें।",
+        "उन्नति के अवसर खोजें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain gained wisdom and moral values.",
+        "Continue social contributions with awareness."
+      ],
+      "hi": [
+        "प्राप्त ज्ञान और नैतिक मूल्यों को बनाए रखें।",
+        "सचेतनता के साथ सामाजिक योगदान जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Religiosity",
+      "Morality",
+      "Wisdom",
+      "Education",
+      "Teaching",
+      "Social Work",
+      "Good Fortune",
+      "Advancement"
+    ],
+    "hi": [
+      "धार्मिकता",
+      "नैतिकता",
+      "ज्ञान",
+      "शिक्षा",
+      "अध्यापन",
+      "सामाजिक कार्य",
+      "भाग्य",
+      "उन्नति"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Favorable",
+      "Supportive",
+      "Growth-Oriented"
+    ],
+    "hi": [
+      "अनुकूल",
+      "सहायक",
+      "विकासोन्मुख"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Spiritual Growth",
+      "Educational Progress",
+      "Social Contribution",
+      "Opportunity"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "शैक्षिक प्रगति",
+      "सामाजिक योगदान",
+      "अवसर"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-con-sun",
+      "core": "A time of increased wisdom, morality, and religious inclination, favorable for education and social endeavors.",
+      "tone": "Warm, encouraging, and balanced"
+    },
+    "hi": {
+      "title": "बृहस्पति संयोजन सूर्य",
+      "core": "ज्ञान, नैतिकता और धार्मिकता में वृद्धि का समय, शिक्षा और सामाजिक कार्यों के लिए अनुकूल।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और संतुलित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Period marked by growth in religiosity, morality, and wisdom, supporting education and social work with favorable fortune.",
+        "hi": "धार्मिकता, नैतिकता और ज्ञान में वृद्धि का समय, शिक्षा और सामाजिक कार्यों के लिए अनुकूल तथा भाग्यशाली।"
+      },
+      "career": {
+        "en": "Supports education, teaching, and social work with enhanced opportunities for advancement.",
+        "hi": "शिक्षा, अध्यापन और सामाजिक कार्यों के लिए सहायक, उन्नति के अवसर बढ़ते हैं।"
+      },
+      "relationships": {
+        "en": "Improved morality and wisdom positively affect social and community relationships.",
+        "hi": "बेहतर नैतिकता और ज्ञान सामाजिक और समुदायिक संबंधों को सकारात्मक बनाते हैं।"
+      },
+      "money": {
+        "en": "Good fortune and increased chances for financial progress may occur.",
+        "hi": "भाग्य का साथ मिल सकता है और आर्थिक प्रगति के अवसर बढ़ सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health-related changes indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष बदलाव नहीं बताए गए।"
+      }
+    },
+    "aliases": [
+      "Jupiter conjunction Sun",
+      "Jup CON Sun",
+      "Jupiter-Conjunction-Sun",
+      "Jupiter Conjunction to Sun"
+    ]
+  }
+}

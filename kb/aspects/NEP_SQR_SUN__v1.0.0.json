@@ -1,0 +1,237 @@
+{
+  "id": "NEP_SQR_SUN__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Square",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Avoidance of responsibilities and self-deception lead to problems. The person tends to live in fantasies, wasting time and resources, which may cause losses.",
+    "hi": "जिम्मेदारियों से बचना और स्वयं को धोखा देना समस्याएं उत्पन्न करता है। व्यक्ति कल्पनाओं में रहता है, समय और संसाधन व्यर्थ करता है, जिससे नुकसान हो सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Tendency to avoid duties and get distracted by unrealistic ideas, potentially harming professional progress.",
+      "hi": "कर्तव्यों से बचना और अवास्तविक विचारों में उलझना, जिससे पेशेवर प्रगति प्रभावित हो सकती है।"
+    },
+    "relationships": {
+      "en": "Self-deception and living in fantasies may cause misunderstandings or difficulties in personal connections.",
+      "hi": "स्वयं को धोखा देना और कल्पनाओं में रहना व्यक्तिगत संबंधों में गलतफहमी या कठिनाई ला सकता है।"
+    },
+    "money": {
+      "en": "Inclination towards futile expenses and imaginary investments can lead to financial losses.",
+      "hi": "व्यर्थ खर्च और काल्पनिक निवेश की प्रवृत्ति से आर्थिक नुकसान हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Mental distraction and escapism may affect overall well-being, though specifics are unclear.",
+      "hi": "मानसिक विचलन और वास्तविकता से बचना समग्र स्वास्थ्य को प्रभावित कर सकता है, हालांकि स्पष्टता नहीं है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Periods of irresponsibility",
+      "Episodes of self-delusion",
+      "Times of financial waste"
+    ],
+    "hi": [
+      "जिम्मेदारी से बचने के समय",
+      "स्वयं को धोखा देने के दौर",
+      "आर्थिक व्यर्थता के समय"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Risk of creating problems by avoiding duties",
+      "Potential losses due to unrealistic ideas",
+      "Wasting time and resources"
+    ],
+    "hi": [
+      "कर्तव्यों से बचने पर समस्याएं उत्पन्न होने का खतरा",
+      "अवास्तविक विचारों से संभावित नुकसान",
+      "समय और संसाधनों की बर्बादी"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Recognize and accept responsibilities",
+        "Stay grounded in reality",
+        "Monitor expenses carefully"
+      ],
+      "hi": [
+        "जिम्मेदारियों को पहचानें और स्वीकार करें",
+        "वास्तविकता में बने रहें",
+        "खर्चों पर सावधानी रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid indulging in fantasies",
+        "Refrain from self-deception",
+        "Limit futile spending"
+      ],
+      "hi": [
+        "कल्पनाओं में डूबने से बचें",
+        "स्वयं को धोखा देने से परहेज करें",
+        "व्यर्थ खर्च सीमित करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons about responsibility",
+        "Reassess financial habits",
+        "Focus on practical goals"
+      ],
+      "hi": [
+        "जिम्मेदारी के बारे में सीखे गए पाठों पर विचार करें",
+        "आर्थिक आदतों का पुनर्मूल्यांकन करें",
+        "व्यावहारिक लक्ष्यों पर ध्यान दें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "avoidance",
+      "self-deception",
+      "fantasy",
+      "waste",
+      "loss"
+    ],
+    "hi": [
+      "पलायन",
+      "स्वयं को फंसाना",
+      "कल्पना",
+      "व्यर्थ",
+      "नुकसान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "deceptive",
+      "imaginative"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "धोखाधड़ीपूर्ण",
+      "कल्पनाशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "responsibility avoidance",
+      "illusion vs reality",
+      "financial caution"
+    ],
+    "hi": [
+      "जिम्मेदारी से बचाव",
+      "माया और वास्तविकता",
+      "आर्थिक सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-squ-sun",
+      "core": "Avoiding responsibilities and self-deception cause problems, fantasies, and waste.",
+      "tone": "Warm, neutral, cautionary"
+    },
+    "hi": {
+      "title": "नेपच्यून स्क्वायर सूर्य",
+      "core": "जिम्मेदारियों से बचना और स्वयं को धोखा देना समस्याएं, कल्पनाएं और व्यर्थता लाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Avoiding responsibilities and self-deception lead to problems and wasted resources.",
+        "hi": "जिम्मेदारियों से बचना और स्वयं को धोखा देना समस्याएं और संसाधनों की बर्बादी लाता है।"
+      },
+      "career": {
+        "en": "Avoidance of duties and distraction by unrealistic ideas may harm career progress.",
+        "hi": "कर्तव्यों से बचना और अवास्तविक विचारों में उलझना करियर को नुकसान पहुंचा सकता है।"
+      },
+      "relationships": {
+        "en": "Self-deception and living in fantasies may cause misunderstandings in relationships.",
+        "hi": "स्वयं को धोखा देना और कल्पनाओं में रहना संबंधों में गलतफहमी ला सकता है।"
+      },
+      "money": {
+        "en": "Futile expenses and imaginary ideas can lead to financial losses.",
+        "hi": "व्यर्थ खर्च और काल्पनिक विचार आर्थिक नुकसान कर सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Mental distraction and escapism may affect well-being, though details are unclear.",
+        "hi": "मानसिक विचलन और बचाव स्वास्थ्य को प्रभावित कर सकते हैं, पर स्पष्टता नहीं है।"
+      }
+    },
+    "aliases": [
+      "Neptune square Sun",
+      "Nep SQR Sun",
+      "Neptune-Square-Sun",
+      "Neptune Square to Sun"
+    ]
+  }
+}

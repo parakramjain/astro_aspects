@@ -1,0 +1,255 @@
+{
+  "id": "MER_CON_SAT__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Conjunction",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect enhances work style, responsibility, and discipline, making the person more focused and practical. It supports solid business decisions and planning but may bring mental pressure or health strain.",
+    "hi": "यह योग काम करने की शैली, ज़िम्मेदारी और अनुशासन को बढ़ाता है, जिससे व्यक्ति अधिक केंद्रित और व्यावहारिक बनता है। यह व्यावसायिक निर्णय और योजनाओं को मजबूत बनाता है, पर मानसिक दबाव और सेहत पर असर भी हो सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Improved focus and discipline aid in making solid business decisions and strengthening plans.",
+      "hi": "बेहतर एकाग्रता और अनुशासन से व्यावसायिक निर्णय और योजनाएं मजबूत होती हैं।"
+    },
+    "relationships": {
+      "en": "Mental pressure may affect younger individuals, possibly influencing interpersonal interactions.",
+      "hi": "युवा व्यक्तियों पर मानसिक दबाव पड़ सकता है, जो पारस्परिक संबंधों को प्रभावित कर सकता है।"
+    },
+    "money": {
+      "en": "A favorable period for business decisions and financial planning.",
+      "hi": "व्यवसायिक निर्णय और वित्तीय योजना के लिए अनुकूल समय।"
+    },
+    "health_adj": {
+      "en": "Health might be affected due to exertion; mental stress or pessimism may occur especially in younger people.",
+      "hi": "अधिक भागदौड़ से सेहत पर असर हो सकता है; विशेषकर युवा व्यक्तियों में मानसिक दबाव या निराशा हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business decisions",
+      "Planning and writing",
+      "Periods of mental pressure"
+    ],
+    "hi": [
+      "व्यावसायिक निर्णय",
+      "योजनाएं और लेखन",
+      "मानसिक दबाव के समय"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Possible health strain from exertion",
+      "Mental pressure or pessimism in younger individuals"
+    ],
+    "hi": [
+      "भागदौड़ से सेहत पर असर",
+      "युवा व्यक्तियों में मानसिक दबाव या निराशा"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on disciplined work and responsibility",
+        "Make practical business decisions",
+        "Strengthen writing and planning efforts"
+      ],
+      "hi": [
+        "अनुशासित कार्य और ज़िम्मेदारी पर ध्यान दें",
+        "व्यावहारिक व्यावसायिक निर्णय लें",
+        "लेखन और योजना को मजबूत बनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Maintain focus and practicality",
+        "Be cautious of mental pressure",
+        "Monitor health amid exertion"
+      ],
+      "hi": [
+        "केंद्रित और व्यावहारिक बने रहें",
+        "मानसिक दबाव से सावधान रहें",
+        "भागदौड़ के बीच सेहत पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually ease mental pressure",
+        "Reduce excessive exertion",
+        "Continue practical planning"
+      ],
+      "hi": [
+        "मानसिक दबाव को धीरे-धीरे कम करें",
+        "अधिक भागदौड़ कम करें",
+        "व्यावहारिक योजना जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "work style",
+      "responsibility",
+      "discipline",
+      "focus",
+      "practicality",
+      "business decisions",
+      "planning",
+      "writing",
+      "mental pressure",
+      "health strain",
+      "pessimism"
+    ],
+    "hi": [
+      "काम करने की शैली",
+      "ज़िम्मेदारी",
+      "अनुशासन",
+      "केंद्रित",
+      "व्यावहारिक",
+      "व्यावसायिक निर्णय",
+      "योजना",
+      "लेखन",
+      "मानसिक दबाव",
+      "सेहत पर असर",
+      "निराशा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "focused",
+      "disciplined",
+      "responsible",
+      "practical",
+      "cautious"
+    ],
+    "hi": [
+      "केंद्रित",
+      "अनुशासित",
+      "ज़िम्मेदार",
+      "व्यावहारिक",
+      "सावधान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "work ethic",
+      "mental discipline",
+      "business acumen",
+      "health awareness",
+      "emotional caution"
+    ],
+    "hi": [
+      "कार्य नीति",
+      "मानसिक अनुशासन",
+      "व्यावसायिक समझ",
+      "स्वास्थ्य जागरूकता",
+      "भावनात्मक सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-con-sat",
+      "core": "Enhances discipline, focus, and responsibility; supports solid business decisions but may bring mental and health challenges.",
+      "tone": "Warm, neutral, and practical"
+    },
+    "hi": {
+      "title": "बुध संयोजन शनि",
+      "core": "अनुशासन, एकाग्रता और ज़िम्मेदारी बढ़ाता है; व्यावसायिक निर्णयों में मदद करता है, पर मानसिक और स्वास्थ्य संबंधी चुनौतियां ला सकता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और व्यावहारिक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This aspect strengthens work style, responsibility, and discipline, making the person more focused and practical, supporting business decisions and solid plans while possibly causing mental pressure and health effects.",
+        "hi": "यह योग काम करने की शैली, ज़िम्मेदारी और अनुशासन को मजबूत करता है, व्यक्ति को अधिक केंद्रित और व्यावहारिक बनाता है, व्यावसायिक निर्णयों और ठोस योजनाओं का समर्थन करता है, साथ ही मानसिक दबाव और स्वास्थ्य पर असर भी हो सकता है।"
+      },
+      "career": {
+        "en": "Focus and discipline improve, aiding solid business decisions and planning.",
+        "hi": "केंद्रित और अनुशासित होकर व्यावसायिक निर्णय और योजना मजबूत होती है।"
+      },
+      "relationships": {
+        "en": "Younger individuals may experience mental pressure affecting relationships.",
+        "hi": "युवा व्यक्तियों को मानसिक दबाव का अनुभव हो सकता है जो संबंधों को प्रभावित कर सकता है।"
+      },
+      "money": {
+        "en": "A favorable time for business decisions and financial planning.",
+        "hi": "व्यवसायिक निर्णय और वित्तीय योजना के लिए अनुकूल समय।"
+      },
+      "health_adj": {
+        "en": "Health may be affected due to exertion; mental stress or pessimism possible especially in younger people.",
+        "hi": "अधिक भागदौड़ से सेहत प्रभावित हो सकती है; विशेषकर युवा व्यक्तियों में मानसिक दबाव या निराशा हो सकती है।"
+      }
+    },
+    "aliases": [
+      "Mercury conjunction Saturn",
+      "Mer CON Sat",
+      "Mercury-Conjunction-Saturn",
+      "Mercury Conjunction to Saturn"
+    ]
+  }
+}

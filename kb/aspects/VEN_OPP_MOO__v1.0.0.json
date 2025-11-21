@@ -1,0 +1,255 @@
+{
+  "id": "VEN_OPP_MOO__v1.0.0",
+  "pair": [
+    "Venus",
+    "Opposition",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates emotional instability and confusion affecting social, romantic, and family relationships, leading to excessive emotions and spending, misunderstandings, financial strain, and creative setbacks.",
+    "hi": "यह योग सामाजिक, रोमांटिक और पारिवारिक रिश्तों में भावनात्मक अस्थिरता और उलझन दर्शाता है, जिससे अधिक भावुकता, खर्च, ग़लतफ़हमियाँ, आर्थिक तनाव और कला से जुड़े कामों में रुकावट होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Creative work may face setbacks and delays during this period.",
+      "hi": "इस दौरान कला या सुंदरता से जुड़े कामों में रुकावट और देरी हो सकती है।"
+    },
+    "relationships": {
+      "en": "Emotional instability and confusion can cause misunderstandings and strain in social, romantic, and family relationships.",
+      "hi": "भावनात्मक अस्थिरता और उलझन से सामाजिक, रोमांटिक और पारिवारिक रिश्तों में ग़लतफ़हमियाँ और तनाव हो सकता है।"
+    },
+    "money": {
+      "en": "There may be financial strain and unwise spending or purchases.",
+      "hi": "आर्थिक तनाव हो सकता है और खर्च या खरीदी समझदारी से न हो।"
+    },
+    "health_adj": {
+      "en": "Emotional fluctuations may affect overall well-being; caution with emotional stress is advised.",
+      "hi": "भावनात्मक उतार-चढ़ाव से समग्र स्वास्थ्य प्रभावित हो सकता है; भावनात्मक तनाव से सावधानी रखें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional challenges",
+      "Relationship misunderstandings",
+      "Financial difficulties",
+      "Creative setbacks"
+    ],
+    "hi": [
+      "भावनात्मक चुनौतियाँ",
+      "रिश्तों में ग़लतफ़हमियाँ",
+      "आर्थिक कठिनाइयाँ",
+      "कला में रुकावट"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Over-emotional reactions may cloud judgment.",
+      "Unwise spending can lead to financial strain.",
+      "Misunderstandings may escalate conflicts.",
+      "Creative projects might face obstacles."
+    ],
+    "hi": [
+      "अधिक भावुकता निर्णय को प्रभावित कर सकती है।",
+      "असमझदारी से खर्च आर्थिक तनाव ला सकती है।",
+      "ग़लतफ़हमियाँ विवाद बढ़ा सकती हैं।",
+      "कला से जुड़े कामों में बाधाएँ आ सकती हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise emotional awareness to avoid misunderstandings.",
+        "Review financial decisions carefully before spending.",
+        "Communicate clearly in relationships to reduce confusion.",
+        "Be patient with creative work and expect delays."
+      ],
+      "hi": [
+        "ग़लतफ़हमियाँ टालने के लिए भावनाओं को समझें।",
+        "खर्च करने से पहले वित्तीय निर्णय ध्यान से लें।",
+        "रिश्तों में स्पष्ट संवाद करें ताकि उलझन कम हो।",
+        "कला के काम में धैर्य रखें और देरी की संभावना समझें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive emotional reactions.",
+        "Refrain from major purchases or spending.",
+        "Seek clarity in communication with close ones.",
+        "Pause and reassess creative projects if facing setbacks."
+      ],
+      "hi": [
+        "आवेगपूर्ण भावुक प्रतिक्रियाओं से बचें।",
+        "बड़ी खरीद या खर्च से बचें।",
+        "निकटजनों से संवाद में स्पष्टता खोजें।",
+        "रुकावट होने पर कला परियोजनाओं को पुनः मूल्यांकन करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Emotional balance begins to restore.",
+        "Financial pressures may ease gradually.",
+        "Relationships can improve with clearer understanding.",
+        "Creative progress may resume with renewed focus."
+      ],
+      "hi": [
+        "भावनात्मक संतुलन धीरे-धीरे लौटता है।",
+        "आर्थिक दबाव धीरे-धीरे कम हो सकते हैं।",
+        "स्पष्ट समझ से रिश्ते सुधर सकते हैं।",
+        "नवीन ध्यान से कला में प्रगति फिर से शुरू हो सकती है।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional instability",
+      "confusion",
+      "overspending",
+      "misunderstandings",
+      "financial strain",
+      "creative setbacks"
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता",
+      "उलझन",
+      "अधिक खर्च",
+      "ग़लतफ़हमियाँ",
+      "आर्थिक तनाव",
+      "कला में रुकावट"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "challenging",
+      "confusing",
+      "financial caution",
+      "creative difficulty"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "चुनौतीपूर्ण",
+      "उलझन भरा",
+      "आर्थिक सतर्कता",
+      "कला में कठिनाई"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "relationships",
+      "emotions",
+      "money management",
+      "creativity"
+    ],
+    "hi": [
+      "रिश्ते",
+      "भावनाएँ",
+      "पैसे का प्रबंधन",
+      "रचनात्मकता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-opp-moo",
+      "core": "Emotional instability and confusion affect relationships and finances, causing challenges in love, family, spending, and creative work.",
+      "tone": "Warm, neutral, and cautiously observant"
+    },
+    "hi": {
+      "title": "शुक्र का चंद्रमा के विपरीत",
+      "core": "भावनात्मक अस्थिरता और उलझन रिश्तों और वित्त को प्रभावित करती है, जिससे प्रेम, परिवार, खर्च और कला के कामों में चुनौतियाँ आती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Emotional instability and confusion in social, romantic, and family relationships, leading to overspending, misunderstandings, financial strain, and creative setbacks.",
+        "hi": "सामाजिक, रोमांटिक और पारिवारिक रिश्तों में भावनात्मक अस्थिरता और उलझन, जिससे अधिक खर्च, ग़लतफ़हमियाँ, आर्थिक तनाव और कला में रुकावट होती है।"
+      },
+      "career": {
+        "en": "Creative work faces setbacks and delays during this period.",
+        "hi": "इस समय कला या सुंदरता से जुड़े कामों में रुकावट और देरी होती है।"
+      },
+      "relationships": {
+        "en": "Emotional confusion causes misunderstandings and strain in social, romantic, and family relationships.",
+        "hi": "भावनात्मक उलझन से सामाजिक, रोमांटिक और पारिवारिक रिश्तों में ग़लतफ़हमियाँ और तनाव होता है।"
+      },
+      "money": {
+        "en": "Financial strain arises from overspending and unwise purchases.",
+        "hi": "अधिक खर्च और समझदारी से न खरीदी गई चीज़ों से आर्थिक तनाव होता है।"
+      },
+      "health_adj": {
+        "en": "Emotional fluctuations may impact overall health; caution advised.",
+        "hi": "भावनात्मक उतार-चढ़ाव से स्वास्थ्य प्रभावित हो सकता है; सावधानी आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Venus opposition Moon",
+      "Ven OPP Moo",
+      "Venus-Opposition-Moon",
+      "Venus Opposition to Moon"
+    ]
+  }
+}

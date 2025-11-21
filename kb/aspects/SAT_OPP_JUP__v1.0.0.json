@@ -1,0 +1,261 @@
+{
+  "id": "SAT_OPP_JUP__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Opposition",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Business and professional challenges arise with slowdowns, intense competition, and lack of support. Legal and financial troubles increase, causing conflicts and moral compromises that affect relationships and reputation.",
+    "hi": "व्यवसाय और पेशेवर क्षेत्र में मंदी, तीव्र प्रतिस्पर्धा और सहयोग की कमी के कारण चुनौतियाँ उत्पन्न होती हैं। कानूनी और आर्थिक समस्याएँ बढ़ती हैं, जिससे रिश्तों और प्रतिष्ठा पर प्रभाव पड़ता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Avoid initiating social, educational, administrative, travel, or professional projects. High-risk and volatile ventures likely lead to losses.",
+      "hi": "सामाजिक, शैक्षणिक, प्रशासनिक, यात्रा या पेशेवर कार्य प्रारंभ करने से बचें। अधिक जोखिम और उतार-चढ़ाव वाले कार्यों में नुकसान की संभावना रहती है।"
+    },
+    "relationships": {
+      "en": "Conflicts likely in business and home responsibilities. Money and reputation negatively impact friendships and partnerships. Hypocrisy and non-cooperation cause problems.",
+      "hi": "व्यवसाय और घर की जिम्मेदारियों में झगड़े हो सकते हैं। पैसा और प्रतिष्ठा मित्रता और साझेदारी पर नकारात्मक प्रभाव डालते हैं। कथनी और करनी में अंतर तथा असहयोग समस्याएँ उत्पन्न करते हैं।"
+    },
+    "money": {
+      "en": "Financial and legal problems intensify, adversely affecting partnerships and social standing.",
+      "hi": "आर्थिक और कानूनी समस्याएँ गहराती हैं, जो साझेदारी और सामाजिक प्रतिष्ठा पर विपरीत प्रभाव डालती हैं।"
+    },
+    "health_adj": {
+      "en": "Moral compromises lead to indifference and internal conflicts, creating emotional strain.",
+      "hi": "नैतिक समझौतों के कारण उदासीनता और आंतरिक संघर्ष होते हैं, जिससे भावनात्मक तनाव उत्पन्न होता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business challenges",
+      "Legal and financial issues",
+      "Conflicts in responsibilities",
+      "Reputation impact"
+    ],
+    "hi": [
+      "व्यवसाय में चुनौतियाँ",
+      "कानूनी और आर्थिक समस्याएँ",
+      "जिम्मेदारियों में मतभेद",
+      "प्रतिष्ठा पर प्रभाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid initiating important social, educational, administrative, travel, or professional activities.",
+      "High risk of losses in volatile ventures.",
+      "Conflicts may arise in business and home duties.",
+      "Moral compromises can cause indifference and hypocrisy."
+    ],
+    "hi": [
+      "महत्वपूर्ण सामाजिक, शैक्षणिक, प्रशासनिक, यात्रा या पेशेवर कार्य प्रारंभ न करें।",
+      "अस्थिर कार्यों में नुकसान का अधिक जोखिम।",
+      "व्यवसाय और घर की जिम्मेदारियों में झगड़े हो सकते हैं।",
+      "नैतिक समझौतों से उदासीनता और कपट उत्पन्न हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in business and professional initiatives.",
+        "Avoid high-risk and volatile ventures.",
+        "Be mindful of conflicts in responsibilities.",
+        "Maintain integrity to reduce hypocrisy and indifference."
+      ],
+      "hi": [
+        "व्यवसाय और पेशेवर कार्यों में सावधानी बरतें।",
+        "अधिक जोखिम और अस्थिर कार्यों से बचें।",
+        "जिम्मेदारियों में मतभेदों के प्रति सचेत रहें।",
+        "कपट और उदासीनता कम करने के लिए ईमानदारी बनाए रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Refrain from starting social, educational, administrative, travel, or professional projects.",
+        "Avoid new high-risk ventures.",
+        "Prepare for possible conflicts in business and home duties."
+      ],
+      "hi": [
+        "सामाजिक, शैक्षणिक, प्रशासनिक, यात्रा या पेशेवर परियोजनाएँ शुरू न करें।",
+        "नए उच्च जोखिम वाले कार्यों से बचें।",
+        "व्यवसाय और घर की जिम्मेदारियों में झगड़ों के लिए तैयार रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual easing of conflicts and financial/legal pressures.",
+        "Improvement in cooperation and alignment of words and actions."
+      ],
+      "hi": [
+        "झगड़ों और आर्थिक/कानूनी दबावों में धीरे-धीरे कमी।",
+        "सहयोग और कथनी-करनी में सामंजस्य में सुधार।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "business slowdown",
+      "competition",
+      "lack of support",
+      "legal problems",
+      "financial issues",
+      "conflicts",
+      "moral compromise",
+      "hypocrisy",
+      "non-cooperation",
+      "risk",
+      "loss"
+    ],
+    "hi": [
+      "व्यवसाय मंदी",
+      "प्रतिस्पर्धा",
+      "सहयोग की कमी",
+      "कानूनी समस्या",
+      "आर्थिक समस्या",
+      "झगड़ा",
+      "नैतिक समझौता",
+      "कपट",
+      "असहयोग",
+      "जोखिम",
+      "हानि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautious",
+      "conflict-prone",
+      "risk-averse",
+      "morally complex"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधानीपूर्ण",
+      "झगड़ालू",
+      "जोखिम से बचने वाला",
+      "नैतिक जटिल"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "business and legal challenges",
+      "relationship strain",
+      "financial caution",
+      "moral ambiguity",
+      "professional risk"
+    ],
+    "hi": [
+      "व्यवसाय और कानूनी चुनौतियाँ",
+      "रिश्तों में तनाव",
+      "आर्थिक सावधानी",
+      "नैतिक अस्पष्टता",
+      "पेशेवर जोखिम"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-opp-jup",
+      "core": "This aspect indicates business and professional slowdowns, legal and financial difficulties, conflicts in responsibilities, and moral compromises affecting relationships and reputation.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "शनि विपरीत बृहस्पति",
+      "core": "यह योग व्यवसाय और पेशेवर मंदी, कानूनी और आर्थिक कठिनाइयाँ, जिम्मेदारियों में झगड़े, और रिश्तों व प्रतिष्ठा पर नैतिक समझौतों के प्रभाव को दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Business and professional challenges arise with slowdowns, intense competition, and lack of support. Legal and financial troubles increase, causing conflicts and moral compromises that affect relationships and reputation.",
+        "hi": "व्यवसाय और पेशेवर क्षेत्र में मंदी, तीव्र प्रतिस्पर्धा और सहयोग की कमी के कारण चुनौतियाँ उत्पन्न होती हैं। कानूनी और आर्थिक समस्याएँ बढ़ती हैं, जिससे रिश्तों और प्रतिष्ठा पर प्रभाव पड़ता है।"
+      },
+      "career": {
+        "en": "Avoid initiating social, educational, administrative, travel, or professional projects. High-risk and volatile ventures likely lead to losses.",
+        "hi": "सामाजिक, शैक्षणिक, प्रशासनिक, यात्रा या पेशेवर कार्य प्रारंभ करने से बचें। अधिक जोखिम और उतार-चढ़ाव वाले कार्यों में नुकसान की संभावना रहती है।"
+      },
+      "relationships": {
+        "en": "Conflicts likely in business and home responsibilities. Money and reputation negatively impact friendships and partnerships. Hypocrisy and non-cooperation cause problems.",
+        "hi": "व्यवसाय और घर की जिम्मेदारियों में झगड़े हो सकते हैं। पैसा और प्रतिष्ठा मित्रता और साझेदारी पर नकारात्मक प्रभाव डालते हैं। कथनी और करनी में अंतर तथा असहयोग समस्याएँ उत्पन्न करते हैं।"
+      },
+      "money": {
+        "en": "Financial and legal problems intensify, adversely affecting partnerships and social standing.",
+        "hi": "आर्थिक और कानूनी समस्याएँ गहराती हैं, जो साझेदारी और सामाजिक प्रतिष्ठा पर विपरीत प्रभाव डालती हैं।"
+      },
+      "health_adj": {
+        "en": "Moral compromises lead to indifference and internal conflicts, creating emotional strain.",
+        "hi": "नैतिक समझौतों के कारण उदासीनता और आंतरिक संघर्ष होते हैं, जिससे भावनात्मक तनाव उत्पन्न होता है।"
+      }
+    },
+    "aliases": [
+      "Saturn opposition Jupiter",
+      "Sat OPP Jup",
+      "Saturn-Opposition-Jupiter",
+      "Saturn Opposition to Jupiter"
+    ]
+  }
+}

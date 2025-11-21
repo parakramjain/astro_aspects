@@ -1,0 +1,237 @@
+{
+  "id": "VEN_OPP_MER__v1.0.0",
+  "pair": [
+    "Venus",
+    "Opposition",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Conflicts and misunderstandings arise in communication, affecting business, social, and creative interactions, leading to indecision and emotional confusion in relationships.",
+    "hi": "संचार में टकराव और गलतफहमियां होती हैं, जो व्यापार, सामाजिक और रचनात्मक संबंधों को प्रभावित करती हैं, जिससे निर्णय लेने में भ्रम और संबंधों में भावनात्मक उलझन होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Conflicts in business or creative settings may cause indecisiveness and communication difficulties.",
+      "hi": "व्यापार या रचनात्मक क्षेत्रों में विचारों के टकराव से निर्णय लेने में कठिनाई और संचार में समस्या हो सकती है।"
+    },
+    "relationships": {
+      "en": "Emotional misunderstandings can create confusion and tension in personal relationships.",
+      "hi": "भावनात्मक भ्रम से व्यक्तिगत संबंधों में उलझन और तनाव हो सकता है।"
+    },
+    "money": {
+      "en": "Conflicts and indecision may affect financial negotiations or social financial interactions.",
+      "hi": "विवाद और निर्णय भ्रम वित्तीय बातचीत या सामाजिक वित्तीय संबंधों को प्रभावित कर सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Communication confusion may cause emotional stress impacting overall well-being.",
+      "hi": "संचार में भ्रम से भावनात्मक तनाव हो सकता है जो समग्र स्वास्थ्य को प्रभावित कर सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business disagreements",
+      "Social misunderstandings",
+      "Creative conflicts"
+    ],
+    "hi": [
+      "व्यापारिक मतभेद",
+      "सामाजिक गलतफहमियां",
+      "रचनात्मक टकराव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Indecisiveness in communication",
+      "Emotional misunderstandings in relationships",
+      "Conflicts in social or business settings"
+    ],
+    "hi": [
+      "संचार में निर्णय भ्रम",
+      "संबंधों में भावनात्मक भ्रम",
+      "सामाजिक या व्यापारिक क्षेत्रों में टकराव"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek clarity in communication",
+        "Be patient in social and business interactions",
+        "Address emotional misunderstandings calmly"
+      ],
+      "hi": [
+        "संचार में स्पष्टता खोजें",
+        "सामाजिक और व्यापारिक बातचीत में धैर्य रखें",
+        "भावनात्मक भ्रम को शांतिपूर्वक सुलझाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid making important decisions impulsively",
+        "Clarify misunderstandings promptly",
+        "Focus on listening carefully"
+      ],
+      "hi": [
+        "महत्वपूर्ण निर्णय जल्दबाजी में न लें",
+        "गलतफहमियों को तुरंत स्पष्ट करें",
+        "ध्यान से सुनने पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review past conflicts for lessons",
+        "Allow emotional tensions to ease",
+        "Rebuild communication with patience"
+      ],
+      "hi": [
+        "पिछले टकरावों से सीखें",
+        "भावनात्मक तनाव को कम होने दें",
+        "धैर्य के साथ संचार पुनः स्थापित करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "conflict",
+      "indecision",
+      "misunderstanding",
+      "communication",
+      "emotional confusion"
+    ],
+    "hi": [
+      "टकराव",
+      "निर्णय भ्रम",
+      "गलतफहमी",
+      "संचार",
+      "भावनात्मक उलझन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "conflicted",
+      "uncertain"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "टकरावपूर्ण",
+      "अनिश्चित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication difficulties",
+      "emotional tension",
+      "social and business conflict"
+    ],
+    "hi": [
+      "संचार में कठिनाई",
+      "भावनात्मक तनाव",
+      "सामाजिक और व्यापारिक टकराव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-opp-mer",
+      "core": "Conflicts and misunderstandings in communication affect business, social, and creative areas, causing indecision and emotional confusion.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "शुक्र विरुद्ध बुध",
+      "core": "संचार में टकराव और गलतफहमियां व्यापार, सामाजिक और रचनात्मक क्षेत्रों को प्रभावित करती हैं, जिससे निर्णय भ्रम और भावनात्मक उलझन होती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Conflicts and misunderstandings arise in communication, affecting business, social, and creative interactions, leading to indecision and emotional confusion in relationships.",
+        "hi": "संचार में टकराव और गलतफहमियां होती हैं, जो व्यापार, सामाजिक और रचनात्मक संबंधों को प्रभावित करती हैं, जिससे निर्णय लेने में भ्रम और संबंधों में भावनात्मक उलझन होती है।"
+      },
+      "career": {
+        "en": "Conflicts in business or creative settings may cause indecisiveness and communication difficulties.",
+        "hi": "व्यापार या रचनात्मक क्षेत्रों में विचारों के टकराव से निर्णय लेने में कठिनाई और संचार में समस्या हो सकती है।"
+      },
+      "relationships": {
+        "en": "Emotional misunderstandings can create confusion and tension in personal relationships.",
+        "hi": "भावनात्मक भ्रम से व्यक्तिगत संबंधों में उलझन और तनाव हो सकता है।"
+      },
+      "money": {
+        "en": "Conflicts and indecision may affect financial negotiations or social financial interactions.",
+        "hi": "विवाद और निर्णय भ्रम वित्तीय बातचीत या सामाजिक वित्तीय संबंधों को प्रभावित कर सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Communication confusion may cause emotional stress impacting overall well-being.",
+        "hi": "संचार में भ्रम से भावनात्मक तनाव हो सकता है जो समग्र स्वास्थ्य को प्रभावित कर सकता है।"
+      }
+    },
+    "aliases": [
+      "Venus opposition Mercury",
+      "Ven OPP Mer",
+      "Venus-Opposition-Mercury",
+      "Venus Opposition to Mercury"
+    ]
+  }
+}

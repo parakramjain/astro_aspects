@@ -1,0 +1,253 @@
+{
+  "id": "JUP_CON_NEP__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Conjunction",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period fostering spiritual growth, increased compassion, and creativity, with connections to religious and charitable institutions, alongside a reduction in material attachment.",
+    "hi": "आध्यात्मिक विकास, उदारता और रचनात्मकता को बढ़ावा देने वाला समय, जिसमें धार्मिक और धर्मार्थ संस्थाओं से संबंध बनते हैं और भौतिक लगाव कम होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Creativity flourishes, especially in painting; professional life may be affected by reduced practicality and material focus.",
+      "hi": "चित्रकारी में रचनात्मकता बढ़ती है; व्यावसायिक जीवन पर व्यावहारिकता और भौतिकता में कमी का प्रभाव पड़ सकता है।"
+    },
+    "relationships": {
+      "en": "Generosity and compassion increase; strong religious feelings and connections with spiritual or charitable groups develop.",
+      "hi": "उदारता और दयाभाव बढ़ते हैं; तीव्र धार्मिक भावनाएँ और आध्यात्मिक या धर्मार्थ समूहों से संबंध बनते हैं।"
+    },
+    "money": {
+      "en": "Benefits possible from artistic objects; caution advised against gambling due to potential risks.",
+      "hi": "कलात्मक वस्तुओं से लाभ के अवसर रहते हैं; जुआ खेलने से बचना चाहिए क्योंकि जोखिम हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Interest in meditation and yoga increases, supporting mental and emotional balance.",
+      "hi": "ध्यान और योग में रुचि बढ़ती है, जो मानसिक और भावनात्मक संतुलन में सहायक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual growth",
+      "Artistic creativity",
+      "Religious involvement",
+      "Cultural exposure"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "कलात्मक रचनात्मकता",
+      "धार्मिक भागीदारी",
+      "सांस्कृतिक संपर्क"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid gambling during this period.",
+      "Reduced practicality may affect family and professional life."
+    ],
+    "hi": [
+      "इस समय जुआ खेलने से बचें।",
+      "व्यावहारिकता में कमी का पारिवारिक और पेशेवर जीवन पर प्रभाव हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in meditation and yoga practices.",
+        "Connect with spiritual or charitable organizations.",
+        "Explore artistic activities, especially painting."
+      ],
+      "hi": [
+        "ध्यान और योग का अभ्यास करें।",
+        "आध्यात्मिक या धर्मार्थ संस्थाओं से जुड़ें।",
+        "विशेषकर चित्रकारी जैसी कलात्मक गतिविधियाँ करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on spiritual knowledge growth.",
+        "Avoid gambling strictly.",
+        "Embrace generosity and compassion."
+      ],
+      "hi": [
+        "आध्यात्मिक ज्ञान में वृद्धि पर ध्यान दें।",
+        "जुआ खेलने से सख्ती से बचें।",
+        "उदारता और दयाभाव अपनाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on the impact of reduced material attachment.",
+        "Maintain balance between emotional and practical aspects."
+      ],
+      "hi": [
+        "भौतिक लगाव में कमी के प्रभाव पर विचार करें।",
+        "भावनात्मक और व्यावहारिक पहलुओं के बीच संतुलन बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "spiritual growth",
+      "compassion",
+      "creativity",
+      "meditation",
+      "yoga",
+      "generosity",
+      "religious feelings",
+      "artistic benefits",
+      "foreign cultures",
+      "avoid gambling"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "दयाभाव",
+      "रचनात्मकता",
+      "ध्यान",
+      "योग",
+      "उदारता",
+      "धार्मिक भावनाएँ",
+      "कलात्मक लाभ",
+      "विदेशी संस्कृतियाँ",
+      "जुआ न करें"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "spiritual",
+      "creative",
+      "compassionate",
+      "introspective",
+      "cautious"
+    ],
+    "hi": [
+      "आध्यात्मिक",
+      "रचनात्मक",
+      "दयालु",
+      "आत्मनिरीक्षण",
+      "सावधान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spirituality",
+      "art",
+      "charity",
+      "meditation",
+      "emotional balance"
+    ],
+    "hi": [
+      "आध्यात्म",
+      "कला",
+      "धर्मार्थ",
+      "ध्यान",
+      "भावनात्मक संतुलन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-con-nep",
+      "core": "A time of spiritual opportunity, creative inspiration, and increased compassion, with a need to balance emotional and practical life aspects.",
+      "tone": "Warm, reflective, and cautiously optimistic"
+    },
+    "hi": {
+      "title": "बृहस्पति युति नेपच्यून",
+      "core": "आध्यात्मिक अवसरों, रचनात्मक प्रेरणा और बढ़ती दया का समय, जिसमें भावनात्मक और व्यावहारिक जीवन के पहलुओं का संतुलन आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, चिंतनशील और सावधानीपूर्वक आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Opportunities for spiritual knowledge growth, increased compassion, and creativity with connections to religious and charitable institutions.",
+        "hi": "आध्यात्मिक ज्ञान में वृद्धि, बढ़ती दया और रचनात्मकता के अवसर, धार्मिक और धर्मार्थ संस्थाओं से संबंध।"
+      },
+      "career": {
+        "en": "Highly creative period especially for painting; professional life influenced by reduced practicality and material attachment.",
+        "hi": "विशेषकर चित्रकारी के लिए अत्यंत रचनात्मक समय; व्यावसायिक जीवन पर व्यावहारिकता और भौतिक लगाव में कमी का प्रभाव।"
+      },
+      "relationships": {
+        "en": "Growth in generosity and compassion; intense religious feelings and connections with ashrams or charities.",
+        "hi": "उदारता और दयाभाव में वृद्धि; तीव्र धार्मिक भावनाएँ और आश्रम या धर्मार्थ संस्थाओं से संबंध।"
+      },
+      "money": {
+        "en": "Possible benefits from artistic objects; must avoid gambling.",
+        "hi": "कलात्मक वस्तुओं से लाभ के अवसर; जुआ खेलने से बचना चाहिए।"
+      },
+      "health_adj": {
+        "en": "Increased interest in meditation and yoga supporting emotional and mental balance.",
+        "hi": "ध्यान और योग में बढ़ती रुचि जो भावनात्मक और मानसिक संतुलन में सहायक है।"
+      }
+    },
+    "aliases": [
+      "Jupiter conjunction Neptune",
+      "Jup CON Nep",
+      "Jupiter-Conjunction-Neptune",
+      "Jupiter Conjunction to Neptune"
+    ]
+  }
+}

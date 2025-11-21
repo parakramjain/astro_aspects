@@ -1,0 +1,251 @@
+{
+  "id": "MOO_TRI_JUP__v1.0.0",
+  "pair": [
+    "Moon",
+    "Trine",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect encourages hope, joyful work, trust, and improvement in family finances. It supports involvement in educational, religious, or cultural activities, meeting elders or special women, child care, spiritual connections, and women-support efforts.",
+    "hi": "यह योग उम्मीदों को बढ़ावा देता है, खुशी और भरोसे से काम करने को प्रेरित करता है, और परिवार की आर्थिक स्थिति में सुधार संभव है। यह शिक्षा, धर्म या सांस्कृतिक कार्यों में भाग लेने, बुजुर्गों या खास महिलाओं से मिलने, बच्चों की देखभाल, आध्यात्मिक समूहों से जुड़ने और महिला सहायता कार्यों के लिए उपयुक्त समय है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities to engage in educational, religious, or cultural work with enthusiasm and trust.",
+      "hi": "शिक्षा, धर्म या सांस्कृतिक कार्यों में उत्साह और भरोसे के साथ जुड़ने के अवसर।"
+    },
+    "relationships": {
+      "en": "Time to meet elders or a special woman; supportive for women-related efforts and spiritual group connections.",
+      "hi": "बुजुर्गों या किसी खास महिला से मिलने का समय; महिलाओं से जुड़े प्रयासों और आध्यात्मिक समूहों से जुड़ने के लिए सहायक।"
+    },
+    "money": {
+      "en": "Family finances may improve during this period.",
+      "hi": "इस अवधि में परिवार की आर्थिक स्थिति में सुधार हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Good time for child care and nurturing activities.",
+      "hi": "बच्चों की देखभाल और पोषण संबंधी कार्यों के लिए अच्छा समय।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational involvement",
+      "Religious or cultural participation",
+      "Meeting elders or special women",
+      "Child care activities",
+      "Spiritual group connections",
+      "Women-support efforts"
+    ],
+    "hi": [
+      "शैक्षिक भागीदारी",
+      "धार्मिक या सांस्कृतिक गतिविधियाँ",
+      "बुजुर्गों या खास महिलाओं से मिलना",
+      "बच्चों की देखभाल",
+      "आध्यात्मिक समूहों से जुड़ना",
+      "महिला सहायता प्रयास"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in joyful and trusting work",
+        "Participate in educational, religious, or cultural activities",
+        "Connect with spiritual groups and women-support efforts"
+      ],
+      "hi": [
+        "खुशी और भरोसे से काम करें",
+        "शैक्षिक, धार्मिक या सांस्कृतिक गतिविधियों में भाग लें",
+        "आध्यात्मिक समूहों और महिला सहायता प्रयासों से जुड़ें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on family finances",
+        "Meet elders or a special woman",
+        "Care for children"
+      ],
+      "hi": [
+        "परिवार की आर्थिक स्थिति पर ध्यान दें",
+        "बुजुर्गों या खास महिला से मिलें",
+        "बच्चों की देखभाल करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain trust and joy in ongoing work",
+        "Continue involvement in supportive social and spiritual activities"
+      ],
+      "hi": [
+        "चल रहे कामों में भरोसा और खुशी बनाए रखें",
+        "समर्थक सामाजिक और आध्यात्मिक गतिविधियों में भाग जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "hope",
+      "joy",
+      "trust",
+      "family finances",
+      "education",
+      "religion",
+      "culture",
+      "elders",
+      "special woman",
+      "child care",
+      "spiritual groups",
+      "women support"
+    ],
+    "hi": [
+      "उम्मीद",
+      "खुशी",
+      "भरोसा",
+      "परिवार की आर्थिक स्थिति",
+      "शिक्षा",
+      "धर्म",
+      "संस्कृति",
+      "बुजुर्ग",
+      "खास महिला",
+      "बच्चों की देखभाल",
+      "आध्यात्मिक समूह",
+      "महिला सहायता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "supportive",
+      "joyful",
+      "trusting"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "सहायक",
+      "खुशी से भरा",
+      "भरोसेमंद"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family improvement",
+      "spiritual connection",
+      "cultural engagement",
+      "women empowerment"
+    ],
+    "hi": [
+      "परिवार में सुधार",
+      "आध्यात्मिक जुड़ाव",
+      "सांस्कृतिक भागीदारी",
+      "महिला सशक्तिकरण"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-tri-jup",
+      "core": "A time of hope, joyful work, trust, and family financial improvement with opportunities in education, religion, culture, and supportive social connections.",
+      "tone": "Warm, encouraging, and supportive"
+    },
+    "hi": {
+      "title": "चंद्र त्रिकोण बृहस्पति",
+      "core": "उम्मीद, खुशी से काम करने, भरोसे और परिवार की आर्थिक स्थिति में सुधार का समय, जिसमें शिक्षा, धर्म, संस्कृति और सहायक सामाजिक संबंधों के अवसर होते हैं।",
+      "tone": "स्नेहपूर्ण, प्रोत्साहित करने वाला और सहायक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Hopes grow during this time, and the person works with joy and trust. Family finances may improve. There are chances to take part in educational, religious, or cultural work. It may also be a time to meet elders or a special woman. Good time for child care, connecting with spiritual groups, and women-support efforts.",
+        "hi": "इस समय उम्मीदें बढ़ती हैंए और व्यक्ति खुशी और भरोसे से काम करता है। घर की आर्थिक स्थिति सुधरती है। परिवार में शिक्षाए धर्मए या परंपरा से जुड़े काम करने का मौका मिलता है। बुजुर्गों से मिलने या किसी खास महिला से मिलने का समय हो सकता है। यह समय बच्चों की देखभालए धार्मिक संगठनों से जुड़नेए और महिला सहायता से जुड़े कामों के लिए बहुत उपयुक्त होता है।"
+      },
+      "career": {
+        "en": "Person works with joy and trust, engaging in educational, religious, or cultural activities.",
+        "hi": "व्यक्ति खुशी और भरोसे से काम करता है और शिक्षा, धर्म या सांस्कृतिक गतिविधियों में जुड़ता है।"
+      },
+      "relationships": {
+        "en": "Opportunities to meet elders or special women; connecting with spiritual groups and women-support efforts.",
+        "hi": "बुजुर्गों या खास महिलाओं से मिलने के अवसर; आध्यात्मिक समूहों और महिला सहायता प्रयासों से जुड़ना।"
+      },
+      "money": {
+        "en": "Family finances may improve during this period.",
+        "hi": "इस अवधि में परिवार की आर्थिक स्थिति में सुधार हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Good time for child care and nurturing activities.",
+        "hi": "बच्चों की देखभाल और पोषण संबंधी कार्यों के लिए अच्छा समय।"
+      }
+    },
+    "aliases": [
+      "Moon trine Jupiter",
+      "Moo TRI Jup",
+      "Moon-Trine-Jupiter",
+      "Moon Trine to Jupiter"
+    ]
+  }
+}

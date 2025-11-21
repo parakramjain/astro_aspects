@@ -1,0 +1,244 @@
+{
+  "id": "SAT_OPP_SAT__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Opposition",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates an increase in responsibilities across political, family, business, and social areas, causing hesitation in professional matters and a need for support amid pressure. Legal, administrative, financial, and joint property issues may arise, advising caution in volatile businesses.",
+    "hi": "यह योग राजनीतिक, पारिवारिक, व्यावसायिक और सामाजिक क्षेत्रों में जिम्मेदारियों में वृद्धि दर्शाता है, जिससे व्यावसायिक मामलों में हिचकिचाहट होती है और दबाव के बीच सहयोग की आवश्यकता महसूस होती है। कानूनी, प्रशासनिक, वित्तीय और संयुक्त संपत्ति संबंधी समस्याएँ उत्पन्न हो सकती हैं, इसलिए तेजी-मंदी वाले व्यवसायों में सावधानी बरतनी चाहिए।"
+  },
+  "facets": {
+    "career": {
+      "en": "Increased responsibilities and hesitation in professional dealings; pressure to seek support for important goals.",
+      "hi": "व्यावसायिक व्यवहार में जिम्मेदारियाँ बढ़ती हैं और हिचकिचाहट होती है; महत्वपूर्ण लक्ष्यों के लिए सहयोग की आवश्यकता महसूस होती है।"
+    },
+    "relationships": {
+      "en": "Growth in family and social responsibilities; potential stress due to increased obligations.",
+      "hi": "पारिवारिक और सामाजिक जिम्मेदारियाँ बढ़ती हैं; बढ़ी हुई जिम्मेदारियों के कारण तनाव हो सकता है।"
+    },
+    "money": {
+      "en": "Possible legal, administrative, financial problems; issues related to joint or inherited property; avoid volatile businesses.",
+      "hi": "कानूनी, प्रशासनिक, वित्तीय समस्याएँ हो सकती हैं; संयुक्त या पैतृक संपत्ति से संबंधित समस्याएँ उत्पन्न हो सकती हैं; तेजी-मंदी वाले व्यवसायों से बचें।"
+    },
+    "health_adj": {
+      "en": "Pressure and stress due to increased responsibilities may affect well-being.",
+      "hi": "बढ़ी हुई जिम्मेदारियों के कारण दबाव और तनाव से स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Increased responsibilities",
+      "Legal and financial challenges",
+      "Property disputes"
+    ],
+    "hi": [
+      "जिम्मेदारियों में वृद्धि",
+      "कानूनी और वित्तीय चुनौतियाँ",
+      "संपत्ति विवाद"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Hesitation in professional decisions",
+      "Pressure from obligations",
+      "Legal and financial complications",
+      "Volatile business risks"
+    ],
+    "hi": [
+      "व्यावसायिक निर्णयों में हिचकिचाहट",
+      "जिम्मेदारियों का दबाव",
+      "कानूनी और वित्तीय जटिलताएँ",
+      "तेजी-मंदी वाले व्यवसायों का जोखिम"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek support for important goals",
+        "Be cautious in professional dealings",
+        "Monitor legal and financial matters closely"
+      ],
+      "hi": [
+        "महत्वपूर्ण लक्ष्यों के लिए सहयोग प्राप्त करें",
+        "व्यावसायिक व्यवहार में सावधानी बरतें",
+        "कानूनी और वित्तीय मामलों पर ध्यान रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid volatile or speculative businesses",
+        "Address joint or inherited property issues carefully"
+      ],
+      "hi": [
+        "तेजी-मंदी वाले या अटकलों वाले व्यवसायों से बचें",
+        "संयुक्त या पैतृक संपत्ति संबंधी मुद्दों को सावधानी से संभालें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually reduce pressure by delegating responsibilities",
+        "Resolve legal and financial problems with professional help"
+      ],
+      "hi": [
+        "जिम्मेदारियों को सौंपकर दबाव धीरे-धीरे कम करें",
+        "कानूनी और वित्तीय समस्याओं का पेशेवर सहायता से समाधान करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Responsibilities",
+      "Hesitation",
+      "Support",
+      "Pressure",
+      "Legal issues",
+      "Financial problems",
+      "Property disputes",
+      "Volatile business"
+    ],
+    "hi": [
+      "जिम्मेदारियाँ",
+      "हिचकिचाहट",
+      "सहयोग",
+      "दबाव",
+      "कानूनी समस्याएँ",
+      "वित्तीय समस्याएँ",
+      "संपत्ति विवाद",
+      "तेजी-मंदी व्यवसाय"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Challenging",
+      "Pressure-filled",
+      "Cautious",
+      "Responsibility-focused"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "दबावपूर्ण",
+      "सावधान",
+      "जिम्मेदारी केंद्रित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "Responsibility increase",
+      "Professional hesitation",
+      "Legal and financial caution",
+      "Support need"
+    ],
+    "hi": [
+      "जिम्मेदारी में वृद्धि",
+      "व्यावसायिक हिचकिचाहट",
+      "कानूनी और वित्तीय सावधानी",
+      "सहयोग की आवश्यकता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-opp-sat",
+      "core": "This aspect signals increased responsibilities and pressures, especially in political, family, business, and social areas, along with possible legal and financial challenges.",
+      "tone": "Professional, cautious, and supportive"
+    },
+    "hi": {
+      "title": "शनि विरोधी शनि",
+      "core": "यह योग राजनीतिक, पारिवारिक, व्यावसायिक और सामाजिक क्षेत्रों में बढ़ती जिम्मेदारियों और दबावों के साथ-साथ कानूनी और वित्तीय चुनौतियाँ दर्शाता है।",
+      "tone": "पेशेवर, सावधान और सहायक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Responsibilities increase during this time. Political/family/business/social responsibilities grow. Person hesitates in professional dealings. Feels need for support in important goals and experiences pressure. Legal/administrative/financial problems may arise. Issues concerning joint/inherited property may occur. Avoid volatile businesses.",
+        "hi": "इस समय व्यक्ति की जिम्मेदारियों में वृद्धि होती है। राजनीतिक/पारिवारिक/व्यावसायिक/सामाजिक जिम्मेदारियाँ बढ़ती हैं। व्यावसायिक व्यवहार में व्यक्ति हिचकिचाहट का शिकार रहता है। अपने महत्वपूर्ण लक्ष्य प्राप्ति के लिए सहयोग की आवश्यकता महसूस करता है तथा परिस्थितियों का दबाव अनुभव करता है। कोई कानूनी/प्रशासनिक/वित्तीय समस्या उत्पन्न होती है। इस समय कोई भी संयुक्त संपत्ति/पैतृक संपत्ति से संबंधित समस्या उत्पन्न होती है। तेजी.मंदी के व्यवसाय से बचें।"
+      },
+      "career": {
+        "en": "Person hesitates in professional dealings. Responsibilities increase. Pressure to achieve important goals with support.",
+        "hi": "व्यावसायिक व्यवहार में व्यक्ति हिचकिचाहट करता है। जिम्मेदारियाँ बढ़ती हैं। महत्वपूर्ण लक्ष्यों की प्राप्ति के लिए सहयोग की आवश्यकता और दबाव होता है।"
+      },
+      "relationships": {
+        "en": "Political, family, social responsibilities grow, increasing stress and obligations.",
+        "hi": "राजनीतिक, पारिवारिक, सामाजिक जिम्मेदारियाँ बढ़ती हैं, जिससे तनाव और दायित्व बढ़ते हैं।"
+      },
+      "money": {
+        "en": "Legal, administrative, financial problems may arise. Issues concerning joint or inherited property. Avoid volatile businesses.",
+        "hi": "कानूनी, प्रशासनिक, वित्तीय समस्याएँ उत्पन्न हो सकती हैं। संयुक्त या पैतृक संपत्ति से संबंधित समस्याएँ हो सकती हैं। तेजी-मंदी वाले व्यवसायों से बचें।"
+      },
+      "health_adj": {
+        "en": "Pressure from increased responsibilities may affect well-being.",
+        "hi": "बढ़ी हुई जिम्मेदारियों के कारण दबाव से स्वास्थ्य प्रभावित हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Saturn opposition Saturn",
+      "Sat OPP Sat",
+      "Saturn-Opposition-Saturn",
+      "Saturn Opposition to Saturn"
+    ]
+  }
+}

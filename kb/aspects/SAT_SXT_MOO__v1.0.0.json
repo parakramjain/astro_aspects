@@ -1,0 +1,150 @@
+{
+  "id": "SAT_SEX_MOO__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Sextile",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Saturn and Moon opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": "Authority via mastery, long-term credibility.  Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
+    "relationships": "Commitment realism, boundaries, duty.  Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
+    "money": "Slow steady accrual, austerity, debt realism.  Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
+    "health_adj": "Bones, teeth, chronic load; routines & posture.  Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution.",
+    "Burnout via over-responsibility; schedule recovery windows."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "care",
+    "dharma via effort",
+    "discipline",
+    "emotion",
+    "habits",
+    "home",
+    "limits",
+    "mother",
+    "opportunity",
+    "public mood",
+    "sextile",
+    "skill",
+    "structure",
+    "time"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "",
+    "",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Saturn Sextile Moon",
+      "core": "Sextile between Saturn and Moon opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Saturn Sextile Moon (हिन्दी)",
+      "core": "Saturn और Moon का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Saturn and Moon opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": "Authority via mastery, long-term credibility.  Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
+      "relationships": "Commitment realism, boundaries, duty.  Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
+      "money": "Slow steady accrual, austerity, debt realism.  Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
+      "health_adj": "Bones, teeth, chronic load; routines & posture.  Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+    },
+    "aliases": [
+      "Saturn sextile Moon",
+      "Sat SEX Moo",
+      "Saturn-Sextile-Moon",
+      "Saturn Sextile to Moon"
+    ]
+  }
+}

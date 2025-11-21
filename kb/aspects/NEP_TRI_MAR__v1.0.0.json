@@ -1,0 +1,251 @@
+{
+  "id": "NEP_TRI_MAR__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Trine",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Intuition, imagination, and artistic abilities are activated, encouraging focus on creative expression and spiritual growth. This aspect supports effortless self-expression, enhanced inspiration, and the use of modern methods for transformation in work and professional life.",
+    "hi": "अंतर्ज्ञान, कल्पना और कलात्मक कार्यशक्ति सक्रिय होती है, जो रचनात्मक अभिव्यक्ति और आध्यात्मिक विकास की ओर व्यक्ति को प्रवृत्त करती है। यह योग सरल अभिव्यक्ति, प्रेरणा में वृद्धि और कार्यक्षेत्र में आधुनिक तकनीकों के उपयोग को प्रोत्साहित करता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for research work, artistic professions, and using modern tools for strong transformations in work or institutions. Benefits from joint ventures, inheritance, taxes, and insurance professionally.",
+      "hi": "शोधकार्य, कलात्मक पेशे और कार्यक्षेत्र या संस्थाओं में मजबूत परिवर्तन के लिए आधुनिक साधनों के उपयोग के लिए अनुकूल। संयुक्त व्यवसाय, पैतृक संपत्ति, कर और बीमा से पेशेवर लाभ प्राप्त होता है।"
+    },
+    "relationships": {
+      "en": "Focus on spiritual or religious education may influence personal connections. Enhanced inspiration can improve interpersonal understanding.",
+      "hi": "धार्मिक या आध्यात्मिक शिक्षा पर ध्यान व्यक्तिगत संबंधों को प्रभावित कर सकता है। प्रेरणा में वृद्धि से पारस्परिक समझ बेहतर हो सकती है।"
+    },
+    "money": {
+      "en": "Professional gains through joint assets, inheritance, taxes, and insurance are possible. Use of modern techniques can lead to financial transformations.",
+      "hi": "संयुक्त संपत्ति, पैतृक संपत्ति, कर और बीमा के माध्यम से पेशेवर लाभ संभव हैं। आधुनिक तकनीकों के उपयोग से वित्तीय परिवर्तन हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Enhanced meditation and inspiration support mental well-being. No specific health risks noted.",
+      "hi": "ध्यान और प्रेरणा में वृद्धि मानसिक स्वास्थ्य के लिए सहायक है। कोई विशेष स्वास्थ्य जोखिम नहीं बताया गया है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Artistic achievements",
+      "Spiritual or religious education",
+      "Research breakthroughs",
+      "Professional collaborations"
+    ],
+    "hi": [
+      "कलात्मक उपलब्धियां",
+      "आध्यात्मिक या धार्मिक शिक्षा",
+      "शोध में सफलता",
+      "पेशेवर सहयोग"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks indicated; maintain balance between imagination and practical action."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताया गया; कल्पना और व्यावहारिक क्रिया के बीच संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in painting or other artistic activities.",
+        "Pursue meditation and spiritual studies.",
+        "Utilize modern tools for work-related transformations.",
+        "Explore joint ventures and asset management."
+      ],
+      "hi": [
+        "चित्रकारी या अन्य कलात्मक गतिविधियों में संलग्न हों।",
+        "ध्यान और आध्यात्मिक अध्ययन करें।",
+        "कार्य में परिवर्तन के लिए आधुनिक साधनों का उपयोग करें।",
+        "संयुक्त व्यवसाय और संपत्ति प्रबंधन की संभावनाएं देखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on effortless self-expression and inspiration.",
+        "Attend religious or spiritual education sessions.",
+        "Apply modern techniques for research or business improvements."
+      ],
+      "hi": [
+        "सरल अभिव्यक्ति और प्रेरणा पर ध्यान दें।",
+        "धार्मिक या आध्यात्मिक शिक्षा में भाग लें।",
+        "शोध या व्यवसाय सुधार के लिए आधुनिक तकनीकों का प्रयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain creative momentum through continued practice.",
+        "Sustain spiritual and inspirational pursuits."
+      ],
+      "hi": [
+        "लगातार अभ्यास से रचनात्मक गति बनाए रखें।",
+        "आध्यात्मिक और प्रेरणादायक गतिविधियों को जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intuition",
+      "imagination",
+      "artistic expression",
+      "meditation",
+      "spiritual education",
+      "research",
+      "modern techniques",
+      "joint ventures",
+      "inheritance",
+      "transformation"
+    ],
+    "hi": [
+      "अंतर्ज्ञान",
+      "कल्पना",
+      "कलात्मक अभिव्यक्ति",
+      "ध्यान",
+      "आध्यात्मिक शिक्षा",
+      "शोध",
+      "आधुनिक तकनीक",
+      "संयुक्त व्यवसाय",
+      "पैतृक संपत्ति",
+      "परिवर्तन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "inspirational",
+      "creative",
+      "transformative",
+      "supportive"
+    ],
+    "hi": [
+      "अनुकूल",
+      "प्रेरणादायक",
+      "रचनात्मक",
+      "परिवर्तनकारी",
+      "सहायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "art and creativity",
+      "spiritual growth",
+      "professional development",
+      "collaboration"
+    ],
+    "hi": [
+      "कला और रचनात्मकता",
+      "आध्यात्मिक विकास",
+      "पेशेवर विकास",
+      "सहयोग"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-tri-mar",
+      "core": "Activation of intuition and artistic power encourages creative expression and spiritual learning, supporting professional and personal transformation.",
+      "tone": "Warm, encouraging, and balanced"
+    },
+    "hi": {
+      "title": "नेप्च्यून त्रिकोण मंगल",
+      "core": "अंतर्ज्ञान और कलात्मक शक्ति की सक्रियता रचनात्मक अभिव्यक्ति और आध्यात्मिक शिक्षा को प्रोत्साहित करती है, जो पेशेवर और व्यक्तिगत परिवर्तन में सहायक है।",
+      "tone": "सहानुभूतिपूर्ण, प्रेरणादायक और संतुलित"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Intuition, imagination, and artistic abilities are activated, encouraging focus on creative expression and spiritual growth.",
+        "hi": "अंतर्ज्ञान, कल्पना और कलात्मक कार्यशक्ति सक्रिय होती है, जो रचनात्मक अभिव्यक्ति और आध्यात्मिक विकास की ओर व्यक्ति को प्रवृत्त करती है।"
+      },
+      "career": {
+        "en": "Favorable for research work, artistic professions, and using modern tools for strong transformations in work or institutions.",
+        "hi": "शोधकार्य, कलात्मक पेशे और कार्यक्षेत्र या संस्थाओं में मजबूत परिवर्तन के लिए आधुनिक साधनों के उपयोग के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Focus on spiritual or religious education may influence personal connections.",
+        "hi": "धार्मिक या आध्यात्मिक शिक्षा पर ध्यान व्यक्तिगत संबंधों को प्रभावित कर सकता है।"
+      },
+      "money": {
+        "en": "Professional gains through joint assets, inheritance, taxes, and insurance are possible.",
+        "hi": "संयुक्त संपत्ति, पैतृक संपत्ति, कर और बीमा के माध्यम से पेशेवर लाभ संभव हैं।"
+      },
+      "health_adj": {
+        "en": "Enhanced meditation and inspiration support mental well-being.",
+        "hi": "ध्यान और प्रेरणा में वृद्धि मानसिक स्वास्थ्य के लिए सहायक है।"
+      }
+    },
+    "aliases": [
+      "Neptune trine Mars",
+      "Nep TRI Mar",
+      "Neptune-Trine-Mars",
+      "Neptune Trine to Mars"
+    ]
+  }
+}

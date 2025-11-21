@@ -1,0 +1,249 @@
+{
+  "id": "MER_CON_JUP__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Conjunction",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect supports long-term planning, career success, optimism, and educational pursuits. It also enhances interest in religion, philosophy, foreign cultures, and higher education, favoring writing, speaking, publishing, and promotions.",
+    "hi": "यह योग दीर्घकालिक योजना, करियर में सफलता, आशावाद और शैक्षणिक गतिविधियों के लिए अनुकूल है। यह धार्मिकता, दर्शनशास्त्र, विदेशी संस्कृतियों और उच्च शिक्षा में रुचि बढ़ाता है तथा लेखन, बोलने, प्रकाशन और प्रचार के लिए अच्छा समय है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for career advancement, promotions, and success through planning and communication.",
+      "hi": "योजना और संचार के माध्यम से करियर उन्नति, पदोन्नति और सफलता के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Encourages optimistic and educational conversations, possibly involving cultural or philosophical interests.",
+      "hi": "आशावादी और शैक्षणिक संवाद को प्रोत्साहित करता है, जिसमें सांस्कृतिक या दार्शनिक रुचि शामिल हो सकती है।"
+    },
+    "money": {
+      "en": "Supports activities related to publishing and promotions that may enhance financial prospects.",
+      "hi": "प्रकाशन और प्रचार से संबंधित गतिविधियों का समर्थन करता है जो वित्तीय संभावनाओं को बढ़ा सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus remains on mental and educational activities.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन नहीं; ध्यान मानसिक और शैक्षणिक गतिविधियों पर केंद्रित है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Long-term planning",
+      "Career success",
+      "Educational advancement",
+      "Writing and publishing",
+      "Promotions"
+    ],
+    "hi": [
+      "दीर्घकालिक योजना",
+      "करियर में सफलता",
+      "शैक्षणिक उन्नति",
+      "लेखन और प्रकाशन",
+      "पदोन्नति"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balanced optimism."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; संतुलित आशावाद बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in long-term career and educational planning.",
+        "Explore interests in religion, philosophy, and foreign cultures.",
+        "Prepare for writing, speaking, and publishing opportunities."
+      ],
+      "hi": [
+        "दीर्घकालिक करियर और शैक्षणिक योजना बनाएं।",
+        "धर्म, दर्शन और विदेशी संस्कृतियों में रुचि बढ़ाएं।",
+        "लेखन, बोलने और प्रकाशन के अवसरों की तैयारी करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on optimism and clear communication.",
+        "Initiate or promote educational and philosophical activities."
+      ],
+      "hi": [
+        "आशावाद और स्पष्ट संचार पर ध्यान दें।",
+        "शैक्षणिक और दार्शनिक गतिविधियों को शुरू या बढ़ावा दें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on progress made in career and education.",
+        "Maintain enthusiasm for cultural and philosophical interests."
+      ],
+      "hi": [
+        "करियर और शिक्षा में हुई प्रगति पर विचार करें।",
+        "सांस्कृतिक और दार्शनिक रुचि के लिए उत्साह बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "long-term planning",
+      "career success",
+      "optimism",
+      "education",
+      "religion",
+      "philosophy",
+      "foreign cultures",
+      "writing",
+      "speaking",
+      "publishing",
+      "promotions"
+    ],
+    "hi": [
+      "दीर्घकालिक योजना",
+      "करियर सफलता",
+      "आशावाद",
+      "शिक्षा",
+      "धर्म",
+      "दर्शनशास्त्र",
+      "विदेशी संस्कृतियाँ",
+      "लेखन",
+      "बोलना",
+      "प्रकाशन",
+      "पदोन्नति"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "optimistic",
+      "educational",
+      "promotional"
+    ],
+    "hi": [
+      "सहायक",
+      "आशावादी",
+      "शैक्षणिक",
+      "प्रचारात्मक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "career advancement",
+      "intellectual growth",
+      "cultural interest",
+      "communication"
+    ],
+    "hi": [
+      "करियर उन्नति",
+      "बौद्धिक विकास",
+      "सांस्कृतिक रुचि",
+      "संचार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-con-jup",
+      "core": "A favorable time for long-term planning, career success, optimism, and educational activities, enhancing interests in religion, philosophy, foreign cultures, and higher education.",
+      "tone": "Warm, optimistic, and supportive"
+    },
+    "hi": {
+      "title": "बुध का गुरु से योग",
+      "core": "दीर्घकालिक योजना, करियर सफलता, आशावाद और शैक्षणिक गतिविधियों के लिए अनुकूल समय, जो धर्म, दर्शन, विदेशी संस्कृतियों और उच्च शिक्षा में रुचि बढ़ाता है।",
+      "tone": "सहानुभूतिपूर्ण, आशावादी और सहायक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Supports long-term planning, career success, optimism, educational pursuits, and interest in religion, philosophy, foreign cultures, and higher education.",
+        "hi": "दीर्घकालिक योजना, करियर सफलता, आशावाद, शैक्षणिक गतिविधियाँ, धर्म, दर्शन, विदेशी संस्कृतियों और उच्च शिक्षा में रुचि को बढ़ावा देता है।"
+      },
+      "career": {
+        "en": "Favorable for career advancement, promotions, and success through planning and communication.",
+        "hi": "योजना और संचार के माध्यम से करियर उन्नति, पदोन्नति और सफलता के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Encourages optimistic and educational conversations, possibly involving cultural or philosophical interests.",
+        "hi": "आशावादी और शैक्षणिक संवाद को प्रोत्साहित करता है, जिसमें सांस्कृतिक या दार्शनिक रुचि शामिल हो सकती है।"
+      },
+      "money": {
+        "en": "Supports publishing and promotional activities that may enhance financial prospects.",
+        "hi": "प्रकाशन और प्रचार से संबंधित गतिविधियों का समर्थन करता है जो वित्तीय संभावनाओं को बढ़ा सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; focus remains on mental and educational activities.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन नहीं; ध्यान मानसिक और शैक्षणिक गतिविधियों पर केंद्रित है।"
+      }
+    },
+    "aliases": [
+      "Mercury conjunction Jupiter",
+      "Mer CON Jup",
+      "Mercury-Conjunction-Jupiter",
+      "Mercury Conjunction to Jupiter"
+    ]
+  }
+}

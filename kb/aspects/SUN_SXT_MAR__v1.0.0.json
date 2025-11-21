@@ -1,0 +1,150 @@
+{
+  "id": "SUN_SEX_MAR__v1.0.0",
+  "pair": [
+    "Sun",
+    "Sextile",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Sun and Mars opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": "Authority, recognition, leadership, alignment with purpose.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
+    "relationships": "Self-respect, healthy boundaries, paternal figures.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
+    "money": "Status-linked income, government/authority-linked gains.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
+    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution.",
+    "Impulsive actions or accidents; channel energy into training."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "assertion",
+    "authority",
+    "conflict",
+    "drive",
+    "ego",
+    "identity",
+    "mechanics",
+    "opportunity",
+    "purpose",
+    "sextile",
+    "skill",
+    "surgery",
+    "visibility",
+    "vitality"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "",
+    "",
+    "Health & Routine"
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Sun Sextile Mars",
+      "core": "Sextile between Sun and Mars opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Sun Sextile Mars (हिन्दी)",
+      "core": "Sun और Mars का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Sun and Mars opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": "Authority, recognition, leadership, alignment with purpose.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
+      "relationships": "Self-respect, healthy boundaries, paternal figures.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
+      "money": "Status-linked income, government/authority-linked gains.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
+      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+    },
+    "aliases": [
+      "Sun sextile Mars",
+      "Sun SEX Mar",
+      "Sun-Sextile-Mars",
+      "Sun Sextile to Mars"
+    ]
+  }
+}

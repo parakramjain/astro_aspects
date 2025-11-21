@@ -1,0 +1,249 @@
+{
+  "id": "PLU_CON_NEP__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Conjunction",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Awakening of dormant mind with enhanced intuition and intellect; release of past emotional burdens; potential spiritual liberation near life’s end; fundamental life changes and new important projects arise.",
+    "hi": "सुप्त मन की जागृति और बढ़ा हुआ अंतर्ज्ञान तथा बुद्धि; पुरानी भावनात्मक बाधाओं को छोड़ना; जीवन के अंतिम समय में आध्यात्मिक मुक्ति की संभावना; जीवन में मूलभूत परिवर्तन और नई महत्वपूर्ण योजनाएं बनना।"
+  },
+  "facets": {
+    "career": {
+      "en": "Improved ability to master difficult tasks; emergence of new important projects; efforts related to joint assets, tax, insurance, or benefits.",
+      "hi": "कठिन कार्य सीखने की क्षमता में सुधार; नई महत्वपूर्ण कार्ययोजनाओं का उदय; संयुक्त संपत्ति, कर, बीमा या भत्तों से संबंधित प्रयास।"
+    },
+    "relationships": {
+      "en": "Release of past emotional baggage is important to avoid distress; spiritual liberation possible near end-of-life or during severe crisis.",
+      "hi": "पुरानी भावुकता को छोड़ना आवश्यक है ताकि कष्ट न हो; जीवन के अंतिम समय या गहन संकट में आध्यात्मिक मुक्ति संभव।"
+    },
+    "money": {
+      "en": "Focus on joint assets, tax matters, insurance, and benefits; fundamental changes may affect financial dealings.",
+      "hi": "संयुक्त संपत्ति, कर, बीमा और भत्तों पर ध्यान; वित्तीय मामलों में मूलभूत परिवर्तन हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Meditation strengthens intellect; those facing severe illness or crisis may experience spiritual insights or liberation.",
+      "hi": "ध्यान से बुद्धि में वृद्धि; गंभीर बीमारी या संकट में आध्यात्मिक ज्ञान या मुक्ति संभव।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual awakening",
+      "Life transformation",
+      "End-of-life spiritual liberation",
+      "New project initiation"
+    ],
+    "hi": [
+      "आध्यात्मिक जागृति",
+      "जीवन परिवर्तन",
+      "जीवन के अंतिम समय में आध्यात्मिक मुक्ति",
+      "नई परियोजना की शुरुआत"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional baggage from the past may cause distress if not released",
+      "Potential physical or emotional hardship during crises"
+    ],
+    "hi": [
+      "पुरानी भावनात्मक बाधाएं छोड़ने पर कष्ट हो सकता है",
+      "संकट के दौरान शारीरिक या भावनात्मक कठिनाई संभव"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in meditation to strengthen intellect",
+        "Work on releasing past emotional burdens",
+        "Focus on joint financial matters carefully"
+      ],
+      "hi": [
+        "बुद्धि बढ़ाने के लिए ध्यान करें",
+        "पुरानी भावनात्मक बाधाओं को छोड़ने का प्रयास करें",
+        "संयुक्त वित्तीय मामलों पर सावधानी से ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate new important projects",
+        "Address fundamental life changes consciously",
+        "Seek spiritual insight especially if near end-of-life or crisis"
+      ],
+      "hi": [
+        "नई महत्वपूर्ण परियोजनाएं शुरू करें",
+        "मूलभूत जीवन परिवर्तनों को समझदारी से संभालें",
+        "जीवन के अंतिम समय या संकट में आध्यात्मिक ज्ञान प्राप्त करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue releasing emotional baggage",
+        "Maintain meditation and intellectual focus",
+        "Monitor joint assets and tax-related matters"
+      ],
+      "hi": [
+        "भावनात्मक बाधाओं को छोड़ना जारी रखें",
+        "ध्यान और बुद्धि पर ध्यान बनाए रखें",
+        "संयुक्त संपत्ति और कर संबंधी मामलों पर नजर रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intuition",
+      "meditation",
+      "emotional release",
+      "spiritual liberation",
+      "joint assets",
+      "life change",
+      "new projects"
+    ],
+    "hi": [
+      "अंतर्ज्ञान",
+      "ध्यान",
+      "भावनात्मक मुक्ति",
+      "आध्यात्मिक मुक्ति",
+      "संयुक्त संपत्ति",
+      "जीवन परिवर्तन",
+      "नई परियोजनाएं"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "introspective",
+      "transformative",
+      "spiritual",
+      "intellectual",
+      "practical"
+    ],
+    "hi": [
+      "आत्मनिरीक्षण",
+      "परिवर्तनकारी",
+      "आध्यात्मिक",
+      "बौद्धिक",
+      "व्यावहारिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "awakening",
+      "release",
+      "mastery",
+      "transition",
+      "collaboration"
+    ],
+    "hi": [
+      "जागृति",
+      "मुक्ति",
+      "निपुणता",
+      "परिवर्तन",
+      "सहयोग"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-con-nep",
+      "core": "This aspect signifies awakening of intuition and intellect, release of emotional baggage, spiritual liberation possibilities, and fundamental life changes with new projects.",
+      "tone": "Warm, neutral, and insightful."
+    },
+    "hi": {
+      "title": "प्लूटो संयोजन नेपच्यून",
+      "core": "यह योग अंतर्ज्ञान और बुद्धि की जागृति, भावनात्मक बाधाओं की मुक्ति, आध्यात्मिक मुक्ति की संभावनाएं, और जीवन में मूलभूत परिवर्तन तथा नई परियोजनाओं को दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सूचनात्मक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Dormant mind awakens with heightened intuition. Meditation strengthens intellect. Ability to master difficult tasks improves. Must release past emotional baggage. Those near life's end may achieve spiritual liberation. Fundamental life changes occur. New important projects emerge.",
+        "hi": "सुप्त मन की जागृति और अंतर्ज्ञान उत्तेजित होता है। व्यक्ति में आत्मबोध बढ़ता है। /यान और योग से बुद्धि बल बढ़ता है। व्यक्ति कठिन कार्य/अ/ययन सीखता है। यदि व्यक्ति पुरानी भावुकता या यादों से ग्रस्त है तो उन्हें छोड़ देना चाहिएए अन्यथा कष्ट होता है। यदि व्यक्ति अपने जीवन के अंतिम समय में हो या बीमारी/शारीरिक कष्ट द्वाराए गहन संकट की स्थिति में हो तो मुक्ति ज्ञान प्राप्त करता है। व्यक्तिगत जीवन में मूलभूत परिवर्तन होता है। नई कार्ययोजना बनेगी/बड़ी कार्ययोजना से जुड़ेंगे।"
+      },
+      "career": {
+        "en": "Ability to master difficult tasks improves. Works on joint assets, tax, insurance, and benefits. New important projects emerge.",
+        "hi": "व्यक्ति कठिन कार्य सीखता है। संयुक्त संपत्ति/व्यवसाय/कर/बीमा/भत्ता आदि से संबंधित कार्यों में प्रयास करता है। नई कार्ययोजना बनेगी/बड़ी कार्ययोजना से जुड़ेंगे।"
+      },
+      "relationships": {
+        "en": "Must release past emotional baggage to avoid distress. Spiritual liberation possible near end-of-life or during crisis.",
+        "hi": "यदि व्यक्ति पुरानी भावुकता या यादों से ग्रस्त है तो उन्हें छोड़ देना चाहिएए अन्यथा कष्ट होता है। यदि व्यक्ति अपने जीवन के अंतिम समय में हो या बीमारी/शारीरिक कष्ट द्वाराए गहन संकट की स्थिति में हो तो मुक्ति ज्ञान प्राप्त करता है।"
+      },
+      "money": {
+        "en": "Works on joint assets, tax matters, insurance, and benefits. Fundamental life changes affect finances.",
+        "hi": "संयुक्त संपत्ति/व्यवसाय/कर/बीमा/भत्ता आदि से संबंधित कार्यों में प्रयास करता है। व्यक्तिगत जीवन में मूलभूत परिवर्तन होता है।"
+      },
+      "health_adj": {
+        "en": "Meditation strengthens intellect. Those facing severe illness or crisis may achieve spiritual liberation.",
+        "hi": "ध्यान और योग से बुद्धि बल बढ़ता है। यदि व्यक्ति अपने जीवन के अंतिम समय में हो या बीमारी/शारीरिक कष्ट द्वाराए गहन संकट की स्थिति में हो तो मुक्ति ज्ञान प्राप्त करता है।"
+      }
+    },
+    "aliases": [
+      "Pluto conjunction Neptune",
+      "Plu CON Nep",
+      "Pluto-Conjunction-Neptune",
+      "Pluto Conjunction to Neptune"
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "id": "VEN_TRI_NEP__v1.0.0",
+  "pair": [
+    "Venus",
+    "Trine",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period of enhanced self-awareness and spiritual insight, marked by increased imagination, creativity, and harmonious, compassionate relationships.",
+    "hi": "आत्मज्ञान और आध्यात्मिक समझ बढ़ने का समय, जिसमें कल्पनाशक्ति, रचनात्मकता और प्रेमपूर्ण, दयालु संबंधों की स्थिति रहती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for work related to arts, music, entertainment, or luxury items; auspicious for involvement with charitable institutions.",
+      "hi": "कलाएँ, संगीत, मनोरंजन या विलासिता की वस्तुओं से जुड़े काम के लिए अनुकूल; सेवा भावी संस्थाओं में काम करने के लिए शुभ।"
+    },
+    "relationships": {
+      "en": "Relationships (family, sexual, emotional, romantic) are filled with sweetness, compassion, love, and harmony.",
+      "hi": "पारिवारिक, यौनिक, भावनात्मक या प्रेम संबंधों में मिठास, दया, प्यार और सद्भाव बना रहता है।"
+    },
+    "money": {
+      "en": "Increased opportunities to receive gifts and delicious food; auspicious for charitable giving and pilgrimages.",
+      "hi": "उपहार और स्वादिष्ट भोजन पाने के अवसर बढ़ते हैं; धार्मिक यात्रा और सेवा कार्य के लिए शुभ।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments mentioned; overall positive spiritual and emotional well-being is implied.",
+      "hi": "स्वास्थ्य संबंधी विशेष सुझाव नहीं; समग्र आध्यात्मिक और भावनात्मक कल्याण सकारात्मक रहता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual growth",
+      "Creative opportunities",
+      "Harmonious relationships",
+      "Charitable activities",
+      "Pilgrimages"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "रचनात्मक अवसर",
+      "सद्भावपूर्ण संबंध",
+      "सेवा कार्य",
+      "धार्मिक यात्रा"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative and artistic pursuits",
+        "Participate in charitable or service-oriented activities",
+        "Cultivate compassion and harmony in relationships"
+      ],
+      "hi": [
+        "रचनात्मक और कलात्मक कार्यों में संलग्न हों",
+        "सेवा या दान कार्यों में भाग लें",
+        "संबंधों में दया और सद्भाव बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on spiritual understanding and self-awareness",
+        "Strengthen emotional and romantic bonds",
+        "Explore opportunities for pilgrimages and receiving gifts"
+      ],
+      "hi": [
+        "आध्यात्मिक समझ और आत्मज्ञान पर ध्यान दें",
+        "भावनात्मक और प्रेम संबंधों को मजबूत करें",
+        "धार्मिक यात्रा और उपहार प्राप्ति के अवसर खोजें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain the sweetness and compassion developed",
+        "Continue charitable and harmonious activities"
+      ],
+      "hi": [
+        "विकसित मिठास और दया को बनाए रखें",
+        "सेवा और सद्भावपूर्ण कार्य जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "self-awareness",
+      "spiritual understanding",
+      "imagination",
+      "creativity",
+      "sweetness",
+      "compassion",
+      "love",
+      "harmony",
+      "charity",
+      "pilgrimage",
+      "gifts",
+      "arts",
+      "music",
+      "entertainment",
+      "luxury"
+    ],
+    "hi": [
+      "आत्मज्ञान",
+      "आध्यात्मिक समझ",
+      "कल्पनाशक्ति",
+      "रचनात्मकता",
+      "मिठास",
+      "दयालुता",
+      "प्यार",
+      "सद्भाव",
+      "सेवा",
+      "धार्मिक यात्रा",
+      "उपहार",
+      "कलाएँ",
+      "संगीत",
+      "मनोरंजन",
+      "विलासिता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "harmonious",
+      "compassionate",
+      "creative",
+      "spiritual",
+      "auspicious"
+    ],
+    "hi": [
+      "सद्भावपूर्ण",
+      "दयालु",
+      "रचनात्मक",
+      "आध्यात्मिक",
+      "शुभ"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "creative expression",
+      "loving relationships",
+      "charitable work",
+      "festive generosity"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "रचनात्मक अभिव्यक्ति",
+      "प्यार भरे संबंध",
+      "सेवा कार्य",
+      "उपहार और दान"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-tri-nep",
+      "core": "A time of enhanced spiritual insight, creativity, and harmonious relationships filled with compassion and love.",
+      "tone": "Warm, positive, and encouraging"
+    },
+    "hi": {
+      "title": "शुक्र त्रिकोण नेपच्यून",
+      "core": "आध्यात्मिक समझ, रचनात्मकता और दया व प्रेम से भरे सद्भावपूर्ण संबंधों का समय।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक और प्रोत्साहक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period enhances self-awareness and spiritual understanding with heightened imagination, creativity, and compassionate relationships.",
+        "hi": "इस समय आत्मज्ञान और आध्यात्मिक समझ बढ़ती है, कल्पनाशक्ति, रचनात्मकता और दयालु संबंधों के साथ।"
+      },
+      "career": {
+        "en": "Favorable for arts, music, entertainment, luxury-related work, and charitable institutions.",
+        "hi": "कलाएँ, संगीत, मनोरंजन, विलासिता और सेवा संस्थाओं से जुड़े काम के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Relationships are sweet, compassionate, loving, and harmonious across family, sexual, emotional, and romantic domains.",
+        "hi": "पारिवारिक, यौनिक, भावनात्मक और प्रेम संबंधों में मिठास, दया, प्यार और सद्भाव रहता है।"
+      },
+      "money": {
+        "en": "Increased chances to receive gifts and delicious food; auspicious for pilgrimages and charity.",
+        "hi": "उपहार और स्वादिष्ट भोजन पाने के अवसर बढ़ते हैं; धार्मिक यात्रा और सेवा के लिए शुभ।"
+      },
+      "health_adj": {
+        "en": "No specific health notes; overall positive spiritual and emotional well-being implied.",
+        "hi": "स्वास्थ्य संबंधी विशेष सुझाव नहीं; समग्र आध्यात्मिक और भावनात्मक कल्याण सकारात्मक।"
+      }
+    },
+    "aliases": [
+      "Venus trine Neptune",
+      "Ven TRI Nep",
+      "Venus-Trine-Neptune",
+      "Venus Trine to Neptune"
+    ]
+  }
+}

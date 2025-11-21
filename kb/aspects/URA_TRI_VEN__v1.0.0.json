@@ -1,0 +1,227 @@
+{
+  "id": "URA_TRI_VEN__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Trine",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person experiences emotional freedom and benefits from unexpected opportunities, favoring new relationships and creative or artistic activities with unconventional methods.",
+    "hi": "व्यक्ति आत्‍मिक आनंद में रहता है और आकस्मिक अवसर प्राप्त करता है, जो नए संबंधों और असामान्य तरीकों से कला या रचनात्मक कार्यों के लिए अनुकूल है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for creative or artistic endeavors using unconventional tools or styles.",
+      "hi": "असामान्य उपकरणों या शैलियों का उपयोग करके कला या रचनात्मक कार्यों के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Good time for forming new relationships and marital opportunities.",
+      "hi": "नए संबंध बनाने और वैवाहिक अवसरों के लिए अच्छा समय।"
+    },
+    "money": {
+      "en": "Unexpected opportunities may arise that can benefit financial situations.",
+      "hi": "आकस्मिक अवसर प्राप्त हो सकते हैं जो आर्थिक स्थिति के लिए लाभकारी हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional well-being is enhanced through freedom and positive experiences.",
+      "hi": "आत्मिक आनंद और स्वतंत्रता से भावनात्मक स्वास्थ्य बेहतर होता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New relationships",
+      "Creative or artistic opportunities",
+      "Unexpected positive events"
+    ],
+    "hi": [
+      "नए संबंध",
+      "कला या रचनात्मक अवसर",
+      "आकस्मिक सकारात्मक घटनाएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No specific risks indicated in the descriptions."
+    ],
+    "hi": [
+      "वर्णनों में कोई विशेष जोखिम नहीं दर्शाए गए हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Explore new relationships with openness.",
+        "Engage in creative or artistic projects using unconventional methods."
+      ],
+      "hi": [
+        "नए संबंधों को खुले मन से अपनाएं।",
+        "असामान्य तरीकों से कला या रचनात्मक परियोजनाओं में शामिल हों।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on emotional freedom and embrace unexpected opportunities."
+      ],
+      "hi": [
+        "भावनात्मक स्वतंत्रता पर ध्यान दें और आकस्मिक अवसरों को स्वीकार करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain openness to new experiences even as the aspect fades."
+      ],
+      "hi": [
+        "जैसे-जैसे यह योग समाप्त हो, नए अनुभवों के प्रति खुलापन बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional freedom",
+      "unexpected opportunities",
+      "new relationships",
+      "creative endeavors",
+      "artistic",
+      "unconventional"
+    ],
+    "hi": [
+      "आत्मिक आनंद",
+      "आकस्मिक अवसर",
+      "नए संबंध",
+      "रचनात्मक कार्य",
+      "कलात्मक",
+      "असामान्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "opportunity",
+      "freedom",
+      "creative"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "अवसर",
+      "स्वतंत्रता",
+      "रचनात्मक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional liberation",
+      "innovation in relationships",
+      "artistic expression"
+    ],
+    "hi": [
+      "भावनात्मक मुक्ति",
+      "संबंधों में नवाचार",
+      "कलात्मक अभिव्यक्ति"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-tri-ven",
+      "core": "Emotional freedom and unexpected opportunities favor new relationships and creative artistic endeavors.",
+      "tone": "Warm, positive, and encouraging"
+    },
+    "hi": {
+      "title": "यूरेनस ट्राइन वीनस",
+      "core": "भावनात्मक स्वतंत्रता और आकस्मिक अवसर नए संबंधों और रचनात्मक कला कार्यों के लिए अनुकूल हैं।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person enjoys emotional freedom and unexpected opportunities, supporting new relationships and creative or artistic endeavors using unconventional methods.",
+        "hi": "व्यक्ति आत्‍मिक आनंद में रहता है और आकस्मिक अवसर प्राप्त करता है, जो नए संबंधों और असामान्य तरीकों से कला या रचनात्मक कार्यों के लिए अनुकूल है।"
+      },
+      "career": {
+        "en": "Good time for creative or artistic work using unconventional tools or styles.",
+        "hi": "असामान्य उपकरणों या शैलियों का उपयोग करके कला या रचनात्मक कार्यों के लिए अनुकूल समय।"
+      },
+      "relationships": {
+        "en": "Favorable period for new relationships and marital opportunities.",
+        "hi": "नए संबंधों और वैवाहिक अवसरों के लिए अनुकूल अवधि।"
+      },
+      "money": {
+        "en": "Unexpected opportunities may positively affect financial matters.",
+        "hi": "आकस्मिक अवसर आर्थिक मामलों पर सकारात्मक प्रभाव डाल सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional well-being is supported by freedom and positive experiences.",
+        "hi": "स्वतंत्रता और सकारात्मक अनुभवों से भावनात्मक स्वास्थ्य बेहतर होता है।"
+      }
+    },
+    "aliases": [
+      "Uranus trine Venus",
+      "Ura TRI Ven",
+      "Uranus-Trine-Venus",
+      "Uranus Trine to Venus"
+    ]
+  }
+}

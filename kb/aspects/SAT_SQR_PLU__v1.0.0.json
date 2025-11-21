@@ -1,0 +1,263 @@
+{
+  "id": "SAT_SQR_PLU__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Square",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates potential emotional harshness or dishonesty, leading to conflicts and intimidation, especially involving joint assets or business matters. It warns against unethical behavior and risky or illegal ventures, highlighting possible damage to reputation and wavering confidence.",
+    "hi": "यह योग भावनात्मक कठोरता या बेईमानी की संभावना दर्शाता है, जिससे संघर्ष और डराया-धमकाया जाना हो सकता है, विशेषकर संयुक्त संपत्ति या व्यवसाय से जुड़े मामलों में। यह अनैतिक कार्यों और जोखिम भरे या अवैध कार्यों से बचने की चेतावनी देता है, जिससे प्रतिष्ठा को नुकसान और आत्मविश्वास में कमी हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Conflicts related to business, taxes, insurance, or investments may arise. Dishonesty or corruption could harm professional reputation.",
+      "hi": "व्यवसाय, कर, बीमा या निवेश से जुड़े विवाद हो सकते हैं। बेईमानी या भ्रष्टाचार से पेशेवर प्रतिष्ठा को नुकसान हो सकता है।"
+    },
+    "relationships": {
+      "en": "Emotional harshness and conflicts with deceitful people are likely. Intimidation or blackmail may occur.",
+      "hi": "भावनात्मक कठोरता और धूर्त लोगों से संघर्ष संभव है। डराया-धमकाया जाना या ब्लैकमेल हो सकता है।"
+    },
+    "money": {
+      "en": "Disputes over joint assets, business finances, taxes, insurance, or investments may occur. Avoid unethical financial actions.",
+      "hi": "संयुक्त संपत्ति, व्यवसायिक वित्त, कर, बीमा या निवेश से जुड़े विवाद हो सकते हैं। अनैतिक वित्तीय कार्यों से बचें।"
+    },
+    "health_adj": {
+      "en": "Confidence may waver and deep-seated fears might surface, affecting emotional well-being.",
+      "hi": "आत्मविश्वास में कमी हो सकती है और गहरे मानसिक भय उत्पन्न हो सकते हैं, जो भावनात्मक स्वास्थ्य को प्रभावित करते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts",
+      "Legal or financial disputes",
+      "Reputation challenges",
+      "Emotional stress"
+    ],
+    "hi": [
+      "संघर्ष",
+      "कानूनी या वित्तीय विवाद",
+      "प्रतिष्ठा की चुनौतियाँ",
+      "भावनात्मक तनाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential for dishonesty and corruption",
+      "Risk of intimidation or blackmail",
+      "Possible damage to reputation",
+      "Avoid risky or illegal ventures"
+    ],
+    "hi": [
+      "बेईमानी और भ्रष्टाचार की संभावना",
+      "डराया-धमकाया जाने या ब्लैकमेल का खतरा",
+      "प्रतिष्ठा को नुकसान हो सकता है",
+      "जोखिम भरे या अवैध कार्यों से बचें"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Maintain honesty in dealings",
+        "Be cautious with joint assets and investments",
+        "Avoid unethical behavior",
+        "Stay aware of emotional responses"
+      ],
+      "hi": [
+        "लेन-देन में ईमानदारी बनाए रखें",
+        "संयुक्त संपत्ति और निवेश में सावधानी बरतें",
+        "अनैतिक व्यवहार से बचें",
+        "भावनात्मक प्रतिक्रियाओं के प्रति सजग रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid confrontations with deceitful individuals",
+        "Refrain from risky or illegal activities",
+        "Protect reputation carefully",
+        "Manage fears and confidence consciously"
+      ],
+      "hi": [
+        "धूर्त व्यक्तियों से टकराव से बचें",
+        "जोखिम भरे या अवैध कार्यों से परहेज करें",
+        "प्रतिष्ठा की सावधानीपूर्वक रक्षा करें",
+        "भय और आत्मविश्वास को सचेत रूप से नियंत्रित करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons about honesty and integrity",
+        "Gradually regain confidence",
+        "Resolve disputes calmly",
+        "Avoid repeating unethical actions"
+      ],
+      "hi": [
+        "ईमानदारी और सत्यनिष्ठा के सबक पर विचार करें",
+        "धीरे-धीरे आत्मविश्वास पुनः प्राप्त करें",
+        "विवादों को शांतिपूर्वक सुलझाएं",
+        "अनैतिक कार्यों को दोहराने से बचें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "harshness",
+      "dishonesty",
+      "conflict",
+      "intimidation",
+      "blackmail",
+      "joint assets",
+      "business disputes",
+      "corruption",
+      "reputation damage",
+      "fear",
+      "risk avoidance"
+    ],
+    "hi": [
+      "कठोरता",
+      "बेईमानी",
+      "संघर्ष",
+      "डराना",
+      "ब्लैकमेल",
+      "संयुक्त संपत्ति",
+      "व्यवसाय विवाद",
+      "भ्रष्टाचार",
+      "प्रतिष्ठा को नुकसान",
+      "भय",
+      "जोखिम से बचाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautionary",
+      "intense",
+      "protective"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधानीपूर्ण",
+      "तीव्र",
+      "रक्षात्मक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "ethics",
+      "trust issues",
+      "financial caution",
+      "emotional resilience"
+    ],
+    "hi": [
+      "नैतिकता",
+      "विश्वास की समस्याएँ",
+      "वित्तीय सावधानी",
+      "भावनात्मक सहनशीलता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-squ-plu",
+      "core": "Indicates emotional harshness, conflicts, and risks involving dishonesty and joint assets. Advises caution and ethical behavior.",
+      "tone": "Neutral, cautionary, and reflective"
+    },
+    "hi": {
+      "title": "शनि वर्ग प्लूटो",
+      "core": "भावनात्मक कठोरता, संघर्ष और बेईमानी तथा संयुक्त संपत्ति से जुड़े जोखिम दर्शाता है। सावधानी और नैतिक व्यवहार की सलाह देता है।",
+      "tone": "तटस्थ, सावधानीपूर्ण और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Potential emotional harshness and dishonesty leading to conflicts and intimidation, especially over joint assets and business matters. Advises avoiding unethical and risky actions.",
+        "hi": "भावनात्मक कठोरता और बेईमानी से संघर्ष और डराने-धमकाने की संभावना, विशेषकर संयुक्त संपत्ति और व्यवसाय के मामलों में। अनैतिक और जोखिम भरे कार्यों से बचने की सलाह।"
+      },
+      "career": {
+        "en": "Conflicts related to business, taxes, insurance, or investments; risk of reputation damage due to dishonesty or corruption.",
+        "hi": "व्यवसाय, कर, बीमा या निवेश से जुड़े विवाद; बेईमानी या भ्रष्टाचार से प्रतिष्ठा को नुकसान का खतरा।"
+      },
+      "relationships": {
+        "en": "Emotional harshness and conflicts with deceitful people; possible intimidation or blackmail.",
+        "hi": "भावनात्मक कठोरता और धूर्त लोगों से संघर्ष; डराया-धमकाया जाना या ब्लैकमेल संभव।"
+      },
+      "money": {
+        "en": "Disputes over joint assets, business finances, taxes, insurance, or investments; avoid unethical financial actions.",
+        "hi": "संयुक्त संपत्ति, व्यवसायिक वित्त, कर, बीमा या निवेश से विवाद; अनैतिक वित्तीय कार्यों से बचें।"
+      },
+      "health_adj": {
+        "en": "Confidence may waver and deep fears might surface, impacting emotional health.",
+        "hi": "आत्मविश्वास में कमी और गहरे भय उत्पन्न हो सकते हैं, जो भावनात्मक स्वास्थ्य को प्रभावित करते हैं।"
+      }
+    },
+    "aliases": [
+      "Saturn square Pluto",
+      "Sat SQR Plu",
+      "Saturn-Square-Pluto",
+      "Saturn Square to Pluto"
+    ]
+  }
+}

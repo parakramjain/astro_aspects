@@ -1,0 +1,251 @@
+{
+  "id": "JUP_OPP_NEP__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Opposition",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Unrealistic spiritual fantasies and false sympathy dominate, causing instability and lack of discipline. Avoid gambling and volatile ventures.",
+    "hi": "अवास्तविक आध्यात्मिक कल्पनाएँ और झूठी सहानुभूति प्रमुख हैं, जिससे अस्थिरता और अनुशासन की कमी होती है। जुआ और अस्थिर कार्यों से बचें।"
+  },
+  "facets": {
+    "career": {
+      "en": "Lacks discipline and may pursue artificial or wrong paths; avoid risky or unstable ventures.",
+      "hi": "अनुशासन की कमी होती है और व्यक्ति कभी-कभी कृत्रिम या गलत रास्तों पर चलता है; जोखिम भरे और अस्थिर कार्यों से बचें।"
+    },
+    "relationships": {
+      "en": "Prone to false sympathy and delusion by fake praise; may seek pity through lies, causing instability.",
+      "hi": "झूठी सहानुभूति और झूठी प्रशंसा के भ्रम में रहता है; झूठ से सहानुभूति प्राप्ति की कोशिश करता है, जिससे अस्थिरता होती है।"
+    },
+    "money": {
+      "en": "Avoid gambling and useless spending to prevent artificiality and wrong financial decisions.",
+      "hi": "जुआ और व्यर्थ खर्च से बचें ताकि अत्यधिक कृत्रिमता और गलत वित्तीय निर्णय न हों।"
+    },
+    "health_adj": {
+      "en": "Experiences self-doubt and instability; maintain mental balance and avoid volatile activities.",
+      "hi": "आत्मविश्वास की कमी और अस्थिरता अनुभव करता है; मानसिक संतुलन बनाए रखें और उतार-चढ़ाव वाले कार्यों से बचें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual confusion",
+      "Emotional instability",
+      "Financial imprudence"
+    ],
+    "hi": [
+      "आध्यात्मिक भ्रम",
+      "भावनात्मक अस्थिरता",
+      "वित्तीय असावधानी"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Falling victim to false sympathy",
+      "Delusion by fake praise",
+      "Engaging in gambling or useless spending",
+      "Pursuing wrong or artificial paths",
+      "Instability and self-doubt"
+    ],
+    "hi": [
+      "झूठी सहानुभूति का शिकार होना",
+      "झूठी प्रशंसा के भ्रम में रहना",
+      "जुआ या व्यर्थ खर्च में लिप्त होना",
+      "गलत या कृत्रिम रास्ते अपनाना",
+      "अस्थिरता और आत्मविश्वास की कमी"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious of unrealistic fantasies",
+        "Avoid seeking pity through falsehoods",
+        "Maintain discipline in daily life"
+      ],
+      "hi": [
+        "अवास्तविक कल्पनाओं से सावधान रहें",
+        "झूठ से सहानुभूति प्राप्ति से बचें",
+        "दैनिक जीवन में अनुशासन बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid gambling and useless spending",
+        "Steer clear of volatile ventures",
+        "Recognize and resist fake praise"
+      ],
+      "hi": [
+        "जुआ और व्यर्थ खर्च से बचें",
+        "अस्थिर कार्यों से दूर रहें",
+        "झूठी प्रशंसा को पहचानें और उससे बचें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Work on building self-confidence",
+        "Focus on stability and mental balance",
+        "Reassess spiritual beliefs realistically"
+      ],
+      "hi": [
+        "आत्मविश्वास बढ़ाने का प्रयास करें",
+        "स्थिरता और मानसिक संतुलन पर ध्यान दें",
+        "आध्यात्मिक विश्वासों का यथार्थवादी पुनर्मूल्यांकन करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "unrealistic fantasies",
+      "false sympathy",
+      "fake praise",
+      "lack of discipline",
+      "gambling",
+      "artificiality",
+      "self-doubt",
+      "instability",
+      "volatile ventures"
+    ],
+    "hi": [
+      "अवास्तविक कल्पनाएँ",
+      "झूठी सहानुभूति",
+      "झूठी प्रशंसा",
+      "अनुशासन की कमी",
+      "जुआ",
+      "कृत्रिमता",
+      "आत्मविश्वास की कमी",
+      "अस्थिरता",
+      "अस्थिर कार्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "delusional",
+      "unstable",
+      "cautious",
+      "disciplined needed"
+    ],
+    "hi": [
+      "भ्रमित",
+      "अस्थिर",
+      "सावधान",
+      "अनुशासन आवश्यक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual confusion",
+      "emotional vulnerability",
+      "financial caution"
+    ],
+    "hi": [
+      "आध्यात्मिक भ्रम",
+      "भावनात्मक असुरक्षा",
+      "वित्तीय सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-opp-nep",
+      "core": "This aspect indicates a tendency toward unrealistic spiritual fantasies, false sympathy, and instability. It advises avoiding gambling and volatile ventures while maintaining discipline.",
+      "tone": "Warm, neutral, advisory"
+    },
+    "hi": {
+      "title": "बृहस्पति विपरीत नेपच्यून",
+      "core": "यह योग अवास्तविक आध्यात्मिक कल्पनाओं, झूठी सहानुभूति और अस्थिरता की प्रवृत्ति दर्शाता है। यह जुआ और अस्थिर कार्यों से बचने तथा अनुशासन बनाए रखने की सलाह देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सलाहकार"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Unrealistic spiritual fantasies and false sympathy dominate, causing instability and lack of discipline. Avoid gambling and volatile ventures.",
+        "hi": "अवास्तविक आध्यात्मिक कल्पनाएँ और झूठी सहानुभूति प्रमुख हैं, जिससे अस्थिरता और अनुशासन की कमी होती है। जुआ और अस्थिर कार्यों से बचें।"
+      },
+      "career": {
+        "en": "Lacks discipline and may pursue artificial or wrong paths; avoid risky or unstable ventures.",
+        "hi": "अनुशासन की कमी होती है और व्यक्ति कभी-कभी कृत्रिम या गलत रास्तों पर चलता है; जोखिम भरे और अस्थिर कार्यों से बचें।"
+      },
+      "relationships": {
+        "en": "Prone to false sympathy and delusion by fake praise; may seek pity through lies, causing instability.",
+        "hi": "झूठी सहानुभूति और झूठी प्रशंसा के भ्रम में रहता है; झूठ से सहानुभूति प्राप्ति की कोशिश करता है, जिससे अस्थिरता होती है।"
+      },
+      "money": {
+        "en": "Avoid gambling and useless spending to prevent artificiality and wrong financial decisions.",
+        "hi": "जुआ और व्यर्थ खर्च से बचें ताकि अत्यधिक कृत्रिमता और गलत वित्तीय निर्णय न हों।"
+      },
+      "health_adj": {
+        "en": "Experiences self-doubt and instability; maintain mental balance and avoid volatile activities.",
+        "hi": "आत्मविश्वास की कमी और अस्थिरता अनुभव करता है; मानसिक संतुलन बनाए रखें और उतार-चढ़ाव वाले कार्यों से बचें।"
+      }
+    },
+    "aliases": [
+      "Jupiter opposition Neptune",
+      "Jup OPP Nep",
+      "Jupiter-Opposition-Neptune",
+      "Jupiter Opposition to Neptune"
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "URA_SEX_VEN__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Sextile",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Uranus and Venus opens opportunity/skill. Uranus: . Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": " Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
+    "relationships": " Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
+    "money": " Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
+    "health_adj": " Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution.",
+    "People-pleasing → scope creep; set clear give-and-get."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "affection",
+    "art",
+    "harmony",
+    "opportunity",
+    "pleasure",
+    "sextile",
+    "skill",
+    "values"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "",
+    "Relationship Tone",
+    "",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Uranus Sextile Venus",
+      "core": "Sextile between Uranus and Venus opens opportunity/skill. Uranus: . Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Uranus Sextile Venus (हिन्दी)",
+      "core": "Uranus और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Uranus and Venus opens opportunity/skill. Uranus: . Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": " Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
+      "relationships": " Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
+      "money": " Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
+      "health_adj": " Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+    },
+    "aliases": [
+      "Uranus sextile Venus",
+      "Ura SEX Ven",
+      "Uranus-Sextile-Venus",
+      "Uranus Sextile to Venus"
+    ]
+  }
+}

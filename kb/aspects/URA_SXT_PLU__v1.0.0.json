@@ -1,0 +1,256 @@
+{
+  "id": "URA_SEX_PLU__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Sextile",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased intuition, confidence, and efficiency lead to transformative shifts in understanding and goals, enhancing work and intellectual levels. Connections to occult research, engineering, and modern technology emerge, along with joining significant organizations that initiate life changes. Favorable period for joint assets, taxes, and insurance matters.",
+    "hi": "अंतर्ज्ञान, आत्मविश्वास और कार्यकुशलता बढ़ने से समझ और लक्ष्यों में परिवर्तन होता है, जिससे कार्यकुशलता और बौद्धिक स्तर में सुधार होता है। व्यक्ति गूढ़ ज्ञान, अनुसंधान, इंजीनियरिंग और आधुनिक तकनीक से जुड़ता है तथा महत्वपूर्ण संस्थाओं से जुड़कर जीवन में परिवर्तन आरंभ करता है। संयुक्त संपत्ति, कर और बीमा संबंधी कार्यों के लिए अनुकूल समय।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work efficiency improves with intellectual growth; involvement in occult research, engineering, and modern technology is highlighted.",
+      "hi": "कार्यकुशलता बढ़ती है; गूढ़ ज्ञान, अनुसंधान, इंजीनियरिंग और आधुनिक तकनीक से जुड़ाव होता है।"
+    },
+    "relationships": {
+      "en": "Joining important organizations can trigger life changes and new connections.",
+      "hi": "महत्वपूर्ण संस्थाओं या समूहों से जुड़ना जीवन में परिवर्तन और नए संबंध लाता है।"
+    },
+    "money": {
+      "en": "Good time for managing joint assets, taxes, insurance, and investments.",
+      "hi": "संयुक्त संपत्ति, कर, बीमा और निवेश संबंधी कार्यों के लिए उपयुक्त समय।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष परिवर्तन या सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Joining important organizations",
+      "Changes in goals and understanding",
+      "Engagement with occult and modern technology fields",
+      "Financial matters related to joint assets, taxes, insurance"
+    ],
+    "hi": [
+      "महत्वपूर्ण संस्थाओं से जुड़ना",
+      "लक्ष्यों और समझ में परिवर्तन",
+      "गूढ़ ज्ञान और आधुनिक तकनीक से जुड़ाव",
+      "संयुक्त संपत्ति, कर, बीमा संबंधी वित्तीय कार्य"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; changes are generally positive and transformative."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; परिवर्तन सामान्यतः सकारात्मक और रूपांतरणकारी हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on enhancing intuition and confidence.",
+        "Engage in knowledge shifts to transform goals.",
+        "Connect with organizations related to occult, engineering, or modern tech.",
+        "Address joint financial matters like taxes and insurance."
+      ],
+      "hi": [
+        "अंतर्ज्ञान और आत्मविश्वास बढ़ाने पर ध्यान दें।",
+        "ज्ञान स्तर में परिवर्तन से लक्ष्य बदलें।",
+        "गूढ़ ज्ञान, इंजीनियरिंग या आधुनिक तकनीक से जुड़ी संस्थाओं से जुड़ें।",
+        "संयुक्त वित्तीय कार्य जैसे कर और बीमा देखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Implement new understanding to improve work efficiency.",
+        "Join important organizations to initiate life changes."
+      ],
+      "hi": [
+        "नई समझ को कार्यकुशलता बढ़ाने के लिए लागू करें।",
+        "महत्वपूर्ण संस्थाओं से जुड़कर जीवन में परिवर्तन शुरू करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain gains in intuition and efficiency.",
+        "Continue involvement in research and technology fields.",
+        "Sustain connections with organizations and financial arrangements."
+      ],
+      "hi": [
+        "अंतर्ज्ञान और कार्यकुशलता बनाए रखें।",
+        "अनुसंधान और तकनीक क्षेत्रों में जुड़ाव जारी रखें।",
+        "संस्थाओं और वित्तीय व्यवस्थाओं से संबंध बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intuition",
+      "confidence",
+      "efficiency",
+      "knowledge shift",
+      "goal transformation",
+      "occult research",
+      "engineering",
+      "modern technology",
+      "organizations",
+      "joint assets",
+      "taxes",
+      "insurance"
+    ],
+    "hi": [
+      "अंतर्ज्ञान",
+      "आत्मविश्वास",
+      "कार्यकुशलता",
+      "ज्ञान स्तर परिवर्तन",
+      "लक्ष्य परिवर्तन",
+      "गूढ़ ज्ञान",
+      "अनुसंधान",
+      "इंजीनियरिंग",
+      "आधुनिक तकनीक",
+      "संस्थाएं",
+      "संयुक्त संपत्ति",
+      "कर",
+      "बीमा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "transformative",
+      "intellectual growth",
+      "productive",
+      "organizational connections",
+      "financial opportunity"
+    ],
+    "hi": [
+      "रूपांतरणकारी",
+      "बौद्धिक विकास",
+      "उत्पादक",
+      "संस्थागत संबंध",
+      "वित्तीय अवसर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "personal development",
+      "career advancement",
+      "financial management",
+      "spiritual and technological integration"
+    ],
+    "hi": [
+      "व्यक्तिगत विकास",
+      "कैरियर उन्नति",
+      "वित्तीय प्रबंधन",
+      "आध्यात्मिक और तकनीकी समन्वय"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-sxt-plu",
+      "core": "This aspect enhances intuition, confidence, and efficiency, leading to transformative changes in understanding, goals, and work. It connects to occult and modern technological fields and supports joining important organizations and managing joint financial matters.",
+      "tone": "Warm, neutral, and encouraging"
+    },
+    "hi": {
+      "title": "यूरेनस सेकस्टाइल प्लूटो",
+      "core": "यह योग अंतर्ज्ञान, आत्मविश्वास और कार्यकुशलता बढ़ाता है, जिससे समझ, लक्ष्य और कार्य में रूपांतरणकारी परिवर्तन होते हैं। यह गूढ़ और आधुनिक तकनीकी क्षेत्रों से जुड़ाव करता है तथा महत्वपूर्ण संस्थाओं से जुड़ने और संयुक्त वित्तीय कार्यों के लिए अनुकूल है।",
+      "tone": "स्नेहपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Intuition, confidence, and efficiency increase, transforming understanding and goals, improving work and intellectual levels, connecting with occult research, engineering, modern technology, and joining important organizations, favorable for joint assets, taxes, and insurance matters.",
+        "hi": "अंतर्ज्ञान, आत्मविश्वास और कार्यकुशलता बढ़ती है, जिससे समझ और लक्ष्य बदलते हैं, कार्यकुशलता और बौद्धिक स्तर में सुधार होता है, गूढ़ ज्ञान, अनुसंधान, इंजीनियरिंग, आधुनिक तकनीक से जुड़ाव होता है, महत्वपूर्ण संस्थाओं से जुड़ना होता है, संयुक्त संपत्ति, कर और बीमा के लिए अनुकूल समय।"
+      },
+      "career": {
+        "en": "Work efficiency improves with intellectual changes; involvement in occult research, engineering, and modern technology is emphasized.",
+        "hi": "कार्यकुशलता बढ़ती है; गूढ़ ज्ञान, अनुसंधान, इंजीनियरिंग और आधुनिक तकनीक से जुड़ाव होता है।"
+      },
+      "relationships": {
+        "en": "Joining important organizations triggers life changes and new connections.",
+        "hi": "महत्वपूर्ण संस्थाओं से जुड़ना जीवन में परिवर्तन और नए संबंध लाता है।"
+      },
+      "money": {
+        "en": "Good period for joint assets, taxes, insurance, and investment-related matters.",
+        "hi": "संयुक्त संपत्ति, कर, बीमा और निवेश संबंधी कार्यों के लिए उपयुक्त समय।"
+      },
+      "health_adj": {
+        "en": "No specific health indications.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं।"
+      }
+    },
+    "aliases": [
+      "Uranus sextile Pluto",
+      "Ura SEX Plu",
+      "Uranus-Sextile-Pluto",
+      "Uranus Sextile to Pluto"
+    ]
+  }
+}

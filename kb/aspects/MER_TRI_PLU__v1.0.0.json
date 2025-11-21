@@ -1,0 +1,245 @@
+{
+  "id": "MER_TRI_PLU__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Trine",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect signifies deep insight, foresight, and the ability to make effective decisions, favoring future planning and profound knowledge.",
+    "hi": "यह योग गहरी समझ, दूरदर्शिता और उपयोगी निर्णय लेने की क्षमता दर्शाता है, जो भविष्य की योजना और गूढ़ ज्ञान के लिए अनुकूल है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for business, politics, and decision-making roles requiring insight and planning.",
+      "hi": "व्यवसाय, राजनीति और दूरदर्शिता तथा योजना की आवश्यकता वाले निर्णयात्मक कार्यों के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Encourages thoughtful communication and understanding, supporting meaningful interactions.",
+      "hi": "विचारशील संवाद और समझ को प्रोत्साहित करता है, जो सार्थक संबंधों में सहायक होता है।"
+    },
+    "money": {
+      "en": "Supports financial dealings and strategic planning for monetary growth.",
+      "hi": "वित्तीय लेन-देन और धन वृद्धि के लिए रणनीतिक योजना का समर्थन करता है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus is on mental clarity and insight.",
+      "hi": "स्वास्थ्य संबंधी विशेष सुझाव नहीं; ध्यान मानसिक स्पष्टता और समझ पर है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business decisions",
+      "Political planning",
+      "Financial negotiations"
+    ],
+    "hi": [
+      "व्यवसायिक निर्णय",
+      "राजनीतिक योजना",
+      "वित्तीय वार्ताएं"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid overconfidence in decisions despite insight.",
+      "Be cautious of overlooking emotional aspects in planning."
+    ],
+    "hi": [
+      "समझ के बावजूद निर्णयों में अति आत्मविश्वास से बचें।",
+      "योजना बनाते समय भावनात्मक पक्ष को नजरअंदाज करने से सावधान रहें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in future-oriented planning.",
+        "Use deep insight to guide decisions.",
+        "Focus on strategic business or financial moves."
+      ],
+      "hi": [
+        "भविष्य केंद्रित योजना बनाएं।",
+        "निर्णयों में गहरी समझ का उपयोग करें।",
+        "रणनीतिक व्यवसाय या वित्तीय कदमों पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Make important decisions with clarity.",
+        "Implement plans that require foresight.",
+        "Leverage profound knowledge in negotiations."
+      ],
+      "hi": [
+        "स्पष्टता के साथ महत्वपूर्ण निर्णय लें।",
+        "दूरदर्शिता वाली योजनाओं को लागू करें।",
+        "वार्ताओं में गूढ़ ज्ञान का लाभ उठाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review decisions made for effectiveness.",
+        "Maintain insight for ongoing planning.",
+        "Adjust strategies based on outcomes."
+      ],
+      "hi": [
+        "किए गए निर्णयों की प्रभावशीलता की समीक्षा करें।",
+        "लगातार योजना के लिए समझ बनाए रखें।",
+        "परिणामों के आधार पर रणनीतियों को समायोजित करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "insight",
+      "foresight",
+      "decision-making",
+      "future planning",
+      "profound knowledge",
+      "business",
+      "politics",
+      "finance"
+    ],
+    "hi": [
+      "समझ",
+      "दूरदर्शिता",
+      "निर्णय लेना",
+      "भविष्य की योजना",
+      "गूढ़ ज्ञान",
+      "व्यवसाय",
+      "राजनीति",
+      "वित्त"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "insightful",
+      "strategic",
+      "favorable",
+      "decisive"
+    ],
+    "hi": [
+      "सूझ-बूझ वाला",
+      "रणनीतिक",
+      "अनुकूल",
+      "निर्णायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "planning",
+      "knowledge",
+      "decision-making",
+      "growth"
+    ],
+    "hi": [
+      "योजना",
+      "ज्ञान",
+      "निर्णय लेना",
+      "विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-tri-plu",
+      "core": "Deep insight and foresight enable effective decisions and future planning, favoring business, politics, and finance.",
+      "tone": "Warm, neutral, and encouraging thoughtful action."
+    },
+    "hi": {
+      "title": "बुध त्रिकोण प्लूटो",
+      "core": "गहरी समझ और दूरदर्शिता से उपयोगी निर्णय और भविष्य की योजना संभव होती है, जो व्यवसाय, राजनीति और वित्त के लिए अनुकूल है।",
+      "tone": "सहज, तटस्थ और विचारशील क्रिया को प्रोत्साहित करने वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period brings deep insight, future planning, and profound knowledge. The person shows foresight and makes effective decisions.",
+        "hi": "यह समय गहरी समझए भविष्य की योजना और गूढ़ ज्ञान में वृद्धि लाता है। व्यक्ति के पास दूरदर्शिता होती है और वह उपयोगी निर्णय लेता है।"
+      },
+      "career": {
+        "en": "Favorable for business, politics, and financial dealings.",
+        "hi": "व्यवसायए राजनीतिए या वित्त से जुड़े कार्यों के लिए अनुकूल समय होता है।"
+      },
+      "relationships": {
+        "en": "The person shows foresight and makes effective decisions, implying thoughtful interactions.",
+        "hi": "व्यक्ति के पास दूरदर्शिता होती है और वह उपयोगी निर्णय लेता है।"
+      },
+      "money": {
+        "en": "Favorable for financial dealings and planning.",
+        "hi": "वित्त से जुड़े कार्यों के लिए अनुकूल समय।"
+      },
+      "health_adj": {
+        "en": "No specific health information provided; emphasis on mental clarity.",
+        "hi": "स्वास्थ्य के बारे में विशेष जानकारी नहीं; मानसिक स्पष्टता पर जोर।"
+      }
+    },
+    "aliases": [
+      "Mercury trine Pluto",
+      "Mer TRI Plu",
+      "Mercury-Trine-Pluto",
+      "Mercury Trine to Pluto"
+    ]
+  }
+}

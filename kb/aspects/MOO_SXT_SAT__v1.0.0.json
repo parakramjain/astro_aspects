@@ -1,0 +1,243 @@
+{
+  "id": "MOO_SEX_SAT__v1.0.0",
+  "pair": [
+    "Moon",
+    "Sextile",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased seriousness and emotional restraint lead to focused efforts on family, business, and study, resulting in stable progress and new beginnings in business.",
+    "hi": "स्वभाव में गंभीरता और भावनात्मक संयम बढ़कर परिवार, व्यवसाय और अध्ययन में ध्यान केंद्रित करने से स्थाई प्रगति और नए व्यवसाय की शुरुआत होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Engagement in serious work, plans, and study with emotional control; initiation of new business ventures.",
+      "hi": "भावनाओं पर संयम रखते हुए गंभीर कार्य, योजना और अध्ययन में लगना; नया व्यवसाय आरंभ करना।"
+    },
+    "relationships": {
+      "en": "Focused attention on household and family matters, fostering internal business conversations and plans.",
+      "hi": "घर और परिवार के कार्यों पर ध्यान देना, आंतरिक व्यवसाय वार्तालाप और योजनाओं को बढ़ावा देना।"
+    },
+    "money": {
+      "en": "Successful economic planning leads to increased domestic and agricultural production, ending high expenses and achieving permanent progress.",
+      "hi": "सफल आर्थिक योजना से घरेलू और कृषि उत्पादन में वृद्धि, ऊँचे खर्च समाप्त होना और स्थाई उन्नति प्राप्त होना।"
+    },
+    "health_adj": {
+      "en": "Emotional restraint supports sustained focus and discipline in work and study.",
+      "hi": "भावनात्मक संयम से कार्य और अध्ययन में निरंतर ध्यान और अनुशासन बना रहता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Starting a new business",
+      "Achieving stable progress",
+      "Engaging in serious plans or conversations"
+    ],
+    "hi": [
+      "नया व्यवसाय आरंभ करना",
+      "स्थाई उन्नति प्राप्त करना",
+      "गंभीर योजना या वार्तालाप में लगना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential emotional restraint may limit spontaneous expression",
+      "High expenses end, but financial caution remains important"
+    ],
+    "hi": [
+      "भावनात्मक संयम से सहज अभिव्यक्ति सीमित हो सकती है",
+      "ऊँचे खर्च समाप्त होते हैं, पर वित्तीय सावधानी आवश्यक है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on household and family responsibilities",
+        "Plan work and study with emotional discipline",
+        "Prepare for new business opportunities"
+      ],
+      "hi": [
+        "घर और परिवार की जिम्मेदारियों पर ध्यान दें",
+        "भावनात्मक अनुशासन के साथ कार्य और अध्ययन की योजना बनाएं",
+        "नए व्यवसाय के अवसरों के लिए तैयारी करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage in serious work and conversations",
+        "Implement successful economic plans",
+        "Begin new business ventures"
+      ],
+      "hi": [
+        "गंभीर कार्य और वार्तालाप में लगें",
+        "सफल आर्थिक योजनाएं लागू करें",
+        "नए व्यवसाय आरंभ करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain emotional restraint to continue progress",
+        "Conclude high expenses and stabilize finances"
+      ],
+      "hi": [
+        "प्रगति जारी रखने के लिए भावनात्मक संयम बनाए रखें",
+        "ऊँचे खर्च समाप्त करें और वित्त को स्थिर करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "seriousness",
+      "emotional restraint",
+      "family focus",
+      "economic planning",
+      "new business",
+      "stable progress",
+      "increased production"
+    ],
+    "hi": [
+      "गंभीरता",
+      "भावनात्मक संयम",
+      "परिवार पर ध्यान",
+      "आर्थिक योजना",
+      "नया व्यवसाय",
+      "स्थाई प्रगति",
+      "उत्पादन वृद्धि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "focused",
+      "disciplined",
+      "productive",
+      "stable",
+      "practical"
+    ],
+    "hi": [
+      "केन्द्रित",
+      "अनुशासित",
+      "उत्पादक",
+      "स्थिर",
+      "व्यावहारिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "serious work",
+      "family and home",
+      "economic success",
+      "new beginnings"
+    ],
+    "hi": [
+      "गंभीर कार्य",
+      "परिवार और घर",
+      "आर्थिक सफलता",
+      "नई शुरुआत"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-sxt-sat",
+      "core": "Increased seriousness and emotional restraint foster focused efforts in family, business, and study, leading to stable progress and new ventures.",
+      "tone": "Warm, neutral, and encouraging"
+    },
+    "hi": {
+      "title": "चंद्रमा षट्कोण शनि",
+      "core": "गंभीरता और भावनात्मक संयम परिवार, व्यवसाय और अध्ययन में ध्यान केंद्रित करने को बढ़ावा देते हैं, जिससे स्थाई प्रगति और नए प्रयास होते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Seriousness increases in disposition with emotional restraint leading to focused work and stable progress.",
+        "hi": "स्वभाव में गंभीरता और भावनात्मक संयम बढ़कर ध्यान केंद्रित कार्य और स्थाई प्रगति होती है।"
+      },
+      "career": {
+        "en": "Engagement in serious work, study, and new business ventures with economic planning.",
+        "hi": "गंभीर कार्य, अध्ययन और नए व्यवसाय में आर्थिक योजना के साथ लगाव।"
+      },
+      "relationships": {
+        "en": "Attention to household and family matters with internal business conversations.",
+        "hi": "घर और परिवार के कार्यों पर ध्यान और आंतरिक व्यवसाय वार्तालाप।"
+      },
+      "money": {
+        "en": "Successful economic plans increase domestic and agricultural production and end high expenses.",
+        "hi": "सफल आर्थिक योजनाएं घरेलू और कृषि उत्पादन बढ़ाती हैं और ऊँचे खर्च समाप्त करती हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional restraint supports discipline and focus in work and study.",
+        "hi": "भावनात्मक संयम कार्य और अध्ययन में अनुशासन और ध्यान का समर्थन करता है।"
+      }
+    },
+    "aliases": [
+      "Moon sextile Saturn",
+      "Moo SEX Sat",
+      "Moon-Sextile-Saturn",
+      "Moon Sextile to Saturn"
+    ]
+  }
+}

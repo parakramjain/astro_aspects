@@ -1,0 +1,239 @@
+{
+  "id": "MOO_CON_URA__v1.0.0",
+  "pair": [
+    "Moon",
+    "Conjunction",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates worry, irregular depression, and an imaginative physical and mental state. The person is affectionate and emotional in relationships. It is a time to be vigilant, as sudden gains or losses may occur.",
+    "hi": "यह योग चिंता, अनियमित अवसाद, और कल्पनाशील शारीरिक व मानसिक स्थिति दर्शाता है। व्यक्ति अपने संबंधों में स्नेहिल और भावुक होता है। यह समय सतर्क रहने का है क्योंकि अचानक लाभ या नुकसान हो सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Career may experience sudden changes; vigilance is advised.",
+      "hi": "करियर में अचानक बदलाव हो सकते हैं; सतर्कता आवश्यक है।"
+    },
+    "relationships": {
+      "en": "Person is affectionate and emotional in relationships.",
+      "hi": "व्यक्ति संबंधों में स्नेहिल और भावुक होता है।"
+    },
+    "money": {
+      "en": "Sudden financial gains or losses are possible.",
+      "hi": "अचानक वित्तीय लाभ या नुकसान हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Irregular depression and imaginative physical and mental states may prevail.",
+      "hi": "अनियमित अवसाद और कल्पनाशील शारीरिक व मानसिक स्थिति बनी रह सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Sudden gains",
+      "Sudden losses",
+      "Emotional events"
+    ],
+    "hi": [
+      "अचानक लाभ",
+      "अचानक नुकसान",
+      "भावनात्मक घटनाएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Be vigilant during this period.",
+      "Watch for sudden changes in finances or mood."
+    ],
+    "hi": [
+      "इस अवधि में सतर्क रहें।",
+      "वित्त या मनोदशा में अचानक बदलाव पर ध्यान दें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Maintain emotional awareness in relationships.",
+        "Stay alert for unexpected changes."
+      ],
+      "hi": [
+        "संबंधों में भावनात्मक जागरूकता बनाए रखें।",
+        "अप्रत्याशित बदलावों के लिए सतर्क रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise caution and vigilance.",
+        "Monitor mental and physical health closely."
+      ],
+      "hi": [
+        "सावधानी और सतर्कता बरतें।",
+        "मानसिक और शारीरिक स्वास्थ्य पर ध्यान दें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on emotional experiences.",
+        "Prepare for stabilization after sudden events."
+      ],
+      "hi": [
+        "भावनात्मक अनुभवों पर विचार करें।",
+        "अचानक घटनाओं के बाद स्थिरता के लिए तैयार रहें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "worry",
+      "irregular depression",
+      "imaginative",
+      "affectionate",
+      "emotional",
+      "vigilance",
+      "sudden gains",
+      "sudden losses"
+    ],
+    "hi": [
+      "चिंता",
+      "अनियमित अवसाद",
+      "कल्पनाशील",
+      "स्नेहिल",
+      "भावुक",
+      "सतर्कता",
+      "अचानक लाभ",
+      "अचानक नुकसान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "imaginative",
+      "volatile",
+      "affectionate"
+    ],
+    "hi": [
+      "भावुक",
+      "कल्पनाशील",
+      "अस्थिर",
+      "स्नेहिल"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental health",
+      "emotional relationships",
+      "financial volatility",
+      "vigilance"
+    ],
+    "hi": [
+      "मानसिक स्वास्थ्य",
+      "भावनात्मक संबंध",
+      "वित्तीय अस्थिरता",
+      "सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-con-ura",
+      "core": "Worry, irregular depression, and imaginative physical and mental state prevail. Affection and emotion characterize relationships. Vigilance is needed due to possible sudden gains or losses.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "चंद्र युति अरुण",
+      "core": "चिंता, अनियमित अवसाद, और कल्पनाशील शारीरिक व मानसिक स्थिति बनी रहती है। संबंधों में स्नेह और भावुकता होती है। अचानक लाभ या नुकसान के कारण सतर्कता आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Worry, irregularity in depression, and imaginative physical, mental state prevail. The person is affectionate and emotional in their relationships. This is a time for vigilance. Sudden gains or losses may occur.",
+        "hi": "फिक्रए अवसाद में अनियमितताए कल्पना शारीरिकए मानसिक स्थिति रहती है। व्यक्ति अपने संबंधों में स्नेहिल और भावुक होता है। यह समय सतर्कता का है। अचानक लाभ या नुकसान हो सकता है।"
+      },
+      "career": {
+        "en": "Career may experience sudden changes; vigilance is advised.",
+        "hi": "करियर में अचानक बदलाव हो सकते हैं; सतर्कता आवश्यक है।"
+      },
+      "relationships": {
+        "en": "Person is affectionate and emotional in relationships.",
+        "hi": "व्यक्ति संबंधों में स्नेहिल और भावुक होता है।"
+      },
+      "money": {
+        "en": "Sudden financial gains or losses are possible.",
+        "hi": "अचानक वित्तीय लाभ या नुकसान हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Irregular depression and imaginative physical and mental states may prevail.",
+        "hi": "अनियमित अवसाद और कल्पनाशील शारीरिक व मानसिक स्थिति बनी रह सकती है।"
+      }
+    },
+    "aliases": [
+      "Moon conjunction Uranus",
+      "Moo CON Ura",
+      "Moon-Conjunction-Uranus",
+      "Moon Conjunction to Uranus"
+    ]
+  }
+}

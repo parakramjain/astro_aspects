@@ -1,0 +1,253 @@
+{
+  "id": "MAR_OPP_JUP__v1.0.0",
+  "pair": [
+    "Mars",
+    "Opposition",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Extreme ambition and overconfidence can lead to losses, deception, and family disputes, with risks of overspending and professional setbacks.",
+    "hi": "अत्यधिक महत्वाकांक्षा और अत्यधिक आत्मविश्वास से हानि, धोखा और पारिवारिक मतभेद हो सकते हैं, साथ ही अत्यधिक खर्च और पेशेवर नुकसान का खतरा रहता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Professional expansion may cause losses and fluctuations; construction costs tend to rise.",
+      "hi": "पेशेवर कार्यप्रसार से हानि और उतार-चढ़ाव हो सकते हैं; निर्माण कार्य में खर्च बढ़ता है।"
+    },
+    "relationships": {
+      "en": "Family disputes may arise; those connected to charities might face institutional problems.",
+      "hi": "पारिवारिक मतभेद उत्पन्न हो सकते हैं; धर्मार्थ संस्थानों से जुड़े व्यक्ति संस्था से समस्याएं झेल सकते हैं।"
+    },
+    "money": {
+      "en": "Overspending and financial losses are likely; travel scams are possible.",
+      "hi": "अत्यधिक खर्च और वित्तीय हानि संभव है; यात्रा में धोखे की स्थिति हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Fluctuations and stress may cause damage; caution advised during periods of instability.",
+      "hi": "उतार-चढ़ाव और तनाव से हानि हो सकती है; अस्थिरता के समय सावधानी आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Financial loss",
+      "Family disputes",
+      "Professional setbacks",
+      "Travel issues"
+    ],
+    "hi": [
+      "वित्तीय हानि",
+      "पारिवारिक मतभेद",
+      "पेशेवर नुकसान",
+      "यात्रा संबंधी समस्याएं"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Overconfidence may lead to deception and losses.",
+      "Overspending can cause financial strain.",
+      "Travel scams are a possibility.",
+      "Institutional problems may affect charity-related connections."
+    ],
+    "hi": [
+      "अत्यधिक आत्मविश्वास से धोखा और हानि हो सकती है।",
+      "अत्यधिक खर्च वित्तीय दबाव ला सकता है।",
+      "यात्रा में धोखे की संभावना रहती है।",
+      "धर्मार्थ संस्थानों से जुड़ी समस्याएं हो सकती हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Monitor spending carefully to avoid losses.",
+        "Be cautious in travel plans to prevent scams.",
+        "Manage professional expansion prudently."
+      ],
+      "hi": [
+        "हानि से बचने के लिए खर्च पर ध्यान रखें।",
+        "यात्रा योजनाओं में धोखे से बचें।",
+        "पेशेवर विस्तार को समझदारी से संभालें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive financial decisions.",
+        "Stay alert to family tensions.",
+        "Review construction or expansion costs closely."
+      ],
+      "hi": [
+        "आकस्मिक वित्तीय निर्णय न लें।",
+        "पारिवारिक तनाव के प्रति सतर्क रहें।",
+        "निर्माण या विस्तार के खर्चों की बारीकी से समीक्षा करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on ambitions to prevent overreach.",
+        "Resolve family disputes with care.",
+        "Reassess professional goals to minimize losses."
+      ],
+      "hi": [
+        "अत्यधिक महत्वाकांक्षा से बचने के लिए विचार करें।",
+        "पारिवारिक मतभेदों को सावधानी से सुलझाएं।",
+        "हानि कम करने के लिए पेशेवर लक्ष्यों का पुनर्मूल्यांकन करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "ambition",
+      "overconfidence",
+      "loss",
+      "deception",
+      "overspending",
+      "family disputes",
+      "professional setbacks",
+      "travel scams",
+      "institutional problems",
+      "cost escalation"
+    ],
+    "hi": [
+      "महत्वाकांक्षा",
+      "अत्यधिक आत्मविश्वास",
+      "हानि",
+      "धोखा",
+      "अत्यधिक खर्च",
+      "पारिवारिक मतभेद",
+      "पेशेवर नुकसान",
+      "यात्रा धोखा",
+      "संस्थागत समस्याएं",
+      "खर्च वृद्धि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "volatile",
+      "cautionary"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "सावधानीपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "ambition vs risk",
+      "financial caution",
+      "family dynamics",
+      "professional fluctuations"
+    ],
+    "hi": [
+      "महत्वाकांक्षा बनाम जोखिम",
+      "वित्तीय सावधानी",
+      "पारिवारिक संबंध",
+      "पेशेवर उतार-चढ़ाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-opp-jup",
+      "core": "Ambition and overconfidence may cause losses, deception, and disputes, requiring careful management of finances, relationships, and professional growth.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "मंगल विपरीत बृहस्पति",
+      "core": "महत्वाकांक्षा और अत्यधिक आत्मविश्वास से हानि, धोखा और मतभेद हो सकते हैं, जिसके लिए वित्त, संबंध और पेशेवर विकास का सावधानीपूर्वक प्रबंधन आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Extreme ambition and overconfidence can lead to losses, deception, and family disputes, with risks of overspending and professional setbacks.",
+        "hi": "अत्यधिक महत्वाकांक्षा और अत्यधिक आत्मविश्वास से हानि, धोखा और पारिवारिक मतभेद हो सकते हैं, साथ ही अत्यधिक खर्च और पेशेवर नुकसान का खतरा रहता है।"
+      },
+      "career": {
+        "en": "Professional expansion may cause losses and fluctuations; construction costs tend to rise.",
+        "hi": "पेशेवर कार्यप्रसार से हानि और उतार-चढ़ाव हो सकते हैं; निर्माण कार्य में खर्च बढ़ता है।"
+      },
+      "relationships": {
+        "en": "Family disputes may arise; those connected to charities might face institutional problems.",
+        "hi": "पारिवारिक मतभेद उत्पन्न हो सकते हैं; धर्मार्थ संस्थानों से जुड़े व्यक्ति संस्था से समस्याएं झेल सकते हैं।"
+      },
+      "money": {
+        "en": "Overspending and financial losses are likely; travel scams are possible.",
+        "hi": "अत्यधिक खर्च और वित्तीय हानि संभव है; यात्रा में धोखे की स्थिति हो सकती है।"
+      },
+      "health_adj": {
+        "en": "Fluctuations and stress may cause damage; caution advised during periods of instability.",
+        "hi": "उतार-चढ़ाव और तनाव से हानि हो सकती है; अस्थिरता के समय सावधानी आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Mars opposition Jupiter",
+      "Mar OPP Jup",
+      "Mars-Opposition-Jupiter",
+      "Mars Opposition to Jupiter"
+    ]
+  }
+}

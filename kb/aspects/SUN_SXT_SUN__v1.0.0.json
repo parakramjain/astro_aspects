@@ -1,0 +1,242 @@
+{
+  "id": "SUN_SEX_SUN__v1.0.0",
+  "pair": [
+    "Sun",
+    "Sextile",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased awareness and creative power lead to improved self-expression and leadership abilities, fostering progress in personal and economic areas.",
+    "hi": "बढ़ी हुई चेतन्यता और क्रियात्मक शक्ति से अभिव्यक्ति और नेतृत्व क्षमता में सुधार होता है, जो व्यक्तिगत और आर्थिक प्रगति को बढ़ावा देता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Development of leadership skills and achievement of new agreements enhance professional growth.",
+      "hi": "नेतृत्व कौशल का विकास और नई संधियाँ प्राप्त करना पेशेवर विकास को बढ़ाता है।"
+    },
+    "relationships": {
+      "en": "Guidance and support towards progress in interactions with children or offspring.",
+      "hi": "बच्चों या संतानों के साथ व्यवहार में प्रगति की ओर मार्गदर्शन और सहायता।"
+    },
+    "money": {
+      "en": "Economic and financial progress occurs through exchange and welcomed opportunities.",
+      "hi": "विनिमय और अवसरों के स्वागत से आर्थिक और वित्तीय उन्नति होती है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन संकेतित नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative development",
+      "Leadership emergence",
+      "Financial progress",
+      "New agreements"
+    ],
+    "hi": [
+      "क्रियात्मक विकास",
+      "नेतृत्व का उदय",
+      "आर्थिक उन्नति",
+      "नई संधियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain openness to opportunities."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; अवसरों के प्रति खुले रहना आवश्यक है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Embrace new opportunities with enthusiasm.",
+        "Support and guide children or offspring towards progress.",
+        "Express creativity confidently."
+      ],
+      "hi": [
+        "नए अवसरों को उत्साह से स्वीकार करें।",
+        "बच्चों या संतानों को प्रगति की ओर मार्गदर्शन और सहायता करें।",
+        "सृजनात्मकता को आत्मविश्वास से व्यक्त करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on leadership roles and forming new agreements.",
+        "Engage actively in exchanges that promote economic progress."
+      ],
+      "hi": [
+        "नेतृत्व भूमिकाओं और नई संधियों पर ध्यान केंद्रित करें।",
+        "आर्थिक प्रगति को बढ़ावा देने वाले विनिमयों में सक्रिय रूप से भाग लें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue to build on developed creative and leadership skills.",
+        "Maintain openness to opportunities and exchanges."
+      ],
+      "hi": [
+        "विकसित हुई क्रियात्मक और नेतृत्व क्षमताओं को बनाए रखें।",
+        "अवसरों और विनिमयों के प्रति खुलेपन को बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "awareness",
+      "creative power",
+      "expression",
+      "leadership",
+      "progress",
+      "agreements",
+      "economic growth",
+      "exchange",
+      "opportunities"
+    ],
+    "hi": [
+      "चेतन्यता",
+      "क्रियात्मक शक्ति",
+      "अभिव्यक्ति",
+      "नेतृत्व",
+      "प्रगति",
+      "संधियाँ",
+      "आर्थिक विकास",
+      "विनिमय",
+      "अवसर"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "growth-oriented",
+      "supportive",
+      "expressive"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "विकासोन्मुख",
+      "सहायक",
+      "अभिव्यक्तिपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "leadership",
+      "progress",
+      "economic exchange"
+    ],
+    "hi": [
+      "सृजनात्मकता",
+      "नेतृत्व",
+      "प्रगति",
+      "आर्थिक विनिमय"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-sxt-sun",
+      "core": "This aspect enhances awareness, creativity, and leadership, promoting progress and positive exchanges.",
+      "tone": "Warm, encouraging, and optimistic."
+    },
+    "hi": {
+      "title": "सूर्य षट्कोण सूर्य",
+      "core": "यह योग चेतन्यता, सृजनात्मकता और नेतृत्व को बढ़ाता है, जो प्रगति और सकारात्मक विनिमय को प्रोत्साहित करता है।",
+      "tone": "स्नेहपूर्ण, प्रोत्साहित करने वाला, और आशावादी।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Awareness increases in life. The development of creative power occurs. The capacity for expression increases. The person displays themselves with excellence.",
+        "hi": "जीवन में चेतन्यता बढ़ती है। क्रियात्मक शक्ति का विकास होता है। अभिव्यक्ति की क्षमता बढ़ती है। स्वयं को श्रेष्ठता से प्रदर्शित करता है।"
+      },
+      "career": {
+        "en": "The person becomes capable of leadership. New agreements are achieved.",
+        "hi": "नेतृत्व करने में सक्षम होता है। नई संधियाँ प्राप्त होती हैं।"
+      },
+      "relationships": {
+        "en": "In interactions with children/offspring, they guide them towards progress and assist them.",
+        "hi": "बच्चों/संतान के साथ व्यवहार में उनको प्रगति की ओर अग्रसर करता है और उनकी सहायता करता है।"
+      },
+      "money": {
+        "en": "Economic/financial progress is made. Exchange takes place. Opportunities are gladly received.",
+        "hi": "आर्थिक/वित्तीय उन्नति होती है। विनिमय होता है। सहर्ष में अवसर प्राप्त होता है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन संकेतित नहीं हैं।"
+      }
+    },
+    "aliases": [
+      "Sun sextile Sun",
+      "Sun SEX Sun",
+      "Sun-Sextile-Sun",
+      "Sun Sextile to Sun"
+    ]
+  }
+}

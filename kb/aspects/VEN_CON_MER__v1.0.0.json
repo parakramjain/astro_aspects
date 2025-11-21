@@ -1,0 +1,239 @@
+{
+  "id": "VEN_CON_MER__v1.0.0",
+  "pair": [
+    "Venus",
+    "Conjunction",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This period reflects affectionate communication, interest in art and beauty, and social charm. The person respects others' feelings and appreciates aesthetics. Good time for business and promotions.",
+    "hi": "यह समय प्यार भरी बातचीत, कला और सुंदरता में रुचि और सामाजिक आकर्षण को दर्शाता है। व्यक्ति दूसरों की भावनाओं का सम्मान करता है और सौंदर्य की सराहना करता है। व्यापार और प्रचार के लिए अच्छा समय है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable period for business activities and promotions.",
+      "hi": "व्यापार गतिविधियों और प्रचार के लिए अनुकूल समय।"
+    },
+    "relationships": {
+      "en": "Affectionate communication and respect for others' feelings enhance social charm.",
+      "hi": "प्यार भरी बातचीत और दूसरों की भावनाओं का सम्मान सामाजिक आकर्षण बढ़ाता है।"
+    },
+    "money": {
+      "en": "Good time for financial growth through business and promotional efforts.",
+      "hi": "व्यापार और प्रचार के माध्यम से वित्तीय वृद्धि के लिए अच्छा समय।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business opportunities",
+      "Promotions",
+      "Social engagements"
+    ],
+    "hi": [
+      "व्यापार के अवसर",
+      "प्रचार",
+      "सामाजिक कार्यक्रम"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in affectionate and respectful communication.",
+        "Explore interests in art and beauty.",
+        "Leverage social charm for business and promotions."
+      ],
+      "hi": [
+        "प्यार भरी और सम्मानजनक बातचीत करें।",
+        "कला और सुंदरता में रुचि बढ़ाएं।",
+        "व्यापार और प्रचार के लिए सामाजिक आकर्षण का उपयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on clear and charming communication.",
+        "Appreciate aesthetics in surroundings and interactions.",
+        "Pursue business and promotional activities."
+      ],
+      "hi": [
+        "स्पष्ट और आकर्षक बातचीत पर ध्यान दें।",
+        "परिस्थितियों और बातचीत में सौंदर्य की सराहना करें।",
+        "व्यापार और प्रचार गतिविधियों को आगे बढ़ाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain respect for others' feelings.",
+        "Continue appreciating art and beauty.",
+        "Sustain social connections."
+      ],
+      "hi": [
+        "दूसरों की भावनाओं का सम्मान बनाए रखें।",
+        "कला और सुंदरता की सराहना जारी रखें।",
+        "सामाजिक संबंध बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "affectionate communication",
+      "art",
+      "beauty",
+      "social charm",
+      "respect",
+      "business",
+      "promotions"
+    ],
+    "hi": [
+      "प्यार भरी बातचीत",
+      "कला",
+      "सुंदरता",
+      "सामाजिक आकर्षण",
+      "सम्मान",
+      "व्यापार",
+      "प्रचार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "affectionate",
+      "respectful",
+      "aesthetic",
+      "social",
+      "opportune"
+    ],
+    "hi": [
+      "प्यार भरा",
+      "सम्मानजनक",
+      "सौंदर्यपूर्ण",
+      "सामाजिक",
+      "अनुकूल"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication",
+      "artistic interest",
+      "social interaction",
+      "business growth"
+    ],
+    "hi": [
+      "संचार",
+      "कलात्मक रुचि",
+      "सामाजिक संपर्क",
+      "व्यापार विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-con-mer",
+      "core": "A time of affectionate communication, appreciation of beauty, and social charm, favorable for business and promotions.",
+      "tone": "Warm, positive, and encouraging"
+    },
+    "hi": {
+      "title": "शुक्र ग्रह का बुध ग्रह के साथ संयोजन",
+      "core": "प्यार भरी बातचीत, सुंदरता की सराहना और सामाजिक आकर्षण का समय, जो व्यापार और प्रचार के लिए अनुकूल है।",
+      "tone": "स्नेहपूर्ण, सकारात्मक और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period reflects affectionate communication, interest in art and beauty, and social charm. The person respects others' feelings and appreciates aesthetics. Good time for business and promotions.",
+        "hi": "यह समय प्यार भरी बातचीत, कला और सुंदरता में रुचि और सामाजिक आकर्षण को दर्शाता है। व्यक्ति दूसरों की भावनाओं का सम्मान करता है और सौंदर्य की सराहना करता है। व्यापार और प्रचार के लिए अच्छा समय है।"
+      },
+      "career": {
+        "en": "Favorable period for business activities and promotions.",
+        "hi": "व्यापार गतिविधियों और प्रचार के लिए अनुकूल समय।"
+      },
+      "relationships": {
+        "en": "Affectionate communication and respect for others' feelings enhance social charm.",
+        "hi": "प्यार भरी बातचीत और दूसरों की भावनाओं का सम्मान सामाजिक आकर्षण बढ़ाता है।"
+      },
+      "money": {
+        "en": "Good time for financial growth through business and promotional efforts.",
+        "hi": "व्यापार और प्रचार के माध्यम से वित्तीय वृद्धि के लिए अच्छा समय।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं हैं।"
+      }
+    },
+    "aliases": [
+      "Venus conjunction Mercury",
+      "Ven CON Mer",
+      "Venus-Conjunction-Mercury",
+      "Venus Conjunction to Mercury"
+    ]
+  }
+}

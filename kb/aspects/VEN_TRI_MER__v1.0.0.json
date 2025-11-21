@@ -1,0 +1,237 @@
+{
+  "id": "VEN_TRI_MER__v1.0.0",
+  "pair": [
+    "Venus",
+    "Trine",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period marked by charm, pleasant communication, and ease in social interactions. Enhanced understanding of others' feelings promotes harmony in relationships and benefits artistic or beauty-related business ventures.",
+    "hi": "व्यक्तित्व में सुधार, मीठी वाणी और सामाजिक सौहार्द का समय। दूसरों की भावनाओं को बेहतर समझने से रिश्तों में सामंजस्य बढ़ता है और कला या सौंदर्य से जुड़े व्यापार को लाभ होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for businesses connected to art, beauty, or fashion due to improved social ease and charm.",
+      "hi": "कला, सौंदर्य या फैशन से जुड़े व्यापार के लिए अनुकूल समय क्योंकि सामाजिक सौहार्द और आकर्षण बढ़ता है।"
+    },
+    "relationships": {
+      "en": "Relationships become more harmonious as there is better emotional understanding and sweet communication.",
+      "hi": "रिश्तों में मिठास और सामंजस्य बढ़ता है क्योंकि भावनाओं को बेहतर समझा जाता है और वाणी मीठी होती है।"
+    },
+    "money": {
+      "en": "Opportunities for financial growth in artistic, beauty, or fashion-related ventures improve.",
+      "hi": "कला, सौंदर्य या फैशन से जुड़े व्यवसायों में आर्थिक प्रगति के अवसर बढ़ते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; social ease may contribute to emotional well-being.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं; सामाजिक सौहार्द भावनात्मक सुख-शांति में सहायक हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Social gatherings",
+      "Business deals in art or fashion",
+      "Improved personal relationships"
+    ],
+    "hi": [
+      "सामाजिक समारोह",
+      "कला या फैशन में व्यापारिक सौदे",
+      "व्यक्तिगत रिश्तों में सुधार"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balance in social interactions."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; सामाजिक संबंधों में संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in social activities to enhance charm and communication.",
+        "Pursue business opportunities in art, beauty, or fashion sectors."
+      ],
+      "hi": [
+        "सामाजिक गतिविधियों में भाग लें ताकि आकर्षण और संवाद कौशल बढ़े।",
+        "कला, सौंदर्य या फैशन क्षेत्र में व्यापार के अवसर तलाशें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on harmonious communication and understanding others' feelings.",
+        "Strengthen relationships through sweet and thoughtful speech."
+      ],
+      "hi": [
+        "सामंजस्यपूर्ण संवाद और दूसरों की भावनाओं को समझने पर ध्यान दें।",
+        "मीठी और विचारशील वाणी से रिश्ते मजबूत करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain the improved social ease and charm gained during this period.",
+        "Continue nurturing artistic or beauty-related business connections."
+      ],
+      "hi": [
+        "इस अवधि में प्राप्त सामाजिक सौहार्द और आकर्षण बनाए रखें।",
+        "कला या सौंदर्य से जुड़े व्यावसायिक संबंधों को पोषित करते रहें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "charm",
+      "sweet speech",
+      "social ease",
+      "empathy",
+      "art",
+      "beauty",
+      "fashion",
+      "harmonious relationships"
+    ],
+    "hi": [
+      "आकर्षण",
+      "मीठी वाणी",
+      "सामाजिक सौहार्द",
+      "भावनात्मक समझ",
+      "कला",
+      "सौंदर्य",
+      "फैशन",
+      "सामंजस्यपूर्ण रिश्ते"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "harmonious",
+      "empathetic",
+      "charming",
+      "social"
+    ],
+    "hi": [
+      "सामंजस्यपूर्ण",
+      "भावनात्मक",
+      "आकर्षक",
+      "सामाजिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication",
+      "relationships",
+      "artistic expression",
+      "business growth"
+    ],
+    "hi": [
+      "संवाद",
+      "रिश्ते",
+      "कलात्मक अभिव्यक्ति",
+      "व्यापारिक विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-tri-mer",
+      "core": "A time for charm, sweet speech, and social ease, enhancing understanding and harmony in relationships and benefiting art or beauty-related businesses.",
+      "tone": "Warm, encouraging, and harmonious"
+    },
+    "hi": {
+      "title": "शुक्र त्रिकोण बुध",
+      "core": "आकर्षण, मीठी वाणी और सामाजिक सौहार्द का समय, जो रिश्तों में समझ और सामंजस्य बढ़ाता है तथा कला या सौंदर्य से जुड़े व्यवसायों को लाभ पहुंचाता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और सामंजस्यपूर्ण"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A period marked by charm, pleasant communication, and ease in social interactions. Enhanced understanding of others' feelings promotes harmony in relationships and benefits artistic or beauty-related business ventures.",
+        "hi": "व्यक्तित्व में सुधार, मीठी वाणी और सामाजिक सौहार्द का समय। दूसरों की भावनाओं को बेहतर समझने से रिश्तों में सामंजस्य बढ़ता है और कला या सौंदर्य से जुड़े व्यापार को लाभ होता है।"
+      },
+      "career": {
+        "en": "Favorable for businesses connected to art, beauty, or fashion due to improved social ease and charm.",
+        "hi": "कला, सौंदर्य या फैशन से जुड़े व्यापार के लिए अनुकूल समय क्योंकि सामाजिक सौहार्द और आकर्षण बढ़ता है।"
+      },
+      "relationships": {
+        "en": "Relationships become more harmonious as there is better emotional understanding and sweet communication.",
+        "hi": "रिश्तों में मिठास और सामंजस्य बढ़ता है क्योंकि भावनाओं को बेहतर समझा जाता है और वाणी मीठी होती है।"
+      },
+      "money": {
+        "en": "Opportunities for financial growth in artistic, beauty, or fashion-related ventures improve.",
+        "hi": "कला, सौंदर्य या फैशन से जुड़े व्यवसायों में आर्थिक प्रगति के अवसर बढ़ते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; social ease may contribute to emotional well-being.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं; सामाजिक सौहार्द भावनात्मक सुख-शांति में सहायक हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Venus trine Mercury",
+      "Ven TRI Mer",
+      "Venus-Trine-Mercury",
+      "Venus Trine to Mercury"
+    ]
+  }
+}

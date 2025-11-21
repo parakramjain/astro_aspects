@@ -1,0 +1,245 @@
+{
+  "id": "VEN_TRI_PLU__v1.0.0",
+  "pair": [
+    "Venus",
+    "Trine",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Inspiration and creativity flourish, especially in arts and music, with a strong drive to innovate and transform resources. Emotional and passionate attractions deepen, enhancing personal connections.",
+    "hi": "प्रेरणा और सृजनात्मकता विशेष रूप से कला और संगीत में बढ़ती है, साथ ही संसाधनों को नया रूप देने और विकसित करने की प्रबल इच्छा होती है। भावनात्मक और गहरा आकर्षण बढ़ता है, जो व्यक्तिगत संबंधों को मजबूत करता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Strong interest in creating new techniques and innovations from existing materials, driven by self-motivation.",
+      "hi": "आत्म-प्रेरणा से पुरानी वस्तुओं से नई तकनीकें और नवाचार विकसित करने में गहरी रुचि।"
+    },
+    "relationships": {
+      "en": "Intense attraction and deep emotional connections develop, with potential for passionate love and emotional or sexual opportunities.",
+      "hi": "गहरा आकर्षण और भावनात्मक संबंध बनते हैं, जिसमें अत्यधिक भावुक प्रेम और भावनात्मक या यौनिक अवसर शामिल हो सकते हैं।"
+    },
+    "money": {
+      "en": "Effective utilization and expansion of financial resources; smooth progress in joint assets, inheritance, investments, insurance, and tax matters.",
+      "hi": "आर्थिक स्रोतों का प्रभावी उपयोग और विस्तार; संयुक्त संपत्ति, पैतृक संपत्ति, निवेश, बीमा और कर संबंधी कार्य सुचारू रूप से होते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; emotional intensity may influence well-being subtly.",
+      "hi": "विशेष स्वास्थ्य समायोजन नहीं दर्शाए गए; भावनात्मक तीव्रता से स्वास्थ्य पर सूक्ष्म प्रभाव हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative breakthroughs",
+      "Financial growth",
+      "Passionate relationships",
+      "Emotional or sexual opportunities"
+    ],
+    "hi": [
+      "सृजनात्मक प्रगति",
+      "आर्थिक विकास",
+      "भावुक संबंध",
+      "भावनात्मक या यौनिक अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional intensity may lead to complex relationship dynamics.",
+      "Financial matters generally proceed smoothly but require attention."
+    ],
+    "hi": [
+      "भावनात्मक तीव्रता से संबंधों में जटिलताएं हो सकती हैं।",
+      "आर्थिक मामलों में सामान्यतः सुगमता रहती है, पर ध्यान आवश्यक है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in artistic or musical creation.",
+        "Explore innovative uses of existing resources.",
+        "Manage joint financial matters carefully."
+      ],
+      "hi": [
+        "कलात्मक या संगीत सृजन में संलग्न हों।",
+        "मौजूदा संसाधनों के नवाचारी उपयोग की खोज करें।",
+        "संयुक्त आर्थिक मामलों को सावधानी से संभालें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on deepening emotional connections.",
+        "Utilize self-motivation to develop new techniques."
+      ],
+      "hi": [
+        "भावनात्मक संबंधों को गहरा करने पर ध्यान दें।",
+        "नई तकनीकें विकसित करने के लिए आत्म-प्रेरणा का उपयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain balance in passionate relationships.",
+        "Review financial arrangements for stability."
+      ],
+      "hi": [
+        "भावुक संबंधों में संतुलन बनाए रखें।",
+        "आर्थिक व्यवस्थाओं की स्थिरता के लिए समीक्षा करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "inspiration",
+      "creativity",
+      "innovation",
+      "financial growth",
+      "joint assets",
+      "passionate love",
+      "emotional attraction"
+    ],
+    "hi": [
+      "प्रेरणा",
+      "सृजनात्मकता",
+      "नवाचार",
+      "आर्थिक विकास",
+      "संयुक्त संपत्ति",
+      "भावुक प्रेम",
+      "भावनात्मक आकर्षण"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "motivated",
+      "intense",
+      "creative",
+      "resourceful",
+      "passionate"
+    ],
+    "hi": [
+      "प्रेरित",
+      "तीव्र",
+      "सृजनात्मक",
+      "संसाधनशील",
+      "भावुक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "arts and music",
+      "transformation",
+      "financial management",
+      "emotional depth",
+      "relationship intensity"
+    ],
+    "hi": [
+      "कला और संगीत",
+      "परिवर्तन",
+      "आर्थिक प्रबंधन",
+      "भावनात्मक गहराई",
+      "संबंधों की तीव्रता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-tri-plu",
+      "core": "Inspiration and creativity thrive, fostering innovation and deep emotional connections.",
+      "tone": "Warm, insightful, and encouraging"
+    },
+    "hi": {
+      "title": "शुक्र त्रिकोण प्लूटो",
+      "core": "प्रेरणा और सृजनात्मकता फलती-फूलती है, नवाचार और गहरे भावनात्मक संबंधों को बढ़ावा देती है।",
+      "tone": "सहानुभूतिपूर्ण, सूचनात्मक, और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Inspiration and creativity flourish, especially in arts and music, with a strong drive to innovate and transform resources. Emotional and passionate attractions deepen, enhancing personal connections.",
+        "hi": "प्रेरणा और सृजनात्मकता विशेष रूप से कला और संगीत में बढ़ती है, साथ ही संसाधनों को नया रूप देने और विकसित करने की प्रबल इच्छा होती है। भावनात्मक और गहरा आकर्षण बढ़ता है, जो व्यक्तिगत संबंधों को मजबूत करता है।"
+      },
+      "career": {
+        "en": "Strong interest in creating new techniques and innovations from existing materials, driven by self-motivation.",
+        "hi": "आत्म-प्रेरणा से पुरानी वस्तुओं से नई तकनीकें और नवाचार विकसित करने में गहरी रुचि।"
+      },
+      "relationships": {
+        "en": "Intense attraction and deep emotional connections develop, with potential for passionate love and emotional or sexual opportunities.",
+        "hi": "गहरा आकर्षण और भावनात्मक संबंध बनते हैं, जिसमें अत्यधिक भावुक प्रेम और भावनात्मक या यौनिक अवसर शामिल हो सकते हैं।"
+      },
+      "money": {
+        "en": "Effective utilization and expansion of financial resources; smooth progress in joint assets, inheritance, investments, insurance, and tax matters.",
+        "hi": "आर्थिक स्रोतों का प्रभावी उपयोग और विस्तार; संयुक्त संपत्ति, पैतृक संपत्ति, निवेश, बीमा और कर संबंधी कार्य सुचारू रूप से होते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; emotional intensity may influence well-being subtly.",
+        "hi": "विशेष स्वास्थ्य समायोजन नहीं दर्शाए गए; भावनात्मक तीव्रता से स्वास्थ्य पर सूक्ष्म प्रभाव हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Venus trine Pluto",
+      "Ven TRI Plu",
+      "Venus-Trine-Pluto",
+      "Venus Trine to Pluto"
+    ]
+  }
+}

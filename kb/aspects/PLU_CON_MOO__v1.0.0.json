@@ -1,0 +1,243 @@
+{
+  "id": "PLU_CON_MOO__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Conjunction",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates mental instability, anger, or despair, often triggered by economic and personal problems. It may worsen family disputes or home-related issues.",
+    "hi": "यह योग मानसिक अस्थिरता, क्रोध या निराशा दर्शाता है, जो आर्थिक और व्यक्तिगत समस्याओं से उत्पन्न हो सकता है। यह पारिवारिक झगड़े या घर की समस्याओं को बढ़ा सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Career may be affected by mental unrest and emotional challenges during this period.",
+      "hi": "इस अवधि में मानसिक अशांति और भावनात्मक चुनौतियों के कारण करियर प्रभावित हो सकता है।"
+    },
+    "relationships": {
+      "en": "Family disputes and home problems may intensify, causing strain in relationships.",
+      "hi": "पारिवारिक झगड़े और घर की समस्याएं बढ़ सकती हैं, जिससे संबंधों में तनाव हो सकता है।"
+    },
+    "money": {
+      "en": "Economic difficulties may contribute to mental unrest and emotional instability.",
+      "hi": "आर्थिक कठिनाइयां मानसिक अशांति और भावनात्मक अस्थिरता में योगदान कर सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Mental instability and emotional distress are prominent concerns during this time.",
+      "hi": "इस समय मानसिक अस्थिरता और भावनात्मक तनाव प्रमुख चिंता के विषय हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Mental unrest",
+      "Family disputes",
+      "Economic challenges"
+    ],
+    "hi": [
+      "मानसिक अशांति",
+      "पारिवारिक झगड़े",
+      "आर्थिक समस्याएं"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased risk of mental instability and despair.",
+      "Potential escalation of family conflicts.",
+      "Economic problems may worsen emotional state."
+    ],
+    "hi": [
+      "मानसिक अस्थिरता और निराशा का बढ़ा हुआ जोखिम।",
+      "पारिवारिक विवादों में वृद्धि की संभावना।",
+      "आर्थिक समस्याएं भावनात्मक स्थिति को बिगाड़ सकती हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of emotional triggers related to finances and family.",
+        "Seek calm and stability in mental health.",
+        "Avoid escalating disputes at home."
+      ],
+      "hi": [
+        "वित्त और परिवार से जुड़ी भावनात्मक प्रतिक्रियाओं पर ध्यान दें।",
+        "मानसिक स्वास्थ्य में शांति और स्थिरता बनाए रखें।",
+        "घर पर झगड़ों को बढ़ावा देने से बचें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Monitor emotional responses closely.",
+        "Address economic issues with care.",
+        "Practice patience in family interactions."
+      ],
+      "hi": [
+        "भावनात्मक प्रतिक्रियाओं पर सावधानी से नजर रखें।",
+        "आर्थिक समस्याओं को सावधानी से संभालें।",
+        "पारिवारिक बातचीत में धैर्य रखें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Mental stability may gradually improve.",
+        "Family tensions could ease over time.",
+        "Economic pressures might lessen."
+      ],
+      "hi": [
+        "मानसिक स्थिरता धीरे-धीरे बेहतर हो सकती है।",
+        "पारिवारिक तनाव समय के साथ कम हो सकता है।",
+        "आर्थिक दबाव कम हो सकते हैं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "mental instability",
+      "anger",
+      "despair",
+      "economic problems",
+      "family disputes",
+      "home problems",
+      "mental unrest"
+    ],
+    "hi": [
+      "मानसिक अस्थिरता",
+      "क्रोध",
+      "निराशा",
+      "आर्थिक समस्याएं",
+      "पारिवारिक झगड़े",
+      "घर की समस्याएं",
+      "मानसिक अशांति"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional challenge",
+      "mental unrest",
+      "family tension",
+      "economic stress"
+    ],
+    "hi": [
+      "भावनात्मक चुनौती",
+      "मानसिक अशांति",
+      "पारिवारिक तनाव",
+      "आर्थिक दबाव"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional instability",
+      "financial strain",
+      "family conflict"
+    ],
+    "hi": [
+      "भावनात्मक अस्थिरता",
+      "आर्थिक तनाव",
+      "पारिवारिक विवाद"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-con-moo",
+      "core": "Mental instability, anger, or despair influenced by economic and personal issues, potentially worsening family disputes.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "प्लूटो संयोजन चंद्र",
+      "core": "आर्थिक और व्यक्तिगत समस्याओं से प्रभावित मानसिक अस्थिरता, क्रोध या निराशा, जो पारिवारिक झगड़ों को बढ़ा सकती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Mental instability, anger, or despair caused by economic and personal problems, with potential to worsen family disputes.",
+        "hi": "आर्थिक और व्यक्तिगत समस्याओं के कारण मानसिक अस्थिरता, क्रोध या निराशा, जो पारिवारिक झगड़ों को बढ़ा सकती है।"
+      },
+      "career": {
+        "en": "Career may face challenges due to mental unrest and emotional difficulties during this period.",
+        "hi": "इस अवधि में मानसिक अशांति और भावनात्मक कठिनाइयों के कारण करियर में चुनौतियां आ सकती हैं।"
+      },
+      "relationships": {
+        "en": "Family disputes and home problems are likely to increase, causing strain in relationships.",
+        "hi": "पारिवारिक झगड़े और घर की समस्याएं बढ़ सकती हैं, जिससे संबंधों में तनाव हो सकता है।"
+      },
+      "money": {
+        "en": "Economic problems contribute to mental unrest and emotional instability.",
+        "hi": "आर्थिक समस्याएं मानसिक अशांति और भावनात्मक अस्थिरता में योगदान करती हैं।"
+      },
+      "health_adj": {
+        "en": "Mental instability and emotional distress are key health concerns in this aspect.",
+        "hi": "इस योग में मानसिक अस्थिरता और भावनात्मक तनाव मुख्य स्वास्थ्य चिंताएं हैं।"
+      }
+    },
+    "aliases": [
+      "Pluto conjunction Moon",
+      "Plu CON Moo",
+      "Pluto-Conjunction-Moon",
+      "Pluto Conjunction to Moon"
+    ]
+  }
+}

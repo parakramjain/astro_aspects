@@ -1,0 +1,243 @@
+{
+  "id": "MER_SQR_URA__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Square",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Thinking is unstable, leading to incomplete plans and hasty decisions that may cause loss. Disruptions affect electronics and technology. Health caution advised, especially regarding blood pressure.",
+    "hi": "सोच अस्थिर होती है, जिससे योजनाएं अधूरी रह जाती हैं और जल्दबाज़ी में लिए गए निर्णय नुकसान पहुँचा सकते हैं। बिजली, कंप्यूटर और तकनीक में रुकावटें होती हैं। स्वास्थ्य, विशेषकर ब्लड प्रेशर पर सावधानी आवश्यक है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work plans may be unstable and incomplete; sudden decisions can disrupt progress. Technical issues may interfere with productivity.",
+      "hi": "कार्य योजनाएं अस्थिर और अधूरी हो सकती हैं; अचानक निर्णय प्रगति में बाधा डाल सकते हैं। तकनीकी समस्याएं उत्पादकता को प्रभावित कर सकती हैं।"
+    },
+    "relationships": {
+      "en": "Communication may be erratic or rushed, potentially causing misunderstandings or conflicts.",
+      "hi": "संचार अस्थिर या जल्दबाज़ी में हो सकता है, जिससे गलतफहमियां या विवाद हो सकते हैं।"
+    },
+    "money": {
+      "en": "Financial decisions made hastily or without full information may lead to losses. Caution with technology-related investments is advised.",
+      "hi": "जल्दबाज़ी या अधूरी जानकारी से लिए गए वित्तीय निर्णय नुकसान पहुँचा सकते हैं। तकनीक से जुड़े निवेश में सावधानी बरतें।"
+    },
+    "health_adj": {
+      "en": "Health issues such as high blood pressure may arise; monitoring and caution are recommended.",
+      "hi": "स्वास्थ्य समस्याएं जैसे उच्च रक्तचाप हो सकती हैं; निगरानी और सावधानी आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Unstable planning",
+      "Hasty decisions",
+      "Technical disruptions",
+      "Health alerts"
+    ],
+    "hi": [
+      "अस्थिर योजनाएं",
+      "जल्दबाज़ी में निर्णय",
+      "तकनीकी रुकावटें",
+      "स्वास्थ्य चेतावनी"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Loss due to incomplete information",
+      "Disruptions in electronics and technology",
+      "Health risks related to blood pressure"
+    ],
+    "hi": [
+      "अधूरी जानकारी से नुकसान",
+      "बिजली और तकनीक में रुकावटें",
+      "रक्तचाप से जुड़ी स्वास्थ्य जोखिम"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Review plans carefully before execution",
+        "Avoid rushed decisions",
+        "Monitor health indicators regularly"
+      ],
+      "hi": [
+        "कार्यान्वयन से पहले योजनाओं की सावधानीपूर्वक समीक्षा करें",
+        "जल्दबाज़ी में निर्णय लेने से बचें",
+        "स्वास्थ्य संकेतकों की नियमित निगरानी करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise extra caution with technology and electronics",
+        "Double-check information before deciding",
+        "Be attentive to blood pressure and related health signs"
+      ],
+      "hi": [
+        "तकनीक और बिजली से जुड़ी चीजों में विशेष सावधानी बरतें",
+        "निर्णय लेने से पहले जानकारी को दोबारा जांचें",
+        "रक्तचाप और संबंधित स्वास्थ्य संकेतों पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Stability in thinking improves",
+        "Plans become more complete",
+        "Health concerns may lessen"
+      ],
+      "hi": [
+        "सोच में स्थिरता आती है",
+        "योजनाएं अधिक पूर्ण होती हैं",
+        "स्वास्थ्य संबंधी चिंताएं कम हो सकती हैं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "unstable thinking",
+      "hasty decisions",
+      "incomplete plans",
+      "technical disruptions",
+      "health caution",
+      "high blood pressure"
+    ],
+    "hi": [
+      "अस्थिर सोच",
+      "जल्दबाज़ी में निर्णय",
+      "अधूरी योजनाएं",
+      "तकनीकी रुकावटें",
+      "स्वास्थ्य सावधानी",
+      "उच्च रक्तचाप"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "unstable",
+      "rushed",
+      "disruptive",
+      "cautious"
+    ],
+    "hi": [
+      "अस्थिर",
+      "जल्दबाज़",
+      "विघटनकारी",
+      "सावधान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental instability",
+      "technology challenges",
+      "health vigilance"
+    ],
+    "hi": [
+      "मानसिक अस्थिरता",
+      "तकनीकी चुनौतियाँ",
+      "स्वास्थ्य सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-squ-ura",
+      "core": "Thinking is unstable with incomplete plans and hasty decisions, causing potential loss and technical disruptions. Health caution advised.",
+      "tone": "Warm, neutral, cautious"
+    },
+    "hi": {
+      "title": "बुध वर्ग ऊरानस",
+      "core": "सोच अस्थिर और योजनाएं अधूरी होती हैं, जिससे जल्दबाज़ी में निर्णय लिए जाते हैं जो नुकसान और तकनीकी रुकावटें ला सकते हैं। स्वास्थ्य पर सावधानी आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Thinking is unstable, leading to incomplete plans and hasty decisions that may cause loss. Disruptions affect electronics and technology. Health caution advised, especially regarding blood pressure.",
+        "hi": "सोच अस्थिर होती है, जिससे योजनाएं अधूरी रह जाती हैं और जल्दबाज़ी में लिए गए निर्णय नुकसान पहुँचा सकते हैं। बिजली, कंप्यूटर और तकनीक में रुकावटें होती हैं। स्वास्थ्य, विशेषकर ब्लड प्रेशर पर सावधानी आवश्यक है।"
+      },
+      "career": {
+        "en": "Work plans may be unstable and incomplete; sudden decisions can disrupt progress. Technical issues may interfere with productivity.",
+        "hi": "कार्य योजनाएं अस्थिर और अधूरी हो सकती हैं; अचानक निर्णय प्रगति में बाधा डाल सकते हैं। तकनीकी समस्याएं उत्पादकता को प्रभावित कर सकती हैं।"
+      },
+      "relationships": {
+        "en": "Communication may be erratic or rushed, potentially causing misunderstandings or conflicts.",
+        "hi": "संचार अस्थिर या जल्दबाज़ी में हो सकता है, जिससे गलतफहमियां या विवाद हो सकते हैं।"
+      },
+      "money": {
+        "en": "Financial decisions made hastily or without full information may lead to losses. Caution with technology-related investments is advised.",
+        "hi": "जल्दबाज़ी या अधूरी जानकारी से लिए गए वित्तीय निर्णय नुकसान पहुँचा सकते हैं। तकनीक से जुड़े निवेश में सावधानी बरतें।"
+      },
+      "health_adj": {
+        "en": "Health issues such as high blood pressure may arise; monitoring and caution are recommended.",
+        "hi": "स्वास्थ्य समस्याएं जैसे उच्च रक्तचाप हो सकती हैं; निगरानी और सावधानी आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Mercury square Uranus",
+      "Mer SQR Ura",
+      "Mercury-Square-Uranus",
+      "Mercury Square to Uranus"
+    ]
+  }
+}

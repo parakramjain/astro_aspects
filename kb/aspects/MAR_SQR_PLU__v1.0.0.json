@@ -1,0 +1,243 @@
+{
+  "id": "MAR_SQR_PLU__v1.0.0",
+  "pair": [
+    "Mars",
+    "Square",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Tendency toward aggressive actions, power struggles, quarrels, and increased anger. Potential for work-related jealousy and selfishness. Professional disputes likely over shared assets or business matters. Requires caution to avoid conflict and accidents.",
+    "hi": "उत्तेजित कार्य, शक्ति विवाद, झगड़ालू स्वभाव और अधिक गुस्सा करने की प्रवृत्ति। काम में ईर्ष्या और स्वार्थ जागृत होने की संभावना। संयुक्त संपत्ति या व्यवसाय में विवाद की संभावना। विवाद और दुर्घटना से बचाव के लिए सावधानी आवश्यक।"
+  },
+  "facets": {
+    "career": {
+      "en": "Disputes and conflicts over joint assets, businesses, and taxes are likely. Increased competitiveness and selfishness may affect professional relations.",
+      "hi": "संयुक्त संपत्ति, व्यवसाय और करों को लेकर विवाद और संघर्ष की संभावना। पेशेवर संबंधों में प्रतिस्पर्धा और स्वार्थ बढ़ सकता है।"
+    },
+    "relationships": {
+      "en": "Argumentative and quarrelsome nature may strain relationships. Increased anger tendencies can cause friction.",
+      "hi": "झगड़ालू स्वभाव संबंधों में तनाव ला सकता है। अधिक गुस्सा करने की आदत से मतभेद हो सकते हैं।"
+    },
+    "money": {
+      "en": "Potential disputes over shared financial matters such as joint assets and taxes.",
+      "hi": "संयुक्त वित्तीय मामलों जैसे संयुक्त संपत्ति और करों को लेकर विवाद की संभावना।"
+    },
+    "health_adj": {
+      "en": "Risk of accidents involving tools, weapons, or hazardous chemicals. Extreme caution and self-restraint advised.",
+      "hi": "उपकरण, हथियार या खतरनाक रसायनों से दुर्घटना का खतरा। अत्यधिक सावधानी और आत्मसंयम आवश्यक।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional disputes",
+      "Power struggles",
+      "Conflict situations"
+    ],
+    "hi": [
+      "पेशेवर विवाद",
+      "शक्ति संघर्ष",
+      "विवादपूर्ण परिस्थितियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid conflict-prone or war-risk areas.",
+      "High accident risk with tools, weapons, and dangerous chemicals.",
+      "Increased likelihood of quarrels and anger outbursts."
+    ],
+    "hi": [
+      "विवाद या युद्ध की संभावना वाले स्थानों से दूर रहें।",
+      "उपकरण, हथियार और खतरनाक रसायनों से दुर्घटना का अधिक खतरा।",
+      "झगड़े और गुस्से के प्रकोप की संभावना बढ़ती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise self-restraint in anger and disputes.",
+        "Be cautious in professional dealings involving joint assets.",
+        "Avoid risky environments prone to conflict or accidents."
+      ],
+      "hi": [
+        "गुस्से और विवाद में संयम रखें।",
+        "संयुक्त संपत्ति से जुड़े पेशेवर मामलों में सावधानी बरतें।",
+        "विवाद या दुर्घटना वाले जोखिम भरे स्थानों से बचें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Heightened vigilance to prevent quarrels and accidents.",
+        "Maintain calm and avoid aggressive confrontations."
+      ],
+      "hi": [
+        "झगड़ों और दुर्घटनाओं से बचाव के लिए सतर्कता बढ़ाएं।",
+        "शांत रहें और आक्रामक टकराव से बचें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual reduction in anger and quarrelsome tendencies.",
+        "Improved self-control and avoidance of conflict situations."
+      ],
+      "hi": [
+        "गुस्सा और झगड़ालू प्रवृत्ति में धीरे-धीरे कमी।",
+        "बेहतर आत्मसंयम और विवाद से बचाव।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "aggression",
+      "power struggles",
+      "anger",
+      "quarrels",
+      "jealousy",
+      "selfishness",
+      "disputes",
+      "caution",
+      "accident risk"
+    ],
+    "hi": [
+      "उत्तेजना",
+      "शक्ति विवाद",
+      "गुस्सा",
+      "झगड़ा",
+      "ईर्ष्या",
+      "स्वार्थ",
+      "विवाद",
+      "सावधानी",
+      "दुर्घटना का खतरा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "volatile",
+      "conflict-prone",
+      "caution-required"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "विवादास्पद",
+      "सावधानी आवश्यक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "power dynamics",
+      "emotional intensity",
+      "risk management"
+    ],
+    "hi": [
+      "शक्ति गतिशीलता",
+      "भावनात्मक तीव्रता",
+      "जोखिम प्रबंधन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-squ-plu",
+      "core": "Aggressive tendencies and power struggles manifest, requiring caution in conflicts and accidents.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "मंगल वर्ग प्लूटो",
+      "core": "उत्तेजित प्रवृत्तियाँ और शक्ति संघर्ष प्रकट होते हैं, विवाद और दुर्घटना में सावधानी आवश्यक है।",
+      "tone": "तटस्थ, सावधान, और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Aggressive actions, power struggles, quarrels, increased anger, work jealousy, selfishness, professional disputes, caution advised.",
+        "hi": "उत्तेजित कार्य, शक्ति विवाद, झगड़ा, अधिक गुस्सा, काम की ईर्ष्या, स्वार्थ, पेशेवर विवाद, सावधानी आवश्यक।"
+      },
+      "career": {
+        "en": "Disputes over joint assets, businesses, and taxes; increased competitiveness and selfishness.",
+        "hi": "संयुक्त संपत्ति, व्यवसाय और करों को लेकर विवाद; प्रतिस्पर्धा और स्वार्थ बढ़ना।"
+      },
+      "relationships": {
+        "en": "Argumentative and quarrelsome nature causing friction and increased anger.",
+        "hi": "झगड़ालू स्वभाव से मतभेद और अधिक गुस्सा।"
+      },
+      "money": {
+        "en": "Potential disputes over shared financial matters like joint assets and taxes.",
+        "hi": "संयुक्त वित्तीय मामलों जैसे संपत्ति और करों पर विवाद।"
+      },
+      "health_adj": {
+        "en": "Accident risk with tools, weapons, and hazardous chemicals; need for extreme caution and self-restraint.",
+        "hi": "उपकरण, हथियार, खतरनाक रसायनों से दुर्घटना का खतरा; अत्यधिक सावधानी और संयम आवश्यक।"
+      }
+    },
+    "aliases": [
+      "Mars square Pluto",
+      "Mar SQR Plu",
+      "Mars-Square-Pluto",
+      "Mars Square to Pluto"
+    ]
+  }
+}

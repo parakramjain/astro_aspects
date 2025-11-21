@@ -1,0 +1,253 @@
+{
+  "id": "SUN_OPP_VEN__v1.0.0",
+  "pair": [
+    "Sun",
+    "Opposition",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Social disagreements or excessive agreement can cause conversational issues, along with possible problems or hesitation involving children. Interactions such as meetings, phone conversations, or dealing with changes may bring discomfort or obstacles.",
+    "hi": "सामाजिक मुद्दों में बहस या अत्यधिक सहमति से वार्तालाप में समस्या हो सकती है, साथ ही बच्चों के साथ समस्या या झिझक भी अनुभव हो सकती है। किसी से मुलाकात, फोन पर वार्तालाप या बदलावों से कष्ट या रोकावट हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Communication challenges or obstacles may arise during meetings or phone calls, potentially affecting work interactions.",
+      "hi": "मुलाकात या फोन पर वार्तालाप में बाधाएं या संचार संबंधी समस्याएं हो सकती हैं, जो कार्य संबंधी बातचीत को प्रभावित कर सकती हैं।"
+    },
+    "relationships": {
+      "en": "Arguments or excessive agreement in social matters can create tension; issues or hesitation may occur with children.",
+      "hi": "सामाजिक मामलों में बहस या अत्यधिक सहमति से तनाव उत्पन्न हो सकता है; बच्चों के साथ समस्या या झिझक हो सकती है।"
+    },
+    "money": {
+      "en": "Discomfort or obstacles may be experienced when dealing with changes, possibly affecting financial decisions or negotiations.",
+      "hi": "परिवर्तन से जुड़ी असुविधा या रोकावट हो सकती है, जो वित्तीय निर्णयों या बातचीत को प्रभावित कर सकती है।"
+    },
+    "health_adj": {
+      "en": "Emotional stress from social or family tensions may cause hesitation or discomfort.",
+      "hi": "सामाजिक या पारिवारिक तनाव से भावनात्मक दबाव के कारण झिझक या असुविधा हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Social conflicts",
+      "Family or children-related issues",
+      "Communication challenges",
+      "Adjustments to change"
+    ],
+    "hi": [
+      "सामाजिक विवाद",
+      "परिवार या बच्चों से संबंधित समस्याएं",
+      "संचार में कठिनाइयां",
+      "परिवर्तन के अनुकूलन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential for arguments in social conversations",
+      "Hesitation or excitement causing discomfort with children",
+      "Obstacles during meetings or phone interactions",
+      "Discomfort when facing changes"
+    ],
+    "hi": [
+      "सामाजिक वार्तालाप में बहस की संभावना",
+      "बच्चों के साथ झिझक या उत्साह से असुविधा",
+      "मुलाकात या फोन वार्तालाप में बाधाएं",
+      "परिवर्तन का सामना करते समय असुविधा"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of communication tone to avoid arguments",
+        "Exercise patience with children and family",
+        "Prepare for possible obstacles in meetings or calls",
+        "Stay adaptable to changes"
+      ],
+      "hi": [
+        "बहस से बचने के लिए संचार के स्वर का ध्यान रखें",
+        "बच्चों और परिवार के प्रति धैर्य रखें",
+        "मुलाकात या कॉल में संभावित बाधाओं के लिए तैयार रहें",
+        "परिवर्तनों के प्रति लचीला बने रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Expect heightened sensitivity in social conversations",
+        "Notice possible hesitation or excitement with children",
+        "Anticipate discomfort during interactions or changes"
+      ],
+      "hi": [
+        "सामाजिक वार्तालाप में संवेदनशीलता बढ़ने की संभावना",
+        "बच्चों के साथ झिझक या उत्साह का अनुभव",
+        "वार्तालाप या परिवर्तनों के दौरान असुविधा की उम्मीद"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Communication issues may lessen",
+        "Tensions with children may reduce",
+        "Obstacles in meetings or calls may ease"
+      ],
+      "hi": [
+        "संचार समस्याएं कम हो सकती हैं",
+        "बच्चों के साथ तनाव कम हो सकता है",
+        "मुलाकात या कॉल में बाधाएं कम हो सकती हैं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "argument",
+      "excessive agreement",
+      "social issues",
+      "conversation problems",
+      "children hesitation",
+      "meeting discomfort",
+      "phone obstacles",
+      "change discomfort"
+    ],
+    "hi": [
+      "बहस",
+      "अत्यधिक सहमति",
+      "सामाजिक समस्याएं",
+      "वार्तालाप समस्या",
+      "बच्चों में झिझक",
+      "मुलाकात में असुविधा",
+      "फोन में बाधा",
+      "परिवर्तन में असुविधा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "sensitive",
+      "obstructive",
+      "emotional"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "संवेदनशील",
+      "बाधात्मक",
+      "भावनात्मक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication",
+      "social dynamics",
+      "family relations",
+      "adaptation"
+    ],
+    "hi": [
+      "संचार",
+      "सामाजिक गतिशीलता",
+      "परिवारिक संबंध",
+      "अनुकूलन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-opp-ven",
+      "core": "This aspect highlights potential conflicts or excessive agreement in social interactions, possible issues with children, and discomfort during meetings or changes.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "सूर्य का शुक्र के समविरोध",
+      "core": "यह योग सामाजिक बातचीत में विवाद या अत्यधिक सहमति, बच्चों से जुड़ी समस्याएं, और मुलाकात या परिवर्तनों में असुविधा को दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Social disagreements or excessive agreement can cause conversational issues, along with possible problems or hesitation involving children. Interactions such as meetings, phone conversations, or dealing with changes may bring discomfort or obstacles.",
+        "hi": "सामाजिक मुद्दों में बहस या अत्यधिक सहमति से वार्तालाप में समस्या हो सकती है, साथ ही बच्चों के साथ समस्या या झिझक भी अनुभव हो सकती है। किसी से मुलाकात, फोन पर वार्तालाप या बदलावों से कष्ट या रोकावट हो सकती है।"
+      },
+      "career": {
+        "en": "Communication challenges or obstacles may arise during meetings or phone calls, potentially affecting work interactions.",
+        "hi": "मुलाकात या फोन पर वार्तालाप में बाधाएं या संचार संबंधी समस्याएं हो सकती हैं, जो कार्य संबंधी बातचीत को प्रभावित कर सकती हैं।"
+      },
+      "relationships": {
+        "en": "Arguments or excessive agreement in social matters can create tension; issues or hesitation may occur with children.",
+        "hi": "सामाजिक मामलों में बहस या अत्यधिक सहमति से तनाव उत्पन्न हो सकता है; बच्चों के साथ समस्या या झिझक हो सकती है।"
+      },
+      "money": {
+        "en": "Discomfort or obstacles may be experienced when dealing with changes, possibly affecting financial decisions or negotiations.",
+        "hi": "परिवर्तन से जुड़ी असुविधा या रोकावट हो सकती है, जो वित्तीय निर्णयों या बातचीत को प्रभावित कर सकती है।"
+      },
+      "health_adj": {
+        "en": "Emotional stress from social or family tensions may cause hesitation or discomfort.",
+        "hi": "सामाजिक या पारिवारिक तनाव से भावनात्मक दबाव के कारण झिझक या असुविधा हो सकती है।"
+      }
+    },
+    "aliases": [
+      "Sun opposition Venus",
+      "Sun OPP Ven",
+      "Sun-Opposition-Venus",
+      "Sun Opposition to Venus"
+    ]
+  }
+}

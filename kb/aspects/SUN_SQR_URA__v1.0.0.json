@@ -1,0 +1,233 @@
+{
+  "id": "SUN_SQR_URA__v1.0.0",
+  "pair": [
+    "Sun",
+    "Square",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The individual strongly desires autonomy but may face serious problems if responsibilities are neglected. Conflicts arise when seeking personal freedom while expecting others to fulfill duties, potentially causing harm to relationships.",
+    "hi": "व्यक्ति किसी भी स्थिति में स्वायत्तता चाहता है, लेकिन जिम्मेदारियों की अनदेखी से गंभीर समस्याएं हो सकती हैं। जब स्वयं स्वतंत्रता चाहते हैं और दूसरों से कर्तव्य पालन की उम्मीद करते हैं, तो संघर्ष उत्पन्न हो सकते हैं, जिससे संबंधों को चोट पहुंचती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Desire for independence may conflict with workplace responsibilities, risking professional tensions if duties are ignored.",
+      "hi": "स्वतंत्रता की इच्छा कार्यस्थल की जिम्मेदारियों से टकरा सकती है, और कर्तव्यों की अनदेखी से पेशेवर तनाव हो सकता है।"
+    },
+    "relationships": {
+      "en": "Expecting others to maintain duties while seeking personal freedom can create conflicts and hurt feelings, leading to a tense atmosphere.",
+      "hi": "स्वयं की स्वतंत्रता चाहते हुए दूसरों से कर्तव्य पालन की उम्मीद करने से संघर्ष और भावनात्मक चोट हो सकती है, जिससे वातावरण तनावपूर्ण बनता है।"
+    },
+    "money": {
+      "en": "Neglecting financial responsibilities in pursuit of autonomy may cause serious consequences and problems.",
+      "hi": "स्वायत्तता की चाह में वित्तीय जिम्मेदारियों की अनदेखी से गंभीर परिणाम और समस्याएं हो सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Tense interactions and conflicts arising from neglecting duties may affect emotional well-being.",
+      "hi": "कर्तव्यों की अनदेखी से उत्पन्न तनावपूर्ण व्यवहार और संघर्ष भावनात्मक स्वास्थ्य को प्रभावित कर सकते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts over responsibilities",
+      "Challenges balancing freedom and duties"
+    ],
+    "hi": [
+      "जिम्मेदारियों को लेकर संघर्ष",
+      "स्वतंत्रता और कर्तव्यों के बीच संतुलन की चुनौतियां"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Neglecting responsibilities can lead to serious problems",
+      "Conflicts may arise from expecting others to fulfill duties",
+      "Behavior may unintentionally hurt others"
+    ],
+    "hi": [
+      "जिम्मेदारियों की अनदेखी गंभीर समस्याएं पैदा कर सकती है",
+      "दूसरों से कर्तव्य पालन की उम्मीद से संघर्ष हो सकते हैं",
+      "व्यवहार से अनजाने में दूसरों को चोट पहुंच सकती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Strive for autonomy while consciously maintaining responsibilities",
+        "Communicate clearly about expectations with others to reduce conflicts"
+      ],
+      "hi": [
+        "स्वायत्तता के साथ जिम्मेदारियों को भी बनाए रखें",
+        "संघर्ष कम करने के लिए दूसरों से अपेक्षाओं को स्पष्ट रूप से व्यक्त करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be mindful of balancing freedom and duties to avoid tension",
+        "Avoid neglecting responsibilities during this period"
+      ],
+      "hi": [
+        "तनाव से बचने के लिए स्वतंत्रता और कर्तव्यों का संतुलन बनाए रखें",
+        "इस अवधि में जिम्मेदारियों की अनदेखी न करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past conflicts caused by neglecting duties",
+        "Work on healing strained relationships"
+      ],
+      "hi": [
+        "कर्तव्यों की अनदेखी से हुए पिछले संघर्षों पर विचार करें",
+        "तनावपूर्ण संबंधों को सुधारने का प्रयास करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "autonomy",
+      "responsibility",
+      "conflict",
+      "freedom",
+      "neglect",
+      "tension",
+      "hurt feelings"
+    ],
+    "hi": [
+      "स्वायत्तता",
+      "जिम्मेदारी",
+      "संघर्ष",
+      "स्वतंत्रता",
+      "अनदेखी",
+      "तनाव",
+      "चोट"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "dynamic",
+      "tense"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "गतिशील",
+      "तनावपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "freedom vs duty",
+      "personal autonomy",
+      "relationship strain"
+    ],
+    "hi": [
+      "स्वतंत्रता बनाम कर्तव्य",
+      "व्यक्तिगत स्वायत्तता",
+      "संबंधों में तनाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-squ-ura",
+      "core": "A strong desire for autonomy may lead to conflicts if responsibilities are neglected, causing tension in relationships.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "सूर्य वर्ग यूरेनस",
+      "core": "स्वायत्तता की तीव्र इच्छा जिम्मेदारियों की अनदेखी से संघर्ष और संबंधों में तनाव पैदा कर सकती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The individual desires autonomy but neglecting responsibilities can cause serious problems and conflicts, hurting relationships.",
+        "hi": "व्यक्ति स्वायत्तता चाहता है लेकिन जिम्मेदारियों की अनदेखी से गंभीर समस्याएं और संघर्ष हो सकते हैं, जो संबंधों को चोट पहुंचाते हैं।"
+      },
+      "career": {
+        "en": "Desire for independence may clash with workplace duties, risking professional tension if responsibilities are ignored.",
+        "hi": "स्वतंत्रता की इच्छा कार्यस्थल की जिम्मेदारियों से टकरा सकती है, और कर्तव्यों की अनदेखी से पेशेवर तनाव हो सकता है।"
+      },
+      "relationships": {
+        "en": "Seeking personal freedom while expecting others to maintain duties can create conflicts and hurt feelings.",
+        "hi": "स्वयं की स्वतंत्रता चाहते हुए दूसरों से कर्तव्य पालन की उम्मीद करने से संघर्ष और भावनात्मक चोट हो सकती है।"
+      },
+      "money": {
+        "en": "Neglecting financial responsibilities in pursuit of autonomy may lead to serious consequences.",
+        "hi": "स्वायत्तता की चाह में वित्तीय जिम्मेदारियों की अनदेखी से गंभीर परिणाम हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Tension and conflicts from neglecting duties may affect emotional well-being.",
+        "hi": "कर्तव्यों की अनदेखी से उत्पन्न तनाव और संघर्ष भावनात्मक स्वास्थ्य को प्रभावित कर सकते हैं।"
+      }
+    },
+    "aliases": [
+      "Sun square Uranus",
+      "Sun SQR Ura",
+      "Sun-Square-Uranus",
+      "Sun Square to Uranus"
+    ]
+  }
+}

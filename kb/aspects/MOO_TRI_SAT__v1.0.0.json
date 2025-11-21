@@ -1,0 +1,249 @@
+{
+  "id": "MOO_TRI_SAT__v1.0.0",
+  "pair": [
+    "Moon",
+    "Trine",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A favorable period for disciplined effort, responsibility, and calm, serious work attitude. Support from elder women is beneficial. Opportunities arise to settle debts and improve financial balance, leading to success in family and business.",
+    "hi": "यह एक अनुकूल समय है जब अनुशासन, ज़िम्मेदारी और गंभीर, शांतिपूर्ण कार्य दृष्टिकोण होता है। बुजुर्ग महिलाओं से सहयोग लाभकारी होता है। कर्ज चुकाने और वित्तीय संतुलन सुधारने के अवसर मिलते हैं, जिससे परिवार और व्यापार में सफलता मिलती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "A good time for focused, responsible work with a calm and serious approach.",
+      "hi": "ध्यान केंद्रित, ज़िम्मेदार काम के लिए अच्छा समय है जिसमें शांत और गंभीर रवैया हो।"
+    },
+    "relationships": {
+      "en": "Positive influence from elder or mother-like women; supportive guidance is available.",
+      "hi": "बुजुर्ग या माता समान महिलाओं से सकारात्मक प्रभाव; सहयोगात्मक सलाह मिलती है।"
+    },
+    "money": {
+      "en": "Chances to repay debts and improve financial conditions, bringing balance and success.",
+      "hi": "कर्ज चुकाने और वित्तीय स्थिति सुधारने के मौके मिलते हैं, जिससे संतुलन और सफलता आती है।"
+    },
+    "health_adj": {
+      "en": "No specific health concerns noted; maintaining discipline may support well-being.",
+      "hi": "विशेष स्वास्थ्य संबंधी चेतावनी नहीं; अनुशासन बनाए रखने से स्वास्थ्य अच्छा रह सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Debt repayment",
+      "Financial improvement",
+      "Receiving guidance from elder women"
+    ],
+    "hi": [
+      "कर्ज चुकाना",
+      "वित्तीय सुधार",
+      "बुजुर्ग महिलाओं से सलाह लेना"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Work diligently with responsibility and discipline",
+        "Seek advice from elder or mother-like women",
+        "Focus on balancing family and business matters"
+      ],
+      "hi": [
+        "मेहनत और ज़िम्मेदारी के साथ काम करें",
+        "बुजुर्ग या माता जैसी महिलाओं से सलाह लें",
+        "परिवार और व्यापार के मामलों में संतुलन बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage calmly and seriously in work",
+        "Take opportunities to repay debts",
+        "Accept guidance from elder women"
+      ],
+      "hi": [
+        "काम में शांत और गंभीर रहें",
+        "कर्ज चुकाने के अवसर लें",
+        "बुजुर्ग महिलाओं से सलाह स्वीकार करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue disciplined efforts to maintain balance",
+        "Sustain calm and responsible behavior"
+      ],
+      "hi": [
+        "संतुलन बनाए रखने के लिए अनुशासित प्रयास जारी रखें",
+        "शांत और ज़िम्मेदार व्यवहार बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "hard work",
+      "responsibility",
+      "discipline",
+      "calmness",
+      "seriousness",
+      "guidance",
+      "elder women",
+      "debt repayment",
+      "financial improvement",
+      "balance",
+      "success",
+      "family",
+      "business"
+    ],
+    "hi": [
+      "मेहनत",
+      "ज़िम्मेदारी",
+      "अनुशासन",
+      "शांति",
+      "गंभीरता",
+      "सलाह",
+      "बुजुर्ग महिलाएं",
+      "कर्ज चुकाना",
+      "वित्तीय सुधार",
+      "संतुलन",
+      "सफलता",
+      "परिवार",
+      "व्यापार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "disciplined",
+      "responsible",
+      "calm",
+      "serious",
+      "supportive"
+    ],
+    "hi": [
+      "अनुशासित",
+      "ज़िम्मेदार",
+      "शांत",
+      "गंभीर",
+      "सहायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "work ethic",
+      "financial stability",
+      "family harmony",
+      "mentorship"
+    ],
+    "hi": [
+      "कार्य नीति",
+      "वित्तीय स्थिरता",
+      "परिवारिक सद्भाव",
+      "मार्गदर्शन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-tri-sat",
+      "core": "A time for disciplined, responsible work and calm seriousness, with beneficial guidance and financial balance.",
+      "tone": "Warm, neutral, encouraging responsible and steady effort."
+    },
+    "hi": {
+      "title": "चंद्र त्रिकोण शनि",
+      "core": "अनुशासित, ज़िम्मेदार काम और शांत गंभीरता का समय, जिसमें लाभकारी सलाह और वित्तीय संतुलन होता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, ज़िम्मेदार और स्थिर प्रयास के लिए प्रोत्साहित करने वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A favorable period for disciplined effort, responsibility, and calm, serious work attitude. Support from elder women is beneficial. Opportunities arise to settle debts and improve financial balance, leading to success in family and business.",
+        "hi": "यह एक अनुकूल समय है जब अनुशासन, ज़िम्मेदारी और गंभीर, शांतिपूर्ण कार्य दृष्टिकोण होता है। बुजुर्ग महिलाओं से सहयोग लाभकारी होता है। कर्ज चुकाने और वित्तीय संतुलन सुधारने के अवसर मिलते हैं, जिससे परिवार और व्यापार में सफलता मिलती है।"
+      },
+      "career": {
+        "en": "A good time for focused, responsible work with a calm and serious approach.",
+        "hi": "ध्यान केंद्रित, ज़िम्मेदार काम के लिए अच्छा समय है जिसमें शांत और गंभीर रवैया हो।"
+      },
+      "relationships": {
+        "en": "Positive influence from elder or mother-like women; supportive guidance is available.",
+        "hi": "बुजुर्ग या माता समान महिलाओं से सकारात्मक प्रभाव; सहयोगात्मक सलाह मिलती है।"
+      },
+      "money": {
+        "en": "Chances to repay debts and improve financial conditions, bringing balance and success.",
+        "hi": "कर्ज चुकाने और वित्तीय स्थिति सुधारने के मौके मिलते हैं, जिससे संतुलन और सफलता आती है।"
+      },
+      "health_adj": {
+        "en": "No specific health concerns noted; maintaining discipline may support well-being.",
+        "hi": "विशेष स्वास्थ्य संबंधी चेतावनी नहीं; अनुशासन बनाए रखने से स्वास्थ्य अच्छा रह सकता है।"
+      }
+    },
+    "aliases": [
+      "Moon trine Saturn",
+      "Moo TRI Sat",
+      "Moon-Trine-Saturn",
+      "Moon Trine to Saturn"
+    ]
+  }
+}

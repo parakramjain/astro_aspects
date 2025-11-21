@@ -1,0 +1,253 @@
+{
+  "id": "PLU_OPP_MAR__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Opposition",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Painful conflicts and power struggles dominate, with tendencies to control or be controlled mentally. Avoid secret dangerous actions to prevent harm.",
+    "hi": "दुख देने वाले विवाद और अधिकारों के झगड़े प्रमुख हैं, मानसिक नियंत्रण की प्रवृत्ति या नियंत्रण में आने की संभावना रहती है। हानि से बचने के लिए गुप्त खतरनाक कार्यों से बचें।"
+  },
+  "facets": {
+    "career": {
+      "en": "Potential for conflicts and power struggles at work; risk of deception in agitated actions.",
+      "hi": "कार्यस्थल पर विवाद और अधिकार संघर्ष की संभावना; उत्तेजित कार्यों में धोखे का खतरा।"
+    },
+    "relationships": {
+      "en": "Jealousy and conflicts may arise in emotional and work relationships; mental dominance issues possible.",
+      "hi": "भावनात्मक और काम संबंधों में ईर्ष्या और विवाद हो सकते हैं; मानसिक नियंत्रण की समस्याएं संभव हैं।"
+    },
+    "money": {
+      "en": "Avoid secret or risky financial dealings to prevent losses.",
+      "hi": "हानि से बचने के लिए गुप्त या जोखिम भरे वित्तीय कार्यों से बचें।"
+    },
+    "health_adj": {
+      "en": "Risk of accidental injuries and life-threatening situations; caution advised.",
+      "hi": "दुर्घटना में चोट और जीवन संकट का खतरा; सावधानी आवश्यक।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Social conflicts",
+      "Power struggles",
+      "Accidental injuries",
+      "Jealousy in relationships",
+      "Deception during agitation"
+    ],
+    "hi": [
+      "सामाजिक झगड़े",
+      "अधिकारों के झगड़े",
+      "दुर्घटना में चोट",
+      "संबंधों में ईर्ष्या",
+      "उत्तेजना में धोखा"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid secret dangerous activities to prevent losses.",
+      "Risk of social conflicts and war-like situations.",
+      "Possibility of life-threatening or accidental injuries.",
+      "Jealousy and deception in emotional and work relations."
+    ],
+    "hi": [
+      "हानि से बचने के लिए गुप्त खतरनाक कार्यों से बचें।",
+      "सामाजिक झगड़े और युद्ध जैसी स्थितियों का खतरा।",
+      "जीवन संकट या दुर्घटना में चोट की संभावना।",
+      "भावनात्मक व काम संबंधों में ईर्ष्या और धोखे की संभावना।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be aware of power dynamics in relationships and work.",
+        "Stay clear of secret or risky activities.",
+        "Monitor emotional responses to avoid conflicts."
+      ],
+      "hi": [
+        "संबंधों और कार्य में अधिकार संघर्ष को समझें।",
+        "गुप्त या जोखिम भरे कार्यों से बचें।",
+        "विवाद से बचने के लिए भावनात्मक प्रतिक्रियाओं पर नियंत्रण रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise extra caution to prevent accidental injuries.",
+        "Avoid engaging in controlling behaviors.",
+        "Stay vigilant against deception in agitated situations."
+      ],
+      "hi": [
+        "दुर्घटना से बचने के लिए अतिरिक्त सावधानी बरतें।",
+        "नियंत्रण करने वाले व्यवहार से बचें।",
+        "उत्तेजित परिस्थितियों में धोखे से सावधान रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Conflicts and tensions may begin to ease.",
+        "Reduced risk of secret dangerous activities.",
+        "Improved mental clarity and control."
+      ],
+      "hi": [
+        "विवाद और तनाव कम होने लगते हैं।",
+        "गुप्त खतरनाक कार्यों का खतरा कम होता है।",
+        "मानसिक स्पष्टता और नियंत्रण बेहतर होता है।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "conflict",
+      "power struggle",
+      "mental control",
+      "jealousy",
+      "deception",
+      "danger",
+      "accident"
+    ],
+    "hi": [
+      "विवाद",
+      "अधिकार संघर्ष",
+      "मानसिक नियंत्रण",
+      "ईर्ष्या",
+      "धोखा",
+      "खतरा",
+      "दुर्घटना"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "painful",
+      "conflictual",
+      "risky",
+      "agitated",
+      "controlling"
+    ],
+    "hi": [
+      "दुखद",
+      "विवादपूर्ण",
+      "जोखिम भरा",
+      "उत्तेजित",
+      "नियंत्रणकारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "power dynamics",
+      "emotional tension",
+      "social conflict",
+      "risk avoidance"
+    ],
+    "hi": [
+      "अधिकार गतिशीलता",
+      "भावनात्मक तनाव",
+      "सामाजिक विवाद",
+      "जोखिम से बचाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-opp-mar",
+      "core": "Painful conflicts and power struggles dominate, with tendencies to control or be controlled mentally. Avoid secret dangerous actions to prevent harm.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "प्लूटो विपक्ष मंगल",
+      "core": "दुख देने वाले विवाद और अधिकारों के झगड़े प्रमुख हैं, मानसिक नियंत्रण की प्रवृत्ति या नियंत्रण में आने की संभावना रहती है। हानि से बचने के लिए गुप्त खतरनाक कार्यों से बचें।",
+      "tone": "निष्पक्ष, सावधान, और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Painful behavior, conflicts, and power struggles with mental control issues and risk of secret dangerous activities.",
+        "hi": "दुख देने वाला व्यवहार, विवाद और अधिकारों के झगड़े, मानसिक नियंत्रण की समस्याएं और गुप्त खतरनाक कार्यों का खतरा।"
+      },
+      "career": {
+        "en": "Conflicts and power struggles at work; risk of deception during agitated actions.",
+        "hi": "कार्य में विवाद और अधिकार संघर्ष; उत्तेजित कार्यों में धोखे का खतरा।"
+      },
+      "relationships": {
+        "en": "Jealousy and conflicts in emotional and work relationships; mental dominance issues.",
+        "hi": "भावनात्मक और काम संबंधों में ईर्ष्या और विवाद; मानसिक नियंत्रण की समस्याएं।"
+      },
+      "money": {
+        "en": "Avoid secret or risky financial dealings to prevent losses.",
+        "hi": "हानि से बचने के लिए गुप्त या जोखिम भरे वित्तीय कार्यों से बचें।"
+      },
+      "health_adj": {
+        "en": "Risk of accidental injuries and life-threatening situations; caution advised.",
+        "hi": "दुर्घटना में चोट और जीवन संकट का खतरा; सावधानी आवश्यक।"
+      }
+    },
+    "aliases": [
+      "Pluto opposition Mars",
+      "Plu OPP Mar",
+      "Pluto-Opposition-Mars",
+      "Pluto Opposition to Mars"
+    ]
+  }
+}

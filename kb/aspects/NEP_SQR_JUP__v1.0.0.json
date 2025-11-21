@@ -1,0 +1,259 @@
+{
+  "id": "NEP_SQR_JUP__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Square",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A tendency toward artificiality, daydreaming, and unrealistic emotional expectations leads to escapism and harmful behaviors such as gambling and wasteful spending. There is susceptibility to wrong spiritual guidance and corruption of faith, with quick wealth attempts causing self-harm or criticism.",
+    "hi": "कृत्रिमता, दिवास्वप्न, और अवास्तविक भावुक अपेक्षाओं की प्रवृत्ति जिम्मेदारियों से भागने और हानिकारक व्यवहार जैसे जुआ और व्यर्थ खर्च की ओर ले जाती है। गलत आध्यात्मिक मार्गदर्शन प्राप्त होने और निष्ठा के भ्रष्ट होने की संभावना रहती है, तथा तेजी से अमीर बनने के प्रयास में स्वयं को हानि या निंदा का सामना करना पड़ता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Prone to unrealistic ambitions and misguided spiritual influences that may corrupt professional integrity.",
+      "hi": "अवास्तविक महत्वाकांक्षाओं और गलत आध्यात्मिक प्रभावों के कारण पेशेवर ईमानदारी प्रभावित हो सकती है।"
+    },
+    "relationships": {
+      "en": "Excessive sympathy and unrealistic emotionality can cause misunderstandings and emotional imbalance.",
+      "hi": "अत्यधिक सहानुभूति और अवास्तविक भावुकता से गलतफहमियां और भावनात्मक असंतुलन हो सकता है।"
+    },
+    "money": {
+      "en": "Wasteful spending, harmful gambling, and risky get-rich-quick attempts may lead to financial loss or criticism.",
+      "hi": "व्यर्थ खर्च, हानिकारक जुआ, और तेजी से अमीर बनने के प्रयास वित्तीय हानि या निंदा का कारण बन सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional stress from unrealistic expectations and self-inflicted harm due to risky behaviors.",
+      "hi": "अवास्तविक अपेक्षाओं से भावनात्मक तनाव और जोखिमपूर्ण व्यवहारों के कारण स्वयं को हानि।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Escapism from responsibilities",
+      "Receiving misleading spiritual guidance",
+      "Financial setbacks due to gambling or wasteful spending"
+    ],
+    "hi": [
+      "जिम्मेदारियों से भागना",
+      "गलत आध्यात्मिक मार्गदर्शन प्राप्त होना",
+      "जुआ या व्यर्थ खर्च के कारण वित्तीय नुकसान"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid gambling as it proves harmful",
+      "Beware of misleading religious or spiritual advice",
+      "Caution against unrealistic emotional expectations and excessive sympathy",
+      "Avoid get-rich-quick schemes that may cause self-harm or criticism"
+    ],
+    "hi": [
+      "जुआ हानिकारक होता है, इससे बचें",
+      "गलत धार्मिक या आध्यात्मिक सलाह से सावधान रहें",
+      "अवास्तविक भावुक अपेक्षाओं और अत्यधिक सहानुभूति से बचें",
+      "तेजी से अमीर बनने के प्रयासों से बचें जो हानि या निंदा ला सकते हैं"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Recognize tendencies toward escapism and daydreaming",
+        "Monitor emotional expectations realistically",
+        "Seek balanced sympathy without overindulgence"
+      ],
+      "hi": [
+        "जिम्मेदारियों से भागने और दिवास्वप्न की प्रवृत्ति को पहचानें",
+        "भावनात्मक अपेक्षाओं को यथार्थवादी रखें",
+        "सहानुभूति में संतुलन बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid gambling and risky financial behaviors",
+        "Question and verify spiritual or religious guidance",
+        "Refrain from impulsive get-rich-quick attempts"
+      ],
+      "hi": [
+        "जुआ और जोखिमपूर्ण वित्तीय व्यवहार से बचें",
+        "आध्यात्मिक या धार्मिक मार्गदर्शन को जांचें और सत्यापित करें",
+        "आकस्मिक तेजी से अमीर बनने के प्रयासों से बचें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons about responsibility and realistic expectations",
+        "Gradually reduce dependence on unrealistic sympathy",
+        "Rebuild faith with careful spiritual discernment"
+      ],
+      "hi": [
+        "जिम्मेदारी और यथार्थवादी अपेक्षाओं के बारे में सीख पर विचार करें",
+        "अवास्तविक सहानुभूति पर निर्भरता धीरे-धीरे कम करें",
+        "सावधानीपूर्वक आध्यात्मिक विवेक से निष्ठा पुनर्निर्माण करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "artificiality",
+      "daydreaming",
+      "wasteful spending",
+      "unrealistic emotionality",
+      "excessive expectations",
+      "unnecessary sympathy",
+      "escapism",
+      "harmful gambling",
+      "wrong spiritual guidance",
+      "corrupted faith",
+      "get-rich-quick attempts",
+      "self-harm",
+      "criticism"
+    ],
+    "hi": [
+      "कृत्रिमता",
+      "दिवास्वप्न",
+      "व्यर्थ खर्च",
+      "अवास्तविक भावुकता",
+      "अत्यधिक अपेक्षा",
+      "अनावश्यक सहानुभूति",
+      "जिम्मेदारियों से भागना",
+      "हानिकारक जुआ",
+      "गलत आध्यात्मिक मार्गदर्शन",
+      "भ्रष्ट निष्ठा",
+      "तेजी से अमीर बनने के प्रयास",
+      "स्वयं को हानि",
+      "निंदा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "emotional",
+      "risk-prone",
+      "spiritual confusion"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "जोखिमपूर्ण",
+      "आध्यात्मिक भ्रम"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "escapism",
+      "misguided faith",
+      "financial caution",
+      "emotional imbalance"
+    ],
+    "hi": [
+      "जिम्मेदारियों से भागना",
+      "गलत विश्वास",
+      "वित्तीय सावधानी",
+      "भावनात्मक असंतुलन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-squ-jup",
+      "core": "This aspect indicates tendencies toward unrealistic emotions, escapism, and harmful behaviors like gambling and wasteful spending, along with susceptibility to misleading spiritual guidance.",
+      "tone": "Warm, neutral, and cautionary"
+    },
+    "hi": {
+      "title": "नेपच्यून स्क्वायर जुपिटर",
+      "core": "यह योग अवास्तविक भावनाओं, जिम्मेदारियों से भागने, हानिकारक व्यवहार जैसे जुआ और व्यर्थ खर्च की प्रवृत्तियों के साथ-साथ गलत आध्यात्मिक मार्गदर्शन की संभावना दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Artificiality, daydreaming, unrealistic emotionality, escapism, harmful gambling, wasteful spending, wrong spiritual guidance, corrupted faith, self-harm from get-rich-quick attempts.",
+        "hi": "कृत्रिमता, दिवास्वप्न, अवास्तविक भावुकता, जिम्मेदारियों से भागना, हानिकारक जुआ, व्यर्थ खर्च, गलत आध्यात्मिक मार्गदर्शन, भ्रष्ट निष्ठा, तेजी से अमीर बनने के प्रयासों से स्वयं को हानि।"
+      },
+      "career": {
+        "en": "Unrealistic ambitions and corrupted faith may affect professional integrity.",
+        "hi": "अवास्तविक महत्वाकांक्षाएं और भ्रष्ट निष्ठा पेशेवर ईमानदारी को प्रभावित कर सकती हैं।"
+      },
+      "relationships": {
+        "en": "Excessive sympathy and unrealistic emotions can cause misunderstandings and emotional imbalance.",
+        "hi": "अत्यधिक सहानुभूति और अवास्तविक भावनाएं गलतफहमियां और भावनात्मक असंतुलन उत्पन्न कर सकती हैं।"
+      },
+      "money": {
+        "en": "Wasteful spending, harmful gambling, and risky quick wealth attempts lead to financial loss or criticism.",
+        "hi": "व्यर्थ खर्च, हानिकारक जुआ, और जोखिमपूर्ण तेजी से अमीर बनने के प्रयास वित्तीय हानि या निंदा का कारण बनते हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional stress and self-inflicted harm due to unrealistic expectations and risky behaviors.",
+        "hi": "अवास्तविक अपेक्षाओं और जोखिमपूर्ण व्यवहारों के कारण भावनात्मक तनाव और स्वयं को हानि।"
+      }
+    },
+    "aliases": [
+      "Neptune square Jupiter",
+      "Nep SQR Jup",
+      "Neptune-Square-Jupiter",
+      "Neptune Square to Jupiter"
+    ]
+  }
+}

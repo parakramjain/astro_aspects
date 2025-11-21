@@ -1,0 +1,249 @@
+{
+  "id": "MER_SQR_VEN__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Square",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates challenges in social, romantic, and emotional communication, with tendencies to avoid truth or speak excessively, leading to emotional disagreements and increased lifestyle expenses.",
+    "hi": "यह योग सामाजिक, प्रेम संबंधी और भावनात्मक संवाद में कठिनाइयाँ दर्शाता है, जिसमें सच से बचना या अधिक बोलना शामिल है, जिससे भावनात्मक असहमति और जीवनशैली के खर्च बढ़ सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Communication difficulties may affect teamwork and professional relationships.",
+      "hi": "संचार में कठिनाइयाँ टीमवर्क और व्यावसायिक संबंधों को प्रभावित कर सकती हैं।"
+    },
+    "relationships": {
+      "en": "Emotional misunderstandings and disagreements can arise, with a tendency to avoid honesty or over-communicate.",
+      "hi": "भावनात्मक असहमति और मतभेद हो सकते हैं, साथ ही सच बोलने से बचने या अधिक बोलने की प्रवृत्ति होती है।"
+    },
+    "money": {
+      "en": "Increased expenses in clothing, food, or lifestyle are likely during this period.",
+      "hi": "इस समय कपड़े, भोजन या जीवनशैली में खर्च बढ़ सकता है।"
+    },
+    "health_adj": {
+      "en": "Emotional stress from communication issues may affect overall well-being.",
+      "hi": "संचार की समस्याओं से भावनात्मक तनाव स्वास्थ्य को प्रभावित कर सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Social challenges",
+      "Romantic communication issues",
+      "Emotional disagreements",
+      "Increased lifestyle expenses"
+    ],
+    "hi": [
+      "सामाजिक चुनौतियाँ",
+      "प्रेम संबंधी संवाद की समस्याएँ",
+      "भावनात्मक असहमति",
+      "जीवनशैली के खर्च में वृद्धि"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoiding truth can harm relationships.",
+      "Excessive talking may cause misunderstandings.",
+      "Emotional thinking can lead to disagreements.",
+      "Watch for overspending on lifestyle."
+    ],
+    "hi": [
+      "सच से बचना रिश्तों को नुकसान पहुंचा सकता है।",
+      "अधिक बोलने से गलतफहमी हो सकती है।",
+      "भावनात्मक सोच असहमति ला सकती है।",
+      "जीवनशैली पर अधिक खर्च से सावधान रहें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Practice honest and balanced communication.",
+        "Be mindful of emotional reactions in conversations.",
+        "Monitor spending habits carefully."
+      ],
+      "hi": [
+        "ईमानदार और संतुलित संवाद का अभ्यास करें।",
+        "वार्तालाप में भावनात्मक प्रतिक्रियाओं पर ध्यान दें।",
+        "खर्च की आदतों पर सावधानी रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Address misunderstandings calmly.",
+        "Avoid avoidance or excessive talking.",
+        "Review expenses related to lifestyle."
+      ],
+      "hi": [
+        "गलतफहमियों को शांति से सुलझाएं।",
+        "बचाव या अधिक बोलने से बचें।",
+        "जीवनशैली से जुड़े खर्च की समीक्षा करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on communication patterns.",
+        "Reduce emotional reactivity.",
+        "Plan budget adjustments if needed."
+      ],
+      "hi": [
+        "संचार के तरीके पर विचार करें।",
+        "भावनात्मक प्रतिक्रियाओं को कम करें।",
+        "जरूरत हो तो बजट समायोजन की योजना बनाएं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "communication challenges",
+      "emotional disagreements",
+      "truth avoidance",
+      "excessive talking",
+      "increased expenses",
+      "social difficulties",
+      "romantic tension"
+    ],
+    "hi": [
+      "संचार की कठिनाइयाँ",
+      "भावनात्मक असहमति",
+      "सच से बचाव",
+      "अधिक बोलना",
+      "खर्च में वृद्धि",
+      "सामाजिक कठिनाइयाँ",
+      "प्रेम संबंधी तनाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "emotional",
+      "social",
+      "financial caution"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "सामाजिक",
+      "वित्तीय सतर्कता"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication",
+      "relationships",
+      "emotions",
+      "expenses"
+    ],
+    "hi": [
+      "संचार",
+      "रिश्ते",
+      "भावनाएँ",
+      "खर्च"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-squ-ven",
+      "core": "Challenges in social and emotional communication with potential for misunderstandings and increased lifestyle expenses.",
+      "tone": "Warm, neutral, and cautiously observant."
+    },
+    "hi": {
+      "title": "बुध चतुर्भुज शुक्र",
+      "core": "सामाजिक और भावनात्मक संवाद में कठिनाइयाँ, गलतफहमियों और जीवनशैली के खर्च में वृद्धि की संभावना।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Challenges in social, romantic, and emotional communication with tendencies to avoid truth or speak excessively, causing disagreements and increased expenses.",
+        "hi": "सामाजिक, प्रेम संबंधी और भावनात्मक संवाद में कठिनाइयाँ, सच से बचने या अधिक बोलने की प्रवृत्ति, जिससे असहमति और खर्च बढ़ते हैं।"
+      },
+      "career": {
+        "en": "Communication difficulties impacting teamwork and professional relationships.",
+        "hi": "टीमवर्क और व्यावसायिक संबंधों को प्रभावित करने वाली संचार समस्याएँ।"
+      },
+      "relationships": {
+        "en": "Emotional misunderstandings and avoidance of honesty causing relationship strain.",
+        "hi": "भावनात्मक गलतफहमियाँ और ईमानदारी से बचाव से रिश्तों में तनाव।"
+      },
+      "money": {
+        "en": "Increased spending on clothing, food, or lifestyle.",
+        "hi": "कपड़े, भोजन या जीवनशैली पर बढ़ा हुआ खर्च।"
+      },
+      "health_adj": {
+        "en": "Emotional stress from communication issues may affect well-being.",
+        "hi": "संचार की समस्याओं से उत्पन्न भावनात्मक तनाव स्वास्थ्य को प्रभावित कर सकता है।"
+      }
+    },
+    "aliases": [
+      "Mercury square Venus",
+      "Mer SQR Ven",
+      "Mercury-Square-Venus",
+      "Mercury Square to Venus"
+    ]
+  }
+}

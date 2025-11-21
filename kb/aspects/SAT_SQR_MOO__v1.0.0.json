@@ -1,0 +1,247 @@
+{
+  "id": "SAT_SQR_MOO__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Square",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period marked by emotional pressure, pessimism, and burdens, often involving family issues and challenges balancing personal and professional life.",
+    "hi": "यह समय भावनात्मक दबाव, निराशा और बोझ से भरा होता है, जिसमें पारिवारिक समस्याएँ और व्यक्तिगत व व्यावसायिक जीवन के बीच संतुलन की चुनौतियाँ शामिल हो सकती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Challenges in balancing work responsibilities; work environment may be affected by negative thinking and emotional stress.",
+      "hi": "काम की जिम्मेदारियों में संतुलन बनाना कठिन हो सकता है; नकारात्मक सोच और भावनात्मक तनाव से कार्यस्थल प्रभावित हो सकता है।"
+    },
+    "relationships": {
+      "en": "Family issues related to parents or elderly women may arise; feelings of loneliness and strained relationships are possible.",
+      "hi": "माता-पिता या बुजुर्ग महिलाओं से जुड़ी पारिवारिक समस्याएँ हो सकती हैं; अकेलापन और रिश्तों में तनाव महसूस हो सकता है।"
+    },
+    "money": {
+      "en": "Financial concerns may increase anxiety and add to the sense of burden during this period.",
+      "hi": "आर्थिक स्थिति कमजोर हो सकती है जिससे चिंता और बोझ बढ़ सकता है।"
+    },
+    "health_adj": {
+      "en": "Emotional stress and pessimism may affect overall well-being; daily life may feel obstructed or heavy.",
+      "hi": "भावनात्मक तनाव और निराशावाद से समग्र स्वास्थ्य प्रभावित हो सकता है; रोज़मर्रा की ज़िंदगी में रुकावटें और बोझ महसूस हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family challenges",
+      "Emotional burdens",
+      "Major life reflections"
+    ],
+    "hi": [
+      "पारिवारिक समस्याएँ",
+      "भावनात्मक जिम्मेदारियाँ",
+      "जीवन के बड़े बदलावों पर विचार"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased emotional pressure and pessimism",
+      "Potential loneliness and isolation",
+      "Strained relationships and work difficulties",
+      "Financial anxiety"
+    ],
+    "hi": [
+      "भावनात्मक दबाव और निराशा में वृद्धि",
+      "अकेलापन और अलगाव की संभावना",
+      "रिश्तों और काम में तनाव",
+      "आर्थिक चिंता"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Reflect seriously on major life changes",
+        "Seek balance between personal and professional duties",
+        "Be mindful of emotional well-being"
+      ],
+      "hi": [
+        "बड़े बदलावों पर गंभीरता से विचार करें",
+        "व्यक्तिगत और व्यावसायिक जिम्मेदारियों में संतुलन बनाए रखें",
+        "भावनात्मक स्वास्थ्य का ध्यान रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Recognize feelings of loneliness as opportunities for deeper perspective",
+        "Acknowledge increased burdens without losing composure"
+      ],
+      "hi": [
+        "अकेलेपन की भावनाओं को सोच में गहराई के अवसर के रूप में देखें",
+        "बढ़े हुए बोझ को स्वीकार करें लेकिन संयम न खोएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual relief from emotional pressure",
+        "Improvement in family and work balance",
+        "Reduction in financial anxiety"
+      ],
+      "hi": [
+        "भावनात्मक दबाव में धीरे-धीरे कमी",
+        "पारिवारिक और कार्य संतुलन में सुधार",
+        "आर्थिक चिंता में कमी"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional pressure",
+      "pessimism",
+      "family issues",
+      "burden",
+      "loneliness",
+      "negative thinking",
+      "financial anxiety",
+      "responsibility"
+    ],
+    "hi": [
+      "भावनात्मक दबाव",
+      "निराशा",
+      "पारिवारिक समस्याएँ",
+      "जिम्मेदारी",
+      "अकेलापन",
+      "नकारात्मक सोच",
+      "आर्थिक चिंता",
+      "बोझ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "reflective",
+      "emotional",
+      "burdensome"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "विचारशील",
+      "भावनात्मक",
+      "भारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional stress",
+      "family dynamics",
+      "life balance",
+      "mental resilience"
+    ],
+    "hi": [
+      "भावनात्मक तनाव",
+      "पारिवारिक संबंध",
+      "जीवन संतुलन",
+      "मानसिक सहनशीलता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-squ-moo",
+      "core": "A time of emotional pressure and burdens, highlighting family challenges and the need for balance.",
+      "tone": "Warm, neutral, and reflective"
+    },
+    "hi": {
+      "title": "शनि चतुर्भुज चंद्र",
+      "core": "यह समय भावनात्मक दबाव और जिम्मेदारियों से भरा होता है, जो पारिवारिक चुनौतियों और संतुलन की आवश्यकता को दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और विचारशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period brings emotional pressure, pessimism, and a sense of burden. Family issues related to parents or elderly women may arise. The person may struggle to balance personal and professional responsibilities.",
+        "hi": "यह समय भावनात्मक दबाव, निराशा और नकारात्मक सोच का संकेत देता है। माता-पिता या बुजुर्ग महिलाओं से जुड़ी पारिवारिक समस्याएँ हो सकती हैं। व्यक्ति पारिवारिक और व्यावसायिक जिम्मेदारियों के बीच संतुलन नहीं बना पाता।"
+      },
+      "career": {
+        "en": "The person may struggle to balance personal and professional responsibilities. Negative thinking may affect the work environment.",
+        "hi": "व्यक्ति पारिवारिक और व्यावसायिक जिम्मेदारियों के बीच संतुलन नहीं बना पाता। नकारात्मक सोच का असर कामकाज पर पड़ सकता है।"
+      },
+      "relationships": {
+        "en": "Family issues related to parents or elderly women may arise. Feelings of loneliness may surface, affecting relationships.",
+        "hi": "माता-पिता या बुजुर्ग महिलाओं से जुड़ी पारिवारिक समस्याएँ हो सकती हैं। अकेलापन महसूस हो सकता है, जिसका असर रिश्तों पर पड़ेगा।"
+      },
+      "money": {
+        "en": "Financial concerns could increase anxiety during this period.",
+        "hi": "आर्थिक स्थिति कमजोर हो सकती है, जिससे चिंता बढ़ेगी।"
+      },
+      "health_adj": {
+        "en": "Emotional pressure and pessimism may affect daily life, causing it to feel obstructed or heavy.",
+        "hi": "रोज़मर्रा की ज़िंदगी में रुकावटें रहेंगी। भावनात्मक दबाव और निराशा से स्वास्थ्य प्रभावित हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Saturn square Moon",
+      "Sat SQR Moo",
+      "Saturn-Square-Moon",
+      "Saturn Square to Moon"
+    ]
+  }
+}

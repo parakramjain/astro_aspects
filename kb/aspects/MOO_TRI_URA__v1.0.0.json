@@ -1,0 +1,253 @@
+{
+  "id": "MOO_TRI_URA__v1.0.0",
+  "pair": [
+    "Moon",
+    "Trine",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect signals new ideas, sudden changes, and a strong inner urge to do something different, with emotional relief found through relationships or community involvement.",
+    "hi": "यह योग नए विचारों, अचानक बदलावों और कुछ नया करने की गहरी प्रेरणा का संकेत देता है, जिसमें रिश्तों या समुदाय से भावनात्मक राहत मिलती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities to use new technology or electricity-related items may arise, encouraging innovation and upgrades at work.",
+      "hi": "नई टेक्नोलॉजी या बिजली से जुड़ी चीजों का उपयोग या निवेश करने के मौके मिल सकते हैं, जो कार्य में नवाचार और सुधार को बढ़ावा देते हैं।"
+    },
+    "relationships": {
+      "en": "Emotional relief and inspiration come through relationships and community groups, with women being notably active and inspiring.",
+      "hi": "रिश्तों और संगठनों से भावनात्मक राहत मिलती है, और महिलाएं इस समय प्रेरणादायक और सक्रिय रहती हैं।"
+    },
+    "money": {
+      "en": "Sudden financial gains are possible, along with chances to invest in home improvements or new technology.",
+      "hi": "अचानक लाभ हो सकते हैं, साथ ही घर में सुधार या नई टेक्नोलॉजी में निवेश के अवसर मिल सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional well-being improves through social connections and positive changes in the community.",
+      "hi": "सामाजिक संबंधों और सकारात्मक बदलावों से भावनात्मक स्वास्थ्य में सुधार होता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New ideas and innovations",
+      "Sudden changes",
+      "Emotional relief through social groups",
+      "Home improvement",
+      "Investment opportunities in technology"
+    ],
+    "hi": [
+      "नए विचार और नवाचार",
+      "अचानक बदलाव",
+      "सामाजिक समूहों से भावनात्मक राहत",
+      "घर में सुधार",
+      "टेक्नोलॉजी में निवेश के अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Sudden changes may require adaptability",
+      "Be cautious with impulsive investments"
+    ],
+    "hi": [
+      "अचानक बदलावों के लिए अनुकूलन आवश्यक हो सकता है",
+      "आवेग में निवेश करते समय सावधानी रखें"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Explore new ideas and innovations",
+        "Engage actively in community or social groups",
+        "Consider home improvements"
+      ],
+      "hi": [
+        "नए विचारों और नवाचारों को अपनाएं",
+        "सामाजिक या समुदायिक समूहों में सक्रिय रूप से भाग लें",
+        "घर में सुधार करने पर विचार करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Seek emotional support through relationships",
+        "Look for opportunities to invest in technology or electricity-related items",
+        "Be open to sudden positive changes"
+      ],
+      "hi": [
+        "रिश्तों से भावनात्मक समर्थन प्राप्त करें",
+        "टेक्नोलॉजी या बिजली से जुड़ी चीजों में निवेश के अवसर खोजें",
+        "अचानक सकारात्मक बदलावों के लिए खुले रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain flexibility as changes settle",
+        "Review investments made during this phase"
+      ],
+      "hi": [
+        "बदलावों के स्थिर होने पर लचीलापन बनाए रखें",
+        "इस अवधि में किए गए निवेशों की समीक्षा करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "new ideas",
+      "sudden changes",
+      "emotional relief",
+      "community",
+      "women active",
+      "social change",
+      "home improvement",
+      "technology investment",
+      "sudden gains"
+    ],
+    "hi": [
+      "नए विचार",
+      "अचानक बदलाव",
+      "भावनात्मक राहत",
+      "समुदाय",
+      "महिलाएं सक्रिय",
+      "सामाजिक बदलाव",
+      "घर में सुधार",
+      "टेक्नोलॉजी निवेश",
+      "अचानक लाभ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "innovative",
+      "dynamic",
+      "social",
+      "inspiring",
+      "positive"
+    ],
+    "hi": [
+      "नवोन्मेषी",
+      "गतिशील",
+      "सामाजिक",
+      "प्रेरणादायक",
+      "सकारात्मक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "change",
+      "inspiration",
+      "community",
+      "technology",
+      "emotional relief"
+    ],
+    "hi": [
+      "बदलाव",
+      "प्रेरणा",
+      "समुदाय",
+      "टेक्नोलॉजी",
+      "भावनात्मक राहत"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-tri-ura",
+      "core": "A phase of new ideas, sudden changes, and emotional relief through relationships and community.",
+      "tone": "Warm, neutral, and encouraging openness to positive change."
+    },
+    "hi": {
+      "title": "चंद्र त्रिकोण यूरेनस",
+      "core": "नए विचारों, अचानक बदलावों और रिश्तों व समुदाय से भावनात्मक राहत का समय।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सकारात्मक बदलाव के लिए प्रोत्साहित करने वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This time brings new ideas, sudden changes, and a deep desire to do something different. There is emotional relief through relationships or community groups.",
+        "hi": "यह समय नए विचारोंए अचानक बदलावों और अंदर से कुछ नया करने की प्रेरणा देता है। रिश्तों और संगठनों से भावनात्मक राहत मिलती है।"
+      },
+      "career": {
+        "en": "A chance may arise to invest in or use new technology or electricity-related items, encouraging innovation and upgrades.",
+        "hi": "नई टेक्नोलॉजी या बिजली से जुड़ी चीजों में सुधार या निवेश का मौका मिल सकता है।"
+      },
+      "relationships": {
+        "en": "Women are more inspiring and active during this phase. Emotional relief through relationships or community groups is highlighted.",
+        "hi": "महिलाएं इस समय प्रेरणादायक और एक्टिव रहती हैं। रिश्तों और संगठनों से भावनात्मक राहत मिलती है।"
+      },
+      "money": {
+        "en": "Sudden gains are possible along with opportunities for home improvement and technology investment.",
+        "hi": "अचानक लाभ भी हो सकता है। घर में कुछ अच्छा सुधार करने की सोच बनती है।"
+      },
+      "health_adj": {
+        "en": "Emotional relief and positive social changes contribute to well-being.",
+        "hi": "समाज में कुछ नया बदलाव सकारात्मक असर लाता है।"
+      }
+    },
+    "aliases": [
+      "Moon trine Uranus",
+      "Moo TRI Ura",
+      "Moon-Trine-Uranus",
+      "Moon Trine to Uranus"
+    ]
+  }
+}

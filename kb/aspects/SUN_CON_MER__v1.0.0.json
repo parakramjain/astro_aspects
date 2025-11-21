@@ -1,0 +1,255 @@
+{
+  "id": "SUN_CON_MER__v1.0.0",
+  "pair": [
+    "Sun",
+    "Conjunction",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect enhances self-confidence, clarity of thought, and intellectual perspective, improving logical reasoning and decision-making, which supports success in education, writing, and scientific work. However, unfavorable conditions may cause mental restlessness and confusion.",
+    "hi": "यह योग आत्मविश्वास, विचारों की स्पष्टता और बौद्धिक दृष्टिकोण को बढ़ाता है, जिससे तर्कशक्ति और निर्णय क्षमता में सुधार होता है और शिक्षा, लेखन तथा वैज्ञानिक कार्यों में सफलता मिलती है। परंतु प्रतिकूल परिस्थितियों में मानसिक बेचैनी और भ्रम हो सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Improved intellectual abilities and decision-making support success in education, writing, and scientific activities.",
+      "hi": "बौद्धिक क्षमताओं और निर्णय क्षमता में सुधार से शिक्षा, लेखन और वैज्ञानिक गतिविधियों में सफलता मिलती है।"
+    },
+    "relationships": {
+      "en": "Clear communication and confident expression may improve interactions, though mental restlessness could cause occasional misunderstandings.",
+      "hi": "स्पष्ट संवाद और आत्मविश्वास से संबंध बेहतर हो सकते हैं, लेकिन मानसिक बेचैनी से कभी-कभी गलतफहमी हो सकती है।"
+    },
+    "money": {
+      "en": "Logical thinking aids financial decisions, though caution is advised if mental confusion arises.",
+      "hi": "तर्कपूर्ण सोच वित्तीय निर्णयों में मदद करती है, परन्तु मानसिक भ्रम होने पर सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Mental restlessness and confusion may affect well-being if circumstances are unfavorable.",
+      "hi": "यदि परिस्थितियाँ प्रतिकूल हों तो मानसिक बेचैनी और भ्रम से स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational achievements",
+      "Writing and communication success",
+      "Scientific or intellectual breakthroughs"
+    ],
+    "hi": [
+      "शैक्षिक उपलब्धियाँ",
+      "लेखन और संचार में सफलता",
+      "वैज्ञानिक या बौद्धिक प्रगति"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Mental restlessness may cause distraction",
+      "Confusion can impair decision-making",
+      "Unfavorable conditions may reduce clarity"
+    ],
+    "hi": [
+      "मानसिक बेचैनी ध्यान भटकाने वाली हो सकती है",
+      "भ्रम निर्णय क्षमता को प्रभावित कर सकता है",
+      "प्रतिकूल परिस्थितियाँ स्पष्टता कम कर सकती हैं"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on intellectual tasks and learning",
+        "Engage in writing or scientific work",
+        "Use logical reasoning in decisions"
+      ],
+      "hi": [
+        "बौद्धिक कार्यों और अध्ययन पर ध्यान दें",
+        "लेखन या वैज्ञानिक कार्यों में संलग्न हों",
+        "निर्णयों में तर्कशक्ति का प्रयोग करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Maintain mental clarity and calm",
+        "Avoid overthinking to reduce confusion",
+        "Leverage confidence in communication"
+      ],
+      "hi": [
+        "मानसिक स्पष्टता और शांति बनाए रखें",
+        "भ्रम कम करने के लिए अधिक सोच से बचें",
+        "संचार में आत्मविश्वास का उपयोग करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons learned",
+        "Address any lingering mental restlessness",
+        "Gradually transition from intense intellectual focus"
+      ],
+      "hi": [
+        "सीखे गए पाठों पर विचार करें",
+        "शेष मानसिक बेचैनी को दूर करें",
+        "तीव्र बौद्धिक ध्यान से धीरे-धीरे हटें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "self-confidence",
+      "clarity",
+      "intellect",
+      "logical reasoning",
+      "decision-making",
+      "education",
+      "writing",
+      "scientific activities",
+      "mental restlessness",
+      "confusion"
+    ],
+    "hi": [
+      "आत्मविश्वास",
+      "स्पष्टता",
+      "बौद्धिकता",
+      "तर्कशक्ति",
+      "निर्णय क्षमता",
+      "शिक्षा",
+      "लेखन",
+      "वैज्ञानिक गतिविधियाँ",
+      "मानसिक बेचैनी",
+      "भ्रम"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intellectual",
+      "confident",
+      "logical",
+      "potentially restless",
+      "clarifying"
+    ],
+    "hi": [
+      "बौद्धिक",
+      "आत्मविश्वासी",
+      "तार्किक",
+      "संभावित बेचैन",
+      "स्पष्टता बढ़ाने वाला"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "mental clarity",
+      "intellectual growth",
+      "communication",
+      "education",
+      "scientific inquiry"
+    ],
+    "hi": [
+      "मानसिक स्पष्टता",
+      "बौद्धिक विकास",
+      "संचार",
+      "शिक्षा",
+      "वैज्ञानिक खोज"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-con-mer",
+      "core": "Enhances confidence, clarity, and intellect, aiding success in education and writing, with caution for mental restlessness.",
+      "tone": "Warm, neutral, encouraging intellectual focus with gentle caution."
+    },
+    "hi": {
+      "title": "सूर्य संयोजन बुध",
+      "core": "आत्मविश्वास, स्पष्टता और बौद्धिकता बढ़ाता है, शिक्षा और लेखन में सफलता में सहायक, मानसिक बेचैनी के प्रति सावधानी के साथ।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, बौद्धिक ध्यान के लिए प्रोत्साहित करते हुए सौम्य चेतावनी।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This aspect enhances self-confidence, clarity of thought, and intellectual perspective, improving logical reasoning and decision-making, which supports success in education, writing, and scientific work. However, unfavorable conditions may cause mental restlessness and confusion.",
+        "hi": "यह योग आत्मविश्वास, विचारों की स्पष्टता और बौद्धिक दृष्टिकोण को बढ़ाता है, जिससे तर्कशक्ति और निर्णय क्षमता में सुधार होता है और शिक्षा, लेखन तथा वैज्ञानिक कार्यों में सफलता मिलती है। परंतु प्रतिकूल परिस्थितियों में मानसिक बेचैनी और भ्रम हो सकता है।"
+      },
+      "career": {
+        "en": "Improved intellectual abilities and decision-making support success in education, writing, and scientific activities.",
+        "hi": "बौद्धिक क्षमताओं और निर्णय क्षमता में सुधार से शिक्षा, लेखन और वैज्ञानिक गतिविधियों में सफलता मिलती है।"
+      },
+      "relationships": {
+        "en": "Clear communication and confident expression may improve interactions, though mental restlessness could cause occasional misunderstandings.",
+        "hi": "स्पष्ट संवाद और आत्मविश्वास से संबंध बेहतर हो सकते हैं, लेकिन मानसिक बेचैनी से कभी-कभी गलतफहमी हो सकती है।"
+      },
+      "money": {
+        "en": "Logical thinking aids financial decisions, though caution is advised if mental confusion arises.",
+        "hi": "तर्कपूर्ण सोच वित्तीय निर्णयों में मदद करती है, परन्तु मानसिक भ्रम होने पर सावधानी आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "Mental restlessness and confusion may affect well-being if circumstances are unfavorable.",
+        "hi": "यदि परिस्थितियाँ प्रतिकूल हों तो मानसिक बेचैनी और भ्रम से स्वास्थ्य प्रभावित हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Sun conjunction Mercury",
+      "Sun CON Mer",
+      "Sun-Conjunction-Mercury",
+      "Sun Conjunction to Mercury"
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "id": "JUP_SQR_PLU__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Square",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Losses occur through others' help, prompting spiritual transformation related to someone. Conflicts arise over joint assets, businesses, taxes, investments, and insurance. Ventures may be started without sufficient thought. Ego neglects small but crucial matters, leading to losses and deception. Financial and work-related fluctuations and deception are possible. Caution is advised in monetary transactions. Attendance at funerals may occur.",
+    "hi": "दूसरों के सहयोग में हानि होती है और किसी के प्रति आध्यात्मिक परिवर्तन होता है। संयुक्त संपत्ति, व्यवसाय, कर, निवेश और बीमा संबंधी संघर्ष होते हैं। बिना सोच-विचार के कार्य प्रारंभ होते हैं। अहं के कारण छोटी पर महत्वपूर्ण बातों की अनदेखी से हानि और धोखा होता है। आर्थिक और कार्य संबंधी उतार-चढ़ाव और धोखे की संभावना रहती है। आर्थिक लेन-देन में सावधानी आवश्यक है। इस समय किसी के शोक सभा में शामिल होने की स्थिति हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Conflicts and deception may occur in work, including sexual matters. Ventures are often started without proper thought, risking losses.",
+      "hi": "काम में संघर्ष और धोखे की स्थिति हो सकती है, जिसमें यौन संबंधी मामले भी शामिल हैं। बिना सोच-विचार के कार्य प्रारंभ करने से हानि हो सकती है।"
+    },
+    "relationships": {
+      "en": "Spiritual transformation toward someone occurs. Conflicts arise over joint assets and shared responsibilities.",
+      "hi": "किसी के प्रति आध्यात्मिक परिवर्तन होता है। संयुक्त संपत्ति और साझा जिम्मेदारियों को लेकर संघर्ष होते हैं।"
+    },
+    "money": {
+      "en": "Conflicts over joint finances such as assets, taxes, investments, and insurance. Financial fluctuations and deception are possible. Caution is advised in monetary transactions.",
+      "hi": "संयुक्त वित्त जैसे संपत्ति, कर, निवेश और बीमा को लेकर संघर्ष होते हैं। आर्थिक उतार-चढ़ाव और धोखे की संभावना रहती है। आर्थिक लेन-देन में सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "No explicit health effects mentioned, but caution is implied due to stress from conflicts and deception.",
+      "hi": "स्वास्थ्य पर स्पष्ट प्रभाव नहीं बताया गया है, लेकिन संघर्ष और धोखे से तनाव के कारण सावधानी बरतनी चाहिए।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Losses through others' help",
+      "Spiritual transformation",
+      "Conflicts over joint assets and finances",
+      "Starting ventures thoughtlessly",
+      "Attendance at funerals"
+    ],
+    "hi": [
+      "दूसरों के सहयोग में हानि",
+      "आध्यात्मिक परिवर्तन",
+      "संयुक्त संपत्ति और वित्तीय संघर्ष",
+      "बिना सोच-विचार कार्य प्रारंभ करना",
+      "शोक सभा में शामिल होना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Losses and deception in financial and work matters",
+      "Conflicts over joint assets and investments",
+      "Neglect of small but crucial details due to ego",
+      "Fluctuations in monetary transactions",
+      "Possible emotional distress from funerals"
+    ],
+    "hi": [
+      "आर्थिक और कार्य संबंधी हानि और धोखा",
+      "संयुक्त संपत्ति और निवेश को लेकर संघर्ष",
+      "अहं के कारण छोटी पर महत्वपूर्ण बातों की अनदेखी",
+      "आर्थिक लेन-देन में उतार-चढ़ाव",
+      "शोक सभा से भावनात्मक तनाव की संभावना"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in financial dealings",
+        "Avoid starting ventures without proper planning",
+        "Be mindful of ego to prevent neglecting details",
+        "Prepare for possible conflicts over shared assets"
+      ],
+      "hi": [
+        "आर्थिक लेन-देन में सावधानी बरतें",
+        "बिना योजना के कार्य प्रारंभ करने से बचें",
+        "अहं को नियंत्रित रखें ताकि महत्वपूर्ण बातें न छूटें",
+        "संयुक्त संपत्ति को लेकर संघर्ष के लिए तैयार रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Heightened risk of deception and losses",
+        "Potential attendance at funerals",
+        "Conflicts intensify over joint finances"
+      ],
+      "hi": [
+        "धोखे और हानि का अधिक जोखिम",
+        "शोक सभा में शामिल होने की संभावना",
+        "संयुक्त वित्तीय मामलों में संघर्ष बढ़ना"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reduction in conflicts over shared assets",
+        "Improved clarity in financial transactions",
+        "Ego-driven neglect diminishes"
+      ],
+      "hi": [
+        "संयुक्त संपत्ति पर संघर्ष कम होना",
+        "आर्थिक लेन-देन में स्पष्टता आना",
+        "अहं के कारण अनदेखी कम होना"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "loss",
+      "help",
+      "spiritual transformation",
+      "conflict",
+      "joint assets",
+      "business disputes",
+      "ego",
+      "deception",
+      "financial fluctuations",
+      "funeral"
+    ],
+    "hi": [
+      "हानि",
+      "सहयोग",
+      "आध्यात्मिक परिवर्तन",
+      "संघर्ष",
+      "संयुक्त संपत्ति",
+      "व्यवसाय विवाद",
+      "अहं",
+      "धोखा",
+      "आर्थिक उतार-चढ़ाव",
+      "शोक सभा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "transformative",
+      "cautious",
+      "conflict-prone"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "परिवर्तनकारी",
+      "सावधानीपूर्ण",
+      "संघर्षपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "loss through others",
+      "spiritual growth",
+      "joint financial issues",
+      "ego challenges",
+      "deception risks"
+    ],
+    "hi": [
+      "दूसरों के माध्यम से हानि",
+      "आध्यात्मिक विकास",
+      "संयुक्त वित्तीय समस्याएं",
+      "अहं की चुनौतियां",
+      "धोखे का जोखिम"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-squ-plu",
+      "core": "This aspect indicates potential losses through others' help, spiritual transformation, conflicts over joint assets and finances, and caution in monetary matters.",
+      "tone": "Warm, neutral, and cautiously informative"
+    },
+    "hi": {
+      "title": "बृहस्पति वर्ग प्लूटो",
+      "core": "यह योग दूसरों के सहयोग में हानि, आध्यात्मिक परिवर्तन, संयुक्त संपत्ति और वित्तीय संघर्ष, तथा आर्थिक मामलों में सावधानी दर्शाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Losses occur through others' help. Spiritual transformation toward someone. Conflicts over joint assets/businesses/taxes/investments/insurance. Starts ventures thoughtlessly. Ego causes neglect of small-but-crucial matters leading to losses/deception. Deception in work (sexual)/financial fluctuations. Be cautious in monetary transactions. May attend someone's funeral during this period.",
+        "hi": "दूसरों के सहयोग में स्वयं की हानि होती है। किसी के प्रति आध्यात्मिक परिवर्तन होता है। संयुक्त संपत्ति/संयुक्त व्यवसाय/कर/निवेश/बीमा संबंधी संघर्ष/झगड़े/कानूनी कष्ट की स्थिति रहती है। व्यक्ति बिना सोचे कार्य प्रारंभ करता है। अहं के कारण छोटी पर महत्वपूर्ण बात/स्थिति पर ध्यान न देने से हानि/धोखा/समस्या की स्थिति बनती है। काम संबंधों (यौनिक) में/उतार-चढ़ाव में धोखे की स्थिति रहती है। आर्थिक लेन-देन में सावधानी रखें। इस समय व्यक्ति किसी के शोक सभा में शामिल होता है।"
+      },
+      "career": {
+        "en": "Conflicts and deception may occur in work, including sexual matters. Ventures are often started without proper thought, risking losses.",
+        "hi": "काम संबंधों में संघर्ष और धोखे की स्थिति हो सकती है, जिसमें यौनिक मामले भी शामिल हैं। बिना सोच-विचार के कार्य प्रारंभ करने से हानि हो सकती है।"
+      },
+      "relationships": {
+        "en": "Spiritual transformation toward someone occurs. Conflicts arise over joint assets and shared responsibilities.",
+        "hi": "किसी के प्रति आध्यात्मिक परिवर्तन होता है। संयुक्त संपत्ति और साझा जिम्मेदारियों को लेकर संघर्ष होते हैं।"
+      },
+      "money": {
+        "en": "Conflicts over joint finances such as assets, taxes, investments, and insurance. Financial fluctuations and deception are possible. Caution is advised in monetary transactions.",
+        "hi": "संयुक्त वित्त जैसे संपत्ति, कर, निवेश और बीमा को लेकर संघर्ष होते हैं। आर्थिक उतार-चढ़ाव और धोखे की संभावना रहती है। आर्थिक लेन-देन में सावधानी आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "No explicit health effects mentioned, but caution is implied due to stress from conflicts and deception.",
+        "hi": "स्वास्थ्य पर स्पष्ट प्रभाव नहीं बताया गया है, लेकिन संघर्ष और धोखे से तनाव के कारण सावधानी बरतनी चाहिए।"
+      }
+    },
+    "aliases": [
+      "Jupiter square Pluto",
+      "Jup SQR Plu",
+      "Jupiter-Square-Pluto",
+      "Jupiter Square to Pluto"
+    ]
+  }
+}

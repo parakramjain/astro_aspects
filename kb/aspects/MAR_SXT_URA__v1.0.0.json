@@ -1,0 +1,255 @@
+{
+  "id": "MAR_SEX_URA__v1.0.0",
+  "pair": [
+    "Mars",
+    "Sextile",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased activity focused on independence, organization, and new initiatives, with strong concentration on achieving goals and professional growth.",
+    "hi": "स्वतंत्रता, व्यवस्थितता, और नए कार्यों पर केंद्रित गतिविधि में वृद्धि, उद्देश्य की प्राप्ति और पेशेवर विकास पर गहरा ध्यान।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities for job promotions, increased responsibilities, and involvement in joint ventures or institutional work requiring accountability.",
+      "hi": "नौकरी में प्रगति के अवसर, बढ़ती जिम्मेदारियाँ, और संयुक्त व्यवसाय या संस्थागत कार्यों में भागीदारी जो जवाबदेही मांगती है।"
+    },
+    "relationships": {
+      "en": "Professional partnerships and joint ventures demand greater responsibility and cooperation.",
+      "hi": "पेशेवर साझेदारी और संयुक्त व्यवसायों में अधिक जिम्मेदारी और सहयोग की आवश्यकता।"
+    },
+    "money": {
+      "en": "Favorable period for handling tax, insurance, and joint asset matters.",
+      "hi": "कर, बीमा, और संयुक्त संपत्ति के मामलों के लिए अनुकूल समय।"
+    },
+    "health_adj": {
+      "en": "Suitable time for engaging in technical, scientific, or engineering work; opportunities for acquiring esoteric or future knowledge.",
+      "hi": "तकनीकी, वैज्ञानिक या इंजीनियरिंग कार्यों में संलग्न होने के लिए उपयुक्त समय; गूढ़ या भविष्य ज्ञान प्राप्ति के अवसर।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Job promotion",
+      "Increased responsibilities",
+      "Professional joint ventures",
+      "Tax and insurance matters",
+      "Technical or scientific projects",
+      "Acquisition of esoteric knowledge"
+    ],
+    "hi": [
+      "नौकरी में पदोन्नति",
+      "जिम्मेदारियों में वृद्धि",
+      "पेशेवर संयुक्त व्यवसाय",
+      "कर और बीमा के मामले",
+      "तकनीकी या वैज्ञानिक परियोजनाएँ",
+      "गूढ़ ज्ञान की प्राप्ति"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased responsibilities may require careful accountability.",
+      "Focus on goal completion might lead to overlooking other areas."
+    ],
+    "hi": [
+      "बढ़ती जिम्मेदारियाँ सावधानीपूर्वक जवाबदेही मांग सकती हैं।",
+      "लक्ष्य पूरा करने पर ध्यान अन्य क्षेत्रों की अनदेखी कर सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on organizing and initiating new projects.",
+        "Prepare for increased professional duties.",
+        "Engage in joint ventures with clear accountability."
+      ],
+      "hi": [
+        "नए कार्यों को व्यवस्थित करने और शुरू करने पर ध्यान दें।",
+        "पेशेवर कर्तव्यों में वृद्धि के लिए तैयारी करें।",
+        "स्पष्ट जवाबदेही के साथ संयुक्त व्यवसायों में भाग लें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Concentrate intensely on completing goals.",
+        "Address tax, insurance, and joint asset matters.",
+        "Pursue technical or scientific work and esoteric knowledge."
+      ],
+      "hi": [
+        "लक्ष्यों को पूरा करने पर गहरा एकाग्रता रखें।",
+        "कर, बीमा, और संयुक्त संपत्ति के मामलों को संभालें।",
+        "तकनीकी या वैज्ञानिक कार्य और गूढ़ ज्ञान प्राप्त करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain accountability in professional collaborations.",
+        "Continue focusing on goal achievement without losing balance."
+      ],
+      "hi": [
+        "पेशेवर सहयोगों में जवाबदेही बनाए रखें।",
+        "संतुलन खोए बिना लक्ष्य प्राप्ति पर ध्यान जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "independence",
+      "organization",
+      "new initiatives",
+      "goal completion",
+      "job promotion",
+      "responsibility",
+      "joint ventures",
+      "tax matters",
+      "technical work",
+      "esoteric knowledge"
+    ],
+    "hi": [
+      "स्वतंत्रता",
+      "व्यवस्थितता",
+      "नए कार्य",
+      "लक्ष्य पूरा करना",
+      "नौकरी में प्रगति",
+      "जिम्मेदारी",
+      "संयुक्त व्यवसाय",
+      "कर के मामले",
+      "तकनीकी कार्य",
+      "गूढ़ ज्ञान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "focused",
+      "responsible",
+      "productive",
+      "accountable",
+      "opportunistic"
+    ],
+    "hi": [
+      "एकाग्र",
+      "जिम्मेदार",
+      "उत्पादक",
+      "जवाबदेह",
+      "अवसरवादी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "independence",
+      "technical advancement",
+      "esoteric learning"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "स्वतंत्रता",
+      "तकनीकी उन्नति",
+      "गूढ़ अध्ययन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-sxt-ura",
+      "core": "A period marked by increased activity toward independence, organization, and new initiatives, emphasizing goal completion and professional advancement.",
+      "tone": "Warm, neutral, and encouraging focus on growth and responsibility."
+    },
+    "hi": {
+      "title": "मंगल षट्कोण यूरेनस",
+      "core": "स्वतंत्रता, व्यवस्थितता, और नए कार्यों की ओर बढ़ती गतिविधि का समय, जो लक्ष्य पूरा करने और पेशेवर उन्नति पर जोर देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और विकास व जिम्मेदारी पर ध्यान केंद्रित करने वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Activity increases around desires for independence, organization, and new initiatives with intense focus on goal completion and professional growth.",
+        "hi": "स्वतंत्रता, व्यवस्थितता, और नए कार्यों की इच्छा के आसपास गतिविधि बढ़ती है, उद्देश्य की पूर्ति और पेशेवर विकास पर गहरा ध्यान रहता है।"
+      },
+      "career": {
+        "en": "Job promotions, increased responsibilities, and professional joint ventures requiring accountability are prominent.",
+        "hi": "नौकरी में पदोन्नति, बढ़ती जिम्मेदारियाँ, और जवाबदेही मांगने वाले पेशेवर संयुक्त व्यवसाय प्रमुख हैं।"
+      },
+      "relationships": {
+        "en": "Professional partnerships and institutional works demand more responsibility and cooperation.",
+        "hi": "पेशेवर साझेदारी और संस्थागत कार्यों में अधिक जिम्मेदारी और सहयोग की आवश्यकता होती है।"
+      },
+      "money": {
+        "en": "Favorable time for tax, insurance, and joint asset matters.",
+        "hi": "कर, बीमा, और संयुक्त संपत्ति के मामलों के लिए अनुकूल समय।"
+      },
+      "health_adj": {
+        "en": "Suitable period for technical, scientific, or engineering work and opportunities for esoteric or future knowledge.",
+        "hi": "तकनीकी, वैज्ञानिक या इंजीनियरिंग कार्यों के लिए उपयुक्त समय और गूढ़ या भविष्य ज्ञान के अवसर।"
+      }
+    },
+    "aliases": [
+      "Mars sextile Uranus",
+      "Mar SEX Ura",
+      "Mars-Sextile-Uranus",
+      "Mars Sextile to Uranus"
+    ]
+  }
+}

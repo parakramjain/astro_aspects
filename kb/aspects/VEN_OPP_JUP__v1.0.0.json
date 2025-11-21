@@ -1,0 +1,239 @@
+{
+  "id": "VEN_OPP_JUP__v1.0.0",
+  "pair": [
+    "Venus",
+    "Opposition",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates tendencies toward laziness, emotional imbalance, and overspending, with risks of deception and mismanagement in important areas.",
+    "hi": "यह योग आलस्य, भावनात्मक असंतुलन और अत्यधिक खर्च की प्रवृत्ति दर्शाता है, साथ ही महत्वपूर्ण क्षेत्रों में धोखाधड़ी और गड़बड़ी का खतरा होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Risk of deception or mismanagement in important tasks; avoid volatile work environments.",
+      "hi": "महत्वपूर्ण कार्यों में धोखा या गड़बड़ी का खतरा; उतार-चढ़ाव वाले कामों से बचें।"
+    },
+    "relationships": {
+      "en": "Emotional imbalance and unreliability may affect interactions; tendency to please others excessively.",
+      "hi": "भावनात्मक असंतुलन और अविश्वसनीयता संबंधों को प्रभावित कर सकती है; दूसरों को खुश करने की प्रवृत्ति।"
+    },
+    "money": {
+      "en": "Tendency for overspending beyond means, especially on food, drinks, and luxury; wastes money to please others.",
+      "hi": "आवश्यकता से अधिक खर्च, विशेषकर खाने-पीने और विलासितापूर्ण वस्तुओं पर; दूसरों को खुश करने के लिए फिजूल खर्च।"
+    },
+    "health_adj": {
+      "en": "Increased laziness and emotional sadness may affect wellbeing.",
+      "hi": "आलस्य और उदासी बढ़ने से स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Leisure travel",
+      "Financial overspending",
+      "Emotional challenges"
+    ],
+    "hi": [
+      "आराम या मनोरंजन के लिए यात्रा",
+      "वित्तीय अत्यधिक खर्च",
+      "भावनात्मक चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Fraud in religious, social, educational, or cultural activities.",
+      "Deception or mismanagement in important responsibilities.",
+      "Wasting time on trivial tasks."
+    ],
+    "hi": [
+      "धार्मिक, सामाजिक, शैक्षणिक या सांस्कृतिक कार्यों में धोखाधड़ी।",
+      "महत्वपूर्ण जिम्मेदारियों में धोखा या गड़बड़ी।",
+      "बेकार के कामों में समय बर्बाद करना।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious with spending and avoid unnecessary luxury.",
+        "Maintain emotional balance and avoid laziness.",
+        "Be vigilant in professional duties to prevent mismanagement."
+      ],
+      "hi": [
+        "खर्च में सावधानी रखें और अनावश्यक विलासिता से बचें।",
+        "भावनात्मक संतुलन बनाए रखें और आलस्य से बचें।",
+        "पेशेवर जिम्मेदारियों में सतर्क रहें ताकि गड़बड़ी न हो।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid volatile or unstable work tasks.",
+        "Limit time spent on trivial or unproductive activities."
+      ],
+      "hi": [
+        "उतार-चढ़ाव वाले या अस्थिर कार्यों से बचें।",
+        "बेकार या अप्रोडक्टिव कामों में समय सीमित करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually reduce overspending habits.",
+        "Focus on stabilizing emotions and improving reliability."
+      ],
+      "hi": [
+        "अत्यधिक खर्च की आदत धीरे-धीरे कम करें।",
+        "भावनाओं को स्थिर करने और विश्वसनीयता बढ़ाने पर ध्यान दें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "laziness",
+      "emotional imbalance",
+      "overspending",
+      "unreliability",
+      "deception",
+      "leisure travel",
+      "waste"
+    ],
+    "hi": [
+      "आलस्य",
+      "भावनात्मक असंतुलन",
+      "अत्यधिक खर्च",
+      "अविश्वसनीयता",
+      "धोखाधड़ी",
+      "मनोरंजन यात्रा",
+      "फिजूल खर्च"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "caution",
+      "emotional",
+      "financial risk",
+      "instability"
+    ],
+    "hi": [
+      "सावधानी",
+      "भावनात्मक",
+      "वित्तीय जोखिम",
+      "अस्थिरता"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Venus": 0.9,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional challenges",
+      "financial caution",
+      "professional vigilance"
+    ],
+    "hi": [
+      "भावनात्मक चुनौतियाँ",
+      "वित्तीय सावधानी",
+      "पेशेवर सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ven-opp-jup",
+      "core": "Tendencies toward laziness, emotional imbalance, overspending, and risk of deception in key areas.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "शुक्र का बृहस्पति के विपरीत योग",
+      "core": "आलस्य, भावनात्मक असंतुलन, अत्यधिक खर्च और महत्वपूर्ण क्षेत्रों में धोखाधड़ी की प्रवृत्ति।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Laziness, sadness, lying, or emotional imbalance may occur. Tendency for overspending or unreliability exists.",
+        "hi": "आलस्यए उदासीए झूठ बोलने या भावनात्मक असंतुलन की स्थिति रहती है। अत्यधिक खर्च या अविश्वसनीयता की प्रवृत्ति होती है।"
+      },
+      "career": {
+        "en": "Risk of deception or mismanagement in important tasks/responsibilities. Avoid volatile work in professional scenarios.",
+        "hi": "इस समय महत्वपूर्ण काम या जिम्मेदारियों में धोखा या गड़बड़ी का खतरा रहता है। पेशेवर स्थितियों में उतार-चढ़ाव वाले कामों से बचना चाहिए।"
+      },
+      "relationships": {
+        "en": "Emotional imbalance and unreliability may affect interactions; wastes time on trivial tasks.",
+        "hi": "भावनात्मक असंतुलन और अविश्वसनीयता संबंधों को प्रभावित कर सकती है; बेकार के कामों में समय बर्बाद करता है।"
+      },
+      "money": {
+        "en": "Excessive focus on food/drinks or luxurious meals. Spends beyond means. Wastes money to please others.",
+        "hi": "खाने.पीने या विलासितापूर्ण भोजन पर ध्यान अधिक रहता है। जरूरत से ज्यादा खर्च करता है। दूसरों को खुश करने के लिए फिजूल खर्च करता है।"
+      },
+      "health_adj": {
+        "en": "Laziness increases. Sadness and emotional imbalance may affect wellbeing.",
+        "hi": "आलस्य बढ़ता है। उदासी और भावनात्मक असंतुलन स्वास्थ्य को प्रभावित कर सकते हैं।"
+      }
+    },
+    "aliases": [
+      "Venus opposition Jupiter",
+      "Ven OPP Jup",
+      "Venus-Opposition-Jupiter",
+      "Venus Opposition to Jupiter"
+    ]
+  }
+}

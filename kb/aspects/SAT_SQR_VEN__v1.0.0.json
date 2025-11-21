@@ -1,0 +1,239 @@
+{
+  "id": "SAT_SQR_VEN__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Square",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The person becomes emotionally distant, prioritizing duty over emotional support, with heavy responsibilities in career and relationships, and possible legal or financial complications.",
+    "hi": "व्यक्ति भावनात्मक रूप से ठंडा हो जाता है, भावनात्मक समर्थन से अधिक कर्तव्य को प्राथमिकता देता है, व्यवसाय और संबंधों में भारी जिम्मेदारियाँ होती हैं, और कानूनी या वित्तीय समस्याएँ हो सकती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Responsibilities in career feel heavy and demanding, possibly causing stress and conflicts.",
+      "hi": "व्यवसाय में जिम्मेदारियाँ भारी और मांगलिक होती हैं, जिससे तनाव और टकराव हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "Emotional distance and conflicts may arise, with a focus on duty rather than empathy or emotional support.",
+      "hi": "भावनात्मक दूरी और टकराव हो सकते हैं, जहाँ सहानुभूति या भावनात्मक समर्थन की बजाय कर्तव्य पर ध्यान रहता है।"
+    },
+    "money": {
+      "en": "Legal and financial complications may occur, requiring careful management.",
+      "hi": "कानूनी और वित्तीय समस्याएँ हो सकती हैं, जिनके लिए सावधानीपूर्वक प्रबंधन आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Emotional coldness and stress from heavy responsibilities may affect overall well-being.",
+      "hi": "भावनात्मक ठंडक और भारी जिम्मेदारियों से उत्पन्न तनाव समग्र स्वास्थ्य को प्रभावित कर सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Career challenges",
+      "Relationship conflicts",
+      "Legal or financial issues"
+    ],
+    "hi": [
+      "व्यवसायिक चुनौतियाँ",
+      "संबंधों में टकराव",
+      "कानूनी या वित्तीय समस्याएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Emotional detachment may strain personal relationships.",
+      "Heavy responsibilities can increase stress levels.",
+      "Potential for legal or financial complications."
+    ],
+    "hi": [
+      "भावनात्मक दूरी व्यक्तिगत संबंधों को प्रभावित कर सकती है।",
+      "भारी जिम्मेदारियाँ तनाव बढ़ा सकती हैं।",
+      "कानूनी या वित्तीय समस्याओं की संभावना।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Acknowledge emotional distance and seek balance between duty and empathy.",
+        "Manage responsibilities carefully to avoid overload."
+      ],
+      "hi": [
+        "भावनात्मक दूरी को स्वीकारें और कर्तव्य तथा सहानुभूति के बीच संतुलन बनाएं।",
+        "जिम्मेदारियों का सावधानीपूर्वक प्रबंधन करें ताकि अधिक बोझ न हो।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on fulfilling duties with awareness of emotional impacts.",
+        "Be vigilant about legal and financial matters."
+      ],
+      "hi": [
+        "कर्तव्यों को भावनात्मक प्रभावों के प्रति जागरूकता के साथ पूरा करें।",
+        "कानूनी और वित्तीय मामलों में सतर्क रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Emotional distance may lessen, allowing more empathy.",
+        "Responsibilities may become more manageable."
+      ],
+      "hi": [
+        "भावनात्मक दूरी कम हो सकती है, जिससे अधिक सहानुभूति संभव है।",
+        "जिम्मेदारियाँ अधिक संभालने योग्य हो सकती हैं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional distance",
+      "duty",
+      "responsibility",
+      "career stress",
+      "relationship conflict",
+      "legal issues",
+      "financial complications"
+    ],
+    "hi": [
+      "भावनात्मक दूरी",
+      "कर्तव्य",
+      "जिम्मेदारी",
+      "व्यवसायिक तनाव",
+      "संबंधों में टकराव",
+      "कानूनी समस्याएँ",
+      "वित्तीय जटिलताएँ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "duty-focused",
+      "stressful",
+      "practical"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "कर्तव्य-केंद्रित",
+      "तनावपूर्ण",
+      "व्यावहारिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional restraint",
+      "responsibility burden",
+      "conflict tension",
+      "legal-financial caution"
+    ],
+    "hi": [
+      "भावनात्मक संयम",
+      "जिम्मेदारी का बोझ",
+      "टकराव का तनाव",
+      "कानूनी-वित्तीय सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-squ-ven",
+      "core": "Emotional distance and heavy responsibilities mark this aspect, with potential legal and financial challenges.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "शनि वर्ग शुक्र",
+      "core": "यह योग भावनात्मक दूरी और भारी जिम्मेदारियों को दर्शाता है, साथ ही कानूनी और वित्तीय चुनौतियाँ हो सकती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Person becomes emotionally distant, prioritizing duty over emotional support, with heavy career and relationship responsibilities and possible legal or financial complications.",
+        "hi": "व्यक्ति भावनात्मक रूप से ठंडा हो जाता है, भावनात्मक समर्थन से अधिक कर्तव्य को प्राथमिकता देता है, व्यवसाय और संबंधों में भारी जिम्मेदारियाँ होती हैं, और कानूनी या वित्तीय समस्याएँ हो सकती हैं।"
+      },
+      "career": {
+        "en": "Career responsibilities feel heavy and demanding, possibly causing stress and conflicts.",
+        "hi": "व्यवसाय में जिम्मेदारियाँ भारी और मांगलिक होती हैं, जिससे तनाव और टकराव हो सकते हैं।"
+      },
+      "relationships": {
+        "en": "Emotional distance and conflicts arise, focusing on duty rather than empathy or emotional support.",
+        "hi": "भावनात्मक दूरी और टकराव होते हैं, जहाँ सहानुभूति या भावनात्मक समर्थन की बजाय कर्तव्य पर ध्यान रहता है।"
+      },
+      "money": {
+        "en": "Legal and financial complications may occur, requiring careful management.",
+        "hi": "कानूनी और वित्तीय समस्याएँ हो सकती हैं, जिनके लिए सावधानीपूर्वक प्रबंधन आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "Emotional coldness and stress from heavy responsibilities may affect overall well-being.",
+        "hi": "भावनात्मक ठंडक और भारी जिम्मेदारियों से उत्पन्न तनाव समग्र स्वास्थ्य को प्रभावित कर सकता है।"
+      }
+    },
+    "aliases": [
+      "Saturn square Venus",
+      "Sat SQR Ven",
+      "Saturn-Square-Venus",
+      "Saturn Square to Venus"
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "id": "NEP_CON_MAR__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Conjunction",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Experiences of spiritual or psychic activities, revealing hidden desires, and involvement in secretive work or business. Difficulty controlling excitatory impulses and maintaining confidentiality to avoid opposition.",
+    "hi": "आत्मज्ञान या अंतर्ज्ञान की गतिविधियों, छुपी इच्छाओं के प्रकटीकरण और गुप्त कार्य या व्यवसाय में संलिप्तता का अनुभव। उत्तेजक प्रवृत्तियों पर नियंत्रण में कठिनाई और विरोध से बचाने के लिए गोपनीयता बनाए रखना।"
+  },
+  "facets": {
+    "career": {
+      "en": "Engagement with religious or specialized study institutions; need for extreme caution in financial dealings.",
+      "hi": "धार्मिक या विशेष अध्ययन संस्थानों से जुड़ाव; आर्थिक व्यवहार में अत्यधिक सावधानी की आवश्यकता।"
+    },
+    "relationships": {
+      "en": "Maintains confidentiality in certain work situations to avoid conflict or opposition.",
+      "hi": "कुछ कार्य स्थितियों को विरोध से बचाने के लिए गोपनीय रखता है।"
+    },
+    "money": {
+      "en": "Gambling tends to cause losses; financial dealings require careful attention.",
+      "hi": "जुए से हानि होती है; आर्थिक व्यवहार में सावधानी आवश्यक है।"
+    },
+    "health_adj": {
+      "en": "Anesthesia during surgeries or adverse health conditions may not produce optimal results.",
+      "hi": "सर्जरी या विपरीत स्वास्थ्य स्थितियों में बेहोशी के सही परिणाम नहीं मिलते।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual or psychic revelations",
+      "Secretive work or business situations",
+      "Connection with religious or special study institutions"
+    ],
+    "hi": [
+      "आत्मज्ञान या अंतर्ज्ञान के अनुभव",
+      "गुप्त कार्य या व्यवसाय की स्थिति",
+      "धार्मिक या विशेष अध्ययन संस्थानों से जुड़ाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Loss of control over excitatory tendencies",
+      "Poor results from anesthesia in surgeries or health issues",
+      "Financial losses from gambling",
+      "Need for extreme caution in financial matters"
+    ],
+    "hi": [
+      "उत्तेजक प्रवृत्तियों पर नियंत्रण खोना",
+      "सर्जरी या स्वास्थ्य समस्याओं में बेहोशी के खराब परिणाम",
+      "जुए से आर्थिक हानि",
+      "आर्थिक मामलों में अत्यधिक सावधानी"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Maintain confidentiality in sensitive work situations",
+        "Exercise caution in financial dealings",
+        "Engage thoughtfully with spiritual or religious institutions"
+      ],
+      "hi": [
+        "संवेदनशील कार्य स्थितियों में गोपनीयता बनाए रखें",
+        "आर्थिक व्यवहार में सावधानी बरतें",
+        "आध्यात्मिक या धार्मिक संस्थानों से सोच-समझकर जुड़ें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be vigilant about excitatory impulses",
+        "Avoid gambling to prevent losses",
+        "Prepare carefully for surgeries or health procedures"
+      ],
+      "hi": [
+        "उत्तेजक प्रवृत्तियों के प्रति सतर्क रहें",
+        "हानि से बचने के लिए जुआ न खेलें",
+        "सर्जरी या स्वास्थ्य प्रक्रियाओं की अच्छी तैयारी करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually regain control over impulses",
+        "Reduce secrecy as opposition diminishes",
+        "Review financial practices for improved safety"
+      ],
+      "hi": [
+        "प्रवृत्तियों पर नियंत्रण धीरे-धीरे वापस पाएं",
+        "विरोध कम होने पर गोपनीयता कम करें",
+        "बेहतर सुरक्षा के लिए आर्थिक व्यवहार की समीक्षा करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "spiritual activities",
+      "hidden desires",
+      "secret work",
+      "confidentiality",
+      "religious institutions",
+      "excitatory tendencies",
+      "financial caution",
+      "gambling losses",
+      "anesthesia risks"
+    ],
+    "hi": [
+      "आत्मज्ञान गतिविधियाँ",
+      "छुपी इच्छाएँ",
+      "गुप्त कार्य",
+      "गोपनीयता",
+      "धार्मिक संस्थान",
+      "उत्तेजक प्रवृत्तियाँ",
+      "आर्थिक सावधानी",
+      "जुए से हानि",
+      "बेहोशी जोखिम"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "spiritual",
+      "secretive",
+      "cautious",
+      "psychic",
+      "financially sensitive"
+    ],
+    "hi": [
+      "आध्यात्मिक",
+      "गुप्त",
+      "सावधान",
+      "अंतर्ज्ञान",
+      "आर्थिक रूप से संवेदनशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spirituality",
+      "confidentiality",
+      "financial caution",
+      "health vigilance"
+    ],
+    "hi": [
+      "आध्यात्मिकता",
+      "गोपनीयता",
+      "आर्थिक सावधानी",
+      "स्वास्थ्य सतर्कता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-con-mar",
+      "core": "This aspect indicates experiences of spiritual insight, revealing hidden desires, and involvement in secretive or confidential work. It calls for caution in financial dealings and awareness of health risks related to anesthesia.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "नेप्च्यून संयोजन मंगल",
+      "core": "यह योग आत्मज्ञान, छुपी इच्छाओं के प्रकटीकरण और गुप्त कार्यों में संलिप्तता का संकेत देता है। आर्थिक व्यवहार में सावधानी और बेहोशी से जुड़ी स्वास्थ्य जोखिमों का ध्यान रखना आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Experiences of spiritual or psychic activities, revealing hidden desires, and involvement in secretive work or business. Difficulty controlling excitatory impulses and maintaining confidentiality to avoid opposition.",
+        "hi": "आत्मज्ञान या अंतर्ज्ञान की गतिविधियों, छुपी इच्छाओं के प्रकटीकरण और गुप्त कार्य या व्यवसाय में संलिप्तता का अनुभव। उत्तेजक प्रवृत्तियों पर नियंत्रण में कठिनाई और विरोध से बचाने के लिए गोपनीयता बनाए रखना।"
+      },
+      "career": {
+        "en": "Engagement with religious or specialized study institutions; need for extreme caution in financial dealings.",
+        "hi": "धार्मिक या विशेष अध्ययन संस्थानों से जुड़ाव; आर्थिक व्यवहार में अत्यधिक सावधानी की आवश्यकता।"
+      },
+      "relationships": {
+        "en": "Maintains confidentiality in certain work situations to avoid conflict or opposition.",
+        "hi": "कुछ कार्य स्थितियों को विरोध से बचाने के लिए गोपनीय रखता है।"
+      },
+      "money": {
+        "en": "Gambling tends to cause losses; financial dealings require careful attention.",
+        "hi": "जुए से हानि होती है; आर्थिक व्यवहार में सावधानी आवश्यक है।"
+      },
+      "health_adj": {
+        "en": "Anesthesia during surgeries or adverse health conditions may not produce optimal results.",
+        "hi": "सर्जरी या विपरीत स्वास्थ्य स्थितियों में बेहोशी के सही परिणाम नहीं मिलते।"
+      }
+    },
+    "aliases": [
+      "Neptune conjunction Mars",
+      "Nep CON Mar",
+      "Neptune-Conjunction-Mars",
+      "Neptune Conjunction to Mars"
+    ]
+  }
+}

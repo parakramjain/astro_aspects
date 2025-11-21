@@ -1,0 +1,239 @@
+{
+  "id": "MOO_CON_JUP__v1.0.0",
+  "pair": [
+    "Moon",
+    "Conjunction",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Opportunities arise for engaging in religious, educational, or cultural activities within the home or family environment. There may be visits from friends or relatives coming from distant places, or the person might return home from afar.",
+    "hi": "घर या परिवार के वातावरण में धार्मिक, शैक्षिक या सांस्कृतिक गतिविधियों में संलग्न होने के अवसर मिलते हैं। दूरस्थ स्थानों से मित्र या परिजन मिलने आ सकते हैं, या व्यक्ति दूर से घर लौट सकता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable conditions for activities related to education or cultural knowledge at home.",
+      "hi": "घर पर शैक्षिक या सांस्कृतिक ज्ञान से जुड़ी गतिविधियों के लिए अनुकूल परिस्थितियाँ।"
+    },
+    "relationships": {
+      "en": "Visits and reunions with friends or relatives from distant places strengthen family bonds.",
+      "hi": "दूर से मित्रों या परिजनों के आने से पारिवारिक संबंध मजबूत होते हैं।"
+    },
+    "money": {
+      "en": "No specific financial indications are noted.",
+      "hi": "वित्तीय मामलों के लिए कोई विशेष संकेत नहीं हैं।"
+    },
+    "health_adj": {
+      "en": "No particular health adjustments or concerns are indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन या चिंता नहीं दर्शाई गई है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Religious or cultural gatherings at home",
+      "Visits from distant friends or relatives",
+      "Returning home from afar"
+    ],
+    "hi": [
+      "घर पर धार्मिक या सांस्कृतिक आयोजन",
+      "दूरस्थ मित्रों या परिजनों का आगमन",
+      "दूर से घर लौटना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks are mentioned in the descriptions."
+    ],
+    "hi": [
+      "वर्णनों में कोई स्पष्ट जोखिम नहीं बताए गए हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Prepare for and welcome guests from afar.",
+        "Engage in home-based religious or educational activities."
+      ],
+      "hi": [
+        "दूर से आने वाले मेहमानों का स्वागत करने की तैयारी करें।",
+        "घर पर धार्मिक या शैक्षिक गतिविधियों में भाग लें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Host or participate in cultural or religious events at home.",
+        "Connect with friends or relatives visiting from distant places."
+      ],
+      "hi": [
+        "घर पर सांस्कृतिक या धार्मिक कार्यक्रमों की मेजबानी करें या भाग लें।",
+        "दूर से आने वाले मित्रों या परिजनों से संपर्क करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on recent visits or returns from afar.",
+        "Consider the impact of cultural or educational activities experienced."
+      ],
+      "hi": [
+        "हाल ही में हुए दूरस्थ आगमन या वापसी पर विचार करें।",
+        "अनुभव की गई सांस्कृतिक या शैक्षिक गतिविधियों के प्रभाव पर ध्यान दें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "home",
+      "family",
+      "religious activities",
+      "educational activities",
+      "cultural activities",
+      "visits",
+      "friends",
+      "relatives",
+      "returning home"
+    ],
+    "hi": [
+      "घर",
+      "परिवार",
+      "धार्मिक गतिविधियाँ",
+      "शैक्षिक गतिविधियाँ",
+      "सांस्कृतिक गतिविधियाँ",
+      "मिलना",
+      "मित्र",
+      "परिजन",
+      "घर लौटना"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "opportunity",
+      "social",
+      "cultural",
+      "educational",
+      "family-oriented"
+    ],
+    "hi": [
+      "अवसर",
+      "सामाजिक",
+      "सांस्कृतिक",
+      "शैक्षिक",
+      "परिवार-केंद्रित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "home environment",
+      "spiritual and cultural engagement",
+      "long-distance connections"
+    ],
+    "hi": [
+      "घर का वातावरण",
+      "आध्यात्मिक और सांस्कृतिक जुड़ाव",
+      "दूरस्थ संबंध"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-con-jup",
+      "core": "This aspect highlights opportunities for religious, educational, or cultural activities at home, along with visits from distant friends or relatives.",
+      "tone": "Warm, inviting, and optimistic"
+    },
+    "hi": {
+      "title": "चंद्रमा युति बृहस्पति",
+      "core": "यह योग घर पर धार्मिक, शैक्षिक या सांस्कृतिक गतिविधियों के अवसरों को दर्शाता है, साथ ही दूरस्थ मित्रों या परिजनों के आने का संकेत देता है।",
+      "tone": "सहानुभूतिपूर्ण, स्वागतयोग्य, और आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Opportunities for religious, educational, or cultural activities exist at home or within the family. Visits from distant friends or relatives may occur, or the person may return home from afar.",
+        "hi": "घर या परिवार में धार्मिक, शैक्षिक या सांस्कृतिक गतिविधियों के अवसर रहते हैं। दूरस्थ मित्र या परिजन आ सकते हैं, या व्यक्ति दूर से घर लौट सकता है।"
+      },
+      "career": {
+        "en": "Favorable conditions for home-based educational or cultural pursuits.",
+        "hi": "घर पर आधारित शैक्षिक या सांस्कृतिक प्रयासों के लिए अनुकूल परिस्थितियाँ।"
+      },
+      "relationships": {
+        "en": "Visits and reunions with friends or relatives from distant locations strengthen bonds.",
+        "hi": "दूरस्थ स्थानों से मित्रों या परिजनों के आगमन से संबंध मजबूत होते हैं।"
+      },
+      "money": {
+        "en": "No specific financial details are indicated.",
+        "hi": "कोई विशेष वित्तीय विवरण नहीं दिए गए हैं।"
+      },
+      "health_adj": {
+        "en": "No particular health-related notes are mentioned.",
+        "hi": "कोई विशेष स्वास्थ्य संबंधी नोट नहीं दिए गए हैं।"
+      }
+    },
+    "aliases": [
+      "Moon conjunction Jupiter",
+      "Moo CON Jup",
+      "Moon-Conjunction-Jupiter",
+      "Moon Conjunction to Jupiter"
+    ]
+  }
+}

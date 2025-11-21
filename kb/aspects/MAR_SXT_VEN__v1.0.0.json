@@ -1,0 +1,235 @@
+{
+  "id": "MAR_SEX_VEN__v1.0.0",
+  "pair": [
+    "Mars",
+    "Sextile",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A favorable period for new beginnings in art and business, increased creative energy, physical activeness, and opportunities for unmarried people to find love.",
+    "hi": "कला और व्यवसाय में नई शुरुआत के लिए अनुकूल समय, रचनात्मक ऊर्जा और शारीरिक सक्रियता में वृद्धि, तथा अविवाहित लोगों के लिए प्रेम के अवसर।"
+  },
+  "facets": {
+    "career": {
+      "en": "Good time to start new ventures in art and business with enhanced creativity.",
+      "hi": "कला और व्यवसाय में नई परियोजनाएँ शुरू करने के लिए अच्छा समय, रचनात्मकता बढ़ी हुई।"
+    },
+    "relationships": {
+      "en": "Unmarried individuals may find love; favorable for women.",
+      "hi": "अविवाहित लोगों को प्रेम के अवसर मिल सकते हैं; महिलाओं के लिए अनुकूल समय।"
+    },
+    "money": {
+      "en": "Positive prospects in business ventures related to art and creativity.",
+      "hi": "कला और रचनात्मकता से जुड़े व्यवसाय में सकारात्मक संभावनाएँ।"
+    },
+    "health_adj": {
+      "en": "Increased physical activeness and vitality.",
+      "hi": "शारीरिक सक्रियता और ऊर्जा में वृद्धि।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New beginnings in art",
+      "Business opportunities",
+      "Love opportunities for unmarried"
+    ],
+    "hi": [
+      "कला में नई शुरुआत",
+      "व्यवसाय के अवसर",
+      "अविवाहितों के लिए प्रेम के अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Initiate creative projects",
+        "Explore new business ideas",
+        "Be open to romantic possibilities"
+      ],
+      "hi": [
+        "रचनात्मक परियोजनाएँ शुरू करें",
+        "नए व्यवसायिक विचार तलाशें",
+        "प्रेम के अवसरों के लिए खुले रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on artistic and business activities",
+        "Engage in physical and creative pursuits"
+      ],
+      "hi": [
+        "कलात्मक और व्यवसायिक गतिविधियों पर ध्यान दें",
+        "शारीरिक और रचनात्मक कार्यों में संलग्न हों"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain creative momentum",
+        "Sustain physical energy"
+      ],
+      "hi": [
+        "रचनात्मक गति बनाए रखें",
+        "शारीरिक ऊर्जा बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "new beginnings",
+      "art",
+      "business",
+      "love",
+      "creative energy",
+      "physical activeness",
+      "unmarried",
+      "women"
+    ],
+    "hi": [
+      "नई शुरुआत",
+      "कला",
+      "व्यवसाय",
+      "प्रेम",
+      "रचनात्मक ऊर्जा",
+      "शारीरिक सक्रियता",
+      "अविवाहित",
+      "महिलाएँ"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "creative",
+      "active",
+      "opportunistic"
+    ],
+    "hi": [
+      "अनुकूल",
+      "रचनात्मक",
+      "सक्रिय",
+      "अवसरपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "new opportunities",
+      "love and relationships",
+      "physical vitality"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "नए अवसर",
+      "प्रेम और संबंध",
+      "शारीरिक जीवंतता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-sxt-ven",
+      "core": "A favorable time for new artistic and business beginnings, enhanced creativity, physical energy, and romantic opportunities for unmarried individuals.",
+      "tone": "Warm, positive, encouraging"
+    },
+    "hi": {
+      "title": "मंगल षट्कोण शुक्र",
+      "core": "नई कलात्मक और व्यवसायिक शुरुआत के लिए अनुकूल समय, बढ़ी हुई रचनात्मकता, शारीरिक ऊर्जा, और अविवाहितों के लिए प्रेम के अवसर।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक, प्रोत्साहक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Favourable time for new beginnings in art and business. Unmarried people may find love. Creative energy and physical activeness increase.",
+        "hi": "कला और व्यवसाय में नई शुरुआत के योग बनते हैं। अविवाहित लोगों को प्रेम के अवसर मिलते हैं। महिलाओं के लिए यह समय अनुकूल होता है। रचनात्मक ऊर्जा और शारीरिक सक्रियता बनी रहती है।"
+      },
+      "career": {
+        "en": "New beginnings in art and business with increased creativity.",
+        "hi": "कला और व्यवसाय में नई शुरुआत के लिए अनुकूल समय, रचनात्मकता बढ़ी हुई।"
+      },
+      "relationships": {
+        "en": "Unmarried people may find love; favorable for women.",
+        "hi": "अविवाहित लोगों को प्रेम के अवसर मिलते हैं; महिलाओं के लिए यह समय अनुकूल होता है।"
+      },
+      "money": {
+        "en": "Positive prospects in art and business ventures.",
+        "hi": "कला और व्यवसाय से जुड़े सकारात्मक अवसर।"
+      },
+      "health_adj": {
+        "en": "Increased creative energy and physical activeness.",
+        "hi": "रचनात्मक ऊर्जा और शारीरिक सक्रियता बनी रहती है।"
+      }
+    },
+    "aliases": [
+      "Mars sextile Venus",
+      "Mar SEX Ven",
+      "Mars-Sextile-Venus",
+      "Mars Sextile to Venus"
+    ]
+  }
+}

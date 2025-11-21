@@ -1,0 +1,249 @@
+{
+  "id": "MER_SQR_SUN__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Square",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates a tendency toward argumentative behavior and impaired fair judgment. Ego and social status knowledge cause conflicts, leading to problems in social and professional relationships, mental distress, and clashes in responsibilities.",
+    "hi": "यह योग व्यक्ति में वाद-विवाद की प्रवृत्ति और न्याय करने की क्षमता में कमी दर्शाता है। अहंकार और वर्ग ज्ञान के कारण संघर्ष उत्पन्न होते हैं, जो सामाजिक और व्यावसायिक संबंधों में समस्या, मानसिक तनाव और जिम्मेदारियों में टकराव लाते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Conflicts may arise in intellectual debates, business, and specific methods, causing clashes in social work and significant responsibilities.",
+      "hi": "बौद्धिक तर्क, व्यवसाय और विशेष पद्धतियों में विवाद हो सकते हैं, जिससे सामाजिक कार्य और महत्वपूर्ण जिम्मेदारियों में टकराव होता है।"
+    },
+    "relationships": {
+      "en": "Egoistic conversations can create problems with family, friends, authority figures, and colleagues, affecting social relations.",
+      "hi": "अहंकारी वार्तालाप परिवार, मित्र, अधिकारी वर्ग और सहयोगियों के साथ सामाजिक संबंधों में समस्या उत्पन्न कर सकते हैं।"
+    },
+    "money": {
+      "en": "Disputes in business or methods may lead to financial difficulties or challenges in managing resources.",
+      "hi": "व्यवसाय या पद्धतियों में विवाद वित्तीय कठिनाइयों या संसाधनों के प्रबंधन में चुनौतियाँ ला सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Disorganized living and working conditions may contribute to mental depression and emotional distress.",
+      "hi": "अव्यवस्थित रहन-सहन और कार्य की स्थिति मानसिक अवसाद और भावनात्मक तनाव का कारण बन सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Social conflicts",
+      "Professional disputes",
+      "Mental health challenges",
+      "Responsibility clashes"
+    ],
+    "hi": [
+      "सामाजिक संघर्ष",
+      "व्यावसायिक विवाद",
+      "मानसिक स्वास्थ्य की चुनौतियाँ",
+      "जिम्मेदारियों में टकराव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Loss of fair judgment",
+      "Ego-driven conflicts",
+      "Problems in social and professional relationships",
+      "Mental depression due to disorganization"
+    ],
+    "hi": [
+      "न्याय करने की क्षमता का नुकसान",
+      "अहंकार से उत्पन्न संघर्ष",
+      "सामाजिक और व्यावसायिक संबंधों में समस्या",
+      "अव्यवस्था के कारण मानसिक अवसाद"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of ego in conversations",
+        "Seek balanced judgment in disputes",
+        "Maintain organization in living and workspaces"
+      ],
+      "hi": [
+        "वार्तालाप में अहंकार से सावधान रहें",
+        "विवादों में संतुलित न्याय करें",
+        "रहने और कार्यस्थल को व्यवस्थित रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid egoistic arguments",
+        "Focus on clear communication",
+        "Manage responsibilities carefully"
+      ],
+      "hi": [
+        "अहंकारी बहस से बचें",
+        "स्पष्ट संवाद पर ध्यान दें",
+        "जिम्मेदारियों को सावधानी से संभालें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on causes of conflicts",
+        "Reorganize lifestyle and work habits",
+        "Seek harmony in social interactions"
+      ],
+      "hi": [
+        "संघर्षों के कारणों पर विचार करें",
+        "जीवनशैली और कार्य आदतों को पुनः व्यवस्थित करें",
+        "सामाजिक संबंधों में सामंजस्य स्थापित करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "argumentative",
+      "ego",
+      "conflict",
+      "social relations",
+      "mental depression",
+      "disorganization",
+      "responsibility clashes"
+    ],
+    "hi": [
+      "वादविवाद",
+      "अहंकार",
+      "संघर्ष",
+      "सामाजिक संबंध",
+      "मानसिक अवसाद",
+      "अव्यवस्था",
+      "जिम्मेदारी में टकराव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "conflict-prone",
+      "ego-influenced",
+      "disruptive"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "संघर्षपूर्ण",
+      "अहंकार प्रभावित",
+      "विघटनकारी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "ego and social status",
+      "communication difficulties",
+      "mental health risks",
+      "organizational challenges"
+    ],
+    "hi": [
+      "अहंकार और सामाजिक स्थिति",
+      "संचार में कठिनाई",
+      "मानसिक स्वास्थ्य जोखिम",
+      "संगठनात्मक चुनौतियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-squ-sun",
+      "core": "Tendency toward arguments and ego conflicts affecting judgment and social relations, leading to mental and social challenges.",
+      "tone": "Warm, neutral, and cautionary"
+    },
+    "hi": {
+      "title": "बुध वर्ग सूर्य",
+      "core": "वाद-विवाद और अहंकार संघर्ष की प्रवृत्ति जो न्याय और सामाजिक संबंधों को प्रभावित करती है, मानसिक और सामाजिक चुनौतियाँ उत्पन्न करती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The person tends to argue and loses the ability to judge fairly. Ego and class knowledge create conflict. Egoistic conversation may cause problems in social relations with family, friends, authority figures, and colleagues. Conflicts may arise in games, intellectual debates, business, or specific methods. Problems will emerge in life. There will be clashes in social work and significant responsibilities. Disorganized living and working conditions will lead to mental depression.",
+        "hi": "व्यक्ति वादविवाद करने लगता है। न्याय करने की योग्यता खो देता है। अहंकार/वर्ग ज्ञान के मार्ग में वादविवाद निर्मित करता है। परिवार/मित्र/अधिकारी वर्ग/सहयोगियों के साथ सामाजिक संबंध में अहंकारपूर्ण वार्तालाप के कारण समस्या निर्मित हो सकती है। खेल/बौद्धिक तर्क/व्यवसाय/विशेषरू किसी पद्धति पर झगड़ा/विवाद/मतभेद होता है। जीवन में समस्या उत्पन्न होगी। सामाजिक कार्य और महत्त्वपूर्ण जिम्मेदारी में टकराव होगा। अव्यवस्थित रहन.सहन व कार्य स्थिति मानसिक अवसाद का कारण बनेगी।"
+      },
+      "career": {
+        "en": "Conflicts may arise in intellectual debates, business, and specific methods, causing clashes in social work and significant responsibilities.",
+        "hi": "बौद्धिक तर्क, व्यवसाय और विशेष पद्धतियों में विवाद हो सकते हैं, जिससे सामाजिक कार्य और महत्वपूर्ण जिम्मेदारियों में टकराव होता है।"
+      },
+      "relationships": {
+        "en": "Egoistic conversations can create problems with family, friends, authority figures, and colleagues, affecting social relations.",
+        "hi": "अहंकारी वार्तालाप परिवार, मित्र, अधिकारी वर्ग और सहयोगियों के साथ सामाजिक संबंधों में समस्या उत्पन्न कर सकते हैं।"
+      },
+      "money": {
+        "en": "Disputes in business or methods may lead to financial difficulties or challenges in managing resources.",
+        "hi": "व्यवसाय या पद्धतियों में विवाद वित्तीय कठिनाइयों या संसाधनों के प्रबंधन में चुनौतियाँ ला सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Disorganized living and working conditions may contribute to mental depression and emotional distress.",
+        "hi": "अव्यवस्थित रहन-सहन और कार्य की स्थिति मानसिक अवसाद और भावनात्मक तनाव का कारण बन सकती है।"
+      }
+    },
+    "aliases": [
+      "Mercury square Sun",
+      "Mer SQR Sun",
+      "Mercury-Square-Sun",
+      "Mercury Square to Sun"
+    ]
+  }
+}

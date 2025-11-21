@@ -1,0 +1,143 @@
+{
+  "id": "MER_SQR_NEP__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Square",
+    "Neptune"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Square between Mercury and Neptune drives friction/work. Mercury: analysis, communication, commerce, learning, tech. Neptune: . General tenor: growth via friction; endurance and clear boundaries are key.",
+  "facets": {
+    "career": "Negotiation, analytics, documentation, skilling.  Emphasis: friction/work.",
+    "relationships": "Dialog, problem-solving, curiosity.  Emphasis: friction/work.",
+    "money": "Trading, freelancing, multi-stream income, contracts.  Emphasis: friction/work.",
+    "health_adj": "Nervous system, breath, routine mobility.  Emphasis: friction/work."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Friction escalating into conflict; respect pacing and boundaries."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: friction/work).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: friction/work)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: friction/work).",
+      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: friction/work)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: friction/work).",
+      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: friction/work)."
+    ]
+  },
+  "keywords": [
+    "analysis",
+    "commerce",
+    "communication",
+    "friction",
+    "learning",
+    "square",
+    "tech",
+    "work"
+  ],
+  "quality_tags": [
+    "major",
+    "challenging"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Neptune": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "",
+    "",
+    "Wealth & Pricing",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Mercury Square Neptune",
+      "core": "Square between Mercury and Neptune drives friction/work. Mercury: analysis, communication, commerce, learning, tech. Neptune: . General tenor: growth via friction; endurance and clear boundaries are key.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Mercury Square Neptune (हिन्दी)",
+      "core": "Mercury और Neptune का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Square between Mercury and Neptune drives friction/work. Mercury: analysis, communication, commerce, learning, tech. Neptune: . General tenor: growth via friction; endurance and clear boundaries are key.",
+      "career": "Negotiation, analytics, documentation, skilling.  Emphasis: friction/work.",
+      "relationships": "Dialog, problem-solving, curiosity.  Emphasis: friction/work.",
+      "money": "Trading, freelancing, multi-stream income, contracts.  Emphasis: friction/work.",
+      "health_adj": "Nervous system, breath, routine mobility.  Emphasis: friction/work."
+    },
+    "aliases": [
+      "Mercury square Neptune",
+      "Mer SQR Nep",
+      "Mercury-Square-Neptune",
+      "Mercury Square to Neptune"
+    ]
+  }
+}

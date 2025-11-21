@@ -1,0 +1,152 @@
+{
+  "id": "JUP_SEX_VEN__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Sextile",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Sextile between Jupiter and Venus opens opportunity/skill. Jupiter: growth, wisdom, mentor, law, faith, abundance. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+  "facets": {
+    "career": "Mentorship, promotions, strategic expansion.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
+    "relationships": "Goodwill, generosity, shared purpose.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
+    "money": "Scaling revenue, windfalls, ethical growth.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
+    "health_adj": "Liver, metabolic balance; avoid excess.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Complacency or overextension; assuming goodwill covers weak execution.",
+    "Overpromising; align scale with capacity.",
+    "People-pleasing → scope creep; set clear give-and-get."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Jupiter: mentor, expand, publish; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Jupiter: mentor, expand, publish; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Jupiter: mentor, expand, publish; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Make the decisive call; accept/decline offers consciously. (Jupiter: mentor, expand, publish; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Jupiter: mentor, expand, publish; Venus: design, harmonize, price; tone: opportunity/skill).",
+      "Close loops, stabilize routines, prune scope creep. (Jupiter: mentor, expand, publish; Venus: design, harmonize, price; tone: opportunity/skill)."
+    ]
+  },
+  "keywords": [
+    "abundance",
+    "affection",
+    "art",
+    "faith",
+    "growth",
+    "harmony",
+    "law",
+    "mentor",
+    "opportunity",
+    "pleasure",
+    "sextile",
+    "skill",
+    "values",
+    "wisdom"
+  ],
+  "quality_tags": [
+    "major",
+    "benefic",
+    "external-opportunity"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 4,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "Relationship Tone",
+    "Wealth & Pricing",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Jupiter Sextile Venus",
+      "core": "Sextile between Jupiter and Venus opens opportunity/skill. Jupiter: growth, wisdom, mentor, law, faith, abundance. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Jupiter Sextile Venus (हिन्दी)",
+      "core": "Jupiter और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Sextile between Jupiter and Venus opens opportunity/skill. Jupiter: growth, wisdom, mentor, law, faith, abundance. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
+      "career": "Mentorship, promotions, strategic expansion.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
+      "relationships": "Goodwill, generosity, shared purpose.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
+      "money": "Scaling revenue, windfalls, ethical growth.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
+      "health_adj": "Liver, metabolic balance; avoid excess.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+    },
+    "aliases": [
+      "Jupiter sextile Venus",
+      "Jup SEX Ven",
+      "Jupiter-Sextile-Venus",
+      "Jupiter Sextile to Venus"
+    ]
+  }
+}

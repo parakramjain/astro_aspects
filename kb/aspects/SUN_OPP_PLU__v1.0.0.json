@@ -1,0 +1,249 @@
+{
+  "id": "SUN_OPP_PLU__v1.0.0",
+  "pair": [
+    "Sun",
+    "Opposition",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "The individual tends to criticize others to feel superior, leading to increased jealousy and conflicts, especially in close relationships and shared resources. Positive outlook can bring self-improvement and social connections.",
+    "hi": "व्यक्ति दूसरों की आलोचना करता है ताकि स्वयं को उनसे श्रेष्ठ समझ सके, जिससे ईर्ष्या और झगड़े बढ़ते हैं, खासकर आपसी संबंधों और साझा संपत्ति में। सकारात्मक दृष्टिकोण से सुधार और सामाजिक संबंध बन सकते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Conflicts may arise in business partnerships or joint ventures; opportunities exist if a creative and positive approach is taken.",
+      "hi": "व्यवसायिक साझेदारी या संयुक्त उद्यमों में झगड़े हो सकते हैं; यदि सकारात्मक और सृजनात्मक दृष्टिकोण अपनाया जाए तो अवसर मिल सकते हैं।"
+    },
+    "relationships": {
+      "en": "Persistent conflicts occur in mutual relationships and spousal disputes; special care is advised for children to prevent them from going astray.",
+      "hi": "आपसी संबंधों और पति-पत्नी के झगड़ों में लगातार विवाद होते हैं; बच्चों का विशेष ध्यान रखना चाहिए ताकि वे बिगड़ें नहीं।"
+    },
+    "money": {
+      "en": "Disputes may happen over joint property, money, and accumulated assets during this time.",
+      "hi": "संयुक्त संपत्ति, धन और एकत्रित संपत्ति को लेकर विवाद हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health issues mentioned; caution advised regarding children's wellbeing.",
+      "hi": "विशेष स्वास्थ्य समस्याओं का उल्लेख नहीं है; बच्चों की भलाई के प्रति सतर्कता आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Conflicts in relationships",
+      "Disputes over shared assets",
+      "Opportunities for self-improvement",
+      "Social networking with influential people"
+    ],
+    "hi": [
+      "संबंधों में झगड़े",
+      "साझा संपत्ति विवाद",
+      "स्वयं में सुधार के अवसर",
+      "प्रभावशाली लोगों से जुड़ाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased jealousy and envy",
+      "Ongoing conflicts in personal and business relations",
+      "Children may go astray without proper attention"
+    ],
+    "hi": [
+      "ईर्ष्या और द्वेष में वृद्धि",
+      "व्यक्तिगत और व्यावसायिक संबंधों में झगड़े जारी",
+      "बच्चों का बिगड़ना संभव यदि ध्यान न दिया जाए"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of criticism to avoid devaluing others",
+        "Maintain awareness of jealousy and conflicts",
+        "Give special attention to children’s wellbeing"
+      ],
+      "hi": [
+        "दूसरों की आलोचना करते समय सावधानी रखें",
+        "ईर्ष्या और झगड़ों के प्रति सजग रहें",
+        "बच्चों की भलाई पर विशेष ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on positive and creative outlook",
+        "Seek self-improvement opportunities",
+        "Engage with socially influential individuals"
+      ],
+      "hi": [
+        "सकारात्मक और सृजनात्मक दृष्टिकोण अपनाएं",
+        "स्वयं में सुधार के अवसर खोजें",
+        "समाज में प्रभावशाली लोगों से जुड़ें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Avoid escalating conflicts",
+        "Refrain from harsh criticism",
+        "Monitor relationships and shared resources carefully"
+      ],
+      "hi": [
+        "झगड़ों को बढ़ावा न दें",
+        "कठोर आलोचना से बचें",
+        "संबंधों और साझा संसाधनों पर सावधानी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "criticism",
+      "jealousy",
+      "conflict",
+      "relationships",
+      "shared property",
+      "children",
+      "self-improvement",
+      "popularity"
+    ],
+    "hi": [
+      "आलोचना",
+      "ईर्ष्या",
+      "झगड़ा",
+      "संबंध",
+      "साझा संपत्ति",
+      "बच्चे",
+      "स्वयं सुधार",
+      "लोकप्रियता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "transformative",
+      "conflict-prone",
+      "opportunity for growth"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "परिवर्तनकारी",
+      "झगड़ालू",
+      "विकास के अवसर"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "interpersonal tension",
+      "power dynamics",
+      "emotional intensity",
+      "potential for positive change"
+    ],
+    "hi": [
+      "अंतरव्यक्तिगत तनाव",
+      "शक्ति संतुलन",
+      "भावनात्मक तीव्रता",
+      "सकारात्मक परिवर्तन की संभावना"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-opp-plu",
+      "core": "This aspect highlights criticism, jealousy, and conflicts in relationships and shared resources, but also offers chances for self-improvement and social advancement if approached positively.",
+      "tone": "Warm, neutral, and cautiously optimistic"
+    },
+    "hi": {
+      "title": "सूर्य का प्लूटो के विपरीत प्रभाव",
+      "core": "यह योग आलोचना, ईर्ष्या और संबंधों तथा साझा संसाधनों में झगड़ों को दर्शाता है, साथ ही सकारात्मक दृष्टिकोण से स्वयं सुधार और सामाजिक उन्नति के अवसर भी देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "The individual criticizes others to feel superior, leading to jealousy and conflicts, but positive outlook can bring self-improvement and social connections.",
+        "hi": "व्यक्ति दूसरों की आलोचना करता है ताकि स्वयं को श्रेष्ठ समझ सके, जिससे ईर्ष्या और झगड़े बढ़ते हैं, पर सकारात्मक दृष्टिकोण से सुधार और सामाजिक संबंध बन सकते हैं।"
+      },
+      "career": {
+        "en": "Conflicts may arise in business partnerships or joint ventures; positive creative approach can bring opportunities.",
+        "hi": "व्यवसायिक साझेदारी या संयुक्त उद्यमों में झगड़े हो सकते हैं; सकारात्मक और सृजनात्मक दृष्टिकोण से अवसर मिल सकते हैं।"
+      },
+      "relationships": {
+        "en": "Persistent conflicts in mutual relationships and spousal disputes; special care needed for children.",
+        "hi": "आपसी संबंधों और पति-पत्नी के झगड़ों में लगातार विवाद; बच्चों का विशेष ध्यान आवश्यक।"
+      },
+      "money": {
+        "en": "Disputes over joint property, money, and accumulated assets are common.",
+        "hi": "संयुक्त संपत्ति, धन और एकत्रित संपत्ति को लेकर विवाद होते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health issues noted; caution advised for children's wellbeing.",
+        "hi": "विशेष स्वास्थ्य समस्याओं का उल्लेख नहीं; बच्चों की भलाई के प्रति सतर्कता आवश्यक।"
+      }
+    },
+    "aliases": [
+      "Sun opposition Pluto",
+      "Sun OPP Plu",
+      "Sun-Opposition-Pluto",
+      "Sun Opposition to Pluto"
+    ]
+  }
+}

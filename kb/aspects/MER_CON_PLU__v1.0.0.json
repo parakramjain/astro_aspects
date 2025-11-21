@@ -1,0 +1,237 @@
+{
+  "id": "MER_CON_PLU__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Conjunction",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect provides deep understanding in scientific, spiritual, or complex subjects, fostering curiosity and investigative tendencies. It supports success in joint assets, business, taxes, or investments, with a potential mental dominance over others.",
+    "hi": "यह योग व्यक्ति को वैज्ञानिक, आध्यात्मिक या जटिल विषयों में गहरी समझ देता है, जिससे जिज्ञासा और खोजी प्रवृत्ति बढ़ती है। यह संयुक्त संपत्ति, व्यापार, टैक्स या निवेश में सफलता का अवसर देता है, साथ ही दूसरों पर मानसिक प्रभुत्व की संभावना भी होती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Encourages investigative skills and success in business, joint assets, taxes, and investments.",
+      "hi": "खोजी कौशल को बढ़ावा देता है और व्यापार, संयुक्त संपत्ति, टैक्स व निवेश में सफलता दिलाता है।"
+    },
+    "relationships": {
+      "en": "May cause a tendency to mentally dominate others, affecting interpersonal dynamics.",
+      "hi": "दूसरों को मानसिक रूप से नियंत्रित करने की प्रवृत्ति हो सकती है, जो संबंधों को प्रभावित कर सकती है।"
+    },
+    "money": {
+      "en": "Favorable for joint assets, investments, business ventures, and tax matters.",
+      "hi": "संयुक्त संपत्ति, निवेश, व्यापार और टैक्स मामलों में अनुकूल।"
+    },
+    "health_adj": {
+      "en": "No specific health indications mentioned.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं दिए गए हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Scientific or spiritual insight",
+      "Business or investment success",
+      "Joint asset management"
+    ],
+    "hi": [
+      "वैज्ञानिक या आध्यात्मिक अंतर्दृष्टि",
+      "व्यापार या निवेश में सफलता",
+      "संयुक्त संपत्ति प्रबंधन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Tendency to dominate others mentally may cause conflicts."
+    ],
+    "hi": [
+      "दूसरों को मानसिक रूप से नियंत्रित करने की प्रवृत्ति से विवाद हो सकते हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in research or investigative activities.",
+        "Focus on joint financial or business ventures."
+      ],
+      "hi": [
+        "अनुसंधान या खोजी गतिविधियों में संलग्न हों।",
+        "संयुक्त वित्तीय या व्यापारिक प्रयासों पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize deep understanding for complex problem-solving.",
+        "Be mindful of mental dominance tendencies."
+      ],
+      "hi": [
+        "जटिल समस्याओं को हल करने के लिए गहरी समझ का उपयोग करें।",
+        "मानसिक प्रभुत्व की प्रवृत्तियों के प्रति सावधान रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on interpersonal dynamics to reduce dominance.",
+        "Review joint financial matters carefully."
+      ],
+      "hi": [
+        "संबंधों में प्रभुत्व कम करने के लिए विचार करें।",
+        "संयुक्त वित्तीय मामलों की सावधानी से समीक्षा करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "deep understanding",
+      "curiosity",
+      "investigative",
+      "joint assets",
+      "business",
+      "taxes",
+      "investments",
+      "mental dominance"
+    ],
+    "hi": [
+      "गहरी समझ",
+      "जिज्ञासा",
+      "खोजी",
+      "संयुक्त संपत्ति",
+      "व्यापार",
+      "टैक्स",
+      "निवेश",
+      "मानसिक प्रभुत्व"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intellectual",
+      "curious",
+      "investigative",
+      "strategic"
+    ],
+    "hi": [
+      "बौद्धिक",
+      "जिज्ञासु",
+      "खोजी",
+      "रणनीतिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "scientific insight",
+      "spiritual depth",
+      "financial collaboration",
+      "mental influence"
+    ],
+    "hi": [
+      "वैज्ञानिक अंतर्दृष्टि",
+      "आध्यात्मिक गहराई",
+      "वित्तीय सहयोग",
+      "मानसिक प्रभाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-con-plu",
+      "core": "Deep understanding in complex or spiritual matters, curiosity, success in joint financial areas, with a tendency for mental dominance.",
+      "tone": "Warm, neutral, and insightful"
+    },
+    "hi": {
+      "title": "बुध संयोजन प्लूटो",
+      "core": "गूढ़ या आध्यात्मिक विषयों में गहरी समझ, जिज्ञासा, संयुक्त वित्तीय क्षेत्रों में सफलता, और मानसिक प्रभुत्व की प्रवृत्ति।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Provides deep understanding in scientific, spiritual, or complex matters; fosters curiosity and investigative nature; supports success in joint assets, business, taxes, or investments; may lead to mental dominance over others.",
+        "hi": "व्यक्ति को वैज्ञानिक, आध्यात्मिक या जटिल विषयों में गहरी समझ देता है; जिज्ञासा और खोजी प्रवृत्ति बढ़ाता है; संयुक्त संपत्ति, व्यापार, टैक्स या निवेश में सफलता में सहायक; दूसरों पर मानसिक प्रभुत्व की संभावना।"
+      },
+      "career": {
+        "en": "Encourages investigative skills and success in business, joint assets, taxes, and investments.",
+        "hi": "खोजी कौशल को बढ़ावा देता है और व्यापार, संयुक्त संपत्ति, टैक्स व निवेश में सफलता दिलाता है।"
+      },
+      "relationships": {
+        "en": "May cause a tendency to mentally dominate others, affecting interpersonal dynamics.",
+        "hi": "दूसरों को मानसिक रूप से नियंत्रित करने की प्रवृत्ति हो सकती है, जो संबंधों को प्रभावित कर सकती है।"
+      },
+      "money": {
+        "en": "Favorable for joint assets, investments, business ventures, and tax matters.",
+        "hi": "संयुक्त संपत्ति, निवेश, व्यापार और टैक्स मामलों में अनुकूल।"
+      },
+      "health_adj": {
+        "en": "No specific health indications mentioned.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं दिए गए हैं।"
+      }
+    },
+    "aliases": [
+      "Mercury conjunction Pluto",
+      "Mer CON Plu",
+      "Mercury-Conjunction-Pluto",
+      "Mercury Conjunction to Pluto"
+    ]
+  }
+}

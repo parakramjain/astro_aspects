@@ -1,0 +1,243 @@
+{
+  "id": "SAT_TRI_URA__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Trine",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased focus on realizing creative ideas leads to fruitful study and solid progress, supported by friends and seniors, with gains from adopting new techniques and joint ventures.",
+    "hi": "रचनात्मक विचारों को साकार करने पर एकाग्रता बढ़ती है, जिससे अध्ययन फलदायी होता है और लक्ष्य प्राप्ति में ठोस प्रगति होती है। मित्रों और वरिष्ठों से सहयोग मिलता है तथा नई तकनीकें अपनाने और संयुक्त प्रयासों से लाभ होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Progress in professional goals is strong; adopting new techniques and professional changes bring benefits; support from organizations and seniors aids advancement.",
+      "hi": "पेशेवर लक्ष्यों में ठोस प्रगति होती है; नई तकनीकें अपनाने और पेशेवर बदलाव से लाभ होता है; संस्थाओं और वरिष्ठों से सहयोग मिलता है।"
+    },
+    "relationships": {
+      "en": "Important support comes from friends and seniors, fostering cooperative decisions especially in joint business or investments.",
+      "hi": "मित्रों और वरिष्ठों से महत्वपूर्ण सहयोग मिलता है, जो संयुक्त व्यवसाय या निवेश में सहयोगी निर्णयों को बढ़ावा देता है।"
+    },
+    "money": {
+      "en": "Joint business, assets, and investment decisions tend to succeed; adopting new professional methods leads to financial gains.",
+      "hi": "संयुक्त व्यवसाय, संपत्ति और निवेश से जुड़े फैसले सफल होते हैं; नई पेशेवर विधियों को अपनाने से आर्थिक लाभ होता है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments noted; focus remains on mental and intellectual pursuits.",
+      "hi": "स्वास्थ्य संबंधी विशेष समायोजन नहीं; ध्यान मानसिक और बौद्धिक गतिविधियों पर केंद्रित है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative realization",
+      "Scientific or esoteric study",
+      "Professional advancement",
+      "Joint business or investment success"
+    ],
+    "hi": [
+      "रचनात्मक साकारता",
+      "वैज्ञानिक या रहस्यमय अध्ययन",
+      "पेशेवर उन्नति",
+      "संयुक्त व्यवसाय या निवेश की सफलता"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balanced reliance on support and new methods."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; सहयोग और नई विधियों पर संतुलित निर्भरता बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus efforts on realizing creative ideas",
+        "Engage in study of science, technology, or esoteric subjects",
+        "Seek support from friends, organizations, or seniors"
+      ],
+      "hi": [
+        "रचनात्मक विचारों को साकार करने पर ध्यान दें",
+        "विज्ञान, तकनीक या रहस्यमय विषयों का अध्ययन करें",
+        "मित्रों, संस्थाओं या वरिष्ठों से सहयोग प्राप्त करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Adopt new techniques or consider professional changes",
+        "Make joint business, asset, or investment decisions"
+      ],
+      "hi": [
+        "नई तकनीकें अपनाएं या पेशेवर बदलाव पर विचार करें",
+        "संयुक्त व्यवसाय, संपत्ति या निवेश के फैसले लें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue steady progress toward goals",
+        "Maintain supportive relationships"
+      ],
+      "hi": [
+        "लक्ष्यों की ओर निरंतर प्रगति बनाए रखें",
+        "सहायक संबंधों को बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "focus",
+      "creative ideas",
+      "study",
+      "progress",
+      "support",
+      "new techniques",
+      "professional change",
+      "joint business",
+      "investment success"
+    ],
+    "hi": [
+      "एकाग्रता",
+      "रचनात्मक विचार",
+      "अध्ययन",
+      "प्रगति",
+      "सहयोग",
+      "नई तकनीकें",
+      "पेशेवर बदलाव",
+      "संयुक्त व्यवसाय",
+      "निवेश सफलता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "productive",
+      "supportive",
+      "innovative",
+      "progressive"
+    ],
+    "hi": [
+      "उत्पादक",
+      "सहायक",
+      "नवोन्मेषी",
+      "प्रगतिशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "learning",
+      "collaboration",
+      "growth"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "अधिगम",
+      "सहयोग",
+      "विकास"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-tri-ura",
+      "core": "Focus on creative realization and fruitful study supported by social and professional networks.",
+      "tone": "Warm, encouraging, and grounded"
+    },
+    "hi": {
+      "title": "शनि त्रिकोण यूरेनस",
+      "core": "रचनात्मक साकारता और फलदायी अध्ययन पर ध्यान, सामाजिक और पेशेवर सहयोग के साथ।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और यथार्थवादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Focus increases in materializing creative ideas with support from friends and seniors, leading to solid progress and gains from new techniques and joint ventures.",
+        "hi": "रचनात्मक विचारों को साकार करने में एकाग्रता बढ़ती है, मित्रों और वरिष्ठों के सहयोग से ठोस प्रगति और नई तकनीकों व संयुक्त प्रयासों से लाभ होता है।"
+      },
+      "career": {
+        "en": "Studying science, technology, or esoteric subjects is fruitful; adopting new techniques and professional changes bring gains; support from organizations and seniors aids progress.",
+        "hi": "विज्ञान, तकनीक या रहस्यमय विषयों का अध्ययन फलदायी होता है; नई तकनीकें अपनाने और पेशेवर बदलाव से लाभ होता है; संस्थाओं और वरिष्ठों से सहयोग मिलता है।"
+      },
+      "relationships": {
+        "en": "Important support comes from friends, organizations, or seniors, fostering success in joint business or investment decisions.",
+        "hi": "मित्रों, संस्थाओं या वरिष्ठों से महत्वपूर्ण सहयोग मिलता है, जो संयुक्त व्यवसाय या निवेश के फैसलों में सफलता लाता है।"
+      },
+      "money": {
+        "en": "Joint business, assets, and investment decisions succeed; adopting new professional methods brings financial gains.",
+        "hi": "संयुक्त व्यवसाय, संपत्ति और निवेश से जुड़े फैसले सफल होते हैं; नई पेशेवर विधियाँ अपनाने से आर्थिक लाभ होता है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments noted; emphasis on intellectual and creative focus.",
+        "hi": "स्वास्थ्य संबंधी विशेष समायोजन नहीं; बौद्धिक और रचनात्मक ध्यान पर जोर।"
+      }
+    },
+    "aliases": [
+      "Saturn trine Uranus",
+      "Sat TRI Ura",
+      "Saturn-Trine-Uranus",
+      "Saturn Trine to Uranus"
+    ]
+  }
+}

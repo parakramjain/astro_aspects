@@ -1,0 +1,241 @@
+{
+  "id": "MER_CON_MAR__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Conjunction",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A time of active energy, bold decisions, and clear focus, often involving debate and assertive planning that may lead to conflicts or injury.",
+    "hi": "यह समय तेज ऊर्जा, साहसी निर्णय और स्पष्ट फोकस का होता है, जिसमें बहस और आक्रामक योजना शामिल हो सकती है, जिससे संघर्ष या चोट हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Increased focus and determination in work, with bold decision-making and active engagement.",
+      "hi": "काम में फोकस और संकल्प बढ़ता है, साहसी निर्णय लिए जाते हैं और सक्रिय भागीदारी होती है।"
+    },
+    "relationships": {
+      "en": "Potential for conflicts due to aggressive planning or assertive communication.",
+      "hi": "योजना में आक्रामकता या स्पष्ट संवाद के कारण संघर्ष की संभावना होती है।"
+    },
+    "money": {
+      "en": "Decisive financial actions with a risk of impulsiveness or conflict over resources.",
+      "hi": "वित्तीय मामलों में निर्णायक कदम, लेकिन आवेग या संसाधनों को लेकर संघर्ष का खतरा रहता है।"
+    },
+    "health_adj": {
+      "en": "Risk of injury due to aggressive or hurried actions; caution advised.",
+      "hi": "आक्रामक या जल्दबाजी में किए गए कार्यों से चोट का खतरा, सावधानी आवश्यक है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Debates or discussions",
+      "Bold decision-making",
+      "Active work periods"
+    ],
+    "hi": [
+      "बहस या चर्चा",
+      "साहसी निर्णय लेना",
+      "सक्रिय कार्यकाल"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Possible conflicts arising from aggressive planning",
+      "Risk of physical injury",
+      "Tendency toward impulsive actions"
+    ],
+    "hi": [
+      "आक्रामक योजना से संघर्ष हो सकता है",
+      "शारीरिक चोट का खतरा",
+      "आवेगपूर्ण कार्य करने की प्रवृत्ति"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in focused debates to clarify ideas",
+        "Channel bold decisions into productive work"
+      ],
+      "hi": [
+        "विचार स्पष्ट करने के लिए केंद्रित बहस करें",
+        "साहसी निर्णयों को उत्पादक कार्य में लगाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Maintain strong focus on tasks",
+        "Be aware of aggressive tendencies in planning"
+      ],
+      "hi": [
+        "कार्य पर मजबूत फोकस बनाए रखें",
+        "योजना में आक्रामक प्रवृत्तियों से सावधान रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Avoid conflicts by moderating assertiveness",
+        "Take care to prevent injury through haste"
+      ],
+      "hi": [
+        "दबाव कम करके संघर्ष से बचें",
+        "जल्दबाजी से चोट से बचाव करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "debate",
+      "clarity",
+      "active energy",
+      "bold decisions",
+      "focus",
+      "aggressiveness",
+      "conflict",
+      "injury"
+    ],
+    "hi": [
+      "बहस",
+      "स्पष्टता",
+      "तेज ऊर्जा",
+      "साहसी निर्णय",
+      "फोकस",
+      "आक्रामकता",
+      "संघर्ष",
+      "चोट"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "assertive",
+      "focused",
+      "energetic",
+      "potentially aggressive"
+    ],
+    "hi": [
+      "दबावपूर्ण",
+      "केंद्रित",
+      "ऊर्जावान",
+      "संभावित आक्रामक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "work and communication",
+      "decision-making",
+      "conflict management",
+      "physical caution"
+    ],
+    "hi": [
+      "कार्य और संवाद",
+      "निर्णय लेना",
+      "संघर्ष प्रबंधन",
+      "शारीरिक सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-con-mar",
+      "core": "This aspect highlights a period of active mental energy, bold decisions, and clear focus, often accompanied by debate and assertive planning that may lead to conflicts or injury.",
+      "tone": "Warm, neutral, and cautiously observant"
+    },
+    "hi": {
+      "title": "बुध युति मंगल",
+      "core": "यह योग तेज मानसिक ऊर्जा, साहसी निर्णय और स्पष्ट फोकस का समय दर्शाता है, जिसमें बहस और आक्रामक योजना शामिल हो सकती है, जिससे संघर्ष या चोट हो सकती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A time of active energy, bold decisions, and clear focus, often involving debate and assertive planning that may lead to conflicts or injury.",
+        "hi": "यह समय तेज ऊर्जा, साहसी निर्णय और स्पष्ट फोकस का होता है, जिसमें बहस और आक्रामक योजना शामिल हो सकती है, जिससे संघर्ष या चोट हो सकती है।"
+      },
+      "career": {
+        "en": "Increased focus and determination in work, with bold decision-making and active engagement.",
+        "hi": "काम में फोकस और संकल्प बढ़ता है, साहसी निर्णय लिए जाते हैं और सक्रिय भागीदारी होती है।"
+      },
+      "relationships": {
+        "en": "Potential for conflicts due to aggressive planning or assertive communication.",
+        "hi": "योजना में आक्रामकता या स्पष्ट संवाद के कारण संघर्ष की संभावना होती है।"
+      },
+      "money": {
+        "en": "Decisive financial actions with a risk of impulsiveness or conflict over resources.",
+        "hi": "वित्तीय मामलों में निर्णायक कदम, लेकिन आवेग या संसाधनों को लेकर संघर्ष का खतरा रहता है।"
+      },
+      "health_adj": {
+        "en": "Risk of injury due to aggressive or hurried actions; caution advised.",
+        "hi": "आक्रामक या जल्दबाजी में किए गए कार्यों से चोट का खतरा, सावधानी आवश्यक है।"
+      }
+    },
+    "aliases": [
+      "Mercury conjunction Mars",
+      "Mer CON Mar",
+      "Mercury-Conjunction-Mars",
+      "Mercury Conjunction to Mars"
+    ]
+  }
+}

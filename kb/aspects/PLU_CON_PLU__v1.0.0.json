@@ -1,0 +1,232 @@
+{
+  "id": "PLU_CON_PLU__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Conjunction",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Indicates a deep transformational phase beyond physical control, affecting family and future with radical changes; political systems may undergo complete overhaul.",
+    "hi": "यह एक गहन संक्रमण काल दर्शाता है जो शारीरिक नियंत्रण से परे होता है, परिवार और भविष्य में मौलिक परिवर्तन होते हैं; राजनीतिक व्यवस्थाओं में पूर्ण बदलाव संभव है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Career may experience profound shifts or complete restructuring, reflecting deep transformation.",
+      "hi": "करियर में गहरे बदलाव या पूर्ण पुनर्गठन हो सकता है, जो गहन परिवर्तन को दर्शाता है।"
+    },
+    "relationships": {
+      "en": "Family relationships may face crises or significant changes impacting future dynamics.",
+      "hi": "परिवार में संकट या महत्वपूर्ण परिवर्तन हो सकते हैं जो भविष्य के संबंधों को प्रभावित करते हैं।"
+    },
+    "money": {
+      "en": "Financial situations might undergo radical changes, possibly linked to broader systemic shifts.",
+      "hi": "आर्थिक स्थिति में मौलिक परिवर्तन हो सकते हैं, जो व्यापक प्रणालीगत बदलावों से जुड़े हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Health may be influenced by factors beyond physical control during this transformational phase.",
+      "hi": "स्वास्थ्य इस संक्रमण काल में शारीरिक नियंत्रण से परे कारकों से प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Transformational phase",
+      "Family crisis or change",
+      "Political/systemic overhaul"
+    ],
+    "hi": [
+      "संक्रमण काल",
+      "परिवार में संकट या परिवर्तन",
+      "राजनीतिक/प्रणालीगत बदलाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential family instability",
+      "Unpredictable systemic changes",
+      "Events beyond physical control"
+    ],
+    "hi": [
+      "परिवार में अस्थिरता की संभावना",
+      "अप्रत्याशित प्रणालीगत बदलाव",
+      "शारीरिक नियंत्रण से परे घटनाएँ"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Prepare for deep changes in family and career",
+        "Stay adaptable to systemic shifts"
+      ],
+      "hi": [
+        "परिवार और करियर में गहरे बदलावों के लिए तैयार रहें",
+        "प्रणालीगत बदलावों के प्रति लचीला बने रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on managing transformational challenges",
+        "Monitor family and political environment closely"
+      ],
+      "hi": [
+        "परिवर्तनकारी चुनौतियों का प्रबंधन करें",
+        "परिवार और राजनीतिक माहौल पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on changes and their impacts",
+        "Begin adapting to new circumstances"
+      ],
+      "hi": [
+        "बदलावों और उनके प्रभावों पर विचार करें",
+        "नई परिस्थितियों के अनुसार ढलना शुरू करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "transformation",
+      "family crisis",
+      "radical change",
+      "political overhaul",
+      "beyond control"
+    ],
+    "hi": [
+      "परिवर्तन",
+      "परिवार संकट",
+      "मौलिक बदलाव",
+      "राजनीतिक बदलाव",
+      "नियंत्रण से परे"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "transformational",
+      "challenging",
+      "systemic",
+      "profound"
+    ],
+    "hi": [
+      "परिवर्तनकारी",
+      "चुनौतीपूर्ण",
+      "प्रणालीगत",
+      "गहन"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "deep change",
+      "family dynamics",
+      "political transformation"
+    ],
+    "hi": [
+      "गहरा बदलाव",
+      "परिवार की गतिशीलता",
+      "राजनीतिक परिवर्तन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-con-plu",
+      "core": "A phase of profound transformation beyond physical control, affecting family, future, and political systems.",
+      "tone": "Warm, neutral, and reflective"
+    },
+    "hi": {
+      "title": "प्लूटो संयोजन प्लूटो",
+      "core": "यह एक गहन परिवर्तन काल है जो शारीरिक नियंत्रण से परे होता है, परिवार, भविष्य और राजनीतिक व्यवस्थाओं को प्रभावित करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Marks profound transformational phase beyond physical control. Family/future undergoes radical change. Political systems experience complete overhaul.",
+        "hi": "यह समय व्यक्ति की संक्रमण अवस्था में रहता है तथा उसमें होने वाले परिवर्तन उसकी शारीरिक क्षमता के बाहर होता है। इस कारण परिवार पर संकट उपस्थित होता है या उसका भविष्य परिवर्तित होता है। राजनीतिक परिस्थितियों में पुरानी परिस्थितियाँ समाप्त होकर नई आरंभ होती हैं।"
+      },
+      "career": {
+        "en": "Career may experience profound shifts or complete restructuring, reflecting deep transformation.",
+        "hi": "करियर में गहरे बदलाव या पूर्ण पुनर्गठन हो सकता है, जो गहन परिवर्तन को दर्शाता है।"
+      },
+      "relationships": {
+        "en": "Family relationships may face crises or significant changes impacting future dynamics.",
+        "hi": "परिवार में संकट या महत्वपूर्ण परिवर्तन हो सकते हैं जो भविष्य के संबंधों को प्रभावित करते हैं।"
+      },
+      "money": {
+        "en": "Financial situations might undergo radical changes, possibly linked to broader systemic shifts.",
+        "hi": "आर्थिक स्थिति में मौलिक परिवर्तन हो सकते हैं, जो व्यापक प्रणालीगत बदलावों से जुड़े हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Health may be influenced by factors beyond physical control during this transformational phase.",
+        "hi": "स्वास्थ्य इस संक्रमण काल में शारीरिक नियंत्रण से परे कारकों से प्रभावित हो सकता है।"
+      }
+    },
+    "aliases": [
+      "Pluto conjunction Pluto",
+      "Plu CON Plu",
+      "Pluto-Conjunction-Pluto",
+      "Pluto Conjunction to Pluto"
+    ]
+  }
+}

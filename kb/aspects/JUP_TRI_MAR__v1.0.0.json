@@ -1,0 +1,255 @@
+{
+  "id": "JUP_TRI_MAR__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Trine",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased self-confidence and enthusiasm inspire interest in collective efforts, modify the expression of religious or philosophical ideas, and open connections with foreign cultures or business, including travel opportunities. This period favors professional progress, job acquisition, legal matters, and sports.",
+    "hi": "आत्मविश्वास और उत्साह में वृद्धि से व्यक्ति की सामूहिक कार्यों में रुचि बढ़ती है, धार्मिक और तत्वज्ञान की कल्पनाओं के प्रस्तुतीकरण में परिवर्तन होता है, और विदेशी संस्कृति या व्यवसाय से जुड़ने के अवसर मिलते हैं, जिनमें यात्रा भी शामिल है। यह समय पेशेवर उन्नति, नौकरी प्राप्ति, कानूनी कार्यवाही और खेलकूद के लिए अनुकूल होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Professional progress and job opportunities increase; favorable time for legal proceedings and sports activities.",
+      "hi": "पेशेवर स्थिति में उन्नति होती है और नौकरी के अवसर मिलते हैं; कानूनी कार्यवाही और खेलकूद के लिए अनुकूल समय।"
+    },
+    "relationships": {
+      "en": "Growing interest in collective works and connecting with foreign cultures or business situations.",
+      "hi": "सामूहिक कार्यों में रुचि बढ़ती है और विदेशी संस्कृति या व्यवसाय से जुड़ाव होता है।"
+    },
+    "money": {
+      "en": "Opportunities arise through professional work and foreign business connections.",
+      "hi": "पेशेवर कार्य और विदेशी व्यवसाय से संबंधित अवसर प्राप्त होते हैं।"
+    },
+    "health_adj": {
+      "en": "Increased enthusiasm and confidence generally support well-being; no specific health cautions noted.",
+      "hi": "उत्साह और आत्मविश्वास में वृद्धि से सामान्यतः स्वास्थ्य अच्छा रहता है; कोई विशेष स्वास्थ्य चेतावनी नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional advancement",
+      "Job acquisition",
+      "Legal proceedings",
+      "Travel opportunities",
+      "Sports activities"
+    ],
+    "hi": [
+      "पेशेवर उन्नति",
+      "नौकरी प्राप्ति",
+      "कानूनी कार्यवाही",
+      "यात्रा के अवसर",
+      "खेलकूद गतिविधियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in collective or team projects.",
+        "Explore opportunities involving foreign cultures or businesses.",
+        "Present religious or philosophical ideas with openness."
+      ],
+      "hi": [
+        "सामूहिक या टीम परियोजनाओं में भाग लें।",
+        "विदेशी संस्कृति या व्यवसाय से जुड़े अवसर तलाशें।",
+        "धार्मिक या तत्वज्ञान की कल्पनाओं को खुले मन से प्रस्तुत करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on professional growth and job-related activities.",
+        "Pursue legal matters or sports engagements.",
+        "Consider travel or cultural exchange opportunities."
+      ],
+      "hi": [
+        "पेशेवर विकास और नौकरी से संबंधित कार्यों पर ध्यान दें।",
+        "कानूनी मामलों या खेल गतिविधियों में संलग्न हों।",
+        "यात्रा या सांस्कृतिक आदान-प्रदान के अवसरों पर विचार करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain enthusiasm for collective efforts.",
+        "Continue exploring foreign and cultural connections.",
+        "Sustain confidence in professional and legal pursuits."
+      ],
+      "hi": [
+        "सामूहिक प्रयासों के लिए उत्साह बनाए रखें।",
+        "विदेशी और सांस्कृतिक संबंधों की खोज जारी रखें।",
+        "पेशेवर और कानूनी प्रयासों में आत्मविश्वास बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "self-confidence",
+      "enthusiasm",
+      "collective work",
+      "religious ideas",
+      "philosophical ideas",
+      "foreign culture",
+      "business",
+      "travel",
+      "professional progress",
+      "job",
+      "legal proceedings",
+      "sports"
+    ],
+    "hi": [
+      "आत्मविश्वास",
+      "उत्साह",
+      "सामूहिक कार्य",
+      "धार्मिक कल्पनाएँ",
+      "तत्वज्ञान की कल्पनाएँ",
+      "विदेशी संस्कृति",
+      "व्यवसाय",
+      "यात्रा",
+      "पेशेवर उन्नति",
+      "नौकरी",
+      "कानूनी कार्यवाही",
+      "खेलकूद"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "progressive",
+      "enthusiastic",
+      "connected",
+      "opportunistic"
+    ],
+    "hi": [
+      "अनुकूल",
+      "प्रगतिशील",
+      "उत्साही",
+      "जुड़ा हुआ",
+      "अवसरवादी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "cultural exchange",
+      "legal favorability",
+      "sports engagement",
+      "philosophical expression"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "सांस्कृतिक आदान-प्रदान",
+      "कानूनी अनुकूलता",
+      "खेल गतिविधियाँ",
+      "तत्वज्ञान की अभिव्यक्ति"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-tri-mar",
+      "core": "A time of increased confidence and enthusiasm, favoring collective efforts, professional progress, legal matters, and travel opportunities.",
+      "tone": "Warm, encouraging, and optimistic"
+    },
+    "hi": {
+      "title": "बृहस्पति त्रिकोण मंगल",
+      "core": "आत्मविश्वास और उत्साह में वृद्धि का समय, जो सामूहिक कार्यों, पेशेवर उन्नति, कानूनी मामलों और यात्रा के अवसरों के लिए अनुकूल है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक, और आशावादी"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Self-confidence and enthusiasm increase, fostering interest in collective works, modifying religious and philosophical presentations, connecting with foreign cultures or business, and enabling travel opportunities. This period supports professional progress, job acquisition, legal proceedings, and sports.",
+        "hi": "आत्मविश्वास और उत्साह में वृद्धि होती है, जिससे सामूहिक कार्यों में रुचि बढ़ती है, धार्मिक और तत्वज्ञान की कल्पनाओं के प्रस्तुतीकरण में परिवर्तन होता है, विदेशी संस्कृति या व्यवसाय से जुड़ाव होता है और यात्रा के अवसर मिलते हैं। यह समय पेशेवर उन्नति, नौकरी प्राप्ति, कानूनी कार्यवाही और खेलकूद के लिए अनुकूल होता है।"
+      },
+      "career": {
+        "en": "Professional progress and job acquisition are favored. Legal proceedings and sports activities are also supported during this time.",
+        "hi": "पेशेवर उन्नति और नौकरी प्राप्ति के लिए अनुकूल समय है। कानूनी कार्यवाही और खेलकूद गतिविधियाँ भी इस दौरान समर्थित होती हैं।"
+      },
+      "relationships": {
+        "en": "Interest grows in collective works and connections with foreign cultures or business situations.",
+        "hi": "सामूहिक कार्यों में रुचि बढ़ती है और विदेशी संस्कृति या व्यवसाय से जुड़ाव होता है।"
+      },
+      "money": {
+        "en": "Opportunities arise through professional work and foreign business connections.",
+        "hi": "पेशेवर कार्य और विदेशी व्यवसाय से संबंधित अवसर प्राप्त होते हैं।"
+      },
+      "health_adj": {
+        "en": "Increased enthusiasm and confidence generally support well-being; no specific health cautions are noted.",
+        "hi": "उत्साह और आत्मविश्वास में वृद्धि से सामान्यतः स्वास्थ्य अच्छा रहता है; कोई विशेष स्वास्थ्य चेतावनी नहीं है।"
+      }
+    },
+    "aliases": [
+      "Jupiter trine Mars",
+      "Jup TRI Mar",
+      "Jupiter-Trine-Mars",
+      "Jupiter Trine to Mars"
+    ]
+  }
+}

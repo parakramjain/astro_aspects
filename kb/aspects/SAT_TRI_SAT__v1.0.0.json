@@ -1,0 +1,240 @@
+{
+  "id": "SAT_TRI_SAT__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Trine",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Improvement in honesty, discipline, hard work, determination, and organizational skills leads to steady progress and success.",
+    "hi": "ईमानदारी, सिद्धता, कठिन परिश्रम, दृढ़ निश्चय और संगठित कार्यक्षमता में सुधार से स्थिर प्रगति और सफलता मिलती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Persistent efforts and improved organizational skills foster steady progress and success in professional life.",
+      "hi": "लगातार प्रयास और बेहतर संगठित कार्यक्षमता से व्यावसायिक जीवन में स्थिर प्रगति और सफलता मिलती है।"
+    },
+    "relationships": {
+      "en": "Professional relationships gain stability and respect through consistent and disciplined behavior.",
+      "hi": "लगातार और अनुशासित व्यवहार से व्यावसायिक संबंधों में स्थिरता और प्रतिष्ठा मिलती है।"
+    },
+    "money": {
+      "en": "Steady efforts contribute to financial stability and gradual improvement.",
+      "hi": "लगातार प्रयास वित्तीय स्थिरता और धीरे-धीरे सुधार में सहायक होते हैं।"
+    },
+    "health_adj": {
+      "en": "Discipline and persistence support overall well-being and steady progress.",
+      "hi": "अनुशासन और निरंतरता समग्र स्वास्थ्य और स्थिर प्रगति में सहायक हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Career advancement",
+      "Achievement of goals",
+      "Strengthening of professional relationships"
+    ],
+    "hi": [
+      "करियर में उन्नति",
+      "लक्ष्य प्राप्ति",
+      "व्यावसायिक संबंधों की मजबूती"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Overemphasis on discipline may cause rigidity.",
+      "Persistence without flexibility might limit adaptability."
+    ],
+    "hi": [
+      "अनुशासन पर अधिक जोर कठोरता ला सकता है।",
+      "लचीलापन न होने पर निरंतरता अनुकूलन क्षमता सीमित कर सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Maintain honesty and discipline in daily tasks.",
+        "Organize work systematically to enhance productivity."
+      ],
+      "hi": [
+        "दैनिक कार्यों में ईमानदारी और अनुशासन बनाए रखें।",
+        "उत्पादकता बढ़ाने के लिए कार्यों को व्यवस्थित करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus efforts on goal-oriented tasks.",
+        "Strengthen professional relationships through respect and consistency."
+      ],
+      "hi": [
+        "लक्ष्य केंद्रित कार्यों पर प्रयास केंद्रित करें।",
+        "सम्मान और निरंतरता से व्यावसायिक संबंध मजबूत करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Avoid becoming overly rigid in routines.",
+        "Allow flexibility to adapt to changing circumstances."
+      ],
+      "hi": [
+        "रूटीन में अत्यधिक कठोर होने से बचें।",
+        "परिस्थितियों के अनुसार लचीलापन रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "honesty",
+      "discipline",
+      "hard work",
+      "determination",
+      "organizational skills",
+      "persistence",
+      "success",
+      "stability",
+      "respect"
+    ],
+    "hi": [
+      "ईमानदारी",
+      "अनुशासन",
+      "कठिन परिश्रम",
+      "दृढ़ निश्चय",
+      "संगठित कार्यक्षमता",
+      "लगातार प्रयास",
+      "सफलता",
+      "स्थिरता",
+      "प्रतिष्ठा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "steady",
+      "persistent",
+      "disciplined",
+      "respectful"
+    ],
+    "hi": [
+      "स्थिर",
+      "लगातार",
+      "अनुशासित",
+      "सम्मानजनक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "progress",
+      "professional growth",
+      "organizational improvement",
+      "relationship stability"
+    ],
+    "hi": [
+      "प्रगति",
+      "व्यावसायिक विकास",
+      "संगठनात्मक सुधार",
+      "संबंधों की स्थिरता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-tri-sat",
+      "core": "This aspect enhances honesty, discipline, and persistence, leading to steady progress and success in career and relationships.",
+      "tone": "Warm, professional, and encouraging"
+    },
+    "hi": {
+      "title": "शनि त्रिकोण शनि",
+      "core": "यह योग ईमानदारी, अनुशासन और निरंतरता को बढ़ाता है, जिससे करियर और संबंधों में स्थिर प्रगति और सफलता मिलती है।",
+      "tone": "सहानुभूतिपूर्ण, पेशेवर और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Improvement in honesty, discipline, hard work, determination, and organizational skills leads to steady progress and success.",
+        "hi": "ईमानदारी, सिद्धता, कठिन परिश्रम, दृढ़ निश्चय और संगठित कार्यक्षमता में सुधार से स्थिर प्रगति और सफलता मिलती है।"
+      },
+      "career": {
+        "en": "Persistent efforts and improved organizational skills foster steady progress and success in professional life.",
+        "hi": "लगातार प्रयास और बेहतर संगठित कार्यक्षमता से व्यावसायिक जीवन में स्थिर प्रगति और सफलता मिलती है।"
+      },
+      "relationships": {
+        "en": "Professional relationships gain stability and respect through consistent and disciplined behavior.",
+        "hi": "लगातार और अनुशासित व्यवहार से व्यावसायिक संबंधों में स्थिरता और प्रतिष्ठा मिलती है।"
+      },
+      "money": {
+        "en": "Steady efforts contribute to financial stability and gradual improvement.",
+        "hi": "लगातार प्रयास वित्तीय स्थिरता और धीरे-धीरे सुधार में सहायक होते हैं।"
+      },
+      "health_adj": {
+        "en": "Discipline and persistence support overall well-being and steady progress.",
+        "hi": "अनुशासन और निरंतरता समग्र स्वास्थ्य और स्थिर प्रगति में सहायक हैं।"
+      }
+    },
+    "aliases": [
+      "Saturn trine Saturn",
+      "Sat TRI Sat",
+      "Saturn-Trine-Saturn",
+      "Saturn Trine to Saturn"
+    ]
+  }
+}

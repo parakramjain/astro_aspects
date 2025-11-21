@@ -1,0 +1,230 @@
+{
+  "id": "PLU_OPP_PLU__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Opposition",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect does not occur within a human lifespan and is associated with political manifestations such as economic crises, power struggles, and geographical disasters.",
+    "hi": "यह समय व्यक्ति के जीवनकाल में नहीं आता और राजनीतिक घटनाओं में अर्थव्यवस्था की समस्याओं, अधिकारों के द्वंद्व, तथा भौगोलिक संकटों के रूप में प्रकट होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Indicates power struggles and instability in political or organizational structures.",
+      "hi": "राजनीतिक या संगठनात्मक संरचनाओं में अधिकारों के द्वंद्व और अस्थिरता को दर्शाता है।"
+    },
+    "relationships": {
+      "en": "Suggests conflicts related to authority and control dynamics.",
+      "hi": "अधिकार और नियंत्रण से जुड़े संघर्षों का संकेत देता है।"
+    },
+    "money": {
+      "en": "Associated with economic crises impacting financial stability.",
+      "hi": "आर्थिक संकटों से वित्तीय स्थिरता प्रभावित होती है।"
+    },
+    "health_adj": {
+      "en": "No specific health implications mentioned.",
+      "hi": "स्वास्थ्य के संबंध में कोई विशेष संकेत नहीं दिया गया है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Political crises",
+      "Economic crises",
+      "Geographical disasters"
+    ],
+    "hi": [
+      "राजनीतिक संकट",
+      "आर्थिक संकट",
+      "भौगोलिक आपदाएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Power struggles may cause instability.",
+      "Economic crises can affect broader communities.",
+      "Geographical disasters may lead to widespread disruption."
+    ],
+    "hi": [
+      "अधिकारों के द्वंद्व अस्थिरता पैदा कर सकते हैं।",
+      "आर्थिक संकट व्यापक समुदायों को प्रभावित कर सकते हैं।",
+      "भौगोलिक आपदाएँ व्यापक विघटन का कारण बन सकती हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Monitor political and economic developments carefully.",
+        "Prepare for potential disruptions in power structures."
+      ],
+      "hi": [
+        "राजनीतिक और आर्थिक घटनाक्रमों पर सावधानी से नजर रखें।",
+        "शक्ति संरचनाओं में संभावित विघटन के लिए तैयार रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Stay informed about economic indicators.",
+        "Be aware of geopolitical tensions."
+      ],
+      "hi": [
+        "आर्थिक संकेतकों की जानकारी रखें।",
+        "भू-राजनीतिक तनावों से अवगत रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and adjust plans as crises subside.",
+        "Focus on rebuilding stability."
+      ],
+      "hi": [
+        "संकट कम होने पर योजनाओं की समीक्षा और समायोजन करें।",
+        "स्थिरता पुनः स्थापित करने पर ध्यान दें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "economic crises",
+      "power struggles",
+      "geographical disasters",
+      "political instability"
+    ],
+    "hi": [
+      "आर्थिक संकट",
+      "अधिकारों के द्वंद्व",
+      "भौगोलिक संकट",
+      "राजनीतिक अस्थिरता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "political",
+      "economic",
+      "disruptive",
+      "long-term"
+    ],
+    "hi": [
+      "राजनीतिक",
+      "आर्थिक",
+      "विघटनकारी",
+      "दीर्घकालिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "crisis management",
+      "power dynamics",
+      "geopolitical challenges"
+    ],
+    "hi": [
+      "संकट प्रबंधन",
+      "शक्ति गतिशीलता",
+      "भू-राजनीतिक चुनौतियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-opp-plu",
+      "core": "This aspect signifies events beyond an individual's lifespan, manifesting in political and economic crises and geographical disasters.",
+      "tone": "Informative, neutral, cautious"
+    },
+    "hi": {
+      "title": "प्लूटो विपक्ष प्लूटो",
+      "core": "यह योग व्यक्ति के जीवनकाल से बाहर की घटनाओं को दर्शाता है, जो राजनीतिक और आर्थिक संकट तथा भौगोलिक आपदाओं के रूप में प्रकट होते हैं।",
+      "tone": "सूचनात्मक, तटस्थ, सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Doesn't occur in human lifespan. Manifests politically as economic crises, power struggles, and geographical disasters.",
+        "hi": "व्यक्ति के जीवनकाल में यह समय नहीं आताए लेकिन राजनीतिक घटनाक्रमों में यह अर्थव्यवस्था की समस्याओं को प्रदर्शित करता है। अधिकारों के द्वंद्व होते हैं। भौगोलिक संकट उपस्थित होते हैं।"
+      },
+      "career": {
+        "en": "Manifests as power struggles and instability in political or organizational structures.",
+        "hi": "राजनीतिक या संगठनात्मक संरचनाओं में अधिकारों के द्वंद्व और अस्थिरता को दर्शाता है।"
+      },
+      "relationships": {
+        "en": "Indicates conflicts related to authority and control.",
+        "hi": "अधिकार और नियंत्रण से जुड़े संघर्षों का संकेत देता है।"
+      },
+      "money": {
+        "en": "Associated with economic crises impacting financial stability.",
+        "hi": "आर्थिक संकटों से वित्तीय स्थिरता प्रभावित होती है।"
+      },
+      "health_adj": {
+        "en": "No specific health implications mentioned.",
+        "hi": "स्वास्थ्य के संबंध में कोई विशेष संकेत नहीं दिया गया है।"
+      }
+    },
+    "aliases": [
+      "Pluto opposition Pluto",
+      "Plu OPP Plu",
+      "Pluto-Opposition-Pluto",
+      "Pluto Opposition to Pluto"
+    ]
+  }
+}

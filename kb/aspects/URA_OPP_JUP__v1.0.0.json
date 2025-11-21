@@ -1,0 +1,269 @@
+{
+  "id": "URA_OPP_JUP__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Opposition",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates unrealistic fantasies and impractical associations leading to financial imbalance and mental instability. It brings sudden difficulties in institutional matters and conflicts over joint assets, increasing economic uncertainty and risk of losses.",
+    "hi": "यह योग अवास्तविक कल्पनाओं और असंभव संबंधों को दर्शाता है, जिससे खर्च संतुलन बिगड़ता है और मानसिक अस्थिरता होती है। यह संस्थागत कार्यों में अचानक कठिनाइयाँ और संयुक्त संपत्ति में झगड़े लाता है, आर्थिक अनिश्चितता और हानि का जोखिम बढ़ाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Sudden or unexpected difficulties in cultural, hospital, religious, academic, or professional institutions; business expansion may cause losses.",
+      "hi": "सांस्कृतिक, अस्पताल, धार्मिक, उच्च शिक्षा या पेशेवर संस्थानों में अचानक या अप्रत्याशित कठिनाइयाँ; व्यवसाय विस्तार हानि दे सकता है।"
+    },
+    "relationships": {
+      "en": "Conflicts and deception possible with unrealistic or selfish friends; disputes over joint assets, businesses, taxes, insurance, or legal matters.",
+      "hi": "असंभव और स्वार्थी मित्रों से झगड़े और धोखा संभव; संयुक्त संपत्ति, व्यवसाय, कर, बीमा या कानूनी मामलों में विवाद।"
+    },
+    "money": {
+      "en": "Financial imbalance and economic volatility increase; get-rich-quick schemes should be avoided; travel may waste time and money.",
+      "hi": "खर्च संतुलन बिगड़ता है और आर्थिक उतार-चढ़ाव बढ़ते हैं; तेजी से अमीर बनने के प्रयास टालने चाहिए; यात्रा से समय और पैसे की बर्बादी हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Mental instability and difficulty following directed paths; disruptive events may disturb plans and cause stress.",
+      "hi": "मानसिक अस्थिरता और निर्देशित मार्ग पर चलने में कठिनाई; विघटनकारी घटनाएँ योजनाओं को प्रभावित कर तनाव पैदा कर सकती हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Institutional challenges",
+      "Legal and financial disputes",
+      "Business losses",
+      "Deceptive relationships",
+      "Travel delays or losses"
+    ],
+    "hi": [
+      "संस्थागत समस्याएँ",
+      "कानूनी और वित्तीय विवाद",
+      "व्यवसाय में हानि",
+      "धोखाधड़ी वाले संबंध",
+      "यात्रा में देरी या हानि"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Avoid unrealistic or impractical ventures",
+      "Beware of false assurances and selfish friends",
+      "Economic uncertainty may cause major losses",
+      "Travel may result in wasted time and money",
+      "Estimates and plans may prove incorrect"
+    ],
+    "hi": [
+      "अवास्तविक या असंभव कार्यों से बचें",
+      "झूठे विश्वास और स्वार्थी मित्रों से सावधान रहें",
+      "आर्थिक अनिश्चितता से बड़ी हानि हो सकती है",
+      "यात्रा से समय और पैसे की बर्बादी हो सकती है",
+      "अनुमान और योजना गलत साबित हो सकती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in financial and business decisions",
+        "Avoid impulsive expansions or investments",
+        "Be vigilant about friends’ intentions",
+        "Prepare for sudden institutional challenges"
+      ],
+      "hi": [
+        "वित्तीय और व्यवसायिक निर्णयों में सावधानी बरतें",
+        "आवेग में विस्तार या निवेश से बचें",
+        "मित्रों की मंशा पर सतर्क रहें",
+        "संस्थागत चुनौतियों के लिए तैयार रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid get-rich-quick schemes",
+        "Refrain from unrealistic promises or assurances",
+        "Do not rely heavily on estimates or forecasts",
+        "Minimize travel to reduce waste"
+      ],
+      "hi": [
+        "तेजी से अमीर बनने के प्रयास टालें",
+        "अवास्तविक वादे या विश्वास न दें",
+        "अनुमान या पूर्वानुमान पर अधिक निर्भर न रहें",
+        "बर्बादी कम करने के लिए यात्रा कम करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and adjust plans based on outcomes",
+        "Resolve disputes calmly and legally",
+        "Focus on regaining financial balance",
+        "Seek stability in mental and professional life"
+      ],
+      "hi": [
+        "परिणामों के आधार पर योजनाओं की समीक्षा और समायोजन करें",
+        "विवादों को शांतिपूर्वक और कानूनी रूप से सुलझाएं",
+        "वित्तीय संतुलन पुनः प्राप्त करने पर ध्यान दें",
+        "मानसिक और पेशेवर जीवन में स्थिरता खोजें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "unrealistic fantasies",
+      "financial imbalance",
+      "mental instability",
+      "institutional difficulties",
+      "conflicts",
+      "economic volatility",
+      "business losses",
+      "deception",
+      "travel waste",
+      "false assurances"
+    ],
+    "hi": [
+      "अवास्तविक कल्पना",
+      "खर्च संतुलन में कमी",
+      "मानसिक अस्थिरता",
+      "संस्थागत कठिनाई",
+      "झगड़े",
+      "आर्थिक उतार-चढ़ाव",
+      "व्यवसाय में हानि",
+      "धोखा",
+      "यात्रा की बर्बादी",
+      "झूठा विश्वास"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "unstable",
+      "volatile",
+      "conflict-prone",
+      "risk-laden"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "अस्थायी",
+      "विवादास्पद",
+      "जोखिमपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "financial caution",
+      "mental stress",
+      "institutional disruption",
+      "relationship conflicts",
+      "unrealistic expectations"
+    ],
+    "hi": [
+      "वित्तीय सावधानी",
+      "मानसिक तनाव",
+      "संस्थागत विघटन",
+      "संबंधों में विवाद",
+      "अवास्तविक अपेक्षाएँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "ura-opp-jup",
+      "core": "Unrealistic fantasies and financial imbalance cause mental instability and sudden institutional difficulties, leading to conflicts and economic volatility.",
+      "tone": "Warm, neutral, cautious"
+    },
+    "hi": {
+      "title": "यूरेनस विपक्ष बृहस्पति",
+      "core": "अवास्तविक कल्पनाएँ और खर्च असंतुलन मानसिक अस्थिरता और अचानक संस्थागत कठिनाइयाँ लाते हैं, जिससे विवाद और आर्थिक उतार-चढ़ाव होते हैं।",
+      "tone": "सौम्य, तटस्थ, सतर्क"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Unrealistic fantasies/impractical associations/financial imbalance exist. False assurances/lack of discipline/artificial pursuits will cause problems. Mental instability prevails - struggles with directed paths.",
+        "hi": "अवास्तविक कल्पना/असंभव लोगों से संबंध/खर्च संतुलन में कमी की स्थिति रहती है। इस समय में झूठा विश्वास देना/आत्म.अनुशासनहीन रहना/कृत्रिम कार्यों की ओर प्रवृत्त होना समस्या का कारण रहेगा। व्यक्ति मानसिक अस्थिरता की स्थिति में रहता है/महसूस करता है तथा निर्देशित मार्ग पर चलने में कठिनाई अनुभव करता है।"
+      },
+      "career": {
+        "en": "Sudden difficulties in cultural/hospital/religious/academic/professional institutional matters. Business expansion brings losses now.",
+        "hi": "सांस्कृतिक संस्थान/अस्पताल/धार्मिक स्थल/उच्च शिक्षा संस्थान/पेशेवर संस्थान से संबंधित कार्यों में अचानक या अप्रत्याशित कठिनाई/समस्या की स्थिति रहती है। इस समय में व्यवसाय और कार्यप्रसार हानि प्रदान करता है।"
+      },
+      "relationships": {
+        "en": "Conflicts over joint assets/businesses/taxes/insurance/legal work. Deception from unrealistic/selfish friends possible.",
+        "hi": "संयुक्त संपत्ति/व्यवसाय/कर/बीमा/निवेश/कानूनी कार्य में झगड़े और मतभेद की स्थिति रहती है। असंभव और स्वार्थी मित्रों से धोखा प्राप्त हो सकता है।"
+      },
+      "money": {
+        "en": "Financial imbalance and economic uncertainty increase. Avoid get-rich-quick schemes. Travel wastes time/money.",
+        "hi": "आर्थिक अनिश्चितता और उतार-चढ़ाव अधिक होते हैं। तेजी से अमीर बनने के प्रयासों को टालना चाहिए। यात्रा के कारण समय और पैसे की बर्बादी होती है।"
+      },
+      "health_adj": {
+        "en": "Mental instability prevails - struggles with directed paths. Disruptive events may occur. Fluctuations risk major losses - estimates prove wrong.",
+        "hi": "व्यक्ति मानसिक अस्थिरता की स्थिति में रहता है/महसूस करता है तथा निर्देशित मार्ग पर चलने में कठिनाई अनुभव करता है। ऐसी घटनाएँ होती हैं जो व्यक्ति के कार्य और योजना को अस्त-व्यस्त कर देती हैं। उतार-चढ़ाव से बचें अन्यथा बड़ी हानि की संभावना रहती है। व्यक्ति के अनुमान गलत साबित होते हैं।"
+      }
+    },
+    "aliases": [
+      "Uranus opposition Jupiter",
+      "Ura OPP Jup",
+      "Uranus-Opposition-Jupiter",
+      "Uranus Opposition to Jupiter"
+    ]
+  }
+}

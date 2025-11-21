@@ -1,0 +1,231 @@
+{
+  "id": "MOO_CON_SAT__v1.0.0",
+  "pair": [
+    "Moon",
+    "Conjunction",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A state of deep despair, negative outlook, and inferiority complex influences the person's mindset and personal activities.",
+    "hi": "गहरी निराशा, नकारात्मक दृष्टिकोण और हीनभावना की स्थिति व्यक्ति की मानसिकता और व्यक्तिगत गतिविधियों को प्रभावित करती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "The person may have an old-fashioned mindset affecting their approach to work and career activities.",
+      "hi": "व्यक्ति की पुरानी मानसिकता उनके कार्य और करियर गतिविधियों को प्रभावित कर सकती है।"
+    },
+    "relationships": {
+      "en": "Negative outlook and feelings of inferiority may influence personal relationships and interactions.",
+      "hi": "नकारात्मक दृष्टिकोण और हीनभावना व्यक्तिगत संबंधों और बातचीत को प्रभावित कर सकती है।"
+    },
+    "money": {
+      "en": "Financial matters may be influenced indirectly by the person's pessimistic mindset and personal outlook.",
+      "hi": "वित्तीय मामलों पर व्यक्ति की निराशावादी मानसिकता और दृष्टिकोण अप्रत्यक्ष रूप से प्रभाव डाल सकते हैं।"
+    },
+    "health_adj": {
+      "en": "The digestive system is adversely affected, indicating possible health challenges related to digestion.",
+      "hi": "पाचन तंत्र पर विपरीत प्रभाव होता है, जो पाचन से संबंधित स्वास्थ्य समस्याओं का संकेत देता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional challenges",
+      "Mental outlook shifts",
+      "Health-related concerns"
+    ],
+    "hi": [
+      "भावनात्मक चुनौतियाँ",
+      "मानसिक दृष्टिकोण में बदलाव",
+      "स्वास्थ्य संबंधी चिंताएँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Tendency towards despair and negative thinking",
+      "Potential impact on digestive health",
+      "Possible feelings of inferiority affecting behavior"
+    ],
+    "hi": [
+      "निराशा और नकारात्मक सोच की प्रवृत्ति",
+      "पाचन स्वास्थ्य पर संभावित प्रभाव",
+      "व्यवहार को प्रभावित कर सकती है हीनभावना"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Recognize and address negative thought patterns",
+        "Be mindful of personal mindset in daily activities"
+      ],
+      "hi": [
+        "नकारात्मक सोच के पैटर्न को पहचानें और सुधारें",
+        "दैनिक गतिविधियों में मानसिकता का ध्यान रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on managing feelings of despair and inferiority",
+        "Monitor digestive health carefully"
+      ],
+      "hi": [
+        "निराशा और हीनभावना के भावों को नियंत्रित करने पर ध्यान दें",
+        "पाचन स्वास्थ्य की सावधानीपूर्वक निगरानी करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually shift away from old, limiting mindsets",
+        "Adopt healthier personal habits to improve outlook"
+      ],
+      "hi": [
+        "पुरानी, सीमित मानसिकताओं से धीरे-धीरे दूर हों",
+        "दृष्टिकोण सुधारने के लिए स्वस्थ व्यक्तिगत आदतें अपनाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "despair",
+      "negative outlook",
+      "inferiority complex",
+      "old mindset",
+      "digestive issues"
+    ],
+    "hi": [
+      "निराशा",
+      "नकारात्मक दृष्टिकोण",
+      "हीनभावना",
+      "पुरानी मानसिकता",
+      "पाचन समस्या"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional challenge",
+      "mental outlook",
+      "health impact"
+    ],
+    "hi": [
+      "भावनात्मक चुनौती",
+      "मानसिक दृष्टिकोण",
+      "स्वास्थ्य प्रभाव"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "psychological struggle",
+      "health caution",
+      "personal mindset"
+    ],
+    "hi": [
+      "मनोवैज्ञानिक संघर्ष",
+      "स्वास्थ्य सावधानी",
+      "व्यक्तिगत मानसिकता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-con-sat",
+      "core": "This aspect indicates a deep sense of despair and a negative mindset that affects personal activities and health.",
+      "tone": "Warm, neutral, and reflective"
+    },
+    "hi": {
+      "title": "चंद्र ग्रहण संयोग शनि",
+      "core": "यह योग गहरी निराशा और नकारात्मक मानसिकता को दर्शाता है जो व्यक्तिगत गतिविधियों और स्वास्थ्य को प्रभावित करती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Deep despair, negative outlook, inferiority complex influencing mindset and personal activities.",
+        "hi": "गहरी निराशा, नकारात्मक दृष्टिकोण, हीनभावना जो मानसिकता और व्यक्तिगत गतिविधियों को प्रभावित करती है।"
+      },
+      "career": {
+        "en": "Old mindset affecting work and career approach.",
+        "hi": "पुरानी मानसिकता जो कार्य और करियर दृष्टिकोण को प्रभावित करती है।"
+      },
+      "relationships": {
+        "en": "Negative outlook and inferiority feelings influencing personal relationships.",
+        "hi": "नकारात्मक दृष्टिकोण और हीनभावना जो व्यक्तिगत संबंधों को प्रभावित करती है।"
+      },
+      "money": {
+        "en": "Pessimistic mindset may indirectly affect financial matters.",
+        "hi": "निराशावादी मानसिकता वित्तीय मामलों को अप्रत्यक्ष रूप से प्रभावित कर सकती है।"
+      },
+      "health_adj": {
+        "en": "Adverse effects on digestive system.",
+        "hi": "पाचन तंत्र पर विपरीत प्रभाव।"
+      }
+    },
+    "aliases": [
+      "Moon conjunction Saturn",
+      "Moo CON Sat",
+      "Moon-Conjunction-Saturn",
+      "Moon Conjunction to Saturn"
+    ]
+  }
+}

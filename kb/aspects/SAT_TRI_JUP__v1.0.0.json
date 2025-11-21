@@ -1,0 +1,257 @@
+{
+  "id": "SAT_TRI_JUP__v1.0.0",
+  "pair": [
+    "Saturn",
+    "Trine",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates steady advancement and practical implementation of ideas in legal, political, management, and educational fields, supported by cooperation from senior officials and balanced optimism with caution. It also reflects success in fulfilling family and institutional responsibilities and benefits from intelligent risk-taking and sound financial investments.",
+    "hi": "यह योग कानूनी, राजनीति, प्रबंध और शैक्षणिक क्षेत्रों में स्थिर उन्नति और विचारों के व्यवहारिक क्रियान्वयन को दर्शाता है, जिसमें उच्च अधिकारियों का सहयोग और आशावाद, सावधानी का संतुलित मेल होता है। यह घर, परिवार और संस्था की जिम्मेदारियों में सफलता तथा बुद्धिमत्तापूर्ण जोखिम और सही आर्थिक निवेश से लाभ को भी दर्शाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Opportunities for progress in legal, governmental, management, and educational work; cooperation from senior officials; steady advancement in new business or job pursuits.",
+      "hi": "कानूनी, सरकारी, प्रबंध और शैक्षणिक कार्यों में उन्नति के अवसर; उच्च पदस्थ अधिकारियों का सहयोग; नया व्यवसाय या नौकरी प्राप्ति में स्थिर प्रगति।"
+    },
+    "relationships": {
+      "en": "Successful handling of home, family, and institutional responsibilities with balanced dedication and cooperation.",
+      "hi": "घर, परिवार और संस्था की जिम्मेदारियों को संतुलित लगन और सहयोग से सफलतापूर्वक निभाना।"
+    },
+    "money": {
+      "en": "Profits from intelligent risk-taking and making sound financial investments.",
+      "hi": "बुद्धिमत्तापूर्ण जोखिम लेने और सही आर्थिक निवेश से लाभ प्राप्त करना।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन नहीं दर्शाया गया है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Career advancement",
+      "Legal or governmental work success",
+      "Financial investment gains",
+      "Family and institutional responsibility fulfillment"
+    ],
+    "hi": [
+      "करियर में उन्नति",
+      "कानूनी या सरकारी कार्य में सफलता",
+      "आर्थिक निवेश में लाभ",
+      "परिवार और संस्था की जिम्मेदारी निभाना"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Risks involve intelligent but cautious risk-taking; balance optimism with caution to avoid setbacks."
+    ],
+    "hi": [
+      "जोखिम बुद्धिमत्तापूर्ण पर सावधानीपूर्वक जोखिम लेने में है; असफलता से बचने के लिए आशावाद और सावधानी का संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Pursue legal, political, management, or educational opportunities steadily.",
+        "Engage senior officials or experienced colleagues for cooperation.",
+        "Balance optimism with caution and dedication in goals.",
+        "Take intelligent financial risks after careful consideration.",
+        "Fulfill family and institutional responsibilities seriously."
+      ],
+      "hi": [
+        "कानूनी, राजनीतिक, प्रबंध या शैक्षणिक अवसरों को स्थिरता से आगे बढ़ाएं।",
+        "सहयोग के लिए उच्च अधिकारियों या अनुभवी सहयोगियों को शामिल करें।",
+        "लक्ष्यों में आशावाद, सावधानी और लगन का संतुलन बनाए रखें।",
+        "सावधानीपूर्वक विचार के बाद बुद्धिमत्तापूर्ण आर्थिक जोखिम लें।",
+        "परिवार और संस्था की जिम्मेदारियों को गंभीरता से निभाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Implement ideas practically with stability in legal and governmental work.",
+        "Maintain balanced optimism and caution in pursuing old goals.",
+        "Make sound financial investments."
+      ],
+      "hi": [
+        "कानूनी और सरकारी कार्यों में विचारों को व्यवहारिक और स्थिर रूप से लागू करें।",
+        "पुराने लक्ष्यों को प्राप्त करने में आशावाद और सावधानी का संतुलन बनाए रखें।",
+        "सही आर्थिक निवेश करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Avoid reckless risk-taking without intelligence.",
+        "Do not neglect family or institutional duties.",
+        "Avoid ignoring cooperation from senior officials."
+      ],
+      "hi": [
+        "बिना बुद्धिमत्ता के लापरवाह जोखिम लेने से बचें।",
+        "परिवार या संस्था की जिम्मेदारियों को नजरअंदाज न करें।",
+        "उच्च अधिकारियों के सहयोग को अनदेखा न करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "advancement",
+      "legal work",
+      "governmental cooperation",
+      "steady progress",
+      "balanced optimism",
+      "caution",
+      "dedication",
+      "family responsibility",
+      "intelligent risk-taking",
+      "financial investment"
+    ],
+    "hi": [
+      "उन्नति",
+      "कानूनी कार्य",
+      "सरकारी सहयोग",
+      "स्थिर प्रगति",
+      "संतुलित आशावाद",
+      "सावधानी",
+      "लगन",
+      "परिवार की जिम्मेदारी",
+      "बुद्धिमत्तापूर्ण जोखिम",
+      "आर्थिक निवेश"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "stable",
+      "practical",
+      "cooperative",
+      "balanced",
+      "dedicated",
+      "intelligent"
+    ],
+    "hi": [
+      "स्थिर",
+      "व्यवहारिक",
+      "सहयोगी",
+      "संतुलित",
+      "लगनशील",
+      "बुद्धिमान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Saturn": 0.85,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "career growth",
+      "legal and governmental affairs",
+      "financial prudence",
+      "family and institutional duty"
+    ],
+    "hi": [
+      "करियर विकास",
+      "कानूनी और सरकारी मामले",
+      "आर्थिक विवेक",
+      "परिवार और संस्था की जिम्मेदारी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "sat-tri-jup",
+      "core": "This aspect supports advancement in legal, political, management, and educational fields with cooperation and balanced effort, leading to success in responsibilities and investments.",
+      "tone": "Warm, balanced, and encouraging"
+    },
+    "hi": {
+      "title": "शनि त्रिकोण बृहस्पति: स्थिर प्रगति और व्यवहारिक सफलता",
+      "core": "यह योग कानूनी, राजनीतिक, प्रबंध और शैक्षणिक क्षेत्रों में सहयोग और संतुलित प्रयास से उन्नति तथा जिम्मेदारियों और निवेशों में सफलता प्रदान करता है।",
+      "tone": "सहानुभूतिपूर्ण, संतुलित और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Advancement opportunities in legal, political, management, and educational work; steady progress; cooperation from senior officials; balanced optimism and caution; success in family and institutional responsibilities; intelligent risk-taking and sound financial investments.",
+        "hi": "कानूनी, राजनीतिक, प्रबंध और शैक्षणिक कार्यों में उन्नति के अवसर; स्थिर प्रगति; उच्च अधिकारियों का सहयोग; आशावाद और सावधानी का संतुलन; परिवार और संस्था की जिम्मेदारियों में सफलता; बुद्धिमत्तापूर्ण जोखिम और सही आर्थिक निवेश।"
+      },
+      "career": {
+        "en": "Steady progress in new business or job pursuits; good for legal and governmental work; cooperation from senior officials; practical implementation of ideas with stability.",
+        "hi": "नए व्यवसाय या नौकरी प्राप्ति में स्थिर प्रगति; कानूनी और सरकारी कार्यों के लिए उपयुक्त; उच्च अधिकारियों का सहयोग; विचारों का स्थिर व्यवहारिक क्रियान्वयन।"
+      },
+      "relationships": {
+        "en": "Successfully handles home, family, and institutional responsibilities with balanced optimism, caution, and dedication.",
+        "hi": "घर, परिवार और संस्था की जिम्मेदारियों को आशावाद, सावधानी और लगन के संतुलन से सफलतापूर्वक निभाना।"
+      },
+      "money": {
+        "en": "Profits from intelligent risk-taking and making sound financial investments.",
+        "hi": "बुद्धिमत्तापूर्ण जोखिम लेने और सही आर्थिक निवेश से लाभ प्राप्त करना।"
+      },
+      "health_adj": {
+        "en": "No specific health indications or adjustments mentioned.",
+        "hi": "कोई विशेष स्वास्थ्य संकेत या समायोजन नहीं दिया गया है।"
+      }
+    },
+    "aliases": [
+      "Saturn trine Jupiter",
+      "Sat TRI Jup",
+      "Saturn-Trine-Jupiter",
+      "Saturn Trine to Jupiter"
+    ]
+  }
+}

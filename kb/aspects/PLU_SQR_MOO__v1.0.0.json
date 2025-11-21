@@ -1,0 +1,144 @@
+{
+  "id": "PLU_SQR_MOO__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Square",
+    "Moon"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Square between Pluto and Moon drives friction/work. Pluto: . Moon: emotion, care, habits, home, public mood, mother. General tenor: growth via friction; endurance and clear boundaries are key.",
+  "facets": {
+    "career": " Public reception, brand sentiment, consistency. Emphasis: friction/work.",
+    "relationships": " Bonding, nurturance, emotional safety. Emphasis: friction/work.",
+    "money": " Cyclic cashflow, consumer sentiment. Emphasis: friction/work.",
+    "health_adj": " Hydration, sleep, digestion; stress sensitivity. Emphasis: friction/work."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Friction escalating into conflict; respect pacing and boundaries."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: friction/work).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: friction/work)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: friction/work).",
+      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: friction/work)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: friction/work).",
+      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: friction/work)."
+    ]
+  },
+  "keywords": [
+    "care",
+    "emotion",
+    "friction",
+    "habits",
+    "home",
+    "mother",
+    "public mood",
+    "square",
+    "work"
+  ],
+  "quality_tags": [
+    "major",
+    "challenging"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Moon": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Pluto Square Moon",
+      "core": "Square between Pluto and Moon drives friction/work. Pluto: . Moon: emotion, care, habits, home, public mood, mother. General tenor: growth via friction; endurance and clear boundaries are key.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Pluto Square Moon (हिन्दी)",
+      "core": "Pluto और Moon का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Square between Pluto and Moon drives friction/work. Pluto: . Moon: emotion, care, habits, home, public mood, mother. General tenor: growth via friction; endurance and clear boundaries are key.",
+      "career": " Public reception, brand sentiment, consistency. Emphasis: friction/work.",
+      "relationships": " Bonding, nurturance, emotional safety. Emphasis: friction/work.",
+      "money": " Cyclic cashflow, consumer sentiment. Emphasis: friction/work.",
+      "health_adj": " Hydration, sleep, digestion; stress sensitivity. Emphasis: friction/work."
+    },
+    "aliases": [
+      "Pluto square Moon",
+      "Plu SQR Moo",
+      "Pluto-Square-Moon",
+      "Pluto Square to Moon"
+    ]
+  }
+}

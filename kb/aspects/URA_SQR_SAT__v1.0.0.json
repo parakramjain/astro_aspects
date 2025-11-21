@@ -1,0 +1,145 @@
+{
+  "id": "URA_SQR_SAT__v1.0.0",
+  "pair": [
+    "Uranus",
+    "Square",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Square between Uranus and Saturn drives friction/work. Uranus: . Saturn: discipline, structure, time, limits, dharma via effort. General tenor: growth via friction; endurance and clear boundaries are key.",
+  "facets": {
+    "career": " Authority via mastery, long-term credibility. Emphasis: friction/work.",
+    "relationships": " Commitment realism, boundaries, duty. Emphasis: friction/work.",
+    "money": " Slow steady accrual, austerity, debt realism. Emphasis: friction/work.",
+    "health_adj": " Bones, teeth, chronic load; routines & posture. Emphasis: friction/work."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Friction escalating into conflict; respect pacing and boundaries.",
+    "Burnout via over-responsibility; schedule recovery windows."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: friction/work).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: friction/work)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: friction/work).",
+      "Make the decisive call; accept/decline offers consciously. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: friction/work)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: friction/work).",
+      "Close loops, stabilize routines, prune scope creep. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: friction/work)."
+    ]
+  },
+  "keywords": [
+    "dharma via effort",
+    "discipline",
+    "friction",
+    "limits",
+    "square",
+    "structure",
+    "time",
+    "work"
+  ],
+  "quality_tags": [
+    "major",
+    "challenging",
+    "discipline-required"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Uranus": 0.8,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "",
+    "",
+    ""
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Uranus Square Saturn",
+      "core": "Square between Uranus and Saturn drives friction/work. Uranus: . Saturn: discipline, structure, time, limits, dharma via effort. General tenor: growth via friction; endurance and clear boundaries are key.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Uranus Square Saturn (हिन्दी)",
+      "core": "Uranus और Saturn का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Square between Uranus and Saturn drives friction/work. Uranus: . Saturn: discipline, structure, time, limits, dharma via effort. General tenor: growth via friction; endurance and clear boundaries are key.",
+      "career": " Authority via mastery, long-term credibility. Emphasis: friction/work.",
+      "relationships": " Commitment realism, boundaries, duty. Emphasis: friction/work.",
+      "money": " Slow steady accrual, austerity, debt realism. Emphasis: friction/work.",
+      "health_adj": " Bones, teeth, chronic load; routines & posture. Emphasis: friction/work."
+    },
+    "aliases": [
+      "Uranus square Saturn",
+      "Ura SQR Sat",
+      "Uranus-Square-Saturn",
+      "Uranus Square to Saturn"
+    ]
+  }
+}

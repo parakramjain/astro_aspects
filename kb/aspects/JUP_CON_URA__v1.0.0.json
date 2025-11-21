@@ -1,0 +1,259 @@
+{
+  "id": "JUP_CON_URA__v1.0.0",
+  "pair": [
+    "Jupiter",
+    "Conjunction",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect brings fortunate support, assistance from friends, and growth in tolerance, long-term vision, future insight, and occult knowledge. It encourages scientific study of religious and spiritual matters. Unexpected financial gains and benefits from inheritance, taxes, or insurance are likely. New friendships and secret emotional connections may form, along with opportunities for life reorganization.",
+    "hi": "यह योग भाग्य का सहयोग, मित्रों की सहायता, सहनशीलता, दीर्घकालीन दृष्टिकोण, भविष्यज्ञान और गूढ़ ज्ञान में वृद्धि लाता है। यह धार्मिक और आध्यात्मिक विषयों का वैज्ञानिक अध्ययन प्रोत्साहित करता है। अप्रत्याशित आर्थिक लाभ, पैतृक संपत्ति, कर या बीमा से लाभ संभव हैं। नए मित्रता और गुप्त भावनात्मक संबंध बन सकते हैं तथा जीवन में पुनः नियोजन के अवसर मिलते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Encourages scientific and systematic study of spiritual or religious fields; opportunities for reorganization and new directions.",
+      "hi": "आध्यात्मिक या धार्मिक क्षेत्रों के वैज्ञानिक और व्यवस्थित अध्ययन को प्रोत्साहन; पुनः नियोजन और नए मार्गों के अवसर।"
+    },
+    "relationships": {
+      "en": "Supportive friendships form; secret emotional bonds may develop; friends provide assistance.",
+      "hi": "मित्रता में सहयोग मिलता है; गुप्त भावनात्मक संबंध बन सकते हैं; मित्र सहायता करते हैं।"
+    },
+    "money": {
+      "en": "Unexpected financial gains, sudden profits, and benefits from inheritance, taxes, or insurance are likely.",
+      "hi": "अप्रत्याशित आर्थिक लाभ, अचानक लाभ और पैतृक संपत्ति, कर या बीमा से लाभ संभव है।"
+    },
+    "health_adj": {
+      "en": "Increased tolerance and mental resilience; no specific health risks mentioned.",
+      "hi": "सहनशीलता और मानसिक सहनशक्ति में वृद्धि; कोई विशेष स्वास्थ्य जोखिम उल्लेखित नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Financial gains",
+      "New friendships",
+      "Life reorganization",
+      "Spiritual studies"
+    ],
+    "hi": [
+      "आर्थिक लाभ",
+      "नई मित्रता",
+      "जीवन पुनः नियोजन",
+      "आध्यात्मिक अध्ययन"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Sudden changes may require adjustment.",
+      "Secret emotional connections may need discretion."
+    ],
+    "hi": [
+      "अचानक परिवर्तन के लिए समायोजन आवश्यक हो सकता है।",
+      "गुप्त भावनात्मक संबंधों में सावधानी आवश्यक।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek support from friends and cultural circles.",
+        "Engage in scientific study of spiritual matters.",
+        "Be open to life reorganization opportunities."
+      ],
+      "hi": [
+        "मित्रों और सांस्कृतिक समूहों से सहयोग लें।",
+        "आध्यात्मिक विषयों का वैज्ञानिक अध्ययन करें।",
+        "जीवन पुनः नियोजन के अवसरों के लिए खुले रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on long-term planning and tolerance.",
+        "Explore occult and future insights.",
+        "Watch for sudden financial opportunities."
+      ],
+      "hi": [
+        "दीर्घकालीन योजना और सहनशीलता पर ध्यान दें।",
+        "गूढ़ और भविष्य ज्ञान का अन्वेषण करें।",
+        "अचानक आर्थिक अवसरों पर नजर रखें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain friendships and emotional connections carefully.",
+        "Review financial gains and inheritance benefits."
+      ],
+      "hi": [
+        "मित्रता और भावनात्मक संबंधों को सावधानी से बनाए रखें।",
+        "आर्थिक लाभ और पैतृक संपत्ति के लाभों की समीक्षा करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "fortunate support",
+      "friends help",
+      "tolerance",
+      "long-term perspective",
+      "future insight",
+      "occult knowledge",
+      "scientific study",
+      "unexpected financial gains",
+      "inheritance benefits",
+      "sudden profits",
+      "new friendships",
+      "secret emotional connections",
+      "cultural activities",
+      "life reorganization"
+    ],
+    "hi": [
+      "भाग्य का सहयोग",
+      "मित्र सहायता",
+      "सहनशीलता",
+      "दीर्घकालीन दृष्टिकोण",
+      "भविष्यज्ञान",
+      "गूढ़ ज्ञान",
+      "वैज्ञानिक अध्ययन",
+      "अप्रत्याशित आर्थिक लाभ",
+      "पैतृक संपत्ति लाभ",
+      "अचानक लाभ",
+      "नई मित्रता",
+      "गुप्त भावनात्मक संबंध",
+      "सांस्कृतिक कार्य",
+      "जीवन पुनः नियोजन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "insightful",
+      "opportunistic",
+      "transformative",
+      "spiritual"
+    ],
+    "hi": [
+      "सहायक",
+      "दृष्टिपूर्ण",
+      "अवसरवादी",
+      "परिवर्तनकारी",
+      "आध्यात्मिक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Jupiter": 0.95,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "friendship and support",
+      "financial opportunity",
+      "spiritual knowledge",
+      "life changes"
+    ],
+    "hi": [
+      "मित्रता और सहयोग",
+      "आर्थिक अवसर",
+      "आध्यात्मिक ज्ञान",
+      "जीवन परिवर्तन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "jup-con-ura",
+      "core": "Fortunate support with growth in insight, tolerance, and unexpected gains. Encourages scientific spiritual study and new emotional bonds.",
+      "tone": "Warm, optimistic, and encouraging."
+    },
+    "hi": {
+      "title": "बृहस्पति संयोजन यूरेनस",
+      "core": "भाग्य का सहयोग, दृष्टि और सहनशीलता में वृद्धि, अप्रत्याशित लाभ। वैज्ञानिक आध्यात्मिक अध्ययन और नए भावनात्मक संबंध प्रोत्साहित करता है।",
+      "tone": "सहानुभूतिपूर्ण, आशावादी और प्रोत्साहक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Fortunate support, friends help, tolerance, long-term perspective, future insight, occult knowledge, scientific study, unexpected financial gains, inheritance benefits, sudden profits, new friendships, secret emotional connections, cultural activities, life reorganization.",
+        "hi": "भाग्य का सहयोग, मित्र सहायता, सहनशीलता, दीर्घकालीन दृष्टिकोण, भविष्यज्ञान, गूढ़ ज्ञान, वैज्ञानिक अध्ययन, अप्रत्याशित आर्थिक लाभ, पैतृक संपत्ति लाभ, अचानक लाभ, नई मित्रता, गुप्त भावनात्मक संबंध, सांस्कृतिक कार्य, जीवन पुनः नियोजन।"
+      },
+      "career": {
+        "en": "Scientific and systematic study of spiritual/religious matters; opportunities for career reorganization and new directions.",
+        "hi": "आध्यात्मिक/धार्मिक विषयों का वैज्ञानिक और व्यवस्थित अध्ययन; करियर पुनः नियोजन और नए मार्गों के अवसर।"
+      },
+      "relationships": {
+        "en": "Supportive friendships, new and secret emotional connections, assistance from friends.",
+        "hi": "सहायक मित्रता, नए और गुप्त भावनात्मक संबंध, मित्रों से सहायता।"
+      },
+      "money": {
+        "en": "Unexpected financial gains, sudden profits, benefits from inheritance, taxes, and insurance.",
+        "hi": "अप्रत्याशित आर्थिक लाभ, अचानक लाभ, पैतृक संपत्ति, कर और बीमा से लाभ।"
+      },
+      "health_adj": {
+        "en": "Increased tolerance and mental resilience; no specific health risks noted.",
+        "hi": "सहनशीलता और मानसिक सहनशक्ति में वृद्धि; कोई विशेष स्वास्थ्य जोखिम नहीं।"
+      }
+    },
+    "aliases": [
+      "Jupiter conjunction Uranus",
+      "Jup CON Ura",
+      "Jupiter-Conjunction-Uranus",
+      "Jupiter Conjunction to Uranus"
+    ]
+  }
+}

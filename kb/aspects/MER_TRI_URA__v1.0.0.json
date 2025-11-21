@@ -1,0 +1,245 @@
+{
+  "id": "MER_TRI_URA__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Trine",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Creative, fast, and unexpected thinking expands, fostering intuition, foresight, and new knowledge. Engagement with technology and innovation increases, alongside forming new friendships and deep conversations.",
+    "hi": "रचनात्मक, तेज़ और अप्रत्याशित सोच का विस्तार होता है, जिससे अंतर्ज्ञान, दूरदर्शिता और नए ज्ञान का विकास होता है। व्यक्ति टेक्नोलॉजी और नवाचार से जुड़ता है, नए दोस्त बनते हैं और गहरी चर्चाएं होती हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Increased involvement in technology and innovation; enhanced creative and fast thinking aids problem-solving.",
+      "hi": "टेक्नोलॉजी और नवाचार में बढ़ी हुई भागीदारी; रचनात्मक और तेज़ सोच से समस्याओं का समाधान आसान होता है।"
+    },
+    "relationships": {
+      "en": "New friendships form and opportunities for meaningful, deep conversations arise.",
+      "hi": "नए दोस्त बनते हैं और विशेष, गहरी चर्चाओं के अवसर मिलते हैं।"
+    },
+    "money": {
+      "en": "Opportunities may arise through innovative ideas and networking, though specifics are not detailed.",
+      "hi": "नवोन्मेषी विचारों और नेटवर्किंग से अवसर बन सकते हैं, हालांकि विशेष विवरण नहीं दिया गया है।"
+    },
+    "health_adj": {
+      "en": "Mental agility and intuition improve; no specific health cautions mentioned.",
+      "hi": "मानसिक चुस्ती और अंतर्ज्ञान में वृद्धि होती है; कोई विशेष स्वास्थ्य चेतावनी नहीं दी गई है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative breakthroughs",
+      "New friendships",
+      "Engagement with technology and innovation"
+    ],
+    "hi": [
+      "रचनात्मक सफलता",
+      "नए दोस्त बनना",
+      "टेक्नोलॉजी और नवाचार से जुड़ाव"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain openness to unexpected ideas."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताया गया; अप्रत्याशित विचारों के प्रति खुलापन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage actively with technological and innovative projects.",
+        "Foster new social connections and participate in meaningful discussions."
+      ],
+      "hi": [
+        "टेक्नोलॉजी और नवाचार से जुड़े प्रोजेक्ट्स में सक्रिय रूप से भाग लें।",
+        "नए सामाजिक संबंध बनाएं और गहरी चर्चाओं में हिस्सा लें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on intuitive insights and foresight to guide decisions.",
+        "Explore creative ideas rapidly and share them with peers."
+      ],
+      "hi": [
+        "निर्णय लेने में अंतर्ज्ञान और दूरदर्शिता पर ध्यान दें।",
+        "रचनात्मक विचारों को तेजी से विकसित करें और साथियों के साथ साझा करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on new knowledge gained and maintain connections formed.",
+        "Continue nurturing creativity and openness to innovation."
+      ],
+      "hi": [
+        "प्राप्त नए ज्ञान पर विचार करें और बने संबंधों को बनाए रखें।",
+        "रचनात्मकता और नवाचार के प्रति खुलापन बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "creative thinking",
+      "fast thinking",
+      "unexpected ideas",
+      "technology",
+      "innovation",
+      "intuition",
+      "foresight",
+      "new knowledge",
+      "new friendships",
+      "deep conversations"
+    ],
+    "hi": [
+      "रचनात्मक सोच",
+      "तेज़ सोच",
+      "अप्रत्याशित विचार",
+      "टेक्नोलॉजी",
+      "नवाचार",
+      "अंतर्ज्ञान",
+      "दूरदर्शिता",
+      "नया ज्ञान",
+      "नए दोस्त",
+      "गहरी चर्चाएं"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "innovative",
+      "intuitive",
+      "social",
+      "fast-paced"
+    ],
+    "hi": [
+      "रचनात्मक",
+      "नवोन्मेषी",
+      "अंतर्ज्ञानी",
+      "सामाजिक",
+      "तेज़ गति वाला"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "technology",
+      "innovation",
+      "friendship",
+      "communication"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "टेक्नोलॉजी",
+      "नवाचार",
+      "मित्रता",
+      "संचार"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-tri-ura",
+      "core": "Expanding creative and fast thinking with innovation and new social connections.",
+      "tone": "Warm, encouraging, and open-minded."
+    },
+    "hi": {
+      "title": "बुध त्रिकोण यूरेनस",
+      "core": "रचनात्मक और तेज़ सोच का विस्तार, नवाचार और नए सामाजिक संबंधों के साथ।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और खुले विचारों वाला।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Creative, fast, and unexpected thinking expands. The person engages in tech and innovation. Intuition, foresight, and new knowledge grow. New friendships form, and deep conversations happen.",
+        "hi": "इस समय रचनात्मकए अप्रत्याशित और तेज़ सोच की वृद्धि होती है। व्यक्ति टेक्नोलॉजी और इनोवेशन से जुड़ता है। दूरदर्शिताए अंतर्ज्ञान और नए ज्ञान का विकास होता है। नए दोस्त बनते हैं और विशेष चर्चाओं के मौके मिलते हैं।"
+      },
+      "career": {
+        "en": "Engagement with technology and innovation increases, supported by creative and fast thinking.",
+        "hi": "टेक्नोलॉजी और नवाचार से जुड़ाव बढ़ता है, जो रचनात्मक और तेज़ सोच से समर्थित है।"
+      },
+      "relationships": {
+        "en": "New friendships form and deep, meaningful conversations occur.",
+        "hi": "नए दोस्त बनते हैं और गहरी, सार्थक चर्चाएं होती हैं।"
+      },
+      "money": {
+        "en": "Opportunities may arise through innovation and networking, though not explicitly detailed.",
+        "hi": "नवाचार और नेटवर्किंग से अवसर बन सकते हैं, हालांकि स्पष्ट रूप से वर्णित नहीं है।"
+      },
+      "health_adj": {
+        "en": "Mental agility and intuition improve; no specific health cautions noted.",
+        "hi": "मानसिक चुस्ती और अंतर्ज्ञान में वृद्धि होती है; कोई विशेष स्वास्थ्य चेतावनी नहीं दी गई।"
+      }
+    },
+    "aliases": [
+      "Mercury trine Uranus",
+      "Mer TRI Ura",
+      "Mercury-Trine-Uranus",
+      "Mercury Trine to Uranus"
+    ]
+  }
+}

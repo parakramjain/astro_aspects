@@ -1,0 +1,251 @@
+{
+  "id": "MAR_TRI_URA__v1.0.0",
+  "pair": [
+    "Mars",
+    "Trine",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A period marked by strong collective and excited work energy, with a prevailing desire for independence. Confidence grows in initiating new ventures, especially in engineering, occult knowledge, and physical work, leading to physical and mental improvements.",
+    "hi": "यह समय सामूहिक और उत्साहित कार्य गतिशीलता से भरा होता है, जिसमें स्वतंत्रता की इच्छा प्रमुख रहती है। नए कार्यों को आत्मविश्वास से प्रारंभ करने का समय है, विशेषकर इंजीनियरिंग, गूढ़ ज्ञान और शारीरिक कार्य में, जिससे शारीरिक और मानसिक सुधार होते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Confidently starting new ventures; favorable for engineering, occult studies, and physical work; suitable for joint businesses and investments.",
+      "hi": "आत्मविश्वासपूर्वक नए कार्य प्रारंभ करना; इंजीनियरिंग, गूढ़ अध्ययन और शारीरिक कार्य के लिए अनुकूल; संयुक्त व्यवसाय और निवेश के लिए उपयुक्त।"
+    },
+    "relationships": {
+      "en": "High activity and dynamism with friends; collective work environments are energized.",
+      "hi": "मित्रों के साथ अत्यधिक गतिशीलता; सामूहिक कार्य वातावरण में ऊर्जा बनी रहती है।"
+    },
+    "money": {
+      "en": "Good time for joint assets, businesses, and investments; favorable for new financial ventures.",
+      "hi": "संयुक्त संपत्ति, व्यवसाय और निवेश के लिए अच्छा समय; नए वित्तीय कार्यों के लिए अनुकूल।"
+    },
+    "health_adj": {
+      "en": "Physical and mental improvements likely due to increased activity and confidence.",
+      "hi": "बढ़ी हुई सक्रियता और आत्मविश्वास के कारण शारीरिक और मानसिक सुधार संभव हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Starting new ventures",
+      "Joint business or investment activities",
+      "Engagement in occult or future studies",
+      "Electrical or engineering work"
+    ],
+    "hi": [
+      "नए कार्यों की शुरुआत",
+      "संयुक्त व्यवसाय या निवेश गतिविधियाँ",
+      "गूढ़ या भविष्य ज्ञान में संलग्नता",
+      "बिजली या इंजीनियरिंग कार्य"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in new professional ventures with confidence",
+        "Collaborate on joint assets or business investments",
+        "Pursue studies in occult or future sciences",
+        "Increase physical and mental activity"
+      ],
+      "hi": [
+        "आत्मविश्वास के साथ नए पेशेवर कार्यों में संलग्न हों",
+        "संयुक्त संपत्ति या व्यवसाय निवेश में सहयोग करें",
+        "गूढ़ या भविष्य विज्ञान के अध्ययन करें",
+        "शारीरिक और मानसिक सक्रियता बढ़ाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate electrical or engineering projects",
+        "Focus on occult and future knowledge studies",
+        "Engage actively with friends and colleagues"
+      ],
+      "hi": [
+        "बिजली या इंजीनियरिंग परियोजनाओं की शुरुआत करें",
+        "गूढ़ और भविष्य ज्ञान के अध्ययन पर ध्यान दें",
+        "मित्रों और सहकर्मियों के साथ सक्रिय रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain momentum in ongoing joint ventures",
+        "Continue physical and mental improvement efforts"
+      ],
+      "hi": [
+        "चल रहे संयुक्त कार्यों में गति बनाए रखें",
+        "शारीरिक और मानसिक सुधार के प्रयास जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "strong work energy",
+      "independence",
+      "new ventures",
+      "self-confidence",
+      "engineering",
+      "occult knowledge",
+      "physical work",
+      "joint assets",
+      "investments",
+      "high activity",
+      "friends"
+    ],
+    "hi": [
+      "मजबूत कार्य ऊर्जा",
+      "स्वतंत्रता",
+      "नए कार्य",
+      "आत्मविश्वास",
+      "इंजीनियरिंग",
+      "गूढ़ ज्ञान",
+      "शारीरिक कार्य",
+      "संयुक्त संपत्ति",
+      "निवेश",
+      "अत्यधिक गतिशीलता",
+      "मित्र"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "confident",
+      "dynamic",
+      "collaborative",
+      "energetic",
+      "growth-oriented"
+    ],
+    "hi": [
+      "आत्मविश्वासी",
+      "गतिशील",
+      "सहयोगात्मक",
+      "ऊर्जावान",
+      "विकासोन्मुख"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "professional initiation",
+      "collective dynamism",
+      "mental and physical improvement",
+      "future-oriented studies",
+      "joint financial activities"
+    ],
+    "hi": [
+      "पेशेवर शुरुआत",
+      "सामूहिक गतिशीलता",
+      "मानसिक और शारीरिक सुधार",
+      "भविष्य उन्मुख अध्ययन",
+      "संयुक्त वित्तीय गतिविधियाँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-tri-ura",
+      "core": "A time of strong, excited work energy with a desire for independence and confidence in new ventures, especially in engineering, occult knowledge, and physical work.",
+      "tone": "Warm, confident, and dynamic"
+    },
+    "hi": {
+      "title": "मंगल त्रिकोण यूरेनस",
+      "core": "मजबूत और उत्साहित कार्य ऊर्जा का समय, जिसमें स्वतंत्रता की इच्छा और नए कार्यों में आत्मविश्वास होता है, विशेषकर इंजीनियरिंग, गूढ़ ज्ञान और शारीरिक कार्य में।",
+      "tone": "सहानुभूतिपूर्ण, आत्मविश्वासी और गतिशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Strong collective work energy with desire for independence and confidence in new ventures, leading to physical and mental improvements.",
+        "hi": "स्वतंत्रता की इच्छा और नए कार्यों में आत्मविश्वास के साथ मजबूत सामूहिक कार्य ऊर्जा, जिससे शारीरिक और मानसिक सुधार होते हैं।"
+      },
+      "career": {
+        "en": "Confident initiation of new ventures, favorable for engineering, occult studies, physical work, joint businesses, and investments.",
+        "hi": "आत्मविश्वास के साथ नए कार्यों की शुरुआत, इंजीनियरिंग, गूढ़ अध्ययन, शारीरिक कार्य, संयुक्त व्यवसाय और निवेश के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "High activity and dynamism with friends and in collective work environments.",
+        "hi": "मित्रों के साथ अत्यधिक गतिशीलता और सामूहिक कार्य वातावरण में ऊर्जा।"
+      },
+      "money": {
+        "en": "Good period for joint assets, businesses, and investments; favorable for new financial ventures.",
+        "hi": "संयुक्त संपत्ति, व्यवसाय और निवेश के लिए अच्छा समय; नए वित्तीय कार्यों के लिए अनुकूल।"
+      },
+      "health_adj": {
+        "en": "Physical and mental improvements due to increased activity and confidence.",
+        "hi": "बढ़ी हुई सक्रियता और आत्मविश्वास के कारण शारीरिक और मानसिक सुधार।"
+      }
+    },
+    "aliases": [
+      "Mars trine Uranus",
+      "Mar TRI Ura",
+      "Mars-Trine-Uranus",
+      "Mars Trine to Uranus"
+    ]
+  }
+}

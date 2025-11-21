@@ -1,0 +1,4505 @@
+{
+  "count": 500,
+  "items": [
+    {
+      "id": "PLU_CON_PLU__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Conjunction",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\PLU_CON_PLU__v1.0.0.json"
+    },
+    {
+      "id": "PLU_CON_NEP__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Conjunction",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\PLU_CON_NEP__v1.0.0.json"
+    },
+    {
+      "id": "PLU_CON_URA__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Conjunction",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\PLU_CON_URA__v1.0.0.json"
+    },
+    {
+      "id": "PLU_CON_SAT__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Conjunction",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\PLU_CON_SAT__v1.0.0.json"
+    },
+    {
+      "id": "PLU_CON_JUP__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Conjunction",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\PLU_CON_JUP__v1.0.0.json"
+    },
+    {
+      "id": "PLU_CON_MAR__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Conjunction",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\PLU_CON_MAR__v1.0.0.json"
+    },
+    {
+      "id": "PLU_CON_VEN__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Conjunction",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\PLU_CON_VEN__v1.0.0.json"
+    },
+    {
+      "id": "PLU_CON_MER__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Conjunction",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\PLU_CON_MER__v1.0.0.json"
+    },
+    {
+      "id": "PLU_CON_MOO__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Conjunction",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\PLU_CON_MOO__v1.0.0.json"
+    },
+    {
+      "id": "PLU_CON_SUN__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Conjunction",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\PLU_CON_SUN__v1.0.0.json"
+    },
+    {
+      "id": "NEP_CON_PLU__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Conjunction",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\NEP_CON_PLU__v1.0.0.json"
+    },
+    {
+      "id": "NEP_CON_NEP__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Conjunction",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\NEP_CON_NEP__v1.0.0.json"
+    },
+    {
+      "id": "NEP_CON_URA__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Conjunction",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\NEP_CON_URA__v1.0.0.json"
+    },
+    {
+      "id": "NEP_CON_SAT__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Conjunction",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\NEP_CON_SAT__v1.0.0.json"
+    },
+    {
+      "id": "NEP_CON_JUP__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Conjunction",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\NEP_CON_JUP__v1.0.0.json"
+    },
+    {
+      "id": "NEP_CON_MAR__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Conjunction",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\NEP_CON_MAR__v1.0.0.json"
+    },
+    {
+      "id": "NEP_CON_VEN__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Conjunction",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\NEP_CON_VEN__v1.0.0.json"
+    },
+    {
+      "id": "NEP_CON_MER__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Conjunction",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\NEP_CON_MER__v1.0.0.json"
+    },
+    {
+      "id": "NEP_CON_MOO__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Conjunction",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\NEP_CON_MOO__v1.0.0.json"
+    },
+    {
+      "id": "NEP_CON_SUN__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Conjunction",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\NEP_CON_SUN__v1.0.0.json"
+    },
+    {
+      "id": "URA_CON_PLU__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Conjunction",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\URA_CON_PLU__v1.0.0.json"
+    },
+    {
+      "id": "URA_CON_NEP__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Conjunction",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\URA_CON_NEP__v1.0.0.json"
+    },
+    {
+      "id": "URA_CON_URA__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Conjunction",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\URA_CON_URA__v1.0.0.json"
+    },
+    {
+      "id": "URA_CON_SAT__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Conjunction",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\URA_CON_SAT__v1.0.0.json"
+    },
+    {
+      "id": "URA_CON_JUP__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Conjunction",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\URA_CON_JUP__v1.0.0.json"
+    },
+    {
+      "id": "URA_CON_MAR__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Conjunction",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\URA_CON_MAR__v1.0.0.json"
+    },
+    {
+      "id": "URA_CON_VEN__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Conjunction",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\URA_CON_VEN__v1.0.0.json"
+    },
+    {
+      "id": "URA_CON_MER__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Conjunction",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\URA_CON_MER__v1.0.0.json"
+    },
+    {
+      "id": "URA_CON_MOO__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Conjunction",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\URA_CON_MOO__v1.0.0.json"
+    },
+    {
+      "id": "URA_CON_SUN__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Conjunction",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\URA_CON_SUN__v1.0.0.json"
+    },
+    {
+      "id": "SAT_CON_PLU__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Conjunction",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\SAT_CON_PLU__v1.0.0.json"
+    },
+    {
+      "id": "SAT_CON_NEP__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Conjunction",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\SAT_CON_NEP__v1.0.0.json"
+    },
+    {
+      "id": "SAT_CON_URA__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Conjunction",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\SAT_CON_URA__v1.0.0.json"
+    },
+    {
+      "id": "SAT_CON_SAT__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Conjunction",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\SAT_CON_SAT__v1.0.0.json"
+    },
+    {
+      "id": "SAT_CON_JUP__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Conjunction",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\SAT_CON_JUP__v1.0.0.json"
+    },
+    {
+      "id": "SAT_CON_MAR__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Conjunction",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\SAT_CON_MAR__v1.0.0.json"
+    },
+    {
+      "id": "SAT_CON_VEN__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Conjunction",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\SAT_CON_VEN__v1.0.0.json"
+    },
+    {
+      "id": "SAT_CON_MER__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Conjunction",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\SAT_CON_MER__v1.0.0.json"
+    },
+    {
+      "id": "SAT_CON_MOO__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Conjunction",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\SAT_CON_MOO__v1.0.0.json"
+    },
+    {
+      "id": "SAT_CON_SUN__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Conjunction",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\SAT_CON_SUN__v1.0.0.json"
+    },
+    {
+      "id": "JUP_CON_PLU__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Conjunction",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\JUP_CON_PLU__v1.0.0.json"
+    },
+    {
+      "id": "JUP_CON_NEP__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Conjunction",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\JUP_CON_NEP__v1.0.0.json"
+    },
+    {
+      "id": "JUP_CON_URA__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Conjunction",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\JUP_CON_URA__v1.0.0.json"
+    },
+    {
+      "id": "JUP_CON_SAT__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Conjunction",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\JUP_CON_SAT__v1.0.0.json"
+    },
+    {
+      "id": "JUP_CON_JUP__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Conjunction",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\JUP_CON_JUP__v1.0.0.json"
+    },
+    {
+      "id": "JUP_CON_MAR__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Conjunction",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\JUP_CON_MAR__v1.0.0.json"
+    },
+    {
+      "id": "JUP_CON_VEN__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Conjunction",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\JUP_CON_VEN__v1.0.0.json"
+    },
+    {
+      "id": "JUP_CON_MER__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Conjunction",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\JUP_CON_MER__v1.0.0.json"
+    },
+    {
+      "id": "JUP_CON_MOO__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Conjunction",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\JUP_CON_MOO__v1.0.0.json"
+    },
+    {
+      "id": "JUP_CON_SUN__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Conjunction",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\JUP_CON_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MAR_CON_PLU__v1.0.0",
+      "pair": [
+        "Mars",
+        "Conjunction",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MAR_CON_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MAR_CON_NEP__v1.0.0",
+      "pair": [
+        "Mars",
+        "Conjunction",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MAR_CON_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MAR_CON_URA__v1.0.0",
+      "pair": [
+        "Mars",
+        "Conjunction",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MAR_CON_URA__v1.0.0.json"
+    },
+    {
+      "id": "MAR_CON_SAT__v1.0.0",
+      "pair": [
+        "Mars",
+        "Conjunction",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MAR_CON_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MAR_CON_JUP__v1.0.0",
+      "pair": [
+        "Mars",
+        "Conjunction",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MAR_CON_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MAR_CON_MAR__v1.0.0",
+      "pair": [
+        "Mars",
+        "Conjunction",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MAR_CON_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MAR_CON_VEN__v1.0.0",
+      "pair": [
+        "Mars",
+        "Conjunction",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MAR_CON_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MAR_CON_MER__v1.0.0",
+      "pair": [
+        "Mars",
+        "Conjunction",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MAR_CON_MER__v1.0.0.json"
+    },
+    {
+      "id": "MAR_CON_MOO__v1.0.0",
+      "pair": [
+        "Mars",
+        "Conjunction",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MAR_CON_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MAR_CON_SUN__v1.0.0",
+      "pair": [
+        "Mars",
+        "Conjunction",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MAR_CON_SUN__v1.0.0.json"
+    },
+    {
+      "id": "VEN_CON_PLU__v1.0.0",
+      "pair": [
+        "Venus",
+        "Conjunction",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\VEN_CON_PLU__v1.0.0.json"
+    },
+    {
+      "id": "VEN_CON_NEP__v1.0.0",
+      "pair": [
+        "Venus",
+        "Conjunction",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\VEN_CON_NEP__v1.0.0.json"
+    },
+    {
+      "id": "VEN_CON_URA__v1.0.0",
+      "pair": [
+        "Venus",
+        "Conjunction",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\VEN_CON_URA__v1.0.0.json"
+    },
+    {
+      "id": "VEN_CON_SAT__v1.0.0",
+      "pair": [
+        "Venus",
+        "Conjunction",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\VEN_CON_SAT__v1.0.0.json"
+    },
+    {
+      "id": "VEN_CON_JUP__v1.0.0",
+      "pair": [
+        "Venus",
+        "Conjunction",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\VEN_CON_JUP__v1.0.0.json"
+    },
+    {
+      "id": "VEN_CON_MAR__v1.0.0",
+      "pair": [
+        "Venus",
+        "Conjunction",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\VEN_CON_MAR__v1.0.0.json"
+    },
+    {
+      "id": "VEN_CON_VEN__v1.0.0",
+      "pair": [
+        "Venus",
+        "Conjunction",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\VEN_CON_VEN__v1.0.0.json"
+    },
+    {
+      "id": "VEN_CON_MER__v1.0.0",
+      "pair": [
+        "Venus",
+        "Conjunction",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\VEN_CON_MER__v1.0.0.json"
+    },
+    {
+      "id": "VEN_CON_MOO__v1.0.0",
+      "pair": [
+        "Venus",
+        "Conjunction",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\VEN_CON_MOO__v1.0.0.json"
+    },
+    {
+      "id": "VEN_CON_SUN__v1.0.0",
+      "pair": [
+        "Venus",
+        "Conjunction",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\VEN_CON_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MER_CON_PLU__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Conjunction",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MER_CON_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MER_CON_NEP__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Conjunction",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MER_CON_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MER_CON_URA__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Conjunction",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MER_CON_URA__v1.0.0.json"
+    },
+    {
+      "id": "MER_CON_SAT__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Conjunction",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MER_CON_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MER_CON_JUP__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Conjunction",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MER_CON_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MER_CON_MAR__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Conjunction",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MER_CON_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MER_CON_VEN__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Conjunction",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MER_CON_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MER_CON_MER__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Conjunction",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MER_CON_MER__v1.0.0.json"
+    },
+    {
+      "id": "MER_CON_MOO__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Conjunction",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MER_CON_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MER_CON_SUN__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Conjunction",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MER_CON_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MOO_CON_PLU__v1.0.0",
+      "pair": [
+        "Moon",
+        "Conjunction",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MOO_CON_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MOO_CON_NEP__v1.0.0",
+      "pair": [
+        "Moon",
+        "Conjunction",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MOO_CON_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MOO_CON_URA__v1.0.0",
+      "pair": [
+        "Moon",
+        "Conjunction",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MOO_CON_URA__v1.0.0.json"
+    },
+    {
+      "id": "MOO_CON_SAT__v1.0.0",
+      "pair": [
+        "Moon",
+        "Conjunction",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MOO_CON_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MOO_CON_JUP__v1.0.0",
+      "pair": [
+        "Moon",
+        "Conjunction",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MOO_CON_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MOO_CON_MAR__v1.0.0",
+      "pair": [
+        "Moon",
+        "Conjunction",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MOO_CON_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MOO_CON_VEN__v1.0.0",
+      "pair": [
+        "Moon",
+        "Conjunction",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MOO_CON_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MOO_CON_MER__v1.0.0",
+      "pair": [
+        "Moon",
+        "Conjunction",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MOO_CON_MER__v1.0.0.json"
+    },
+    {
+      "id": "MOO_CON_MOO__v1.0.0",
+      "pair": [
+        "Moon",
+        "Conjunction",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MOO_CON_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MOO_CON_SUN__v1.0.0",
+      "pair": [
+        "Moon",
+        "Conjunction",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MOO_CON_SUN__v1.0.0.json"
+    },
+    {
+      "id": "SUN_CON_PLU__v1.0.0",
+      "pair": [
+        "Sun",
+        "Conjunction",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\SUN_CON_PLU__v1.0.0.json"
+    },
+    {
+      "id": "SUN_CON_NEP__v1.0.0",
+      "pair": [
+        "Sun",
+        "Conjunction",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\SUN_CON_NEP__v1.0.0.json"
+    },
+    {
+      "id": "SUN_CON_URA__v1.0.0",
+      "pair": [
+        "Sun",
+        "Conjunction",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\SUN_CON_URA__v1.0.0.json"
+    },
+    {
+      "id": "SUN_CON_SAT__v1.0.0",
+      "pair": [
+        "Sun",
+        "Conjunction",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\SUN_CON_SAT__v1.0.0.json"
+    },
+    {
+      "id": "SUN_CON_JUP__v1.0.0",
+      "pair": [
+        "Sun",
+        "Conjunction",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\SUN_CON_JUP__v1.0.0.json"
+    },
+    {
+      "id": "SUN_CON_MAR__v1.0.0",
+      "pair": [
+        "Sun",
+        "Conjunction",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\SUN_CON_MAR__v1.0.0.json"
+    },
+    {
+      "id": "SUN_CON_VEN__v1.0.0",
+      "pair": [
+        "Sun",
+        "Conjunction",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\SUN_CON_VEN__v1.0.0.json"
+    },
+    {
+      "id": "SUN_CON_MER__v1.0.0",
+      "pair": [
+        "Sun",
+        "Conjunction",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\SUN_CON_MER__v1.0.0.json"
+    },
+    {
+      "id": "SUN_CON_MOO__v1.0.0",
+      "pair": [
+        "Sun",
+        "Conjunction",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\SUN_CON_MOO__v1.0.0.json"
+    },
+    {
+      "id": "SUN_CON_SUN__v1.0.0",
+      "pair": [
+        "Sun",
+        "Conjunction",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\SUN_CON_SUN__v1.0.0.json"
+    },
+    {
+      "id": "PLU_OPP_PLU__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Opposition",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\PLU_OPP_PLU__v1.0.0.json"
+    },
+    {
+      "id": "PLU_OPP_NEP__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Opposition",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\PLU_OPP_NEP__v1.0.0.json"
+    },
+    {
+      "id": "PLU_OPP_URA__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Opposition",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\PLU_OPP_URA__v1.0.0.json"
+    },
+    {
+      "id": "PLU_OPP_SAT__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Opposition",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\PLU_OPP_SAT__v1.0.0.json"
+    },
+    {
+      "id": "PLU_OPP_JUP__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Opposition",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\PLU_OPP_JUP__v1.0.0.json"
+    },
+    {
+      "id": "PLU_OPP_MAR__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Opposition",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\PLU_OPP_MAR__v1.0.0.json"
+    },
+    {
+      "id": "PLU_OPP_VEN__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Opposition",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\PLU_OPP_VEN__v1.0.0.json"
+    },
+    {
+      "id": "PLU_OPP_MER__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Opposition",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\PLU_OPP_MER__v1.0.0.json"
+    },
+    {
+      "id": "PLU_OPP_MOO__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Opposition",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\PLU_OPP_MOO__v1.0.0.json"
+    },
+    {
+      "id": "PLU_OPP_SUN__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Opposition",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\PLU_OPP_SUN__v1.0.0.json"
+    },
+    {
+      "id": "NEP_OPP_PLU__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Opposition",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\NEP_OPP_PLU__v1.0.0.json"
+    },
+    {
+      "id": "NEP_OPP_NEP__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Opposition",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\NEP_OPP_NEP__v1.0.0.json"
+    },
+    {
+      "id": "NEP_OPP_URA__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Opposition",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\NEP_OPP_URA__v1.0.0.json"
+    },
+    {
+      "id": "NEP_OPP_SAT__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Opposition",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\NEP_OPP_SAT__v1.0.0.json"
+    },
+    {
+      "id": "NEP_OPP_JUP__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Opposition",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\NEP_OPP_JUP__v1.0.0.json"
+    },
+    {
+      "id": "NEP_OPP_MAR__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Opposition",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\NEP_OPP_MAR__v1.0.0.json"
+    },
+    {
+      "id": "NEP_OPP_VEN__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Opposition",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\NEP_OPP_VEN__v1.0.0.json"
+    },
+    {
+      "id": "NEP_OPP_MER__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Opposition",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\NEP_OPP_MER__v1.0.0.json"
+    },
+    {
+      "id": "NEP_OPP_MOO__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Opposition",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\NEP_OPP_MOO__v1.0.0.json"
+    },
+    {
+      "id": "NEP_OPP_SUN__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Opposition",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\NEP_OPP_SUN__v1.0.0.json"
+    },
+    {
+      "id": "URA_OPP_PLU__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Opposition",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\URA_OPP_PLU__v1.0.0.json"
+    },
+    {
+      "id": "URA_OPP_NEP__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Opposition",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\URA_OPP_NEP__v1.0.0.json"
+    },
+    {
+      "id": "URA_OPP_URA__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Opposition",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\URA_OPP_URA__v1.0.0.json"
+    },
+    {
+      "id": "URA_OPP_SAT__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Opposition",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\URA_OPP_SAT__v1.0.0.json"
+    },
+    {
+      "id": "URA_OPP_JUP__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Opposition",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\URA_OPP_JUP__v1.0.0.json"
+    },
+    {
+      "id": "URA_OPP_MAR__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Opposition",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\URA_OPP_MAR__v1.0.0.json"
+    },
+    {
+      "id": "URA_OPP_VEN__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Opposition",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\URA_OPP_VEN__v1.0.0.json"
+    },
+    {
+      "id": "URA_OPP_MER__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Opposition",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\URA_OPP_MER__v1.0.0.json"
+    },
+    {
+      "id": "URA_OPP_MOO__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Opposition",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\URA_OPP_MOO__v1.0.0.json"
+    },
+    {
+      "id": "URA_OPP_SUN__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Opposition",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\URA_OPP_SUN__v1.0.0.json"
+    },
+    {
+      "id": "SAT_OPP_PLU__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Opposition",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\SAT_OPP_PLU__v1.0.0.json"
+    },
+    {
+      "id": "SAT_OPP_NEP__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Opposition",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\SAT_OPP_NEP__v1.0.0.json"
+    },
+    {
+      "id": "SAT_OPP_URA__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Opposition",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\SAT_OPP_URA__v1.0.0.json"
+    },
+    {
+      "id": "SAT_OPP_SAT__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Opposition",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\SAT_OPP_SAT__v1.0.0.json"
+    },
+    {
+      "id": "SAT_OPP_JUP__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Opposition",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\SAT_OPP_JUP__v1.0.0.json"
+    },
+    {
+      "id": "SAT_OPP_MAR__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Opposition",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\SAT_OPP_MAR__v1.0.0.json"
+    },
+    {
+      "id": "SAT_OPP_VEN__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Opposition",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\SAT_OPP_VEN__v1.0.0.json"
+    },
+    {
+      "id": "SAT_OPP_MER__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Opposition",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\SAT_OPP_MER__v1.0.0.json"
+    },
+    {
+      "id": "SAT_OPP_MOO__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Opposition",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\SAT_OPP_MOO__v1.0.0.json"
+    },
+    {
+      "id": "SAT_OPP_SUN__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Opposition",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\SAT_OPP_SUN__v1.0.0.json"
+    },
+    {
+      "id": "JUP_OPP_PLU__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Opposition",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\JUP_OPP_PLU__v1.0.0.json"
+    },
+    {
+      "id": "JUP_OPP_NEP__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Opposition",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\JUP_OPP_NEP__v1.0.0.json"
+    },
+    {
+      "id": "JUP_OPP_URA__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Opposition",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\JUP_OPP_URA__v1.0.0.json"
+    },
+    {
+      "id": "JUP_OPP_SAT__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Opposition",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\JUP_OPP_SAT__v1.0.0.json"
+    },
+    {
+      "id": "JUP_OPP_JUP__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Opposition",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\JUP_OPP_JUP__v1.0.0.json"
+    },
+    {
+      "id": "JUP_OPP_MAR__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Opposition",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\JUP_OPP_MAR__v1.0.0.json"
+    },
+    {
+      "id": "JUP_OPP_VEN__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Opposition",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\JUP_OPP_VEN__v1.0.0.json"
+    },
+    {
+      "id": "JUP_OPP_MER__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Opposition",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\JUP_OPP_MER__v1.0.0.json"
+    },
+    {
+      "id": "JUP_OPP_MOO__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Opposition",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\JUP_OPP_MOO__v1.0.0.json"
+    },
+    {
+      "id": "JUP_OPP_SUN__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Opposition",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\JUP_OPP_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MAR_OPP_PLU__v1.0.0",
+      "pair": [
+        "Mars",
+        "Opposition",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MAR_OPP_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MAR_OPP_NEP__v1.0.0",
+      "pair": [
+        "Mars",
+        "Opposition",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MAR_OPP_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MAR_OPP_URA__v1.0.0",
+      "pair": [
+        "Mars",
+        "Opposition",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MAR_OPP_URA__v1.0.0.json"
+    },
+    {
+      "id": "MAR_OPP_SAT__v1.0.0",
+      "pair": [
+        "Mars",
+        "Opposition",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MAR_OPP_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MAR_OPP_JUP__v1.0.0",
+      "pair": [
+        "Mars",
+        "Opposition",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MAR_OPP_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MAR_OPP_MAR__v1.0.0",
+      "pair": [
+        "Mars",
+        "Opposition",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MAR_OPP_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MAR_OPP_VEN__v1.0.0",
+      "pair": [
+        "Mars",
+        "Opposition",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MAR_OPP_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MAR_OPP_MER__v1.0.0",
+      "pair": [
+        "Mars",
+        "Opposition",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MAR_OPP_MER__v1.0.0.json"
+    },
+    {
+      "id": "MAR_OPP_MOO__v1.0.0",
+      "pair": [
+        "Mars",
+        "Opposition",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MAR_OPP_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MAR_OPP_SUN__v1.0.0",
+      "pair": [
+        "Mars",
+        "Opposition",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MAR_OPP_SUN__v1.0.0.json"
+    },
+    {
+      "id": "VEN_OPP_PLU__v1.0.0",
+      "pair": [
+        "Venus",
+        "Opposition",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\VEN_OPP_PLU__v1.0.0.json"
+    },
+    {
+      "id": "VEN_OPP_NEP__v1.0.0",
+      "pair": [
+        "Venus",
+        "Opposition",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\VEN_OPP_NEP__v1.0.0.json"
+    },
+    {
+      "id": "VEN_OPP_URA__v1.0.0",
+      "pair": [
+        "Venus",
+        "Opposition",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\VEN_OPP_URA__v1.0.0.json"
+    },
+    {
+      "id": "VEN_OPP_SAT__v1.0.0",
+      "pair": [
+        "Venus",
+        "Opposition",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\VEN_OPP_SAT__v1.0.0.json"
+    },
+    {
+      "id": "VEN_OPP_JUP__v1.0.0",
+      "pair": [
+        "Venus",
+        "Opposition",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\VEN_OPP_JUP__v1.0.0.json"
+    },
+    {
+      "id": "VEN_OPP_MAR__v1.0.0",
+      "pair": [
+        "Venus",
+        "Opposition",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\VEN_OPP_MAR__v1.0.0.json"
+    },
+    {
+      "id": "VEN_OPP_VEN__v1.0.0",
+      "pair": [
+        "Venus",
+        "Opposition",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\VEN_OPP_VEN__v1.0.0.json"
+    },
+    {
+      "id": "VEN_OPP_MER__v1.0.0",
+      "pair": [
+        "Venus",
+        "Opposition",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\VEN_OPP_MER__v1.0.0.json"
+    },
+    {
+      "id": "VEN_OPP_MOO__v1.0.0",
+      "pair": [
+        "Venus",
+        "Opposition",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\VEN_OPP_MOO__v1.0.0.json"
+    },
+    {
+      "id": "VEN_OPP_SUN__v1.0.0",
+      "pair": [
+        "Venus",
+        "Opposition",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\VEN_OPP_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MER_OPP_PLU__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Opposition",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MER_OPP_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MER_OPP_NEP__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Opposition",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MER_OPP_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MER_OPP_URA__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Opposition",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MER_OPP_URA__v1.0.0.json"
+    },
+    {
+      "id": "MER_OPP_SAT__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Opposition",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MER_OPP_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MER_OPP_JUP__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Opposition",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MER_OPP_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MER_OPP_MAR__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Opposition",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MER_OPP_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MER_OPP_VEN__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Opposition",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MER_OPP_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MER_OPP_MER__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Opposition",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MER_OPP_MER__v1.0.0.json"
+    },
+    {
+      "id": "MER_OPP_MOO__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Opposition",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MER_OPP_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MER_OPP_SUN__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Opposition",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MER_OPP_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MOO_OPP_PLU__v1.0.0",
+      "pair": [
+        "Moon",
+        "Opposition",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MOO_OPP_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MOO_OPP_NEP__v1.0.0",
+      "pair": [
+        "Moon",
+        "Opposition",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MOO_OPP_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MOO_OPP_URA__v1.0.0",
+      "pair": [
+        "Moon",
+        "Opposition",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MOO_OPP_URA__v1.0.0.json"
+    },
+    {
+      "id": "MOO_OPP_SAT__v1.0.0",
+      "pair": [
+        "Moon",
+        "Opposition",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MOO_OPP_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MOO_OPP_JUP__v1.0.0",
+      "pair": [
+        "Moon",
+        "Opposition",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MOO_OPP_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MOO_OPP_MAR__v1.0.0",
+      "pair": [
+        "Moon",
+        "Opposition",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MOO_OPP_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MOO_OPP_VEN__v1.0.0",
+      "pair": [
+        "Moon",
+        "Opposition",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MOO_OPP_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MOO_OPP_MER__v1.0.0",
+      "pair": [
+        "Moon",
+        "Opposition",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MOO_OPP_MER__v1.0.0.json"
+    },
+    {
+      "id": "MOO_OPP_MOO__v1.0.0",
+      "pair": [
+        "Moon",
+        "Opposition",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MOO_OPP_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MOO_OPP_SUN__v1.0.0",
+      "pair": [
+        "Moon",
+        "Opposition",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MOO_OPP_SUN__v1.0.0.json"
+    },
+    {
+      "id": "SUN_OPP_PLU__v1.0.0",
+      "pair": [
+        "Sun",
+        "Opposition",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\SUN_OPP_PLU__v1.0.0.json"
+    },
+    {
+      "id": "SUN_OPP_NEP__v1.0.0",
+      "pair": [
+        "Sun",
+        "Opposition",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\SUN_OPP_NEP__v1.0.0.json"
+    },
+    {
+      "id": "SUN_OPP_URA__v1.0.0",
+      "pair": [
+        "Sun",
+        "Opposition",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\SUN_OPP_URA__v1.0.0.json"
+    },
+    {
+      "id": "SUN_OPP_SAT__v1.0.0",
+      "pair": [
+        "Sun",
+        "Opposition",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\SUN_OPP_SAT__v1.0.0.json"
+    },
+    {
+      "id": "SUN_OPP_JUP__v1.0.0",
+      "pair": [
+        "Sun",
+        "Opposition",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\SUN_OPP_JUP__v1.0.0.json"
+    },
+    {
+      "id": "SUN_OPP_MAR__v1.0.0",
+      "pair": [
+        "Sun",
+        "Opposition",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\SUN_OPP_MAR__v1.0.0.json"
+    },
+    {
+      "id": "SUN_OPP_VEN__v1.0.0",
+      "pair": [
+        "Sun",
+        "Opposition",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\SUN_OPP_VEN__v1.0.0.json"
+    },
+    {
+      "id": "SUN_OPP_MER__v1.0.0",
+      "pair": [
+        "Sun",
+        "Opposition",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\SUN_OPP_MER__v1.0.0.json"
+    },
+    {
+      "id": "SUN_OPP_MOO__v1.0.0",
+      "pair": [
+        "Sun",
+        "Opposition",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\SUN_OPP_MOO__v1.0.0.json"
+    },
+    {
+      "id": "SUN_OPP_SUN__v1.0.0",
+      "pair": [
+        "Sun",
+        "Opposition",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\SUN_OPP_SUN__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SQR_PLU__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Square",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\PLU_SQR_PLU__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SQR_NEP__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Square",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\PLU_SQR_NEP__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SQR_URA__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Square",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\PLU_SQR_URA__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SQR_SAT__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Square",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\PLU_SQR_SAT__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SQR_JUP__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Square",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\PLU_SQR_JUP__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SQR_MAR__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Square",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\PLU_SQR_MAR__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SQR_VEN__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Square",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\PLU_SQR_VEN__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SQR_MER__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Square",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\PLU_SQR_MER__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SQR_MOO__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Square",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\PLU_SQR_MOO__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SQR_SUN__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Square",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\PLU_SQR_SUN__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SQR_PLU__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Square",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\NEP_SQR_PLU__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SQR_NEP__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Square",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\NEP_SQR_NEP__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SQR_URA__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Square",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\NEP_SQR_URA__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SQR_SAT__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Square",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\NEP_SQR_SAT__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SQR_JUP__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Square",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\NEP_SQR_JUP__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SQR_MAR__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Square",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\NEP_SQR_MAR__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SQR_VEN__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Square",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\NEP_SQR_VEN__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SQR_MER__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Square",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\NEP_SQR_MER__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SQR_MOO__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Square",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\NEP_SQR_MOO__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SQR_SUN__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Square",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\NEP_SQR_SUN__v1.0.0.json"
+    },
+    {
+      "id": "URA_SQR_PLU__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Square",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\URA_SQR_PLU__v1.0.0.json"
+    },
+    {
+      "id": "URA_SQR_NEP__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Square",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\URA_SQR_NEP__v1.0.0.json"
+    },
+    {
+      "id": "URA_SQR_URA__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Square",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\URA_SQR_URA__v1.0.0.json"
+    },
+    {
+      "id": "URA_SQR_SAT__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Square",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\URA_SQR_SAT__v1.0.0.json"
+    },
+    {
+      "id": "URA_SQR_JUP__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Square",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\URA_SQR_JUP__v1.0.0.json"
+    },
+    {
+      "id": "URA_SQR_MAR__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Square",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\URA_SQR_MAR__v1.0.0.json"
+    },
+    {
+      "id": "URA_SQR_VEN__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Square",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\URA_SQR_VEN__v1.0.0.json"
+    },
+    {
+      "id": "URA_SQR_MER__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Square",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\URA_SQR_MER__v1.0.0.json"
+    },
+    {
+      "id": "URA_SQR_MOO__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Square",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\URA_SQR_MOO__v1.0.0.json"
+    },
+    {
+      "id": "URA_SQR_SUN__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Square",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\URA_SQR_SUN__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SQR_PLU__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Square",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\SAT_SQR_PLU__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SQR_NEP__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Square",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\SAT_SQR_NEP__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SQR_URA__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Square",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\SAT_SQR_URA__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SQR_SAT__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Square",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\SAT_SQR_SAT__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SQR_JUP__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Square",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\SAT_SQR_JUP__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SQR_MAR__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Square",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\SAT_SQR_MAR__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SQR_VEN__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Square",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\SAT_SQR_VEN__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SQR_MER__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Square",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\SAT_SQR_MER__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SQR_MOO__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Square",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\SAT_SQR_MOO__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SQR_SUN__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Square",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\SAT_SQR_SUN__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SQR_PLU__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Square",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\JUP_SQR_PLU__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SQR_NEP__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Square",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\JUP_SQR_NEP__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SQR_URA__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Square",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\JUP_SQR_URA__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SQR_SAT__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Square",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\JUP_SQR_SAT__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SQR_JUP__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Square",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\JUP_SQR_JUP__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SQR_MAR__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Square",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\JUP_SQR_MAR__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SQR_VEN__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Square",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\JUP_SQR_VEN__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SQR_MER__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Square",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\JUP_SQR_MER__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SQR_MOO__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Square",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\JUP_SQR_MOO__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SQR_SUN__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Square",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\JUP_SQR_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SQR_PLU__v1.0.0",
+      "pair": [
+        "Mars",
+        "Square",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MAR_SQR_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SQR_NEP__v1.0.0",
+      "pair": [
+        "Mars",
+        "Square",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MAR_SQR_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SQR_URA__v1.0.0",
+      "pair": [
+        "Mars",
+        "Square",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MAR_SQR_URA__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SQR_SAT__v1.0.0",
+      "pair": [
+        "Mars",
+        "Square",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MAR_SQR_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SQR_JUP__v1.0.0",
+      "pair": [
+        "Mars",
+        "Square",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MAR_SQR_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SQR_MAR__v1.0.0",
+      "pair": [
+        "Mars",
+        "Square",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MAR_SQR_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SQR_VEN__v1.0.0",
+      "pair": [
+        "Mars",
+        "Square",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MAR_SQR_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SQR_MER__v1.0.0",
+      "pair": [
+        "Mars",
+        "Square",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MAR_SQR_MER__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SQR_MOO__v1.0.0",
+      "pair": [
+        "Mars",
+        "Square",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MAR_SQR_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SQR_SUN__v1.0.0",
+      "pair": [
+        "Mars",
+        "Square",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MAR_SQR_SUN__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SQR_PLU__v1.0.0",
+      "pair": [
+        "Venus",
+        "Square",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\VEN_SQR_PLU__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SQR_NEP__v1.0.0",
+      "pair": [
+        "Venus",
+        "Square",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\VEN_SQR_NEP__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SQR_URA__v1.0.0",
+      "pair": [
+        "Venus",
+        "Square",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\VEN_SQR_URA__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SQR_SAT__v1.0.0",
+      "pair": [
+        "Venus",
+        "Square",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\VEN_SQR_SAT__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SQR_JUP__v1.0.0",
+      "pair": [
+        "Venus",
+        "Square",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\VEN_SQR_JUP__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SQR_MAR__v1.0.0",
+      "pair": [
+        "Venus",
+        "Square",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\VEN_SQR_MAR__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SQR_VEN__v1.0.0",
+      "pair": [
+        "Venus",
+        "Square",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\VEN_SQR_VEN__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SQR_MER__v1.0.0",
+      "pair": [
+        "Venus",
+        "Square",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\VEN_SQR_MER__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SQR_MOO__v1.0.0",
+      "pair": [
+        "Venus",
+        "Square",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\VEN_SQR_MOO__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SQR_SUN__v1.0.0",
+      "pair": [
+        "Venus",
+        "Square",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\VEN_SQR_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MER_SQR_PLU__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Square",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MER_SQR_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MER_SQR_NEP__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Square",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MER_SQR_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MER_SQR_URA__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Square",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MER_SQR_URA__v1.0.0.json"
+    },
+    {
+      "id": "MER_SQR_SAT__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Square",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MER_SQR_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MER_SQR_JUP__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Square",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MER_SQR_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MER_SQR_MAR__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Square",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MER_SQR_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MER_SQR_VEN__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Square",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MER_SQR_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MER_SQR_MER__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Square",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MER_SQR_MER__v1.0.0.json"
+    },
+    {
+      "id": "MER_SQR_MOO__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Square",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MER_SQR_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MER_SQR_SUN__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Square",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MER_SQR_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SQR_PLU__v1.0.0",
+      "pair": [
+        "Moon",
+        "Square",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MOO_SQR_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SQR_NEP__v1.0.0",
+      "pair": [
+        "Moon",
+        "Square",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MOO_SQR_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SQR_URA__v1.0.0",
+      "pair": [
+        "Moon",
+        "Square",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MOO_SQR_URA__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SQR_SAT__v1.0.0",
+      "pair": [
+        "Moon",
+        "Square",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MOO_SQR_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SQR_JUP__v1.0.0",
+      "pair": [
+        "Moon",
+        "Square",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MOO_SQR_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SQR_MAR__v1.0.0",
+      "pair": [
+        "Moon",
+        "Square",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MOO_SQR_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SQR_VEN__v1.0.0",
+      "pair": [
+        "Moon",
+        "Square",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MOO_SQR_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SQR_MER__v1.0.0",
+      "pair": [
+        "Moon",
+        "Square",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MOO_SQR_MER__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SQR_MOO__v1.0.0",
+      "pair": [
+        "Moon",
+        "Square",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MOO_SQR_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SQR_SUN__v1.0.0",
+      "pair": [
+        "Moon",
+        "Square",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MOO_SQR_SUN__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SQR_PLU__v1.0.0",
+      "pair": [
+        "Sun",
+        "Square",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\SUN_SQR_PLU__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SQR_NEP__v1.0.0",
+      "pair": [
+        "Sun",
+        "Square",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\SUN_SQR_NEP__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SQR_URA__v1.0.0",
+      "pair": [
+        "Sun",
+        "Square",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\SUN_SQR_URA__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SQR_SAT__v1.0.0",
+      "pair": [
+        "Sun",
+        "Square",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\SUN_SQR_SAT__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SQR_JUP__v1.0.0",
+      "pair": [
+        "Sun",
+        "Square",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\SUN_SQR_JUP__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SQR_MAR__v1.0.0",
+      "pair": [
+        "Sun",
+        "Square",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\SUN_SQR_MAR__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SQR_VEN__v1.0.0",
+      "pair": [
+        "Sun",
+        "Square",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\SUN_SQR_VEN__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SQR_MER__v1.0.0",
+      "pair": [
+        "Sun",
+        "Square",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\SUN_SQR_MER__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SQR_MOO__v1.0.0",
+      "pair": [
+        "Sun",
+        "Square",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\SUN_SQR_MOO__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SQR_SUN__v1.0.0",
+      "pair": [
+        "Sun",
+        "Square",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\SUN_SQR_SUN__v1.0.0.json"
+    },
+    {
+      "id": "PLU_TRI_PLU__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Trine",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\PLU_TRI_PLU__v1.0.0.json"
+    },
+    {
+      "id": "PLU_TRI_NEP__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Trine",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\PLU_TRI_NEP__v1.0.0.json"
+    },
+    {
+      "id": "PLU_TRI_URA__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Trine",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\PLU_TRI_URA__v1.0.0.json"
+    },
+    {
+      "id": "PLU_TRI_SAT__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Trine",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\PLU_TRI_SAT__v1.0.0.json"
+    },
+    {
+      "id": "PLU_TRI_JUP__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Trine",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\PLU_TRI_JUP__v1.0.0.json"
+    },
+    {
+      "id": "PLU_TRI_MAR__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Trine",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\PLU_TRI_MAR__v1.0.0.json"
+    },
+    {
+      "id": "PLU_TRI_VEN__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Trine",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\PLU_TRI_VEN__v1.0.0.json"
+    },
+    {
+      "id": "PLU_TRI_MER__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Trine",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\PLU_TRI_MER__v1.0.0.json"
+    },
+    {
+      "id": "PLU_TRI_MOO__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Trine",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\PLU_TRI_MOO__v1.0.0.json"
+    },
+    {
+      "id": "PLU_TRI_SUN__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Trine",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\PLU_TRI_SUN__v1.0.0.json"
+    },
+    {
+      "id": "NEP_TRI_PLU__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Trine",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\NEP_TRI_PLU__v1.0.0.json"
+    },
+    {
+      "id": "NEP_TRI_NEP__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Trine",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\NEP_TRI_NEP__v1.0.0.json"
+    },
+    {
+      "id": "NEP_TRI_URA__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Trine",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\NEP_TRI_URA__v1.0.0.json"
+    },
+    {
+      "id": "NEP_TRI_SAT__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Trine",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\NEP_TRI_SAT__v1.0.0.json"
+    },
+    {
+      "id": "NEP_TRI_JUP__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Trine",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\NEP_TRI_JUP__v1.0.0.json"
+    },
+    {
+      "id": "NEP_TRI_MAR__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Trine",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\NEP_TRI_MAR__v1.0.0.json"
+    },
+    {
+      "id": "NEP_TRI_VEN__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Trine",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\NEP_TRI_VEN__v1.0.0.json"
+    },
+    {
+      "id": "NEP_TRI_MER__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Trine",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\NEP_TRI_MER__v1.0.0.json"
+    },
+    {
+      "id": "NEP_TRI_MOO__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Trine",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\NEP_TRI_MOO__v1.0.0.json"
+    },
+    {
+      "id": "NEP_TRI_SUN__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Trine",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\NEP_TRI_SUN__v1.0.0.json"
+    },
+    {
+      "id": "URA_TRI_PLU__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Trine",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\URA_TRI_PLU__v1.0.0.json"
+    },
+    {
+      "id": "URA_TRI_NEP__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Trine",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\URA_TRI_NEP__v1.0.0.json"
+    },
+    {
+      "id": "URA_TRI_URA__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Trine",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\URA_TRI_URA__v1.0.0.json"
+    },
+    {
+      "id": "URA_TRI_SAT__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Trine",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\URA_TRI_SAT__v1.0.0.json"
+    },
+    {
+      "id": "URA_TRI_JUP__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Trine",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\URA_TRI_JUP__v1.0.0.json"
+    },
+    {
+      "id": "URA_TRI_MAR__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Trine",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\URA_TRI_MAR__v1.0.0.json"
+    },
+    {
+      "id": "URA_TRI_VEN__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Trine",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\URA_TRI_VEN__v1.0.0.json"
+    },
+    {
+      "id": "URA_TRI_MER__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Trine",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\URA_TRI_MER__v1.0.0.json"
+    },
+    {
+      "id": "URA_TRI_MOO__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Trine",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\URA_TRI_MOO__v1.0.0.json"
+    },
+    {
+      "id": "URA_TRI_SUN__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Trine",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\URA_TRI_SUN__v1.0.0.json"
+    },
+    {
+      "id": "SAT_TRI_PLU__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Trine",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\SAT_TRI_PLU__v1.0.0.json"
+    },
+    {
+      "id": "SAT_TRI_NEP__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Trine",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\SAT_TRI_NEP__v1.0.0.json"
+    },
+    {
+      "id": "SAT_TRI_URA__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Trine",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\SAT_TRI_URA__v1.0.0.json"
+    },
+    {
+      "id": "SAT_TRI_SAT__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Trine",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\SAT_TRI_SAT__v1.0.0.json"
+    },
+    {
+      "id": "SAT_TRI_JUP__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Trine",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\SAT_TRI_JUP__v1.0.0.json"
+    },
+    {
+      "id": "SAT_TRI_MAR__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Trine",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\SAT_TRI_MAR__v1.0.0.json"
+    },
+    {
+      "id": "SAT_TRI_VEN__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Trine",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\SAT_TRI_VEN__v1.0.0.json"
+    },
+    {
+      "id": "SAT_TRI_MER__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Trine",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\SAT_TRI_MER__v1.0.0.json"
+    },
+    {
+      "id": "SAT_TRI_MOO__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Trine",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\SAT_TRI_MOO__v1.0.0.json"
+    },
+    {
+      "id": "SAT_TRI_SUN__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Trine",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\SAT_TRI_SUN__v1.0.0.json"
+    },
+    {
+      "id": "JUP_TRI_PLU__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Trine",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\JUP_TRI_PLU__v1.0.0.json"
+    },
+    {
+      "id": "JUP_TRI_NEP__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Trine",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\JUP_TRI_NEP__v1.0.0.json"
+    },
+    {
+      "id": "JUP_TRI_URA__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Trine",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\JUP_TRI_URA__v1.0.0.json"
+    },
+    {
+      "id": "JUP_TRI_SAT__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Trine",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\JUP_TRI_SAT__v1.0.0.json"
+    },
+    {
+      "id": "JUP_TRI_JUP__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Trine",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\JUP_TRI_JUP__v1.0.0.json"
+    },
+    {
+      "id": "JUP_TRI_MAR__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Trine",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\JUP_TRI_MAR__v1.0.0.json"
+    },
+    {
+      "id": "JUP_TRI_VEN__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Trine",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\JUP_TRI_VEN__v1.0.0.json"
+    },
+    {
+      "id": "JUP_TRI_MER__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Trine",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\JUP_TRI_MER__v1.0.0.json"
+    },
+    {
+      "id": "JUP_TRI_MOO__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Trine",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\JUP_TRI_MOO__v1.0.0.json"
+    },
+    {
+      "id": "JUP_TRI_SUN__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Trine",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\JUP_TRI_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MAR_TRI_PLU__v1.0.0",
+      "pair": [
+        "Mars",
+        "Trine",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MAR_TRI_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MAR_TRI_NEP__v1.0.0",
+      "pair": [
+        "Mars",
+        "Trine",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MAR_TRI_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MAR_TRI_URA__v1.0.0",
+      "pair": [
+        "Mars",
+        "Trine",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MAR_TRI_URA__v1.0.0.json"
+    },
+    {
+      "id": "MAR_TRI_SAT__v1.0.0",
+      "pair": [
+        "Mars",
+        "Trine",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MAR_TRI_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MAR_TRI_JUP__v1.0.0",
+      "pair": [
+        "Mars",
+        "Trine",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MAR_TRI_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MAR_TRI_MAR__v1.0.0",
+      "pair": [
+        "Mars",
+        "Trine",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MAR_TRI_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MAR_TRI_VEN__v1.0.0",
+      "pair": [
+        "Mars",
+        "Trine",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MAR_TRI_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MAR_TRI_MER__v1.0.0",
+      "pair": [
+        "Mars",
+        "Trine",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MAR_TRI_MER__v1.0.0.json"
+    },
+    {
+      "id": "MAR_TRI_MOO__v1.0.0",
+      "pair": [
+        "Mars",
+        "Trine",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MAR_TRI_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MAR_TRI_SUN__v1.0.0",
+      "pair": [
+        "Mars",
+        "Trine",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MAR_TRI_SUN__v1.0.0.json"
+    },
+    {
+      "id": "VEN_TRI_PLU__v1.0.0",
+      "pair": [
+        "Venus",
+        "Trine",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\VEN_TRI_PLU__v1.0.0.json"
+    },
+    {
+      "id": "VEN_TRI_NEP__v1.0.0",
+      "pair": [
+        "Venus",
+        "Trine",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\VEN_TRI_NEP__v1.0.0.json"
+    },
+    {
+      "id": "VEN_TRI_URA__v1.0.0",
+      "pair": [
+        "Venus",
+        "Trine",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\VEN_TRI_URA__v1.0.0.json"
+    },
+    {
+      "id": "VEN_TRI_SAT__v1.0.0",
+      "pair": [
+        "Venus",
+        "Trine",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\VEN_TRI_SAT__v1.0.0.json"
+    },
+    {
+      "id": "VEN_TRI_JUP__v1.0.0",
+      "pair": [
+        "Venus",
+        "Trine",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\VEN_TRI_JUP__v1.0.0.json"
+    },
+    {
+      "id": "VEN_TRI_MAR__v1.0.0",
+      "pair": [
+        "Venus",
+        "Trine",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\VEN_TRI_MAR__v1.0.0.json"
+    },
+    {
+      "id": "VEN_TRI_VEN__v1.0.0",
+      "pair": [
+        "Venus",
+        "Trine",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\VEN_TRI_VEN__v1.0.0.json"
+    },
+    {
+      "id": "VEN_TRI_MER__v1.0.0",
+      "pair": [
+        "Venus",
+        "Trine",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\VEN_TRI_MER__v1.0.0.json"
+    },
+    {
+      "id": "VEN_TRI_MOO__v1.0.0",
+      "pair": [
+        "Venus",
+        "Trine",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\VEN_TRI_MOO__v1.0.0.json"
+    },
+    {
+      "id": "VEN_TRI_SUN__v1.0.0",
+      "pair": [
+        "Venus",
+        "Trine",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\VEN_TRI_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MER_TRI_PLU__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Trine",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MER_TRI_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MER_TRI_NEP__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Trine",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MER_TRI_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MER_TRI_URA__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Trine",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MER_TRI_URA__v1.0.0.json"
+    },
+    {
+      "id": "MER_TRI_SAT__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Trine",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MER_TRI_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MER_TRI_JUP__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Trine",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MER_TRI_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MER_TRI_MAR__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Trine",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MER_TRI_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MER_TRI_VEN__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Trine",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MER_TRI_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MER_TRI_MER__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Trine",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MER_TRI_MER__v1.0.0.json"
+    },
+    {
+      "id": "MER_TRI_MOO__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Trine",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MER_TRI_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MER_TRI_SUN__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Trine",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MER_TRI_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MOO_TRI_PLU__v1.0.0",
+      "pair": [
+        "Moon",
+        "Trine",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MOO_TRI_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MOO_TRI_NEP__v1.0.0",
+      "pair": [
+        "Moon",
+        "Trine",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MOO_TRI_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MOO_TRI_URA__v1.0.0",
+      "pair": [
+        "Moon",
+        "Trine",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MOO_TRI_URA__v1.0.0.json"
+    },
+    {
+      "id": "MOO_TRI_SAT__v1.0.0",
+      "pair": [
+        "Moon",
+        "Trine",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MOO_TRI_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MOO_TRI_JUP__v1.0.0",
+      "pair": [
+        "Moon",
+        "Trine",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MOO_TRI_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MOO_TRI_MAR__v1.0.0",
+      "pair": [
+        "Moon",
+        "Trine",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MOO_TRI_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MOO_TRI_VEN__v1.0.0",
+      "pair": [
+        "Moon",
+        "Trine",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MOO_TRI_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MOO_TRI_MER__v1.0.0",
+      "pair": [
+        "Moon",
+        "Trine",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MOO_TRI_MER__v1.0.0.json"
+    },
+    {
+      "id": "MOO_TRI_MOO__v1.0.0",
+      "pair": [
+        "Moon",
+        "Trine",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MOO_TRI_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MOO_TRI_SUN__v1.0.0",
+      "pair": [
+        "Moon",
+        "Trine",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MOO_TRI_SUN__v1.0.0.json"
+    },
+    {
+      "id": "SUN_TRI_PLU__v1.0.0",
+      "pair": [
+        "Sun",
+        "Trine",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\SUN_TRI_PLU__v1.0.0.json"
+    },
+    {
+      "id": "SUN_TRI_NEP__v1.0.0",
+      "pair": [
+        "Sun",
+        "Trine",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\SUN_TRI_NEP__v1.0.0.json"
+    },
+    {
+      "id": "SUN_TRI_URA__v1.0.0",
+      "pair": [
+        "Sun",
+        "Trine",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\SUN_TRI_URA__v1.0.0.json"
+    },
+    {
+      "id": "SUN_TRI_SAT__v1.0.0",
+      "pair": [
+        "Sun",
+        "Trine",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\SUN_TRI_SAT__v1.0.0.json"
+    },
+    {
+      "id": "SUN_TRI_JUP__v1.0.0",
+      "pair": [
+        "Sun",
+        "Trine",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\SUN_TRI_JUP__v1.0.0.json"
+    },
+    {
+      "id": "SUN_TRI_MAR__v1.0.0",
+      "pair": [
+        "Sun",
+        "Trine",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\SUN_TRI_MAR__v1.0.0.json"
+    },
+    {
+      "id": "SUN_TRI_VEN__v1.0.0",
+      "pair": [
+        "Sun",
+        "Trine",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\SUN_TRI_VEN__v1.0.0.json"
+    },
+    {
+      "id": "SUN_TRI_MER__v1.0.0",
+      "pair": [
+        "Sun",
+        "Trine",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\SUN_TRI_MER__v1.0.0.json"
+    },
+    {
+      "id": "SUN_TRI_MOO__v1.0.0",
+      "pair": [
+        "Sun",
+        "Trine",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\SUN_TRI_MOO__v1.0.0.json"
+    },
+    {
+      "id": "SUN_TRI_SUN__v1.0.0",
+      "pair": [
+        "Sun",
+        "Trine",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\SUN_TRI_SUN__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SEX_PLU__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Sextile",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\PLU_SEX_PLU__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SEX_NEP__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Sextile",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\PLU_SEX_NEP__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SEX_URA__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Sextile",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\PLU_SEX_URA__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SEX_SAT__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Sextile",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\PLU_SEX_SAT__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SEX_JUP__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Sextile",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\PLU_SEX_JUP__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SEX_MAR__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Sextile",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\PLU_SEX_MAR__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SEX_VEN__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Sextile",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\PLU_SEX_VEN__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SEX_MER__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Sextile",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\PLU_SEX_MER__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SEX_MOO__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Sextile",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\PLU_SEX_MOO__v1.0.0.json"
+    },
+    {
+      "id": "PLU_SEX_SUN__v1.0.0",
+      "pair": [
+        "Pluto",
+        "Sextile",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\PLU_SEX_SUN__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SEX_PLU__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Sextile",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\NEP_SEX_PLU__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SEX_NEP__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Sextile",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\NEP_SEX_NEP__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SEX_URA__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Sextile",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\NEP_SEX_URA__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SEX_SAT__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Sextile",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\NEP_SEX_SAT__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SEX_JUP__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Sextile",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\NEP_SEX_JUP__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SEX_MAR__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Sextile",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\NEP_SEX_MAR__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SEX_VEN__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Sextile",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\NEP_SEX_VEN__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SEX_MER__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Sextile",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\NEP_SEX_MER__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SEX_MOO__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Sextile",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\NEP_SEX_MOO__v1.0.0.json"
+    },
+    {
+      "id": "NEP_SEX_SUN__v1.0.0",
+      "pair": [
+        "Neptune",
+        "Sextile",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\NEP_SEX_SUN__v1.0.0.json"
+    },
+    {
+      "id": "URA_SEX_PLU__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Sextile",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\URA_SEX_PLU__v1.0.0.json"
+    },
+    {
+      "id": "URA_SEX_NEP__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Sextile",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\URA_SEX_NEP__v1.0.0.json"
+    },
+    {
+      "id": "URA_SEX_URA__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Sextile",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\URA_SEX_URA__v1.0.0.json"
+    },
+    {
+      "id": "URA_SEX_SAT__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Sextile",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\URA_SEX_SAT__v1.0.0.json"
+    },
+    {
+      "id": "URA_SEX_JUP__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Sextile",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\URA_SEX_JUP__v1.0.0.json"
+    },
+    {
+      "id": "URA_SEX_MAR__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Sextile",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\URA_SEX_MAR__v1.0.0.json"
+    },
+    {
+      "id": "URA_SEX_VEN__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Sextile",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\URA_SEX_VEN__v1.0.0.json"
+    },
+    {
+      "id": "URA_SEX_MER__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Sextile",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\URA_SEX_MER__v1.0.0.json"
+    },
+    {
+      "id": "URA_SEX_MOO__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Sextile",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\URA_SEX_MOO__v1.0.0.json"
+    },
+    {
+      "id": "URA_SEX_SUN__v1.0.0",
+      "pair": [
+        "Uranus",
+        "Sextile",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\URA_SEX_SUN__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SEX_PLU__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Sextile",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\SAT_SEX_PLU__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SEX_NEP__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Sextile",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\SAT_SEX_NEP__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SEX_URA__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Sextile",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\SAT_SEX_URA__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SEX_SAT__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Sextile",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\SAT_SEX_SAT__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SEX_JUP__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Sextile",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\SAT_SEX_JUP__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SEX_MAR__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Sextile",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\SAT_SEX_MAR__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SEX_VEN__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Sextile",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\SAT_SEX_VEN__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SEX_MER__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Sextile",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\SAT_SEX_MER__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SEX_MOO__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Sextile",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\SAT_SEX_MOO__v1.0.0.json"
+    },
+    {
+      "id": "SAT_SEX_SUN__v1.0.0",
+      "pair": [
+        "Saturn",
+        "Sextile",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\SAT_SEX_SUN__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SEX_PLU__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Sextile",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\JUP_SEX_PLU__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SEX_NEP__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Sextile",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\JUP_SEX_NEP__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SEX_URA__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Sextile",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\JUP_SEX_URA__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SEX_SAT__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Sextile",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\JUP_SEX_SAT__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SEX_JUP__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Sextile",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\JUP_SEX_JUP__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SEX_MAR__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Sextile",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\JUP_SEX_MAR__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SEX_VEN__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Sextile",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\JUP_SEX_VEN__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SEX_MER__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Sextile",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\JUP_SEX_MER__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SEX_MOO__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Sextile",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\JUP_SEX_MOO__v1.0.0.json"
+    },
+    {
+      "id": "JUP_SEX_SUN__v1.0.0",
+      "pair": [
+        "Jupiter",
+        "Sextile",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\JUP_SEX_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SEX_PLU__v1.0.0",
+      "pair": [
+        "Mars",
+        "Sextile",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MAR_SEX_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SEX_NEP__v1.0.0",
+      "pair": [
+        "Mars",
+        "Sextile",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MAR_SEX_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SEX_URA__v1.0.0",
+      "pair": [
+        "Mars",
+        "Sextile",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MAR_SEX_URA__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SEX_SAT__v1.0.0",
+      "pair": [
+        "Mars",
+        "Sextile",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MAR_SEX_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SEX_JUP__v1.0.0",
+      "pair": [
+        "Mars",
+        "Sextile",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MAR_SEX_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SEX_MAR__v1.0.0",
+      "pair": [
+        "Mars",
+        "Sextile",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MAR_SEX_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SEX_VEN__v1.0.0",
+      "pair": [
+        "Mars",
+        "Sextile",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MAR_SEX_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SEX_MER__v1.0.0",
+      "pair": [
+        "Mars",
+        "Sextile",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MAR_SEX_MER__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SEX_MOO__v1.0.0",
+      "pair": [
+        "Mars",
+        "Sextile",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MAR_SEX_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MAR_SEX_SUN__v1.0.0",
+      "pair": [
+        "Mars",
+        "Sextile",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MAR_SEX_SUN__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SEX_PLU__v1.0.0",
+      "pair": [
+        "Venus",
+        "Sextile",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\VEN_SEX_PLU__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SEX_NEP__v1.0.0",
+      "pair": [
+        "Venus",
+        "Sextile",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\VEN_SEX_NEP__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SEX_URA__v1.0.0",
+      "pair": [
+        "Venus",
+        "Sextile",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\VEN_SEX_URA__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SEX_SAT__v1.0.0",
+      "pair": [
+        "Venus",
+        "Sextile",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\VEN_SEX_SAT__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SEX_JUP__v1.0.0",
+      "pair": [
+        "Venus",
+        "Sextile",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\VEN_SEX_JUP__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SEX_MAR__v1.0.0",
+      "pair": [
+        "Venus",
+        "Sextile",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\VEN_SEX_MAR__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SEX_VEN__v1.0.0",
+      "pair": [
+        "Venus",
+        "Sextile",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\VEN_SEX_VEN__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SEX_MER__v1.0.0",
+      "pair": [
+        "Venus",
+        "Sextile",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\VEN_SEX_MER__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SEX_MOO__v1.0.0",
+      "pair": [
+        "Venus",
+        "Sextile",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\VEN_SEX_MOO__v1.0.0.json"
+    },
+    {
+      "id": "VEN_SEX_SUN__v1.0.0",
+      "pair": [
+        "Venus",
+        "Sextile",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\VEN_SEX_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MER_SEX_PLU__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Sextile",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MER_SEX_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MER_SEX_NEP__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Sextile",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MER_SEX_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MER_SEX_URA__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Sextile",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MER_SEX_URA__v1.0.0.json"
+    },
+    {
+      "id": "MER_SEX_SAT__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Sextile",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MER_SEX_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MER_SEX_JUP__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Sextile",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MER_SEX_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MER_SEX_MAR__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Sextile",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MER_SEX_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MER_SEX_VEN__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Sextile",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MER_SEX_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MER_SEX_MER__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Sextile",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MER_SEX_MER__v1.0.0.json"
+    },
+    {
+      "id": "MER_SEX_MOO__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Sextile",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MER_SEX_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MER_SEX_SUN__v1.0.0",
+      "pair": [
+        "Mercury",
+        "Sextile",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MER_SEX_SUN__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SEX_PLU__v1.0.0",
+      "pair": [
+        "Moon",
+        "Sextile",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\MOO_SEX_PLU__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SEX_NEP__v1.0.0",
+      "pair": [
+        "Moon",
+        "Sextile",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\MOO_SEX_NEP__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SEX_URA__v1.0.0",
+      "pair": [
+        "Moon",
+        "Sextile",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\MOO_SEX_URA__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SEX_SAT__v1.0.0",
+      "pair": [
+        "Moon",
+        "Sextile",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\MOO_SEX_SAT__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SEX_JUP__v1.0.0",
+      "pair": [
+        "Moon",
+        "Sextile",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\MOO_SEX_JUP__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SEX_MAR__v1.0.0",
+      "pair": [
+        "Moon",
+        "Sextile",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\MOO_SEX_MAR__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SEX_VEN__v1.0.0",
+      "pair": [
+        "Moon",
+        "Sextile",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\MOO_SEX_VEN__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SEX_MER__v1.0.0",
+      "pair": [
+        "Moon",
+        "Sextile",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\MOO_SEX_MER__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SEX_MOO__v1.0.0",
+      "pair": [
+        "Moon",
+        "Sextile",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\MOO_SEX_MOO__v1.0.0.json"
+    },
+    {
+      "id": "MOO_SEX_SUN__v1.0.0",
+      "pair": [
+        "Moon",
+        "Sextile",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\MOO_SEX_SUN__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SEX_PLU__v1.0.0",
+      "pair": [
+        "Sun",
+        "Sextile",
+        "Pluto"
+      ],
+      "path": "./kb/aspects\\SUN_SEX_PLU__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SEX_NEP__v1.0.0",
+      "pair": [
+        "Sun",
+        "Sextile",
+        "Neptune"
+      ],
+      "path": "./kb/aspects\\SUN_SEX_NEP__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SEX_URA__v1.0.0",
+      "pair": [
+        "Sun",
+        "Sextile",
+        "Uranus"
+      ],
+      "path": "./kb/aspects\\SUN_SEX_URA__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SEX_SAT__v1.0.0",
+      "pair": [
+        "Sun",
+        "Sextile",
+        "Saturn"
+      ],
+      "path": "./kb/aspects\\SUN_SEX_SAT__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SEX_JUP__v1.0.0",
+      "pair": [
+        "Sun",
+        "Sextile",
+        "Jupiter"
+      ],
+      "path": "./kb/aspects\\SUN_SEX_JUP__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SEX_MAR__v1.0.0",
+      "pair": [
+        "Sun",
+        "Sextile",
+        "Mars"
+      ],
+      "path": "./kb/aspects\\SUN_SEX_MAR__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SEX_VEN__v1.0.0",
+      "pair": [
+        "Sun",
+        "Sextile",
+        "Venus"
+      ],
+      "path": "./kb/aspects\\SUN_SEX_VEN__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SEX_MER__v1.0.0",
+      "pair": [
+        "Sun",
+        "Sextile",
+        "Mercury"
+      ],
+      "path": "./kb/aspects\\SUN_SEX_MER__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SEX_MOO__v1.0.0",
+      "pair": [
+        "Sun",
+        "Sextile",
+        "Moon"
+      ],
+      "path": "./kb/aspects\\SUN_SEX_MOO__v1.0.0.json"
+    },
+    {
+      "id": "SUN_SEX_SUN__v1.0.0",
+      "pair": [
+        "Sun",
+        "Sextile",
+        "Sun"
+      ],
+      "path": "./kb/aspects\\SUN_SEX_SUN__v1.0.0.json"
+    }
+  ]
+}

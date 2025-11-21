@@ -1,0 +1,255 @@
+{
+  "id": "MOO_SQR_PLU__v1.0.0",
+  "pair": [
+    "Moon",
+    "Square",
+    "Pluto"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect signals resurfacing of old emotional issues, tension and conflict in family settings, and psychological distress from suppressed feelings. It is intense for those facing chronic illness or life-transforming challenges.",
+    "hi": "यह योग पुरानी भावनात्मक समस्याओं के उभरने, परिवार में तनाव और मानसिक पीड़ा के संकेत देता है। यह गंभीर बीमारी या जीवन संघर्ष से गुजर रहे लोगों के लिए विशेष रूप से तीव्र होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Complications may arise in joint ventures or shared investments, requiring careful management.",
+      "hi": "साझा व्यापार या निवेश में जटिलताएं आ सकती हैं, जिनका सावधानीपूर्वक प्रबंधन आवश्यक है।"
+    },
+    "relationships": {
+      "en": "Tension and conflict may occur within the home or family, with increased pressure especially on women.",
+      "hi": "घर या परिवार में तनाव और विवाद हो सकते हैं, खासकर महिलाओं पर दबाव बढ़ सकता है।"
+    },
+    "money": {
+      "en": "Joint property or shared financial matters may face complications and suspicion.",
+      "hi": "साझा संपत्ति या वित्तीय मामलों में जटिलताएं और संदेह हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Suppressed emotions may cause psychological distress; this period is sensitive for those with chronic illness or major life challenges.",
+      "hi": "दबे हुए भाव मानसिक पीड़ा दे सकते हैं; यह समय गंभीर बीमारी या जीवन संघर्ष से गुजर रहे लोगों के लिए संवेदनशील होता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional resurfacing",
+      "Family tension",
+      "Joint venture complications",
+      "Health challenges"
+    ],
+    "hi": [
+      "भावनात्मक समस्याओं का उभरना",
+      "परिवार में तनाव",
+      "साझा व्यापार की जटिलताएं",
+      "स्वास्थ्य संबंधी चुनौतियां"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased family conflicts and suspicion",
+      "Pressure on women may rise",
+      "Psychological distress from suppressed emotions",
+      "Complications in shared financial matters"
+    ],
+    "hi": [
+      "परिवार में विवाद और संदेह बढ़ सकते हैं",
+      "महिलाओं पर दबाव बढ़ सकता है",
+      "दबे हुए भावनाओं से मानसिक पीड़ा हो सकती है",
+      "साझा वित्तीय मामलों में जटिलताएं हो सकती हैं"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be aware of resurfacing emotional issues",
+        "Monitor family dynamics carefully",
+        "Exercise caution in joint ventures"
+      ],
+      "hi": [
+        "उभरती भावनात्मक समस्याओं के प्रति सजग रहें",
+        "परिवार के संबंधों पर ध्यान दें",
+        "साझा व्यापार में सावधानी बरतें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Expect heightened tension and conflicts",
+        "Avoid impulsive decisions in shared matters",
+        "Support those under emotional or health stress"
+      ],
+      "hi": [
+        "तनाव और विवाद बढ़ने की संभावना",
+        "साझा मामलों में जल्दबाजी से बचें",
+        "भावनात्मक या स्वास्थ्य दबाव में लोगों का समर्थन करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Emotional intensity may lessen",
+        "Family atmosphere may improve gradually",
+        "Joint venture issues may start resolving"
+      ],
+      "hi": [
+        "भावनात्मक तीव्रता कम हो सकती है",
+        "परिवार का माहौल धीरे-धीरे सुधर सकता है",
+        "साझा व्यापार की समस्याएं हल होने लग सकती हैं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional resurfacing",
+      "family tension",
+      "psychological distress",
+      "joint ventures",
+      "shared property",
+      "suspicion",
+      "pressure on women",
+      "chronic illness",
+      "life challenges"
+    ],
+    "hi": [
+      "भावनात्मक समस्याएं",
+      "परिवार में तनाव",
+      "मानसिक पीड़ा",
+      "साझा व्यापार",
+      "संपत्ति साझा",
+      "संदेह",
+      "महिलाओं पर दबाव",
+      "गंभीर बीमारी",
+      "जीवन संघर्ष"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intense",
+      "challenging",
+      "emotional",
+      "psychological",
+      "family-focused"
+    ],
+    "hi": [
+      "तीव्र",
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "मानसिक",
+      "परिवार केंद्रित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Pluto": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "emotional conflict",
+      "family dynamics",
+      "shared resources",
+      "health sensitivity"
+    ],
+    "hi": [
+      "भावनात्मक संघर्ष",
+      "परिवार के संबंध",
+      "साझा संसाधन",
+      "स्वास्थ्य संवेदनशीलता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-squ-plu",
+      "core": "Old emotional issues resurface causing family tension and psychological distress, especially impacting shared ventures and health challenges.",
+      "tone": "Warm, neutral, and cautiously observant."
+    },
+    "hi": {
+      "title": "चंद्र वर्ग प्लूटो",
+      "core": "पुरानी भावनात्मक समस्याएं उभरती हैं जो परिवार में तनाव और मानसिक पीड़ा उत्पन्न करती हैं, विशेषकर साझा व्यापार और स्वास्थ्य चुनौतियों पर प्रभाव डालती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period brings resurfacing of old emotional issues with tension and conflict in family settings, causing psychological distress and intensity for those with chronic illness or life-transforming situations.",
+        "hi": "यह समय पुरानी भावनात्मक समस्याओं के उभरने का है, जो परिवार में तनाव और विवाद उत्पन्न करता है तथा गंभीर बीमारी या जीवन संघर्ष से गुजर रहे लोगों के लिए तीव्र होता है।"
+      },
+      "career": {
+        "en": "Complications may arise in joint ventures or shared investments, requiring careful attention and management.",
+        "hi": "साझा व्यापार या निवेश में जटिलताएं आ सकती हैं, जिनका सावधानीपूर्वक ध्यान और प्रबंधन आवश्यक है।"
+      },
+      "relationships": {
+        "en": "Tension and conflict within the home or family may increase, with women feeling added pressure.",
+        "hi": "घर या परिवार में तनाव और विवाद बढ़ सकते हैं, और महिलाओं पर अतिरिक्त दबाव महसूस हो सकता है।"
+      },
+      "money": {
+        "en": "Shared property or financial matters may face suspicion and complications during this time.",
+        "hi": "साझा संपत्ति या वित्तीय मामलों में संदेह और जटिलताएं हो सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Suppressed emotions may cause psychological distress; this period is sensitive for those dealing with chronic illness or major life struggles.",
+        "hi": "दबे हुए भाव मानसिक पीड़ा दे सकते हैं; यह समय गंभीर बीमारी या जीवन संघर्ष से गुजर रहे लोगों के लिए संवेदनशील होता है।"
+      }
+    },
+    "aliases": [
+      "Moon square Pluto",
+      "Moo SQR Plu",
+      "Moon-Square-Pluto",
+      "Moon Square to Pluto"
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "id": "NEP_OPP_VEN__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Opposition",
+    "Venus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates potential misunderstandings, excessive sentimentality, and possible deception in hidden romantic, work, or sexual relationships. It may involve one-sided attraction or secret love affairs, with a decline in interest in social, artistic, or professional activities and reduced practicality.",
+    "hi": "यह योग छिपे हुए रोमांटिक, कार्य या यौन संबंधों में गलतफहमियाँ, अतिभावुकता और धोखे की संभावना दर्शाता है। इसमें एकतरफा आकर्षण या गुप्त प्रेम प्रसंग हो सकते हैं, साथ ही सामाजिक, कलात्मक या पेशेवर गतिविधियों में रुचि कम हो जाती है और व्यावहारिकता घटती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Unrealistic expectations may cause financial losses and strained relations with colleagues. Laziness and overspending can obstruct task completion.",
+      "hi": "अवास्तविक अपेक्षाओं के कारण आर्थिक नुकसान और सहयोगियों के साथ तनाव हो सकता है। आलस्य और अत्यधिक खर्च कार्य पूरा करने में बाधा उत्पन्न कर सकते हैं।"
+    },
+    "relationships": {
+      "en": "Possibility of deception, one-sided attraction, or secret love affairs in romantic or work-related relationships.",
+      "hi": "रोमांटिक या कार्य संबंधों में धोखा, एकतरफा आकर्षण या गुप्त प्रेम प्रसंग की संभावना।"
+    },
+    "money": {
+      "en": "Desire for quick wealth may lead to problems and conflicts in financial matters.",
+      "hi": "तेजी से अमीर बनने की लालसा आर्थिक मामलों में समस्याएं और टकराव उत्पन्न कर सकती है।"
+    },
+    "health_adj": {
+      "en": "Increased artificiality in nature may affect emotional well-being and reduce practicality.",
+      "hi": "स्वभाव में कृत्रिमता बढ़ने से भावनात्मक स्थिति प्रभावित हो सकती है और व्यावहारिकता कम हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Hidden romantic or secret love affairs",
+      "Deceptive or one-sided relationships",
+      "Financial conflicts",
+      "Professional misunderstandings"
+    ],
+    "hi": [
+      "छिपे हुए रोमांटिक या गुप्त प्रेम प्रसंग",
+      "धोखाधड़ी या एकतरफा संबंध",
+      "आर्थिक टकराव",
+      "पेशेवर गलतफहमियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Misunderstandings and deception in relationships",
+      "Financial losses due to unrealistic expectations",
+      "Laziness and overspending hindering progress",
+      "Emotional conflicts and increased artificiality"
+    ],
+    "hi": [
+      "संबंधों में गलतफहमियाँ और धोखा",
+      "अवास्तविक अपेक्षाओं के कारण आर्थिक नुकसान",
+      "आलस्य और अत्यधिक खर्च से प्रगति में बाधा",
+      "भावनात्मक टकराव और कृत्रिमता में वृद्धि"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious of hidden or one-sided attractions",
+        "Maintain practical focus in social and professional activities",
+        "Avoid impulsive financial decisions",
+        "Monitor spending and work habits"
+      ],
+      "hi": [
+        "छिपे या एकतरफा आकर्षण से सावधान रहें",
+        "सामाजिक और पेशेवर गतिविधियों में व्यावहारिकता बनाए रखें",
+        "आर्थिक निर्णय सोच-समझकर लें",
+        "खर्च और कार्य आदतों पर ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid unrealistic expectations in career and finances",
+        "Stay alert to possible deception in relationships",
+        "Control overspending and laziness",
+        "Focus on clear communication to reduce conflicts"
+      ],
+      "hi": [
+        "करियर और वित्त में अवास्तविक अपेक्षाओं से बचें",
+        "संबंधों में धोखे के प्रति सतर्क रहें",
+        "अत्यधिक खर्च और आलस्य को नियंत्रित करें",
+        "टकराव कम करने के लिए स्पष्ट संवाद पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reassess financial strategies to prevent losses",
+        "Clarify misunderstandings in relationships",
+        "Restore practical approach in activities",
+        "Reduce artificial behaviors and emotional conflicts"
+      ],
+      "hi": [
+        "आर्थिक रणनीतियों का पुनर्मूल्यांकन करें ताकि नुकसान न हो",
+        "संबंधों में गलतफहमियों को स्पष्ट करें",
+        "गतिविधियों में व्यावहारिक दृष्टिकोण पुनः स्थापित करें",
+        "कृत्रिम व्यवहार और भावनात्मक टकराव कम करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "misconceptions",
+      "over-sentimentality",
+      "deception",
+      "hidden relationships",
+      "one-sided attraction",
+      "secret love affairs",
+      "reduced practicality",
+      "financial loss",
+      "laziness",
+      "overspending",
+      "conflicts",
+      "artificiality"
+    ],
+    "hi": [
+      "गलत धारणाएँ",
+      "अतिभावुकता",
+      "धोखा",
+      "छिपे संबंध",
+      "एकतरफा आकर्षण",
+      "गुप्त प्रेम प्रसंग",
+      "व्यावहारिकता की कमी",
+      "आर्थिक नुकसान",
+      "आलस्य",
+      "अत्यधिक खर्च",
+      "टकराव",
+      "कृत्रिमता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "caution",
+      "complex",
+      "challenging",
+      "sensitive"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "सावधानी",
+      "जटिल",
+      "चुनौतीपूर्ण",
+      "संवेदनशील"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Venus": 0.9
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "relationship dynamics",
+      "financial caution",
+      "emotional vulnerability",
+      "practicality loss",
+      "hidden motives"
+    ],
+    "hi": [
+      "संबंधों की गतिशीलता",
+      "आर्थिक सावधानी",
+      "भावनात्मक असुरक्षा",
+      "व्यावहारिकता की कमी",
+      "छिपे हुए उद्देश्य"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-opp-ven",
+      "core": "Potential for misunderstandings, secret attractions, and reduced practicality affecting relationships and career.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "नेपच्यून विपक्ष वीनस",
+      "core": "गलतफहमियाँ, गुप्त आकर्षण और व्यावहारिकता की कमी जो संबंधों और करियर को प्रभावित कर सकती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Misconceptions, over-sentimentality, and hidden relationship issues with reduced practicality.",
+        "hi": "गलत धारणाएँ, अतिभावुकता, और छिपे हुए संबंधों की समस्याएं जिनमें व्यावहारिकता कम होती है।"
+      },
+      "career": {
+        "en": "Unrealistic expectations, financial losses, laziness, and overspending affecting professional tasks.",
+        "hi": "अवास्तविक अपेक्षाएं, आर्थिक नुकसान, आलस्य और अत्यधिक खर्च पेशेवर कार्यों को प्रभावित करते हैं।"
+      },
+      "relationships": {
+        "en": "Deception, one-sided attraction, and secret love affairs in romantic or work contexts.",
+        "hi": "धोखा, एकतरफा आकर्षण, और गुप्त प्रेम प्रसंग रोमांटिक या कार्य संदर्भों में।"
+      },
+      "money": {
+        "en": "Greed for quick wealth causing financial problems and conflicts.",
+        "hi": "तेजी से धन कमाने की लालसा आर्थिक समस्याएं और टकराव उत्पन्न करती है।"
+      },
+      "health_adj": {
+        "en": "Increased artificiality affecting emotional states and practicality.",
+        "hi": "बढ़ी हुई कृत्रिमता भावनात्मक स्थिति और व्यावहारिकता को प्रभावित करती है।"
+      }
+    },
+    "aliases": [
+      "Neptune opposition Venus",
+      "Nep OPP Ven",
+      "Neptune-Opposition-Venus",
+      "Neptune Opposition to Venus"
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "SUN_CON_URA__v1.0.0",
+  "pair": [
+    "Sun",
+    "Conjunction",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect inspires a desire for independence and unconventionality, favoring scientific, technical, and large-scale commercial activities.",
+    "hi": "यह योग व्यक्ति में स्वतंत्रता और अपरंपरागतता की इच्छा को प्रेरित करता है, जो वैज्ञानिक, तकनीकी और बड़े वाणिज्यिक कार्यों के लिए अनुकूल है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable for scientific, technical, and large-scale commercial endeavors.",
+      "hi": "वैज्ञानिक, तकनीकी और बड़े वाणिज्यिक कार्यों के लिए उपयुक्त।"
+    },
+    "relationships": {
+      "en": "Encourages independence and unconventional approaches in personal connections.",
+      "hi": "व्यक्तिगत संबंधों में स्वतंत्रता और अपरंपरागत दृष्टिकोण को प्रोत्साहित करता है।"
+    },
+    "money": {
+      "en": "Supports large-scale commercial activities with innovative potential.",
+      "hi": "नवोन्मेषी संभावनाओं वाले बड़े वाणिज्यिक कार्यों का समर्थन करता है।"
+    },
+    "health_adj": {
+      "en": "Caution advised regarding blood pressure and nervous system health.",
+      "hi": "रक्तचाप और नर्वस सिस्टम के स्वास्थ्य के प्रति सावधानी आवश्यक।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Pursuit of independence",
+      "Engagement in scientific or technical projects",
+      "Involvement in large-scale commercial ventures"
+    ],
+    "hi": [
+      "स्वतंत्रता की खोज",
+      "वैज्ञानिक या तकनीकी परियोजनाओं में संलग्नता",
+      "बड़े वाणिज्यिक उद्यमों में भागीदारी"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Possible risks related to blood pressure",
+      "Potential nervous system disorders",
+      "Exercise caution in health matters"
+    ],
+    "hi": [
+      "रक्तचाप से संबंधित संभावित जोखिम",
+      "नर्वस सिस्टम विकारों का खतरा",
+      "स्वास्थ्य मामलों में सावधानी बरतें"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Embrace innovative and unconventional ideas",
+        "Focus on scientific and technical fields",
+        "Pursue independence in career and personal life"
+      ],
+      "hi": [
+        "नवोन्मेषी और अपरंपरागत विचारों को अपनाएं",
+        "वैज्ञानिक और तकनीकी क्षेत्रों पर ध्यान दें",
+        "करियर और व्यक्तिगत जीवन में स्वतंत्रता की खोज करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate large-scale commercial or technical projects",
+        "Be mindful of health, especially blood pressure and nervous system"
+      ],
+      "hi": [
+        "बड़े वाणिज्यिक या तकनीकी परियोजनाओं की शुरुआत करें",
+        "स्वास्थ्य, विशेषकर रक्तचाप और नर्वस सिस्टम का ध्यान रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and adjust health routines",
+        "Maintain balance between independence and caution"
+      ],
+      "hi": [
+        "स्वास्थ्य दिनचर्या की समीक्षा और समायोजन करें",
+        "स्वतंत्रता और सावधानी के बीच संतुलन बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "independence",
+      "unconventionality",
+      "scientific",
+      "technical",
+      "large-scale",
+      "commercial",
+      "blood pressure",
+      "nervous system",
+      "caution"
+    ],
+    "hi": [
+      "स्वतंत्रता",
+      "अपरंपरागतता",
+      "वैज्ञानिक",
+      "तकनीकी",
+      "बड़ा पैमाना",
+      "वाणिज्यिक",
+      "रक्तचाप",
+      "नर्वस सिस्टम",
+      "सावधानी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "innovative",
+      "independent",
+      "technical",
+      "cautious"
+    ],
+    "hi": [
+      "नवोन्मेषी",
+      "स्वतंत्र",
+      "तकनीकी",
+      "सावधान"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 1.5,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "independence",
+      "innovation",
+      "health caution"
+    ],
+    "hi": [
+      "स्वतंत्रता",
+      "नवोन्मेष",
+      "स्वास्थ्य सावधानी"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-con-ura",
+      "core": "This aspect inspires independence and unconventionality, suitable for scientific, technical, and large commercial work, with health caution advised.",
+      "tone": "Warm, neutral, and professional"
+    },
+    "hi": {
+      "title": "सूर्य युति यूरेनस",
+      "core": "यह योग स्वतंत्रता और अपरंपरागतता को प्रेरित करता है, जो वैज्ञानिक, तकनीकी और बड़े वाणिज्यिक कार्यों के लिए उपयुक्त है, साथ ही स्वास्थ्य में सावधानी आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और पेशेवर"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Inspires desire for independence and unconventionality; favors scientific, technical, and large-scale commercial endeavors.",
+        "hi": "स्वतंत्रता और अपरंपरागतता की इच्छा को प्रेरित करता है; वैज्ञानिक, तकनीकी और बड़े वाणिज्यिक कार्यों के लिए अनुकूल।"
+      },
+      "career": {
+        "en": "Suitable for scientific, technical, and large commercial projects.",
+        "hi": "वैज्ञानिक, तकनीकी और बड़े वाणिज्यिक परियोजनाओं के लिए उपयुक्त।"
+      },
+      "relationships": {
+        "en": "Encourages independence and unconventionality in personal connections.",
+        "hi": "व्यक्तिगत संबंधों में स्वतंत्रता और अपरंपरागतता को प्रोत्साहित करता है।"
+      },
+      "money": {
+        "en": "Supports large-scale commercial activities with innovative aspects.",
+        "hi": "नवोन्मेषी पहलुओं के साथ बड़े वाणिज्यिक कार्यों का समर्थन करता है।"
+      },
+      "health_adj": {
+        "en": "Advises caution regarding blood pressure and nervous system disorders.",
+        "hi": "रक्तचाप और नर्वस सिस्टम विकारों के प्रति सावधानी बरतने की सलाह।"
+      }
+    },
+    "aliases": [
+      "Sun conjunction Uranus",
+      "Sun CON Ura",
+      "Sun-Conjunction-Uranus",
+      "Sun Conjunction to Uranus"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "id": "MOO_OPP_JUP__v1.0.0",
+  "pair": [
+    "Moon",
+    "Opposition",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Excessive expectations, generosity, or spending may lead to negative consequences. Conflicts in cultural, religious, or family beliefs can arise, causing confusion in thought and heightened emotions. There is a tendency to over-trust and give too much, often resulting in impulsive expenses.",
+    "hi": "बहुत अधिक उम्मीदें, उदारता या खर्च नुकसान पहुंचा सकते हैं। धार्मिक, सांस्कृतिक या पारिवारिक विचारों में टकराव हो सकता है, जिससे सोच में भ्रम और भावनाओं में वृद्धि होती है। व्यक्ति ज़्यादा भरोसा करता है और जरूरत से अधिक देता है, जिससे खर्चा आवेगी हो जाता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Potential misunderstandings or conflicts due to differing cultural or religious views may affect work relationships and decision-making.",
+      "hi": "विभिन्न सांस्कृतिक या धार्मिक विचारों के कारण काम के संबंधों और निर्णयों में गलतफहमी या टकराव हो सकता है।"
+    },
+    "relationships": {
+      "en": "Family and cultural belief clashes may cause emotional tension. Over-trusting others can lead to disappointment.",
+      "hi": "पारिवारिक और सांस्कृतिक विचारों के टकराव से भावनात्मक तनाव हो सकता है। दूसरों पर ज़्यादा भरोसा करने से निराशा हो सकती है।"
+    },
+    "money": {
+      "en": "Impulsive spending and excessive generosity can lead to financial strain.",
+      "hi": "आवेगी खर्च और अत्यधिक उदारता से आर्थिक दबाव हो सकता है।"
+    },
+    "health_adj": {
+      "en": "Emotional confusion and heightened feelings may affect mental well-being.",
+      "hi": "भावनात्मक भ्रम और बढ़ी हुई भावनाएं मानसिक स्वास्थ्य को प्रभावित कर सकती हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family or cultural conflicts",
+      "Financial impulsiveness",
+      "Emotional challenges"
+    ],
+    "hi": [
+      "पारिवारिक या सांस्कृतिक टकराव",
+      "आवेगी खर्च",
+      "भावनात्मक चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Over-expectation may cause disappointment.",
+      "Conflicts in beliefs can escalate tensions.",
+      "Impulsive spending risks financial stability.",
+      "Excessive trust may lead to vulnerability."
+    ],
+    "hi": [
+      "अत्यधिक उम्मीदें निराशा ला सकती हैं।",
+      "विचारों के टकराव से तनाव बढ़ सकता है।",
+      "आवेगी खर्च आर्थिक स्थिरता को खतरे में डाल सकता है।",
+      "अत्यधिक भरोसा कमजोरी ला सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of expectations to avoid disappointment.",
+        "Consider different cultural or religious views calmly.",
+        "Monitor spending habits to prevent impulsiveness."
+      ],
+      "hi": [
+        "निराशा से बचने के लिए उम्मीदों को समझदारी से रखें।",
+        "विभिन्न सांस्कृतिक या धार्मिक विचारों को शांति से समझें।",
+        "आवेगी खर्च से बचने के लिए खर्च पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive generosity or spending.",
+        "Stay aware of emotional fluctuations.",
+        "Communicate clearly to reduce conflicts."
+      ],
+      "hi": [
+        "आवेगी उदारता या खर्च से बचें।",
+        "भावनात्मक उतार-चढ़ाव से सावधान रहें।",
+        "टकराव कम करने के लिए स्पष्ट संवाद करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons about trust and generosity.",
+        "Reassess financial priorities calmly.",
+        "Seek emotional balance and clarity."
+      ],
+      "hi": [
+        "भरोसा और उदारता के बारे में सीखे गए सबक पर विचार करें।",
+        "शांति से आर्थिक प्राथमिकताओं का पुनर्मूल्यांकन करें।",
+        "भावनात्मक संतुलन और स्पष्टता खोजें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "expectation",
+      "generosity",
+      "impulsive spending",
+      "conflict",
+      "trust",
+      "emotional confusion"
+    ],
+    "hi": [
+      "उम्मीद",
+      "उदारता",
+      "आवेगी खर्च",
+      "टकराव",
+      "भरोसा",
+      "भावनात्मक भ्रम"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "emotional",
+      "conflicted",
+      "impulsive",
+      "over-trusting"
+    ],
+    "hi": [
+      "भावनात्मक",
+      "टकरावपूर्ण",
+      "आवेगी",
+      "अत्यधिक भरोसेमंद"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "family dynamics",
+      "cultural beliefs",
+      "financial caution",
+      "emotional awareness"
+    ],
+    "hi": [
+      "पारिवारिक संबंध",
+      "सांस्कृतिक विश्वास",
+      "आर्थिक सावधानी",
+      "भावनात्मक जागरूकता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-opp-jup",
+      "core": "This aspect highlights challenges with over-expectation, generosity, and impulsive spending, often leading to conflicts in beliefs and emotional confusion.",
+      "tone": "Warm, cautious, and reflective"
+    },
+    "hi": {
+      "title": "चंद्रमा का बृहस्पति के विरोध में",
+      "core": "यह योग अत्यधिक उम्मीदों, उदारता और आवेगी खर्च से जुड़ी चुनौतियों को दर्शाता है, जो अक्सर विश्वासों के टकराव और भावनात्मक भ्रम का कारण बनता है।",
+      "tone": "सहानुभूतिपूर्ण, सावधान और चिंतनशील"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Excessive expectations, generosity, or spending may lead to negative consequences with conflicts in beliefs and emotional confusion.",
+        "hi": "अत्यधिक उम्मीदें, उदारता या खर्च नुकसान और विश्वासों के टकराव तथा भावनात्मक भ्रम ला सकते हैं।"
+      },
+      "career": {
+        "en": "Work relationships may be strained due to cultural or religious conflicts affecting decisions.",
+        "hi": "सांस्कृतिक या धार्मिक टकराव के कारण कार्य संबंध प्रभावित हो सकते हैं।"
+      },
+      "relationships": {
+        "en": "Family and cultural belief clashes can cause emotional tension and disappointment from over-trusting.",
+        "hi": "पारिवारिक और सांस्कृतिक टकराव से भावनात्मक तनाव और अत्यधिक भरोसे से निराशा हो सकती है।"
+      },
+      "money": {
+        "en": "Impulsive spending and generosity may lead to financial difficulties.",
+        "hi": "आवेगी खर्च और उदारता से आर्थिक समस्याएं हो सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional confusion and heightened feelings may impact mental health.",
+        "hi": "भावनात्मक भ्रम और बढ़ी भावनाएं मानसिक स्वास्थ्य को प्रभावित कर सकती हैं।"
+      }
+    },
+    "aliases": [
+      "Moon opposition Jupiter",
+      "Moo OPP Jup",
+      "Moon-Opposition-Jupiter",
+      "Moon Opposition to Jupiter"
+    ]
+  }
+}

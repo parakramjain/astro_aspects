@@ -1,0 +1,251 @@
+{
+  "id": "MAR_SQR_MER__v1.0.0",
+  "pair": [
+    "Mars",
+    "Square",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A time marked by arguments, irritation, and miscommunication, causing resistance in business and difficulty in executing ideas. Caution is advised with speed, fire, and electrical items.",
+    "hi": "यह समय बहस, चिढ़चिढ़ापन और ग़लतफहमी से भरा होता है, जिससे व्यवसाय में विरोध और विचारों को लागू करने में कठिनाई होती है। तेज़ रफ्तार, आग और बिजली से सावधानी जरूरी है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Business discussions and planning face resistance; difficulty in implementing ideas despite rigidity.",
+      "hi": "व्यवसायिक चर्चाओं और योजनाओं में विरोध रहता है; व्यक्ति अपने विचारों पर अड़ता है लेकिन उन्हें ठीक से लागू नहीं कर पाता।"
+    },
+    "relationships": {
+      "en": "Increased arguments and irritation may cause miscommunication and tension.",
+      "hi": "बहस और चिढ़चिढ़ापन बढ़ने से ग़लतफहमी और तनाव हो सकता है।"
+    },
+    "money": {
+      "en": "Investments and financial talks encounter resistance and challenges.",
+      "hi": "निवेश और वित्तीय चर्चाओं में विरोध और कठिनाइयाँ आती हैं।"
+    },
+    "health_adj": {
+      "en": "Exercise caution with speed, fire, and electrical items to avoid accidents or injuries.",
+      "hi": "तेज़ रफ्तार, आग और बिजली से जुड़ी चीज़ों में सावधानी बरतें ताकि दुर्घटना या चोट से बचा जा सके।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Arguments",
+      "Business resistance",
+      "Planning challenges",
+      "Miscommunication"
+    ],
+    "hi": [
+      "बहस",
+      "व्यवसाय में विरोध",
+      "योजना बनाने में कठिनाई",
+      "ग़लतफहमी"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Risk of misunderstandings and conflicts.",
+      "Resistance in business and investments.",
+      "Potential accidents with speed, fire, or electrical items."
+    ],
+    "hi": [
+      "ग़लतफहमी और विवाद का खतरा।",
+      "व्यवसाय और निवेश में विरोध।",
+      "तेज़ रफ्तार, आग या बिजली से जुड़ी दुर्घटना का खतरा।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Communicate clearly to reduce misunderstandings.",
+        "Be patient during business discussions.",
+        "Exercise caution with fire, speed, and electrical devices."
+      ],
+      "hi": [
+        "ग़लतफहमी कम करने के लिए स्पष्ट संवाद करें।",
+        "व्यवसायिक चर्चाओं में धैर्य रखें।",
+        "आग, तेज़ रफ्तार और बिजली के उपकरणों में सावधानी बरतें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid impulsive arguments.",
+        "Double-check plans and investments.",
+        "Handle electrical and fire-related items carefully."
+      ],
+      "hi": [
+        "आवेगपूर्ण बहस से बचें।",
+        "योजनाओं और निवेशों को दोबारा जांचें।",
+        "बिजली और आग से जुड़ी चीज़ों को सावधानी से संभालें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review past conflicts for lessons.",
+        "Slow down and reassess business strategies.",
+        "Maintain caution with physical hazards."
+      ],
+      "hi": [
+        "पिछले विवादों से सीख लें।",
+        "व्यवसायिक रणनीतियों को धीमा कर पुनः मूल्यांकन करें।",
+        "शारीरिक जोखिमों में सावधानी बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "arguments",
+      "irritation",
+      "miscommunication",
+      "business resistance",
+      "rigidity",
+      "caution",
+      "speed",
+      "fire",
+      "electrical"
+    ],
+    "hi": [
+      "बहस",
+      "चिढ़चिढ़ापन",
+      "ग़लतफहमी",
+      "व्यवसाय में विरोध",
+      "अड़चन",
+      "सावधानी",
+      "तेज़ रफ्तार",
+      "आग",
+      "बिजली"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautious",
+      "tense",
+      "resistant"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधान",
+      "तनावपूर्ण",
+      "विरोधी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mars": 0.8,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "conflict",
+      "communication issues",
+      "business obstacles",
+      "safety concerns"
+    ],
+    "hi": [
+      "संघर्ष",
+      "संचार समस्याएँ",
+      "व्यवसायिक बाधाएँ",
+      "सुरक्षा संबंधी चिंताएँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mar-squ-mer",
+      "core": "A period marked by arguments, miscommunication, and resistance in business, requiring caution especially with speed and electrical items.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "मंगल वर्ग बुध",
+      "core": "बहस, ग़लतफहमी और व्यवसाय में विरोध से भरा समय, जिसमें तेज़ रफ्तार और बिजली से सावधानी जरूरी है।",
+      "tone": "निष्पक्ष, सावधान और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period is full of arguments, irritation, and miscommunication. Business talks, investments, or planning face resistance. The person is rigid but unable to execute ideas well. Caution is needed with speed, fire, or electrical items.",
+        "hi": "यह समय बहसए चिढ़चिढ़ापन और ग़लतफहमी से भरा होता है। व्यवसायिक चर्चाए निवेशए या योजनाओं में विरोध रहता है। व्यक्ति अपने विचार पर अड़ता है लेकिन ठीक से लागू नहीं कर पाता। तेज़ रफ्तार या बिजली से जुड़ी चीज़ों में सावधानी जरूरी है।"
+      },
+      "career": {
+        "en": "Business discussions and planning face resistance; difficulty in implementing ideas despite rigidity.",
+        "hi": "व्यवसायिक चर्चाओं और योजनाओं में विरोध रहता है; व्यक्ति अपने विचारों पर अड़ता है लेकिन उन्हें ठीक से लागू नहीं कर पाता।"
+      },
+      "relationships": {
+        "en": "Increased arguments and irritation may cause miscommunication and tension.",
+        "hi": "बहस और चिढ़चिढ़ापन बढ़ने से ग़लतफहमी और तनाव हो सकता है।"
+      },
+      "money": {
+        "en": "Investments and financial talks encounter resistance and challenges.",
+        "hi": "निवेश और वित्तीय चर्चाओं में विरोध और कठिनाइयाँ आती हैं।"
+      },
+      "health_adj": {
+        "en": "Exercise caution with speed, fire, and electrical items to avoid accidents or injuries.",
+        "hi": "तेज़ रफ्तार, आग और बिजली से जुड़ी चीज़ों में सावधानी बरतें ताकि दुर्घटना या चोट से बचा जा सके।"
+      }
+    },
+    "aliases": [
+      "Mars square Mercury",
+      "Mar SQR Mer",
+      "Mars-Square-Mercury",
+      "Mars Square to Mercury"
+    ]
+  }
+}

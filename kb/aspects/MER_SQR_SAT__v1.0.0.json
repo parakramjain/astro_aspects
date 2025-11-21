@@ -1,0 +1,245 @@
+{
+  "id": "MER_SQR_SAT__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Square",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This aspect indicates a period of negative thinking, worry, and decreased efficiency. Communication is challenging and confidence is low. Conflicts with seniors or authorities may arise, and legal or government matters may face delays.",
+    "hi": "यह योग नकारात्मक सोच, चिंता और कम कार्यक्षमता का समय दर्शाता है। संचार में कठिनाई होती है और आत्मविश्वास कम रहता है। अधिकारियों या बुजुर्गों से मतभेद हो सकते हैं, तथा कानूनी या सरकारी मामलों में देरी हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Challenges in communication and conflicts with superiors may reduce work efficiency.",
+      "hi": "संचार में कठिनाई और वरिष्ठों से मतभेद कार्यक्षमता को कम कर सकते हैं।"
+    },
+    "relationships": {
+      "en": "Possible disagreements with authority figures or elders; communication difficulties may strain relationships.",
+      "hi": "अधिकारियों या बुजुर्गों से मतभेद संभव हैं; संचार की कठिनाई रिश्तों पर प्रभाव डाल सकती है।"
+    },
+    "money": {
+      "en": "Delays and obstacles may occur in legal or government-related financial matters.",
+      "hi": "कानूनी या सरकारी वित्तीय मामलों में रुकावटें और देरी हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Mental stress and worry may affect overall well-being and reduce efficiency.",
+      "hi": "मानसिक तनाव और चिंता से समग्र स्वास्थ्य प्रभावित हो सकता है और कार्यक्षमता कम हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Communication challenges",
+      "Conflicts with authority",
+      "Legal or government delays"
+    ],
+    "hi": [
+      "संचार में कठिनाई",
+      "अधिकारियों से मतभेद",
+      "कानूनी या सरकारी देरी"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Negative thinking and worry may impair decision-making.",
+      "Conflicts with seniors or authorities can escalate if not managed.",
+      "Delays in legal or government processes may cause frustration."
+    ],
+    "hi": [
+      "नकारात्मक सोच और चिंता निर्णय लेने में बाधा डाल सकती है।",
+      "वरिष्ठों या अधिकारियों से मतभेद बढ़ सकते हैं यदि संभाला न जाए।",
+      "कानूनी या सरकारी प्रक्रियाओं में देरी से निराशा हो सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise patience in communication.",
+        "Avoid confrontations with authority figures.",
+        "Prepare for possible delays in official matters."
+      ],
+      "hi": [
+        "संचार में धैर्य बनाए रखें।",
+        "अधिकारियों से विवाद से बचें।",
+        "आधिकारिक मामलों में संभावित देरी के लिए तैयार रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on clear and careful communication.",
+        "Maintain composure in interactions with seniors.",
+        "Review legal or government documents thoroughly."
+      ],
+      "hi": [
+        "स्पष्ट और सावधानीपूर्वक संचार पर ध्यान दें।",
+        "वरिष्ठों के साथ बातचीत में संयम बनाए रखें।",
+        "कानूनी या सरकारी दस्तावेज़ों की अच्छी तरह समीक्षा करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual improvement in confidence and communication.",
+        "Reduction in conflicts with authorities.",
+        "Resolution or progress in delayed matters."
+      ],
+      "hi": [
+        "आत्मविश्वास और संचार में धीरे-धीरे सुधार।",
+        "अधिकारियों से मतभेदों में कमी।",
+        "रुके हुए मामलों में समाधान या प्रगति।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "negative thinking",
+      "worry",
+      "reduced efficiency",
+      "communication difficulty",
+      "low confidence",
+      "conflicts with authority",
+      "legal delays"
+    ],
+    "hi": [
+      "नकारात्मक सोच",
+      "चिंता",
+      "कम कार्यक्षमता",
+      "संचार में कठिनाई",
+      "आत्मविश्वास की कमी",
+      "अधिकारियों से मतभेद",
+      "कानूनी देरी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "stressful",
+      "delayed",
+      "conflict-prone"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "तनावपूर्ण",
+      "देरी वाला",
+      "मतभेद संभावित"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication issues",
+      "authority conflicts",
+      "legal and governmental obstacles",
+      "mental stress"
+    ],
+    "hi": [
+      "संचार समस्याएं",
+      "अधिकार संघर्ष",
+      "कानूनी और सरकारी बाधाएं",
+      "मानसिक तनाव"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-squ-sat",
+      "core": "A period marked by negative thoughts, communication difficulties, and conflicts with authority, often causing delays and reduced efficiency.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "बुध वर्ग शनि",
+      "core": "यह समय नकारात्मक सोच, संचार में कठिनाई और अधिकारियों से मतभेदों से चिह्नित होता है, जो अक्सर देरी और कम कार्यक्षमता लाता है।",
+      "tone": "तटस्थ, सतर्क और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Negative thinking, worry, reduced efficiency, communication difficulty, low confidence, conflicts with seniors or authorities, legal and government delays.",
+        "hi": "नकारात्मक सोच, चिंता, कम कार्यक्षमता, संचार में कठिनाई, आत्मविश्वास की कमी, वरिष्ठों या अधिकारियों से मतभेद, कानूनी और सरकारी देरी।"
+      },
+      "career": {
+        "en": "Communication challenges and conflicts with superiors reduce work efficiency.",
+        "hi": "संचार की चुनौतियां और वरिष्ठों से मतभेद कार्यक्षमता को कम करते हैं।"
+      },
+      "relationships": {
+        "en": "Disagreements with authority figures and communication problems may strain relationships.",
+        "hi": "अधिकारियों से मतभेद और संचार समस्याएं रिश्तों को प्रभावित कर सकती हैं।"
+      },
+      "money": {
+        "en": "Legal and government-related financial matters may face delays and obstacles.",
+        "hi": "कानूनी और सरकारी वित्तीय मामलों में देरी और बाधाएं हो सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Mental stress and worry can affect overall health and reduce efficiency.",
+        "hi": "मानसिक तनाव और चिंता समग्र स्वास्थ्य को प्रभावित कर सकती है और कार्यक्षमता कम कर सकती है।"
+      }
+    },
+    "aliases": [
+      "Mercury square Saturn",
+      "Mer SQR Sat",
+      "Mercury-Square-Saturn",
+      "Mercury Square to Saturn"
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "id": "MER_OPP_MAR__v1.0.0",
+  "pair": [
+    "Mercury",
+    "Opposition",
+    "Mars"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "This period may bring arguments, aggression, and disputes, causing challenges in communication and decisions.",
+    "hi": "यह समय बहस, आक्रोश और टकराव की स्थिति ला सकता है, जिससे संवाद और निर्णयों में कठिनाई हो सकती है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Work may involve conflicts or aggressive interactions; communication obstacles can affect progress.",
+      "hi": "काम में टकराव या आक्रामक बातचीत हो सकती है; संवाद में अड़चनें प्रगति को प्रभावित कर सकती हैं।"
+    },
+    "relationships": {
+      "en": "Potential disputes and conflicts with siblings or close relations may arise.",
+      "hi": "भाई-बहनों या करीबी संबंधों में झगड़े और टकराव हो सकते हैं।"
+    },
+    "money": {
+      "en": "Financial or property-related decisions may be prone to mistakes or misjudgments.",
+      "hi": "वित्तीय या संपत्ति से जुड़े निर्णय गलत हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Communication and travel difficulties may cause stress or frustration.",
+      "hi": "संवाद और यात्रा में अड़चनें तनाव या निराशा ला सकती हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Arguments",
+      "Disputes",
+      "Travel obstacles",
+      "Financial decision challenges"
+    ],
+    "hi": [
+      "बहस",
+      "झगड़े",
+      "यात्रा में अड़चनें",
+      "वित्तीय निर्णयों में कठिनाई"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Increased likelihood of conflicts and aggression.",
+      "Errors in financial or property decisions.",
+      "Obstacles in travel and communication.",
+      "Potential disputes with siblings."
+    ],
+    "hi": [
+      "टकराव और आक्रोश की संभावना बढ़ जाती है।",
+      "वित्तीय या संपत्ति निर्णयों में गलतियाँ हो सकती हैं।",
+      "यात्रा और संवाद में अड़चनें आ सकती हैं।",
+      "भाई-बहनों से झगड़े हो सकते हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise patience in discussions.",
+        "Double-check financial decisions.",
+        "Prepare for possible travel delays."
+      ],
+      "hi": [
+        "चर्चाओं में धैर्य रखें।",
+        "वित्तीय निर्णयों को दोबारा जांचें।",
+        "संभावित यात्रा विलंब के लिए तैयार रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid initiating conflicts.",
+        "Be extra cautious with communication.",
+        "Delay major financial or property decisions if possible."
+      ],
+      "hi": [
+        "टकराव शुरू करने से बचें।",
+        "संवाद में विशेष सावधानी बरतें।",
+        "संभव हो तो बड़े वित्तीय या संपत्ति निर्णय टालें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and resolve ongoing disputes calmly.",
+        "Reassess financial choices made during this period.",
+        "Gradually ease travel and communication plans."
+      ],
+      "hi": [
+        "चालू झगड़ों को शांति से सुलझाएं।",
+        "इस अवधि में किए गए वित्तीय विकल्पों की पुनः समीक्षा करें।",
+        "यात्रा और संवाद योजनाओं को धीरे-धीरे आसान बनाएं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "arguments",
+      "aggression",
+      "disputes",
+      "financial mistakes",
+      "travel obstacles",
+      "communication issues",
+      "sibling conflicts"
+    ],
+    "hi": [
+      "बहस",
+      "आक्रोश",
+      "टकराव",
+      "वित्तीय गलतियाँ",
+      "यात्रा में अड़चनें",
+      "संवाद की समस्याएँ",
+      "भाई-बहनों के झगड़े"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "conflict-prone",
+      "cautious",
+      "stressful"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "टकरावपूर्ण",
+      "सावधानीपूर्ण",
+      "तनावपूर्ण"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Mercury": 0.85,
+      "Mars": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "communication challenges",
+      "conflict and resolution",
+      "financial caution",
+      "travel disruptions"
+    ],
+    "hi": [
+      "संवाद की चुनौतियाँ",
+      "टकराव और समाधान",
+      "वित्तीय सावधानी",
+      "यात्रा में बाधाएँ"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "mer-opp-mar",
+      "core": "This period may bring arguments, aggression, and disputes, causing challenges in communication and decisions.",
+      "tone": "Neutral, cautious, and informative"
+    },
+    "hi": {
+      "title": "बुध का मंगल से विरोध",
+      "core": "यह समय बहस, आक्रोश और टकराव की स्थिति ला सकता है, जिससे संवाद और निर्णयों में कठिनाई हो सकती है।",
+      "tone": "निष्पक्ष, सावधान और सूचनात्मक"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "This period may bring arguments, aggression, and disputes, causing challenges in communication and decisions.",
+        "hi": "यह समय बहस, आक्रोश और टकराव की स्थिति ला सकता है, जिससे संवाद और निर्णयों में कठिनाई हो सकती है।"
+      },
+      "career": {
+        "en": "Work may involve conflicts or aggressive interactions; communication obstacles can affect progress.",
+        "hi": "काम में टकराव या आक्रामक बातचीत हो सकती है; संवाद में अड़चनें प्रगति को प्रभावित कर सकती हैं।"
+      },
+      "relationships": {
+        "en": "Potential disputes and conflicts with siblings or close relations may arise.",
+        "hi": "भाई-बहनों या करीबी संबंधों में झगड़े और टकराव हो सकते हैं।"
+      },
+      "money": {
+        "en": "Financial or property-related decisions may be prone to mistakes or misjudgments.",
+        "hi": "वित्तीय या संपत्ति से जुड़े निर्णय गलत हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Communication and travel difficulties may cause stress or frustration.",
+        "hi": "संवाद और यात्रा में अड़चनें तनाव या निराशा ला सकती हैं।"
+      }
+    },
+    "aliases": [
+      "Mercury opposition Mars",
+      "Mer OPP Mar",
+      "Mercury-Opposition-Mars",
+      "Mercury Opposition to Mars"
+    ]
+  }
+}

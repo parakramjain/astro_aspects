@@ -1,0 +1,241 @@
+{
+  "id": "NEP_TRI_SUN__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Trine",
+    "Sun"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Creative imagination flourishes, linking depression with insight and fostering interest in spiritual and occult knowledge. Telepathic and future-planning abilities may develop, along with desirable emotional experiences and stronger attachments to offspring. Opportunities arise in related business and learning from spiritual teachers.",
+    "hi": "रचनात्मक कल्पना का विकास होता है, अवसाद और अंतर्दृष्टि के बीच सम्बन्ध बनता है, जिससे धार्मिक और गूढ़ ज्ञान में रुचि बढ़ती है। टेलीपैथी और भविष्य योजना की क्षमता प्राप्त होती है, साथ ही वांछनीय प्रेम और बच्चों के प्रति भावनात्मक लगाव बढ़ता है। संबंधित व्यवसाय और आध्यात्मिक शिक्षकों से ज्ञान प्राप्ति के अवसर मिलते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Favorable time for business with hospitals, religious, cultural, and aid organizations; opportunities to gain knowledge from spiritual or religious teachers.",
+      "hi": "अस्पताल, धार्मिक, सांस्कृतिक और सहायता संस्थाओं के साथ व्यवसाय के लिए उचित समय; आध्यात्मिक या धार्मिक शिक्षकों से ज्ञान प्राप्ति के अवसर।"
+    },
+    "relationships": {
+      "en": "Desirable love and feelings enter life; increased emotional attachment to children or offspring.",
+      "hi": "व्यक्ति के जीवन में वांछनीय प्रेम और भावना का प्रवेश; बच्चों या संतान के प्रति भावनात्मक लगाव बढ़ता है।"
+    },
+    "money": {
+      "en": "Good period for business related to hospitals, religious, cultural, and aid institutions.",
+      "hi": "अस्पताल, धार्मिक, सांस्कृतिक और सहायता संस्थाओं से संबंधित व्यवसाय के लिए अच्छा समय।"
+    },
+    "health_adj": {
+      "en": "Connection between depression and insight may be present; attention to emotional and mental well-being is implied.",
+      "hi": "अवसाद और अंतर्दृष्टि के बीच सम्बन्ध हो सकता है; भावनात्मक और मानसिक स्वास्थ्य पर ध्यान देना उचित होगा।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual or religious learning",
+      "Emotional developments in love and family",
+      "Business opportunities in cultural and aid sectors"
+    ],
+    "hi": [
+      "आध्यात्मिक या धार्मिक अध्ययन",
+      "प्रेम और परिवार में भावनात्मक विकास",
+      "सांस्कृतिक और सहायता क्षेत्र में व्यवसाय के अवसर"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential emotional sensitivity linked to depression and insight",
+      "Uncertainty in telepathic or future-planning abilities"
+    ],
+    "hi": [
+      "अवसाद और अंतर्दृष्टि से जुड़ी भावनात्मक संवेदनशीलता",
+      "टेलीपैथी या भविष्य योजना क्षमताओं में अनिश्चितता"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Explore creative and spiritual studies",
+        "Engage in emotional bonding with children",
+        "Pursue business with hospitals and aid organizations"
+      ],
+      "hi": [
+        "रचनात्मक और आध्यात्मिक अध्ययन करें",
+        "बच्चों के साथ भावनात्मक लगाव बढ़ाएं",
+        "अस्पताल और सहायता संस्थाओं के साथ व्यवसाय करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on developing telepathic or future-planning skills",
+        "Seek knowledge from spiritual or religious teachers"
+      ],
+      "hi": [
+        "टेलीपैथी या भविष्य योजना कौशल विकसित करें",
+        "आध्यात्मिक या धार्मिक शिक्षकों से ज्ञान प्राप्त करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Be mindful of emotional fluctuations related to depression",
+        "Avoid overdependence on intuitive insights without grounding"
+      ],
+      "hi": [
+        "अवसाद से जुड़ी भावनात्मक उतार-चढ़ाव से सावधान रहें",
+        "बिना आधार के अंतर्ज्ञान पर अधिक निर्भरता से बचें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "creative imagination",
+      "depression-insight link",
+      "spiritual knowledge",
+      "telepathy",
+      "love",
+      "emotional attachment",
+      "business opportunities"
+    ],
+    "hi": [
+      "रचनात्मक कल्पना",
+      "अवसाद-अंतर्दृष्टि सम्बन्ध",
+      "आध्यात्मिक ज्ञान",
+      "टेलीपैथी",
+      "प्रेम",
+      "भावनात्मक लगाव",
+      "व्यवसाय के अवसर"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "spiritual",
+      "emotional",
+      "insightful",
+      "opportunistic"
+    ],
+    "hi": [
+      "रचनात्मक",
+      "आध्यात्मिक",
+      "भावनात्मक",
+      "अंतर्दृष्टिपूर्ण",
+      "अवसरवादी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Sun": 1.0
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "emotional connection",
+      "creative insight",
+      "business with aid institutions"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "भावनात्मक संबंध",
+      "रचनात्मक अंतर्दृष्टि",
+      "सहायता संस्थाओं के साथ व्यवसाय"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-15"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-tri-sun",
+      "core": "Creative imagination peaks with spiritual insight and emotional growth, fostering learning and business opportunities.",
+      "tone": "Warm, insightful, encouraging"
+    },
+    "hi": {
+      "title": "नेपच्यून त्रिकोण सूर्य",
+      "core": "रचनात्मक कल्पना और आध्यात्मिक अंतर्दृष्टि के साथ भावनात्मक विकास, अध्ययन और व्यवसाय के अवसर प्रदान करता है।",
+      "tone": "सहानुभूतिपूर्ण, अंतर्दृष्टिपूर्ण, प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Creative imagination develops/peaks. Connection between depression and insight leads to increased interest in spiritual and occult knowledge. Telepathy and future-planning abilities acquired. Desirable love and emotional attachment to children increase. Good time for business with hospitals and religious institutions. Knowledge gained from spiritual teachers.",
+        "hi": "रचनात्मक परिकल्पनाओं का विकास/उत्कर्ष होता है। अवसाद से अंतर्दृष्टि का सम्बन्ध बनता है, धार्मिक/आध्यात्मिक/तत्वज्ञान/गूढ़ ज्ञान विषयों में रुचि बढ़ती है। टेलीपैथी और भविष्य ज्ञान योजना की क्षमता प्राप्त होती है। वांछनीय प्रेम और बच्चों के प्रति भावनात्मक लगाव बढ़ता है। अस्पताल/धार्मिक/सांस्कृतिक/सहायता संस्थाओं से व्यवसाय करने का उचित समय। आध्यात्मिक शिक्षक से ज्ञान प्राप्त होगा।"
+      },
+      "career": {
+        "en": "Good time for business with hospitals, religious, cultural, and aid organizations. Opportunities to learn from spiritual or religious teachers.",
+        "hi": "अस्पताल, धार्मिक, सांस्कृतिक और सहायता संस्थाओं के साथ व्यवसाय के लिए उचित समय। आध्यात्मिक या धार्मिक शिक्षकों से ज्ञान प्राप्ति के अवसर।"
+      },
+      "relationships": {
+        "en": "Desirable love and feelings enter life. Emotional attachment to children or offspring increases.",
+        "hi": "व्यक्ति के जीवन में वांछनीय प्रेम और भावना का प्रवेश होता है। बच्चे/संतान के प्रति भावनात्मक लगाव बढ़ता है।"
+      },
+      "money": {
+        "en": "Good period for business related to hospitals, religious, cultural, and aid institutions.",
+        "hi": "अस्पताल, धार्मिक, सांस्कृतिक और सहायता संस्थाओं से संबंधित व्यवसाय के लिए अच्छा समय।"
+      },
+      "health_adj": {
+        "en": "Connection between depression and insight may be present; attention to emotional and mental well-being is implied.",
+        "hi": "अवसाद और अंतर्दृष्टि के बीच सम्बन्ध हो सकता है; भावनात्मक और मानसिक स्वास्थ्य पर ध्यान देना उचित होगा।"
+      }
+    },
+    "aliases": [
+      "Neptune trine Sun",
+      "Nep TRI Sun",
+      "Neptune-Trine-Sun",
+      "Neptune Trine to Sun"
+    ]
+  }
+}

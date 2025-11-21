@@ -1,0 +1,241 @@
+{
+  "id": "MOO_TRI_MER__v1.0.0",
+  "pair": [
+    "Moon",
+    "Trine",
+    "Mercury"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "A favorable time for reconnecting with loved ones through communication, focusing on health and mindset, and engaging in smooth tasks involving food, medicine, or learning.",
+    "hi": "यह समय परिवार या प्रियजनों से संवाद के जरिए जुड़ने, सेहत और सोच पर ध्यान देने, और खाने-पीने, दवाइयों या पढ़ाई से जुड़े कामों में सहजता का होता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Smooth progress in tasks related to communication, learning, and helping others.",
+      "hi": "संचार, पढ़ाई और दूसरों की मदद से जुड़े कार्यों में सहज प्रगति।"
+    },
+    "relationships": {
+      "en": "Reconnecting with family or partner through calls or conversations; pleasant interactions especially with women.",
+      "hi": "फोन या बातचीत के जरिए परिवार या साथी से जुड़ना; महिलाओं के साथ सुखद संवाद।"
+    },
+    "money": {
+      "en": "Tasks involving food, medicine, or communication proceed easily, indicating smooth handling of related financial matters.",
+      "hi": "खाने-पीने, दवाइयों या संचार से जुड़े कार्य आसानी से होते हैं, जिससे संबंधित वित्तीय मामलों में सहजता।"
+    },
+    "health_adj": {
+      "en": "Focus on improving health and mindset; favorable for health-related activities.",
+      "hi": "सेहत और सोच सुधारने पर ध्यान; स्वास्थ्य संबंधी गतिविधियों के लिए अनुकूल।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Reconnection with family or partner",
+      "Pleasant social interactions",
+      "Health and mindset improvement",
+      "Learning and communication activities"
+    ],
+    "hi": [
+      "परिवार या साथी से पुनः जुड़ाव",
+      "सुखद सामाजिक संवाद",
+      "सेहत और सोच में सुधार",
+      "पढ़ाई और संचार संबंधी गतिविधियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in conversations with family or partner",
+        "Focus on health and mental well-being",
+        "Pursue learning and communication tasks"
+      ],
+      "hi": [
+        "परिवार या साथी से बातचीत करें",
+        "सेहत और मानसिक स्थिति पर ध्यान दें",
+        "पढ़ाई और संचार के कार्य करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Make calls or have meaningful conversations",
+        "Work on tasks related to food, medicine, or communication",
+        "Help others through speaking or teaching"
+      ],
+      "hi": [
+        "फोन करें या सार्थक बातचीत करें",
+        "खाने, दवाइयों या संचार से जुड़े काम करें",
+        "बोलकर या सिखाकर दूसरों की मदद करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain positive communication habits",
+        "Continue health and mindset improvements",
+        "Sustain learning and social support activities"
+      ],
+      "hi": [
+        "सकारात्मक संवाद की आदतें बनाए रखें",
+        "सेहत और सोच सुधार जारी रखें",
+        "पढ़ाई और सामाजिक सहायता जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "communication",
+      "family",
+      "partner",
+      "health",
+      "mindset",
+      "learning",
+      "helping",
+      "pleasant talks"
+    ],
+    "hi": [
+      "संचार",
+      "परिवार",
+      "साथी",
+      "सेहत",
+      "सोच",
+      "पढ़ाई",
+      "मदद",
+      "मीठी बातें"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "smooth",
+      "pleasant",
+      "supportive"
+    ],
+    "hi": [
+      "अनुकूल",
+      "सहज",
+      "सुखद",
+      "सहायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Moon": 0.9,
+      "Mercury": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "reconnection",
+      "health focus",
+      "communication",
+      "learning"
+    ],
+    "hi": [
+      "पुनः जुड़ाव",
+      "स्वास्थ्य पर ध्यान",
+      "संचार",
+      "पढ़ाई"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "moo-tri-mer",
+      "core": "A time for reconnecting with loved ones, focusing on health, and smooth communication and learning.",
+      "tone": "Warm, encouraging, and supportive."
+    },
+    "hi": {
+      "title": "चंद्र त्रिकोण बुध",
+      "core": "प्रियजनों से जुड़ने, स्वास्थ्य पर ध्यान देने, और सहज संचार व पढ़ाई का समय।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और सहायक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "A favorable time for reconnecting with loved ones through communication, focusing on health and mindset, and engaging in smooth tasks involving food, medicine, or learning.",
+        "hi": "यह समय परिवार या प्रियजनों से संवाद के जरिए जुड़ने, सेहत और सोच पर ध्यान देने, और खाने-पीने, दवाइयों या पढ़ाई से जुड़े कामों में सहजता का होता है।"
+      },
+      "career": {
+        "en": "Smooth progress in tasks related to communication, learning, and helping others.",
+        "hi": "संचार, पढ़ाई और दूसरों की मदद से जुड़े कार्यों में सहज प्रगति।"
+      },
+      "relationships": {
+        "en": "Reconnecting with family or partner through calls or conversations; pleasant interactions especially with women.",
+        "hi": "फोन या बातचीत के जरिए परिवार या साथी से जुड़ना; महिलाओं के साथ सुखद संवाद।"
+      },
+      "money": {
+        "en": "Tasks involving food, medicine, or communication proceed easily, indicating smooth handling of related financial matters.",
+        "hi": "खाने-पीने, दवाइयों या संचार से जुड़े कार्य आसानी से होते हैं, जिससे संबंधित वित्तीय मामलों में सहजता।"
+      },
+      "health_adj": {
+        "en": "Focus on improving health and mindset; favorable for health-related activities.",
+        "hi": "सेहत और सोच सुधारने पर ध्यान; स्वास्थ्य संबंधी गतिविधियों के लिए अनुकूल।"
+      }
+    },
+    "aliases": [
+      "Moon trine Mercury",
+      "Moo TRI Mer",
+      "Moon-Trine-Mercury",
+      "Moon Trine to Mercury"
+    ]
+  }
+}

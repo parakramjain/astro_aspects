@@ -1,0 +1,245 @@
+{
+  "id": "NEP_OPP_JUP__v1.0.0",
+  "pair": [
+    "Neptune",
+    "Opposition",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Unrealistic spiritual fantasies and false sympathies cause instability and lack of discipline, leading to artificial behavior and wrong paths.",
+    "hi": "अवास्तविक आध्यात्मिक कल्पनाएँ और झूठी सहानुभूति से अस्थिरता और अनुशासन की कमी होती है, जिससे व्यक्ति कृत्रिम व्यवहार करता है और गलत राहों पर बढ़ता है।"
+  },
+  "facets": {
+    "career": {
+      "en": "Lacks discipline and may pursue artificial or misguided career directions; avoid volatile ventures.",
+      "hi": "अनुशासन की कमी के कारण कृत्रिम या गलत करियर दिशा अपनाने की संभावना; उतार-चढ़ाव वाले कार्यों से बचें।"
+    },
+    "relationships": {
+      "en": "Prone to false sympathy and delusion by fake praise, leading to unstable emotional connections.",
+      "hi": "झूठी सहानुभूति और झूठी प्रशंसा के भ्रम में फंसने से भावनात्मक संबंध अस्थिर होते हैं।"
+    },
+    "money": {
+      "en": "Avoid gambling and useless spending to prevent financial instability.",
+      "hi": "जुआ और व्यर्थ खर्च से बचें ताकि आर्थिक अस्थिरता न हो।"
+    },
+    "health_adj": {
+      "en": "Experiences self-doubt and instability; maintain mental balance and avoid risky activities.",
+      "hi": "आत्मविश्वास की कमी और अस्थिरता का अनुभव; मानसिक संतुलन बनाए रखें और जोखिम भरे कार्यों से बचें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Periods of self-doubt",
+      "Encounters with false praise or sympathy",
+      "Challenges in maintaining discipline"
+    ],
+    "hi": [
+      "आत्म-संदेह के समय",
+      "झूठी प्रशंसा या सहानुभूति का सामना",
+      "अनुशासन बनाए रखने में चुनौतियाँ"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Falling victim to false sympathy or deceit",
+      "Engaging in gambling or wasteful spending",
+      "Pursuing unstable or artificial paths"
+    ],
+    "hi": [
+      "झूठी सहानुभूति या धोखे का शिकार होना",
+      "जुआ या व्यर्थ खर्च में लिप्त होना",
+      "अस्थिर या कृत्रिम राहों पर चलना"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious of false praise and sympathy",
+        "Avoid gambling and unnecessary expenses",
+        "Maintain discipline in daily routines"
+      ],
+      "hi": [
+        "झूठी प्रशंसा और सहानुभूति से सावधान रहें",
+        "जुआ और अनावश्यक खर्च से बचें",
+        "दैनिक जीवन में अनुशासन बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Steer clear of volatile ventures",
+        "Recognize and resist artificial influences",
+        "Focus on grounding and stability"
+      ],
+      "hi": [
+        "उतार-चढ़ाव वाले कार्यों से बचें",
+        "कृत्रिम प्रभावों को पहचानें और उनसे बचें",
+        "स्थिरता और जमीनी स्तर पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons about self-doubt",
+        "Reassess spending habits",
+        "Strengthen personal discipline"
+      ],
+      "hi": [
+        "आत्म-संदेह के सबक पर विचार करें",
+        "खर्च की आदतों का पुनर्मूल्यांकन करें",
+        "व्यक्तिगत अनुशासन को मजबूत करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "unrealistic fantasies",
+      "false sympathy",
+      "lack of discipline",
+      "artificial behavior",
+      "self-doubt",
+      "instability",
+      "avoid gambling"
+    ],
+    "hi": [
+      "अवास्तविक कल्पनाएँ",
+      "झूठी सहानुभूति",
+      "अनुशासन की कमी",
+      "कृत्रिम व्यवहार",
+      "आत्म-संदेह",
+      "अस्थिरता",
+      "जुआ से बचें"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "caution",
+      "instability",
+      "deception",
+      "lack of discipline"
+    ],
+    "hi": [
+      "सावधानी",
+      "अस्थिरता",
+      "धोखा",
+      "अनुशासन की कमी"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Neptune": 0.8,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "spiritual delusion",
+      "emotional vulnerability",
+      "financial caution",
+      "personal discipline"
+    ],
+    "hi": [
+      "आध्यात्मिक भ्रम",
+      "भावनात्मक अस्थिरता",
+      "आर्थिक सतर्कता",
+      "व्यक्तिगत अनुशासन"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "nep-opp-jup",
+      "core": "Unrealistic fantasies and false sympathies cause instability and lack of discipline, leading to artificial behavior and wrong paths.",
+      "tone": "Warm, neutral, and cautious"
+    },
+    "hi": {
+      "title": "नेपच्यून विपक्ष बृहस्पति",
+      "core": "अवास्तविक कल्पनाएँ और झूठी सहानुभूति से अस्थिरता और अनुशासन की कमी होती है, जिससे कृत्रिम व्यवहार और गलत राहें बनती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Unrealistic religious/spiritual fantasies prevail. Falls victim to false sympathy - seeks pity through lies. Deluded by fake praise. Life lacks discipline. Avoid gambling/useless spending - person becomes overly artificial, sometimes pursuing wrong paths. Experiences self-doubt and instability. Steer clear of volatile ventures now.",
+        "hi": "अवास्तविक/धार्मिक/आध्यात्मिक कल्पनाएँ रहती हैं। व्यक्ति झूठी सहानुभूति का शिकार बनता है तथा झूठ से सहानुभूति प्राप्ति के प्रयास करता है। झूठी प्रशंसा के भ्रम में लिप्त रहता है। जीवन में अनुशासन की कमी उत्पन्न होती है। जुआ प्रवृत्ति से बचें/व्यर्थ खर्च से बचें/व्यक्ति अत्यधिक कृत्रिम हो जाता है तथा कभी-कभी गलत प्रवृत्तियों की ओर बढ़ता है। आत्मविश्वास की कमी अनुभव करता है तथा अस्थिर रहता है। इस समय में उतार-चढ़ाव वाले कार्यों से बचें।"
+      },
+      "career": {
+        "en": "Life lacks discipline and may lead to artificial or wrong career paths; avoid volatile ventures.",
+        "hi": "जीवन में अनुशासन की कमी होती है और व्यक्ति कृत्रिम या गलत करियर दिशा अपना सकता है; उतार-चढ़ाव वाले कार्यों से बचें।"
+      },
+      "relationships": {
+        "en": "Falls victim to false sympathy and fake praise, causing emotional instability.",
+        "hi": "व्यक्ति झूठी सहानुभूति और झूठी प्रशंसा के भ्रम में फंसता है, जिससे भावनात्मक अस्थिरता होती है।"
+      },
+      "money": {
+        "en": "Avoid gambling and useless spending to prevent financial instability.",
+        "hi": "जुआ और व्यर्थ खर्च से बचें ताकि आर्थिक अस्थिरता न हो।"
+      },
+      "health_adj": {
+        "en": "Experiences self-doubt and instability; avoid volatile ventures and maintain mental balance.",
+        "hi": "आत्मविश्वास की कमी और अस्थिरता का अनुभव करता है; उतार-चढ़ाव वाले कार्यों से बचें और मानसिक संतुलन बनाए रखें।"
+      }
+    },
+    "aliases": [
+      "Neptune opposition Jupiter",
+      "Nep OPP Jup",
+      "Neptune-Opposition-Jupiter",
+      "Neptune Opposition to Jupiter"
+    ]
+  }
+}

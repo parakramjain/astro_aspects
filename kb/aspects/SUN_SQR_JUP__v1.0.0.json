@@ -1,0 +1,152 @@
+{
+  "id": "SUN_SQR_JUP__v1.0.0",
+  "pair": [
+    "Sun",
+    "Square",
+    "Jupiter"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": "Square between Sun and Jupiter drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: growth via friction; endurance and clear boundaries are key.",
+  "facets": {
+    "career": "Authority, recognition, leadership, alignment with purpose.  Mentorship, promotions, strategic expansion. Emphasis: friction/work.",
+    "relationships": "Self-respect, healthy boundaries, paternal figures.  Goodwill, generosity, shared purpose. Emphasis: friction/work.",
+    "money": "Status-linked income, government/authority-linked gains.  Scaling revenue, windfalls, ethical growth. Emphasis: friction/work.",
+    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Liver, metabolic balance; avoid excess. Emphasis: friction/work."
+  },
+  "life_event_type": [],
+  "risk_notes": [
+    "Friction escalating into conflict; respect pacing and boundaries.",
+    "Overpromising; align scale with capacity."
+  ],
+  "actionables": {
+    "applying": [
+      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work).",
+      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work)."
+    ],
+    "exact": [
+      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work).",
+      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work)."
+    ],
+    "separating": [
+      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work).",
+      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work)."
+    ]
+  },
+  "keywords": [
+    "abundance",
+    "authority",
+    "ego",
+    "faith",
+    "friction",
+    "growth",
+    "identity",
+    "law",
+    "mentor",
+    "purpose",
+    "square",
+    "visibility",
+    "vitality",
+    "wisdom",
+    "work"
+  ],
+  "quality_tags": [
+    "major",
+    "challenging",
+    "discipline-required"
+  ],
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Jupiter": 0.95
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": [
+    "Career Advancement",
+    "",
+    "Wealth & Pricing",
+    "Health & Routine"
+  ],
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-08"
+  },
+  "locales": {
+    "en": {
+      "title": "Sun Square Jupiter",
+      "core": "Square between Sun and Jupiter drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: growth via friction; endurance and clear boundaries are key.",
+      "tone": "warm"
+    },
+    "hi": {
+      "title": "Sun Square Jupiter (हिन्दी)",
+      "core": "Sun और Jupiter का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
+      "tone": "सरल"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": "Square between Sun and Jupiter drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: growth via friction; endurance and clear boundaries are key.",
+      "career": "Authority, recognition, leadership, alignment with purpose.  Mentorship, promotions, strategic expansion. Emphasis: friction/work.",
+      "relationships": "Self-respect, healthy boundaries, paternal figures.  Goodwill, generosity, shared purpose. Emphasis: friction/work.",
+      "money": "Status-linked income, government/authority-linked gains.  Scaling revenue, windfalls, ethical growth. Emphasis: friction/work.",
+      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Liver, metabolic balance; avoid excess. Emphasis: friction/work."
+    },
+    "aliases": [
+      "Sun square Jupiter",
+      "Sun SQR Jup",
+      "Sun-Square-Jupiter",
+      "Sun Square to Jupiter"
+    ]
+  }
+}

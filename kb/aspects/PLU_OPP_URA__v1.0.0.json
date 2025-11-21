@@ -1,0 +1,251 @@
+{
+  "id": "PLU_OPP_URA__v1.0.0",
+  "pair": [
+    "Pluto",
+    "Opposition",
+    "Uranus"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Life demands radical transformation and revolutionary impulses increase, causing natural disruptions and crises in personal and social spheres.",
+    "hi": "जीवन में मौलिक परिवर्तन आवश्यक होते हैं और क्रांतिकारी भावनाएँ बढ़ती हैं, जिससे व्यक्तिगत और सामाजिक क्षेत्रों में प्राकृतिक अड़चनें और संकट उत्पन्न होते हैं।"
+  },
+  "facets": {
+    "career": {
+      "en": "Power struggles and conflicts in partnerships and institutional dealings may arise, causing instability in professional collaborations.",
+      "hi": "व्यावसायिक भागीदारी और संस्थागत व्यवहार में अधिकारों का द्वंद्व और संघर्ष हो सकता है, जिससे पेशेवर सहयोग में अस्थिरता आती है।"
+    },
+    "relationships": {
+      "en": "Joining new social groups while maintaining old ties; close associates may face crises, separation, or death.",
+      "hi": "पुराने संबंध बनाए रखते हुए नए मित्र समूह से जुड़ना; निकटतम सहयोगी या रिश्तेदारों के जीवन में संकट, अलगाव या मृत्यु की संभावना।"
+    },
+    "money": {
+      "en": "Problems may occur in joint investments, taxes, insurance, or shared business ventures.",
+      "hi": "संयुक्त निवेश, कर, बीमा या साझा व्यवसाय में समस्याएँ उत्पन्न हो सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Increased psychological risks and emotional instability due to crises and disruptions.",
+      "hi": "संकटों और उथल-पुथल के कारण मनोवैज्ञानिक जोखिम और भावनात्मक अस्थिरता बढ़ती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Radical life changes",
+      "Political or social turmoil",
+      "Crisis involving close associates",
+      "Power struggles"
+    ],
+    "hi": [
+      "मौलिक जीवन परिवर्तन",
+      "राजनीतिक या सामाजिक उथल-पुथल",
+      "निकटतम सहयोगियों के जीवन में संकट",
+      "अधिकारों का द्वंद्व"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "Potential for crises and disruptions in routine life",
+      "Threats from war, political, or cultural turmoil",
+      "Possibility of death or separation of close associates",
+      "Increased psychological stress"
+    ],
+    "hi": [
+      "नियमित जीवन में संकट और अड़चन की संभावना",
+      "युद्ध, राजनीतिक या सांस्कृतिक उथल-पुथल से खतरा",
+      "निकटतम सहयोगियों के मृत्यु या अलगाव की संभावना",
+      "मनोवैज्ञानिक तनाव में वृद्धि"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Prepare for and adapt to necessary radical changes",
+        "Stay aware of social and political disruptions",
+        "Maintain balance between old and new relationships"
+      ],
+      "hi": [
+        "आवश्यक मौलिक परिवर्तनों के लिए तैयार रहें और अनुकूलित करें",
+        "सामाजिक और राजनीतिक उथल-पुथल से सतर्क रहें",
+        "पुराने और नए संबंधों के बीच संतुलन बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise caution in partnerships and joint ventures",
+        "Monitor psychological well-being closely",
+        "Avoid impulsive decisions during crises"
+      ],
+      "hi": [
+        "भागीदारी और संयुक्त व्यवसाय में सावधानी बरतें",
+        "मनोवैज्ञानिक स्थिति पर ध्यान रखें",
+        "संकट के दौरान आवेगी निर्णय लेने से बचें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons from recent disruptions",
+        "Reassess power dynamics in relationships",
+        "Focus on psychological recovery and stability"
+      ],
+      "hi": [
+        "हाल की अड़चनों से सीख पर विचार करें",
+        "संबंधों में अधिकारों के संतुलन का पुनर्मूल्यांकन करें",
+        "मनोवैज्ञानिक पुनर्प्राप्ति और स्थिरता पर ध्यान दें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "radical change",
+      "revolutionary impulses",
+      "disruption",
+      "crisis",
+      "power struggle",
+      "psychological risk",
+      "political turmoil",
+      "partnership conflict"
+    ],
+    "hi": [
+      "मौलिक परिवर्तन",
+      "क्रांतिकारी भावना",
+      "अड़चन",
+      "संकट",
+      "अधिकारों का द्वंद्व",
+      "मनोवैज्ञानिक जोखिम",
+      "राजनीतिक उथल-पुथल",
+      "भागीदारी संघर्ष"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "transformative",
+      "challenging",
+      "disruptive",
+      "intense"
+    ],
+    "hi": [
+      "परिवर्तनकारी",
+      "चुनौतीपूर्ण",
+      "उथल-पुथल करने वाला",
+      "तीव्र"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 3,
+    "planet_weight": {
+      "Pluto": 0.8,
+      "Uranus": 0.8
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "revolution",
+      "crisis management",
+      "power dynamics",
+      "psychological resilience"
+    ],
+    "hi": [
+      "क्रांति",
+      "संकट प्रबंधन",
+      "अधिकार संतुलन",
+      "मनोवैज्ञानिक सहनशीलता"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "plu-opp-ura",
+      "core": "This aspect signals a need for radical life changes and increased revolutionary impulses, often accompanied by disruptions and crises affecting personal and social stability.",
+      "tone": "Warm, neutral, and cautiously insightful."
+    },
+    "hi": {
+      "title": "प्लूटो विपक्ष यूरेनस",
+      "core": "यह योग जीवन में मौलिक परिवर्तन और बढ़ती क्रांतिकारी भावनाओं का संकेत देता है, जो व्यक्तिगत और सामाजिक स्थिरता में अड़चन और संकट लाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्वक सूचनात्मक।"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Life demands radical transformation and revolutionary impulses increase, causing natural disruptions and crises in personal and social spheres.",
+        "hi": "जीवन में मौलिक परिवर्तन आवश्यक होते हैं और क्रांतिकारी भावनाएँ बढ़ती हैं, जिससे व्यक्तिगत और सामाजिक क्षेत्रों में प्राकृतिक अड़चनें और संकट उत्पन्न होते हैं।"
+      },
+      "career": {
+        "en": "Power struggles and conflicts in partnerships and institutional dealings may arise, causing instability in professional collaborations.",
+        "hi": "व्यावसायिक भागीदारी और संस्थागत व्यवहार में अधिकारों का द्वंद्व और संघर्ष हो सकता है, जिससे पेशेवर सहयोग में अस्थिरता आती है।"
+      },
+      "relationships": {
+        "en": "Joining new social groups while maintaining old ties; close associates may face crises, separation, or death.",
+        "hi": "पुराने संबंध बनाए रखते हुए नए मित्र समूह से जुड़ना; निकटतम सहयोगी या रिश्तेदारों के जीवन में संकट, अलगाव या मृत्यु की संभावना।"
+      },
+      "money": {
+        "en": "Problems may occur in joint investments, taxes, insurance, or shared business ventures.",
+        "hi": "संयुक्त निवेश, कर, बीमा या साझा व्यवसाय में समस्याएँ उत्पन्न हो सकती हैं।"
+      },
+      "health_adj": {
+        "en": "Increased psychological risks and emotional instability due to crises and disruptions.",
+        "hi": "संकटों और उथल-पुथल के कारण मनोवैज्ञानिक जोखिम और भावनात्मक अस्थिरता बढ़ती है।"
+      }
+    },
+    "aliases": [
+      "Pluto opposition Uranus",
+      "Plu OPP Ura",
+      "Pluto-Opposition-Uranus",
+      "Pluto Opposition to Uranus"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "id": "SUN_TRI_SAT__v1.0.0",
+  "pair": [
+    "Sun",
+    "Trine",
+    "Saturn"
+  ],
+  "applies_to": [
+    "natal",
+    "transit",
+    "progressed"
+  ],
+  "core_meaning": {
+    "en": "Increased personal responsibility and steady progress in career and relationships, with opportunities for guidance and success in long-term plans.",
+    "hi": "व्यक्तिगत जिम्मेदारी में वृद्धि और करियर तथा संबंधों में स्थिर प्रगति, मार्गदर्शन और दीर्घकालीन योजनाओं में सफलता के अवसर।"
+  },
+  "facets": {
+    "career": {
+      "en": "Creative ambition in business, steady progress in political, business, or high authority roles, suitable for legal and administrative work.",
+      "hi": "व्यवसाय में रचनात्मक महत्त्वाकांक्षा, राजनीतिक, व्यावसायिक या उच्च पदों पर स्थिर प्रगति, कानूनी और शासकीय कार्यों के लिए उपयुक्त।"
+    },
+    "relationships": {
+      "en": "Renewal and improvement of old social and romantic relationships, increased awareness of responsibilities towards children.",
+      "hi": "पुराने सामाजिक और रोमांटिक संबंधों का नवीनीकरण और सुधार, संतान के प्रति जिम्मेदारियों की सजगता।"
+    },
+    "money": {
+      "en": "Opportunities to receive guidance and benefits from special individuals or elders, aiding success in long-term financial or business plans.",
+      "hi": "विशेष व्यक्ति या बुजुर्गों से मार्गदर्शन और लाभ प्राप्ति के अवसर, दीर्घकालीन वित्तीय या व्यावसायिक योजनाओं में सफलता में सहायता।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus is on responsibility and steady progress.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन नहीं; ध्यान जिम्मेदारी और स्थिर प्रगति पर है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Career advancement",
+      "Relationship renewal",
+      "Receiving guidance",
+      "Completion of long-term plans"
+    ],
+    "hi": [
+      "करियर उन्नति",
+      "संबंधों का नवीनीकरण",
+      "मार्गदर्शन प्राप्ति",
+      "दीर्घकालीन योजनाओं की पूर्ति"
+    ]
+  },
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balanced responsibility."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; संतुलित जिम्मेदारी बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek guidance from elders or experienced individuals.",
+        "Focus on organizing and managing situations effectively."
+      ],
+      "hi": [
+        "बुजुर्गों या अनुभवी व्यक्तियों से मार्गदर्शन लें।",
+        "स्थितियों को सुव्यवस्थित और प्रबंधित करने पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage in legal or administrative tasks.",
+        "Work steadily on long-term projects."
+      ],
+      "hi": [
+        "कानूनी या शासकीय कार्यों में संलग्न हों।",
+        "दीर्घकालीन परियोजनाओं पर स्थिरता से कार्य करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain responsibility towards children and close relationships.",
+        "Continue to nurture renewed social and romantic bonds."
+      ],
+      "hi": [
+        "संतान और निकट संबंधों के प्रति जिम्मेदारी बनाए रखें।",
+        "नवीनीकृत सामाजिक और रोमांटिक संबंधों को पोषित करते रहें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "personal responsibility",
+      "creative ambition",
+      "relationship renewal",
+      "guidance",
+      "long-term success",
+      "steady progress",
+      "legal work",
+      "management"
+    ],
+    "hi": [
+      "व्यक्तिगत जिम्मेदारी",
+      "रचनात्मक महत्त्वाकांक्षा",
+      "संबंधों का नवीनीकरण",
+      "मार्गदर्शन",
+      "दीर्घकालीन सफलता",
+      "स्थिर प्रगति",
+      "कानूनी कार्य",
+      "प्रबंधन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "stable",
+      "responsible",
+      "progressive",
+      "organized",
+      "supportive"
+    ],
+    "hi": [
+      "स्थिर",
+      "जिम्मेदार",
+      "प्रगतिशील",
+      "संगठित",
+      "सहायक"
+    ]
+  },
+  "weights_hint": {
+    "default_orb_deg": 6,
+    "planet_weight": {
+      "Sun": 1.0,
+      "Saturn": 0.85
+    },
+    "class_weight": {
+      "benefic": 1.0,
+      "challenging": 0.8,
+      "mixed": 0.9
+    }
+  },
+  "modifiers": {
+    "dignity_adjustment": {
+      "notes": "Optional: adjust weights by sign/hse dignity e.g., exalt/debilitation.",
+      "rules_hint": {
+        "Sun": {
+          "exalt": "Aries",
+          "detriment": "Aquarius",
+          "debilitation": "Libra"
+        },
+        "Moon": {
+          "exalt": "Taurus",
+          "debilitation": "Scorpio"
+        },
+        "Mars": {
+          "exalt": "Capricorn",
+          "detriment": "Cancer"
+        },
+        "Mercury": {
+          "exalt": "Virgo",
+          "detriment": "Pisces"
+        },
+        "Jupiter": {
+          "exalt": "Cancer",
+          "debilitation": "Capricorn"
+        },
+        "Venus": {
+          "exalt": "Pisces",
+          "debilitation": "Virgo"
+        },
+        "Saturn": {
+          "exalt": "Libra",
+          "detriment": "Cancer"
+        },
+        "Rahu": {},
+        "Ketu": {}
+      }
+    },
+    "retrograde_adjustment": {
+      "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
+    }
+  },
+  "theme_overlays": {
+    "en": [
+      "career growth",
+      "relationship improvement",
+      "guidance and mentorship",
+      "long-term planning"
+    ],
+    "hi": [
+      "करियर विकास",
+      "संबंध सुधार",
+      "मार्गदर्शन और परामर्श",
+      "दीर्घकालीन योजना"
+    ]
+  },
+  "refs": [],
+  "provenance": {
+    "author": "AstroVision Seed+",
+    "reviewed_at": "2025-11-13"
+  },
+  "locales": {
+    "en": {
+      "title": "sun-tri-sat",
+      "core": "This aspect indicates increased personal responsibility and steady progress in career and relationships, with opportunities for guidance and success in long-term plans.",
+      "tone": "Warm, neutral, and encouraging"
+    },
+    "hi": {
+      "title": "सूर्य त्रिकोण शनि",
+      "core": "यह योग व्यक्तिगत जिम्मेदारी में वृद्धि और करियर तथा संबंधों में स्थिर प्रगति दर्शाता है, साथ ही मार्गदर्शन और दीर्घकालीन योजनाओं में सफलता के अवसर प्रदान करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
+    }
+  },
+  "retrieval": {
+    "embedding_sections": {
+      "core": {
+        "en": "Personal responsibility and steady progress with opportunities for guidance and success in long-term plans.",
+        "hi": "व्यक्तिगत जिम्मेदारी और स्थिर प्रगति, मार्गदर्शन और दीर्घकालीन योजनाओं में सफलता के अवसर।"
+      },
+      "career": {
+        "en": "Creative ambition in business, steady progress in political or high authority roles, suitable for legal and administrative work.",
+        "hi": "व्यवसाय में रचनात्मक महत्त्वाकांक्षा, राजनीतिक या उच्च पदों पर स्थिर प्रगति, कानूनी और शासकीय कार्यों के लिए उपयुक्त।"
+      },
+      "relationships": {
+        "en": "Renewal and improvement of old social and romantic relationships, increased awareness of responsibilities towards children.",
+        "hi": "पुराने सामाजिक और रोमांटिक संबंधों का नवीनीकरण और सुधार, बच्चों के प्रति जिम्मेदारियों की सजगता।"
+      },
+      "money": {
+        "en": "Opportunities to receive guidance and benefits from special individuals or elders, aiding success in long-term financial or business plans.",
+        "hi": "विशेष व्यक्ति या बुजुर्गों से मार्गदर्शन और लाभ प्राप्ति के अवसर, दीर्घकालीन वित्तीय या व्यावसायिक योजनाओं में सफलता में सहायता।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; focus on responsibility and steady progress.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन नहीं; ध्यान जिम्मेदारी और स्थिर प्रगति पर है।"
+      }
+    },
+    "aliases": [
+      "Sun trine Saturn",
+      "Sun TRI Sat",
+      "Sun-Trine-Saturn",
+      "Sun Trine to Saturn"
+    ]
+  }
+}
