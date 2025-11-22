@@ -71,11 +71,14 @@ async def on_any_error(request: Request, exc: Exception):
     err = ErrorEnvelope(code="SERVER_ERROR", message=str(exc))
     return JSONResponse(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, content=ErrorResponse(meta=m, error=err).model_dump())
 
+@app.get("/")
+async def landing():
+    return {"Welcome to Astro Vision": True, "ts": dt.datetime.utcnow().isoformat() + "Z"}
 
 # --- Liveness/Readiness ---
 @app.get("/healthz")
 async def healthz():
-    return {"ok": True, "ts": dt.datetime.utcnow().isoformat() + "Z"}
+    return {"Astro Vision is OK": True, "ts": dt.datetime.utcnow().isoformat() + "Z"}
 
 
 @app.get("/readyz")

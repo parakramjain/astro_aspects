@@ -4,6 +4,9 @@ info:
   version: 1.0.0
   description: Natal, Reports, and Compatibility endpoints with best-practice metadata.
 
+servers:
+  - url: https://api.astrovision.app/v1
+
 security:
   - bearerAuth: []
 
@@ -16,13 +19,13 @@ paths:
   # ============================
   # NATAL
   # ============================
-  /v1/natal/build-chart:
+  /natal/build-chart:
     post:
       tags: [Natal]
       summary: Build Natal Chart (positions, signs, houses)
       operationId: buildNatalChart
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -59,13 +62,13 @@ paths:
         '500':
           $ref: '#/components/responses/ServerError'
 
-  /v1/natal/dignities-table:
+  /natal/dignities-table:
     post:
       tags: [Natal]
       summary: Compute Dignities Table
       operationId: computeDignitiesTable
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -87,13 +90,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /v1/natal/aspects:
+  /natal/aspects:
     post:
       tags: [Natal]
       summary: Compute Natal Aspects
       operationId: computeNatalAspects
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -115,13 +118,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /v1/natal/characteristics:
+  /natal/characteristics:
     post:
       tags: [Natal]
       summary: Compute Natal Characteristics & KPI summary
       operationId: computeNatalCharacteristics
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -146,13 +149,13 @@ paths:
   # ============================
   # REPORTS
   # ============================
-  /v1/reports/life-events:
+  /reports/life-events:
     post:
       tags: [Reports]
       summary: Major & minor life events (summary windows)
       operationId: reportLifeEvents
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -183,13 +186,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /v1/reports/timeline:
+  /reports/timeline:
     post:
       tags: [Reports]
       summary: Report timeline (1y/6m/1m) with aspect windows and AI summary
       operationId: reportTimeline
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -235,13 +238,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /v1/reports/daily-weekly:
+  /reports/daily-weekly:
     post:
       tags: [Reports]
       summary: Daily/Weekly prediction update
       operationId: dailyWeeklyPrediction
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -271,13 +274,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /v1/reports/upcoming-events:
+  /reports/upcoming-events:
     post:
       tags: [Reports]
       summary: Upcoming major/minor events with categories
       operationId: upcomingEvents
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -310,13 +313,13 @@ paths:
   # ============================
   # COMPATIBILITY
   # ============================
-  /v1/compat/synastry:
+  /compat/synastry:
     post:
       tags: [Compatibility]
       summary: Compatibility finder (pairwise)
       operationId: compatibilityFinder
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -338,13 +341,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /v1/compat/group:
+  /compat/group:
     post:
       tags: [Compatibility]
       summary: Group compatibility analysis (up to 10 people)
       operationId: groupCompatibility
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -374,13 +377,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /v1/compat/soulmate-finder:
+  /compat/soulmate-finder:
     post:
       tags: [Compatibility]
       summary: Soulmate finder (returns candidate DOBs)
       operationId: soulmateFinder
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -412,12 +415,12 @@ components:
 
   # ---------- Common Headers (Metadata) ----------
   parameters:
-    XCorrelationID:
-      name: X-Correlation-ID
+    XRequestId:
+      name: X-Request-ID
       in: header
       required: true
       schema: { type: string }
-      description: Client-generated request id for idempotency/trace (uuid).
+      description: Client-generated request id for idempotency/trace.
     XSessionId:
       name: X-Session-ID
       in: header
