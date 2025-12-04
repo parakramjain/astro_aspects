@@ -8,7 +8,6 @@ from fastapi import APIRouter, Depends, Header, HTTPException, Body
 
 from schemas import (
     LifeEventPayload,
-    Meta,
     BirthPayload,
     PlanetEntry,
     NatalChartOut, NatalChartData,
@@ -44,40 +43,8 @@ router = APIRouter(prefix="/api")
 
 
 # --------------------- Helpers ---------------------
-@dataclass
-class MetaHeaders:
-    request_id: str
-    session_id: Optional[str]
-    transaction_id: str
-    user_id: Optional[str]
-    app_id: Optional[str]
+# Meta headers removed as per request
 
-
-def meta_headers_dep(
-    x_request_id: Annotated[str | None, Header(alias="X-Request-ID")] = None,
-    x_session_id: Annotated[str | None, Header(alias="X-Session-ID")] = None,
-    x_transaction_id: Annotated[str | None, Header(alias="X-Transaction-ID")] = None,
-    x_user_id: Annotated[str | None, Header(alias="X-User-ID")] = None,
-    x_app_id: Annotated[str | None, Header(alias="X-App-ID")] = None,
-) -> MetaHeaders:
-    return MetaHeaders(
-        request_id=x_request_id or str(uuid.uuid4()),
-        session_id=x_session_id,
-        transaction_id=x_transaction_id or str(uuid.uuid4()),
-        user_id=x_user_id,
-        app_id=x_app_id,
-    )
-
-
-def build_meta(h: MetaHeaders) -> Meta:
-    return Meta(
-        timestamp=dt.datetime.utcnow().isoformat() + "Z",
-        requestId=h.request_id,
-        sessionId=h.session_id,
-        transactionId=h.transaction_id,
-        userId=h.user_id,
-        appId=h.app_id,
-    )
 
 
 # --------------- Natal -----------------
@@ -100,10 +67,9 @@ def build_natal_chart(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> NatalChartOut:
     out_item = calculate_natal_chart_data(payload)
-    return NatalChartOut(meta=build_meta(h), data=out_item)
+    return NatalChartOut(data=out_item)
 
 
 @router.post("/natal/dignities-table", response_model=DignitiesOut, tags=["Natal"], summary="Compute Dignities Table")
@@ -125,7 +91,6 @@ def dignities_table(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> DignitiesOut:
     # Placeholder implementation — returns dummy dignity flags and computed scores
     planets = ["Sun","Moon","Mercury","Venus","Mars","Jupiter","Saturn","Uranus","Neptune","Pluto"]
@@ -142,7 +107,7 @@ def dignities_table(
                 notes="N/A",
             )
         )
-    return DignitiesOut(meta=build_meta(h), data=DignitiesData(table=table))
+    return DignitiesOut(data=DignitiesData(table=table))
 
 @router.post("/natal/aspects", response_model=NatalAspectsOut, tags=["Natal"], summary="Compute Natal Aspects & Characteristics")
 def natal_aspects(
@@ -163,10 +128,9 @@ def natal_aspects(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> NatalAspectsOut:
     items = compute_natal_natal_aspects(payload)
-    return NatalAspectsOut(meta=build_meta(h), data=items)
+    return NatalAspectsOut(data=items)
 
 # Need to update below API to use aspect cards for characteristics. Currently aspects is providing both the aspect list and characteristics.
 @router.post("/natal/characteristics", response_model=NatalCharacteristicsOut, tags=["Natal"], summary="Compute Natal Characteristics & KPI summary")
@@ -188,7 +152,6 @@ def natal_characteristics(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> NatalCharacteristicsOut:
     # Placeholder narrative
     desc = (
@@ -200,7 +163,7 @@ def natal_characteristics(
         KpiItem(name="Communication", shortDescription="Clear, persuasive, and diplomatic."),
         KpiItem(name="Resilience", shortDescription="Bounces back from setbacks with grit."),
     ]
-    return NatalCharacteristicsOut(meta=build_meta(h), data=NatalCharacteristicsData(description=desc, kpis=kpis))
+    return NatalCharacteristicsOut(data=NatalCharacteristicsData(description=desc, kpis=kpis))
 
 
 # --------------- Reports -----------------
@@ -225,7 +188,6 @@ def life_events(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> LifeEventsOut:
     # start_date and horizon_days are query params (not added to BirthPayload)
     print(f"Computing life events report... start_date={payload.start_date} horizon_days={payload.horizon_days}")
@@ -244,7 +206,7 @@ def life_events(
         data: List[LifeEvent] = compute_life_events(payload, start_date=start_date_date, horizon_days=payload.horizon_days)
     except TypeError:
         data: List[LifeEvent] = compute_life_events(payload)
-    return LifeEventsOut(meta=build_meta(h), data=data)
+    return LifeEventsOut(data=data)
 
 
 @router.post("/reports/timeline", response_model=TimelineOut, tags=["Reports"], summary="Report timeline with aspect windows and AI summary")
@@ -269,10 +231,9 @@ def report_timeline(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> TimelineOut:
     timeline_data = compute_timeline(req)
-    return TimelineOut(meta=build_meta(h), data=timeline_data)
+    return TimelineOut(data=timeline_data)
 
 
 @router.post("/reports/daily-weekly", response_model=DailyWeeklyOut, tags=["Reports"], summary="Daily/Weekly prediction update")
@@ -297,11 +258,10 @@ def daily_weekly(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> DailyWeeklyOut:
     dailyWeeklyTimeline_data = dailyWeeklyTimeline(req)
 
-    return DailyWeeklyOut(meta=build_meta(h), data=dailyWeeklyTimeline_data)
+    return DailyWeeklyOut(data=dailyWeeklyTimeline_data)
 
 
 @router.post("/reports/upcoming-events", response_model=LifeEventsOut, tags=["Reports"], summary="Upcoming major/minor events with categories")
@@ -325,7 +285,6 @@ def upcoming_events(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> LifeEventsOut:
     print(f"Computing upcoming events report... start_date={payload.start_date} horizon_days={payload.horizon_days}")
     # Convert start_date (string) to a datetime.date if provided
@@ -343,7 +302,7 @@ def upcoming_events(
         data: List[LifeEvent] = compute_life_events(payload, start_date=start_date_date, horizon_days=payload.horizon_days)
     except TypeError:
         data: List[LifeEvent] = compute_life_events(payload)
-    return LifeEventsOut(meta=build_meta(h), data=data)
+    return LifeEventsOut(data=data)
 
 
 # --------------- Compatibility -----------------
@@ -368,7 +327,6 @@ def compat_pair(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> CompatibilityOut:
     # Execute real synastry calculation using new services.synastry module
     # Extract raw dicts from Pydantic models (v2 uses model_dump)
@@ -419,7 +377,6 @@ def compat_pair(
     )
 
     return CompatibilityOut(
-        meta=build_meta(h),
         data=CompatibilityData(
             kpis=kpi_rows,
             totalScore=total_norm,
@@ -447,7 +404,6 @@ def compat_group(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> GroupCompatibilityOut:
     """Run advanced group synastry using services.synastry_group_services.
 
@@ -466,7 +422,6 @@ def compat_group(
         raise HTTPException(status_code=500, detail=f"Group analysis failed: {e}")
 
     return GroupCompatibilityOut(
-        meta=build_meta(h),
         data=GroupCompatibilityData(**api_data),
     )
 
@@ -490,7 +445,6 @@ def soulmate_finder(
             }
         },
     ),
-    h: MetaHeaders = Depends(meta_headers_dep)
 ) -> SoulmateOut:
     # Dummy: suggest some date patterns near the birth year ± 3 years
     dob = dt.date.fromisoformat(payload.dateOfBirth)
@@ -500,7 +454,7 @@ def soulmate_finder(
         dob.replace(year=dob.year + 1).isoformat(),
         dob.replace(year=dob.year + 2).isoformat(),
     ]
-    return SoulmateOut(meta=build_meta(h), data=SoulmateData(datesOfBirth=candidates))
+    return SoulmateOut(data=SoulmateData(datesOfBirth=candidates))
 
 
 # --------------- Vedic Compatibility (Ashtakoota / Gun Milan) ---------------
@@ -534,7 +488,6 @@ def compat_ashtakoota(
     coordinate_system: str = "sidereal",
     strict_tradition: bool = True,
     use_exceptions: bool = False,
-    h: MetaHeaders = Depends(meta_headers_dep),
 ) -> AshtakootaOut:
     """Compute Vedic Gun Milan for two charts and return detailed breakdown plus a short explanation.
 
@@ -558,4 +511,4 @@ def compat_ashtakoota(
     )
     expl = explain_ashtakoota(result)
 
-    return AshtakootaOut(meta=build_meta(h), data=AshtakootaData(result=result, explanation=expl))
+    return AshtakootaOut(data=AshtakootaData(result=result, explanation=expl))

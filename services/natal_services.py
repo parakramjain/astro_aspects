@@ -20,7 +20,6 @@ from astro_core.astro_core import (
 from aspect_card_utils.aspect_card_mgmt import get_card_fields
 
 from schemas import (
-    Meta,
     BirthPayload,
     PlanetEntry,
     NatalChartOut, NatalChartData,

@@ -19,5 +19,5 @@ def test_natal_characteristics_smoke():
     r = client.post("/api/natal/characteristics", json=payload)
     assert r.status_code == 200, f"Unexpected {r.status_code}: {r.text}"
     data = r.json()
-    assert "meta" in data and "data" in data
+    assert "data" in data
     assert "description" in data["data"] and "kpis" in data["data"]

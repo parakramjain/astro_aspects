@@ -1,19 +1,31 @@
 from __future__ import annotations
 import datetime as dt
+from functools import lru_cache
+from pathlib import Path
 from typing import Any
 
 from fastapi import FastAPI, Request, status
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
+from fastapi.openapi.utils import get_openapi
 from starlette.middleware.trustedhost import TrustedHostMiddleware
 from starlette.responses import JSONResponse
 from contextlib import asynccontextmanager
+import yaml
 
 from api_router import router
-from schemas import ErrorResponse, ErrorEnvelope, Meta
+from schemas import ErrorResponse, ErrorEnvelope, ErrorDetail
 from settings import APP_NAME, APP_VERSION, CORS_ALLOW_ORIGINS, TRUSTED_HOSTS, GZIP_MIN_SIZE, REQUEST_LOGGING
 from middleware import RequestIDMiddleware, LoggingMiddleware
+
+OPENAPI_SPEC_PATH = Path(__file__).with_name("API_defination.yaml")
+
+
+@lru_cache()
+def _load_openapi_schema() -> Any:
+    with OPENAPI_SPEC_PATH.open("r", encoding="utf-8") as handle:
+        return yaml.safe_load(handle)
 
 
 @asynccontextmanager
@@ -32,6 +44,24 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+
+def _custom_openapi() -> Any:
+    try:
+        schema = _load_openapi_schema()
+    except (FileNotFoundError, yaml.YAMLError) as exc:
+        print(f"[openapi] Falling back to generated schema: {exc}")
+        schema = get_openapi(
+            title=APP_NAME,
+            version=APP_VERSION,
+            description="Natal, Reports, and Compatibility endpoints with best-practice metadata.",
+            routes=app.routes,
+        )
+    app.openapi_schema = schema
+    return schema
+
+
+app.openapi = _custom_openapi  # type: ignore[assignment]
+
 # --- Middleware ---
 app.add_middleware(RequestIDMiddleware)
 app.add_middleware(LoggingMiddleware, mode=REQUEST_LOGGING)
@@ -48,28 +78,27 @@ app.add_middleware(TrustedHostMiddleware, allowed_hosts=TRUSTED_HOSTS or ["*"])
 
 # --- Exception handlers -> uniform envelope ---
 
-def _meta_from_request(request: Request) -> Meta:
-    rid = getattr(request.state, "request_id", None)
-    return Meta(
-        timestamp=dt.datetime.utcnow().isoformat() + "Z",
-        requestId=rid or "",
-        apiVersion=APP_VERSION,
-    )
-
 
 @app.exception_handler(RequestValidationError)
 async def on_validation_error(request: Request, exc: RequestValidationError):
-    m = _meta_from_request(request)
-    from schemas import ErrorDetail
-    err = ErrorEnvelope(code="UNPROCESSABLE_ENTITY", message="Validation error", details=[ErrorDetail(issue=str(exc))])
-    return JSONResponse(status_code=status.HTTP_422_UNPROCESSABLE_ENTITY, content=ErrorResponse(meta=m, error=err).model_dump())
+    err = ErrorEnvelope(
+        code="UNPROCESSABLE_ENTITY",
+        message="Validation error",
+        details=[ErrorDetail(issue=str(exc))],
+    )
+    return JSONResponse(
+        status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
+        content=ErrorResponse(error=err).model_dump(),
+    )
 
 
 @app.exception_handler(Exception)
 async def on_any_error(request: Request, exc: Exception):
-    m = _meta_from_request(request)
     err = ErrorEnvelope(code="SERVER_ERROR", message=str(exc))
-    return JSONResponse(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, content=ErrorResponse(meta=m, error=err).model_dump())
+    return JSONResponse(
+        status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+        content=ErrorResponse(error=err).model_dump(),
+    )
 
 @app.get("/")
 async def landing():

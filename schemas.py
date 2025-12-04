@@ -5,16 +5,6 @@ from pydantic import BaseModel, Field, ConfigDict
 
 
 # --------- Common ---------
-class Meta(BaseModel):
-    timestamp: str
-    requestId: str
-    sessionId: Optional[str] = None
-    transactionId: Optional[str] = None
-    userId: Optional[str] = None
-    appId: Optional[str] = None
-    apiVersion: str = Field(default="1.0.0")
-
-
 class ErrorDetail(BaseModel):
     field: Optional[str] = None
     issue: Optional[str] = None
@@ -27,7 +17,6 @@ class ErrorEnvelope(BaseModel):
 
 
 class ErrorResponse(BaseModel):
-    meta: Meta
     error: ErrorEnvelope
 
 
@@ -172,7 +161,6 @@ class NatalChartData(BaseModel):
 
 
 class NatalChartOut(BaseModel):
-    meta: Meta
     data: NatalChartData
 
 
@@ -191,7 +179,6 @@ class DignitiesData(BaseModel):
 
 
 class DignitiesOut(BaseModel):
-    meta: Meta
     data: DignitiesData
 
 
@@ -204,7 +191,6 @@ class NatalAspectItem(BaseModel):
 
 
 class NatalAspectsOut(BaseModel):
-    meta: Meta
     data: List[NatalAspectItem]
 
 
@@ -219,7 +205,6 @@ class NatalCharacteristicsData(BaseModel):
 
 
 class NatalCharacteristicsOut(BaseModel):
-    meta: Meta
     data: NatalCharacteristicsData
 
 class LifeEventPayload(BirthPayload):
@@ -237,7 +222,6 @@ class LifeEvent(BaseModel):
 
 
 class LifeEventsOut(BaseModel):
-    meta: Meta
     data: List[LifeEvent]
 
 
@@ -257,7 +241,6 @@ class TimelineData(BaseModel):
 
 
 class TimelineOut(BaseModel):
-    meta: Meta
     data: TimelineData
 
 
@@ -272,7 +255,6 @@ class DailyWeeklyData(BaseModel):
     areas: Dict
 
 class DailyWeeklyOut(BaseModel):
-    meta: Meta
     data: DailyWeeklyData
 
 
@@ -291,7 +273,6 @@ class UpcomingEventRow(BaseModel):
 
 
 class UpcomingEventsOut(BaseModel):
-    meta: Meta
     data: List[UpcomingEventRow]
 
 
@@ -308,7 +289,6 @@ class CompatibilityData(BaseModel):
 
 
 class CompatibilityOut(BaseModel):
-    meta: Meta
     data: CompatibilityData
 
 
@@ -327,7 +307,6 @@ class GroupCompatibilityData(BaseModel):
 
 
 class GroupCompatibilityOut(BaseModel):
-    meta: Meta
     data: GroupCompatibilityData
 
 
@@ -336,7 +315,6 @@ class SoulmateData(BaseModel):
 
 
 class SoulmateOut(BaseModel):
-    meta: Meta
     data: SoulmateData
 
 
@@ -352,7 +330,6 @@ class AshtakootaData(BaseModel):
 
 
 class AshtakootaOut(BaseModel):
-    meta: Meta
     data: AshtakootaData
 
 # ----------------- Group Synastry Extended Models (New) -----------------

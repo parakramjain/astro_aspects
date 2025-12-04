@@ -39,7 +39,10 @@ from fastapi import FastAPI, HTTPException, Query, Body, Request, Form
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, RedirectResponse
 from pydantic import BaseModel, Field, ValidationError, field_validator, ConfigDict
-from .aspect_card_viewer import render_card_readonly  # HTML viewer components
+try:
+    from .aspect_card_viewer import render_card_readonly  # HTML viewer components
+except ImportError:
+    from aspect_card_viewer import render_card_readonly
 
 # ---------------------------------
 # Storage config
