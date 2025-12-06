@@ -445,21 +445,27 @@ components:
     XCorrelationID:
       name: X-Correlation-ID
       in: header
-      required: true
-      schema: { type: string }
-      description: Client-generated request id for idempotency/trace (uuid).
+      required: false
+      schema:
+        type: string
+        default: "11111111-2222-3333-4444-555555555555"
+      description: Client-generated request id for idempotency/trace (uuid). Default provided for sandbox testing.
     XSessionId:
       name: X-Session-ID
       in: header
-      required: true
-      schema: { type: string }
-      description: Client session identifier.
+      required: false
+      schema:
+        type: string
+        default: "sess-demo-01"
+      description: Client session identifier. Default provided for sandbox testing.
     XTransactionId:
       name: X-Transaction-ID
       in: header
-      required: true
-      schema: { type: string }
-      description: Server-generated transaction id echoed back.
+      required: false
+      schema:
+        type: string
+        default: "txn-demo-01"
+      description: Server-generated transaction id echoed back. Default provided for sandbox testing.
     Authorization:
       name: Authorization
       in: header
@@ -471,9 +477,11 @@ components:
     XAppId:
       name: X-App-ID
       in: header
-      required: true
-      schema: { type: string }
-      description: Calling application id/client key.
+      required: false
+      schema:
+        type: string
+        default: "sandbox-client"
+      description: Calling application id/client key. Default provided for sandbox testing.
 
   # ---------- Standard responses ----------
   responses:

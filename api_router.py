@@ -2,7 +2,8 @@ from __future__ import annotations
 import datetime as dt
 import uuid
 from dataclasses import dataclass
-from typing import Optional, List, Dict, Annotated
+from typing import Optional, List, Dict, Annotated, Any
+import json
 
 from fastapi import APIRouter, Depends, Header, HTTPException, Body
 
@@ -24,7 +25,7 @@ from schemas import (
     AshtakootaOut, AshtakootaData,
 )
 
-from services.natal_services import planet_positions_and_houses, compute_natal_natal_aspects, calculate_natal_chart_data, lon_to_sign_deg_min, SIGN_NAMES
+from services.natal_services import planet_positions_and_houses, compute_natal_natal_aspects, calculate_natal_chart_data, lon_to_sign_deg_min, SIGN_NAMES,compute_natal_ai_summary
 from astro_core.astro_core import calc_aspect_periods, ASPECTS, ASPECT_ORB_DEG, _delta_circ  # type: ignore
 from services.report_services import compute_life_events, compute_timeline, dailyWeeklyTimeline
 from services.synastry_services import calculate_synastry  # newly added synastry pipeline
@@ -44,6 +45,24 @@ router = APIRouter(prefix="/api")
 
 # --------------------- Helpers ---------------------
 # Meta headers removed as per request
+
+
+def _ensure_dict_from_ai_summary(summary: Any) -> Dict[str, Any]:
+    """Coerce the AI summary output into a dictionary for Pydantic."""
+    if isinstance(summary, dict):
+        return summary
+    if isinstance(summary, str):
+        text = summary.strip()
+        if not text:
+            return {"text": ""}
+        try:
+            parsed = json.loads(text)
+            if isinstance(parsed, dict):
+                return parsed
+            return {"text": parsed}
+        except json.JSONDecodeError:
+            return {"text": text}
+    return {"text": str(summary)}
 
 
 
@@ -153,17 +172,10 @@ def natal_characteristics(
         },
     ),
 ) -> NatalCharacteristicsOut:
-    # Placeholder narrative
-    desc = (
-        f"Natal profile for {payload.name}: a balanced mix of strengths and lessons. "
-        f"This is a placeholder summary; wire to your AI or KB later."
-    )
-    kpis = [
-        KpiItem(name="Leadership", shortDescription="Shows initiative and leads with empathy."),
-        KpiItem(name="Communication", shortDescription="Clear, persuasive, and diplomatic."),
-        KpiItem(name="Resilience", shortDescription="Bounces back from setbacks with grit."),
-    ]
-    return NatalCharacteristicsOut(data=NatalCharacteristicsData(description=desc, kpis=kpis))
+    items = compute_natal_natal_aspects(payload)
+    ai_summary = compute_natal_ai_summary(items)
+    summary_dict = _ensure_dict_from_ai_summary(ai_summary)
+    return NatalCharacteristicsOut(data=NatalCharacteristicsData(description=summary_dict))
 
 
 # --------------- Reports -----------------

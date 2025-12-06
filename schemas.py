@@ -200,8 +200,8 @@ class KpiItem(BaseModel):
 
 
 class NatalCharacteristicsData(BaseModel):
-    description: str
-    kpis: List[KpiItem]
+    description: Dict[str, Any]
+    # kpis: List[KpiItem]
 
 
 class NatalCharacteristicsOut(BaseModel):
