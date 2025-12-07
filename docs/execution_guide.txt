@@ -1,0 +1,42 @@
+sequence of commands to update your code on EC2 and restart the backend service.
+
+✅ 1. SSH into EC2
+ssh -i your-key.pem ubuntu@your-ec2-ip
+
+✅ 2. Go to your project folder
+cd ~/astro-vision-backend
+
+✅ 3. Pull latest changes from GitHub
+git pull origin main
+
+
+(or master depending on your branch)
+
+✅ 4. Activate virtual environment
+source venv/bin/activate
+
+✅ 5. Install new dependencies (if requirements.txt changed)
+pip install -r requirements.txt
+
+✅ 6. Restart your running service
+
+If using systemd:
+
+sudo systemctl restart astrovision
+
+
+If using nohup:
+
+pkill uvicorn
+nohup uvicorn main:app --host 0.0.0.0 --port 8787 > server.log 2>&1 &
+
+✅ 7. Check logs to confirm
+
+Systemd:
+
+sudo journalctl -u astrovision -f
+
+
+Nohup:
+
+tail -f server.log

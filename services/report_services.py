@@ -113,6 +113,7 @@ def compute_timeline(req: TimelineRequest) -> TimelineData:
     and conversion to TimelineItem models.
     """
     print("Preparing timeline computation...")
+    print("===============================================================")
     start = dt.date.fromisoformat(req.reportStartDate)
     planet_exclusion_list: List[str] = []
     if req.timePeriod == "1Y":
@@ -167,8 +168,11 @@ def compute_timeline(req: TimelineRequest) -> TimelineData:
         facets_points: Optional[Dict[str, str]] = None
 
         try:
-            sel = get_card_fields(card_id, fields="locales.hi.core,core_meaning,facets,actionables")
+            sel = get_card_fields(card_id, fields="core_meaning,core_meaning,facets,actionables")
+            print("Fetched card fields for card_id ", card_id, ": ", sel)
+            print("===============================================================")
             fields = sel.get("fields", {})
+            print("Fields extracted: ", fields)
             # Prefer localized core description
             loc = fields.get("locales", {})
             hi = loc.get("hi") if isinstance(loc, dict) else None
@@ -186,7 +190,7 @@ def compute_timeline(req: TimelineRequest) -> TimelineData:
                 key_points = {k: [str(x) for x in v] for k, v in acts.items() if isinstance(v, list)}
             
             facets = fields.get("facets")
-            print("Facets fetched for card_id ", card_id, ": ", facets)
+            # print("Facets fetched for card_id ", card_id, ": ", facets)
             if isinstance(facets, dict):
                 # Ensure facets_points is a dict before populating it
                 if facets_points is None:

@@ -4,6 +4,9 @@ info:
   version: 1.0.0
   description: Natal, Reports, and Compatibility endpoints with best-practice metadata.
 
+servers:
+  - url: https://api.astrovision.app/v1
+
 security:
   - bearerAuth: []
 
@@ -16,13 +19,13 @@ paths:
   # ============================
   # NATAL
   # ============================
-  /api/natal/build-chart:
+  /natal/build-chart:
     post:
       tags: [Natal]
       summary: Build Natal Chart (positions, signs, houses)
       operationId: buildNatalChart
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -31,7 +34,7 @@ paths:
         required: true
         content:
           application/json:
-            schema: { $ref: '#/components/schemas/LifeEventPayload' }
+            schema: { $ref: '#/components/schemas/BirthPayload' }
             examples:
               sample:
                 value:
@@ -59,13 +62,13 @@ paths:
         '500':
           $ref: '#/components/responses/ServerError'
 
-  /api/natal/dignities-table:
+  /natal/dignities-table:
     post:
       tags: [Natal]
       summary: Compute Dignities Table
       operationId: computeDignitiesTable
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -74,7 +77,7 @@ paths:
         required: true
         content:
           application/json:
-            schema: { $ref: '#/components/schemas/LifeEventPayload' }
+            schema: { $ref: '#/components/schemas/BirthPayload' }
       responses:
         '200':
           description: Dignities table
@@ -87,13 +90,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /api/natal/aspects:
+  /natal/aspects:
     post:
       tags: [Natal]
       summary: Compute Natal Aspects
       operationId: computeNatalAspects
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -115,13 +118,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /api/natal/characteristics:
+  /natal/characteristics:
     post:
       tags: [Natal]
       summary: Compute Natal Characteristics & KPI summary
       operationId: computeNatalCharacteristics
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -146,13 +149,13 @@ paths:
   # ============================
   # REPORTS
   # ============================
-  /api/reports/life-events:
+  /reports/life-events:
     post:
       tags: [Reports]
       summary: Major & minor life events (summary windows)
       operationId: reportLifeEvents
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -183,13 +186,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /api/reports/timeline:
+  /reports/timeline:
     post:
       tags: [Reports]
       summary: Report timeline (1y/6m/1m) with aspect windows and AI summary
       operationId: reportTimeline
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -198,7 +201,22 @@ paths:
         required: true
         content:
           application/json:
-            schema: { $ref: '#/components/schemas/TimelineRequest' }
+            schema:
+              allOf:
+                - $ref: '#/components/schemas/BirthPayload'
+                - type: object
+                  required: [timePeriod, reportStartDate]
+                  properties:
+                    timePeriod:
+                      type: string
+                      enum: ["1Y","6M","1M"]
+                    reportStartDate:
+                      type: string
+                      format: date
+                      description: Defaults to first of current month; optionally first of next month.
+                    cursor:
+                      type: string
+                      nullable: true
       responses:
         '200':
           description: Full timeline
@@ -220,13 +238,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /api/reports/daily-weekly:
+  /reports/daily-weekly:
     post:
       tags: [Reports]
       summary: Daily/Weekly prediction update
       operationId: dailyWeeklyPrediction
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -235,7 +253,15 @@ paths:
         required: true
         content:
           application/json:
-            schema: { $ref: '#/components/schemas/TimelineRequest' }
+            schema:
+              allOf:
+                - $ref: '#/components/schemas/BirthPayload'
+                - type: object
+                  properties:
+                    mode:
+                      type: string
+                      enum: ["DAILY","WEEKLY"]
+                      default: "DAILY"
       responses:
         '200':
           description: Short summary + key areas
@@ -248,13 +274,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /api/reports/upcoming-events:
+  /reports/upcoming-events:
     post:
       tags: [Reports]
       summary: Upcoming major/minor events with categories
       operationId: upcomingEvents
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -269,7 +295,7 @@ paths:
           description: Upcoming events
           content:
             application/json:
-              schema: { $ref: '#/components/schemas/LifeEventsOut' }
+              schema: { $ref: '#/components/schemas/UpcomingEventsOut' }
         '206':
           description: Partial content (paged)
           headers:
@@ -277,7 +303,7 @@ paths:
               schema: { type: string }
           content:
             application/json:
-              schema: { $ref: '#/components/schemas/LifeEventsOut' }
+              schema: { $ref: '#/components/schemas/UpcomingEventsOut' }
         '204': { description: No content }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
@@ -287,13 +313,13 @@ paths:
   # ============================
   # COMPATIBILITY
   # ============================
-  /api/compat/synastry:
+  /compat/synastry:
     post:
       tags: [Compatibility]
       summary: Compatibility finder (pairwise)
       operationId: compatibilityFinder
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -315,13 +341,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /api/compat/group:
+  /compat/group:
     post:
       tags: [Compatibility]
       summary: Group compatibility analysis (up to 10 people)
       operationId: groupCompatibility
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -351,13 +377,13 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /api/compat/soulmate-finder:
+  /compat/soulmate-finder:
     post:
       tags: [Compatibility]
       summary: Soulmate finder (returns candidate DOBs)
       operationId: soulmateFinder
       parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
+        - $ref: '#/components/parameters/XRequestId'
         - $ref: '#/components/parameters/XTransactionId'
         - $ref: '#/components/parameters/XSessionId'
         - $ref: '#/components/parameters/Authorization'
@@ -379,59 +405,6 @@ paths:
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
-  /api/compat/ashtakoota:
-    post:
-      tags: [Compatibility]
-      summary: Vedic Ashtakoota (Gun Milan) score and explanation
-      operationId: compatAshtakoota
-      parameters:
-        - $ref: '#/components/parameters/XCorrelationID'
-        - $ref: '#/components/parameters/XTransactionId'
-        - $ref: '#/components/parameters/XSessionId'
-        - $ref: '#/components/parameters/Authorization'
-        - $ref: '#/components/parameters/XAppId'
-        - name: ayanamsa
-          in: query
-          required: false
-          schema:
-            type: string
-            enum: ["lahiri","krishnamurti","raman"]
-            default: "lahiri"
-        - name: coordinate_system
-          in: query
-          required: false
-          schema:
-            type: string
-            enum: ["sidereal","tropical"]
-            default: "sidereal"
-        - name: strict_tradition
-          in: query
-          required: false
-          schema:
-            type: boolean
-            default: true
-        - name: use_exceptions
-          in: query
-          required: false
-          schema:
-            type: boolean
-            default: false
-      requestBody:
-        required: true
-        content:
-          application/json:
-            schema: { $ref: '#/components/schemas/CompatibilityPairIn' }
-      responses:
-        '200':
-          description: Gun Milan score with explanation
-          content:
-            application/json:
-              schema: { $ref: '#/components/schemas/AshtakootaOut' }
-        '400': { $ref: '#/components/responses/BadRequest' }
-        '401': { $ref: '#/components/responses/Unauthorized' }
-        '422': { $ref: '#/components/responses/Unprocessable' }
-        '500': { $ref: '#/components/responses/ServerError' }
-
 components:
   # ---------- Security ----------
   securitySchemes:
@@ -442,30 +415,24 @@ components:
 
   # ---------- Common Headers (Metadata) ----------
   parameters:
-    XCorrelationID:
-      name: X-Correlation-ID
+    XRequestId:
+      name: X-Request-ID
       in: header
       required: true
-      schema:
-        type: string
-        default: "11111111-2222-3333-4444-555555555555"
-      description: Client-generated request id for idempotency/trace (uuid). Default provided for sandbox testing.
+      schema: { type: string }
+      description: Client-generated request id for idempotency/trace.
     XSessionId:
       name: X-Session-ID
       in: header
       required: true
-      schema:
-        type: string
-        default: "sess-demo-01"
-      description: Client session identifier. Default provided for sandbox testing.
+      schema: { type: string }
+      description: Client session identifier.
     XTransactionId:
       name: X-Transaction-ID
       in: header
       required: true
-      schema:
-        type: string
-        default: "txn-demo-01"
-      description: Server-generated transaction id echoed back. Default provided for sandbox testing.
+      schema: { type: string }
+      description: Server-generated transaction id echoed back.
     Authorization:
       name: Authorization
       in: header
@@ -478,10 +445,8 @@ components:
       name: X-App-ID
       in: header
       required: true
-      schema:
-        type: string
-        default: "sandbox-client"
-      description: Calling application id/client key. Default provided for sandbox testing.
+      schema: { type: string }
+      description: Calling application id/client key.
 
   # ---------- Standard responses ----------
   responses:
@@ -491,69 +456,50 @@ components:
         application/json:
           schema: { $ref: '#/components/schemas/ErrorResponse' }
           example:
-            error:
-              code: "BAD_REQUEST"
-              message: "Invalid input payload. Required field 'dateOfBirth' is missing."
-              details:
-                - issue: "Field 'dateOfBirth' is required"
+            code: "BAD_REQUEST"
+            message: "Invalid input payload. Required field 'dateOfBirth' is missing."
+            timestamp: "2025-10-31T12:00:00Z"
     Unauthorized:
       description: Missing/invalid authentication
       content:
         application/json:
           schema: { $ref: '#/components/schemas/ErrorResponse' }
           example:
-            error:
-              code: "UNAUTHORIZED"
-              message: "Authentication credentials are missing or invalid."
+            code: "UNAUTHORIZED"
+            message: "Authentication credentials are missing or invalid."
+            timestamp: "2025-10-31T12:00:00Z"
     Unprocessable:
       description: Semantically invalid (e.g., impossible birth time/zone)
       content:
         application/json:
           schema: { $ref: '#/components/schemas/ErrorResponse' }
           example:
-            error:
-              code: "UNPROCESSABLE_ENTITY"
-              message: "Birth time and timezone combination is not possible."
+            code: "UNPROCESSABLE_ENTITY"
+            message: "Birth time and timezone combination is not possible."
+            timestamp: "2025-10-31T12:00:00Z"
     ServerError:
       description: Unexpected server error
       content:
         application/json:
           schema: { $ref: '#/components/schemas/ErrorResponse' }
           example:
-            error:
-              code: "SERVER_ERROR"
-              message: "An unexpected error occurred. Please try again later."
+            code: "SERVER_ERROR"
+            message: "An unexpected error occurred. Please try again later."
+            timestamp: "2025-10-31T12:00:00Z"
 
   # ---------- Schemas ----------
   schemas:
 
-    ErrorDetail:
+    ErrorResponse:
       type: object
-      properties:
-        field:
-          type: string
-          nullable: true
-        issue:
-          type: string
-          nullable: true
-
-    ErrorEnvelope:
-      type: object
-      required: [code, message]
+      required: [code, message, timestamp]
       properties:
         code: { type: string, example: "BAD_REQUEST" }
         message: { type: string }
-        details:
-          type: array
-          nullable: true
-          items: { $ref: '#/components/schemas/ErrorDetail' }
-
-    ErrorResponse:
-      type: object
-      required: [error]
-      properties:
-        error:
-          $ref: '#/components/schemas/ErrorEnvelope'
+        timestamp:
+          type: string
+          format: date-time
+          description: UTC timestamp of the error response
 
     BirthPayload:
       type: object
@@ -566,47 +512,17 @@ components:
         - latitude
         - longitude
       properties:
-        name: { type: string, example: "Amit" }
-        dateOfBirth: { type: string, format: date, example: "1990-01-01" }     # YYYY-MM-DD
+        name: { type: string }
+        dateOfBirth: { type: string, format: date }     # YYYY-MM-DD
         timeOfBirth: { type: string, example: "22:35:00" }
-        placeOfBirth: { type: string , example: "Mumbai, IN" }
+        placeOfBirth: { type: string }
         timeZone: { type: string, example: "Asia/Kolkata" }
-        latitude: { type: number, example: 19.0760 }
-        longitude: { type: number, example: 72.8777 }
-
-    LifeEventPayload:
-      allOf:
-        - $ref: '#/components/schemas/BirthPayload'
-        - type: object
-          required: [horizon_days]
-          properties:
-            start_date:
-              type: string
-              format: date
-              nullable: true
-            horizon_days:
-              type: integer
-              minimum: 1
-
-    TimelineRequest:
-      allOf:
-        - $ref: '#/components/schemas/BirthPayload'
-        - type: object
-          required: [timePeriod, reportStartDate]
-          properties:
-            timePeriod:
-              type: string
-              enum: ["1Y","6M","1M","1W","1D"]
-            reportStartDate:
-              type: string
-              format: date
-            cursor:
-              type: string
-              nullable: true
+        latitude: { type: number }
+        longitude: { type: number }
 
     PlanetEntry:
       type: object
-      required: [planetName, planetSign, planetDegree, houseNumber]
+      required: [planetName, planetSign, planetDegree, houseNumber, houseName, houseSign]
       properties:
         planetName: { type: string, example: "Sun" }
         planetSign: { type: string, example: "Cancer" }
@@ -615,7 +531,7 @@ components:
         houseName: { type: string, example: "Eighth House" }
         houseSign: { type: string, example: "Cancer" }
 
-    NatalChartData:
+    NatalChartOut:
       type: object
       required: [planets]
       properties:
@@ -623,175 +539,113 @@ components:
           type: array
           items: { $ref: '#/components/schemas/PlanetEntry' }
 
-    NatalChartOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/NatalChartData'
-
-    DignityRow:
-      type: object
-      properties:
-        planet: { type: string }
-        rulership: { type: boolean }
-        exaltation: { type: boolean }
-        detriment: { type: boolean }
-        fall: { type: boolean }
-        essentialScore: { type: number }
-        notes: { type: string }
-
-    DignitiesData:
+    DignitiesOut:
       type: object
       required: [table]
       properties:
         table:
           type: array
           description: Dignities table rows
-          items: { $ref: '#/components/schemas/DignityRow' }
-
-    DignitiesOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/DignitiesData'
-
-    NatalAspectItem:
-      type: object
-      properties:
-        aspect: { type: string, example: "Sun trine Moon" }
-        angle:
-          type: number
-          description: Angular separation in degrees
-        dist:
-          type: number
-          description: Distance from exact aspect in degrees
-        strength: { type: number }
-        characteristics:
-          type: object
-          additionalProperties: { type: string }
+          items:
+            type: object
+            properties:
+              planet: { type: string }
+              rulership: { type: boolean }
+              exaltation: { type: boolean }
+              detriment: { type: boolean }
+              fall: { type: boolean }
+              essentialScore: { type: number }
+              notes: { type: string }
 
     NatalAspectsOut:
       type: object
-      required: [data]
+      required: [aspects]
       properties:
-        data:
+        aspects:
           type: array
           description: List of natal aspects with strength & characteristics
-          items: { $ref: '#/components/schemas/NatalAspectItem' }
+          items:
+            type: object
+            properties:
+              aspect: { type: string, example: "Sun trine Moon" }
+              strength: { type: number, description: "0..1 normalized or custom score" }
+              characteristics:
+                type: array
+                items: { type: string }
 
-    KpiItem:
-      type: object
-      properties:
-        name: { type: string, example: "Leadership" }
-        shortDescription: { type: string }
-
-    NatalCharacteristicsData:
+    NatalCharacteristicsOut:
       type: object
       required: [description, kpis]
       properties:
         description: { type: string, description: "Narrative natal description" }
         kpis:
           type: array
-          items: { $ref: '#/components/schemas/KpiItem' }
-
-    NatalCharacteristicsOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/NatalCharacteristicsData'
-
-    LifeEvent:
-      type: object
-      properties:
-        aspect: { type: string }
-        eventType: { type: string, enum: ["MAJOR","MINOR"] }
-        timePeriod: { type: string }
-        startDate: { type: string, format: date }
-        endDate: { type: string, format: date }
-        exactDate: { type: string, format: date }
-        description: { type: string }
+          items:
+            type: object
+            properties:
+              name: { type: string, example: "Leadership" }
+              shortDescription: { type: string }
 
     LifeEventsOut:
       type: object
-      required: [data]
+      required: [events]
       properties:
-        data:
+        events:
           type: array
-          items: { $ref: '#/components/schemas/LifeEvent' }
+          items:
+            type: object
+            properties:
+              eventType: { type: string, enum: ["MAJOR","MINOR"] }
+              timePeriod: { type: string, example: "2026-01 to 2026-03" }
+              description: { type: string }
 
     TimelineItem:
       type: object
       properties:
         aspect: { type: string, example: "Jupiter sextile Moon" }
-        startDate: { type: string, format: date }
-        exactDate: { type: string, format: date }
-        endDate: { type: string, format: date }
+        startTime: { type: string, format: date-time }
+        exactTime: { type: string, format: date-time }
+        leaveTime: { type: string, format: date-time }
         description: { type: string }
         keyPoints:
-          type: object
-          additionalProperties:
-            type: array
-            items: { type: string }
-        facets_points:
-          type: object
-          additionalProperties: { type: string }
+          type: array
+          items: { type: string }
 
-    TimelineData:
+    TimelineOut:
       type: object
-      required: [items]
+      required: [items, aiSummary]
       properties:
         items:
           type: array
           items: { $ref: '#/components/schemas/TimelineItem' }
-        aiSummary:
-          type: string
-          nullable: true
+        aiSummary: { type: string }
 
-    TimelineOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/TimelineData'
-
-    DailyArea:
-      type: object
-      properties:
-        keyArea: { type: string, example: "Career" }
-        shortDescription: { type: string }
-
-    DailyWeeklyData:
+    DailyWeeklyOut:
       type: object
       required: [shortSummary, areas]
       properties:
         shortSummary: { type: string }
         areas:
-          type: object
-          additionalProperties: { $ref: '#/components/schemas/DailyArea' }
-
-    DailyWeeklyOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/DailyWeeklyData'
-
-    UpcomingEventWindow:
-      type: object
-      properties:
-        startDate: { type: string, format: date }
-        exactDate: { type: string, format: date }
-        leaveDate: { type: string, format: date }
+          type: array
+          items:
+            type: object
+            properties:
+              keyArea: { type: string, example: "Career" }
+              shortDescription: { type: string }
+              color:
+                type: string
+                enum: ["GREEN","RED","AMBER"]
 
     UpcomingEventRow:
       type: object
       properties:
         aspect: { type: string }
         timePeriod:
-          $ref: '#/components/schemas/UpcomingEventWindow'
+          type: object
+          properties:
+            startDate: { type: string, format: date }
+            exactDate: { type: string, format: date }
+            leaveDate: { type: string, format: date }
         lifeEvent: { type: string }
         shortDescription: { type: string }
         category:
@@ -800,9 +654,9 @@ components:
 
     UpcomingEventsOut:
       type: object
-      required: [data]
+      required: [events]
       properties:
-        data:
+        events:
           type: array
           items: { $ref: '#/components/schemas/UpcomingEventRow' }
 
@@ -842,7 +696,7 @@ components:
         score: { type: number, example: 0.78 }
         description: { type: string }
 
-    CompatibilityData:
+    CompatibilityOut:
       type: object
       required: [kpis, totalScore, summary]
       properties:
@@ -851,13 +705,6 @@ components:
           items: { $ref: '#/components/schemas/KpiScoreRow' }
         totalScore: { type: number, example: 0.74 }
         summary: { type: string }
-
-    CompatibilityOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/CompatibilityData'
 
     GroupCompatibilityIn:
       type: object
@@ -884,7 +731,7 @@ components:
         score: { type: number }
         description: { type: string }
 
-    GroupCompatibilityData:
+    GroupCompatibilityOut:
       type: object
       required: [pairwise, groupHarmony, totalGroupScore]
       properties:
@@ -896,41 +743,11 @@ components:
           items: { $ref: '#/components/schemas/KpiScoreRow' }
         totalGroupScore: { type: number }
 
-    GroupCompatibilityOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/GroupCompatibilityData'
-
-    SoulmateData:
+    SoulmateOut:
       type: object
       required: [datesOfBirth]
       properties:
         datesOfBirth:
           type: array
           items: { type: string, format: date }
-
-    SoulmateOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/SoulmateData'
-
-    AshtakootaData:
-      type: object
-      required: [result, explanation]
-      properties:
-        result:
-          type: object
-          additionalProperties: {}
-          description: Detailed Gun Milan breakdown (0–36)
-        explanation: { type: string }
-
-    AshtakootaOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/AshtakootaData'
+          
