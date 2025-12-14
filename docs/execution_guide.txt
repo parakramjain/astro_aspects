@@ -4,7 +4,7 @@ sequence of commands to update your code on EC2 and restart the backend service.
 ssh -i your-key.pem ubuntu@your-ec2-ip
 
 ✅ 2. Go to your project folder
-cd ~/astro-vision-backend
+cd ~/astro-aspects
 
 ✅ 3. Pull latest changes from GitHub
 git pull origin main

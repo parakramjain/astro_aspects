@@ -13,6 +13,51 @@ tags:
   - name: Compatibility
 
 paths:
+  /:
+    get:
+      summary: Landing
+      operationId: landing
+      security: []
+      responses:
+        '200':
+          description: Service landing payload
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /healthz:
+    get:
+      summary: Liveness probe
+      operationId: healthz
+      security: []
+      responses:
+        '200':
+          description: Service is healthy
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+        '500': { $ref: '#/components/responses/ServerError' }
+
+  /readyz:
+    get:
+      summary: Readiness probe
+      operationId: readyz
+      security: []
+      responses:
+        '200':
+          description: Service is ready
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+        '500': { $ref: '#/components/responses/ServerError' }
+
   # ============================
   # NATAL
   # ============================
@@ -48,12 +93,12 @@ paths:
           content:
             application/json:
               schema: { $ref: '#/components/schemas/NatalChartOut' }
-        '204':
-          description: No content (e.g., nothing computable for inputs)
         '400':
           $ref: '#/components/responses/BadRequest'
         '401':
           $ref: '#/components/responses/Unauthorized'
+        '404':
+          $ref: '#/components/responses/NotFound'
         '422':
           $ref: '#/components/responses/Unprocessable'
         '500':
@@ -81,9 +126,9 @@ paths:
           content:
             application/json:
               schema: { $ref: '#/components/schemas/DignitiesOut' }
-        '204': { description: No content }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -109,9 +154,9 @@ paths:
           content:
             application/json:
               schema: { $ref: '#/components/schemas/NatalAspectsOut' }
-        '204': { description: No content }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -137,9 +182,9 @@ paths:
           content:
             application/json:
               schema: { $ref: '#/components/schemas/NatalCharacteristicsOut' }
-        '204': { description: No content }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -161,25 +206,16 @@ paths:
         required: true
         content:
           application/json:
-            schema: { $ref: '#/components/schemas/BirthPayload' }
+            schema: { $ref: '#/components/schemas/LifeEventPayload' }
       responses:
         '200':
           description: Life events dictionary
           content:
             application/json:
               schema: { $ref: '#/components/schemas/LifeEventsOut' }
-        '204': { description: No content }
-        '206':
-          description: Partial content (paged)
-          headers:
-            X-Next-Cursor:
-              schema: { type: string }
-              description: Cursor for next page
-          content:
-            application/json:
-              schema: { $ref: '#/components/schemas/LifeEventsOut' }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -205,18 +241,9 @@ paths:
           content:
             application/json:
               schema: { $ref: '#/components/schemas/TimelineOut' }
-        '206':
-          description: Partial timeline page
-          headers:
-            X-Next-Cursor:
-              schema: { type: string }
-              description: Cursor for next page
-          content:
-            application/json:
-              schema: { $ref: '#/components/schemas/TimelineOut' }
-        '204': { description: No content }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -242,9 +269,9 @@ paths:
           content:
             application/json:
               schema: { $ref: '#/components/schemas/DailyWeeklyOut' }
-        '204': { description: No content }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -270,17 +297,9 @@ paths:
           content:
             application/json:
               schema: { $ref: '#/components/schemas/LifeEventsOut' }
-        '206':
-          description: Partial content (paged)
-          headers:
-            X-Next-Cursor:
-              schema: { type: string }
-          content:
-            application/json:
-              schema: { $ref: '#/components/schemas/LifeEventsOut' }
-        '204': { description: No content }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -303,15 +322,36 @@ paths:
         content:
           application/json:
             schema: { $ref: '#/components/schemas/CompatibilityPairIn' }
+            examples:
+              sample:
+                summary: Sample (matches CompatibilityPairIn)
+                value:
+                  person1:
+                    name: "Amit"
+                    dateOfBirth: "1991-07-14"
+                    timeOfBirth: "22:35:00"
+                    placeOfBirth: "Mumbai, IN"
+                    timeZone: "Asia/Kolkata"
+                    latitude: 19.0760
+                    longitude: 72.8777
+                  person2:
+                    name: "Riya"
+                    dateOfBirth: "1993-02-20"
+                    timeOfBirth: "06:10:00"
+                    placeOfBirth: "Delhi, IN"
+                    timeZone: "Asia/Kolkata"
+                    latitude: 28.6139
+                    longitude: 77.2090
+                  type: "General"
       responses:
         '200':
           description: Compatibility KPIs, total score, summary
           content:
             application/json:
               schema: { $ref: '#/components/schemas/CompatibilityOut' }
-        '204': { description: No content }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -337,17 +377,9 @@ paths:
           content:
             application/json:
               schema: { $ref: '#/components/schemas/GroupCompatibilityOut' }
-        '206':
-          description: Partial content (large groups with pagination)
-          headers:
-            X-Next-Cursor:
-              schema: { type: string }
-          content:
-            application/json:
-              schema: { $ref: '#/components/schemas/GroupCompatibilityOut' }
-        '204': { description: No content }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -373,9 +405,9 @@ paths:
           content:
             application/json:
               schema: { $ref: '#/components/schemas/SoulmateOut' }
-        '204': { description: No content }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -421,6 +453,27 @@ paths:
         content:
           application/json:
             schema: { $ref: '#/components/schemas/CompatibilityPairIn' }
+            examples:
+              sample:
+                summary: Sample (matches CompatibilityPairIn)
+                value:
+                  person1:
+                    name: "Amit"
+                    dateOfBirth: "1991-07-14"
+                    timeOfBirth: "22:35:00"
+                    placeOfBirth: "Mumbai, IN"
+                    timeZone: "Asia/Kolkata"
+                    latitude: 19.0760
+                    longitude: 72.8777
+                  person2:
+                    name: "Riya"
+                    dateOfBirth: "1993-02-20"
+                    timeOfBirth: "06:10:00"
+                    placeOfBirth: "Delhi, IN"
+                    timeZone: "Asia/Kolkata"
+                    latitude: 28.6139
+                    longitude: 77.2090
+                  type: "Marriage"
       responses:
         '200':
           description: Gun Milan score with explanation
@@ -429,6 +482,7 @@ paths:
               schema: { $ref: '#/components/schemas/AshtakootaOut' }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
+        '404': { $ref: '#/components/responses/NotFound' }
         '422': { $ref: '#/components/responses/Unprocessable' }
         '500': { $ref: '#/components/responses/ServerError' }
 
@@ -472,7 +526,7 @@ components:
       required: true
       schema:
         type: string
-        example: "Bearer <token>"
+        default: "Bearer demo-token"
       description: Bearer token for authentication.
     XAppId:
       name: X-App-ID
@@ -505,6 +559,15 @@ components:
             error:
               code: "UNAUTHORIZED"
               message: "Authentication credentials are missing or invalid."
+    NotFound:
+      description: Not found
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/ErrorResponse' }
+          example:
+            error:
+              code: "NOT_FOUND"
+              message: "Not Found"
     Unprocessable:
       description: Semantically invalid (e.g., impossible birth time/zone)
       content:
@@ -554,6 +617,15 @@ components:
       properties:
         error:
           $ref: '#/components/schemas/ErrorEnvelope'
+
+    SuccessEnvelope:
+      type: object
+      description: Standard success wrapper returning every payload under a top-level `data` key.
+      required: [data]
+      properties:
+        data:
+          description: Concrete payload populated per-endpoint schema.
+          nullable: true
 
     BirthPayload:
       type: object
@@ -624,11 +696,12 @@ components:
           items: { $ref: '#/components/schemas/PlanetEntry' }
 
     NatalChartOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/NatalChartData'
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              $ref: '#/components/schemas/NatalChartData'
 
     DignityRow:
       type: object
@@ -651,11 +724,12 @@ components:
           items: { $ref: '#/components/schemas/DignityRow' }
 
     DignitiesOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/DignitiesData'
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              $ref: '#/components/schemas/DignitiesData'
 
     NatalAspectItem:
       type: object
@@ -673,13 +747,14 @@ components:
           additionalProperties: { type: string }
 
     NatalAspectsOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          type: array
-          description: List of natal aspects with strength & characteristics
-          items: { $ref: '#/components/schemas/NatalAspectItem' }
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              type: array
+              description: List of natal aspects with strength & characteristics
+              items: { $ref: '#/components/schemas/NatalAspectItem' }
 
     KpiItem:
       type: object
@@ -697,11 +772,12 @@ components:
           items: { $ref: '#/components/schemas/KpiItem' }
 
     NatalCharacteristicsOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/NatalCharacteristicsData'
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              $ref: '#/components/schemas/NatalCharacteristicsData'
 
     LifeEvent:
       type: object
@@ -715,12 +791,13 @@ components:
         description: { type: string }
 
     LifeEventsOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          type: array
-          items: { $ref: '#/components/schemas/LifeEvent' }
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              type: array
+              items: { $ref: '#/components/schemas/LifeEvent' }
 
     TimelineItem:
       type: object
@@ -751,11 +828,12 @@ components:
           nullable: true
 
     TimelineOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/TimelineData'
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              $ref: '#/components/schemas/TimelineData'
 
     DailyArea:
       type: object
@@ -767,17 +845,30 @@ components:
       type: object
       required: [shortSummary, areas]
       properties:
-        shortSummary: { type: string }
+        shortSummary:
+          type: object
+          properties:
+            en: { type: string, description: "English short summary" }
+            hi: { type: string, description: "Hindi short summary" }
         areas:
           type: object
-          additionalProperties: { $ref: '#/components/schemas/DailyArea' }
+          additionalProperties:
+            type: object
+            properties:
+              en:
+                type: array
+                items: { type: string }
+              hi:
+                type: array
+                items: { type: string }
 
     DailyWeeklyOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/DailyWeeklyData'
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              $ref: '#/components/schemas/DailyWeeklyData'
 
     UpcomingEventWindow:
       type: object
@@ -799,12 +890,13 @@ components:
           enum: ["POSITIVE","NEGATIVE"]
 
     UpcomingEventsOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          type: array
-          items: { $ref: '#/components/schemas/UpcomingEventRow' }
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              type: array
+              items: { $ref: '#/components/schemas/UpcomingEventRow' }
 
     PersonPayload:
       type: object
@@ -853,11 +945,12 @@ components:
         summary: { type: string }
 
     CompatibilityOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/CompatibilityData'
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              $ref: '#/components/schemas/CompatibilityData'
 
     GroupCompatibilityIn:
       type: object
@@ -897,11 +990,12 @@ components:
         totalGroupScore: { type: number }
 
     GroupCompatibilityOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/GroupCompatibilityData'
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              $ref: '#/components/schemas/GroupCompatibilityData'
 
     SoulmateData:
       type: object
@@ -912,11 +1006,12 @@ components:
           items: { type: string, format: date }
 
     SoulmateOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/SoulmateData'
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              $ref: '#/components/schemas/SoulmateData'
 
     AshtakootaData:
       type: object
@@ -929,8 +1024,9 @@ components:
         explanation: { type: string }
 
     AshtakootaOut:
-      type: object
-      required: [data]
-      properties:
-        data:
-          $ref: '#/components/schemas/AshtakootaData'
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              $ref: '#/components/schemas/AshtakootaData'

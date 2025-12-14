@@ -57,8 +57,8 @@ def generate_astrology_AI_summary(system_prompt: str, user_prompt: str, model: s
             print("Prompt tokens:", response.usage.prompt_tokens)
             print("Completion tokens:", response.usage.completion_tokens)
             print("Total tokens:", response.usage.total_tokens)
-        print("========== Response from generate_astrology_AI_summary ===========")
-        print(response_text)
+        # print("========== Response from generate_astrology_AI_summary ===========")
+        # print(response_text)
         print("===============================================================")
         return response_text
     except Exception as e:

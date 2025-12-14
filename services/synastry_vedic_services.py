@@ -75,6 +75,47 @@ MAX_POINTS: Dict[str, int] = {
     "nadi": 8,
 }
 
+# Meaning/intent of each koota (used in API output and explanation)
+KOOTA_MEANINGS: Dict[str, str] = {
+    "varna": "Spiritual & mental balance, mutual respect, non-dominance",
+    "vashya": "Control, dominance, mutual influence",
+    "tara": "Health, longevity, general wellbeing",
+    "yoni": "Physical attraction & intimacy",
+    "graha_maitri": "Friendship, mental connection, intellectual sync",
+    "gana": "Nature, temperament, and behavioral compatibility",
+    "bhakoot": "Emotional harmony and empathy",
+    "nadi": "Health of progeny, fertility, life energy",
+}
+
+
+def koota_compatibility_status(awarded: float, max_points: float) -> str:
+    """Map a koota score to a simple compatibility status label.
+
+    Statuses are derived purely from awarded/max ratio:
+    - 0 -> "Dosha (bad)"
+    - (0, 0.5) -> "Neutral"
+    - [0.5, 0.75) -> "Average"
+    - [0.75, 0.95) -> "Good"
+    - [0.95, 1.0] -> "Excellent"
+    """
+    try:
+        awarded_f = float(awarded)
+        max_f = float(max_points)
+    except Exception:
+        return "Neutral"
+    if max_f <= 0:
+        return "Neutral"
+    if awarded_f <= 0:
+        return "Dosha (bad)"
+    ratio = awarded_f / max_f
+    if ratio >= 0.95:
+        return "Excellent"
+    if ratio >= 0.75:
+        return "Good"
+    if ratio >= 0.50:
+        return "Average"
+    return "Neutral"
+
 # Total score interpretation bands (Gun Milan)
 SCORE_BANDS = [
     (0.0, 17.5, "Challenging Match"),
@@ -728,6 +769,15 @@ def compute_ashtakoota_score(
     parts["nadi"] = score_nadi(nak1, nak2, use_exceptions=use_exceptions)
 
     agg = sum_scores(parts)
+
+    # Attach koota meanings + status for API consumers (non-breaking additive fields)
+    for k, v in agg.get("scores", {}).items():
+        if not isinstance(v, dict):
+            continue
+        meaning = KOOTA_MEANINGS.get(k)
+        if meaning:
+            v.setdefault("meaning", meaning)
+        v.setdefault("compatibility_status", koota_compatibility_status(v.get("awarded", 0.0), v.get("max", MAX_POINTS.get(k, 0))))
     meta = {
         "ayanamsa": ayanamsa,
         "coordinate_system": coordinate_system,
@@ -757,18 +807,6 @@ def explain_ashtakoota(result: Dict) -> str:
     lines: List[str] = []
     s = result.get("scores", {})
 
-    # Factor description map (as requested)
-    FACTOR_DESCRIPTIONS = {
-        "varna": "Spiritual & mental balance, mutual respect, non-dominance",
-        "vashya": "Control, dominance, mutual influence",
-        "tara": "Health, longevity, general wellbeing",
-        "yoni": "Physical attraction & intimacy",
-        "graha_maitri": "Friendship, mental connection, intellectual sync",  # Rasyadhipati
-        "gana": "Nature, temperament, and behavioral compatibility",
-        "bhakoot": "Emotional harmony and empathy",  # Rashi
-        "nadi": "Health of progeny, fertility, life energy",  # Nandi (Nadi)
-    }
-
     def kline(key: str, title: str, detail_keys: List[Tuple[str, str]] | None = None) -> None:
         if key not in s:
             return
@@ -781,7 +819,7 @@ def explain_ashtakoota(result: Dict) -> str:
                 if dk in detail:
                     extras.append(f"{label}: {detail[dk]}")
         extra = f" ({'; '.join(extras)})" if extras else ""
-        desc = FACTOR_DESCRIPTIONS.get(key)
+        desc = KOOTA_MEANINGS.get(key)
         desc_txt = f" - {desc}" if desc else ""
         lines.append(f"{title}: {awarded}/{maxp}{extra}{desc_txt}")
 
@@ -789,7 +827,7 @@ def explain_ashtakoota(result: Dict) -> str:
     kline("vashya", "Vashya", [("group1", "P1"), ("group2", "P2")])
     if "tara" in s:
         d = s["tara"]["detail"]
-        desc_txt = " - " + FACTOR_DESCRIPTIONS["tara"]
+        desc_txt = " - " + KOOTA_MEANINGS["tara"]
         lines.append(
             f"Tara: {s['tara']['awarded']}/{s['tara']['max']} (diff={d.get('diff')}, group={d.get('group')}, class={d.get('class')}){desc_txt}"
         )
@@ -798,7 +836,7 @@ def explain_ashtakoota(result: Dict) -> str:
     kline("gana", "Gana", [("gana1", "P1"), ("gana2", "P2")])
     if "bhakoot" in s:
         d = s["bhakoot"]["detail"]
-        desc_txt = " - " + FACTOR_DESCRIPTIONS["bhakoot"]
+        desc_txt = " - " + KOOTA_MEANINGS["bhakoot"]
         lines.append(
             f"Bhakoot: {s['bhakoot']['awarded']}/{s['bhakoot']['max']} (m→f={d.get('distance_m')}, f→m={d.get('distance_f')}, {d.get('status')}){desc_txt}"
         )
@@ -847,4 +885,6 @@ if __name__ == "__main__":
         assert k in res["scores"], f"Missing koota in result: {k}"
         v = res["scores"][k]
         assert 0.0 <= float(v["awarded"]) <= float(v["max"]) <= MAX_POINTS[k]
+        assert "meaning" in v and isinstance(v["meaning"], str) and v["meaning"], f"Missing meaning for koota: {k}"
+        assert v.get("compatibility_status") in {"Dosha (bad)", "Neutral", "Average", "Good", "Excellent"}, f"Bad status for koota: {k}"
 # ============================ Constants =============================

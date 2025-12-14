@@ -1,6 +1,6 @@
 from __future__ import annotations
 import datetime as dt
-from typing import List, Optional, Dict
+from typing import List, Optional, Dict, Any
 
 # Removed unused import that could cause confusion; not needed for this module.
 
@@ -15,14 +15,15 @@ from schemas import (
     DailyWeeklyOut
 )
 from astro_core.astro_core import calc_aspect_periods
-
+from services.ai_prompt_service import get_system_prompt_report, get_user_prompt_report, get_user_prompt_daily_weekly, get_system_prompt_daily_weekly
+from services.ai_agent_services import generate_astrology_AI_summary
 
 def compute_life_events(
     payload: BirthPayload,
     start_date: Optional[dt.date] = None,
-    horizon_days: int = 180,
-    sample_step_hours: int = 6,
-    limit: int = 50,
+    horizon_days: int = 1825,
+    sample_step_hours: int = 24,
+    limit: int = 5000,
 ) -> List[LifeEvent]:
     """Compute upcoming life events using transit-to-natal aspect windows.
 
@@ -31,13 +32,12 @@ def compute_life_events(
     - start_date: anchor date (defaults to today)
     - horizon_days: days ahead to search (default 180)
     - sample_step_hours: sampling step for aspect search (default 6h)
-    - limit: max number of aspect windows to include (default 50)
+    - limit: max number of aspect windows to include (default 5000)
 
     Returns a list of LifeEvent models suitable for API response.
     """
     anchor = start_date or dt.date.today()
     end = anchor + dt.timedelta(days=horizon_days)
-    # print("horizon_days: ", horizon_days)
 
     periods = calc_aspect_periods(
         birth_date=payload.dateOfBirth,
@@ -61,47 +61,48 @@ def compute_life_events(
     for p in periods[:limit]:
         t, a, n = p.aspect  # e.g. ('Jup','Con','Sun')
         event_type = "MAJOR" if t in {"Jup", "Sat", "Ura", "Nep", "Plu"} else "MINOR"
-        startDate = p.start_dt.date().isoformat()
-        endDate = p.end_dt.date().isoformat()
-        exactDate = p.exact_dt.date().isoformat()
-        span = f"{p.start_dt.date()} to {p.end_dt.date()}" 
-        # Build card id using KB naming conventions (uppercase planet codes + aspect code).
-        card_id = f"{PLANET_CODE_MAP.get(t, t.upper())}_{ASPECT_CODE_MAP.get(a, a.upper())}_{PLANET_CODE_MAP.get(n, n.upper())}__v1.0.0"
-        description_text = ""
-        try:
-            # Fetch only the life_event_type field from the aspect card. The helper returns
-            # a structure {"id": ..., "fields": {...}} so we must unwrap the "fields" key.
-            raw_fields = get_card_fields(card_id, fields="life_event_type")
-            life_event_value = raw_fields.get("fields", {}).get("life_event_type")
-            # life_event_type in the card schema currently appears as a list (or may be missing).
-            # Normalize to a human-readable string for the LifeEvent.description field (expects str).
-            if isinstance(life_event_value, list):
-                if life_event_value:
-                    description_text = ", ".join(str(x) for x in life_event_value)
+        if event_type == "MAJOR":
+            startDate = p.start_dt.date().isoformat()
+            endDate = p.end_dt.date().isoformat()
+            exactDate = p.exact_dt.date().isoformat()
+            span = f"{p.start_dt.date()} to {p.end_dt.date()}" 
+            # Build card id using KB naming conventions (uppercase planet codes + aspect code).
+            card_id = f"{PLANET_CODE_MAP.get(t, t.upper())}_{ASPECT_CODE_MAP.get(a, a.upper())}_{PLANET_CODE_MAP.get(n, n.upper())}__v1.0.0"
+            description_text = ""
+            try:
+                # Fetch only the life_event_type field from the aspect card. The helper returns
+                # a structure {"id": ..., "fields": {...}} so we must unwrap the "fields" key.
+                raw_fields = get_card_fields(card_id, fields="life_event_type")
+                life_event_value = raw_fields.get("fields", {}).get("life_event_type")
+                # life_event_type in the card schema currently appears as a list (or may be missing).
+                # Normalize to a human-readable string for the LifeEvent.description field (expects str).
+                if isinstance(life_event_value, list):
+                    if life_event_value:
+                        description_text = ", ".join(str(x) for x in life_event_value)
+                    else:
+                        description_text = ""  # empty list -> empty description
+                elif isinstance(life_event_value, (str, int, float)):
+                    description_text = str(life_event_value)
+                elif life_event_value is None:
+                    description_text = ""  # missing -> empty
                 else:
-                    description_text = ""  # empty list -> empty description
-            elif isinstance(life_event_value, (str, int, float)):
-                description_text = str(life_event_value)
-            elif life_event_value is None:
-                description_text = ""  # missing -> empty
-            else:
-                description_text = str(life_event_value)
-        except Exception:
-            # Card might not exist yet; fallback description.
-            description_text = ""  # leave blank; fill heuristic below.
-        # Heuristic fallback if still blank.
-        if not description_text:
-            description_text = f"{PLANET_CODE_MAP.get(t, t)} {a} {PLANET_CODE_MAP.get(n, n)} transit window"
-        data.append(
-            LifeEvent(
-                aspect=f"{t} {a} {n}",
-                eventType=event_type,
-                timePeriod=span,
-                startDate=startDate,
-                endDate=endDate,
-                exactDate=exactDate,
-                description=description_text,
-            )
+                    description_text = str(life_event_value)
+            except Exception:
+                # Card might not exist yet; fallback description.
+                description_text = ""  # leave blank; fill heuristic below.
+            # Heuristic fallback if still blank.
+            if not description_text:
+                description_text = f"{PLANET_CODE_MAP.get(t, t)} {a} {PLANET_CODE_MAP.get(n, n)} transit window"
+            data.append(
+                LifeEvent(
+                    aspect=f"{t} {a} {n}",
+                    eventType=event_type,
+                    timePeriod=span,
+                    startDate=startDate,
+                    endDate=endDate,
+                    exactDate=exactDate,
+                    description=description_text,
+                )
         )
     return data
 
@@ -158,60 +159,57 @@ def compute_timeline(req: TimelineRequest) -> TimelineData:
     }
     ASPECT_CODE_MAP = {"Con": "CON", "Opp": "OPP", "Sqr": "SQR", "Tri": "TRI", "Sxt": "SEX"}
 
+    print("Executing all aspects")
     for p in periods:
         t, a, n = p.aspect
-        # Build card_id and fetch description/actionables from the aspect card.
         card_id = f"{PLANET_CODE_MAP.get(t, t.upper())}_{ASPECT_CODE_MAP.get(a, a.upper())}_{PLANET_CODE_MAP.get(n, n.upper())}__v1.0.0"
 
-        desc_text: Optional[str] = None
-        key_points: Optional[Dict[str, List[str]]] = None
-        facets_points: Optional[Dict[str, str]] = None
+        desc_text: Optional[Dict[str, Any]] = None
+        key_points: Optional[Dict[str, Any]] = None
+        facets_points: Optional[Dict[str, Any]] = None
+        keywords: Optional[Dict[str, Any]] = None
+
+        aspect_nature = "Positive" if ASPECT_CODE_MAP.get(a, a.upper()) in {"CON", "TRI", "SXT"} else "Negative"
 
         try:
-            sel = get_card_fields(card_id, fields="core_meaning,core_meaning,facets,actionables")
-            print("Fetched card fields for card_id ", card_id, ": ", sel)
-            print("===============================================================")
-            fields = sel.get("fields", {})
-            print("Fields extracted: ", fields)
-            # Prefer localized core description
-            loc = fields.get("locales", {})
-            hi = loc.get("hi") if isinstance(loc, dict) else None
-            if isinstance(hi, dict):
-                desc_text = hi.get("core") or None
-            if not desc_text:
-                # Fallback to core_meaning
-                cm = fields.get("core_meaning")
-                if isinstance(cm, str):
-                    desc_text = cm
-            # Extract actionables -> include the full dict as-is (applying/exact/separating)
+            sel = get_card_fields(card_id, fields="core_meaning,facets,actionables,keywords")
+            fields = sel.get("fields", {}) if isinstance(sel, dict) else {}
+
+            cm_value = fields.get("core_meaning") if isinstance(fields, dict) else None
+            if isinstance(cm_value, dict):
+                desc_text = cm_value
+            else:
+                desc_text = {"en": "", "hi": ""}
+
             acts = fields.get("actionables") if isinstance(fields, dict) else None
             if isinstance(acts, dict):
-                # Use original shape so clients can decide how to display
-                key_points = {k: [str(x) for x in v] for k, v in acts.items() if isinstance(v, list)}
-            
-            facets = fields.get("facets")
-            # print("Facets fetched for card_id ", card_id, ": ", facets)
+                key_points = acts
+            else:
+                key_points = {"applying": {"en": [], "hi": []}, "exact": {"en": [], "hi": []}, "separating": {"en": [], "hi": []}}
+
+            facets = fields.get("facets") if isinstance(fields, dict) else None
             if isinstance(facets, dict):
-                # Ensure facets_points is a dict before populating it
-                if facets_points is None:
-                    print("facets_points is None for card_id: ", card_id)
-                    facets_points = {}
-                for fk, fv in facets.items():
-                    if isinstance(fv, str):
-                        facets_points[fk] = str(fv)
+                facets_points = facets or {}
+            else:
+                facets_points = { "career": { "en": " ", "hi": " "}, "relationships": {"en": " ", "hi": " "}, "money": {"en": " ","hi": " "},"health_adj": {"en": " ","hi": " "}}
+            key_words = fields.get("keywords") if isinstance(fields, dict) else None
+            if isinstance(key_words, dict):
+                keywords=key_words
+
         except Exception:
-            # Missing card or unexpected structure; leave description/keyPoints as None
             pass
 
         items.append(
             TimelineItem(
                 aspect=f"{t} {a} {n}",
+                aspectNature=aspect_nature,
                 startDate=p.start_dt.isoformat(),
                 exactDate=p.exact_dt.isoformat(),
                 endDate=p.end_dt.isoformat(),
                 description=desc_text,
                 keyPoints=key_points,
-                facets_points=facets_points
+                facetsPoints=facets_points,
+                keywords=keywords
             )
         )
     summary = (
@@ -221,39 +219,100 @@ def compute_timeline(req: TimelineRequest) -> TimelineData:
     return TimelineData(items=items, aiSummary=summary)
 
 def dailyWeeklyTimeline(req: TimelineRequest) -> DailyWeeklyData:
-    """Build daily/weekly summary for the given request.
+    """Build bilingual daily/weekly summary focused on description + facets."""
 
-    Encapsulates date range selection, sampling step, aspect window computation,
-    and conversion to DailyWeeklyData models.
-    """
-    dailyWeeklyTimeline_data = compute_timeline(req)
+    timeline = compute_timeline(req)
     today = dt.date.today()
-    # populate areas with the facets from timeline_data
-    summary = f"{req.timePeriod} outlook generated for {req.name} on {today.isoformat()} (placeholder)."
-    # areas is of type Dict
-    areas: Dict[str, List] = {}
-    print("Total items in dailyWeeklyTimeline_data.items:", len(dailyWeeklyTimeline_data.items))
-    for item in dailyWeeklyTimeline_data.items:
-        if isinstance(item.facets_points, dict):
-            for key, value in item.facets_points.items():
-                if key in areas:
-                    existing = areas[key]
-                    # If existing is a list, extend/append appropriately
-                    if isinstance(existing, list):
-                        if isinstance(value, list):
-                            existing.extend(value)
-                        else:
-                            existing.append(value)
-                    else:
-                        # If existing is not a list, convert to list and merge
-                        if isinstance(value, list):
-                            areas[key] = [existing] + value
-                        else:
-                            areas[key] = [existing, value]
-                else:
-                    areas[key] = [value]
 
-    return DailyWeeklyData(shortSummary=summary, areas=areas)
+    summary_map: Dict[str, List[str]] = {"en": [], "hi": []}
+    areas: Dict[str, Dict[str, List[str]]] = {}
+
+    def _extract_description_langs(value: Any) -> Dict[str, List[str]]:
+        buckets: Dict[str, List[str]] = {"en": [], "hi": []}
+        if isinstance(value, dict):
+            for lang_code in ("en", "hi"):
+                text_val = value.get(lang_code)
+                if isinstance(text_val, str) and text_val.strip():
+                    buckets[lang_code].append(text_val.strip())
+        elif isinstance(value, str):
+            parts = [segment.strip() for segment in value.split("\n") if segment.strip()]
+            if parts:
+                buckets["en"].append(parts[0])
+            if len(parts) > 1:
+                buckets["hi"].append(parts[1])
+        return buckets
+
+    def _parse_facets_value(value: Any) -> Dict[str, List[str]]:
+        localized: Dict[str, List[str]] = {"en": [], "hi": []}
+        if isinstance(value, dict):
+            for lang_code in ("en", "hi"):
+                lang_val = value.get(lang_code)
+                if isinstance(lang_val, str) and lang_val.strip():
+                    localized[lang_code].append(lang_val.strip())
+                elif isinstance(lang_val, list):
+                    localized[lang_code].extend(str(item).strip() for item in lang_val if str(item).strip())
+        elif isinstance(value, str):
+            for line in value.split("\n"):
+                cleaned = line.strip()
+                if not cleaned or ":" not in cleaned:
+                    continue
+                prefix, text = cleaned.split(":", 1)
+                lang_key = prefix.strip().lower()
+                if lang_key in localized and text.strip():
+                    localized[lang_key].append(text.strip())
+        return localized
+
+    def _ensure_area_bucket(area_key: str) -> Dict[str, List[str]]:
+        bucket = areas.setdefault(area_key, {"en": [], "hi": []})
+        for lang_code in ("en", "hi"):
+            bucket.setdefault(lang_code, [])
+        return bucket
+
+    for item in timeline.items:
+        desc_langs = _extract_description_langs(item.description)
+        for lang_code, entries in desc_langs.items():
+            for entry in entries:
+                if entry and entry not in summary_map[lang_code]:
+                    summary_map[lang_code].append(entry)
+
+        facets = item.facetsPoints
+        if not isinstance(facets, dict):
+            continue
+        for area_key, raw_value in facets.items():
+            lang_entries = _parse_facets_value(raw_value)
+            if not lang_entries["en"] and not lang_entries["hi"]:
+                continue
+            bucket = _ensure_area_bucket(area_key)
+            for lang_code, entries in lang_entries.items():
+                for entry in entries:
+                    if entry and entry not in bucket[lang_code]:
+                        bucket[lang_code].append(entry)
+
+    fallback = f"{req.timePeriod} outlook generated for {req.name} on {today.isoformat()}."
+    summary_out: Dict[str, Optional[str]] = {
+        "en": "\n\n".join(summary_map["en"]) if summary_map["en"] else fallback,
+        "hi": "\n\n".join(summary_map["hi"]) if summary_map["hi"] else None,
+    }
+    if summary_out["hi"] is None:
+        summary_out["hi"] = summary_out["en"]
+
+    return DailyWeeklyData(shortSummary=summary_out, areas=areas)
+
+def compute_report_ai_summary(aspects_text: str) -> str:
+    system_prompt = get_system_prompt_report()
+    user_prompt = get_user_prompt_report(aspects_text)
+
+    response_text = generate_astrology_AI_summary(system_prompt, user_prompt, model="gpt-4.1")
+    return response_text
+
+def compute_daily_weekly_ai_summary(aspects_text: str) -> str:
+    print("Generating daily/weekly AI summary...")
+    system_prompt = get_system_prompt_daily_weekly()
+    user_prompt = get_user_prompt_daily_weekly(aspects_text)
+
+    response_text = generate_astrology_AI_summary(system_prompt, user_prompt, model="gpt-4.1")
+    return response_text
+
 
 if __name__ == "__main__":
     # Simple test
@@ -266,7 +325,7 @@ if __name__ == "__main__":
             timeZone="Asia/Kolkata",
             latitude=22.72,
             longitude=75.80,
-            timePeriod="1W",
+            timePeriod="1D",
             reportStartDate="2025-11-01",
     )
 
@@ -276,10 +335,14 @@ if __name__ == "__main__":
     # for ev in events:
     #     print(ev)
 
-    timeline_output = compute_timeline(payload)
-    print("Timeline Items:")
-    for item in timeline_output.items:
-        print(item.facets_points)
-        print("-----"*20)
-    print("Timeline Summary:")
-    print(timeline_output.aiSummary)
+    # timeline_output = compute_timeline(payload)
+    # print("Timeline Items:")
+    # for item in timeline_output.items:
+    #     print(item.facets_points)
+    #     print("-----"*20)
+    # print("Timeline Summary:")
+    # print(timeline_output.aiSummary)
+
+    output = dailyWeeklyTimeline(payload)
+    print("Daily/Weekly Output Summary:")
+    print(output)

@@ -27,7 +27,7 @@ from schemas import (
 
 from services.natal_services import planet_positions_and_houses, compute_natal_natal_aspects, calculate_natal_chart_data, lon_to_sign_deg_min, SIGN_NAMES,compute_natal_ai_summary
 from astro_core.astro_core import calc_aspect_periods, ASPECTS, ASPECT_ORB_DEG, _delta_circ  # type: ignore
-from services.report_services import compute_life_events, compute_timeline, dailyWeeklyTimeline
+from services.report_services import compute_life_events, compute_timeline, dailyWeeklyTimeline, compute_report_ai_summary, compute_daily_weekly_ai_summary
 from services.synastry_services import calculate_synastry  # newly added synastry pipeline
 from services.synastry_vedic_services import compute_ashtakoota_score, explain_ashtakoota
 from services.synastry_group_services import (
@@ -40,7 +40,31 @@ from services.synastry_group_services import (
 )
 
 
-router = APIRouter(prefix="/api")
+def _require_api_headers(
+    x_correlation_id: Annotated[Optional[str], Header(alias="X-Correlation-ID")] = None,
+    x_transaction_id: Annotated[Optional[str], Header(alias="X-Transaction-ID")] = None,
+    x_session_id: Annotated[Optional[str], Header(alias="X-Session-ID")] = None,
+    x_app_id: Annotated[Optional[str], Header(alias="X-App-ID")] = None,
+    authorization: Annotated[Optional[str], Header(alias="Authorization")] = None,
+) -> None:
+    if not authorization or not str(authorization).strip():
+        raise HTTPException(status_code=401, detail="Missing Authorization header")
+
+    missing = []
+    if not x_correlation_id:
+        missing.append("X-Correlation-ID")
+    if not x_transaction_id:
+        missing.append("X-Transaction-ID")
+    if not x_session_id:
+        missing.append("X-Session-ID")
+    if not x_app_id:
+        missing.append("X-App-ID")
+
+    if missing:
+        raise HTTPException(status_code=400, detail=f"Missing required headers: {', '.join(missing)}")
+
+
+router = APIRouter(prefix="/api", dependencies=[Depends(_require_api_headers)])
 
 
 # --------------------- Helpers ---------------------
@@ -245,6 +269,18 @@ def report_timeline(
     ),
 ) -> TimelineOut:
     timeline_data = compute_timeline(req)
+
+    try:
+        items_payload = [
+            item.model_dump() if hasattr(item, "model_dump") else item.dict()  # type: ignore[union-attr]
+            for item in timeline_data.items
+        ]
+        aspects_text = json.dumps(items_payload, ensure_ascii=False)
+        timeline_data.aiSummary = compute_report_ai_summary(aspects_text)
+    except Exception as e:
+        # If AI summary generation fails, continue returning structural data
+        print(f"[reports/timeline] AI summary generation failed: {e}")
+
     return TimelineOut(data=timeline_data)
 
 
@@ -273,6 +309,17 @@ def daily_weekly(
 ) -> DailyWeeklyOut:
     dailyWeeklyTimeline_data = dailyWeeklyTimeline(req)
 
+    try:
+        items_payload = [
+            item.model_dump() if hasattr(item, "model_dump") else item.dict()  # type: ignore[union-attr]
+            for item in dailyWeeklyTimeline_data.data
+        ]
+        aspects_text = json.dumps(items_payload, ensure_ascii=False)
+        dailyWeeklyTimeline_data = compute_daily_weekly_ai_summary(aspects_text)
+    except Exception as e:
+        # If AI summary generation fails, continue returning structural data
+        print(f"[reports/timeline] AI summary generation failed: {e}")
+        
     return DailyWeeklyOut(data=dailyWeeklyTimeline_data)
 
 
@@ -291,8 +338,8 @@ def upcoming_events(
                     "timeZone": "Asia/Kolkata",
                     "latitude": 19.0760,
                     "longitude": 72.8777,
-                    "start_date": "2025-11-01",
-                    "horizon_days": 7,
+                    "start_date": "2025-11-01", # 1st of current month
+                    "horizon_days": 365,
                 },
             }
         },

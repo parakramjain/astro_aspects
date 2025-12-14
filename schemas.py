@@ -227,12 +227,14 @@ class LifeEventsOut(BaseModel):
 
 class TimelineItem(BaseModel):
     aspect: str
+    aspectNature: str  # Positive | Negative
     startDate: str
     exactDate: str
     endDate: str
-    description: Optional[str] = None
-    keyPoints: Optional[Dict[str, List[str]]] = None
-    facets_points: Optional[Dict[str, str]] = None
+    description: Optional[Dict[str, Any]] = None
+    keyPoints: Optional[Dict[str, Any]] = None
+    facetsPoints: Optional[Dict[str, Any]] = None
+    keywords: Optional[Dict[str, Any]] = None
 
 
 class TimelineData(BaseModel):
@@ -251,8 +253,8 @@ class DailyArea(BaseModel):
 
 
 class DailyWeeklyData(BaseModel):
-    shortSummary: str
-    areas: Dict
+    shortSummary: Dict[str, Optional[str]]
+    areas: Dict[str, Dict[str, List[str]]]
 
 class DailyWeeklyOut(BaseModel):
     data: DailyWeeklyData

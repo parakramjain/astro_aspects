@@ -9,6 +9,7 @@ from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.openapi.utils import get_openapi
+from starlette.exceptions import HTTPException as StarletteHTTPException
 from starlette.middleware.trustedhost import TrustedHostMiddleware
 from starlette.responses import JSONResponse
 from contextlib import asynccontextmanager
@@ -77,6 +78,32 @@ app.add_middleware(TrustedHostMiddleware, allowed_hosts=TRUSTED_HOSTS or ["*"])
 
 
 # --- Exception handlers -> uniform envelope ---
+
+
+@app.exception_handler(StarletteHTTPException)
+async def on_http_exception(request: Request, exc: StarletteHTTPException):
+    status_code = int(getattr(exc, "status_code", 500))
+    detail = getattr(exc, "detail", None)
+    message = detail if isinstance(detail, str) and detail else str(exc)
+
+    if status_code == status.HTTP_400_BAD_REQUEST:
+        code = "BAD_REQUEST"
+    elif status_code == status.HTTP_401_UNAUTHORIZED:
+        code = "UNAUTHORIZED"
+    elif status_code == status.HTTP_403_FORBIDDEN:
+        code = "FORBIDDEN"
+    elif status_code == status.HTTP_404_NOT_FOUND:
+        code = "NOT_FOUND"
+    elif status_code == status.HTTP_405_METHOD_NOT_ALLOWED:
+        code = "METHOD_NOT_ALLOWED"
+    else:
+        code = f"HTTP_{status_code}"
+
+    err = ErrorEnvelope(code=code, message=message)
+    return JSONResponse(
+        status_code=status_code,
+        content=ErrorResponse(error=err).model_dump(),
+    )
 
 
 @app.exception_handler(RequestValidationError)

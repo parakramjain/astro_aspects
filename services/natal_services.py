@@ -35,6 +35,7 @@ from schemas import (
     SoulmateOut, SoulmateData,
 )
 from services.ai_prompt_service import get_system_prompt_natal, get_user_prompt_natal
+from services.ai_agent_services import generate_astrology_AI_summary
 
 PLANET_IDS = list(range(swe.SUN, swe.PLUTO + 1))
 
@@ -352,10 +353,9 @@ def compute_natal_ai_summary(aspects_text: List[NatalAspectItem]) -> str:
     system_prompt = get_system_prompt_natal()
     user_prompt = get_user_prompt_natal(aspects_text)
 
-    from services.ai_agent_services import generate_astrology_AI_summary
-
     response_text = generate_astrology_AI_summary(system_prompt, user_prompt, model="gpt-4.1")
     return response_text
+
 
 if __name__ == "__main__":
     # Demonstration: Sidereal Lahiri (default), Tropical, and USER custom offset
