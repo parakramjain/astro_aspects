@@ -19,6 +19,7 @@ from schemas import (
     TimelineRequest, TimelineOut, TimelineData, TimelineItem,
     DailyWeeklyRequest, DailyWeeklyOut, DailyWeeklyData, DailyArea,
     UpcomingEventsOut, UpcomingEventRow, UpcomingEventWindow,
+    UpcomingEventsCalendarOut, UpcomingCalendarDay,
     CompatibilityPairIn, CompatibilityOut, CompatibilityData, KpiScoreRow,
     GroupCompatibilityIn, GroupCompatibilityOut, GroupCompatibilityData, PairwiseRow,
     SoulmateOut, SoulmateData,
@@ -27,7 +28,7 @@ from schemas import (
 
 from services.natal_services import planet_positions_and_houses, compute_natal_natal_aspects, calculate_natal_chart_data, lon_to_sign_deg_min, SIGN_NAMES,compute_natal_ai_summary
 from astro_core.astro_core import calc_aspect_periods, ASPECTS, ASPECT_ORB_DEG, _delta_circ  # type: ignore
-from services.report_services import compute_life_events, compute_timeline, dailyWeeklyTimeline, compute_report_ai_summary, compute_daily_weekly_ai_summary
+from services.report_services import compute_life_events, compute_timeline, dailyWeeklyTimeline, compute_report_ai_summary, compute_daily_weekly_ai_summary, upcoming_event
 from services.synastry_services import calculate_synastry  # newly added synastry pipeline
 from services.synastry_vedic_services import compute_ashtakoota_score, explain_ashtakoota
 from services.synastry_group_services import (
@@ -323,7 +324,7 @@ def daily_weekly(
     return DailyWeeklyOut(data=dailyWeeklyTimeline_data)
 
 
-@router.post("/reports/upcoming-events", response_model=LifeEventsOut, tags=["Reports"], summary="Upcoming major/minor events with categories")
+@router.post("/reports/upcoming-events", response_model=UpcomingEventsCalendarOut, tags=["Reports"], summary="Upcoming major/minor events with categories")
 def upcoming_events(
     payload: LifeEventPayload = Body(
         ...,
@@ -344,7 +345,7 @@ def upcoming_events(
             }
         },
     ),
-) -> LifeEventsOut:
+) -> UpcomingEventsCalendarOut:
     print(f"Computing upcoming events report... start_date={payload.start_date} horizon_days={payload.horizon_days}")
     # Convert start_date (string) to a datetime.date if provided
     start_date_date: Optional[dt.date] = None
@@ -358,10 +359,14 @@ def upcoming_events(
     # Delegate main processing to report services for testability/reuse
     # Try to pass the extra params to compute_life_events if it supports them, otherwise fall back.
     try:
-        data: List[LifeEvent] = compute_life_events(payload, start_date=start_date_date, horizon_days=payload.horizon_days)
+        life_events_list: List[LifeEvent] = compute_life_events(payload, start_date=start_date_date, horizon_days=payload.horizon_days)
     except TypeError:
-        data: List[LifeEvent] = compute_life_events(payload)
-    return LifeEventsOut(data=data)
+        life_events_list = compute_life_events(payload)
+
+    calendar_rows = upcoming_event(life_events_list, from_date=start_date_date)
+    # Convert dicts to UpcomingCalendarDay objects
+    calendar_objs = [UpcomingCalendarDay.model_validate(row) if hasattr(UpcomingCalendarDay, "model_validate") else UpcomingCalendarDay(**row) for row in calendar_rows]
+    return UpcomingEventsCalendarOut(data=calendar_objs)
 
 
 # --------------- Compatibility -----------------

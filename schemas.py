@@ -214,6 +214,7 @@ class LifeEventPayload(BirthPayload):
 class LifeEvent(BaseModel):
     aspect: str
     eventType: str  # MAJOR | MINOR
+    aspectNature: str  # Positive | Negative
     timePeriod: str
     startDate: str
     endDate: str
@@ -276,6 +277,23 @@ class UpcomingEventRow(BaseModel):
 
 class UpcomingEventsOut(BaseModel):
     data: List[UpcomingEventRow]
+
+
+class UpcomingCalendarEvent(BaseModel):
+    aspect: str
+    aspectNature: str  # Positive | Negative
+    description: Any
+
+
+class UpcomingCalendarDay(BaseModel):
+    date: str  # YYYY-MM-DD
+    events: List[UpcomingCalendarEvent]
+
+
+class UpcomingEventsCalendarOut(BaseModel):
+    """Calendar-friendly daily expansion of upcoming life events."""
+
+    data: List[UpcomingCalendarDay]
 
 
 class KpiScoreRow(BaseModel):

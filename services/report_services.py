@@ -1,6 +1,7 @@
 from __future__ import annotations
 import datetime as dt
 from typing import List, Optional, Dict, Any
+import ast
 
 # Removed unused import that could cause confusion; not needed for this module.
 
@@ -61,6 +62,7 @@ def compute_life_events(
     for p in periods[:limit]:
         t, a, n = p.aspect  # e.g. ('Jup','Con','Sun')
         event_type = "MAJOR" if t in {"Jup", "Sat", "Ura", "Nep", "Plu"} else "MINOR"
+        aspect_nature = "Positive" if ASPECT_CODE_MAP.get(a, a.upper()) in {"CON", "TRI", "SXT"} else "Negative"
         if event_type == "MAJOR":
             startDate = p.start_dt.date().isoformat()
             endDate = p.end_dt.date().isoformat()
@@ -97,6 +99,7 @@ def compute_life_events(
                 LifeEvent(
                     aspect=f"{t} {a} {n}",
                     eventType=event_type,
+                    aspectNature=aspect_nature,
                     timePeriod=span,
                     startDate=startDate,
                     endDate=endDate,
@@ -297,6 +300,105 @@ def dailyWeeklyTimeline(req: TimelineRequest) -> DailyWeeklyData:
         summary_out["hi"] = summary_out["en"]
 
     return DailyWeeklyData(shortSummary=summary_out, areas=areas)
+
+def upcoming_event(
+    events: List[LifeEvent],
+    from_date: Optional[dt.date] = None,
+    to_date: Optional[dt.date] = None,
+) -> List[Dict[str, Any]]:
+    """Expand LifeEvent windows into per-day calendar entries.
+
+    Input event format (per LifeEvent):
+      - timePeriod: "YYYY-MM-DD to YYYY-MM-DD" (inclusive)
+      - startDate/endDate: ISO dates (preferred when present)
+      - description: may be plain string or a stringified dict like
+        "{'en': [...], 'hi': [...]}".
+
+    Returns:
+      A list sorted by date:
+        [{"date": "YYYY-MM-DD", "events": [{"aspect": str, "aspectNature": str, "description": Any}, ...]}, ...]
+
+    Notes:
+      - Each aspect is included for every day in its window (inclusive).
+      - If from_date/to_date are provided, results are clipped to that range.
+    """
+
+    if from_date is not None:
+        anchor = from_date
+    else:
+        today = dt.date.today()
+        anchor = today.replace(day=1)
+
+    def _parse_date(val: Any) -> Optional[dt.date]:
+        if not val:
+            return None
+        try:
+            return dt.date.fromisoformat(str(val)[:10])
+        except Exception:
+            return None
+
+    def _event_range(ev: LifeEvent) -> Optional[tuple[dt.date, dt.date]]:
+        start = _parse_date(getattr(ev, "startDate", None))
+        end = _parse_date(getattr(ev, "endDate", None))
+        if start and end:
+            return start, end
+        # fallback to timePeriod parsing: "YYYY-MM-DD to YYYY-MM-DD"
+        tp = getattr(ev, "timePeriod", "")
+        if isinstance(tp, str) and "to" in tp:
+            left, right = tp.split("to", 1)
+            start2 = _parse_date(left.strip())
+            end2 = _parse_date(right.strip())
+            if start2 and end2:
+                return start2, end2
+        return None
+
+    def _normalize_description(desc: Any) -> Any:
+        if not isinstance(desc, str):
+            return desc
+        s = desc.strip()
+        if not s:
+            return desc
+        # Safe parse for strings like "{'en': [...], 'hi': [...]}"
+        if s.startswith("{") and s.endswith("}") and ("'en'" in s or '"en"' in s):
+            try:
+                parsed = ast.literal_eval(s)
+                if isinstance(parsed, dict):
+                    return parsed
+            except Exception:
+                return desc
+        return desc
+
+    daily: Dict[dt.date, List[Dict[str, Any]]] = {}
+    for ev in events:
+        rng = _event_range(ev)
+        if not rng:
+            continue
+        start, end = rng
+        if end < anchor:
+            continue
+        start_clip = max(start, anchor)
+        end_clip = end
+        if to_date is not None:
+            if start_clip > to_date:
+                continue
+            end_clip = min(end_clip, to_date)
+
+        desc_out = _normalize_description(getattr(ev, "description", ""))
+        d = start_clip
+        while d <= end_clip:
+            daily.setdefault(d, []).append(
+                {
+                    "aspect": ev.aspect,
+                    "aspectNature": ev.aspectNature,
+                    "description": desc_out,
+                }
+            )
+            d += dt.timedelta(days=1)
+
+    out: List[Dict[str, Any]] = []
+    for day in sorted(daily.keys()):
+        out.append({"date": day.isoformat(), "events": daily[day]})
+    return out
 
 def compute_report_ai_summary(aspects_text: str) -> str:
     system_prompt = get_system_prompt_report()

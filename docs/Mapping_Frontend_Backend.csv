@@ -1,87 +1,105 @@
-Page,Section,UI Label/Component,Data Type,Proposed Backend JSON Path,Source/Generation Type,Comments,Status
-Global,Header,Current Date,String,system.currentDate,System,,Done
-Global,Header,User Plan (Free/Plus/Pro),String,user.subscription.plan,Database,,Done
-Global,Header,User Name,String,user.profile.displayName,Database,,Done
-Global,Header,User Title/Badge,String,user.profile.title,Database,,Done
-Dashboard,Header,Season Info,String,dashboard.meta.season,Calculation/API,,Done
-Dashboard,Natal Info,Birth Date,Date,user.birthDetails.date,Database,,Done
-Dashboard,Natal Info,Birth Time,Time,user.birthDetails.time,Database,,Done
-Dashboard,Natal Info,Birth Location,String,user.birthDetails.location,Database,,Done
-Dashboard,Big Three,Sun Sign,String,"natal.build_chart/data/planets/planetName:""Sun""",Astro Calculation,,Done
-Dashboard,Big Three,Sun Degree,String,natal.build_chart/data/planets/planetDegree,Astro Calculation,,Done
-Dashboard,Big Three,Moon Sign,String,"natal.build_chart/data/planets/planetName:""Moon""",Astro Calculation,,Done
-Dashboard,Big Three,Moon Degree,String,natal.build_chart/data/planets/planetDegree,Astro Calculation,,Done
-Dashboard,Big Three,Ascendant Sign,String,"natal.build_chart/data/planets/planetName:""_asc""",Astro Calculation,,Done
-Dashboard,Big Three,Ascendant Degree,String,natal.build_chart/data/planets/planetDegree,Astro Calculation,,Done
-Dashboard,Natal Core,Description/Quote,String,natal.characteristics/data/description/short_summary/en/overall,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),WIP
-Dashboard,Natal Core,KPI 1 Name,String,natal.characteristics/data/description/short_summary/en/overall/facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),WIP
-Dashboard,Natal Core,KPI 1 Short Desc,String,natal.characteristics/data/description/short_summary/en/overall/facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),WIP
-Dashboard,Natal Core,KPI 2 Name,String,natal.characteristics/data/description/short_summary/en/overall/facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),WIP
-Dashboard,Natal Core,KPI 2 Short Desc,String,natal.characteristics/data/description/short_summary/en/overall/facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),WIP
-Dashboard,Natal Core,KPI 3 Name,String,natal.characteristics/data/description/short_summary/en/overall/facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),WIP
-Dashboard,Natal Core,KPI 3 Short Desc,String,natal.characteristics/data/description/short_summary/en/overall/facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),WIP
-Dashboard,Chart Visual,Planets List,Array[Obj],natal.build_chart/data/planets/planetName,Astro Calculation,,Done
-Dashboard,Planetary Positions,Planet Name,String,natal.build_chart/data/planets/planetName,Astro Calculation,,Done
-Dashboard,Planetary Positions,Planet Sign,String,natal.build_chart/data/planets/planetSign,Astro Calculation,,Done
-Dashboard,Planetary Positions,Planet Degree,Number,natal.build_chart/data/planets/planetDegree,Astro Calculation,,Done
-Dashboard,Planetary Positions,Is Retrograde,Boolean,,,We can remove this for now,Done
-Dashboard,Elemental Balance,Fire %,Number,,,We can remove this for now,Done
-Dashboard,Elemental Balance,Earth %,Number,,,We can remove this for now,Done
-Dashboard,Elemental Balance,Air %,Number,,,We can remove this for now,Done
-Dashboard,Elemental Balance,Water %,Number,,,We can remove this for now,Done
-Dashboard,Daily Forecast,Short Summary,String,forecast.daily.summary,LLM/API,,
-Dashboard,Daily Forecast,Outlook Tag,String,forecast.daily.tag,LLM/API,,
-Dashboard,Daily Forecast,Career Points,Array[String],forecast.daily.areas.career,LLM/API,,
-Dashboard,Daily Forecast,Relationships Points,Array[String],forecast.daily.areas.relationships,LLM/API,,
-Dashboard,Daily Forecast,Money Points,Array[String],forecast.daily.areas.money,LLM/API,,
-Dashboard,Daily Forecast,Health Points,Array[String],forecast.daily.areas.health,LLM/API,,
-Dashboard,Upcoming,Date (Day),Number,forecast.upcoming[i].day,API,,
-Dashboard,Upcoming,Date (Month),String,forecast.upcoming[i].month,API,,
-Dashboard,Upcoming,Event Title,String,forecast.upcoming[i].title,Astro Calculation,,
-Dashboard,Upcoming,Event Description,String,forecast.upcoming[i].description,LLM/API,,
-Natal Services,Input Form,Name,String,request.name,User Input,,
-Natal Services,Input Form,Date,Date,request.date,User Input,,
-Natal Services,Input Form,Time,Time,request.time,User Input,,
-Natal Services,Input Form,Location,String,request.location,User Input,,
-Natal Services,Report Header,Ascendant Sign,String,report.ascendant,Astro Calculation,,
-Natal Services,KPIs,KPI Name,String,report.kpis[i].name,LLM/API,,
-Natal Services,KPIs,KPI Value,Number,report.kpis[i].value,LLM/API (0-100),,
-Natal Services,KPIs,KPI Description,String,report.kpis[i].description,LLM/API,,
-Natal Services,Traits,Trait Label,String,report.traits[i].label,LLM/API,,
-Natal Services,Traits,Trait Description,String,report.traits[i].description,LLM/API,,
-Natal Services,Analysis,Soul Blueprint,String,report.interpretation,LLM/API,,
-Natal Services,Analysis,Detailed Analysis,String,report.detailedAnalysis,LLM/API,,
-Natal Services,Lifetime Timeline,Event Age,Number,report.timeline[i].age,Astro Calculation,,
-Natal Services,Lifetime Timeline,Event Year,Number,report.timeline[i].year,Astro Calculation,,
-Natal Services,Lifetime Timeline,Event Duration,Number,report.timeline[i].duration,Astro Calculation,,
-Natal Services,Lifetime Timeline,Event Title,String,report.timeline[i].title,LLM/API,,
-Natal Services,Lifetime Timeline,Event Description,String,report.timeline[i].description,LLM/API,,
-Natal Services,Lifetime Timeline,Event Type,String,report.timeline[i].type,LLM/API (Career/Love/etc),,
-Matchmaking,Input,Person A Details,Object,request.personA,User Input,,
-Matchmaking,Input,Person B Details,Object,request.personB,User Input,,
-Matchmaking,Modern Result,Total Score,Number,match.modern.totalScore,LLM/API (0.0-1.0),,
-Matchmaking,Modern Result,Summary,String,match.modern.summary,LLM/API,,
-Matchmaking,Modern Result,KPI Name,String,match.modern.kpis[i].kpi,LLM/API,,
-Matchmaking,Modern Result,KPI Score,Number,match.modern.kpis[i].score,LLM/API,,
-Matchmaking,Modern Result,KPI Description,String,match.modern.kpis[i].description,LLM/API,,
-Matchmaking,Vedic Result,Total Score,Number,match.vedic.total,Calculation,,
-Matchmaking,Vedic Result,Match Band/Status,String,match.vedic.summary.band,Calculation/Logic,,
-Matchmaking,Vedic Result,Advice/Interpretation,String,match.vedic.summary.advice,LLM/API,,
-Matchmaking,Vedic Table,Koota Name,String,match.vedic.scores[key].name,Static/Const,,
-Matchmaking,Vedic Table,Awarded Score,Number,match.vedic.scores[key].awarded,Calculation,,
-Matchmaking,Vedic Table,Max Score,Number,match.vedic.scores[key].max,Static/Const,,
-Matchmaking,Vedic Table,Meaning/Impact,String,match.vedic.scores[key].meaning,Static/Const,,
-Matchmaking,Vedic Table,Details,String,match.vedic.scores[key].detailString,Calculation,,
-Timeline,Controls,Mode,String,request.mode,User Input (Monthly/Yearly),,
-Timeline,Gantt Chart,Aspect Name,String,timeline.transits[i].aspect,Astro Calculation,,
-Timeline,Gantt Chart,Nature,String,timeline.transits[i].nature,Astro Calculation (Positive/Negative),,
-Timeline,Gantt Chart,Start Date,Date,timeline.transits[i].startDate,Astro Calculation,,
-Timeline,Gantt Chart,Exact Date,Date,timeline.transits[i].exactDate,Astro Calculation,,
-Timeline,Gantt Chart,End Date,Date,timeline.transits[i].endDate,Astro Calculation,,
-Timeline,List View,Keywords,String,timeline.transits[i].keywords,LLM/API,,
-Timeline,List View,Description,String,timeline.transits[i].description,LLM/API,,
-Calendar,Header,Month/Year,Date,calendar.meta.date,System,,
-Calendar,Grid Cell,Day Number,Number,calendar.days[i].day,System,,
-Calendar,Grid Cell,Aspect Title,String,calendar.days[i].event.title,Astro Calculation,,
-Calendar,Grid Cell,Aspect Type,String,calendar.days[i].event.type,Astro Calculation,,
-Calendar,Grid Cell,Aspect Description,String,calendar.days[i].event.desc,LLM/API,,
+Page,Section,UI Label/Component,Data Type,Backend JSON Path,API_Path,JSON_Path,Source/Generation Type,Comments,Status
+Global,Header,Current Date,String,,,,System,,Done
+Global,Header,User Plan (Free/Plus/Pro),String,,,,Database,,Done
+Global,Header,User Name,String,,,,Database,,Done
+Global,Header,User Title/Badge,String,,,,Database,,Done
+Dashboard,Header,Season Info,String,,,,Calculation/API,,Done
+Dashboard,Natal Info,Birth Date,Date,,,,Database,,Done
+Dashboard,Natal Info,Birth Time,Time,,,,Database,,Done
+Dashboard,Natal Info,Birth Location,String,,,,Database,,Done
+Dashboard,Big Three,Sun Sign,String,"natal/build_chart/data.planets.planetName:""Sun""",natal/build_chart,"data.planets.planetName:""Sun""",Astro Calculation,,Done
+Dashboard,Big Three,Sun Degree,String,natal/build_chart/data.planets.planetDegree,natal/build_chart,data.planets.planetDegree,Astro Calculation,,Done
+Dashboard,Big Three,Moon Sign,String,"natal/build_chart/data.planets.planetName:""Moon""",natal/build_chart,"data.planets.planetName:""Moon""",Astro Calculation,,Done
+Dashboard,Big Three,Moon Degree,String,natal/build_chart/data.planets.planetDegree,natal/build_chart,data.planets.planetDegree,Astro Calculation,,Done
+Dashboard,Big Three,Ascendant Sign,String,"natal/build_chart/data.planets.planetName:""_asc""",natal/build_chart,"data.planets.planetName:""_asc""",Astro Calculation,,Done
+Dashboard,Big Three,Ascendant Degree,String,natal/build_chart/data.planets.planetDegree,natal/build_chart,data.planets.planetDegree,Astro Calculation,,Done
+Dashboard,Natal Core,Description/Quote,String,natal/characteristics/data.description.short_summary.en.overall,natal/characteristics,data.description.short_summary.en.overall,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Natal Core,KPI 1 Name,String,natal/characteristics/data.description.short_summary.en.overall.facets,natal/characteristics,data.description.short_summary.en.overall.facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Natal Core,KPI 1 Short Desc,String,natal/characteristics/data.description.short_summary.en.overall.facets,natal/characteristics,data.description.short_summary.en.overall.facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Natal Core,KPI 2 Name,String,natal/characteristics/data.description.short_summary.en.overall.facets,natal/characteristics,data.description.short_summary.en.overall.facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Natal Core,KPI 2 Short Desc,String,natal/characteristics/data.description.short_summary.en.overall.facets,natal/characteristics,data.description.short_summary.en.overall.facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Natal Core,KPI 3 Name,String,natal/characteristics/data.description.short_summary.en.overall.facets,natal/characteristics,data.description.short_summary.en.overall.facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Natal Core,KPI 3 Short Desc,String,natal/characteristics/data.description.short_summary.en.overall.facets,natal/characteristics,data.description.short_summary.en.overall.facets,Astro AI API,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Chart Visual,Planets List,Array[Obj],natal/build_chart/data.planets.planetName,natal/build_chart,data.planets.planetName,Astro Calculation,,Done
+Dashboard,Planetary Positions,Planet Name,String,natal/build_chart/data.planets.planetName,natal/build_chart,data.planets.planetName,Astro Calculation,,Done
+Dashboard,Planetary Positions,Planet Sign,String,natal/build_chart/data.planets.planetSign,natal/build_chart,data.planets.planetSign,Astro Calculation,,Done
+Dashboard,Planetary Positions,Planet Degree,Number,natal/build_chart/data.planets.planetDegree,natal/build_chart,data.planets.planetDegree,Astro Calculation,,Done
+Dashboard,Planetary Positions,Is Retrograde,Boolean,,,,,We can remove this for now,Done
+Dashboard,Elemental Balance,Fire %,Number,,,,,We can remove this for now,Done
+Dashboard,Elemental Balance,Earth %,Number,,,,,We can remove this for now,Done
+Dashboard,Elemental Balance,Air %,Number,,,,,We can remove this for now,Done
+Dashboard,Elemental Balance,Water %,Number,,,,,We can remove this for now,Done
+Dashboard,Daily Forecast,Short Summary,String,reports/daily-weekly/data.shortSummary,reports/daily-weekly,data.shortSummary,Astro Calculation,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Daily Forecast,Outlook Tag,String,reports/daily-weekly/data.areas,reports/daily-weekly,data.areas,Astro Calculation,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Daily Forecast,Career Points,Array[String],reports/daily-weekly/data.areas.career,reports/daily-weekly,data.areas.career,Astro Calculation,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Daily Forecast,Relationships Points,Array[String],reports/daily-weekly/data.areasrelationships,reports/daily-weekly,data.areasrelationships,Astro Calculation,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Daily Forecast,Money Points,Array[String],reports/daily-weekly/data.areas.money,reports/daily-weekly,data.areas.money,Astro Calculation,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Daily Forecast,Health Points,Array[String],reports/daily-weekly/data.areas.health_adj,reports/daily-weekly,data.areas.health_adj,Astro Calculation,Use both Hindi and English and store it in the DB (one time execution for user),Done
+Dashboard,Upcoming,Date (Day),Number,,,,API,,
+Dashboard,Upcoming,Date (Month),String,,,,API,,
+Dashboard,Upcoming,Event Title,String,,,,Astro Calculation,,
+Dashboard,Upcoming,Event Description,String,,,,,,
+Natal Services,Input Form,Name,String,,,,User Input,,Done
+Natal Services,Input Form,Date,Date,,,,User Input,,Done
+Natal Services,Input Form,Time,Time,,,,User Input,,Done
+Natal Services,Input Form,Location,String,,,,User Input,,Done
+Natal Services,Report Header,Ascendant Sign,String,"natal/characteristics/data.planets[""planetName"" = ""_asc""][""planetSign""]",natal/characteristics,"data.planets[""planetName"" = ""_asc""][""planetSign""]",Astro Calculation,,Done
+Natal Services,Key Potentials,KPI Name,String,natal/characteristics/data.description.short_summary.en.facets,natal/characteristics,data.description.short_summary.en.facets,,Remove this section,Done
+Natal Services,Key Potentials,KPI Value,Number,natal/characteristics/data.description.short_summary.en.facets,natal/characteristics,data.description.short_summary.en.facets,,Remove this section,Done
+Natal Services,Key Potentials,KPI Description,String,natal/characteristics/data.description.short_summary.en.facets,natal/characteristics,data.description.short_summary.en.facets,,Remove this section,Done
+Natal Services,Core Characteristics,Trait Label,String,natal/characteristics/data.description.core_characteristics.en.trait,natal/characteristics,data.description.core_characteristics.en.trait,Astro AI API,,Done
+Natal Services,Core Characteristics,Trait Description,String,natal/characteristics/data.description.core_characteristics.en.meaning,natal/characteristics,data.description.core_characteristics.en.meaning,Astro AI API,,Done
+Natal Services,Analysis,Soul Blueprint,String,"natal/characteristics/data.description.short_summary.en.overall
+data.description.short_summary.en.facets",natal/characteristics,"data.description.short_summary.en.overall
+data.description.short_summary.en.facets",Astro AI API,,Done
+Natal Services,Analysis,Detailed Analysis,String,"natal/characteristics/data.description.detailed_summary.en.overall
+data.description.detailed_summary.en.facets",natal/characteristics,"data.description.detailed_summary.en.overall
+data.description.detailed_summary.en.facets",Astro AI API,,Done
+Natal Services,Lifetime Timeline,Event Age,Number,reports/life-events/We can discuss how to use it.,reports/life-events,We can discuss how to use it.,Get from Database,Execute once and store it in the DB,Done
+Natal Services,Lifetime Timeline,Event Year,Number,reports/life-events/We can discuss how to use it.,reports/life-events,We can discuss how to use it.,Get from Database,Execute once and store it in the DB,Done
+Natal Services,Lifetime Timeline,Event Duration,Number,reports/life-events/We can discuss how to use it.,reports/life-events,We can discuss how to use it.,Get from Database,Execute once and store it in the DB,Done
+Natal Services,Lifetime Timeline,Event Title,String,reports/life-events/We can discuss how to use it.,reports/life-events,We can discuss how to use it.,Get from Database,Execute once and store it in the DB,Done
+Natal Services,Lifetime Timeline,Event Description,String,reports/life-events/We can discuss how to use it.,reports/life-events,We can discuss how to use it.,Get from Database,Execute once and store it in the DB,Done
+Natal Services,Lifetime Timeline,Event Type,String,reports/life-events/We can discuss how to use it.,reports/life-events,We can discuss how to use it.,Get from Database,Execute once and store it in the DB,Done
+Matchmaking,Input,Person A Details,Object,,,,User Input,,Done
+Matchmaking,Input,Person B Details,Object,,,,User Input,,Done
+Matchmaking,Modern Result,Total Score,Number,compat/synastry/data.totalScore,compat/synastry,data.totalScore,Astro Calculation,,Done
+Matchmaking,Modern Result,Summary,String,compat/synastry/data.summary,compat/synastry,data.summary,Astro Calculation,,Done
+Matchmaking,Modern Result,KPI Name,String,compat/synastry/data.kpis.kpi,compat/synastry,data.kpis.kpi,Astro Calculation,,Done
+Matchmaking,Modern Result,KPI Score,Number,compat/synastry/data.kpis.score,compat/synastry,data.kpis.score,Astro Calculation,,Done
+Matchmaking,Modern Result,KPI Description,String,compat/synastry/data.kpis.description,compat/synastry,data.kpis.description,Astro Calculation,,Done
+Matchmaking,Vedic Result,Total Score,Number,compat/ashtakoota/data.result.summary.total,compat/ashtakoota,data.result.summary.total,Astro Calculation,,Done
+Matchmaking,Vedic Result,Match Band/Status,String,compat/ashtakoota/data.result.summary.band,compat/ashtakoota,data.result.summary.band,Astro Calculation,,Done
+Matchmaking,Vedic Result,Advice/Interpretation,String,compat/ashtakoota/data.result.summary.advice,compat/ashtakoota,data.result.summary.advice,Astro Calculation,,Done
+Matchmaking,Vedic Table,Koota Name,String,compat/ashtakoota/data.result.scores.{key},compat/ashtakoota,data.result.scores.{key},Astro Calculation,,Done
+Matchmaking,Vedic Table,Awarded Score,Number,compat/ashtakoota/data.result.scores.{key}.awarded,compat/ashtakoota,data.result.scores.{key}.awarded,Astro Calculation,,Done
+Matchmaking,Vedic Table,Max Score,Number,compat/ashtakoota/data.result.scores.{key}.max,compat/ashtakoota,data.result.scores.{key}.max,Astro Calculation,,Done
+Matchmaking,Vedic Table,Meaning/Impact,String,"compat/ashtakoota/data.result.scores.{key}.meaning
+data.result.scores.{key}.compatibility_status",compat/ashtakoota,"data.result.scores.{key}.meaning
+data.result.scores.{key}.compatibility_status",Astro Calculation,,Done
+Matchmaking,Vedic Table,Details,String,compat/ashtakoota/data.result.scores.{key}.details,compat/ashtakoota,data.result.scores.{key}.details,Astro Calculation,,Done
+Matchmaking,Vedic Table,Summary,String,compat/ashtakoota/data.explanation,compat/ashtakoota,data.explanation,Astro Calculation,,Done
+Timeline,Controls,Mode,String,,,,User Input (Monthly/Yearly),,Done
+Timeline,Gantt Chart,Aspect Name,String,report/timeline/data.items.aspect,report/timeline,data.items.aspect,Astro Calculation,"List of aspects
+Use both Hindi and English",Done
+Timeline,Gantt Chart,Nature,String,report/timeline/data.items.aspectNature,report/timeline,data.items.aspectNature,Astro Calculation,"List of aspects
+Use both Hindi and English",Done
+Timeline,Gantt Chart,Start Date,Date,report/timeline/data.items.startDate,report/timeline,data.items.startDate,Astro Calculation,"List of aspects
+Use both Hindi and English",Done
+Timeline,Gantt Chart,Exact Date,Date,report/timeline/data.items.ExactDate,report/timeline,data.items.ExactDate,Astro Calculation,"List of aspects
+Use both Hindi and English",Done
+Timeline,Gantt Chart,End Date,Date,report/timeline/data.items.endDate,report/timeline,data.items.endDate,Astro Calculation,"List of aspects
+Use both Hindi and English",Done
+Timeline,List View,Keywords,String,report/timeline/data.items.keywords,report/timeline,data.items.keywords,Astro Calculation,"List of aspects
+Use both Hindi and English",Done
+Timeline,List View,Description,String,"report/timeline/data.items.description
+data.items.keyPoints",report/timeline,"data.items.description
+data.items.keyPoints",Astro Calculation,"List of aspects
+Use both Hindi and English",Done
+Timeline,Summary,Over all summary,String,report/timeline/data.aiSummary,report/timeline,data.aiSummary,Astro AI API,"List of aspects
+Use both Hindi and English",Done
+Calendar,Header,Month/Year,Date,,,,,,
+Calendar,Grid Cell,Day Number,Number,,,,,,
+Calendar,Grid Cell,Aspect Title,String,,,,,,
+Calendar,Grid Cell,Aspect Type,String,,,,,,
+Calendar,Grid Cell,Aspect Description,String,,,,,,

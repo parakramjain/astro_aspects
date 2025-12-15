@@ -290,13 +290,13 @@ paths:
         required: true
         content:
           application/json:
-            schema: { $ref: '#/components/schemas/BirthPayload' }
+            schema: { $ref: '#/components/schemas/LifeEventPayload' }
       responses:
         '200':
           description: Upcoming events
           content:
             application/json:
-              schema: { $ref: '#/components/schemas/LifeEventsOut' }
+              schema: { $ref: '#/components/schemas/UpcomingEventsCalendarOut' }
         '400': { $ref: '#/components/responses/BadRequest' }
         '401': { $ref: '#/components/responses/Unauthorized' }
         '404': { $ref: '#/components/responses/NotFound' }
@@ -897,6 +897,37 @@ components:
             data:
               type: array
               items: { $ref: '#/components/schemas/UpcomingEventRow' }
+
+    UpcomingCalendarEvent:
+      type: object
+      required: [aspect, aspectNature, description]
+      properties:
+        aspect: { type: string }
+        aspectNature: { type: string, enum: ["Positive", "Negative"] }
+        description:
+          description: Plain text or bilingual dict payload.
+          oneOf:
+            - type: string
+            - type: object
+              additionalProperties: {}
+
+    UpcomingCalendarDay:
+      type: object
+      required: [date, events]
+      properties:
+        date: { type: string, format: date }
+        events:
+          type: array
+          items: { $ref: '#/components/schemas/UpcomingCalendarEvent' }
+
+    UpcomingEventsCalendarOut:
+      allOf:
+        - $ref: '#/components/schemas/SuccessEnvelope'
+        - type: object
+          properties:
+            data:
+              type: array
+              items: { $ref: '#/components/schemas/UpcomingCalendarDay' }
 
     PersonPayload:
       type: object
