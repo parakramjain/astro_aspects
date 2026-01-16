@@ -11,121 +11,119 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "This aspect encourages enhancing efficiency through science, technology, and innovation, improving intuition, analysis, and foresight.",
-    "hi": "यह योग वैज्ञानिक, तकनीकी और नवाचार के माध्यम से कार्य क्षमता बढ़ाने तथा अंतर्ज्ञान, विश्लेषण और दूरदर्शिता में सुधार करने का अवसर देता है।"
+    "en": "A favorable period to enhance efficiency through science, technology, or innovation, improving intuition, analysis, and foresight.",
+    "hi": "वैज्ञानिक, तकनीकी या नई विधियों से कार्य क्षमता बढ़ाने का अनुकूल समय, जिससे अंतर्ज्ञान, विश्लेषण और दूरदर्शिता में सुधार होता है।"
   },
   "facets": {
     "career": {
-      "en": "Improved connection with research, electronics, and communication enhances professional efficiency.",
-      "hi": "अनुसंधान, इलेक्ट्रॉनिक्स और संचार से जुड़ाव से पेशेवर कार्यक्षमता में सुधार होता है।"
+      "en": "Opportunities to connect with research, electronics, and communication, leading to improved work efficiency.",
+      "hi": "अनुसंधान, इलेक्ट्रॉनिक्स और संचार से जुड़ने के अवसर, जिससे कार्य क्षमता में सुधार होता है।"
     },
     "relationships": {
-      "en": "Communication and understanding may improve through enhanced intuition and analysis.",
-      "hi": "अंतर्ज्ञान और विश्लेषण में वृद्धि से संचार और समझ बेहतर हो सकती है।"
+      "en": "Enhanced communication and intuitive understanding may improve interpersonal connections.",
+      "hi": "संचार और अंतर्ज्ञान में वृद्धि से पारस्परिक संबंध बेहतर हो सकते हैं।"
     },
     "money": {
-      "en": "Opportunities to increase efficiency using technology and innovation may positively influence financial matters.",
-      "hi": "प्रौद्योगिकी और नवाचार के उपयोग से कार्य क्षमता बढ़ाने के अवसर वित्तीय मामलों पर सकारात्मक प्रभाव डाल सकते हैं।"
+      "en": "Potential for financial improvement through technological or innovative ventures.",
+      "hi": "तकनीकी या नवाचार संबंधी प्रयासों से आर्थिक स्थिति में सुधार की संभावना।"
     },
     "health_adj": {
-      "en": "No specific health adjustments indicated; improved foresight may aid in better personal care.",
-      "hi": "विशेष स्वास्थ्य समायोजन नहीं बताए गए; बेहतर दूरदर्शिता से व्यक्तिगत देखभाल में सहायता मिल सकती है।"
+      "en": "Improved mental clarity and foresight may support better health decisions.",
+      "hi": "मनोवैज्ञानिक स्पष्टता और दूरदर्शिता में वृद्धि से स्वास्थ्य संबंधी निर्णय बेहतर हो सकते हैं।"
     }
   },
   "life_event_type": {
     "en": [
-      "Technological or scientific advancement",
-      "Improved communication",
-      "Innovative projects"
+      "Technological advancement",
+      "Research engagement",
+      "Communication improvement"
     ],
     "hi": [
-      "प्रौद्योगिकी या वैज्ञानिक उन्नति",
-      "बेहतर संचार",
-      "नवोन्मेषी परियोजनाएँ"
+      "तकनीकी प्रगति",
+      "अनुसंधान में संलग्नता",
+      "संचार में सुधार"
     ]
   },
   "risk_notes": {
     "en": [
-      "Overreliance on technology may cause neglect of other areas",
-      "Possibility of miscommunication despite improved intuition"
+      "Be cautious of overreliance on intuition without analysis.",
+      "Avoid rushing innovations without proper research."
     ],
     "hi": [
-      "प्रौद्योगिकी पर अत्यधिक निर्भरता अन्य क्षेत्रों की अनदेखी कर सकती है",
-      "बेहतर अंतर्ज्ञान के बावजूद संचार में गलतफहमी हो सकती है"
+      "केवल अंतर्ज्ञान पर निर्भर न रहें, विश्लेषण भी आवश्यक है।",
+      "सही अनुसंधान के बिना नवाचार में जल्दबाजी न करें।"
     ]
   },
   "actionables": {
     "applying": {
       "en": [
-        "Explore new technologies to enhance work efficiency",
-        "Engage in research or innovative communication methods"
+        "Incorporate new technologies to improve work processes.",
+        "Engage in research and communication activities."
       ],
       "hi": [
-        "कार्य क्षमता बढ़ाने के लिए नई तकनीकों का अन्वेषण करें",
-        "अनुसंधान या नवोन्मेषी संचार विधियों में संलग्न हों"
+        "कार्य प्रक्रियाओं में नई तकनीकों को शामिल करें।",
+        "अनुसंधान और संचार गतिविधियों में भाग लें।"
       ]
     },
     "exact": {
       "en": [
-        "Focus on analytical thinking and foresight in projects",
-        "Utilize electronics and communication tools effectively"
+        "Focus on intuitive analysis and foresight for decision-making.",
+        "Utilize electronic and communication tools effectively."
       ],
       "hi": [
-        "परियोजनाओं में विश्लेषणात्मक सोच और दूरदर्शिता पर ध्यान दें",
-        "इलेक्ट्रॉनिक्स और संचार उपकरणों का प्रभावी उपयोग करें"
+        "निर्णय लेने में अंतर्ज्ञान, विश्लेषण और दूरदर्शिता पर ध्यान दें।",
+        "इलेक्ट्रॉनिक और संचार उपकरणों का प्रभावी उपयोग करें।"
       ]
     },
     "separating": {
       "en": [
-        "Avoid neglecting traditional methods entirely",
-        "Maintain balance between intuition and factual analysis"
+        "Maintain gains in efficiency through continued innovation.",
+        "Reflect on lessons learned from research and communication."
       ],
       "hi": [
-        "परंपरागत विधियों की पूरी तरह उपेक्षा न करें",
-        "अंतर्ज्ञान और तथ्यात्मक विश्लेषण के बीच संतुलन बनाए रखें"
+        "नवाचार के माध्यम से कार्य क्षमता को बनाए रखें।",
+        "अनुसंधान और संचार से प्राप्त अनुभवों पर विचार करें।"
       ]
     }
   },
   "keywords": {
     "en": [
-      "efficiency",
       "science",
       "technology",
       "innovation",
+      "research",
+      "electronics",
+      "communication",
       "intuition",
       "analysis",
       "foresight",
-      "communication",
-      "research",
-      "electronics"
+      "efficiency"
     ],
     "hi": [
-      "कार्य क्षमता",
       "विज्ञान",
-      "प्रौद्योगिकी",
+      "तकनीकी",
       "नवाचार",
+      "अनुसंधान",
+      "इलेक्ट्रॉनिक्स",
+      "संचार",
       "अंतर्ज्ञान",
       "विश्लेषण",
       "दूरदर्शिता",
-      "संचार",
-      "अनुसंधान",
-      "इलेक्ट्रॉनिक्स"
+      "कार्य क्षमता"
     ]
   },
   "quality_tags": {
     "en": [
+      "favorable",
+      "intellectual",
       "innovative",
-      "analytical",
-      "intuitive",
-      "efficient",
-      "technological"
+      "analytical"
     ],
     "hi": [
+      "अनुकूल",
+      "बौद्धिक",
       "नवोन्मेषी",
-      "विश्लेषणात्मक",
-      "अंतर्ज्ञानी",
-      "कुशल",
-      "प्रौद्योगिकीय"
+      "विश्लेषणात्मक"
     ]
   },
   "weights_hint": {
@@ -183,58 +181,54 @@
   },
   "theme_overlays": {
     "en": [
-      "technology",
-      "innovation",
-      "communication",
-      "research",
-      "efficiency"
+      "technology-driven growth",
+      "enhanced communication",
+      "mental clarity"
     ],
     "hi": [
-      "प्रौद्योगिकी",
-      "नवाचार",
-      "संचार",
-      "अनुसंधान",
-      "कार्य क्षमता"
+      "प्रौद्योगिकी आधारित विकास",
+      "संचार में वृद्धि",
+      "मनोवैज्ञानिक स्पष्टता"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
       "title": "ura-sxt-mer",
-      "core": "Opportunity to enhance efficiency through science, technology, and innovation with improved intuition and analysis.",
-      "tone": "warm, encouraging, neutral"
+      "core": "A period to boost efficiency through science, technology, and innovation, enhancing intuition, analysis, and foresight.",
+      "tone": "Warm, encouraging, and neutral"
     },
     "hi": {
-      "title": "यूरेनस सेकस्टाइल बुध",
-      "core": "विज्ञान, प्रौद्योगिकी और नवाचार के माध्यम से कार्य क्षमता बढ़ाने तथा अंतर्ज्ञान और विश्लेषण में सुधार का अवसर।",
-      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, तटस्थ"
+      "title": "यूरेनस सेक्सटाइल मर्करी",
+      "core": "वैज्ञानिक, तकनीकी और नवाचार के माध्यम से कार्य क्षमता बढ़ाने का समय, अंतर्ज्ञान, विश्लेषण और दूरदर्शिता में वृद्धि के साथ।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और तटस्थ"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "This time offers a chance to improve efficiency using science, technology, or innovation. The person connects with research, electronics, and communication. Intuition, analysis, and foresight improve.",
-        "hi": "यह समय वैज्ञानिकए तकनीकी या नई विधियों से कार्य क्षमता बढ़ाने के अवसर देता है। व्यक्ति विज्ञानए अनुसंधानए इलेक्ट्रॉनिक्स और संचार से जुड़ता है। अंतर्ज्ञानए विश्लेषण और दूरदर्शिता जैसे गुणों में वृद्धि होती है।"
+        "en": "A favorable period to enhance efficiency through science, technology, or innovation, improving intuition, analysis, and foresight.",
+        "hi": "वैज्ञानिक, तकनीकी या नई विधियों से कार्य क्षमता बढ़ाने का अनुकूल समय, जिससे अंतर्ज्ञान, विश्लेषण और दूरदर्शिता में सुधार होता है।"
       },
       "career": {
-        "en": "The person connects with research, electronics, and communication, improving efficiency through science and technology.",
-        "hi": "व्यक्ति विज्ञानए अनुसंधानए इलेक्ट्रॉनिक्स और संचार से जुड़ता है, जिससे कार्य क्षमता में सुधार होता है।"
+        "en": "Opportunities to connect with research, electronics, and communication, leading to improved work efficiency.",
+        "hi": "अनुसंधान, इलेक्ट्रॉनिक्स और संचार से जुड़ने के अवसर, जिससे कार्य क्षमता में सुधार होता है।"
       },
       "relationships": {
-        "en": "Improved intuition and analysis support better communication and connection.",
-        "hi": "अंतर्ज्ञानए विश्लेषण में वृद्धि से बेहतर संचार और संबंध बनते हैं।"
+        "en": "Enhanced communication and intuitive understanding may improve interpersonal connections.",
+        "hi": "संचार और अंतर्ज्ञान में वृद्धि से पारस्परिक संबंध बेहतर हो सकते हैं।"
       },
       "money": {
-        "en": "Using technology and innovation to increase efficiency may positively affect financial situations.",
-        "hi": "प्रौद्योगिकी और नवाचार से कार्य क्षमता बढ़ाने से वित्तीय स्थिति पर सकारात्मक प्रभाव पड़ सकता है।"
+        "en": "Potential for financial improvement through technological or innovative ventures.",
+        "hi": "तकनीकी या नवाचार संबंधी प्रयासों से आर्थिक स्थिति में सुधार की संभावना।"
       },
       "health_adj": {
-        "en": "No direct health effects mentioned; improved foresight may help personal care.",
-        "hi": "कोई प्रत्यक्ष स्वास्थ्य प्रभाव नहीं बताया गया; बेहतर दूरदर्शिता से व्यक्तिगत देखभाल में मदद मिल सकती है।"
+        "en": "Improved mental clarity and foresight may support better health decisions.",
+        "hi": "मनोवैज्ञानिक स्पष्टता और दूरदर्शिता में वृद्धि से स्वास्थ्य संबंधी निर्णय बेहतर हो सकते हैं।"
       }
     },
     "aliases": [

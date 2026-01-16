@@ -10,53 +10,134 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Sun and Jupiter opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Authority, recognition, leadership, alignment with purpose.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-    "relationships": "Self-respect, healthy boundaries, paternal figures.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-    "money": "Status-linked income, government/authority-linked gains.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Increased inner strength brings respect, honor, and enthusiasm for achieving goals in educational, intellectual, philosophical, or charitable fields, with successful collaborations and leadership development.",
+    "hi": "आत्मबल बढ़ने से मान, सम्मान और उत्साह मिलता है, जो शैक्षिक, बौद्धिक, तत्त्वज्ञान या दान के क्षेत्र में लक्ष्य प्राप्ति और नेतृत्व विकास में सहायक होता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Success in educational, intellectual, or charitable pursuits; leadership roles in group activities; support from religious or educational institutions for research.",
+      "hi": "शैक्षिक, बौद्धिक या दान संबंधी कार्यों में सफलता; समूह कार्यों में नेतृत्व; अनुसंधान हेतु धार्मिक या शैक्षिक संस्थानों से सहायता।"
+    },
+    "relationships": {
+      "en": "Successful collaboration with friends and group members; fulfilling special responsibilities within teams.",
+      "hi": "मित्रों और समूह के सदस्यों के साथ सफल भागीदारी; टीम में विशेष जिम्मेदारियों का निर्वाह।"
+    },
+    "money": {
+      "en": "Opportunities for support from institutions may aid financial or resource acquisition related to research or educational efforts.",
+      "hi": "संस्थानों से सहायता मिलने के अवसर, जो अनुसंधान या शैक्षिक प्रयासों से संबंधित वित्तीय या संसाधन प्राप्ति में सहायक हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; inner strength and enthusiasm may positively influence well-being.",
+      "hi": "स्वास्थ्य संबंधी विशेष सुझाव नहीं; बढ़ा हुआ आत्मबल और उत्साह स्वास्थ्य पर सकारात्मक प्रभाव डाल सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational achievements",
+      "Philosophical or charitable initiatives",
+      "Leadership roles",
+      "Collaborative projects",
+      "Institutional support"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    "hi": [
+      "शैक्षिक उपलब्धियाँ",
+      "तत्त्वज्ञान या दान संबंधी पहल",
+      "नेतृत्व भूमिकाएँ",
+      "सामूहिक परियोजनाएँ",
+      "संस्थागत सहायता"
     ]
   },
-  "keywords": [
-    "abundance",
-    "authority",
-    "ego",
-    "faith",
-    "growth",
-    "identity",
-    "law",
-    "mentor",
-    "opportunity",
-    "purpose",
-    "sextile",
-    "skill",
-    "visibility",
-    "vitality",
-    "wisdom"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage enthusiastically in educational or charitable goals",
+        "Collaborate with friends and groups",
+        "Seek support from religious or educational institutions"
+      ],
+      "hi": [
+        "शैक्षिक या दान संबंधी लक्ष्यों में उत्साहपूर्वक भाग लें",
+        "मित्रों और समूहों के साथ सहयोग करें",
+        "धार्मिक या शैक्षिक संस्थानों से सहायता प्राप्त करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Lead group activities or fulfill special responsibilities successfully",
+        "Focus on deep study or research efforts"
+      ],
+      "hi": [
+        "सामूहिक कार्यों का नेतृत्व करें या विशेष जिम्मेदारी सफलतापूर्वक निभाएं",
+        "गहन अध्ययन या अनुसंधान पर ध्यान केंद्रित करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain enthusiasm for goals despite challenges",
+        "Continue collaborative efforts with friends or groups"
+      ],
+      "hi": [
+        "चुनौतियों के बावजूद लक्ष्यों के प्रति उत्साह बनाए रखें",
+        "मित्रों या समूहों के साथ सहयोग जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "inner strength",
+      "respect",
+      "honor",
+      "fame",
+      "enthusiasm",
+      "education",
+      "intellectual",
+      "philosophy",
+      "charity",
+      "travel",
+      "collaboration",
+      "leadership",
+      "institutional support",
+      "research",
+      "group activities"
+    ],
+    "hi": [
+      "आत्मबल",
+      "मान",
+      "सम्मान",
+      "यश",
+      "उत्साह",
+      "शिक्षा",
+      "बौद्धिक",
+      "तत्त्वज्ञान",
+      "दान",
+      "भ्रमण",
+      "सहभागिता",
+      "नेतृत्व",
+      "संस्थागत सहायता",
+      "अनुसंधान",
+      "सामूहिक कार्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "supportive",
+      "collaborative",
+      "leadership",
+      "educational"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "सहायक",
+      "सहयोगी",
+      "नेतृत्व",
+      "शैक्षिक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -110,36 +191,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "growth",
+      "achievement",
+      "teamwork",
+      "learning",
+      "spirituality"
+    ],
+    "hi": [
+      "विकास",
+      "उपलब्धि",
+      "टीमवर्क",
+      "अध्ययन",
+      "आध्यात्मिकता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Sun Sextile Jupiter",
-      "core": "Sextile between Sun and Jupiter opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "sun-sxt-jup",
+      "core": "This aspect enhances inner strength, respect, and enthusiasm for educational and charitable goals, supporting leadership and successful collaborations.",
+      "tone": "Warm, encouraging, and optimistic"
     },
     "hi": {
-      "title": "Sun Sextile Jupiter (हिन्दी)",
-      "core": "Sun और Jupiter का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "सूर्य षट्कोण बृहस्पति",
+      "core": "यह योग आत्मबल, सम्मान और शैक्षिक व दान संबंधी लक्ष्यों के प्रति उत्साह बढ़ाता है, नेतृत्व और सफल सहभागिता को प्रोत्साहित करता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और आशावादी"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Sun and Jupiter opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Authority, recognition, leadership, alignment with purpose.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-      "relationships": "Self-respect, healthy boundaries, paternal figures.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-      "money": "Status-linked income, government/authority-linked gains.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Inner strength increases, bringing respect, honor, and enthusiasm for achieving goals in educational, intellectual, philosophical, or charitable fields, along with leadership development and successful collaborations.",
+        "hi": "आत्मबल बढ़ता है, जिससे शैक्षिक, बौद्धिक, तत्त्वज्ञान या दान के क्षेत्र में लक्ष्य प्राप्ति के लिए सम्मान, यश और उत्साह मिलता है, साथ ही नेतृत्व विकास और सफल सहभागिता होती है।"
+      },
+      "career": {
+        "en": "Success in educational, intellectual, or charitable fields; leadership in group activities; support from religious or educational institutions for research.",
+        "hi": "शैक्षिक, बौद्धिक या दान के क्षेत्र में सफलता; समूह कार्यों में नेतृत्व; अनुसंधान हेतु धार्मिक या शैक्षिक संस्थानों से सहायता।"
+      },
+      "relationships": {
+        "en": "Successful collaboration with friends and group members, fulfilling special responsibilities in teams.",
+        "hi": "मित्रों और समूह के सदस्यों के साथ सफल भागीदारी, टीम में विशेष जिम्मेदारियों का निर्वाह।"
+      },
+      "money": {
+        "en": "Support from institutions may help financial or resource acquisition related to research or education.",
+        "hi": "संस्थानों से सहायता मिलने के अवसर, जो अनुसंधान या शिक्षा से संबंधित वित्तीय या संसाधन प्राप्ति में सहायक हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health issues noted; increased inner strength and enthusiasm may benefit well-being.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष समस्या नहीं; बढ़ा हुआ आत्मबल और उत्साह स्वास्थ्य के लिए लाभकारी हो सकता है।"
+      }
     },
     "aliases": [
       "Sun sextile Jupiter",

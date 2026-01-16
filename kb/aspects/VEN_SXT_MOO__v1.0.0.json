@@ -10,53 +10,104 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Venus and Moon opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Design, branding, client harmony, tasteful presentation.  Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-    "relationships": "Attraction, diplomacy, reciprocity.  Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-    "money": "Luxury/beauty revenues, pricing power via desirability.  Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-    "health_adj": "Glucose balance, skin, reproductive health; moderation.  Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Enhanced ability to understand others' emotions, fostering happiness, peace, and contentment at home.",
+    "hi": "अन्य लोगों की भावनाओं को समझने की क्षमता बढ़ती है, जिससे घर में आनंद, शांति और संतोष का माहौल बनता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Venus: design, harmonize, price; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Venus: design, harmonize, price; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Improved interpersonal understanding may support harmonious workplace relationships.",
+      "hi": "बेहतर पारस्परिक समझ कार्यस्थल पर सौहार्दपूर्ण संबंधों में सहायक हो सकती है।"
+    },
+    "relationships": {
+      "en": "Greater emotional insight enhances personal connections and domestic harmony.",
+      "hi": "भावनात्मक समझ बढ़ने से व्यक्तिगत संबंध और घरेलू सौहार्द बेहतर होता है।"
+    },
+    "money": {
+      "en": "A peaceful home environment may indirectly support financial stability through reduced stress.",
+      "hi": "शांतिपूर्ण घर का माहौल तनाव कम कर वित्तीय स्थिरता में अप्रत्यक्ष रूप से मदद कर सकता है।"
+    },
+    "health_adj": {
+      "en": "Emotional peace at home contributes to overall mental well-being.",
+      "hi": "घर में भावनात्मक शांति समग्र मानसिक स्वास्थ्य में योगदान देती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional growth",
+      "Home harmony"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Venus: design, harmonize, price; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Venus: design, harmonize, price; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Venus: design, harmonize, price; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Venus: design, harmonize, price; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+    "hi": [
+      "भावनात्मक विकास",
+      "घर में सौहार्द"
     ]
   },
-  "keywords": [
-    "affection",
-    "art",
-    "care",
-    "emotion",
-    "habits",
-    "harmony",
-    "home",
-    "mother",
-    "opportunity",
-    "pleasure",
-    "public mood",
-    "sextile",
-    "skill",
-    "values"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic",
-    "external-opportunity"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Practice empathy to better understand others' feelings.",
+        "Create a peaceful and content home environment."
+      ],
+      "hi": [
+        "दूसरों की भावनाओं को समझने के लिए सहानुभूति का अभ्यास करें।",
+        "घर में शांति और संतोष का माहौल बनाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on nurturing emotional connections within the family.",
+        "Maintain harmony and peace in the home."
+      ],
+      "hi": [
+        "परिवार में भावनात्मक संबंधों को पोषित करने पर ध्यान दें।",
+        "घर में सौहार्द और शांति बनाए रखें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Be mindful to sustain emotional understanding despite challenges.",
+        "Continue fostering a happy and peaceful home atmosphere."
+      ],
+      "hi": [
+        "चुनौतियों के बावजूद भावनात्मक समझ बनाए रखने का ध्यान रखें।",
+        "खुशहाल और शांतिपूर्ण घर का वातावरण बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "emotional understanding",
+      "happiness",
+      "peace",
+      "contentment",
+      "home"
+    ],
+    "hi": [
+      "भावनात्मक समझ",
+      "आनंद",
+      "शांति",
+      "संतोष",
+      "घर"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "harmonious",
+      "empathetic",
+      "peaceful",
+      "content"
+    ],
+    "hi": [
+      "सौहार्दपूर्ण",
+      "सहानुभूतिपूर्ण",
+      "शांतिपूर्ण",
+      "संतुष्ट"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -110,36 +161,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "Relationship Tone",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "emotional insight",
+      "domestic harmony",
+      "inner peace"
+    ],
+    "hi": [
+      "भावनात्मक अंतर्दृष्टि",
+      "घरेलू सौहार्द",
+      "आंतरिक शांति"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Venus Sextile Moon",
-      "core": "Sextile between Venus and Moon opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ven-sxt-moo",
+      "core": "This aspect enhances the ability to understand others' emotions, creating a happy, peaceful, and content home environment.",
+      "tone": "Warm, supportive, and harmonious"
     },
     "hi": {
-      "title": "Venus Sextile Moon (हिन्दी)",
-      "core": "Venus और Moon का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "शुक्र षष्टभुज चंद्र",
+      "core": "यह योग अन्य लोगों की भावनाओं को समझने की क्षमता बढ़ाता है, जिससे घर में आनंद, शांति और संतोष का माहौल बनता है।",
+      "tone": "सहानुभूतिपूर्ण, सहयोगी और सौहार्दपूर्ण"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Venus and Moon opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Design, branding, client harmony, tasteful presentation.  Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-      "relationships": "Attraction, diplomacy, reciprocity.  Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-      "money": "Luxury/beauty revenues, pricing power via desirability.  Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-      "health_adj": "Glucose balance, skin, reproductive health; moderation.  Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Enhanced ability to understand others' emotions, fostering happiness, peace, and contentment at home.",
+        "hi": "अन्य लोगों की भावनाओं को समझने की क्षमता बढ़ती है, जिससे घर में आनंद, शांति और संतोष का माहौल बनता है।"
+      },
+      "career": {
+        "en": "Improved interpersonal understanding may support harmonious workplace relationships.",
+        "hi": "बेहतर पारस्परिक समझ कार्यस्थल पर सौहार्दपूर्ण संबंधों में सहायक हो सकती है।"
+      },
+      "relationships": {
+        "en": "Greater emotional insight enhances personal connections and domestic harmony.",
+        "hi": "भावनात्मक समझ बढ़ने से व्यक्तिगत संबंध और घरेलू सौहार्द बेहतर होता है।"
+      },
+      "money": {
+        "en": "A peaceful home environment may indirectly support financial stability through reduced stress.",
+        "hi": "शांतिपूर्ण घर का माहौल तनाव कम कर वित्तीय स्थिरता में अप्रत्यक्ष रूप से मदद कर सकता है।"
+      },
+      "health_adj": {
+        "en": "Emotional peace at home contributes to overall mental well-being.",
+        "hi": "घर में भावनात्मक शांति समग्र मानसिक स्वास्थ्य में योगदान देती है।"
+      }
     },
     "aliases": [
       "Venus sextile Moon",

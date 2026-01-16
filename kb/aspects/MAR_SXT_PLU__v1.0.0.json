@@ -10,46 +10,120 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Mars and Pluto opens opportunity/skill. Mars: drive, assertion, surgery, mechanics, conflict. Pluto: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Execution speed, competition, technical grit.  Emphasis: opportunity/skill.",
-    "relationships": "Desire, boundaries, anger management.  Emphasis: opportunity/skill.",
-    "money": "Risk-capital, decisive investments, initiative-led gains.  Emphasis: opportunity/skill.",
-    "health_adj": "Inflammation, accidents; channel via training.  Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Period marked by intense willpower, collective efforts, and focus on scientific or occult research. Favorable for military and police work, joint ventures, and significant life and health improvements.",
+    "hi": "तीव्र इच्छाशक्ति, सामूहिक प्रयास, वैज्ञानिक और गूढ़ ज्ञान संबंधी शोध का समय। सैन्य और पुलिस कार्यों, संयुक्त व्यवसायों तथा जीवन और स्वास्थ्य सुधार के लिए उपयुक्त काल।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Impulsive actions or accidents; channel energy into training."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mars: execute, train, assert; Pluto: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mars: execute, train, assert; Pluto: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Strong progress in joint and institutional ventures; suitable for military and police-related work; emphasis on scientific and occult research activities.",
+      "hi": "संयुक्त और संस्थागत व्यवसायों में मजबूत प्रगति; सैन्य और पुलिस कार्यों के लिए उपयुक्त; वैज्ञानिक और गूढ़ ज्ञान संबंधी शोध पर ध्यान।"
+    },
+    "relationships": {
+      "en": "Collective work efforts are emphasized, supporting teamwork and joint initiatives.",
+      "hi": "सामूहिक कार्य प्रयासों पर जोर, जो टीमवर्क और संयुक्त पहलों का समर्थन करते हैं।"
+    },
+    "money": {
+      "en": "Progress in joint and institutional financial ventures is likely.",
+      "hi": "संयुक्त और संस्थागत वित्तीय व्यवसायों में प्रगति की संभावना।"
+    },
+    "health_adj": {
+      "en": "Significant health reforms and creative transformations may manifest during this period.",
+      "hi": "इस समय स्वास्थ्य सुधार और रचनात्मक परिवर्तन की स्थिति बनती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Scientific research",
+      "Military or police work",
+      "Joint business ventures",
+      "Health reforms",
+      "Creative transformations"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mars: execute, train, assert; Pluto: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Mars: execute, train, assert; Pluto: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mars: execute, train, assert; Pluto: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Mars: execute, train, assert; Pluto: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "वैज्ञानिक शोध",
+      "सैन्य या पुलिस कार्य",
+      "संयुक्त व्यवसाय",
+      "स्वास्थ्य सुधार",
+      "रचनात्मक परिवर्तन"
     ]
   },
-  "keywords": [
-    "assertion",
-    "conflict",
-    "drive",
-    "mechanics",
-    "opportunity",
-    "sextile",
-    "skill",
-    "surgery"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in collective or institutional projects",
+        "Focus on scientific or occult research",
+        "Pursue military or police-related activities"
+      ],
+      "hi": [
+        "सामूहिक या संस्थागत परियोजनाओं में भाग लें",
+        "वैज्ञानिक या गूढ़ ज्ञान संबंधी शोध पर ध्यान दें",
+        "सैन्य या पुलिस संबंधित कार्य करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate joint ventures with strong willpower",
+        "Implement health and creative reforms"
+      ],
+      "hi": [
+        "तीव्र इच्छाशक्ति के साथ संयुक्त व्यवसाय शुरू करें",
+        "स्वास्थ्य और रचनात्मक सुधार लागू करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain progress in ongoing collective efforts",
+        "Continue scientific or institutional work"
+      ],
+      "hi": [
+        "चल रहे सामूहिक प्रयासों में प्रगति बनाए रखें",
+        "वैज्ञानिक या संस्थागत कार्य जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intense willpower",
+      "collective work",
+      "scientific research",
+      "occult research",
+      "military work",
+      "police work",
+      "joint ventures",
+      "health reforms",
+      "creative transformation"
+    ],
+    "hi": [
+      "तीव्र इच्छाशक्ति",
+      "सामूहिक कार्य",
+      "वैज्ञानिक शोध",
+      "गूढ़ ज्ञान शोध",
+      "सैन्य कार्य",
+      "पुलिस कार्य",
+      "संयुक्त व्यवसाय",
+      "स्वास्थ्य सुधार",
+      "रचनात्मक परिवर्तन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intense",
+      "collaborative",
+      "progressive",
+      "transformative"
+    ],
+    "hi": [
+      "तीव्र",
+      "सामूहिक",
+      "प्रगतिशील",
+      "परिवर्तनकारी"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +177,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "willpower",
+      "teamwork",
+      "research",
+      "institutional growth",
+      "health improvement"
+    ],
+    "hi": [
+      "इच्छाशक्ति",
+      "टीमवर्क",
+      "शोध",
+      "संस्थागत विकास",
+      "स्वास्थ्य सुधार"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Mars Sextile Pluto",
-      "core": "Sextile between Mars and Pluto opens opportunity/skill. Mars: drive, assertion, surgery, mechanics, conflict. Pluto: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "mar-sxt-plu",
+      "core": "A time of strong willpower, collective efforts, and progress in scientific, military, and joint ventures, with potential for health and creative improvements.",
+      "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "Mars Sextile Pluto (हिन्दी)",
-      "core": "Mars और Pluto का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "मंगल षष्टि प्लूटो",
+      "core": "तीव्र इच्छाशक्ति, सामूहिक प्रयास, वैज्ञानिक, सैन्य और संयुक्त व्यवसायों में प्रगति का समय, स्वास्थ्य और रचनात्मक सुधार की संभावना के साथ।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Mars and Pluto opens opportunity/skill. Mars: drive, assertion, surgery, mechanics, conflict. Pluto: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Execution speed, competition, technical grit.  Emphasis: opportunity/skill.",
-      "relationships": "Desire, boundaries, anger management.  Emphasis: opportunity/skill.",
-      "money": "Risk-capital, decisive investments, initiative-led gains.  Emphasis: opportunity/skill.",
-      "health_adj": "Inflammation, accidents; channel via training.  Emphasis: opportunity/skill."
+      "core": {
+        "en": "Intense willpower, collective work efforts, scientific and occult research activities prevail. Suitable time for military and police-related work. Strong progress in joint and institutional ventures. Significant life improvements, health reforms, and creative transformations manifest.",
+        "hi": "तीव्र इच्छाशक्ति, सामूहिक कार्य प्रयास, वैज्ञानिक और गूढ़ ज्ञान संबंधी शोध कार्य की स्थिति रहती है। सैन्य और पुलिस संबंधी कार्यों के लिए उपयुक्त समय। संयुक्त और संस्थागत व्यवसायों में मजबूत प्रगति। जीवन में महत्वपूर्ण सुधार, स्वास्थ्य सुधार और रचनात्मक परिवर्तन की स्थिति रहती है।"
+      },
+      "career": {
+        "en": "Strong progress in joint and institutional ventures; suitable for military and police-related work; emphasis on scientific and occult research activities.",
+        "hi": "संयुक्त और संस्थागत व्यवसायों में मजबूत प्रगति; सैन्य और पुलिस कार्यों के लिए उपयुक्त; वैज्ञानिक और गूढ़ ज्ञान संबंधी शोध पर जोर।"
+      },
+      "relationships": {
+        "en": "Collective work efforts are emphasized, supporting teamwork and joint initiatives.",
+        "hi": "सामूहिक कार्य प्रयासों पर जोर, जो टीमवर्क और संयुक्त पहलों का समर्थन करते हैं।"
+      },
+      "money": {
+        "en": "Progress in joint and institutional financial ventures is likely.",
+        "hi": "संयुक्त और संस्थागत वित्तीय व्यवसायों में प्रगति की संभावना।"
+      },
+      "health_adj": {
+        "en": "Significant health reforms and creative transformations may manifest during this period.",
+        "hi": "इस समय स्वास्थ्य सुधार और रचनात्मक परिवर्तन की स्थिति बनती है।"
+      }
     },
     "aliases": [
       "Mars sextile Pluto",

@@ -10,54 +10,112 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Venus and Jupiter opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Design, branding, client harmony, tasteful presentation.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-    "relationships": "Attraction, diplomacy, reciprocity.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-    "money": "Luxury/beauty revenues, pricing power via desirability.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-    "health_adj": "Glucose balance, skin, reproductive health; moderation.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Enhances beauty, generosity, and optimism, bringing opportunities in education, relationships, and travel. Supports improving social status and relationships.",
+    "hi": "व्यक्ति में सौंदर्य, उदारता और आशावादिता बढ़ती है। शिक्षाए, रिश्तों और विदेश यात्रा के अवसर मिलते हैं। यह समय प्रतिष्ठा बढ़ाने और संबंधों को सुधारने में सहायक होता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Overpromising; align scale with capacity.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Venus: design, harmonize, price; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Venus: design, harmonize, price; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Opportunities for growth through education and travel; beneficial for social standing.",
+      "hi": "शिक्षा और यात्रा के माध्यम से विकास के अवसर; सामाजिक प्रतिष्ठा के लिए लाभकारी।"
+    },
+    "relationships": {
+      "en": "Improves relationships and social interactions; fosters generosity and optimism.",
+      "hi": "रिश्तों और सामाजिक संपर्कों में सुधार; उदारता और आशावादिता को बढ़ावा देता है।"
+    },
+    "money": {
+      "en": "Potential for enhancing social status which may indirectly benefit financial prospects.",
+      "hi": "सामाजिक प्रतिष्ठा बढ़ने से वित्तीय संभावनाओं में अप्रत्यक्ष लाभ हो सकता है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष परिवर्तन नहीं दर्शाए गए हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Education",
+      "Relationships",
+      "Travel",
+      "Social Status Improvement"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Venus: design, harmonize, price; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Venus: design, harmonize, price; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Venus: design, harmonize, price; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Venus: design, harmonize, price; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    "hi": [
+      "शिक्षा",
+      "रिश्ते",
+      "यात्रा",
+      "सामाजिक प्रतिष्ठा में सुधार"
     ]
   },
-  "keywords": [
-    "abundance",
-    "affection",
-    "art",
-    "faith",
-    "growth",
-    "harmony",
-    "law",
-    "mentor",
-    "opportunity",
-    "pleasure",
-    "sextile",
-    "skill",
-    "values",
-    "wisdom"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic",
-    "external-opportunity"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in educational pursuits and social activities.",
+        "Explore travel opportunities to expand horizons.",
+        "Focus on building and improving relationships."
+      ],
+      "hi": [
+        "शैक्षिक गतिविधियों और सामाजिक कार्यक्रमों में भाग लें।",
+        "दृष्टिकोण बढ़ाने के लिए यात्रा के अवसर तलाशें।",
+        "रिश्तों को बनाने और सुधारने पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Maximize social interactions to enhance relationships.",
+        "Seek opportunities for learning and travel."
+      ],
+      "hi": [
+        "रिश्तों को सुधारने के लिए सामाजिक संपर्क बढ़ाएं।",
+        "शिक्षा और यात्रा के अवसर तलाशें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain optimism and generosity to sustain benefits.",
+        "Continue nurturing social and educational connections."
+      ],
+      "hi": [
+        "लाभ बनाए रखने के लिए आशावाद और उदारता बनाए रखें।",
+        "सामाजिक और शैक्षिक संबंधों को पोषित करते रहें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "beauty",
+      "generosity",
+      "optimism",
+      "education",
+      "relationships",
+      "travel",
+      "social status"
+    ],
+    "hi": [
+      "सौंदर्य",
+      "उदारता",
+      "आशावादिता",
+      "शिक्षा",
+      "रिश्ते",
+      "यात्रा",
+      "सामाजिक प्रतिष्ठा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "supportive",
+      "opportunity"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "सहायक",
+      "अवसर"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -111,36 +169,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "Relationship Tone",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "growth",
+      "social harmony",
+      "expansion"
+    ],
+    "hi": [
+      "विकास",
+      "सामाजिक सद्भाव",
+      "विस्तार"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Venus Sextile Jupiter",
-      "core": "Sextile between Venus and Jupiter opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ven-sxt-jup",
+      "core": "Enhances beauty, generosity, and optimism with opportunities in education, relationships, and travel.",
+      "tone": "Warm, supportive, and optimistic"
     },
     "hi": {
-      "title": "Venus Sextile Jupiter (हिन्दी)",
-      "core": "Venus और Jupiter का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "शुक्र षट्कोण बृहस्पति",
+      "core": "सौंदर्य, उदारता और आशावादिता बढ़ाता है, शिक्षा, रिश्तों और यात्रा में अवसर लाता है।",
+      "tone": "सहानुभूतिपूर्ण, सहायक और आशावादी"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Venus and Jupiter opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Design, branding, client harmony, tasteful presentation.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-      "relationships": "Attraction, diplomacy, reciprocity.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-      "money": "Luxury/beauty revenues, pricing power via desirability.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-      "health_adj": "Glucose balance, skin, reproductive health; moderation.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Enhances beauty, generosity, and optimism. Opportunities in education, relationships, and travel. Helpful for improving social status and relationships.",
+        "hi": "व्यक्ति में सौंदर्यए उदारता और आशावादिता बढ़ती है। शिक्षाए रिश्तों और विदेश यात्रा के अवसर मिलते हैं। यह समय प्रतिष्ठा बढ़ाने और संबंधों को सुधारने में सहायक होता है।"
+      },
+      "career": {
+        "en": "Opportunities for growth through education and travel; beneficial for social standing.",
+        "hi": "शिक्षा और यात्रा के माध्यम से विकास के अवसर; सामाजिक प्रतिष्ठा के लिए लाभकारी।"
+      },
+      "relationships": {
+        "en": "Improves relationships and social interactions; fosters generosity and optimism.",
+        "hi": "रिश्तों और सामाजिक संपर्कों में सुधार; उदारता और आशावादिता को बढ़ावा देता है।"
+      },
+      "money": {
+        "en": "Potential for enhancing social status which may indirectly benefit financial prospects.",
+        "hi": "सामाजिक प्रतिष्ठा बढ़ने से वित्तीय संभावनाओं में अप्रत्यक्ष लाभ हो सकता है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष परिवर्तन नहीं दर्शाए गए हैं।"
+      }
     },
     "aliases": [
       "Venus sextile Jupiter",

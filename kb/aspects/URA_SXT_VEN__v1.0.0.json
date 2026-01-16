@@ -10,46 +10,108 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Uranus and Venus opens opportunity/skill. Uranus: . Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-    "relationships": " Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-    "money": " Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-    "health_adj": " Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "The person experiences fresh ideas and brings innovation to social and professional life through their expression, benefiting in art, technology, and business.",
+    "hi": "व्यक्ति में नवीन विचार आते हैं और वह अपनी अभिव्यक्ति के माध्यम से सामाजिक एवं व्यवसायिक जीवन में नए परिवर्तन करता है, जिससे कला, विज्ञान और व्यवसाय में लाभ होता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Introduces innovation and new ideas in professional life, gaining advantages in technology and business fields.",
+      "hi": "व्यवसायिक जीवन में नवीनता और नए विचार लाता है, विज्ञान और व्यवसाय के क्षेत्र में सुविधा प्राप्त करता है।"
+    },
+    "relationships": {
+      "en": "Expresses fresh ideas that can positively influence social interactions and relationships.",
+      "hi": "नवीन विचारों के माध्यम से सामाजिक संबंधों और मेलजोल में सुधार करता है।"
+    },
+    "money": {
+      "en": "Benefits and opportunities arise in business and artistic ventures.",
+      "hi": "व्यवसायिक और कलात्मक क्षेत्रों में लाभ और अवसर प्राप्त होते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Innovation in career",
+      "New social opportunities",
+      "Artistic and technological gains"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Uranus: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill)."
+    "hi": [
+      "व्यवसाय में नवीनता",
+      "नए सामाजिक अवसर",
+      "कलात्मक और तकनीकी लाभ"
     ]
   },
-  "keywords": [
-    "affection",
-    "art",
-    "harmony",
-    "opportunity",
-    "pleasure",
-    "sextile",
-    "skill",
-    "values"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Embrace new ideas in social and professional settings",
+        "Express creativity to foster innovation"
+      ],
+      "hi": [
+        "सामाजिक और व्यवसायिक परिवेश में नए विचार अपनाएं",
+        "नवाचार के लिए अपनी रचनात्मकता व्यक्त करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on integrating innovative ideas into projects",
+        "Leverage artistic and technological skills"
+      ],
+      "hi": [
+        "परियोजनाओं में नवीन विचारों को शामिल करें",
+        "कलात्मक और तकनीकी कौशल का उपयोग करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain openness to change and new perspectives",
+        "Continue exploring creative expressions"
+      ],
+      "hi": [
+        "परिवर्तन और नए दृष्टिकोणों के प्रति खुलापन बनाए रखें",
+        "रचनात्मक अभिव्यक्तियों की खोज जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "innovation",
+      "fresh ideas",
+      "expression",
+      "art",
+      "technology",
+      "business"
+    ],
+    "hi": [
+      "नवाचार",
+      "नवीन विचार",
+      "अभिव्यक्ति",
+      "कला",
+      "विज्ञान",
+      "व्यवसाय"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "innovative",
+      "expressive",
+      "beneficial"
+    ],
+    "hi": [
+      "रचनात्मक",
+      "नवोन्मेषी",
+      "अभिव्यक्तिपूर्ण",
+      "लाभकारी"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +165,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "Relationship Tone",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "social innovation",
+      "professional growth",
+      "artistic and technological advancement"
+    ],
+    "hi": [
+      "सामाजिक नवाचार",
+      "व्यावसायिक विकास",
+      "कलात्मक और तकनीकी प्रगति"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Uranus Sextile Venus",
-      "core": "Sextile between Uranus and Venus opens opportunity/skill. Uranus: . Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ura-sxt-ven",
+      "core": "Fresh ideas bring innovation to social and professional life, benefiting art, technology, and business.",
+      "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "Uranus Sextile Venus (हिन्दी)",
-      "core": "Uranus और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "यूरेनस सेक्सटाइल वीनस",
+      "core": "नवीन विचार सामाजिक और व्यवसायिक जीवन में नवाचार लाते हैं, जिससे कला, विज्ञान और व्यवसाय में लाभ होता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Uranus and Venus opens opportunity/skill. Uranus: . Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-      "relationships": " Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-      "money": " Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-      "health_adj": " Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+      "core": {
+        "en": "The person experiences fresh ideas and brings innovation to social and professional life through their expression. Gains benefits in art, technology, and business.",
+        "hi": "व्यक्ति में नवीन विचार आते हैं तथा वह अपनी अभिव्यक्ति के माध्यम से सामाजिक एवं व्यवसायिक जीवन में नए परिवर्तन करता है। कला, विज्ञान/व्यवसायिक क्षेत्र में सुविधा प्राप्त करता है।"
+      },
+      "career": {
+        "en": "Introduces innovation and new ideas in professional life, gaining advantages in technology and business fields.",
+        "hi": "व्यवसायिक जीवन में नवीनता और नए विचार लाता है, विज्ञान और व्यवसाय के क्षेत्र में सुविधा प्राप्त करता है।"
+      },
+      "relationships": {
+        "en": "Expresses fresh ideas that can positively influence social interactions and relationships.",
+        "hi": "नवीन विचारों के माध्यम से सामाजिक संबंधों और मेलजोल में सुधार करता है।"
+      },
+      "money": {
+        "en": "Benefits and opportunities arise in business and artistic ventures.",
+        "hi": "व्यवसायिक और कलात्मक क्षेत्रों में लाभ और अवसर प्राप्त होते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं हैं।"
+      }
     },
     "aliases": [
       "Uranus sextile Venus",

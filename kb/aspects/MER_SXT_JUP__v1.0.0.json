@@ -10,53 +10,126 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Mercury and Jupiter opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Negotiation, analytics, documentation, skilling.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-    "relationships": "Dialog, problem-solving, curiosity.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-    "money": "Trading, freelancing, multi-stream income, contracts.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-    "health_adj": "Nervous system, breath, routine mobility.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "This aspect fosters deep conversations, new beginnings, and creative thinking. It encourages interest in travel, foreign cultures, languages, religion, and history, making it a favorable time for starting educational or writing projects.",
+    "hi": "यह योग गहरी बातचीत, नई शुरुआत और रचनात्मक सोच को बढ़ावा देता है। यह यात्रा, विदेशी संस्कृतियों, भाषाओं, धर्म और इतिहास में रुचि को प्रोत्साहित करता है, जिससे शिक्षा या लेखन के नए प्रोजेक्ट शुरू करने के लिए अनुकूल समय बनता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "A good period for initiating educational pursuits or writing projects, enhancing creativity and intellectual engagement.",
+      "hi": "शिक्षा या लेखन के नए प्रोजेक्ट शुरू करने के लिए अच्छा समय, रचनात्मकता और बौद्धिक भागीदारी बढ़ती है।"
+    },
+    "relationships": {
+      "en": "Encourages meaningful and deep discussions, fostering understanding and cultural interests.",
+      "hi": "गहरी और सार्थक बातचीत को प्रोत्साहित करता है, समझ और सांस्कृतिक रुचि को बढ़ाता है।"
+    },
+    "money": {
+      "en": "Opportunities may arise related to travel or education that could influence financial decisions positively.",
+      "hi": "यात्रा या शिक्षा से जुड़ी संभावनाएं उत्पन्न हो सकती हैं जो वित्तीय निर्णयों को सकारात्मक रूप से प्रभावित कर सकती हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus remains on mental and intellectual activities.",
+      "hi": "विशेष स्वास्थ्य समायोजन संकेतित नहीं हैं; ध्यान मानसिक और बौद्धिक गतिविधियों पर केंद्रित है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New educational beginnings",
+      "Creative projects",
+      "Travel opportunities",
+      "Cultural and intellectual interests"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    "hi": [
+      "नई शैक्षिक शुरुआत",
+      "रचनात्मक परियोजनाएं",
+      "यात्रा के अवसर",
+      "सांस्कृतिक और बौद्धिक रुचियां"
     ]
   },
-  "keywords": [
-    "abundance",
-    "analysis",
-    "commerce",
-    "communication",
-    "faith",
-    "growth",
-    "law",
-    "learning",
-    "mentor",
-    "opportunity",
-    "sextile",
-    "skill",
-    "tech",
-    "wisdom"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic",
-    "external-opportunity"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks noted; maintain openness to new ideas without overcommitting."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; नए विचारों के प्रति खुलापन बनाए रखें लेकिन अधिक प्रतिबद्धता से बचें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in deep conversations and discussions.",
+        "Explore interests in foreign languages and cultures.",
+        "Plan educational or writing projects.",
+        "Consider opportunities for travel."
+      ],
+      "hi": [
+        "गहरी बातचीत और चर्चा में भाग लें।",
+        "विदेशी भाषाओं और संस्कृतियों में रुचि बढ़ाएं।",
+        "शैक्षिक या लेखन परियोजनाओं की योजना बनाएं।",
+        "यात्रा के अवसरों पर विचार करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate new learning or creative endeavors.",
+        "Start writing or educational activities."
+      ],
+      "hi": [
+        "नई शिक्षा या रचनात्मक प्रयास शुरू करें।",
+        "लेखन या शैक्षिक गतिविधियां शुरू करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on insights gained from discussions and travels.",
+        "Consolidate creative ideas developed."
+      ],
+      "hi": [
+        "बातचीत और यात्राओं से प्राप्त अंतर्दृष्टि पर विचार करें।",
+        "विकसित रचनात्मक विचारों को समेकित करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "deep discussions",
+      "new beginnings",
+      "creative ideas",
+      "travel",
+      "foreign languages",
+      "cultures",
+      "religion",
+      "history",
+      "education",
+      "writing"
+    ],
+    "hi": [
+      "गहरी बातचीत",
+      "नई शुरुआत",
+      "रचनात्मक सोच",
+      "यात्रा",
+      "विदेशी भाषाएं",
+      "संस्कृतियां",
+      "धर्म",
+      "इतिहास",
+      "शिक्षा",
+      "लेखन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intellectual",
+      "creative",
+      "explorative",
+      "opportunistic"
+    ],
+    "hi": [
+      "बौद्धिक",
+      "रचनात्मक",
+      "अन्वेषणशील",
+      "अवसरवादी"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -110,36 +183,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "education",
+      "travel",
+      "culture",
+      "communication",
+      "creativity"
+    ],
+    "hi": [
+      "शिक्षा",
+      "यात्रा",
+      "संस्कृति",
+      "संचार",
+      "रचनात्मकता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Mercury Sextile Jupiter",
-      "core": "Sextile between Mercury and Jupiter opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "mer-sxt-jup",
+      "core": "A time encouraging deep conversations, new starts, and creative thinking, with opportunities in travel and cultural interests.",
+      "tone": "Warm, encouraging, and intellectually stimulating."
     },
     "hi": {
-      "title": "Mercury Sextile Jupiter (हिन्दी)",
-      "core": "Mercury और Jupiter का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बुध षट्कोण बृहस्पति",
+      "core": "यह समय गहरी बातचीत, नई शुरुआत और रचनात्मक सोच को प्रोत्साहित करता है, जिसमें यात्रा और सांस्कृतिक रुचियों के अवसर होते हैं।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और बौद्धिक रूप से प्रेरक।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Mercury and Jupiter opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Negotiation, analytics, documentation, skilling.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-      "relationships": "Dialog, problem-solving, curiosity.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-      "money": "Trading, freelancing, multi-stream income, contracts.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-      "health_adj": "Nervous system, breath, routine mobility.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+      "core": {
+        "en": "This period increases deep discussions, new beginnings, and creative ideas. Opportunities for small or long-distance travel arise. Interest in foreign languages, cultures, religion, and history grows. It's a good time to start something new in education or writing.",
+        "hi": "इस समय गहरी बातचीतए नई शुरुआत और रचनात्मक सोच में बढ़ोतरी होती है। छोटी.बड़ी यात्राओं के अवसर मिलते हैं। विदेशी भाषाए संस्कृतिए धर्म और इतिहास से जुड़ी चीज़ों में रुचि बढ़ती है। शिक्षा और लेखन में नई शुरुआत के लिए यह समय अच्छा है।"
+      },
+      "career": {
+        "en": "It's a good time to start something new in education or writing, reflecting increased creativity and intellectual engagement.",
+        "hi": "शिक्षा और लेखन में नई शुरुआत के लिए यह समय अच्छा है, जो बढ़ी हुई रचनात्मकता और बौद्धिक भागीदारी को दर्शाता है।"
+      },
+      "relationships": {
+        "en": "This period increases deep discussions and interest in cultural and religious topics, fostering meaningful connections.",
+        "hi": "यह समय गहरी बातचीत और सांस्कृतिक व धार्मिक विषयों में रुचि बढ़ाता है, जिससे सार्थक संबंध बनते हैं।"
+      },
+      "money": {
+        "en": "Opportunities for travel and education may influence financial decisions positively during this time.",
+        "hi": "इस समय यात्रा और शिक्षा के अवसर वित्तीय निर्णयों को सकारात्मक रूप से प्रभावित कर सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments are indicated; the focus is on intellectual and creative activities.",
+        "hi": "विशेष स्वास्थ्य समायोजन संकेतित नहीं हैं; ध्यान बौद्धिक और रचनात्मक गतिविधियों पर है।"
+      }
     },
     "aliases": [
       "Mercury sextile Jupiter",

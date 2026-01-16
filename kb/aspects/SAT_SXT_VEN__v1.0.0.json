@@ -10,52 +10,108 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Saturn and Venus opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Authority via mastery, long-term credibility.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-    "relationships": "Commitment realism, boundaries, duty.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-    "money": "Slow steady accrual, austerity, debt realism.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-    "health_adj": "Bones, teeth, chronic load; routines & posture.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "The person becomes disciplined and practical, fostering long-lasting relationships and strong financial planning, with benefits in art and legal matters.",
+    "hi": "व्यक्ति अनुशासित और व्यवहारिक बनता है, जिससे स्थायी रिश्ते और मजबूत वित्तीय योजनाएं बनती हैं, साथ ही कला और कानूनी मामलों में लाभ होता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Burnout via over-responsibility; schedule recovery windows.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Favourable for art and legal dealings, indicating responsibility and practical approach.",
+      "hi": "कला और कानूनी मामलों में लाभकारी, जिम्मेदारी और व्यवहारिक दृष्टिकोण दर्शाता है।"
+    },
+    "relationships": {
+      "en": "Leads to long-lasting and stable relationships through discipline and responsibility.",
+      "hi": "अनुशासन और जिम्मेदारी के कारण स्थायी और मजबूत रिश्ते बनते हैं।"
+    },
+    "money": {
+      "en": "Supports strong financial planning and management.",
+      "hi": "मजबूत वित्तीय योजना और प्रबंधन को समर्थन देता है।"
+    },
+    "health_adj": {
+      "en": "Encourages a disciplined and practical lifestyle which may benefit overall well-being.",
+      "hi": "अनुशासित और व्यवहारिक जीवनशैली को प्रोत्साहित करता है जो समग्र स्वास्थ्य के लिए लाभकारी हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Relationship stability",
+      "Financial planning milestones",
+      "Career developments in art or legal fields"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Saturn: structure, commit, audit; Venus: design, harmonize, price; tone: opportunity/skill)."
+    "hi": [
+      "रिश्तों में स्थिरता",
+      "वित्तीय योजना के महत्वपूर्ण चरण",
+      "कला या कानूनी क्षेत्र में करियर विकास"
     ]
   },
-  "keywords": [
-    "affection",
-    "art",
-    "dharma via effort",
-    "discipline",
-    "harmony",
-    "limits",
-    "opportunity",
-    "pleasure",
-    "sextile",
-    "skill",
-    "structure",
-    "time",
-    "values"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Cultivate discipline and practicality",
+        "Focus on building stable relationships",
+        "Engage in careful financial planning"
+      ],
+      "hi": [
+        "अनुशासन और व्यवहारिकता विकसित करें",
+        "स्थिर रिश्ते बनाने पर ध्यान दें",
+        "वित्तीय योजना में सावधानी बरतें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Leverage opportunities in art and legal matters",
+        "Maintain responsibility in relationships and finances"
+      ],
+      "hi": [
+        "कला और कानूनी मामलों में अवसरों का लाभ उठाएं",
+        "रिश्तों और वित्त में जिम्मेदारी बनाए रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and reinforce financial plans",
+        "Sustain discipline in personal and professional life"
+      ],
+      "hi": [
+        "वित्तीय योजनाओं की समीक्षा और मजबूती करें",
+        "व्यक्तिगत और पेशेवर जीवन में अनुशासन बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "discipline",
+      "practicality",
+      "long-lasting relationships",
+      "financial planning",
+      "art",
+      "legal dealings"
+    ],
+    "hi": [
+      "अनुशासन",
+      "व्यवहारिकता",
+      "स्थायी रिश्ते",
+      "वित्तीय योजना",
+      "कला",
+      "कानूनी मामले"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "responsible",
+      "stable",
+      "practical"
+    ],
+    "hi": [
+      "जिम्मेदार",
+      "स्थिर",
+      "व्यवहारिक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -109,36 +165,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "Relationship Tone",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "discipline",
+      "stability",
+      "practicality",
+      "long-term planning"
+    ],
+    "hi": [
+      "अनुशासन",
+      "स्थिरता",
+      "व्यवहारिकता",
+      "दीर्घकालिक योजना"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Saturn Sextile Venus",
-      "core": "Sextile between Saturn and Venus opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "sat-sxt-ven",
+      "core": "Discipline and practicality foster lasting relationships and sound financial planning, with benefits in art and legal fields.",
+      "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "Saturn Sextile Venus (हिन्दी)",
-      "core": "Saturn और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "शनि षट्कोण शुक्र",
+      "core": "अनुशासन और व्यवहारिकता स्थायी रिश्ते और मजबूत वित्तीय योजना को बढ़ावा देती है, साथ ही कला और कानूनी क्षेत्रों में लाभ होता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Saturn and Venus opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Authority via mastery, long-term credibility.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-      "relationships": "Commitment realism, boundaries, duty.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-      "money": "Slow steady accrual, austerity, debt realism.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-      "health_adj": "Bones, teeth, chronic load; routines & posture.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+      "core": {
+        "en": "The person becomes disciplined and practical, fostering long-lasting relationships and strong financial planning, with benefits in art and legal matters.",
+        "hi": "व्यक्ति अनुशासित और व्यवहारिक बनता है, जिससे स्थायी रिश्ते और मजबूत वित्तीय योजनाएं बनती हैं, साथ ही कला और कानूनी मामलों में लाभ होता है।"
+      },
+      "career": {
+        "en": "Favourable for art and legal dealings, indicating responsibility and practical approach.",
+        "hi": "कला और कानूनी मामलों में लाभकारी, जिम्मेदारी और व्यवहारिक दृष्टिकोण दर्शाता है।"
+      },
+      "relationships": {
+        "en": "Leads to long-lasting and stable relationships through discipline and responsibility.",
+        "hi": "अनुशासन और जिम्मेदारी के कारण स्थायी और मजबूत रिश्ते बनते हैं।"
+      },
+      "money": {
+        "en": "Supports strong financial planning and management.",
+        "hi": "मजबूत वित्तीय योजना और प्रबंधन को समर्थन देता है।"
+      },
+      "health_adj": {
+        "en": "Encourages a disciplined and practical lifestyle which may benefit overall well-being.",
+        "hi": "अनुशासित और व्यवहारिक जीवनशैली को प्रोत्साहित करता है जो समग्र स्वास्थ्य के लिए लाभकारी हो सकती है।"
+      }
     },
     "aliases": [
       "Saturn sextile Venus",

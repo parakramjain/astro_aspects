@@ -10,45 +10,118 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Pluto and Mercury opens opportunity/skill. Pluto: . Mercury: analysis, communication, commerce, learning, tech. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Negotiation, analytics, documentation, skilling. Emphasis: opportunity/skill.",
-    "relationships": " Dialog, problem-solving, curiosity. Emphasis: opportunity/skill.",
-    "money": " Trading, freelancing, multi-stream income, contracts. Emphasis: opportunity/skill.",
-    "health_adj": " Nervous system, breath, routine mobility. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Enhanced foresight, mental communication, and intuition support key decisions and learning, especially in psychology and occult studies.",
+    "hi": "दूरदर्शिता, मानसिक संचार और अंतर्दृष्टि से महत्वपूर्ण निर्णय और अध्ययन, विशेषकर मनोविज्ञान और रहस्य विज्ञान में, समर्थ होते हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Opportunities to deepen knowledge in psychology and occult fields; stronger reasoning aids decision-making.",
+      "hi": "मनोविज्ञान और रहस्य विज्ञान में ज्ञान गहरा करने के अवसर; मजबूत तर्क निर्णय लेने में सहायक।"
+    },
+    "relationships": {
+      "en": "Improved mental connection and intuitive understanding enhance communication with others.",
+      "hi": "बेहतर मानसिक संपर्क और सहज समझ से दूसरों के साथ संवाद सुधरता है।"
+    },
+    "money": {
+      "en": "Insightful decisions may improve financial planning and investments.",
+      "hi": "गहरी समझ से वित्तीय योजना और निवेश बेहतर हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Mental clarity and intuition support psychological well-being.",
+      "hi": "मानसिक स्पष्टता और अंतर्दृष्टि मनोवैज्ञानिक स्वास्थ्य में सहायक।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational pursuits",
+      "Psychological insight",
+      "Intuitive decision-making"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill)."
+    "hi": [
+      "शैक्षिक प्रयास",
+      "मनोवैज्ञानिक अंतर्दृष्टि",
+      "सहज निर्णय लेना"
     ]
   },
-  "keywords": [
-    "analysis",
-    "commerce",
-    "communication",
-    "learning",
-    "opportunity",
-    "sextile",
-    "skill",
-    "tech"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "Avoid overreliance on intuition without practical analysis.",
+      "Be cautious of misinterpreting mental signals."
+    ],
+    "hi": [
+      "व्यावहारिक विश्लेषण के बिना केवल अंतर्दृष्टि पर निर्भर न हों।",
+      "मानसिक संकेतों की गलत व्याख्या से सावधान रहें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in studies of psychology and occult subjects.",
+        "Practice intuitive decision-making with awareness."
+      ],
+      "hi": [
+        "मनोविज्ञान और रहस्य विज्ञान का अध्ययन करें।",
+        "सावधानी के साथ सहज निर्णय लेने का अभ्यास करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on deep insight when making key decisions.",
+        "Strengthen mental communication and telepathic skills."
+      ],
+      "hi": [
+        "महत्वपूर्ण निर्णयों में गहरी अंतर्दृष्टि पर ध्यान दें।",
+        "मानसिक संचार और टेलीपैथी कौशल मजबूत करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain balance between intuition and logical reasoning.",
+        "Review decisions to avoid misjudgments."
+      ],
+      "hi": [
+        "अंतर्दृष्टि और तर्क के बीच संतुलन बनाए रखें।",
+        "गलत निर्णय से बचने के लिए फैसलों की समीक्षा करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "foresight",
+      "mental signals",
+      "telepathy",
+      "psychology",
+      "occult",
+      "intuition",
+      "education",
+      "reasoning"
+    ],
+    "hi": [
+      "दूरदर्शिता",
+      "मानसिक संदेश",
+      "टेलीपैथी",
+      "मनोविज्ञान",
+      "रहस्य विज्ञान",
+      "अंतर्दृष्टि",
+      "शिक्षा",
+      "तर्क"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "insightful",
+      "intuitive",
+      "educational",
+      "mental clarity"
+    ],
+    "hi": [
+      "अंतर्दृष्टिपूर्ण",
+      "सहज",
+      "शैक्षिक",
+      "मानसिक स्पष्टता"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -102,36 +175,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "psychological growth",
+      "intuitive learning",
+      "mental communication"
+    ],
+    "hi": [
+      "मनोवैज्ञानिक विकास",
+      "सहज सीखना",
+      "मानसिक संचार"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Pluto Sextile Mercury",
-      "core": "Sextile between Pluto and Mercury opens opportunity/skill. Pluto: . Mercury: analysis, communication, commerce, learning, tech. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "plu-sxt-mer",
+      "core": "This aspect enhances foresight, mental communication, and intuition, supporting deep learning and key decision-making.",
+      "tone": "Warm, insightful, encouraging thoughtful growth."
     },
     "hi": {
-      "title": "Pluto Sextile Mercury (हिन्दी)",
-      "core": "Pluto और Mercury का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "प्लूटो सेकस्टाइल मर्करी",
+      "core": "यह योग दूरदर्शिता, मानसिक संचार और अंतर्दृष्टि को बढ़ाता है, जो गहरे अध्ययन और महत्वपूर्ण निर्णयों में सहायक होता है।",
+      "tone": "सहानुभूतिपूर्ण, अंतर्दृष्टिपूर्ण, विचारशील विकास को प्रोत्साहित करने वाला।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Pluto and Mercury opens opportunity/skill. Pluto: . Mercury: analysis, communication, commerce, learning, tech. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Negotiation, analytics, documentation, skilling. Emphasis: opportunity/skill.",
-      "relationships": " Dialog, problem-solving, curiosity. Emphasis: opportunity/skill.",
-      "money": " Trading, freelancing, multi-stream income, contracts. Emphasis: opportunity/skill.",
-      "health_adj": " Nervous system, breath, routine mobility. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Foresight, mental signals, and telepathy strengthen, aiding key decisions and learning in psychology and occult studies.",
+        "hi": "दूरदर्शिता, मानसिक संदेश और टेलीपैथी की शक्ति बढ़ती है, जो मनोविज्ञान और रहस्य विज्ञान के अध्ययन और महत्वपूर्ण निर्णयों में सहायक होती है।"
+      },
+      "career": {
+        "en": "Good time for studying psychology and occult subjects; reasoning power grows stronger.",
+        "hi": "मनोविज्ञान और रहस्य विज्ञान के अध्ययन के लिए उपयुक्त समय; तर्क शक्ति मजबूत होती है।"
+      },
+      "relationships": {
+        "en": "Mental signals and telepathy improve communication and understanding with others.",
+        "hi": "मानसिक संदेश और टेलीपैथी से दूसरों के साथ संवाद और समझ बेहतर होती है।"
+      },
+      "money": {
+        "en": "Decisions based on deep insight can positively influence financial matters.",
+        "hi": "गहरी अंतर्दृष्टि पर आधारित निर्णय वित्तीय मामलों को सकारात्मक रूप से प्रभावित कर सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Mental clarity and intuition support psychological well-being.",
+        "hi": "मानसिक स्पष्टता और अंतर्दृष्टि मनोवैज्ञानिक स्वास्थ्य में सहायक होती है।"
+      }
     },
     "aliases": [
       "Pluto sextile Mercury",

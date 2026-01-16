@@ -10,52 +10,108 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Moon and Mercury opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Mercury: analysis, communication, commerce, learning, tech. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Public reception, brand sentiment, consistency.  Negotiation, analytics, documentation, skilling. Emphasis: opportunity/skill.",
-    "relationships": "Bonding, nurturance, emotional safety.  Dialog, problem-solving, curiosity. Emphasis: opportunity/skill.",
-    "money": "Cyclic cashflow, consumer sentiment.  Trading, freelancing, multi-stream income, contracts. Emphasis: opportunity/skill.",
-    "health_adj": "Hydration, sleep, digestion; stress sensitivity.  Nervous system, breath, routine mobility. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Involvement in commercial or company-related activities at home or family residence, focusing on resolving business problems.",
+    "hi": "घर या परिवार के निवास स्थान में वाणिज्य या कंपनियों से संबंधित कार्यों में संलिप्तता, जो व्यापारिक समस्याओं के समाधान पर केंद्रित है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Moon: nurture, align routines, soft-launch; Mercury: draft, analyze, negotiate; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Moon: nurture, align routines, soft-launch; Mercury: draft, analyze, negotiate; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Engagement in business or company-related tasks within the home environment; opportunity to address and solve work-related issues.",
+      "hi": "घर के वातावरण में व्यवसाय या कंपनी से संबंधित कार्यों में संलग्नता; कार्य संबंधी समस्याओं को सुलझाने का अवसर।"
+    },
+    "relationships": {
+      "en": "Family and home relationships may involve business discussions or cooperative efforts related to commercial matters.",
+      "hi": "परिवार और घर के संबंधों में वाणिज्य से संबंधित चर्चा या सहयोगात्मक प्रयास हो सकते हैं।"
+    },
+    "money": {
+      "en": "Focus on resolving financial or business-related problems, particularly those connected to family or home enterprises.",
+      "hi": "वित्तीय या व्यापारिक समस्याओं के समाधान पर ध्यान, विशेषकर परिवार या घर के व्यवसाय से संबंधित।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; focus remains on business and family matters.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन नहीं; ध्यान व्यापार और परिवार के मामलों पर केंद्रित है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Business problem resolution",
+      "Home-based commercial activity"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Moon: nurture, align routines, soft-launch; Mercury: draft, analyze, negotiate; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Moon: nurture, align routines, soft-launch; Mercury: draft, analyze, negotiate; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Moon: nurture, align routines, soft-launch; Mercury: draft, analyze, negotiate; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Moon: nurture, align routines, soft-launch; Mercury: draft, analyze, negotiate; tone: opportunity/skill)."
+    "hi": [
+      "व्यापारिक समस्याओं का समाधान",
+      "घर आधारित वाणिज्यिक गतिविधि"
     ]
   },
-  "keywords": [
-    "analysis",
-    "care",
-    "commerce",
-    "communication",
-    "emotion",
-    "habits",
-    "home",
-    "learning",
-    "mother",
-    "opportunity",
-    "public mood",
-    "sextile",
-    "skill",
-    "tech"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic",
-    "external-opportunity"
-  ],
+  "risk_notes": {
+    "en": [
+      "Potential stress from business issues at home",
+      "Challenges in balancing family and commercial interests"
+    ],
+    "hi": [
+      "घर पर व्यापारिक समस्याओं से संभावित तनाव",
+      "परिवार और वाणिज्यिक हितों के बीच संतुलन की चुनौतियाँ"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in business-related discussions at home",
+        "Begin addressing ongoing commercial challenges"
+      ],
+      "hi": [
+        "घर पर व्यापार से संबंधित चर्चा में संलग्न हों",
+        "चालू वाणिज्यिक चुनौतियों को सुलझाना शुरू करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on resolving specific business problems",
+        "Collaborate with family or company members for solutions"
+      ],
+      "hi": [
+        "विशिष्ट व्यापारिक समस्याओं के समाधान पर ध्यान दें",
+        "परिवार या कंपनी के सदस्यों के साथ सहयोग करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review outcomes of business problem resolutions",
+        "Prepare for transition away from current commercial issues"
+      ],
+      "hi": [
+        "व्यापारिक समस्याओं के समाधान के परिणामों की समीक्षा करें",
+        "वर्तमान वाणिज्यिक मुद्दों से दूर होने की तैयारी करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "commercial activities",
+      "business problems",
+      "home",
+      "family",
+      "company"
+    ],
+    "hi": [
+      "वाणिज्यिक गतिविधियाँ",
+      "व्यापारिक समस्याएँ",
+      "घर",
+      "परिवार",
+      "कंपनी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "problem-solving",
+      "business focus",
+      "family involvement"
+    ],
+    "hi": [
+      "समस्या समाधान",
+      "व्यापार केंद्रित",
+      "परिवार की भागीदारी"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -109,36 +165,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "business at home",
+      "family commerce",
+      "problem resolution"
+    ],
+    "hi": [
+      "घर में व्यापार",
+      "परिवार वाणिज्य",
+      "समस्या समाधान"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Moon Sextile Mercury",
-      "core": "Sextile between Moon and Mercury opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Mercury: analysis, communication, commerce, learning, tech. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "moo-sxt-mer",
+      "core": "Time to engage in home-based commercial activities and resolve business problems.",
+      "tone": "Warm, practical, and focused on problem-solving."
     },
     "hi": {
-      "title": "Moon Sextile Mercury (हिन्दी)",
-      "core": "Moon और Mercury का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "चंद्रमा षट्कोण बुध",
+      "core": "घर में वाणिज्यिक कार्यों में संलग्न होने और व्यापारिक समस्याओं के समाधान का समय।",
+      "tone": "सहज, व्यावहारिक, और समस्या समाधान पर केंद्रित।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Moon and Mercury opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Mercury: analysis, communication, commerce, learning, tech. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Public reception, brand sentiment, consistency.  Negotiation, analytics, documentation, skilling. Emphasis: opportunity/skill.",
-      "relationships": "Bonding, nurturance, emotional safety.  Dialog, problem-solving, curiosity. Emphasis: opportunity/skill.",
-      "money": "Cyclic cashflow, consumer sentiment.  Trading, freelancing, multi-stream income, contracts. Emphasis: opportunity/skill.",
-      "health_adj": "Hydration, sleep, digestion; stress sensitivity.  Nervous system, breath, routine mobility. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Involvement in commercial or company-related activities at home or family residence, focusing on resolving business problems.",
+        "hi": "घर या परिवार के निवास स्थान में वाणिज्य या कंपनियों से संबंधित कार्यों में संलिप्तता, जो व्यापारिक समस्याओं के समाधान पर केंद्रित है।"
+      },
+      "career": {
+        "en": "Engagement in business or company-related tasks within the home environment; opportunity to address and solve work-related issues.",
+        "hi": "घर के वातावरण में व्यवसाय या कंपनी से संबंधित कार्यों में संलग्नता; कार्य संबंधी समस्याओं को सुलझाने का अवसर।"
+      },
+      "relationships": {
+        "en": "Family and home relationships may involve business discussions or cooperative efforts related to commercial matters.",
+        "hi": "परिवार और घर के संबंधों में वाणिज्य से संबंधित चर्चा या सहयोगात्मक प्रयास हो सकते हैं।"
+      },
+      "money": {
+        "en": "Focus on resolving financial or business-related problems, particularly those connected to family or home enterprises.",
+        "hi": "वित्तीय या व्यापारिक समस्याओं के समाधान पर ध्यान, विशेषकर परिवार या घर के व्यवसाय से संबंधित।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; focus remains on business and family matters.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन नहीं; ध्यान व्यापार और परिवार के मामलों पर केंद्रित है।"
+      }
     },
     "aliases": [
       "Moon sextile Mercury",

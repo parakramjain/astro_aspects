@@ -10,45 +10,122 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Conjunction between Mercury and Uranus fuses in intensification. Mercury: analysis, communication, commerce, learning, tech. Uranus: . General tenor: mixed; outcome depends on maturity, timing, and context.",
-  "facets": {
-    "career": "Negotiation, analytics, documentation, skilling.  Emphasis: intensification.",
-    "relationships": "Dialog, problem-solving, curiosity.  Emphasis: intensification.",
-    "money": "Trading, freelancing, multi-stream income, contracts.  Emphasis: intensification.",
-    "health_adj": "Nervous system, breath, routine mobility.  Emphasis: intensification."
+  "core_meaning": {
+    "en": "This aspect encourages fast thinking, enhanced communication especially with unique individuals, and growing interest in science and technology. It supports improvements in work through modern tools and may bring sudden ideas or decisions, along with possible changes in business and finance.",
+    "hi": "यह योग तेज़ सोच, खास लोगों से बेहतर संवाद और विज्ञान तथा तकनीक में बढ़ती रुचि को प्रोत्साहित करता है। यह आधुनिक उपकरणों से काम में सुधार लाता है और अचानक विचार या निर्णय तथा व्यापार और वित्त में संभावित बदलाव दिखाता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification)."
+  "facets": {
+    "career": {
+      "en": "Improvement in work using modern technology; sudden innovative ideas; potential changes in business practices.",
+      "hi": "आधुनिक तकनीक अपनाकर काम में सुधार; अचानक नवीन विचार; व्यापारिक प्रथाओं में संभावित बदलाव।"
+    },
+    "relationships": {
+      "en": "Enhanced communication with special or unique individuals.",
+      "hi": "खास या अनोखे लोगों से बेहतर संवाद।"
+    },
+    "money": {
+      "en": "Possible changes in business, finance, tax, or investments.",
+      "hi": "व्यापार, वित्त, टैक्स या निवेश में संभावित बदलाव।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Sudden decisions",
+      "Business or financial changes",
+      "Innovative work improvements"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification).",
-      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification).",
-      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: intensification)."
+    "hi": [
+      "अचानक निर्णय",
+      "व्यापार या वित्तीय बदलाव",
+      "नवीन कार्य सुधार"
     ]
   },
-  "keywords": [
-    "analysis",
-    "commerce",
-    "communication",
-    "conjunction",
-    "intensification",
-    "learning",
-    "tech"
-  ],
-  "quality_tags": [
-    "major",
-    "mixed",
-    "fusion"
-  ],
+  "risk_notes": {
+    "en": [
+      "Sudden decisions may require careful consideration.",
+      "Changes in finance or investments carry uncertainty."
+    ],
+    "hi": [
+      "अचानक लिए गए निर्णयों में सावधानी आवश्यक हो सकती है।",
+      "वित्त या निवेश में बदलाव में अनिश्चितता हो सकती है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Adopt modern tools to improve work.",
+        "Engage with knowledgeable or unique individuals.",
+        "Explore interests in science and technology."
+      ],
+      "hi": [
+        "काम में सुधार के लिए आधुनिक उपकरण अपनाएं।",
+        "ज्ञानवान या खास लोगों से संपर्क बढ़ाएं।",
+        "विज्ञान और तकनीक में रुचि बढ़ाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be open to sudden ideas or decisions.",
+        "Monitor changes in business or financial matters closely."
+      ],
+      "hi": [
+        "अचानक विचारों या निर्णयों के लिए खुला रहें।",
+        "व्यापार या वित्तीय मामलों में बदलाव पर ध्यान दें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review decisions made during this period for long-term impact.",
+        "Adjust strategies if initial changes do not yield expected results."
+      ],
+      "hi": [
+        "इस अवधि में लिए गए निर्णयों की दीर्घकालिक प्रभाव के लिए समीक्षा करें।",
+        "यदि प्रारंभिक बदलाव अपेक्षित परिणाम न दें तो रणनीतियों को समायोजित करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "fast thinking",
+      "communication",
+      "science",
+      "technology",
+      "modern tools",
+      "sudden ideas",
+      "business changes",
+      "finance",
+      "investments"
+    ],
+    "hi": [
+      "तेज़ सोच",
+      "संवाद",
+      "विज्ञान",
+      "तकनीक",
+      "आधुनिक उपकरण",
+      "अचानक विचार",
+      "व्यापार बदलाव",
+      "वित्त",
+      "निवेश"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "innovative",
+      "dynamic",
+      "intellectual",
+      "progressive"
+    ],
+    "hi": [
+      "नवोन्मेषी",
+      "गतिशील",
+      "बौद्धिक",
+      "प्रगतिशील"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 1.5,
     "planet_weight": {
@@ -102,36 +179,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "technology and science focus",
+      "communication enhancement",
+      "sudden change",
+      "modernization"
+    ],
+    "hi": [
+      "तकनीक और विज्ञान पर ध्यान",
+      "संवाद में सुधार",
+      "अचानक बदलाव",
+      "आधुनिकीकरण"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-14"
   },
   "locales": {
     "en": {
-      "title": "Mercury Conjunction Uranus",
-      "core": "Conjunction between Mercury and Uranus fuses in intensification. Mercury: analysis, communication, commerce, learning, tech. Uranus: . General tenor: mixed; outcome depends on maturity, timing, and context.",
-      "tone": "warm"
+      "title": "mer-con-ura",
+      "core": "A period marked by quick thinking, innovative communication, and interest in science and technology, bringing sudden ideas and possible changes in business and finance.",
+      "tone": "Warm, neutral, and encouraging thoughtful openness to new ideas."
     },
     "hi": {
-      "title": "Mercury Conjunction Uranus (हिन्दी)",
-      "core": "Mercury और Uranus का Conjunction — ऊर्जा intensification के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बुध युति अरुण",
+      "core": "तेज़ सोच, नवोन्मेषी संवाद और विज्ञान-तकनीक में रुचि का समय, जो अचानक विचार और व्यापार व वित्त में संभावित बदलाव लाता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और नए विचारों के लिए सोच-समझकर खुलापन प्रोत्साहित करता है।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Conjunction between Mercury and Uranus fuses in intensification. Mercury: analysis, communication, commerce, learning, tech. Uranus: . General tenor: mixed; outcome depends on maturity, timing, and context.",
-      "career": "Negotiation, analytics, documentation, skilling.  Emphasis: intensification.",
-      "relationships": "Dialog, problem-solving, curiosity.  Emphasis: intensification.",
-      "money": "Trading, freelancing, multi-stream income, contracts.  Emphasis: intensification.",
-      "health_adj": "Nervous system, breath, routine mobility.  Emphasis: intensification."
+      "core": {
+        "en": "This time brings fast thinking, information flow, and communication with special individuals. Interest grows in science, tech, and electricity. The person improves their work using modern tools. Sudden ideas or decisions may occur. Changes are possible in business, finance, tax, or investments.",
+        "hi": "यह समय तेज़ विचारए सूचना और खास लोगों से बातचीत की स्थिति बनाता है। विज्ञानए तकनीकए बिजली जैसे विषयों में रुचि बढ़ती है। व्यक्ति आधुनिक तकनीक अपनाकर अपने काम में सुधार करता है। अचानक विचार या निर्णय लिए जाते हैं। व्यापारए टैक्सए बैंकए निवेश जैसे मामलों में बदलाव संभव है।"
+      },
+      "career": {
+        "en": "The person improves their work using modern tools, with sudden ideas or decisions, and possible changes in business.",
+        "hi": "व्यक्ति आधुनिक तकनीक अपनाकर अपने काम में सुधार करता है, अचानक विचार या निर्णय लेता है, और व्यापार में बदलाव संभव है।"
+      },
+      "relationships": {
+        "en": "Communication with special individuals is emphasized.",
+        "hi": "खास लोगों से बातचीत की स्थिति बनती है।"
+      },
+      "money": {
+        "en": "Changes are possible in business, finance, tax, or investments.",
+        "hi": "व्यापार, टैक्स, बैंक, निवेश जैसे मामलों में बदलाव संभव है।"
+      },
+      "health_adj": {
+        "en": "No specific health information provided.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष जानकारी नहीं।"
+      }
     },
     "aliases": [
       "Mercury conjunction Uranus",

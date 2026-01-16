@@ -10,51 +10,116 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Mercury and Saturn opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Negotiation, analytics, documentation, skilling.  Authority via mastery, long-term credibility. Emphasis: opportunity/skill.",
-    "relationships": "Dialog, problem-solving, curiosity.  Commitment realism, boundaries, duty. Emphasis: opportunity/skill.",
-    "money": "Trading, freelancing, multi-stream income, contracts.  Slow steady accrual, austerity, debt realism. Emphasis: opportunity/skill.",
-    "health_adj": "Nervous system, breath, routine mobility.  Bones, teeth, chronic load; routines & posture. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "A period marked by mental stability, serious study, and long-term thinking, favoring organized work and connection with formal institutions.",
+    "hi": "यह समय मानसिक स्थिरता, गंभीर अध्ययन और दूरदर्शी सोच से जुड़ा होता है, जो नियमित काम और नई संस्थाओं से जुड़ने के लिए अनुकूल है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Burnout via over-responsibility; schedule recovery windows."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Ideal for scientists, engineers, researchers, and writers who work methodically and engage with formal systems.",
+      "hi": "वैज्ञानिकों, इंजीनियरों, शोधकर्ताओं और लेखकों के लिए अनुकूल जो व्यवस्थित तरीके से काम करते हैं और औपचारिक प्रणालियों से जुड़ते हैं।"
+    },
+    "relationships": {
+      "en": "Encourages serious and structured connections, possibly through institutions or formal settings.",
+      "hi": "गंभीर और व्यवस्थित संबंधों को प्रोत्साहित करता है, संभवतः संस्थाओं या औपचारिक माहौल के माध्यम से।"
+    },
+    "money": {
+      "en": "Supports long-term financial planning and organized management of resources.",
+      "hi": "दीर्घकालिक वित्तीय योजना और संसाधनों के व्यवस्थित प्रबंधन का समर्थन करता है।"
+    },
+    "health_adj": {
+      "en": "Favors mental stability and disciplined routines that support overall well-being.",
+      "hi": "मानसिक स्थिरता और अनुशासित दिनचर्या को बढ़ावा देता है जो समग्र स्वास्थ्य के लिए लाभकारी है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Academic achievements",
+      "Career advancements in technical or research fields",
+      "Formal institutional engagements"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: opportunity/skill)."
+    "hi": [
+      "शैक्षणिक उपलब्धियां",
+      "तकनीकी या शोध क्षेत्रों में करियर उन्नति",
+      "औपचारिक संस्थागत जुड़ाव"
     ]
   },
-  "keywords": [
-    "analysis",
-    "commerce",
-    "communication",
-    "dharma via effort",
-    "discipline",
-    "learning",
-    "limits",
-    "opportunity",
-    "sextile",
-    "skill",
-    "structure",
-    "tech",
-    "time"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "Possibility of rigidity in thinking if overemphasized",
+      "May lead to excessive seriousness limiting flexibility"
+    ],
+    "hi": [
+      "अधिक जोर देने पर सोच में कठोरता की संभावना",
+      "अत्यधिक गंभीरता से लचीलापन सीमित हो सकता है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in focused study or research",
+        "Organize work and plans systematically",
+        "Connect with formal institutions or professional bodies"
+      ],
+      "hi": [
+        "गंभीर अध्ययन या शोध में लगें",
+        "काम और योजनाओं को व्यवस्थित करें",
+        "औपचारिक संस्थाओं या पेशेवर निकायों से जुड़ें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Consolidate mental focus and discipline",
+        "Initiate long-term projects with structured plans"
+      ],
+      "hi": [
+        "मानसिक एकाग्रता और अनुशासन को मजबूत करें",
+        "संरचित योजनाओं के साथ दीर्घकालिक परियोजनाएं शुरू करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and adjust organizational methods",
+        "Maintain connections with institutions for ongoing support"
+      ],
+      "hi": [
+        "संगठनात्मक तरीकों की समीक्षा और समायोजन करें",
+        "लगातार समर्थन के लिए संस्थाओं से संबंध बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "mental stability",
+      "serious study",
+      "long-term thinking",
+      "organized work",
+      "formal institutions"
+    ],
+    "hi": [
+      "मानसिक स्थिरता",
+      "गंभीर अध्ययन",
+      "दूरदर्शी सोच",
+      "व्यवस्थित काम",
+      "औपचारिक संस्थाएं"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "stable",
+      "disciplined",
+      "methodical",
+      "serious",
+      "organized"
+    ],
+    "hi": [
+      "स्थिर",
+      "अनुशासित",
+      "व्यवस्थित",
+      "गंभीर",
+      "संगठित"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -108,36 +173,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "mental clarity",
+      "structured learning",
+      "professional growth"
+    ],
+    "hi": [
+      "मानसिक स्पष्टता",
+      "संरचित अध्ययन",
+      "पेशेवर विकास"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Mercury Sextile Saturn",
-      "core": "Sextile between Mercury and Saturn opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "mer-sxt-sat",
+      "core": "A time of mental stability, serious study, and long-term thinking, ideal for organized work and formal connections.",
+      "tone": "Warm, neutral, and professional"
     },
     "hi": {
-      "title": "Mercury Sextile Saturn (हिन्दी)",
-      "core": "Mercury और Saturn का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बुध षट्कोण शनि",
+      "core": "यह समय मानसिक स्थिरता, गंभीर अध्ययन और दूरदर्शी सोच का होता है, जो व्यवस्थित काम और औपचारिक जुड़ाव के लिए उपयुक्त है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और पेशेवर"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Mercury and Saturn opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Negotiation, analytics, documentation, skilling.  Authority via mastery, long-term credibility. Emphasis: opportunity/skill.",
-      "relationships": "Dialog, problem-solving, curiosity.  Commitment realism, boundaries, duty. Emphasis: opportunity/skill.",
-      "money": "Trading, freelancing, multi-stream income, contracts.  Slow steady accrual, austerity, debt realism. Emphasis: opportunity/skill.",
-      "health_adj": "Nervous system, breath, routine mobility.  Bones, teeth, chronic load; routines & posture. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Mental stability, serious study, long-term thinking, organized work, connection with formal institutions.",
+        "hi": "मानसिक स्थिरता, गंभीर अध्ययन, दूरदर्शी सोच, व्यवस्थित काम, औपचारिक संस्थाओं से जुड़ाव।"
+      },
+      "career": {
+        "en": "Ideal for scientists, engineers, researchers, and writers working methodically and engaging with formal systems.",
+        "hi": "वैज्ञानिकों, इंजीनियरों, शोधकर्ताओं और लेखकों के लिए उपयुक्त जो व्यवस्थित तरीके से काम करते हैं और औपचारिक प्रणालियों से जुड़ते हैं।"
+      },
+      "relationships": {
+        "en": "Encourages serious and structured connections, often through institutions or formal settings.",
+        "hi": "गंभीर और व्यवस्थित संबंधों को प्रोत्साहित करता है, अक्सर संस्थाओं या औपचारिक माहौल के माध्यम से।"
+      },
+      "money": {
+        "en": "Supports long-term financial planning and organized management of resources.",
+        "hi": "दीर्घकालिक वित्तीय योजना और संसाधनों के व्यवस्थित प्रबंधन का समर्थन करता है।"
+      },
+      "health_adj": {
+        "en": "Favors mental stability and disciplined routines supporting overall well-being.",
+        "hi": "मानसिक स्थिरता और अनुशासित दिनचर्या को बढ़ावा देता है जो समग्र स्वास्थ्य के लिए लाभकारी है।"
+      }
     },
     "aliases": [
       "Mercury sextile Saturn",

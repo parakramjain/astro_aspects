@@ -10,47 +10,128 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Pluto and Jupiter opens opportunity/skill. Pluto: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-    "relationships": " Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-    "money": " Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-    "health_adj": " Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "This aspect indicates opportunities for spiritual, religious, and yogic work along with knowledge acquisition. It supports life improvement, creative and intellectual endeavors, and enhanced intuition. It favors studying modern science, occultism, and spirituality. Professionally, it brings significant agreements, advancement, organizational changes, and benefits from joint ventures and investments.",
+    "hi": "यह योग आध्यात्मिक, धार्मिक और योगाभ्यास संबंधी कार्य तथा ज्ञान प्राप्ति के अवसर दर्शाता है। यह जीवन सुधार, रचनात्मक और बौद्धिक कार्यों तथा अंतर्ज्ञान की वृद्धि को प्रोत्साहित करता है। आधुनिक विज्ञान, गूढ़ ज्ञान और आध्यात्म के अध्ययन के लिए उपयुक्त है। पेशेवर रूप से महत्वपूर्ण संधियाँ, प्रगति, संस्था में परिवर्तन और संयुक्त व्यवसाय/निवेश से लाभ प्राप्त होते हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Significant professional agreements and advancement opportunities arise. Organizational changes lead to upward mobility. New professional opportunities emerge.",
+      "hi": "महत्वपूर्ण पेशेवर संधियाँ और प्रगति के अवसर प्राप्त होते हैं। संस्था में परिवर्तन से उच्च प्रगति होती है। नए पेशेवर अवसर उभरते हैं।"
+    },
+    "relationships": {
+      "en": "Benefits may come through joint ventures and collaborations. Organizational and professional relationships experience positive changes.",
+      "hi": "संयुक्त व्यवसाय और सहयोग से लाभ होता है। संस्था और पेशेवर संबंधों में सकारात्मक परिवर्तन होते हैं।"
+    },
+    "money": {
+      "en": "Increased wealth and resources. Gains from joint ventures, investments, taxes, and insurance.",
+      "hi": "धन और संसाधनों में वृद्धि होती है। संयुक्त व्यवसाय, निवेश, कर और बीमा से लाभ होता है।"
+    },
+    "health_adj": {
+      "en": "Enhanced intuition and mental clarity support spiritual and intellectual pursuits.",
+      "hi": "अंतर्ज्ञान और मानसिक स्पष्टता में वृद्धि आध्यात्मिक और बौद्धिक कार्यों को सहारा देती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual and religious work",
+      "Knowledge acquisition",
+      "Professional advancement",
+      "Organizational changes",
+      "Financial gains"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    "hi": [
+      "आध्यात्मिक और धार्मिक कार्य",
+      "ज्ञान प्राप्ति",
+      "पेशेवर प्रगति",
+      "संस्थागत परिवर्तन",
+      "आर्थिक लाभ"
     ]
   },
-  "keywords": [
-    "abundance",
-    "faith",
-    "growth",
-    "law",
-    "mentor",
-    "opportunity",
-    "sextile",
-    "skill",
-    "wisdom"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in spiritual, religious, or yogic practices",
+        "Pursue studies in modern science, occultism, or spirituality",
+        "Explore creative and intellectual projects",
+        "Seek joint ventures and investment opportunities"
+      ],
+      "hi": [
+        "आध्यात्मिक, धार्मिक या योगाभ्यास में संलग्न हों",
+        "आधुनिक विज्ञान, गूढ़ ज्ञान या आध्यात्म के अध्ययन करें",
+        "रचनात्मक और बौद्धिक परियोजनाओं का अन्वेषण करें",
+        "संयुक्त व्यवसाय और निवेश के अवसर तलाशें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Finalize important professional agreements",
+        "Initiate organizational changes for growth",
+        "Capitalize on emerging professional opportunities"
+      ],
+      "hi": [
+        "महत्वपूर्ण पेशेवर संधियाँ अंतिम रूप दें",
+        "विकास के लिए संस्थागत परिवर्तन शुरू करें",
+        "उभरते पेशेवर अवसरों का लाभ उठाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain gains from joint ventures and investments",
+        "Continue intellectual and spiritual pursuits"
+      ],
+      "hi": [
+        "संयुक्त व्यवसाय और निवेश से प्राप्त लाभ बनाए रखें",
+        "बौद्धिक और आध्यात्मिक कार्य जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "spirituality",
+      "knowledge acquisition",
+      "life improvement",
+      "creativity",
+      "intuition",
+      "professional advancement",
+      "organizational change",
+      "joint ventures",
+      "investment",
+      "wealth increase"
+    ],
+    "hi": [
+      "आध्यात्म",
+      "ज्ञान प्राप्ति",
+      "आत्मसुधार",
+      "रचनात्मकता",
+      "अंतर्ज्ञान",
+      "पेशेवर प्रगति",
+      "संस्थागत परिवर्तन",
+      "संयुक्त व्यवसाय",
+      "निवेश",
+      "धन वृद्धि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "opportunity",
+      "growth",
+      "enhancement",
+      "collaboration",
+      "intellectual"
+    ],
+    "hi": [
+      "अवसर",
+      "विकास",
+      "सुधार",
+      "सहयोग",
+      "बौद्धिक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -104,36 +185,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "spiritual and intellectual growth",
+      "professional progress",
+      "financial benefit",
+      "organizational transformation"
+    ],
+    "hi": [
+      "आध्यात्मिक और बौद्धिक विकास",
+      "पेशेवर प्रगति",
+      "आर्थिक लाभ",
+      "संस्थागत परिवर्तन"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Pluto Sextile Jupiter",
-      "core": "Sextile between Pluto and Jupiter opens opportunity/skill. Pluto: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "plu-sxt-jup",
+      "core": "This aspect supports spiritual and intellectual growth, professional advancement, and financial gains through collaboration and organizational changes.",
+      "tone": "Warm, encouraging, and optimistic"
     },
     "hi": {
-      "title": "Pluto Sextile Jupiter (हिन्दी)",
-      "core": "Pluto और Jupiter का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "प्लूटो सेकस्टाइल बृहस्पति",
+      "core": "यह योग आध्यात्मिक और बौद्धिक विकास, पेशेवर प्रगति और सहयोग तथा संस्थागत परिवर्तनों से आर्थिक लाभ को प्रोत्साहित करता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और आशावादी"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Pluto and Jupiter opens opportunity/skill. Pluto: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-      "relationships": " Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-      "money": " Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-      "health_adj": " Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Spiritual, religious, and yogic work with knowledge acquisition; life improvement; creativity and intuition enhancement; study of modern science, occultism, and spirituality; professional agreements and advancement; organizational changes; benefits from joint ventures and investments.",
+        "hi": "आध्यात्मिक, धार्मिक और योगाभ्यास संबंधी कार्य एवं ज्ञान प्राप्ति; जीवन सुधार; रचनात्मकता और अंतर्ज्ञान में वृद्धि; आधुनिक विज्ञान, गूढ़ ज्ञान और आध्यात्म का अध्ययन; पेशेवर संधियाँ और प्रगति; संस्थागत परिवर्तन; संयुक्त व्यवसाय और निवेश से लाभ।"
+      },
+      "career": {
+        "en": "Significant agreements and advancement opportunities; organizational changes leading to upward mobility; emergence of new professional opportunities.",
+        "hi": "महत्वपूर्ण संधियाँ और प्रगति के अवसर; उच्च प्रगति के लिए संस्थागत परिवर्तन; नए पेशेवर अवसर।"
+      },
+      "relationships": {
+        "en": "Benefits through joint ventures and collaborations; positive changes in organizational and professional relationships.",
+        "hi": "संयुक्त व्यवसाय और सहयोग से लाभ; संस्था और पेशेवर संबंधों में सकारात्मक परिवर्तन।"
+      },
+      "money": {
+        "en": "Increase in wealth and resources; gains from joint ventures, investments, taxes, and insurance.",
+        "hi": "धन और संसाधनों में वृद्धि; संयुक्त व्यवसाय, निवेश, कर और बीमा से लाभ।"
+      },
+      "health_adj": {
+        "en": "Enhanced intuition and mental clarity supporting spiritual and intellectual pursuits.",
+        "hi": "अंतर्ज्ञान और मानसिक स्पष्टता में वृद्धि जो आध्यात्मिक और बौद्धिक कार्यों को सहारा देती है।"
+      }
     },
     "aliases": [
       "Pluto sextile Jupiter",

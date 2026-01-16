@@ -10,45 +10,124 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Mercury and Uranus opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Uranus: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Negotiation, analytics, documentation, skilling.  Emphasis: opportunity/skill.",
-    "relationships": "Dialog, problem-solving, curiosity.  Emphasis: opportunity/skill.",
-    "money": "Trading, freelancing, multi-stream income, contracts.  Emphasis: opportunity/skill.",
-    "health_adj": "Nervous system, breath, routine mobility.  Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "This aspect highlights opportunities to enhance efficiency through science, technology, or innovation, improving intuition, analysis, and foresight.",
+    "hi": "यह योग वैज्ञानिक, तकनीकी या नवाचार के माध्यम से कार्य क्षमता बढ़ाने के अवसर प्रदान करता है, जिससे अंतर्ज्ञान, विश्लेषण और दूरदर्शिता में सुधार होता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Improved connection with research, electronics, and communication enhances professional efficiency and innovation.",
+      "hi": "अनुसंधान, इलेक्ट्रॉनिक्स और संचार से जुड़ाव से पेशेवर कार्यक्षमता और नवाचार में सुधार होता है।"
+    },
+    "relationships": {
+      "en": "Enhanced communication and intuitive understanding support better interpersonal connections.",
+      "hi": "संचार और अंतर्ज्ञान में वृद्धि से पारस्परिक संबंध बेहतर होते हैं।"
+    },
+    "money": {
+      "en": "Opportunities may arise through technological or scientific ventures that improve efficiency.",
+      "hi": "तकनीकी या वैज्ञानिक प्रयासों से कार्य क्षमता बढ़ाकर आर्थिक अवसर मिल सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Improved foresight and analysis may aid in making better health-related decisions.",
+      "hi": "बेहतर दूरदर्शिता और विश्लेषण से स्वास्थ्य संबंधी निर्णयों में सहायता मिल सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Technological advancement",
+      "Scientific research engagement",
+      "Innovation in work methods"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Uranus: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "तकनीकी उन्नति",
+      "वैज्ञानिक अनुसंधान में संलग्नता",
+      "कार्य विधियों में नवाचार"
     ]
   },
-  "keywords": [
-    "analysis",
-    "commerce",
-    "communication",
-    "learning",
-    "opportunity",
-    "sextile",
-    "skill",
-    "tech"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "Avoid overreliance on intuition without analysis.",
+      "Be cautious of technological distractions reducing focus."
+    ],
+    "hi": [
+      "विश्लेषण के बिना केवल अंतर्ज्ञान पर अधिक निर्भरता से बचें।",
+      "ध्यान भटकाने वाले तकनीकी तत्वों से सावधान रहें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Incorporate new technologies to improve work efficiency.",
+        "Engage in research or innovative projects.",
+        "Use intuition alongside logical analysis."
+      ],
+      "hi": [
+        "कार्य क्षमता बढ़ाने के लिए नई तकनीकों को अपनाएं।",
+        "अनुसंधान या नवाचार परियोजनाओं में भाग लें।",
+        "तार्किक विश्लेषण के साथ अंतर्ज्ञान का उपयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on communication and electronic tools.",
+        "Analyze data carefully to enhance foresight."
+      ],
+      "hi": [
+        "संचार और इलेक्ट्रॉनिक उपकरणों पर ध्यान केंद्रित करें।",
+        "दूरदर्शिता बढ़ाने के लिए डेटा का सावधानीपूर्वक विश्लेषण करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review innovations implemented for effectiveness.",
+        "Maintain balance between intuition and analysis."
+      ],
+      "hi": [
+        "लागू किए गए नवाचारों की प्रभावशीलता की समीक्षा करें।",
+        "अंतर्ज्ञान और विश्लेषण के बीच संतुलन बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "science",
+      "technology",
+      "innovation",
+      "research",
+      "electronics",
+      "communication",
+      "intuition",
+      "analysis",
+      "foresight",
+      "efficiency"
+    ],
+    "hi": [
+      "विज्ञान",
+      "प्रौद्योगिकी",
+      "नवाचार",
+      "अनुसंधान",
+      "इलेक्ट्रॉनिक्स",
+      "संचार",
+      "अंतर्ज्ञान",
+      "विश्लेषण",
+      "दूरदर्शिता",
+      "कार्य क्षमता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "innovative",
+      "analytical",
+      "intuitive",
+      "efficient"
+    ],
+    "hi": [
+      "नवोन्मेषी",
+      "विश्लेषणात्मक",
+      "अंतर्ज्ञानी",
+      "कुशल"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -102,36 +181,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "technology-driven growth",
+      "scientific insight",
+      "communication enhancement"
+    ],
+    "hi": [
+      "प्रौद्योगिकी आधारित विकास",
+      "वैज्ञानिक अंतर्दृष्टि",
+      "संचार सुधार"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Mercury Sextile Uranus",
-      "core": "Sextile between Mercury and Uranus opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Uranus: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "mer-sxt-ura",
+      "core": "Opportunities to enhance efficiency through science, technology, and innovation with improved intuition and foresight.",
+      "tone": "Warm, encouraging, and insightful"
     },
     "hi": {
-      "title": "Mercury Sextile Uranus (हिन्दी)",
-      "core": "Mercury और Uranus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बुध षट्कोण यूरेनस",
+      "core": "विज्ञान, प्रौद्योगिकी और नवाचार के माध्यम से कार्य क्षमता बढ़ाने के अवसर, साथ ही अंतर्ज्ञान और दूरदर्शिता में सुधार।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और सूचनात्मक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Mercury and Uranus opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Uranus: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Negotiation, analytics, documentation, skilling.  Emphasis: opportunity/skill.",
-      "relationships": "Dialog, problem-solving, curiosity.  Emphasis: opportunity/skill.",
-      "money": "Trading, freelancing, multi-stream income, contracts.  Emphasis: opportunity/skill.",
-      "health_adj": "Nervous system, breath, routine mobility.  Emphasis: opportunity/skill."
+      "core": {
+        "en": "This time offers a chance to improve efficiency using science, technology, or innovation. The person connects with research, electronics, and communication. Intuition, analysis, and foresight improve.",
+        "hi": "यह समय वैज्ञानिकए तकनीकी या नई विधियों से कार्य क्षमता बढ़ाने के अवसर देता है। व्यक्ति विज्ञानए अनुसंधानए इलेक्ट्रॉनिक्स और संचार से जुड़ता है। अंतर्ज्ञानए विश्लेषण और दूरदर्शिता जैसे गुणों में वृद्धि होती है।"
+      },
+      "career": {
+        "en": "The person connects with research, electronics, and communication to improve efficiency and innovation at work.",
+        "hi": "व्यक्ति अनुसंधान, इलेक्ट्रॉनिक्स और संचार से जुड़ता है जिससे कार्यक्षमता और नवाचार में सुधार होता है।"
+      },
+      "relationships": {
+        "en": "Improved communication and intuition support better interpersonal connections.",
+        "hi": "बेहतर संचार और अंतर्ज्ञान से पारस्परिक संबंध मजबूत होते हैं।"
+      },
+      "money": {
+        "en": "Efficiency improvements through technology or science may lead to financial opportunities.",
+        "hi": "तकनीक या विज्ञान के माध्यम से कार्य क्षमता बढ़ाने से आर्थिक अवसर मिल सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Improved foresight and analysis can aid in making better health decisions.",
+        "hi": "बेहतर दूरदर्शिता और विश्लेषण से स्वास्थ्य संबंधी निर्णयों में मदद मिलती है।"
+      }
     },
     "aliases": [
       "Mercury sextile Uranus",

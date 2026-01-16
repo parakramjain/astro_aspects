@@ -10,46 +10,122 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Mars and Neptune opens opportunity/skill. Mars: drive, assertion, surgery, mechanics, conflict. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Execution speed, competition, technical grit.  Emphasis: opportunity/skill.",
-    "relationships": "Desire, boundaries, anger management.  Emphasis: opportunity/skill.",
-    "money": "Risk-capital, decisive investments, initiative-led gains.  Emphasis: opportunity/skill.",
-    "health_adj": "Inflammation, accidents; channel via training.  Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Institutional guidance supports success in business, education, and special tasks through enhanced intuition and positive thinking, fulfilling hidden desires and enabling imaginative creativity.",
+    "hi": "संस्थागत मार्गदर्शन व्यवसाय, शिक्षा और विशेष कार्यों में सफलता के लिए अंतर्ज्ञान और सकारात्मक सोच को बढ़ावा देता है, छुपी इच्छाओं की पूर्ति करता है और कल्पनाशील सृजन को सक्षम बनाता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Impulsive actions or accidents; channel energy into training."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Success in business, education, and special work situations through institutional support and intuitive task completion.",
+      "hi": "संस्थागत सहयोग और अंतर्ज्ञान से कार्य पूर्णता के माध्यम से व्यवसाय, शिक्षा और विशेष कार्य स्थितियों में सफलता।"
+    },
+    "relationships": {
+      "en": "Supportive connections with grant-funded institutions and opportunities in spiritual or psychological study.",
+      "hi": "अनुदान प्राप्त संस्थाओं से सहयोग और आध्यात्मिक या मनोवैज्ञानिक अध्ययन में अवसर।"
+    },
+    "money": {
+      "en": "Potential gains through institutional grants and support related to specialized or imaginative work.",
+      "hi": "विशेष या कल्पनाशील कार्यों से संबंधित संस्थागत अनुदान और सहयोग के माध्यम से संभावित लाभ।"
+    },
+    "health_adj": {
+      "en": "Shift from negative to positive thinking enhances mental well-being and intuitive capacity.",
+      "hi": "नकारात्मक से सकारात्मक सोच की ओर बदलाव मानसिक स्वास्थ्य और अंतर्ज्ञान क्षमता को बढ़ाता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Institutional guidance received",
+      "Success in occult, psychology, or spiritual studies",
+      "Fulfillment of hidden desires",
+      "Creation of imaginative works"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Mars: execute, train, assert; Neptune: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "संस्थागत मार्गदर्शन प्राप्त होना",
+      "गूढ़ विषय, मनोविज्ञान या आध्यात्मिक अध्ययन में सफलता",
+      "छुपी इच्छाओं की पूर्ति",
+      "कल्पनाशील कृतियों का सृजन"
     ]
   },
-  "keywords": [
-    "assertion",
-    "conflict",
-    "drive",
-    "mechanics",
-    "opportunity",
-    "sextile",
-    "skill",
-    "surgery"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek institutional guidance in business or education",
+        "Use intuitive insights to complete tasks thoroughly",
+        "Engage in studies related to occult, psychology, or spiritualism"
+      ],
+      "hi": [
+        "व्यवसाय या शिक्षा में संस्थागत मार्गदर्शन प्राप्त करें",
+        "कार्य पूर्णता के लिए अंतर्ज्ञान का उपयोग करें",
+        "गूढ़ विषय, मनोविज्ञान या आध्यात्मिकता के अध्ययन में संलग्न हों"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on fulfilling hidden desires through positive thinking",
+        "Create imaginative or creative works",
+        "Collaborate with grant-funded institutions"
+      ],
+      "hi": [
+        "सकारात्मक सोच के माध्यम से छुपी इच्छाओं की पूर्ति पर ध्यान दें",
+        "कल्पनाशील या रचनात्मक कृतियाँ बनाएं",
+        "अनुदान प्राप्त संस्थाओं के साथ सहयोग करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain intuitive capacity to continue positive progress",
+        "Sustain support from institutional sources"
+      ],
+      "hi": [
+        "अंतर्ज्ञान क्षमता बनाए रखें ताकि सकारात्मक प्रगति जारी रहे",
+        "संस्थागत स्रोतों से सहयोग बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "institutional guidance",
+      "intuition",
+      "positive thinking",
+      "hidden desires",
+      "occult studies",
+      "psychology",
+      "spiritualism",
+      "grant support",
+      "imaginative creation"
+    ],
+    "hi": [
+      "संस्थागत मार्गदर्शन",
+      "अंतर्ज्ञान",
+      "सकारात्मक सोच",
+      "छुपी इच्छाएँ",
+      "गूढ़ अध्ययन",
+      "मनोविज्ञान",
+      "आध्यात्मिकता",
+      "अनुदान सहयोग",
+      "कल्पनाशील सृजन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "intuitive",
+      "creative",
+      "positive",
+      "opportunity"
+    ],
+    "hi": [
+      "सहायक",
+      "अंतर्ज्ञानी",
+      "रचनात्मक",
+      "सकारात्मक",
+      "अवसर"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +179,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "business and education support",
+      "spiritual and psychological growth",
+      "imaginative productivity"
+    ],
+    "hi": [
+      "व्यवसाय और शिक्षा सहयोग",
+      "आध्यात्मिक और मनोवैज्ञानिक विकास",
+      "कल्पनाशील उत्पादकता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Mars Sextile Neptune",
-      "core": "Sextile between Mars and Neptune opens opportunity/skill. Mars: drive, assertion, surgery, mechanics, conflict. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "mar-sxt-nep",
+      "core": "Institutional guidance and intuitive success support positive growth and creative fulfillment.",
+      "tone": "Warm, encouraging, and insightful"
     },
     "hi": {
-      "title": "Mars Sextile Neptune (हिन्दी)",
-      "core": "Mars और Neptune का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "मंगल षट्कोण नेपच्यून",
+      "core": "संस्थागत मार्गदर्शन और अंतर्ज्ञान से सफलता सकारात्मक विकास और रचनात्मक पूर्ति को बढ़ावा देती है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और सूचनात्मक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Mars and Neptune opens opportunity/skill. Mars: drive, assertion, surgery, mechanics, conflict. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Execution speed, competition, technical grit.  Emphasis: opportunity/skill.",
-      "relationships": "Desire, boundaries, anger management.  Emphasis: opportunity/skill.",
-      "money": "Risk-capital, decisive investments, initiative-led gains.  Emphasis: opportunity/skill.",
-      "health_adj": "Inflammation, accidents; channel via training.  Emphasis: opportunity/skill."
+      "core": {
+        "en": "Institutional guidance supports success in business, education, and special tasks through enhanced intuition and positive thinking, fulfilling hidden desires and enabling imaginative creativity.",
+        "hi": "संस्थागत मार्गदर्शन व्यवसाय, शिक्षा और विशेष कार्यों में सफलता के लिए अंतर्ज्ञान और सकारात्मक सोच को बढ़ावा देता है, छुपी इच्छाओं की पूर्ति करता है और कल्पनाशील सृजन को सक्षम बनाता है।"
+      },
+      "career": {
+        "en": "Success in business, education, and special work situations through institutional support and intuitive task completion.",
+        "hi": "संस्थागत सहयोग और अंतर्ज्ञान से कार्य पूर्णता के माध्यम से व्यवसाय, शिक्षा और विशेष कार्य स्थितियों में सफलता।"
+      },
+      "relationships": {
+        "en": "Supportive connections with grant-funded institutions and opportunities in spiritual or psychological study.",
+        "hi": "अनुदान प्राप्त संस्थाओं से सहयोग और आध्यात्मिक या मनोवैज्ञानिक अध्ययन में अवसर।"
+      },
+      "money": {
+        "en": "Potential gains through institutional grants and support related to specialized or imaginative work.",
+        "hi": "विशेष या कल्पनाशील कार्यों से संबंधित संस्थागत अनुदान और सहयोग के माध्यम से संभावित लाभ।"
+      },
+      "health_adj": {
+        "en": "Shift from negative to positive thinking enhances mental well-being and intuitive capacity.",
+        "hi": "नकारात्मक से सकारात्मक सोच की ओर बदलाव मानसिक स्वास्थ्य और अंतर्ज्ञान क्षमता को बढ़ाता है।"
+      }
     },
     "aliases": [
       "Mars sextile Neptune",

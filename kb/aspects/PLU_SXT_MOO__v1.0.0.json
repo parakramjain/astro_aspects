@@ -10,46 +10,122 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Pluto and Moon opens opportunity/skill. Pluto: . Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-    "relationships": " Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-    "money": " Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-    "health_adj": " Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "This aspect indicates improvement and positive transformation in personal health, family matters, daily routines, and home environment. It also brings opportunities for collaboration in business and encourages renewal or repurposing of old items or situations.",
+    "hi": "यह योग स्वास्थ्य, पारिवारिक मामलों, दैनिक जीवन और गृह वातावरण में सुधार और सकारात्मक परिवर्तन दर्शाता है। यह व्यवसाय में सहयोग के अवसर भी लाता है और पुरानी वस्तुओं या स्थितियों के नवीनीकरण या नए उपयोग को प्रोत्साहित करता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Opportunities for joint ventures and collaborative business exchanges arise, promoting growth and mutual benefit.",
+      "hi": "संयुक्त व्यवसाय और सहयोगात्मक व्यापारिक विनिमय के अवसर उत्पन्न होते हैं, जो विकास और पारस्परिक लाभ को बढ़ावा देते हैं।"
+    },
+    "relationships": {
+      "en": "Improvement in family issues and household harmony is experienced, supporting emotional well-being.",
+      "hi": "पारिवारिक समस्याओं में सुधार और गृहस्थ जीवन में सामंजस्य का अनुभव होता है, जो भावनात्मक कल्याण का समर्थन करता है।"
+    },
+    "money": {
+      "en": "Financial gains may come through partnerships and by renovating or repurposing old assets effectively.",
+      "hi": "वित्तीय लाभ साझेदारी के माध्यम से और पुरानी संपत्तियों के नवीनीकरण या नए उपयोग से प्राप्त हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Health and dietary habits improve, contributing to better regular life and well-being.",
+      "hi": "स्वास्थ्य और भोजन व्यवस्था में सुधार होता है, जो नियमित जीवन और कल्याण में सहायक होता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Health improvement",
+      "Family harmony",
+      "Business collaboration",
+      "Renovation or repurposing"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+    "hi": [
+      "स्वास्थ्य में सुधार",
+      "पारिवारिक सामंजस्य",
+      "व्यवसायिक सहयोग",
+      "नवीनिकरण या पुनः उपयोग"
     ]
   },
-  "keywords": [
-    "care",
-    "emotion",
-    "habits",
-    "home",
-    "mother",
-    "opportunity",
-    "public mood",
-    "sextile",
-    "skill"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; cautious renewal advised."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; सावधानीपूर्वक नवीनिकरण की सलाह।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek opportunities for joint ventures in business.",
+        "Use or renovate old items with quality materials.",
+        "Improve health and dietary routines."
+      ],
+      "hi": [
+        "व्यवसाय में संयुक्त व्यवसाय के अवसर खोजें।",
+        "पुरानी वस्तुओं का गुणवत्ता सामग्री से नवीनिकरण करें।",
+        "स्वास्थ्य और भोजन की आदतों में सुधार करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage actively in family and household improvements.",
+        "Initiate collaborative business exchanges.",
+        "Dispose of or renovate old possessions."
+      ],
+      "hi": [
+        "परिवार और गृह कार्यों में सक्रिय रूप से सुधार करें।",
+        "संयुक्त व्यवसायिक विनिमय शुरू करें।",
+        "पुरानी वस्तुओं को हटाएं या नवीनिकरण करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Avoid neglecting health or family duties.",
+        "Do not resist necessary changes or renovations."
+      ],
+      "hi": [
+        "स्वास्थ्य या पारिवारिक कर्तव्यों की उपेक्षा न करें।",
+        "आवश्यक बदलाव या नवीनिकरण का विरोध न करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "health improvement",
+      "family harmony",
+      "joint ventures",
+      "renovation",
+      "repurposing",
+      "business collaboration",
+      "dietary improvement",
+      "regular life"
+    ],
+    "hi": [
+      "स्वास्थ्य सुधार",
+      "पारिवारिक सामंजस्य",
+      "संयुक्त व्यवसाय",
+      "नवीनिकरण",
+      "पुनः उपयोग",
+      "व्यवसाय सहयोग",
+      "भोजन व्यवस्था सुधार",
+      "नियमित जीवन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "improvement",
+      "collaboration",
+      "renewal",
+      "opportunity"
+    ],
+    "hi": [
+      "सुधार",
+      "सहयोग",
+      "नवीनिकरण",
+      "अवसर"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +179,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "transformation",
+      "family wellbeing",
+      "business growth",
+      "health and routine"
+    ],
+    "hi": [
+      "परिवर्तन",
+      "पारिवारिक कल्याण",
+      "व्यवसाय विकास",
+      "स्वास्थ्य और दिनचर्या"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Pluto Sextile Moon",
-      "core": "Sextile between Pluto and Moon opens opportunity/skill. Pluto: . Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "plu-sxt-moo",
+      "core": "Indicates positive changes in health, family, daily life, and business collaborations, with a focus on renewal and effective use of old resources.",
+      "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "Pluto Sextile Moon (हिन्दी)",
-      "core": "Pluto और Moon का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "प्लूटो सेक्सटाइल मून",
+      "core": "स्वास्थ्य, परिवार, दैनिक जीवन और व्यवसाय सहयोग में सकारात्मक बदलाव दर्शाता है, जिसमें नवीनीकरण और पुरानी संसाधनों के प्रभावी उपयोग पर ध्यान केंद्रित होता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Pluto and Moon opens opportunity/skill. Pluto: . Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-      "relationships": " Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-      "money": " Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-      "health_adj": " Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Improvement and positive transformation in health, family, daily routines, and home environment; opportunities for business collaboration; renewal or repurposing of old items.",
+        "hi": "स्वास्थ्य, परिवार, दैनिक जीवन और गृह वातावरण में सुधार और सकारात्मक परिवर्तन; व्यवसाय सहयोग के अवसर; पुरानी वस्तुओं का नवीनीकरण या पुनः उपयोग।"
+      },
+      "career": {
+        "en": "Joint ventures and collaborative business exchanges promote growth and mutual benefit.",
+        "hi": "संयुक्त व्यवसाय और सहयोगात्मक व्यापारिक विनिमय विकास और पारस्परिक लाभ को बढ़ावा देते हैं।"
+      },
+      "relationships": {
+        "en": "Family issues improve and household harmony supports emotional well-being.",
+        "hi": "पारिवारिक समस्याओं में सुधार होता है और गृहस्थ जीवन में सामंजस्य भावनात्मक कल्याण का समर्थन करता है।"
+      },
+      "money": {
+        "en": "Financial gains through partnerships and effective renovation or repurposing of assets.",
+        "hi": "साझेदारी और संपत्तियों के प्रभावी नवीनीकरण या पुनः उपयोग से वित्तीय लाभ।"
+      },
+      "health_adj": {
+        "en": "Health and dietary habits improve, enhancing regular life and well-being.",
+        "hi": "स्वास्थ्य और भोजन की आदतों में सुधार होता है, जो नियमित जीवन और कल्याण को बढ़ाता है।"
+      }
     },
     "aliases": [
       "Pluto sextile Moon",

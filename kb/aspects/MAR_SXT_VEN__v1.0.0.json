@@ -11,37 +11,35 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "A favorable period for new beginnings in art and business, increased creative energy, physical activeness, and opportunities for unmarried people to find love.",
-    "hi": "कला और व्यवसाय में नई शुरुआत के लिए अनुकूल समय, रचनात्मक ऊर्जा और शारीरिक सक्रियता में वृद्धि, तथा अविवाहित लोगों के लिए प्रेम के अवसर।"
+    "en": "A favorable period for new beginnings in art and business, increased creative energy, and physical activeness, with potential for love especially among unmarried individuals.",
+    "hi": "कला और व्यवसाय में नई शुरुआत के लिए अनुकूल समय, रचनात्मक ऊर्जा और शारीरिक सक्रियता में वृद्धि, विशेषकर अविवाहित लोगों के लिए प्रेम के अवसर।"
   },
   "facets": {
     "career": {
-      "en": "Good time to start new ventures in art and business with enhanced creativity.",
-      "hi": "कला और व्यवसाय में नई परियोजनाएँ शुरू करने के लिए अच्छा समय, रचनात्मकता बढ़ी हुई।"
+      "en": "Good time to initiate new projects in artistic or business fields with enhanced creativity.",
+      "hi": "कलात्मक या व्यवसायिक क्षेत्रों में नए प्रोजेक्ट शुरू करने के लिए अच्छा समय, रचनात्मकता में वृद्धि के साथ।"
     },
     "relationships": {
-      "en": "Unmarried individuals may find love; favorable for women.",
-      "hi": "अविवाहित लोगों को प्रेम के अवसर मिल सकते हैं; महिलाओं के लिए अनुकूल समय।"
+      "en": "Unmarried individuals may find opportunities for love; overall positive energy in relationships.",
+      "hi": "अविवाहित लोगों को प्रेम के अवसर मिल सकते हैं; संबंधों में सामान्यतः सकारात्मक ऊर्जा।"
     },
     "money": {
-      "en": "Positive prospects in business ventures related to art and creativity.",
-      "hi": "कला और रचनात्मकता से जुड़े व्यवसाय में सकारात्मक संभावनाएँ।"
+      "en": "Favorable for business beginnings and ventures related to art or creativity.",
+      "hi": "व्यवसाय और कला या रचनात्मकता से जुड़े नए प्रयासों के लिए अनुकूल।"
     },
     "health_adj": {
-      "en": "Increased physical activeness and vitality.",
-      "hi": "शारीरिक सक्रियता और ऊर्जा में वृद्धि।"
+      "en": "Increased physical activeness and vitality are likely during this period.",
+      "hi": "इस समय शारीरिक सक्रियता और जीवंतता में वृद्धि संभव है।"
     }
   },
   "life_event_type": {
     "en": [
-      "New beginnings in art",
-      "Business opportunities",
-      "Love opportunities for unmarried"
+      "New artistic or business ventures",
+      "Romantic beginnings for unmarried people"
     ],
     "hi": [
-      "कला में नई शुरुआत",
-      "व्यवसाय के अवसर",
-      "अविवाहितों के लिए प्रेम के अवसर"
+      "नई कलात्मक या व्यवसायिक शुरुआत",
+      "अविवाहित लोगों के लिए प्रेम संबंध की शुरुआत"
     ]
   },
   "risk_notes": {
@@ -51,34 +49,32 @@
   "actionables": {
     "applying": {
       "en": [
-        "Initiate creative projects",
-        "Explore new business ideas",
-        "Be open to romantic possibilities"
+        "Start new creative or business projects",
+        "Be open to new romantic possibilities"
       ],
       "hi": [
-        "रचनात्मक परियोजनाएँ शुरू करें",
-        "नए व्यवसायिक विचार तलाशें",
-        "प्रेम के अवसरों के लिए खुले रहें"
+        "नई रचनात्मक या व्यवसायिक परियोजनाएं शुरू करें",
+        "नए प्रेम संबंधों के लिए खुले रहें"
       ]
     },
     "exact": {
       "en": [
-        "Focus on artistic and business activities",
-        "Engage in physical and creative pursuits"
+        "Focus on artistic and business initiatives",
+        "Engage in activities boosting creativity and physical energy"
       ],
       "hi": [
-        "कलात्मक और व्यवसायिक गतिविधियों पर ध्यान दें",
-        "शारीरिक और रचनात्मक कार्यों में संलग्न हों"
+        "कलात्मक और व्यवसायिक पहलों पर ध्यान दें",
+        "रचनात्मकता और शारीरिक ऊर्जा बढ़ाने वाली गतिविधियों में संलग्न हों"
       ]
     },
     "separating": {
       "en": [
         "Maintain creative momentum",
-        "Sustain physical energy"
+        "Sustain physical activeness"
       ],
       "hi": [
         "रचनात्मक गति बनाए रखें",
-        "शारीरिक ऊर्जा बनाए रखें"
+        "शारीरिक सक्रियता बनाए रखें"
       ]
     }
   },
@@ -90,8 +86,7 @@
       "love",
       "creative energy",
       "physical activeness",
-      "unmarried",
-      "women"
+      "unmarried"
     ],
     "hi": [
       "नई शुरुआत",
@@ -100,8 +95,7 @@
       "प्रेम",
       "रचनात्मक ऊर्जा",
       "शारीरिक सक्रियता",
-      "अविवाहित",
-      "महिलाएँ"
+      "अविवाहित"
     ]
   },
   "quality_tags": {
@@ -109,13 +103,13 @@
       "favorable",
       "creative",
       "active",
-      "opportunistic"
+      "opportunity"
     ],
     "hi": [
       "अनुकूल",
       "रचनात्मक",
       "सक्रिय",
-      "अवसरपूर्ण"
+      "अवसर"
     ]
   },
   "weights_hint": {
@@ -174,55 +168,55 @@
   "theme_overlays": {
     "en": [
       "creativity",
-      "new opportunities",
-      "love and relationships",
+      "love potential",
+      "business growth",
       "physical vitality"
     ],
     "hi": [
       "रचनात्मकता",
-      "नए अवसर",
-      "प्रेम और संबंध",
+      "प्रेम की संभावना",
+      "व्यवसाय विकास",
       "शारीरिक जीवंतता"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-14"
   },
   "locales": {
     "en": {
       "title": "mar-sxt-ven",
-      "core": "A favorable time for new artistic and business beginnings, enhanced creativity, physical energy, and romantic opportunities for unmarried individuals.",
+      "core": "A favorable time for new beginnings in art and business, increased creativity, and potential love opportunities.",
       "tone": "Warm, positive, encouraging"
     },
     "hi": {
       "title": "मंगल षट्कोण शुक्र",
-      "core": "नई कलात्मक और व्यवसायिक शुरुआत के लिए अनुकूल समय, बढ़ी हुई रचनात्मकता, शारीरिक ऊर्जा, और अविवाहितों के लिए प्रेम के अवसर।",
-      "tone": "सहानुभूतिपूर्ण, सकारात्मक, प्रोत्साहक"
+      "core": "कला और व्यवसाय में नई शुरुआत के लिए अनुकूल समय, रचनात्मकता में वृद्धि और प्रेम के अवसर।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक, प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "Favourable time for new beginnings in art and business. Unmarried people may find love. Creative energy and physical activeness increase.",
-        "hi": "कला और व्यवसाय में नई शुरुआत के योग बनते हैं। अविवाहित लोगों को प्रेम के अवसर मिलते हैं। महिलाओं के लिए यह समय अनुकूल होता है। रचनात्मक ऊर्जा और शारीरिक सक्रियता बनी रहती है।"
+        "en": "Favourable time for new beginnings in art and business. Creative energy and physical activeness increase. Unmarried people may find love.",
+        "hi": "कला और व्यवसाय में नई शुरुआत के योग बनते हैं। रचनात्मक ऊर्जा और शारीरिक सक्रियता बनी रहती है। अविवाहित लोगों को प्रेम के अवसर मिलते हैं।"
       },
       "career": {
-        "en": "New beginnings in art and business with increased creativity.",
-        "hi": "कला और व्यवसाय में नई शुरुआत के लिए अनुकूल समय, रचनात्मकता बढ़ी हुई।"
+        "en": "Good period to start new artistic or business ventures with enhanced creativity.",
+        "hi": "रचनात्मकता में वृद्धि के साथ नए कलात्मक या व्यवसायिक प्रयास शुरू करने का अच्छा समय।"
       },
       "relationships": {
-        "en": "Unmarried people may find love; favorable for women.",
-        "hi": "अविवाहित लोगों को प्रेम के अवसर मिलते हैं; महिलाओं के लिए यह समय अनुकूल होता है।"
+        "en": "Unmarried individuals may find love; relationships are positively influenced.",
+        "hi": "अविवाहित लोगों को प्रेम के अवसर मिलते हैं; संबंधों पर सकारात्मक प्रभाव।"
       },
       "money": {
-        "en": "Positive prospects in art and business ventures.",
-        "hi": "कला और व्यवसाय से जुड़े सकारात्मक अवसर।"
+        "en": "Favorable for business beginnings related to art and creativity.",
+        "hi": "कला और रचनात्मकता से जुड़े व्यवसाय की शुरुआत के लिए अनुकूल।"
       },
       "health_adj": {
-        "en": "Increased creative energy and physical activeness.",
-        "hi": "रचनात्मक ऊर्जा और शारीरिक सक्रियता बनी रहती है।"
+        "en": "Physical activeness and vitality are increased during this time.",
+        "hi": "इस समय शारीरिक सक्रियता और जीवंतता बढ़ती है।"
       }
     },
     "aliases": [

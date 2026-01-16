@@ -10,47 +10,116 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Venus and Venus opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Design, branding, client harmony, tasteful presentation.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-    "relationships": "Attraction, diplomacy, reciprocity.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-    "money": "Luxury/beauty revenues, pricing power via desirability.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-    "health_adj": "Glucose balance, skin, reproductive health; moderation.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Charm and aesthetic appreciation increase, fostering harmonious and balanced relationships. There is potential for success in artistic, musical, and creative endeavors.",
+    "hi": "आकर्षण और सौंदर्यबोध बढ़ता है, जिससे संबंधों में सामंजस्य और संतुलन बना रहता है। कलात्मक, संगीतात्मक और सृजनात्मक कार्यों में सफलता की संभावना रहती है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Venus: design, harmonize, price; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Venus: design, harmonize, price; Venus: design, harmonize, price; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Success and growth in art, music, and creative professions are favored.",
+      "hi": "कला, संगीत और सृजनात्मक पेशों में सफलता और विकास को प्रोत्साहन मिलता है।"
+    },
+    "relationships": {
+      "en": "Relationships tend to be harmonious and balanced, enhancing interpersonal charm.",
+      "hi": "संबंध सामंजस्यपूर्ण और संतुलित रहते हैं, जिससे व्यक्तिगत आकर्षण बढ़ता है।"
+    },
+    "money": {
+      "en": "Financial gains may come through creative or artistic activities.",
+      "hi": "आर्थिक लाभ कलात्मक या सृजनात्मक गतिविधियों से मिल सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य के लिए कोई विशेष सुझाव नहीं दिए गए हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Artistic achievements",
+      "Creative project successes",
+      "Harmonious relationships"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Venus: design, harmonize, price; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Venus: design, harmonize, price; Venus: design, harmonize, price; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Venus: design, harmonize, price; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Venus: design, harmonize, price; Venus: design, harmonize, price; tone: opportunity/skill)."
+    "hi": [
+      "कलात्मक उपलब्धियां",
+      "सृजनात्मक परियोजनाओं में सफलता",
+      "सामंजस्यपूर्ण संबंध"
     ]
   },
-  "keywords": [
-    "affection",
-    "art",
-    "harmony",
-    "opportunity",
-    "pleasure",
-    "sextile",
-    "skill",
-    "values"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic",
-    "external-opportunity"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks noted in the aspect."
+    ],
+    "hi": [
+      "इस योग में कोई स्पष्ट जोखिम नहीं दर्शाए गए हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative or artistic activities to harness enhanced charm.",
+        "Focus on building harmonious relationships."
+      ],
+      "hi": [
+        "बढ़े हुए आकर्षण का लाभ उठाने के लिए सृजनात्मक या कलात्मक गतिविधियों में संलग्न हों।",
+        "सामंजस्यपूर्ण संबंध बनाने पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Maximize opportunities in art, music, and creative work.",
+        "Maintain balance and harmony in personal interactions."
+      ],
+      "hi": [
+        "कला, संगीत और सृजनात्मक कार्यों में अवसरों का अधिकतम लाभ उठाएं।",
+        "व्यक्तिगत संबंधों में संतुलन और सामंजस्य बनाए रखें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Continue nurturing creative talents and relationships.",
+        "Sustain aesthetic appreciation and charm."
+      ],
+      "hi": [
+        "सृजनात्मक प्रतिभाओं और संबंधों को पोषित करना जारी रखें।",
+        "सौंदर्यबोध और आकर्षण बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "Charm",
+      "Aesthetic sense",
+      "Harmony",
+      "Balance",
+      "Art",
+      "Music",
+      "Creativity",
+      "Success"
+    ],
+    "hi": [
+      "आकर्षण",
+      "सौंदर्यबोध",
+      "सामंजस्य",
+      "संतुलन",
+      "कला",
+      "संगीत",
+      "सृजनात्मकता",
+      "सफलता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "Harmonious",
+      "Balanced",
+      "Creative",
+      "Aesthetic"
+    ],
+    "hi": [
+      "सामंजस्यपूर्ण",
+      "संतुलित",
+      "सृजनात्मक",
+      "सौंदर्यपूर्ण"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +172,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "Relationship Tone",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "Artistic expression",
+      "Relationship harmony",
+      "Creative success"
+    ],
+    "hi": [
+      "कलात्मक अभिव्यक्ति",
+      "संबंधों में सामंजस्य",
+      "सृजनात्मक सफलता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Venus Sextile Venus",
-      "core": "Sextile between Venus and Venus opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ven-sxt-ven",
+      "core": "Enhanced charm and aesthetic sense support harmonious relationships and creative success.",
+      "tone": "Warm, balanced, encouraging"
     },
     "hi": {
-      "title": "Venus Sextile Venus (हिन्दी)",
-      "core": "Venus और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "शुक्र षट्कोण शुक्र",
+      "core": "बढ़ा हुआ आकर्षण और सौंदर्यबोध सामंजस्यपूर्ण संबंधों और सृजनात्मक सफलता को प्रोत्साहित करता है।",
+      "tone": "स्नेहपूर्ण, संतुलित, प्रोत्साहक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Venus and Venus opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Design, branding, client harmony, tasteful presentation.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-      "relationships": "Attraction, diplomacy, reciprocity.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-      "money": "Luxury/beauty revenues, pricing power via desirability.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-      "health_adj": "Glucose balance, skin, reproductive health; moderation.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Charm and aesthetic appreciation increase, fostering harmonious and balanced relationships. There is potential for success in artistic, musical, and creative endeavors.",
+        "hi": "आकर्षण और सौंदर्यबोध बढ़ता है, जिससे संबंधों में सामंजस्य और संतुलन बना रहता है। कलात्मक, संगीतात्मक और सृजनात्मक कार्यों में सफलता की संभावना रहती है।"
+      },
+      "career": {
+        "en": "Success and growth in art, music, and creative professions are favored.",
+        "hi": "कला, संगीत और सृजनात्मक पेशों में सफलता और विकास को प्रोत्साहन मिलता है।"
+      },
+      "relationships": {
+        "en": "Relationships tend to be harmonious and balanced, enhancing interpersonal charm.",
+        "hi": "संबंध सामंजस्यपूर्ण और संतुलित रहते हैं, जिससे व्यक्तिगत आकर्षण बढ़ता है।"
+      },
+      "money": {
+        "en": "Financial gains may come through creative or artistic activities.",
+        "hi": "आर्थिक लाभ कलात्मक या सृजनात्मक गतिविधियों से मिल सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य के लिए कोई विशेष सुझाव नहीं दिए गए हैं।"
+      }
     },
     "aliases": [
       "Venus sextile Venus",

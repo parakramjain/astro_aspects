@@ -10,45 +10,116 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Neptune and Mercury opens opportunity/skill. Neptune: . Mercury: analysis, communication, commerce, learning, tech. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Negotiation, analytics, documentation, skilling. Emphasis: opportunity/skill.",
-    "relationships": " Dialog, problem-solving, curiosity. Emphasis: opportunity/skill.",
-    "money": " Trading, freelancing, multi-stream income, contracts. Emphasis: opportunity/skill.",
-    "health_adj": " Nervous system, breath, routine mobility. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Improved perspective and imagination enhance mental communication and spiritual insights, supporting success in artistic fields.",
+    "hi": "दृष्टिकोण और कल्पना में सुधार से मानसिक संचार और आध्यात्मिक जानकारी में वृद्धि होती है, जो कलात्मक क्षेत्रों में सफलता का समर्थन करता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Neptune: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Neptune: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Increased success in art, painting, and photography through enhanced creativity and insight.",
+      "hi": "बढ़ी हुई रचनात्मकता और जानकारी के कारण कला, चित्रकला और फोटोग्राफी में सफलता बढ़ती है।"
+    },
+    "relationships": {
+      "en": "Enhanced mental messaging and telepathic communication may improve understanding and connection.",
+      "hi": "मानसिक संदेश और टेलीपैथिक संचार में वृद्धि से समझ और संबंध बेहतर हो सकते हैं।"
+    },
+    "money": {
+      "en": "Opportunities may arise from artistic or spiritual insights, potentially benefiting financial matters.",
+      "hi": "कलात्मक या आध्यात्मिक जानकारी से अवसर उत्पन्न हो सकते हैं, जो वित्तीय मामलों में लाभदायक हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; mental clarity and imagination are positively influenced.",
+      "hi": "विशेष स्वास्थ्य समायोजन नहीं दर्शाए गए; मानसिक स्पष्टता और कल्पना सकारात्मक रूप से प्रभावित होती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Artistic achievements",
+      "Spiritual insights",
+      "Enhanced communication"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Neptune: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Neptune: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Neptune: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Neptune: act, iterate, measure; Mercury: draft, analyze, negotiate; tone: opportunity/skill)."
+    "hi": [
+      "कलात्मक उपलब्धियां",
+      "आध्यात्मिक जानकारी",
+      "संचार में सुधार"
     ]
   },
-  "keywords": [
-    "analysis",
-    "commerce",
-    "communication",
-    "learning",
-    "opportunity",
-    "sextile",
-    "skill",
-    "tech"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balance in mental and spiritual pursuits."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताए गए; मानसिक और आध्यात्मिक प्रयासों में संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative activities like painting and photography.",
+        "Practice mental communication or meditation to enhance insights."
+      ],
+      "hi": [
+        "चित्रकला और फोटोग्राफी जैसी रचनात्मक गतिविधियों में भाग लें।",
+        "जानकारी बढ़ाने के लिए मानसिक संचार या ध्यान का अभ्यास करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on receiving and interpreting spiritual or intuitive messages.",
+        "Utilize enhanced imagination for artistic expression."
+      ],
+      "hi": [
+        "आध्यात्मिक या सहज संदेश प्राप्त करने और समझने पर ध्यान दें।",
+        "कलात्मक अभिव्यक्ति के लिए बढ़ी हुई कल्पना का उपयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on insights gained and integrate them thoughtfully.",
+        "Maintain clarity in communication to avoid misunderstandings."
+      ],
+      "hi": [
+        "प्राप्त जानकारी पर विचार करें और उन्हें सावधानी से अपनाएं।",
+        "गलतफहमी से बचने के लिए संचार में स्पष्टता बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "perspective",
+      "imagination",
+      "mental messaging",
+      "telepathy",
+      "spiritual insights",
+      "artistic success",
+      "painting",
+      "photography"
+    ],
+    "hi": [
+      "दृष्टिकोण",
+      "कल्पना",
+      "मानसिक संदेश",
+      "टेलीपैथी",
+      "आध्यात्मिक जानकारी",
+      "कलात्मक सफलता",
+      "चित्रकला",
+      "फोटोग्राफी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "enhancing",
+      "creative",
+      "insightful",
+      "spiritual"
+    ],
+    "hi": [
+      "सुधारात्मक",
+      "रचनात्मक",
+      "सूचनात्मक",
+      "आध्यात्मिक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -102,36 +173,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "communication",
+      "spirituality",
+      "art"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "संचार",
+      "आध्यात्मिकता",
+      "कला"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Neptune Sextile Mercury",
-      "core": "Sextile between Neptune and Mercury opens opportunity/skill. Neptune: . Mercury: analysis, communication, commerce, learning, tech. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "nep-sxt-mer",
+      "core": "This aspect enhances imagination and mental communication, bringing spiritual insights and artistic success.",
+      "tone": "Warm, neutral, and encouraging of creative and spiritual growth."
     },
     "hi": {
-      "title": "Neptune Sextile Mercury (हिन्दी)",
-      "core": "Neptune और Mercury का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "नेपच्यून सेक्सीले मर्क्युरी",
+      "core": "यह योग कल्पना और मानसिक संचार को बढ़ाता है, जिससे आध्यात्मिक जानकारी और कलात्मक सफलता मिलती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और रचनात्मक व आध्यात्मिक विकास के लिए प्रोत्साहित करने वाला।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Neptune and Mercury opens opportunity/skill. Neptune: . Mercury: analysis, communication, commerce, learning, tech. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Negotiation, analytics, documentation, skilling. Emphasis: opportunity/skill.",
-      "relationships": " Dialog, problem-solving, curiosity. Emphasis: opportunity/skill.",
-      "money": " Trading, freelancing, multi-stream income, contracts. Emphasis: opportunity/skill.",
-      "health_adj": " Nervous system, breath, routine mobility. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Improved perspective and imagination enhance mental communication and spiritual insights, supporting success in artistic fields.",
+        "hi": "दृष्टिकोण और कल्पना में सुधार से मानसिक संचार और आध्यात्मिक जानकारी में वृद्धि होती है, जो कलात्मक क्षेत्रों में सफलता का समर्थन करता है।"
+      },
+      "career": {
+        "en": "Increased success in art, painting, and photography through enhanced creativity and insight.",
+        "hi": "बढ़ी हुई रचनात्मकता और जानकारी के कारण कला, चित्रकला और फोटोग्राफी में सफलता बढ़ती है।"
+      },
+      "relationships": {
+        "en": "Enhanced mental messaging and telepathic communication may improve understanding and connection.",
+        "hi": "मानसिक संदेश और टेलीपैथिक संचार में वृद्धि से समझ और संबंध बेहतर हो सकते हैं।"
+      },
+      "money": {
+        "en": "Opportunities may arise from artistic or spiritual insights, potentially benefiting financial matters.",
+        "hi": "कलात्मक या आध्यात्मिक जानकारी से अवसर उत्पन्न हो सकते हैं, जो वित्तीय मामलों में लाभदायक हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; mental clarity and imagination are positively influenced.",
+        "hi": "विशेष स्वास्थ्य समायोजन नहीं दर्शाए गए; मानसिक स्पष्टता और कल्पना सकारात्मक रूप से प्रभावित होती है।"
+      }
     },
     "aliases": [
       "Neptune sextile Mercury",

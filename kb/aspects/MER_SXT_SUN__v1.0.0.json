@@ -10,51 +10,126 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Mercury and Sun opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Negotiation, analytics, documentation, skilling.  Authority, recognition, leadership, alignment with purpose. Emphasis: opportunity/skill.",
-    "relationships": "Dialog, problem-solving, curiosity.  Self-respect, healthy boundaries, paternal figures. Emphasis: opportunity/skill.",
-    "money": "Trading, freelancing, multi-stream income, contracts.  Status-linked income, government/authority-linked gains. Emphasis: opportunity/skill.",
-    "health_adj": "Nervous system, breath, routine mobility.  Heart, vitality, heat regulation; consider circadian rhythm. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Engagement in intellectual work and confident presentation of ideas, fostering new creative concepts especially in adventure and art, with recognition and collaboration opportunities.",
+    "hi": "बौद्धिक कार्य में संलग्नता और विचारों को अधिकारपूर्वक प्रस्तुत करना, साहसिक एवं कला क्षेत्र में नई कल्पनाओं का विकास, मान्यता और सहयोग के अवसर।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Sun: lead, present, decide; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Sun: lead, present, decide; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Increased interest in studies and intellectual activities; presenting ideas to authority figures; development of new ideas in creative fields.",
+      "hi": "अध्ययन और बौद्धिक गतिविधियों में रुचि बढ़ना; अधिकार सम्पन्न व्यक्तियों के समक्ष विचार प्रस्तुत करना; रचनात्मक क्षेत्रों में नई कल्पनाओं का विकास।"
+    },
+    "relationships": {
+      "en": "Friends may become collaborators; personal thoughts gain recognition among peers and authorities.",
+      "hi": "मित्र सहयोगी बन सकते हैं; व्यक्तिगत विचारों को साथियों और अधिकारियों से मान्यता मिलती है।"
+    },
+    "money": {
+      "en": "Opportunities for skill enhancement may bring joy; short trips possibly related to work or study.",
+      "hi": "कौशल वृद्धि के अवसर आनंददायक होंगे; कार्य या अध्ययन से संबंधित छोटी यात्राओं की संभावना।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; intellectual engagement and travel may influence well-being positively.",
+      "hi": "विशेष स्वास्थ्य समायोजन नहीं; बौद्धिक संलग्नता और यात्रा से स्वास्थ्य पर सकारात्मक प्रभाव संभव।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Intellectual pursuits",
+      "Creative development",
+      "Collaboration with friends",
+      "Short trips"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Sun: lead, present, decide; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Sun: lead, present, decide; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Sun: lead, present, decide; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Sun: lead, present, decide; tone: opportunity/skill)."
+    "hi": [
+      "बौद्धिक प्रयास",
+      "रचनात्मक विकास",
+      "मित्रों के साथ सहयोग",
+      "छोटी यात्राएं"
     ]
   },
-  "keywords": [
-    "analysis",
-    "authority",
-    "commerce",
-    "communication",
-    "ego",
-    "identity",
-    "learning",
-    "opportunity",
-    "purpose",
-    "sextile",
-    "skill",
-    "tech",
-    "visibility",
-    "vitality"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Present ideas confidently to authority figures",
+        "Engage in intellectual and creative work",
+        "Collaborate with friends on projects"
+      ],
+      "hi": [
+        "विचारों को अधिकार सम्पन्न व्यक्तियों के समक्ष आत्मविश्वास से प्रस्तुत करें",
+        "बौद्धिक और रचनात्मक कार्यों में संलग्न हों",
+        "परियोजनाओं में मित्रों के साथ सहयोग करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on skill enhancement activities",
+        "Consider short trips for study or work",
+        "Develop new ideas in adventure or art fields"
+      ],
+      "hi": [
+        "कौशल वृद्धि गतिविधियों पर ध्यान दें",
+        "अध्ययन या कार्य के लिए छोटी यात्राओं पर विचार करें",
+        "साहसिक या कला क्षेत्रों में नई कल्पनाएं विकसित करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain intellectual engagement",
+        "Sustain collaborations with friends",
+        "Continue presenting ideas effectively"
+      ],
+      "hi": [
+        "बौद्धिक संलग्नता बनाए रखें",
+        "मित्रों के साथ सहयोग जारी रखें",
+        "विचारों को प्रभावी ढंग से प्रस्तुत करना जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intellectual activities",
+      "confident presentation",
+      "new ideas",
+      "adventure",
+      "art",
+      "recognition",
+      "collaboration",
+      "study interest",
+      "short trips",
+      "skill enhancement"
+    ],
+    "hi": [
+      "बौद्धिक क्रियाएं",
+      "आत्मविश्वासी प्रस्तुति",
+      "नई कल्पनाएं",
+      "साहसिक",
+      "कला",
+      "मान्यता",
+      "सहयोग",
+      "अध्ययन रुचि",
+      "छोटी यात्राएं",
+      "कौशल वृद्धि"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "authoritative",
+      "competent",
+      "creative",
+      "collaborative",
+      "joyful"
+    ],
+    "hi": [
+      "अधिकारपूर्ण",
+      "सक्षम",
+      "रचनात्मक",
+      "सहयोगी",
+      "आनंददायक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -108,36 +183,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "intellectual growth",
+      "creative expression",
+      "social collaboration",
+      "skill development",
+      "travel opportunities"
+    ],
+    "hi": [
+      "बौद्धिक विकास",
+      "रचनात्मक अभिव्यक्ति",
+      "सामाजिक सहयोग",
+      "कौशल विकास",
+      "यात्रा के अवसर"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Mercury Sextile Sun",
-      "core": "Sextile between Mercury and Sun opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "mer-sxt-sun",
+      "core": "Engagement in intellectual and creative activities with opportunities for recognition and collaboration.",
+      "tone": "Warm, encouraging, and confident."
     },
     "hi": {
-      "title": "Mercury Sextile Sun (हिन्दी)",
-      "core": "Mercury और Sun का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बुध षट्कोण सूर्य",
+      "core": "बौद्धिक और रचनात्मक गतिविधियों में संलग्नता, मान्यता और सहयोग के अवसर।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और आत्मविश्वासी।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Mercury and Sun opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Negotiation, analytics, documentation, skilling.  Authority, recognition, leadership, alignment with purpose. Emphasis: opportunity/skill.",
-      "relationships": "Dialog, problem-solving, curiosity.  Self-respect, healthy boundaries, paternal figures. Emphasis: opportunity/skill.",
-      "money": "Trading, freelancing, multi-stream income, contracts.  Status-linked income, government/authority-linked gains. Emphasis: opportunity/skill.",
-      "health_adj": "Nervous system, breath, routine mobility.  Heart, vitality, heat regulation; consider circadian rhythm. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Engages in intellectual activities and work. Presents ideas authoritatively and competently. New ideas develop in adventure/art fields. Excellent time to present ideas to authorities. Personal thoughts gain recognition. Friends become collaborators. Increased interest in studies. Possibility of short trips. Skill enhancement brings joy.",
+        "hi": "बौद्धिक क्रिया एवं कार्य करता है। अपनी कल्पनाओं को अधिकारपूर्वकए सक्षमता के साथ प्रस्तुत करता है। साहसिक/कला के क्षेत्र में नई कल्पनाओं का विकास होता है। यह समय अपनी कल्पनाओं को अधिकार सम्पन्न व्यक्तियों के समक्ष प्रस्तुत करने हेतु उत्तम रहता है। व्यक्तिगत विचारों को मान्यता प्राप्त होती है। मित्र सहयोगी बनेंगे। अ/ययन में रुचि बढ़ेगी। छोटी यात्रा योग भी बनता है। कौशल वृद्धि के खेल आनंद का स्रोत होंगे।"
+      },
+      "career": {
+        "en": "Interest in studies increases; intellectual work and presentation of ideas to authorities; development of new ideas in adventure and art.",
+        "hi": "अध्ययन में रुचि बढ़ेगी; बौद्धिक कार्य और अधिकार सम्पन्न व्यक्तियों के समक्ष विचार प्रस्तुत करना; साहसिक और कला में नई कल्पनाओं का विकास।"
+      },
+      "relationships": {
+        "en": "Friends become collaborators; personal thoughts gain recognition.",
+        "hi": "मित्र सहयोगी बनेंगे; व्यक्तिगत विचारों को मान्यता प्राप्त होगी।"
+      },
+      "money": {
+        "en": "Skill enhancement activities bring joy; short trips possible.",
+        "hi": "कौशल वृद्धि आनंददायक होगी; छोटी यात्राओं की संभावना।"
+      },
+      "health_adj": {
+        "en": "No specific health notes; intellectual and travel activities may positively influence well-being.",
+        "hi": "विशेष स्वास्थ्य नोट नहीं; बौद्धिक और यात्रा गतिविधियां स्वास्थ्य पर सकारात्मक प्रभाव डाल सकती हैं।"
+      }
     },
     "aliases": [
       "Mercury sextile Sun",

@@ -10,47 +10,114 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Moon and Moon opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Public reception, brand sentiment, consistency.  Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-    "relationships": "Bonding, nurturance, emotional safety.  Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-    "money": "Cyclic cashflow, consumer sentiment.  Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-    "health_adj": "Hydration, sleep, digestion; stress sensitivity.  Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Intellectual activities and consciousness development occur at home, with increased study of business events and more frequent conversations.",
+    "hi": "घर में बौद्धिक गतिविधियाँ और चेतना का विकास होता है, व्यावसायिक घटनाओं का अध्ययन बढ़ता है और वार्तालाप सामान्य से अधिक होते हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Moon: nurture, align routines, soft-launch; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Moon: nurture, align routines, soft-launch; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Focus on studying business events at home supports career awareness and intellectual growth.",
+      "hi": "घर पर व्यावसायिक घटनाओं के अध्ययन से करियर की समझ और बौद्धिक विकास होता है।"
+    },
+    "relationships": {
+      "en": "Conversations within the family or residence increase, fostering better communication.",
+      "hi": "परिवार या निवास स्थान में वार्तालाप बढ़ते हैं, जिससे बेहतर संवाद होता है।"
+    },
+    "money": {
+      "en": "Business-related discussions at home may influence financial awareness.",
+      "hi": "घर पर व्यावसायिक चर्चाएँ वित्तीय जागरूकता को प्रभावित कर सकती हैं।"
+    },
+    "health_adj": {
+      "en": "Mental activity and consciousness development are enhanced in the home environment.",
+      "hi": "घर के वातावरण में मानसिक गतिविधि और चेतना का विकास बढ़ता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Home intellectual activities",
+      "Increased family communication",
+      "Business study at residence"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Moon: nurture, align routines, soft-launch; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Moon: nurture, align routines, soft-launch; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Moon: nurture, align routines, soft-launch; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Moon: nurture, align routines, soft-launch; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+    "hi": [
+      "घर में बौद्धिक गतिविधियाँ",
+      "परिवार में संवाद वृद्धि",
+      "निवास स्थान पर व्यावसायिक अध्ययन"
     ]
   },
-  "keywords": [
-    "care",
-    "emotion",
-    "habits",
-    "home",
-    "mother",
-    "opportunity",
-    "public mood",
-    "sextile",
-    "skill"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic",
-    "external-opportunity"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks indicated",
+      "Potential for overthinking at home"
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं दर्शाया गया",
+      "घर में अधिक सोच-विचार की संभावना"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in intellectual discussions at home",
+        "Observe and study business events within the family"
+      ],
+      "hi": [
+        "घर में बौद्धिक चर्चाओं में भाग लें",
+        "परिवार में व्यावसायिक घटनाओं का अध्ययन करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Increase frequency of conversations",
+        "Focus on consciousness development"
+      ],
+      "hi": [
+        "वार्तालाप की आवृत्ति बढ़ाएँ",
+        "चेतना विकास पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain intellectual engagement at home",
+        "Continue studying family business matters"
+      ],
+      "hi": [
+        "घर में बौद्धिक सक्रियता बनाए रखें",
+        "परिवार के व्यावसायिक मामलों का अध्ययन जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intellectual activities",
+      "consciousness development",
+      "home",
+      "family",
+      "business study",
+      "conversations"
+    ],
+    "hi": [
+      "बौद्धिक गतिविधियाँ",
+      "चेतना विकास",
+      "घर",
+      "परिवार",
+      "व्यावसायिक अध्ययन",
+      "वार्तालाप"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intellectual",
+      "communicative",
+      "consciousness",
+      "home-focused"
+    ],
+    "hi": [
+      "बौद्धिक",
+      "संचारात्मक",
+      "चेतना",
+      "घर-केंद्रित"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +170,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "family communication",
+      "mental growth",
+      "business awareness"
+    ],
+    "hi": [
+      "परिवार संवाद",
+      "मानसिक विकास",
+      "व्यावसायिक जागरूकता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Moon Sextile Moon",
-      "core": "Sextile between Moon and Moon opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "moo-sxt-moo",
+      "core": "Intellectual and conscious development at home with increased family communication and business study.",
+      "tone": "Warm, neutral, and encouraging thoughtful engagement."
     },
     "hi": {
-      "title": "Moon Sextile Moon (हिन्दी)",
-      "core": "Moon और Moon का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "चंद्र षट्कोण चंद्र",
+      "core": "घर में बौद्धिक और चेतनात्मक विकास, परिवार में संवाद और व्यावसायिक अध्ययन बढ़ना।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सोच-विचार को प्रोत्साहित करने वाला।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Moon and Moon opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Public reception, brand sentiment, consistency.  Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-      "relationships": "Bonding, nurturance, emotional safety.  Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-      "money": "Cyclic cashflow, consumer sentiment.  Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-      "health_adj": "Hydration, sleep, digestion; stress sensitivity.  Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Intellectual activities are favored at home/family/residence. Consciousness develops. The person studies business events at home. Conversations are more frequent than usual.",
+        "hi": "घर/परिवार/निवास स्थान में बौद्धिक क्रियाकलाप के अवसर रहते हैं। चेतना शक्ति विकसित होती है। व्यक्ति व्यावसायिक घटनाओं का अ/ययन घर पर करता है। वार्तालाप सामान्य से अधिक होता है।"
+      },
+      "career": {
+        "en": "The person studies business events at home, indicating career-related intellectual engagement.",
+        "hi": "व्यक्ति घर पर व्यावसायिक घटनाओं का अध्ययन करता है, जो करियर से जुड़ी बौद्धिक सक्रियता दर्शाता है।"
+      },
+      "relationships": {
+        "en": "Conversations at home/family increase beyond the usual frequency.",
+        "hi": "घर/परिवार में वार्तालाप सामान्य से अधिक होता है।"
+      },
+      "money": {
+        "en": "Business events studied at home may relate to financial matters.",
+        "hi": "घर पर व्यावसायिक घटनाओं का अध्ययन वित्तीय मामलों से संबंधित हो सकता है।"
+      },
+      "health_adj": {
+        "en": "Consciousness develops, indicating enhanced mental activity at home.",
+        "hi": "चेतना शक्ति विकसित होती है, जो घर में मानसिक गतिविधि के बढ़ने का सूचक है।"
+      }
     },
     "aliases": [
       "Moon sextile Moon",

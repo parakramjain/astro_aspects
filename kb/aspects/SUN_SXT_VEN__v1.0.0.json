@@ -10,52 +10,128 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Sun and Venus opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Authority, recognition, leadership, alignment with purpose.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-    "relationships": "Self-respect, healthy boundaries, paternal figures.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-    "money": "Status-linked income, government/authority-linked gains.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "A favorable period marked by joy from art, music, and romance, with opportunities for pleasant outings and affectionate interactions.",
+    "hi": "कला, संगीत और रोमांस से आनंद प्राप्त करने का शुभ समय, जिसमें सुखद यात्रा और स्नेहपूर्ण संबंधों के अवसर होते हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Benefits arise in careers related to art, music, entertainment, and luxury goods; work activities may also bring pleasure.",
+      "hi": "कला, संगीत, मनोरंजन और सुख-साधन की वस्तुओं से जुड़े व्यवसायों में लाभ होता है; काम में भी आनंद मिल सकता है।"
+    },
+    "relationships": {
+      "en": "Increased joy, affection, and kindness towards children, younger siblings, and subordinates.",
+      "hi": "संतान, छोटे भाई-बहन और अधीनस्थों के प्रति अधिक आनंद, स्नेह और दयालुता रहती है।"
+    },
+    "money": {
+      "en": "Financial gains are possible through art, music, entertainment, and luxury items.",
+      "hi": "कला, संगीत, मनोरंजन और सुख-साधन की वस्तुओं से आर्थिक लाभ संभव है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; overall positive mood may support well-being.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं; समग्र सकारात्मक मनोदशा स्वास्थ्य के लिए लाभकारी हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Artistic enjoyment",
+      "Romantic experiences",
+      "Pleasant short trips or picnics"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: opportunity/skill)."
+    "hi": [
+      "कलात्मक आनंद",
+      "रोमांटिक अनुभव",
+      "छोटी सुखद यात्राएं या पिकनिक"
     ]
   },
-  "keywords": [
-    "affection",
-    "art",
-    "authority",
-    "ego",
-    "harmony",
-    "identity",
-    "opportunity",
-    "pleasure",
-    "purpose",
-    "sextile",
-    "skill",
-    "values",
-    "visibility",
-    "vitality"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in artistic or musical activities",
+        "Plan short joyful outings or picnics",
+        "Express kindness and affection to children and subordinates"
+      ],
+      "hi": [
+        "कलात्मक या संगीत संबंधी गतिविधियों में भाग लें",
+        "छोटी सुखद यात्राओं या पिकनिक की योजना बनाएं",
+        "संतान और अधीनस्थों के प्रति दयालुता और स्नेह दिखाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on enjoying art, music, and romance",
+        "Participate in entertainment or luxury-related business activities",
+        "Cultivate optimism and affectionate behavior"
+      ],
+      "hi": [
+        "कला, संगीत और रोमांस का आनंद लें",
+        "मनोरंजन या सुख-साधन से जुड़े व्यवसायिक कार्यों में भाग लें",
+        "आशावादी और स्नेहपूर्ण व्यवहार बनाए रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain joyful and affectionate attitudes",
+        "Continue kindness towards family and subordinates",
+        "Savor pleasure in work and creative pursuits"
+      ],
+      "hi": [
+        "आनंदित और स्नेहपूर्ण व्यवहार बनाए रखें",
+        "परिवार और अधीनस्थों के प्रति दयालुता जारी रखें",
+        "काम और रचनात्मक गतिविधियों में सुख का अनुभव करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "joy",
+      "art",
+      "music",
+      "romance",
+      "affection",
+      "optimism",
+      "kindness",
+      "pleasure",
+      "short trips",
+      "picnic",
+      "entertainment",
+      "luxury"
+    ],
+    "hi": [
+      "आनंद",
+      "कला",
+      "संगीत",
+      "रोमांस",
+      "स्नेह",
+      "आशावाद",
+      "दयालुता",
+      "सुख",
+      "छोटी यात्रा",
+      "पिकनिक",
+      "मनोरंजन",
+      "सुख-साधन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "joyful",
+      "affectionate",
+      "optimistic",
+      "kind"
+    ],
+    "hi": [
+      "शुभ",
+      "आनंदित",
+      "स्नेहपूर्ण",
+      "आशावादी",
+      "दयालु"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -109,36 +185,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "Relationship Tone",
-    "",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "artistic enjoyment",
+      "romantic harmony",
+      "pleasant social interactions",
+      "business benefits in luxury and entertainment"
+    ],
+    "hi": [
+      "कलात्मक आनंद",
+      "रोमांटिक सामंजस्य",
+      "सुखद सामाजिक संबंध",
+      "सुख-साधन और मनोरंजन में व्यावसायिक लाभ"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Sun Sextile Venus",
-      "core": "Sextile between Sun and Venus opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "sun-sxt-ven",
+      "core": "A time to enjoy art, music, romance, and affectionate relationships, with positive effects on business and personal joy.",
+      "tone": "Warm, optimistic, and affectionate"
     },
     "hi": {
-      "title": "Sun Sextile Venus (हिन्दी)",
-      "core": "Sun और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "सूर्य षट्कोण शुक्र",
+      "core": "कला, संगीत, रोमांस और स्नेहपूर्ण संबंधों का आनंद लेने का समय, जो व्यवसाय और व्यक्तिगत आनंद पर सकारात्मक प्रभाव डालता है।",
+      "tone": "स्नेहपूर्ण, आशावादी और गर्मजोशी भरा"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Sun and Venus opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Authority, recognition, leadership, alignment with purpose.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-      "relationships": "Self-respect, healthy boundaries, paternal figures.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-      "money": "Status-linked income, government/authority-linked gains.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+      "core": {
+        "en": "This time is characterized by the ability to derive joy from art, music, and romance, with potential for delightful short trips or picnics.",
+        "hi": "कला/संगीत/रोमांस आदि से आनंद प्राप्त करने की स्थिति रहती है। छोटी आनंददायक यात्रा/पिकनिक हो सकती है।"
+      },
+      "career": {
+        "en": "In terms of business, this time brings benefits through art, music, entertainment, and luxury items.",
+        "hi": "व्यावसायिक स्थिति में यह समय कला/संगीत/मनोरंजन/सुख-साधन की वस्तुओं से लाभ प्रदान करता है।"
+      },
+      "relationships": {
+        "en": "The individual tends to be more joyful, affectionate, and optimistic, showing kindness towards children, younger siblings, and subordinates.",
+        "hi": "इस समय में व्यक्ति अधिक आनंदित, स्नेह रखने वाला और आशावादी रहता है। संतान, छोटे भाई-बहन और अधीनस्थ के प्रति दयावान रहता है।"
+      },
+      "money": {
+        "en": "Benefits arise through art, music, entertainment, and luxury goods.",
+        "hi": "यह समय कला, संगीत, मनोरंजन और सुख-साधन की वस्तुओं से लाभ प्रदान करता है।"
+      },
+      "health_adj": {
+        "en": "There is a possibility of experiencing pleasure in work-related activities; no specific health cautions noted.",
+        "hi": "काम में सुख भी प्राप्त हो सकता है; स्वास्थ्य संबंधी कोई विशेष चेतावनी नहीं।"
+      }
     },
     "aliases": [
       "Sun sextile Venus",

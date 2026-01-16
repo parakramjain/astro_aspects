@@ -11,84 +11,92 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "Heightened intuition and imagination bring mental excitement and self-motivation, leading to leadership in cultural and social activities. Compassion and spiritual interest increase, with opportunities for artistic expression and understanding of children’s psychology. There is potential for awakening past memories and premonitions, fostering spiritual discussions.",
-    "hi": "अन्तर्ज्ञान और कल्पनाशक्ति की वृद्धि से मानसिक उत्तेजना और आत्मप्रेरणा होती है, जो सांस्कृतिक और सामाजिक गतिविधियों में नेतृत्व प्रदान करती है। दया भाव और आध्यात्मिक रुचि बढ़ती है, कला अभिव्यक्ति और बाल मनोविज्ञान की समझ के अवसर मिलते हैं। भूतकाल की स्मृतियाँ और भविष्य की घटनाओं का पूर्वाभास संभव होता है, जिससे आध्यात्मिक चर्चाओं को बढ़ावा मिलता है।"
+    "en": "Enhanced intuition and imagination bring mental excitement and self-motivation, leading to leadership in cultural and social activities. Compassion for the less fortunate and interest in spiritual knowledge increase, along with opportunities for artistic and musical appreciation. Awakening of mental awareness may provide insights into past and future events.",
+    "hi": "अन्तर्ज्ञान और कल्पनाशक्ति की वृद्धि से मानसिक उत्तेजना और आत्मप्रेरणा होती है, जो सांस्कृतिक और सामाजिक गतिविधियों में नेतृत्व प्रदान करती है। कम भाग्यवानों के प्रति दया भाव और आध्यात्मिक ज्ञान में रुचि बढ़ती है। कलात्मक और संगीत संबंधी प्रशंसा के अवसर मिलते हैं। मानसिक जागरूकता के जागरण से भूत और भविष्य की घटनाओं का आभास हो सकता है।"
   },
   "facets": {
     "career": {
-      "en": "Progress in artistic, photographic, or cinematic fields; leadership in cultural/social events; opportunities to express imagination practically.",
-      "hi": "कलात्मक, फोटोग्राफी या सिनेमा के क्षेत्रों में प्रगति; सांस्कृतिक/सामाजिक घटनाओं में नेतृत्व; कल्पनाओं को क्रियात्मक रूप देने के अवसर।"
+      "en": "Progress and advancement in artistic, photographic, cinematic, or cultural fields; leadership roles in social and cultural events.",
+      "hi": "कलात्मक, फोटोग्राफी, सिनेमा या सांस्कृतिक क्षेत्रों में प्रगति और उन्नति; सामाजिक और सांस्कृतिक कार्यक्रमों में नेतृत्व।"
     },
     "relationships": {
-      "en": "Increased compassion towards less fortunate; improved understanding of children’s feelings; enhanced interest in spiritual and cultural interactions.",
-      "hi": "कम भाग्यशाली के प्रति दया भाव में वृद्धि; बच्चों की भावनाओं को समझने की क्षमता; आध्यात्मिक और सांस्कृतिक संवाद में रुचि।"
+      "en": "Increased compassion and understanding towards less fortunate individuals; enhanced ability to understand children's feelings.",
+      "hi": "कम भाग्यवानों के प्रति बढ़ी हुई दया और समझ; बच्चों की भावनाओं को समझने की क्षमता में वृद्धि।"
     },
     "money": {
-      "en": "Opportunities related to artistic appreciation and cultural institutions; potential benefits through charitable or religious organizations.",
-      "hi": "कलात्मक प्रशंसा और सांस्कृतिक संस्थाओं से संबंधित अवसर; धार्मिक या सहायता संस्थाओं के माध्यम से संभावित लाभ।"
+      "en": "Opportunities related to artistic, beauty, or musical appreciation may arise; improvements in domestic environment can support creative ventures.",
+      "hi": "कलात्मक, सौंदर्य या संगीत प्रशंसा से संबंधित अवसर मिल सकते हैं; घरेलू वातावरण में सुधार से रचनात्मक कार्यों को समर्थन मिलता है।"
     },
     "health_adj": {
-      "en": "Possible interactions with hospitals, asylums, or religious institutions; awakening from dormant mental states with increased self-awareness.",
-      "hi": "औषधालय, पागलखाना या धार्मिक संस्थाओं से व्यवहार संभव; सुषुप्त मानसिक अवस्था से जागृति और आत्मज्ञान में वृद्धि।"
+      "en": "Interactions with hospitals, asylums, monasteries, or charitable institutions may occur; increased interest in spiritual and mental well-being.",
+      "hi": "औषधालय, पागलखाना, आश्रम या सहायता संस्थाओं से संपर्क हो सकता है; आध्यात्मिक और मानसिक स्वास्थ्य में रुचि बढ़ती है।"
     }
   },
   "life_event_type": {
     "en": [
-      "Cultural or social leadership",
-      "Artistic and musical advancement",
-      "Spiritual awakening and discussions",
-      "Interaction with charitable or religious institutions"
+      "Cultural and social leadership",
+      "Engagement with charitable or religious institutions",
+      "Artistic and musical opportunities",
+      "Spiritual learning and discussions",
+      "Mental awakening and premonitions"
     ],
     "hi": [
-      "सांस्कृतिक या सामाजिक नेतृत्व",
-      "कलात्मक और संगीत क्षेत्र में उन्नति",
-      "आध्यात्मिक जागृति और चर्चाएँ",
-      "धार्मिक या सहायता संस्थाओं से संपर्क"
+      "सांस्कृतिक और सामाजिक नेतृत्व",
+      "धार्मिक या सहायता संस्थाओं से जुड़ाव",
+      "कलात्मक और संगीत संबंधी अवसर",
+      "आध्यात्मिक शिक्षा और चर्चाएं",
+      "मानसिक जागरूकता और पूर्वाभास"
     ]
   },
   "risk_notes": {
     "en": [
-      "Emotional sensitivity may increase due to compassion",
-      "Mental excitement might cause distraction if unmanaged"
+      "Potential emotional sensitivity due to compassion",
+      "Possible mental overstimulation",
+      "Uncertainty in interpreting premonitions"
     ],
     "hi": [
-      "दयाभाव के कारण भावनात्मक संवेदनशीलता बढ़ सकती है",
-      "मानसिक उत्तेजना अनियंत्रित होने पर ध्यान भटक सकता है"
+      "दया भाव के कारण भावनात्मक संवेदनशीलता",
+      "मानसिक अधिक उत्तेजना की संभावना",
+      "पूर्वाभासों की व्याख्या में अनिश्चितता"
     ]
   },
   "actionables": {
     "applying": {
       "en": [
         "Engage in cultural and social leadership roles",
-        "Express creativity through art, music, or photography",
-        "Share spiritual or elemental knowledge with children"
+        "Participate in artistic or musical activities",
+        "Explore spiritual and religious knowledge",
+        "Interact with charitable or healing institutions"
       ],
       "hi": [
-        "सांस्कृतिक और सामाजिक नेतृत्व भूमिकाओं में संलग्न हों",
-        "कला, संगीत या फोटोग्राफी के माध्यम से रचनात्मकता व्यक्त करें",
-        "बच्चों को आध्यात्मिक या तत्त्वज्ञान समझाएँ"
+        "सांस्कृतिक और सामाजिक नेतृत्व में भाग लें",
+        "कलात्मक या संगीत गतिविधियों में शामिल हों",
+        "आध्यात्मिक और धार्मिक ज्ञान खोजें",
+        "सहायता या चिकित्सा संस्थाओं से संपर्क करें"
       ]
     },
     "exact": {
       "en": [
-        "Focus on self-motivation and intuitive insights",
-        "Participate in spiritual discussions",
-        "Observe and reflect on past memories or premonitions"
+        "Focus on explaining spiritual or elemental knowledge to children",
+        "Utilize increased understanding of child psychology",
+        "Apply imagination to improve family or domestic environment"
       ],
       "hi": [
-        "आत्मप्रेरणा और अन्तर्ज्ञान पर ध्यान केंद्रित करें",
-        "आध्यात्मिक चर्चाओं में भाग लें",
-        "भूतकाल की स्मृतियों या पूर्वाभासों पर ध्यान दें"
+        "बच्चों को आध्यात्मिक या तत्त्वज्ञान समझाने पर ध्यान दें",
+        "बाल मनोविज्ञान की बढ़ी समझ का उपयोग करें",
+        "परिवार या घरेलू वातावरण सुधारने के लिए कल्पना लगाएं"
       ]
     },
     "separating": {
       "en": [
-        "Maintain awareness of mental excitement to avoid distraction",
-        "Balance compassion with practical boundaries"
+        "Maintain awareness of mental overstimulation",
+        "Be cautious in interpreting intuitive insights",
+        "Allow mental excitement to settle gradually"
       ],
       "hi": [
-        "ध्यान भटकाव से बचने के लिए मानसिक उत्तेजना पर नियंत्रण रखें",
-        "दयाभाव के साथ व्यावहारिक सीमाएँ बनाए रखें"
+        "मानसिक अधिक उत्तेजना से सावधान रहें",
+        "अन्तर्ज्ञान की व्याख्या में सतर्कता रखें",
+        "मानसिक उत्तेजना को धीरे-धीरे शांत होने दें"
       ]
     }
   },
@@ -97,41 +105,39 @@
       "intuition",
       "imagination",
       "self-motivation",
-      "cultural leadership",
       "compassion",
       "spiritual knowledge",
-      "child psychology",
       "artistic appreciation",
-      "premonition",
-      "awakening"
+      "mental awakening",
+      "premonitions",
+      "cultural leadership"
     ],
     "hi": [
       "अन्तर्ज्ञान",
       "कल्पना",
       "आत्मप्रेरणा",
-      "सांस्कृतिक नेतृत्व",
-      "दयाभाव",
+      "दया",
       "आध्यात्मिक ज्ञान",
-      "बाल मनोविज्ञान",
       "कलात्मक प्रशंसा",
+      "मानसिक जागरूकता",
       "पूर्वाभास",
-      "जागृति"
+      "सांस्कृतिक नेतृत्व"
     ]
   },
   "quality_tags": {
     "en": [
-      "intuitive",
+      "inspirational",
       "creative",
       "compassionate",
-      "spiritual",
-      "enlightening"
+      "enlightening",
+      "progressive"
     ],
     "hi": [
-      "अन्तर्ज्ञानी",
+      "प्रेरणादायक",
       "रचनात्मक",
       "दयालु",
-      "आध्यात्मिक",
-      "ज्ञानवर्धक"
+      "ज्ञानवर्धक",
+      "प्रगतिशील"
     ]
   },
   "weights_hint": {
@@ -189,58 +195,58 @@
   },
   "theme_overlays": {
     "en": [
-      "spiritual awakening",
-      "artistic growth",
+      "spiritual growth",
+      "artistic development",
       "social leadership",
-      "mental excitement",
-      "compassionate action"
+      "mental clarity",
+      "emotional sensitivity"
     ],
     "hi": [
-      "आध्यात्मिक जागृति",
+      "आध्यात्मिक विकास",
       "कलात्मक विकास",
       "सामाजिक नेतृत्व",
-      "मानसिक उत्तेजना",
-      "दयालु कार्य"
+      "मानसिक स्पष्टता",
+      "भावनात्मक संवेदनशीलता"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
       "title": "nep-sxt-sun",
-      "core": "This aspect enhances intuition, imagination, and self-motivation, fostering leadership in cultural and social spheres, compassion, spiritual interest, and artistic opportunities.",
-      "tone": "Warm, insightful, and encouraging"
+      "core": "This aspect enhances intuition, imagination, and self-motivation, fostering leadership in cultural and social spheres. Compassion and spiritual interest grow, alongside artistic opportunities and mental awakening.",
+      "tone": "Warm, insightful, encouraging"
     },
     "hi": {
-      "title": "नेपच्यून सेकस्टाइल सूर्य",
-      "core": "यह योग अन्तर्ज्ञान, कल्पना और आत्मप्रेरणा को बढ़ाता है, जो सांस्कृतिक और सामाजिक क्षेत्रों में नेतृत्व, दया, आध्यात्मिक रुचि और कलात्मक अवसर प्रदान करता है।",
-      "tone": "सहानुभूतिपूर्ण, सूचनात्मक और प्रोत्साहक"
+      "title": "नेपच्यून सेक्सीलाई सन",
+      "core": "यह योग अन्तर्ज्ञान, कल्पना और आत्मप्रेरणा को बढ़ाता है, जो सांस्कृतिक और सामाजिक क्षेत्रों में नेतृत्व को प्रोत्साहित करता है। दया और आध्यात्मिक रुचि बढ़ती है, साथ ही कलात्मक अवसर और मानसिक जागरूकता होती है।",
+      "tone": "सहानुभूतिपूर्ण, सूचनात्मक, उत्साहवर्धक"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "Heightened intuition and imagination bring mental excitement and self-motivation, leading to leadership in cultural and social activities. Compassion and spiritual interest increase, with opportunities for artistic expression and understanding of children’s psychology.",
-        "hi": "अन्तर्ज्ञान और कल्पनाशक्ति की वृद्धि से मानसिक उत्तेजना और आत्मप्रेरणा होती है, जो सांस्कृतिक और सामाजिक गतिविधियों में नेतृत्व प्रदान करती है। दया भाव और आध्यात्मिक रुचि बढ़ती है, कला अभिव्यक्ति और बाल मनोविज्ञान की समझ के अवसर मिलते हैं।"
+        "en": "Enhanced intuition and imagination bring mental excitement and self-motivation, leading to leadership in cultural and social activities. Compassion for the less fortunate and interest in spiritual knowledge increase, along with opportunities for artistic and musical appreciation. Awakening of mental awareness may provide insights into past and future events.",
+        "hi": "अन्तर्ज्ञान और कल्पनाशक्ति की वृद्धि से मानसिक उत्तेजना और आत्मप्रेरणा होती है, जो सांस्कृतिक और सामाजिक गतिविधियों में नेतृत्व प्रदान करती है। कम भाग्यवानों के प्रति दया भाव और आध्यात्मिक ज्ञान में रुचि बढ़ती है। कलात्मक और संगीत संबंधी प्रशंसा के अवसर मिलते हैं। मानसिक जागरूकता के जागरण से भूत और भविष्य की घटनाओं का आभास हो सकता है।"
       },
       "career": {
-        "en": "Progress in artistic, photographic, or cinematic fields; leadership in cultural/social events; opportunities to express imagination practically.",
-        "hi": "कलात्मक, फोटोग्राफी या सिनेमा के क्षेत्रों में प्रगति; सांस्कृतिक/सामाजिक घटनाओं में नेतृत्व; कल्पनाओं को क्रियात्मक रूप देने के अवसर।"
+        "en": "Progress and advancement in artistic, photographic, cinematic, or cultural fields; leadership roles in social and cultural events.",
+        "hi": "कलात्मक, फोटोग्राफी, सिनेमा या सांस्कृतिक क्षेत्रों में प्रगति और उन्नति; सामाजिक और सांस्कृतिक कार्यक्रमों में नेतृत्व।"
       },
       "relationships": {
-        "en": "Increased compassion towards less fortunate; improved understanding of children’s feelings; enhanced interest in spiritual and cultural interactions.",
-        "hi": "कम भाग्यशाली के प्रति दया भाव में वृद्धि; बच्चों की भावनाओं को समझने की क्षमता; आध्यात्मिक और सांस्कृतिक संवाद में रुचि।"
+        "en": "Increased compassion and understanding towards less fortunate individuals; enhanced ability to understand children's feelings.",
+        "hi": "कम भाग्यवानों के प्रति बढ़ी हुई दया और समझ; बच्चों की भावनाओं को समझने की क्षमता में वृद्धि।"
       },
       "money": {
-        "en": "Opportunities related to artistic appreciation and cultural institutions; potential benefits through charitable or religious organizations.",
-        "hi": "कलात्मक प्रशंसा और सांस्कृतिक संस्थाओं से संबंधित अवसर; धार्मिक या सहायता संस्थाओं के माध्यम से संभावित लाभ।"
+        "en": "Opportunities related to artistic, beauty, or musical appreciation may arise; improvements in domestic environment can support creative ventures.",
+        "hi": "कलात्मक, सौंदर्य या संगीत प्रशंसा से संबंधित अवसर मिल सकते हैं; घरेलू वातावरण में सुधार से रचनात्मक कार्यों को समर्थन मिलता है।"
       },
       "health_adj": {
-        "en": "Possible interactions with hospitals, asylums, or religious institutions; awakening from dormant mental states with increased self-awareness.",
-        "hi": "औषधालय, पागलखाना या धार्मिक संस्थाओं से व्यवहार संभव; सुषुप्त मानसिक अवस्था से जागृति और आत्मज्ञान में वृद्धि।"
+        "en": "Interactions with hospitals, asylums, monasteries, or charitable institutions may occur; increased interest in spiritual and mental well-being.",
+        "hi": "औषधालय, पागलखाना, आश्रम या सहायता संस्थाओं से संपर्क हो सकता है; आध्यात्मिक और मानसिक स्वास्थ्य में रुचि बढ़ती है।"
       }
     },
     "aliases": [

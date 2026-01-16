@@ -10,46 +10,128 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Neptune and Saturn opens opportunity/skill. Neptune: . Saturn: discipline, structure, time, limits, dharma via effort. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Authority via mastery, long-term credibility. Emphasis: opportunity/skill.",
-    "relationships": " Commitment realism, boundaries, duty. Emphasis: opportunity/skill.",
-    "money": " Slow steady accrual, austerity, debt realism. Emphasis: opportunity/skill.",
-    "health_adj": " Bones, teeth, chronic load; routines & posture. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Subconscious awakening enhances memory and concentration, bringing past memories to support intuition. Opportunities arise to realize ideas with spiritual guidance and foresight into professional events, favoring business agreements and institutional work, including confidential knowledge and artistic pursuits.",
+    "hi": "अवचेतन में जागृति से स्मरण शक्ति और एकाग्रता बढ़ती है, जो पुराने स्मरण को वर्तमान अंतर्ज्ञान में सहायता प्रदान करता है। कल्पनाओं को साकार करने के अवसर मिलते हैं, साथ ही आध्यात्मिक मार्गदर्शन और पेशेवर घटनाओं का पूर्वाभास होता है। व्यवसायिक समझौतों और संस्थागत कार्यों के लिए अनुकूल समय है, जिसमें गुप्त ज्ञान और कलात्मक कार्य भी शामिल हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Burnout via over-responsibility; schedule recovery windows."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Neptune: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Neptune: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Favorable for professional and institutional work; opportunities for good business agreements and gaining confidential or government knowledge.",
+      "hi": "पेशेवर और संस्थागत कार्यों के लिए अनुकूल; अच्छे व्यवसायिक समझौते और गुप्त या सरकारी ज्ञान प्राप्ति के अवसर।"
+    },
+    "relationships": {
+      "en": "Supports intuitive understanding and spiritual guidance within social or professional relationships.",
+      "hi": "सामाजिक या पेशेवर संबंधों में अंतर्ज्ञान और आध्यात्मिक मार्गदर्शन का समर्थन।"
+    },
+    "money": {
+      "en": "Good opportunities for business agreements and benefits from confidential or secretive work.",
+      "hi": "व्यवसायिक समझौतों के अच्छे अवसर और गुप्त कार्य से लाभ।"
+    },
+    "health_adj": {
+      "en": "Improvement in concentration and memory supports mental health and cognitive function.",
+      "hi": "एकाग्रता और स्मरण शक्ति में वृद्धि मानसिक स्वास्थ्य और संज्ञानात्मक क्षमता को सहारा देती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional opportunities",
+      "Business agreements",
+      "Educational or institutional work",
+      "Artistic endeavors",
+      "Spiritual guidance"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Neptune: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Neptune: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Neptune: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Neptune: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill)."
+    "hi": [
+      "पेशेवर अवसर",
+      "व्यवसायिक समझौते",
+      "शैक्षिक या संस्थागत कार्य",
+      "कलात्मक प्रयास",
+      "आध्यात्मिक मार्गदर्शन"
     ]
   },
-  "keywords": [
-    "dharma via effort",
-    "discipline",
-    "limits",
-    "opportunity",
-    "sextile",
-    "skill",
-    "structure",
-    "time"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on developing memory and concentration.",
+        "Seek opportunities to materialize ideas.",
+        "Engage in professional or institutional projects.",
+        "Be open to spiritual guidance and intuition."
+      ],
+      "hi": [
+        "स्मरण शक्ति और एकाग्रता विकसित करने पर ध्यान दें।",
+        "कल्पनाओं को साकार करने के अवसर खोजें।",
+        "पेशेवर या संस्थागत परियोजनाओं में भाग लें।",
+        "आध्यात्मिक मार्गदर्शन और अंतर्ज्ञान के लिए खुले रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize spiritual insights for professional foresight.",
+        "Pursue confidential or secretive knowledge beneficial to career.",
+        "Negotiate business agreements with clarity."
+      ],
+      "hi": [
+        "पेशेवर पूर्वाभास के लिए आध्यात्मिक अंतर्दृष्टि का उपयोग करें।",
+        "पेशेवर लाभ के लिए गुप्त ज्ञान प्राप्त करें।",
+        "स्पष्टता के साथ व्यवसायिक समझौते करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain focus on intuition and memory gains.",
+        "Continue artistic or institutional work with awareness."
+      ],
+      "hi": [
+        "अंतर्ज्ञान और स्मरण शक्ति पर ध्यान बनाए रखें।",
+        "कलात्मक या संस्थागत कार्य सतर्कता के साथ जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "subconscious awakening",
+      "memory development",
+      "concentration improvement",
+      "intuition",
+      "spiritual guidance",
+      "professional foresight",
+      "business agreements",
+      "institutional work",
+      "confidential knowledge",
+      "artistic endeavors"
+    ],
+    "hi": [
+      "अवचेतन जागृति",
+      "स्मरण शक्ति विकास",
+      "एकाग्रता वृद्धि",
+      "अंतर्ज्ञान",
+      "आध्यात्मिक मार्गदर्शन",
+      "पेशेवर पूर्वाभास",
+      "व्यवसायिक समझौते",
+      "संस्थागत कार्य",
+      "गुप्त ज्ञान",
+      "कलात्मक प्रयास"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "insightful",
+      "opportunistic",
+      "spiritual",
+      "productive"
+    ],
+    "hi": [
+      "सहायक",
+      "दृष्टिपूर्ण",
+      "अवसरपूर्ण",
+      "आध्यात्मिक",
+      "उत्पादक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +185,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "intuition and memory",
+      "professional growth",
+      "spiritual insight",
+      "confidential knowledge",
+      "artistic creativity"
+    ],
+    "hi": [
+      "अंतर्ज्ञान और स्मरण",
+      "पेशेवर विकास",
+      "आध्यात्मिक अंतर्दृष्टि",
+      "गुप्त ज्ञान",
+      "कलात्मक रचनात्मकता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Neptune Sextile Saturn",
-      "core": "Sextile between Neptune and Saturn opens opportunity/skill. Neptune: . Saturn: discipline, structure, time, limits, dharma via effort. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "nep-sxt-sat",
+      "core": "Subconscious awakening enhances memory and intuition, supporting professional and artistic opportunities with spiritual guidance.",
+      "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "Neptune Sextile Saturn (हिन्दी)",
-      "core": "Neptune और Saturn का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "नेपच्यून सेक्सटाइल सैटर्न",
+      "core": "अवचेतन जागृति स्मरण शक्ति और अंतर्ज्ञान को बढ़ाती है, जो आध्यात्मिक मार्गदर्शन के साथ पेशेवर और कलात्मक अवसरों का समर्थन करती है।",
+      "tone": "सौम्य, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Neptune and Saturn opens opportunity/skill. Neptune: . Saturn: discipline, structure, time, limits, dharma via effort. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Authority via mastery, long-term credibility. Emphasis: opportunity/skill.",
-      "relationships": " Commitment realism, boundaries, duty. Emphasis: opportunity/skill.",
-      "money": " Slow steady accrual, austerity, debt realism. Emphasis: opportunity/skill.",
-      "health_adj": " Bones, teeth, chronic load; routines & posture. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Subconscious awakening enhances memory and concentration, bringing past memories to support intuition. Opportunities arise to realize ideas with spiritual guidance and foresight into professional events.",
+        "hi": "अवचेतन में जागृति से स्मरण शक्ति और एकाग्रता बढ़ती है, जो पुराने स्मरण को वर्तमान अंतर्ज्ञान में सहायता प्रदान करता है। कल्पनाओं को साकार करने के अवसर मिलते हैं, साथ ही आध्यात्मिक मार्गदर्शन और पेशेवर घटनाओं का पूर्वाभास होता है।"
+      },
+      "career": {
+        "en": "Favorable for professional and institutional work; opportunities for good business agreements and gaining confidential or government knowledge.",
+        "hi": "पेशेवर और संस्थागत कार्यों के लिए अनुकूल; अच्छे व्यवसायिक समझौते और गुप्त या सरकारी ज्ञान प्राप्ति के अवसर।"
+      },
+      "relationships": {
+        "en": "Supports intuitive understanding and spiritual guidance within social or professional relationships.",
+        "hi": "सामाजिक या पेशेवर संबंधों में अंतर्ज्ञान और आध्यात्मिक मार्गदर्शन का समर्थन।"
+      },
+      "money": {
+        "en": "Good opportunities for business agreements and benefits from confidential or secretive work.",
+        "hi": "व्यवसायिक समझौतों के अच्छे अवसर और गुप्त कार्य से लाभ।"
+      },
+      "health_adj": {
+        "en": "Improvement in concentration and memory supports mental health and cognitive function.",
+        "hi": "एकाग्रता और स्मरण शक्ति में वृद्धि मानसिक स्वास्थ्य और संज्ञानात्मक क्षमता को सहारा देती है।"
+      }
     },
     "aliases": [
       "Neptune sextile Saturn",

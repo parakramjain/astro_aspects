@@ -10,46 +10,116 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Uranus and Moon opens opportunity/skill. Uranus: . Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-    "relationships": " Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-    "money": " Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-    "health_adj": " Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Unexpected pleasant events bring joyful changes in mental life, sparking curiosity and imaginative conditions at home, with new opportunities in social and business spheres.",
+    "hi": "अप्रत्याशित आनंददायक घटनाएँ मानसिक जीवन में आनंददायक परिवर्तन लाती हैं, स्वभाव में उत्सुकता और कल्पनाशीलता उत्पन्न होती है, घर में नए परिवर्तन और सामाजिक व व्यापारिक क्षेत्रों में नए अवसर मिलते हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Uranus: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Uranus: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Unexpected gains and new opportunities arise in business, leading to progress in domestic production and joint property situations.",
+      "hi": "व्यापार में अप्रत्याशित लाभ और नए अवसर प्राप्त होते हैं, जिससे घरेलू उत्पादन और संयक्त संपत्ति की स्थिति में उन्नति होती है।"
+    },
+    "relationships": {
+      "en": "Opportunities to meet women related to friends or colleagues arise, fostering social connections.",
+      "hi": "मित्रों या सहयोगियों से संबंधित महिलाओं से मिलने के अवसर प्राप्त होते हैं, जो सामाजिक संबंधों को बढ़ावा देते हैं।"
+    },
+    "money": {
+      "en": "Unexpected profits and immediate gain situations occur, especially related to joint property and domestic production.",
+      "hi": "संयक्त संपत्ति और घरेलू उत्पादन से संबंधित अप्रत्याशित लाभ और तत्काल लाभ की स्थिति बनती है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; mental life experiences joyful changes.",
+      "hi": "स्वास्थ्य के लिए विशेष सुझाव नहीं हैं; मानसिक जीवन में आनंददायक परिवर्तन होते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Sudden pleasant events",
+      "New social opportunities",
+      "Unexpected business gains",
+      "Changes in home environment"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Uranus: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Uranus: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Uranus: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Uranus: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+    "hi": [
+      "अचानक आनंददायक घटनाएँ",
+      "नए सामाजिक अवसर",
+      "अप्रत्याशित व्यापारिक लाभ",
+      "घर के वातावरण में परिवर्तन"
     ]
   },
-  "keywords": [
-    "care",
-    "emotion",
-    "habits",
-    "home",
-    "mother",
-    "opportunity",
-    "public mood",
-    "sextile",
-    "skill"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be open to unexpected opportunities in social and business areas",
+        "Embrace changes in home and mental outlook"
+      ],
+      "hi": [
+        "सामाजिक और व्यापारिक क्षेत्रों में अप्रत्याशित अवसरों के लिए खुले रहें",
+        "घर और मानसिक दृष्टिकोण में बदलाव को स्वीकार करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Engage with new acquaintances, especially women linked to friends or colleagues",
+        "Explore imaginative or innovative ideas at home"
+      ],
+      "hi": [
+        "नए परिचितों से मिलें, विशेषकर मित्रों या सहयोगियों से संबंधित महिलाओं से",
+        "घर पर कल्पनाशील या नवाचारी विचारों को अपनाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain openness to ongoing changes in mental and domestic life",
+        "Monitor business and joint property developments"
+      ],
+      "hi": [
+        "मानसिक और घरेलू जीवन में जारी परिवर्तनों के प्रति खुले रहें",
+        "व्यापार और संयक्त संपत्ति की प्रगति पर ध्यान दें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "unexpected events",
+      "joy",
+      "curiosity",
+      "home changes",
+      "social opportunities",
+      "business gains",
+      "joint property",
+      "imaginative"
+    ],
+    "hi": [
+      "अप्रत्याशित घटनाएँ",
+      "आनंद",
+      "उत्सुकता",
+      "घर में परिवर्तन",
+      "सामाजिक अवसर",
+      "व्यापारिक लाभ",
+      "संयक्त संपत्ति",
+      "कल्पनाशील"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "pleasant",
+      "sudden",
+      "opportunistic",
+      "progressive",
+      "imaginative"
+    ],
+    "hi": [
+      "आनंददायक",
+      "आकस्मिक",
+      "अवसरवादी",
+      "प्रगतिशील",
+      "कल्पनाशील"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +173,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "mental change",
+      "domestic progress",
+      "social connections",
+      "unexpected gains"
+    ],
+    "hi": [
+      "मानसिक परिवर्तन",
+      "घरेलू उन्नति",
+      "सामाजिक संबंध",
+      "अप्रत्याशित लाभ"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Uranus Sextile Moon",
-      "core": "Sextile between Uranus and Moon opens opportunity/skill. Uranus: . Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ura-sxt-moo",
+      "core": "Joyful and unexpected changes in mental and domestic life, with new social and business opportunities.",
+      "tone": "Warm, neutral, and optimistic"
     },
     "hi": {
-      "title": "Uranus Sextile Moon (हिन्दी)",
-      "core": "Uranus और Moon का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "यूरेनस सेकस्टाइल मून",
+      "core": "मानसिक और घरेलू जीवन में आनंददायक और अप्रत्याशित परिवर्तन, नए सामाजिक और व्यापारिक अवसर।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और आशावादी"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Uranus and Moon opens opportunity/skill. Uranus: . Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-      "relationships": " Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-      "money": " Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-      "health_adj": " Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Unexpected pleasant events bring joyful changes in mental life, sparking curiosity and imaginative conditions at home, with new opportunities in social and business spheres.",
+        "hi": "अप्रत्याशित आनंददायक घटनाएँ मानसिक जीवन में आनंददायक परिवर्तन लाती हैं, स्वभाव में उत्सुकता और कल्पनाशीलता उत्पन्न होती है, घर में नए परिवर्तन और सामाजिक व व्यापारिक क्षेत्रों में नए अवसर मिलते हैं।"
+      },
+      "career": {
+        "en": "Unexpected gains and new opportunities arise in business, leading to progress in domestic production and joint property situations.",
+        "hi": "व्यापार में अप्रत्याशित लाभ और नए अवसर प्राप्त होते हैं, जिससे घरेलू उत्पादन और संयक्त संपत्ति की स्थिति में उन्नति होती है।"
+      },
+      "relationships": {
+        "en": "Opportunities to meet women related to friends or colleagues arise, fostering social connections.",
+        "hi": "मित्रों या सहयोगियों से संबंधित महिलाओं से मिलने के अवसर प्राप्त होते हैं, जो सामाजिक संबंधों को बढ़ावा देते हैं।"
+      },
+      "money": {
+        "en": "Unexpected profits and immediate gain situations occur, especially related to joint property and domestic production.",
+        "hi": "संयक्त संपत्ति और घरेलू उत्पादन से संबंधित अप्रत्याशित लाभ और तत्काल लाभ की स्थिति बनती है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; mental life experiences joyful changes.",
+        "hi": "स्वास्थ्य के लिए विशेष सुझाव नहीं हैं; मानसिक जीवन में आनंददायक परिवर्तन होते हैं।"
+      }
     },
     "aliases": [
       "Uranus sextile Moon",

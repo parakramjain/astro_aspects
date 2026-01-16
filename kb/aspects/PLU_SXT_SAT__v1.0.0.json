@@ -11,25 +11,25 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "Fundamental spiritual transformation and intellectual growth occur, opening new opportunities and shaping future life purpose.",
-    "hi": "मूलभूत आध्यात्मिक परिवर्तन और बौद्धिक वृद्धि होती है, जिससे नए अवसर खुलते हैं और आगामी जीवन का उद्देश्य निर्धारित होता है।"
+    "en": "Fundamental spiritual transformation with new opportunities and intellectual growth, leading to professional renewal and benefits from shared assets.",
+    "hi": "मूलभूत आध्यात्मिक परिवर्तन, नए अवसर और बौद्धिक वृद्धि के साथ पेशेवर नवीनीकरण और संयुक्त संपत्ति से लाभ।"
   },
   "facets": {
     "career": {
-      "en": "Professional renewal, formation of new agreements and qualified partnerships, with a need for work confidentiality.",
-      "hi": "पेशेवर स्थिति में नवीनीकरण, नई संधियाँ और योग्य भागीदारी बनती हैं, साथ ही कार्यों को गुप्त रखने की आवश्यकता रहती है।"
+      "en": "Professional renewal occurs with new agreements and qualified partnerships; need for confidentiality in work.",
+      "hi": "पेशेवर स्थिति में नवीनीकरण होता है, नई संधियाँ और योग्य भागीदारी बनती हैं; कार्यों को गुप्त रखने की आवश्यकता रहती है।"
     },
     "relationships": {
-      "en": "New qualified partnerships may form, emphasizing confidentiality and professional collaboration.",
-      "hi": "नई योग्य भागीदारी बन सकती है, जिसमें गोपनीयता और पेशेवर सहयोग पर जोर रहता है।"
+      "en": "Formation of new qualified partnerships and agreements.",
+      "hi": "नई योग्य भागीदारी और संधियाँ बनती हैं।"
     },
     "money": {
       "en": "Benefits from inheritance, joint assets, taxes, insurance, and investments; favorable conditions may bring gains from fluctuations.",
-      "hi": "पैतृक संपत्ति, संयुक्त संपत्ति, कर, बीमा और निवेश से लाभ होता है; अनुकूल परिस्थितियों में उतार-चढ़ाव से भी लाभ मिल सकता है।"
+      "hi": "पैतृक संपत्ति, संयुक्त संपत्ति, कर, बीमा, और निवेश से लाभ; अनुकूल स्थितियों में उतार-चढ़ाव से भी लाभ हो सकता है।"
     },
     "health_adj": {
       "en": "Increased mental focus and discipline support intellectual and spiritual growth.",
-      "hi": "बौद्धिक और आध्यात्मिक विकास के लिए मानसिक एकाग्रता और अनुशासन में वृद्धि होती है।"
+      "hi": "बौद्धिक और आध्यात्मिक वृद्धि के लिए मानसिक एकाग्रता और अनुशासन में वृद्धि।"
     }
   },
   "life_event_type": {
@@ -48,85 +48,91 @@
   },
   "risk_notes": {
     "en": [
-      "Need to maintain confidentiality in professional matters.",
-      "Fluctuations may affect financial gains."
+      "Need for confidentiality in professional matters",
+      "Uncertainty in gains from market fluctuations"
     ],
     "hi": [
-      "पेशेवर मामलों में गोपनीयता बनाए रखने की आवश्यकता।",
-      "वित्तीय लाभों पर उतार-चढ़ाव का प्रभाव हो सकता है।"
+      "पेशेवर मामलों में गोपनीयता की आवश्यकता",
+      "बाजार उतार-चढ़ाव से लाभ में अनिश्चितता"
     ]
   },
   "actionables": {
     "applying": {
       "en": [
-        "Focus on intellectual and spiritual development.",
-        "Seek new professional agreements and partnerships.",
-        "Maintain confidentiality in work-related matters."
+        "Focus on intellectual and spiritual development",
+        "Seek new professional agreements and partnerships",
+        "Maintain confidentiality in work"
       ],
       "hi": [
-        "बौद्धिक और आध्यात्मिक विकास पर ध्यान दें।",
-        "नई पेशेवर संधियाँ और भागीदारी खोजें।",
-        "कार्य से संबंधित मामलों में गोपनीयता बनाए रखें।"
+        "बौद्धिक और आध्यात्मिक विकास पर ध्यान दें",
+        "नई पेशेवर संधियाँ और भागीदारी खोजें",
+        "कार्य में गोपनीयता बनाए रखें"
       ]
     },
     "exact": {
       "en": [
-        "Leverage expertise in science, mathematics, or esoteric studies.",
-        "Review and formalize professional partnerships.",
-        "Manage inheritance and joint assets carefully."
+        "Engage in disciplined study of science, mathematics, or esoteric subjects",
+        "Formalize new professional agreements",
+        "Review joint assets and investments for benefits"
       ],
       "hi": [
-        "विज्ञान, गणित या गूढ़ विद्या में प्रवीणता का उपयोग करें।",
-        "पेशेवर भागीदारी की समीक्षा और औपचारिकता करें।",
-        "पैतृक और संयुक्त संपत्ति को सावधानी से प्रबंधित करें।"
+        "विज्ञान, गणित या गूढ़ विषयों का अनुशासित अध्ययन करें",
+        "नई पेशेवर संधियाँ औपचारिक करें",
+        "संयुक्त संपत्ति और निवेशों की समीक्षा करें"
       ]
     },
     "separating": {
       "en": [
-        "Reassess professional agreements and confidentiality needs.",
-        "Monitor financial fluctuations cautiously."
+        "Reflect on current achievements shaping future purpose",
+        "Prepare for possible fluctuations in financial gains"
       ],
       "hi": [
-        "पेशेवर संधियों और गोपनीयता आवश्यकताओं का पुनर्मूल्यांकन करें।",
-        "वित्तीय उतार-चढ़ाव पर सावधानीपूर्वक नजर रखें।"
+        "वर्तमान उपलब्धियों पर विचार करें जो भविष्य का उद्देश्य निर्धारित करेंगी",
+        "आर्थिक लाभों में संभावित उतार-चढ़ाव के लिए तैयार रहें"
       ]
     }
   },
   "keywords": {
     "en": [
       "spiritual transformation",
-      "intellectual growth",
       "new opportunities",
+      "intellectual growth",
+      "discipline",
       "professional renewal",
       "confidentiality",
       "inheritance",
-      "partnerships",
-      "discipline"
+      "joint assets",
+      "investments",
+      "fluctuations"
     ],
     "hi": [
       "आध्यात्मिक परिवर्तन",
-      "बौद्धिक वृद्धि",
       "नए अवसर",
+      "बौद्धिक वृद्धि",
+      "अनुशासन",
       "पेशेवर नवीनीकरण",
       "गोपनीयता",
       "पैतृक संपत्ति",
-      "भागीदारी",
-      "अनुशासन"
+      "संयुक्त संपत्ति",
+      "निवेश",
+      "उतार-चढ़ाव"
     ]
   },
   "quality_tags": {
     "en": [
       "transformative",
-      "intellectual",
       "opportunistic",
+      "intellectual",
       "disciplined",
+      "renewing",
       "confidential"
     ],
     "hi": [
       "परिवर्तनकारी",
-      "बौद्धिक",
       "अवसरवादी",
+      "बौद्धिक",
       "अनुशासित",
+      "नवीनीकरण",
       "गोपनीय"
     ]
   },
@@ -187,54 +193,54 @@
     "en": [
       "spiritual growth",
       "professional development",
-      "financial management",
+      "financial benefits",
       "mental focus"
     ],
     "hi": [
       "आध्यात्मिक विकास",
       "पेशेवर विकास",
-      "वित्तीय प्रबंधन",
+      "आर्थिक लाभ",
       "मानसिक एकाग्रता"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
       "title": "plu-sxt-sat",
-      "core": "This aspect indicates fundamental spiritual transformation and intellectual growth, leading to new opportunities and shaping future life purpose.",
+      "core": "This aspect indicates deep spiritual transformation, intellectual growth, and professional renewal with new opportunities and benefits from shared resources.",
       "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "प्लूटो सेकस्टाइल सैटर्न",
-      "core": "यह योग मूलभूत आध्यात्मिक परिवर्तन और बौद्धिक वृद्धि दर्शाता है, जो नए अवसर लाता है और आगामी जीवन का उद्देश्य निर्धारित करता है।",
+      "title": "प्लूटो सेकस्टाइल शनि",
+      "core": "यह योग गहरे आध्यात्मिक परिवर्तन, बौद्धिक वृद्धि, और पेशेवर नवीनीकरण को दर्शाता है जिसमें नए अवसर और संयुक्त संसाधनों से लाभ शामिल हैं।",
       "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "Fundamental spiritual transformation and intellectual growth occur, opening new opportunities and shaping future life purpose.",
-        "hi": "मूलभूत आध्यात्मिक परिवर्तन और बौद्धिक वृद्धि होती है, जिससे नए अवसर खुलते हैं और आगामी जीवन का उद्देश्य निर्धारित होता है।"
+        "en": "Fundamental spiritual transformation with new opportunities and intellectual growth, leading to professional renewal and benefits from shared assets.",
+        "hi": "मूलभूत आध्यात्मिक परिवर्तन, नए अवसर और बौद्धिक वृद्धि के साथ पेशेवर नवीनीकरण और संयुक्त संपत्ति से लाभ।"
       },
       "career": {
-        "en": "Professional renewal, formation of new agreements and qualified partnerships, with a need for work confidentiality.",
-        "hi": "पेशेवर स्थिति में नवीनीकरण, नई संधियाँ और योग्य भागीदारी बनती हैं, साथ ही कार्यों को गुप्त रखने की आवश्यकता रहती है।"
+        "en": "Professional renewal occurs with new agreements and qualified partnerships; need for confidentiality in work.",
+        "hi": "पेशेवर स्थिति में नवीनीकरण होता है, नई संधियाँ और योग्य भागीदारी बनती हैं; कार्यों को गुप्त रखने की आवश्यकता रहती है।"
       },
       "relationships": {
-        "en": "New qualified partnerships may form, emphasizing confidentiality and professional collaboration.",
-        "hi": "नई योग्य भागीदारी बन सकती है, जिसमें गोपनीयता और पेशेवर सहयोग पर जोर रहता है।"
+        "en": "Formation of new qualified partnerships and agreements.",
+        "hi": "नई योग्य भागीदारी और संधियाँ बनती हैं।"
       },
       "money": {
         "en": "Benefits from inheritance, joint assets, taxes, insurance, and investments; favorable conditions may bring gains from fluctuations.",
-        "hi": "पैतृक संपत्ति, संयुक्त संपत्ति, कर, बीमा और निवेश से लाभ होता है; अनुकूल परिस्थितियों में उतार-चढ़ाव से भी लाभ मिल सकता है।"
+        "hi": "पैतृक संपत्ति, संयुक्त संपत्ति, कर, बीमा, और निवेश से लाभ; अनुकूल स्थितियों में उतार-चढ़ाव से भी लाभ हो सकता है।"
       },
       "health_adj": {
         "en": "Increased mental focus and discipline support intellectual and spiritual growth.",
-        "hi": "बौद्धिक और आध्यात्मिक विकास के लिए मानसिक एकाग्रता और अनुशासन में वृद्धि होती है।"
+        "hi": "बौद्धिक और आध्यात्मिक वृद्धि के लिए मानसिक एकाग्रता और अनुशासन में वृद्धि।"
       }
     },
     "aliases": [

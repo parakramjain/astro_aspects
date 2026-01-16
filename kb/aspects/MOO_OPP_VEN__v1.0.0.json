@@ -11,33 +11,33 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "This aspect indicates emotional instability and confusion affecting social, romantic, and family relationships, leading to misunderstandings and financial strain. Creative efforts may encounter setbacks.",
-    "hi": "यह योग सामाजिक, रोमांटिक और पारिवारिक रिश्तों में भावनात्मक अस्थिरता और उलझन दर्शाता है, जिससे ग़लतफ़हमियाँ और आर्थिक तनाव उत्पन्न हो सकते हैं। कला संबंधी प्रयासों में बाधाएँ आ सकती हैं।"
+    "en": "This aspect indicates emotional instability and confusion affecting social, romantic, and family relationships, leading to misunderstandings and financial strain. Creative efforts may face obstacles.",
+    "hi": "यह योग सामाजिक, रोमांटिक और पारिवारिक रिश्तों में भावनात्मक अस्थिरता और उलझन लाता है, जिससे ग़लतफ़हमियाँ और आर्थिक तनाव हो सकते हैं। कला से जुड़े कामों में रुकावट आ सकती है।"
   },
   "facets": {
     "career": {
-      "en": "Creative work may face setbacks during this period.",
-      "hi": "इस समय कला या सुंदरता से जुड़े कामों में रुकावट आ सकती है।"
+      "en": "Creative work may encounter setbacks or obstacles during this period.",
+      "hi": "इस दौरान कला या सुंदरता से जुड़े कामों में रुकावट आ सकती है।"
     },
     "relationships": {
       "en": "Emotional instability and confusion can cause misunderstandings in social, romantic, and family relationships.",
       "hi": "सामाजिक, रोमांटिक और पारिवारिक रिश्तों में भावनात्मक अस्थिरता और उलझन के कारण ग़लतफ़हमियाँ हो सकती हैं।"
     },
     "money": {
-      "en": "There may be financial strain and unwise purchases during this time.",
-      "hi": "इस दौरान आर्थिक तनाव हो सकता है और खरीदी गई चीजें फायदेमंद नहीं हो सकतीं।"
+      "en": "Financial strain and unwise purchases may occur, leading to monetary difficulties.",
+      "hi": "आर्थिक तनाव हो सकता है और खरीदी गई चीजें फायदेमंद नहीं हो सकतीं।"
     },
     "health_adj": {
-      "en": "Emotional fluctuations may lead to increased sensitivity or stress.",
-      "hi": "भावनात्मक उतार-चढ़ाव से संवेदनशीलता या तनाव बढ़ सकता है।"
+      "en": "Emotional fluctuations may affect overall well-being; no specific physical health issues indicated.",
+      "hi": "भावनात्मक उतार-चढ़ाव से सामान्य स्वास्थ्य प्रभावित हो सकता है; कोई विशेष शारीरिक समस्या नहीं बताई गई।"
     }
   },
   "life_event_type": {
     "en": [
-      "emotional instability",
-      "relationship confusion",
-      "financial strain",
-      "creative setbacks"
+      "Emotional instability",
+      "Relationship confusion",
+      "Financial strain",
+      "Creative setbacks"
     ],
     "hi": [
       "भावनात्मक अस्थिरता",
@@ -48,71 +48,67 @@
   },
   "risk_notes": {
     "en": [
-      "Overly emotional reactions may affect decisions.",
-      "Financial strain due to misunderstandings or overspending.",
-      "Setbacks in creative or artistic work."
+      "Overly emotional reactions may complicate relationships.",
+      "Unwise spending can worsen financial status.",
+      "Misunderstandings may escalate if not addressed."
     ],
     "hi": [
-      "अत्यधिक भावुकता निर्णयों को प्रभावित कर सकती है।",
-      "ग़लतफ़हमियों या अधिक खर्च के कारण आर्थिक तनाव।",
-      "कला या सौंदर्य से जुड़े कामों में बाधाएँ।"
+      "अत्यधिक भावुकता रिश्तों को जटिल बना सकती है।",
+      "अविवेकी खर्च आर्थिक स्थिति खराब कर सकता है।",
+      "ग़लतफ़हमियाँ बिना समाधान के बढ़ सकती हैं।"
     ]
   },
   "actionables": {
     "applying": {
       "en": [
-        "Be mindful of emotional responses in relationships.",
-        "Avoid impulsive spending.",
-        "Exercise patience in creative projects."
+        "Exercise caution in emotional responses.",
+        "Review purchases carefully before spending.",
+        "Communicate clearly to avoid misunderstandings."
       ],
       "hi": [
-        "रिश्तों में भावनात्मक प्रतिक्रियाओं पर ध्यान दें।",
-        "अचानक खर्च करने से बचें।",
-        "कला संबंधी परियोजनाओं में धैर्य रखें।"
+        "भावनात्मक प्रतिक्रियाओं में सावधानी बरतें।",
+        "खर्च करने से पहले खरीदी की समीक्षा करें।",
+        "गलतफहमियों से बचने के लिए स्पष्ट संवाद करें।"
       ]
     },
     "exact": {
       "en": [
-        "Avoid major financial decisions.",
-        "Communicate clearly to prevent misunderstandings.",
-        "Take breaks if feeling emotionally overwhelmed."
+        "Avoid impulsive spending and emotional decisions.",
+        "Pause creative projects to reassess plans.",
+        "Seek clarity in relationships through honest dialogue."
       ],
       "hi": [
-        "महत्वपूर्ण वित्तीय निर्णय टालें।",
-        "ग़लतफ़हमियों से बचने के लिए स्पष्ट संवाद करें।",
-        "यदि भावनात्मक रूप से अधिक प्रभावित हों तो विराम लें।"
+        "अविवेकी खर्च और भावनात्मक निर्णयों से बचें।",
+        "योजनाओं की समीक्षा के लिए कला के कामों को रोकें।",
+        "संबंधों में स्पष्टता के लिए ईमानदार बातचीत करें।"
       ]
     },
     "separating": {
       "en": [
-        "Emotional stability may gradually return.",
-        "Reassess financial habits.",
-        "Creative work may regain momentum."
+        "Emotional balance begins to restore.",
+        "Financial caution remains important.",
+        "Relationships may start to clear misunderstandings."
       ],
       "hi": [
-        "भावनात्मक स्थिरता धीरे-धीरे लौट सकती है।",
-        "वित्तीय आदतों का पुनर्मूल्यांकन करें।",
-        "कला संबंधी कामों में गति वापस आ सकती है।"
+        "भावनात्मक संतुलन धीरे-धीरे लौटता है।",
+        "आर्थिक सावधानी अभी भी आवश्यक है।",
+        "रिश्तों में ग़लतफ़हमियाँ धीरे-धीरे दूर हो सकती हैं।"
       ]
     }
   },
   "keywords": {
     "en": [
       "emotional instability",
-      "confusion",
-      "relationships",
-      "overspending",
-      "misunderstandings",
+      "relationship confusion",
       "financial strain",
+      "overspending",
       "creative setbacks"
     ],
     "hi": [
       "भावनात्मक अस्थिरता",
-      "उलझन",
-      "रिश्ते",
-      "अधिक खर्च",
-      "ग़लतफ़हमियाँ",
+      "रिश्तों में उलझन",
       "आर्थिक तनाव",
+      "अधिक खर्च",
       "कला में रुकावट"
     ]
   },
@@ -126,7 +122,7 @@
     "hi": [
       "चुनौतीपूर्ण",
       "भावनात्मक",
-      "वित्तीय सावधानी",
+      "आर्थिक सावधानी",
       "कला में बाधा"
     ]
   },
@@ -187,31 +183,31 @@
     "en": [
       "emotions",
       "relationships",
-      "finance",
+      "money",
       "creativity"
     ],
     "hi": [
       "भावनाएँ",
       "रिश्ते",
-      "वित्त",
+      "पैसे",
       "रचनात्मकता"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-14"
   },
   "locales": {
     "en": {
       "title": "moo-opp-ven",
-      "core": "Emotional instability and confusion affect relationships and finances, with potential setbacks in creative work.",
+      "core": "Emotional instability and confusion affect relationships and finances, with creative challenges.",
       "tone": "Warm, neutral, cautious"
     },
     "hi": {
-      "title": "चंद्रमा का शुक्र के विपरीत",
-      "core": "भावनात्मक अस्थिरता और उलझन रिश्तों और वित्त को प्रभावित करती है, साथ ही कला के कामों में बाधाएँ हो सकती हैं।",
-      "tone": "सहानुभूतिपूर्ण, तटस्थ, सतर्क"
+      "title": "चंद्रमा का शुक्र के विपरीत प्रभाव",
+      "core": "भावनात्मक अस्थिरता और उलझन से रिश्ते और आर्थिक स्थिति प्रभावित होती है, कला में बाधाएँ आती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, सावधान"
     }
   },
   "retrieval": {
@@ -229,12 +225,12 @@
         "hi": "सामाजिक, रोमांटिक और पारिवारिक रिश्तों में भावनात्मक अस्थिरता और उलझन होती है, जिससे ग़लतफ़हमियाँ होती हैं।"
       },
       "money": {
-        "en": "Financial strain and unwise purchases may occur during this time.",
+        "en": "Financial strain and unwise purchases may occur, causing difficulties.",
         "hi": "आर्थिक तनाव हो सकता है और खरीदी गई चीजें फायदेमंद नहीं होतीं।"
       },
       "health_adj": {
-        "en": "Emotional instability may increase sensitivity or stress.",
-        "hi": "भावनात्मक अस्थिरता से संवेदनशीलता या तनाव बढ़ सकता है।"
+        "en": "No specific physical health issues mentioned; emotional instability implied.",
+        "hi": "कोई विशेष शारीरिक समस्या नहीं बताई गई; भावनात्मक अस्थिरता बताई गई।"
       }
     },
     "aliases": [

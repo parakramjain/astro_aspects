@@ -10,52 +10,116 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Sun and Mars opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Authority, recognition, leadership, alignment with purpose.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-    "relationships": "Self-respect, healthy boundaries, paternal figures.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-    "money": "Status-linked income, government/authority-linked gains.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "This aspect enhances self-confidence and improves intellectual work conditions, making it a favorable time for new creations, technical and business activities, and physical or adventurous pursuits. It is also beneficial for children and caregivers.",
+    "hi": "यह योग आत्मविश्वास बढ़ाता है और बौद्धिक कार्य की स्थिति में सुधार करता है। यह नया निर्माण, तकनीकी और व्यवसायिक कार्यों तथा शारीरिक या साहसिक गतिविधियों के लिए अनुकूल समय है। यह बच्चों और उनकी देखभाल करने वालों के लिए भी लाभकारी है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Impulsive actions or accidents; channel energy into training."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Improved work conditions and success in technical and business fields; suitable for working with machines and tools.",
+      "hi": "कार्य की स्थिति में सुधार और तकनीकी तथा व्यवसायिक क्षेत्रों में सफलता; मशीन और औज़ार से कार्य करने के लिए उपयुक्त।"
+    },
+    "relationships": {
+      "en": "Supportive period for children and those caring for them; physical and adventurous activities may enhance bonding.",
+      "hi": "बच्चों और उनकी देखभाल करने वालों के लिए सहायक समय; शारीरिक और साहसिक गतिविधियाँ संबंधों को मजबूत कर सकती हैं।"
+    },
+    "money": {
+      "en": "Business challenges ease, indicating a favorable time for business activities and new ventures.",
+      "hi": "व्यवसायिक कठिनाइयाँ समाप्त होती हैं, जो व्यापारिक गतिविधियों और नए प्रयासों के लिए अनुकूल समय दर्शाती हैं।"
+    },
+    "health_adj": {
+      "en": "Physical exercises and adventurous activities are enjoyable and beneficial during this period.",
+      "hi": "शारीरिक व्यायाम और साहसिक गतिविधियाँ इस समय आनंददायक और लाभकारी होंगी।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New projects",
+      "Business improvements",
+      "Physical activities",
+      "Childcare"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Mars: execute, train, assert; tone: opportunity/skill)."
+    "hi": [
+      "नए प्रोजेक्ट",
+      "व्यवसाय में सुधार",
+      "शारीरिक गतिविधियाँ",
+      "बच्चों की देखभाल"
     ]
   },
-  "keywords": [
-    "assertion",
-    "authority",
-    "conflict",
-    "drive",
-    "ego",
-    "identity",
-    "mechanics",
-    "opportunity",
-    "purpose",
-    "sextile",
-    "skill",
-    "surgery",
-    "visibility",
-    "vitality"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in intellectual and technical work",
+        "Start new business or creative projects",
+        "Participate in sports or adventurous activities",
+        "Focus on childcare and related responsibilities"
+      ],
+      "hi": [
+        "बौद्धिक और तकनीकी कार्यों में संलग्न हों",
+        "नए व्यवसाय या रचनात्मक प्रोजेक्ट शुरू करें",
+        "खेल या साहसिक गतिविधियों में भाग लें",
+        "बच्चों की देखभाल और संबंधित जिम्मेदारियों पर ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize this peak time for working with machines and tools",
+        "Emphasize physical exercises and sports"
+      ],
+      "hi": [
+        "मशीन और औज़ार से कार्य करने के लिए इस चरम समय का उपयोग करें",
+        "शारीरिक व्यायाम और खेलों पर जोर दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain enthusiasm for intellectual and physical activities",
+        "Continue nurturing children and caregiving duties"
+      ],
+      "hi": [
+        "बौद्धिक और शारीरिक गतिविधियों के लिए उत्साह बनाए रखें",
+        "बच्चों और देखभाल की जिम्मेदारियों को जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "self-confidence",
+      "intellectual improvement",
+      "business success",
+      "technical work",
+      "physical exercise",
+      "adventure",
+      "childcare"
+    ],
+    "hi": [
+      "आत्मविश्वास",
+      "बौद्धिक सुधार",
+      "व्यवसाय में सफलता",
+      "तकनीकी कार्य",
+      "शारीरिक व्यायाम",
+      "साहसिक",
+      "बच्चों की देखभाल"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "positive",
+      "supportive",
+      "productive",
+      "energetic"
+    ],
+    "hi": [
+      "सकारात्मक",
+      "सहायक",
+      "उत्पादक",
+      "ऊर्जावान"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -109,36 +173,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "growth",
+      "creativity",
+      "activity",
+      "nurturing"
+    ],
+    "hi": [
+      "विकास",
+      "रचनात्मकता",
+      "गतिविधि",
+      "पालन-पोषण"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Sun Sextile Mars",
-      "core": "Sextile between Sun and Mars opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "sun-sxt-mar",
+      "core": "A time of increased confidence and improved intellectual and physical activity, ideal for new ventures and caregiving.",
+      "tone": "Warm, encouraging, and optimistic"
     },
     "hi": {
-      "title": "Sun Sextile Mars (हिन्दी)",
-      "core": "Sun और Mars का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "सूर्य षट्कोण मंगल",
+      "core": "आत्मविश्वास और बौद्धिक व शारीरिक गतिविधि में वृद्धि का समय, नए प्रयासों और देखभाल के लिए उपयुक्त।",
+      "tone": "सहृदय, प्रोत्साहक और आशावादी"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Sun and Mars opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Authority, recognition, leadership, alignment with purpose.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-      "relationships": "Self-respect, healthy boundaries, paternal figures.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-      "money": "Status-linked income, government/authority-linked gains.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Self-confidence increases, intellectual work improves, favorable for new creations and business activities.",
+        "hi": "आत्मविश्वास में वृद्धि होती है, बौद्धिक कार्य में सुधार होता है, नया निर्माण और व्यवसाय के लिए अनुकूल।"
+      },
+      "career": {
+        "en": "Improved work conditions in technical and business fields; suitable for machine/tool work.",
+        "hi": "तकनीकी और व्यवसायिक क्षेत्रों में कार्य की स्थिति में सुधार; मशीन/औज़ार से कार्य के लिए उपयुक्त।"
+      },
+      "relationships": {
+        "en": "Beneficial for children and caregivers; physical and adventurous activities enhance enjoyment.",
+        "hi": "बच्चों और देखभाल करने वालों के लिए लाभकारी; शारीरिक और साहसिक गतिविधियाँ आनंददायक।"
+      },
+      "money": {
+        "en": "Business challenges end, making this a good period for business activities.",
+        "hi": "व्यवसायिक कठिनाइयाँ समाप्त होती हैं, व्यवसाय के लिए अच्छा समय।"
+      },
+      "health_adj": {
+        "en": "Sports, adventurous activities, and physical exercises are enjoyable and beneficial.",
+        "hi": "खेल, साहसिक कार्य और शारीरिक व्यायाम आनंददायक और लाभकारी।"
+      }
     },
     "aliases": [
       "Sun sextile Mars",

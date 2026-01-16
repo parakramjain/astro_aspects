@@ -10,56 +10,128 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Moon and Jupiter opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Public reception, brand sentiment, consistency.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-    "relationships": "Bonding, nurturance, emotional safety.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-    "money": "Cyclic cashflow, consumer sentiment.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-    "health_adj": "Hydration, sleep, digestion; stress sensitivity.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Increased importance of educational, cultural, and religious matters within the home and family, accompanied by a generous, kind, peaceful, and optimistic temperament.",
+    "hi": "घर और परिवार में शैक्षिक, सांस्कृतिक और धार्मिक मामलों का महत्व बढ़ता है, साथ ही स्वभाव में उदारता, दयालुता, शांति और आशावादिता बनी रहती है।"
   },
-  "life_event_type": [
-    "Birth of Child / Parenthood"
-  ],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Business profits increase with involvement in large deals and property; production rises.",
+      "hi": "व्यवसाय में मुनाफा होता है, बड़े सौदे और संपत्ति से जुड़ाव होता है; उत्पादन बढ़ता है।"
+    },
+    "relationships": {
+      "en": "Friends and relatives living far away travel to visit or the person travels back home; women provide assistance.",
+      "hi": "दूर रहने वाले मित्र और परिजन मिलने के लिए यात्रा करते हैं या व्यक्ति घर वापस आता है; महिलाएं सहायता करती हैं।"
+    },
+    "money": {
+      "en": "Profits from business and large property deals are gained.",
+      "hi": "व्यवसाय और बड़े संपत्ति सौदों से मुनाफा होता है।"
+    },
+    "health_adj": {
+      "en": "Temperament remains generous, kind, peaceful, and optimistic.",
+      "hi": "स्वभाव में उदारता, दयालुता, शांति और आशावादिता बनी रहती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational advancement",
+      "Family reunions",
+      "Business growth",
+      "Property transactions"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Moon: nurture, align routines, soft-launch; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    "hi": [
+      "शैक्षिक उन्नति",
+      "परिवार के पुनर्मिलन",
+      "व्यवसाय में वृद्धि",
+      "संपत्ति के सौदे"
     ]
   },
-  "keywords": [
-    "abundance",
-    "care",
-    "emotion",
-    "faith",
-    "growth",
-    "habits",
-    "home",
-    "law",
-    "mentor",
-    "mother",
-    "opportunity",
-    "public mood",
-    "sextile",
-    "skill",
-    "wisdom"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic",
-    "external-opportunity"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Encourage family cultural and educational activities",
+        "Support travel plans for family or friends",
+        "Engage in business negotiations carefully"
+      ],
+      "hi": [
+        "परिवार में सांस्कृतिक और शैक्षिक गतिविधियों को प्रोत्साहित करें",
+        "परिवार या मित्रों की यात्रा योजनाओं का समर्थन करें",
+        "व्यवसायिक बातचीत में सावधानी से भाग लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Facilitate visits between distant relatives and friends",
+        "Focus on expanding business deals and production"
+      ],
+      "hi": [
+        "दूर के रिश्तेदारों और मित्रों के मिलने की व्यवस्था करें",
+        "व्यवसायिक सौदों और उत्पादन को बढ़ावा दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain optimism and kindness despite challenges",
+        "Continue supporting family and business relations"
+      ],
+      "hi": [
+        "चुनौतियों के बावजूद आशावाद और दयालुता बनाए रखें",
+        "परिवार और व्यवसायिक संबंधों का समर्थन जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "education",
+      "culture",
+      "religion",
+      "family",
+      "generosity",
+      "peace",
+      "optimism",
+      "travel",
+      "assistance",
+      "business profit",
+      "property",
+      "production"
+    ],
+    "hi": [
+      "शिक्षा",
+      "संस्कृति",
+      "धर्म",
+      "परिवार",
+      "उदारता",
+      "शांति",
+      "आशावाद",
+      "यात्रा",
+      "सहायता",
+      "व्यवसाय मुनाफा",
+      "संपत्ति",
+      "उत्पादन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "generous",
+      "kind",
+      "peaceful",
+      "optimistic",
+      "productive",
+      "supportive"
+    ],
+    "hi": [
+      "उदार",
+      "दयालु",
+      "शांत",
+      "आशावादी",
+      "उत्पादक",
+      "सहायक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -113,36 +185,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "home and family",
+      "education and culture",
+      "travel and reunion",
+      "business and property"
+    ],
+    "hi": [
+      "घर और परिवार",
+      "शिक्षा और संस्कृति",
+      "यात्रा और पुनर्मिलन",
+      "व्यवसाय और संपत्ति"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Moon Sextile Jupiter",
-      "core": "Sextile between Moon and Jupiter opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "moo-sxt-jup",
+      "core": "Focus on educational, cultural, and religious growth within the family, with a temperament that is generous, kind, peaceful, and optimistic.",
+      "tone": "Warm, positive, and supportive"
     },
     "hi": {
-      "title": "Moon Sextile Jupiter (हिन्दी)",
-      "core": "Moon और Jupiter का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "चंद्रमा सेक्सटाइल बृहस्पति",
+      "core": "परिवार में शैक्षिक, सांस्कृतिक और धार्मिक विकास पर ध्यान, उदार, दयालु, शांत और आशावादी स्वभाव के साथ।",
+      "tone": "सहानुभूतिपूर्ण, सकारात्मक और सहायक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Moon and Jupiter opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Public reception, brand sentiment, consistency.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-      "relationships": "Bonding, nurturance, emotional safety.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-      "money": "Cyclic cashflow, consumer sentiment.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-      "health_adj": "Hydration, sleep, digestion; stress sensitivity.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Educational, cultural, and religious importance grows in home and family; temperament remains generous, kind, peaceful, and optimistic.",
+        "hi": "घर और परिवार में शैक्षिक, सांस्कृतिक और धार्मिक महत्व बढ़ता है; स्वभाव उदार, दयालु, शांत और आशावादी रहता है।"
+      },
+      "career": {
+        "en": "Business profits increase with large deals and property involvement; production rises.",
+        "hi": "व्यवसाय में मुनाफा बढ़ता है, बड़े सौदे और संपत्ति से जुड़ाव होता है; उत्पादन बढ़ता है।"
+      },
+      "relationships": {
+        "en": "Friends and relatives travel to visit or the person returns home; women provide assistance.",
+        "hi": "मित्र और परिजन मिलने के लिए यात्रा करते हैं या व्यक्ति घर वापस आता है; महिलाएं सहायता करती हैं।"
+      },
+      "money": {
+        "en": "Profits from business and large property deals are gained.",
+        "hi": "व्यवसाय और बड़े संपत्ति सौदों से मुनाफा होता है।"
+      },
+      "health_adj": {
+        "en": "Temperament remains generous, kind, peaceful, and optimistic.",
+        "hi": "स्वभाव उदार, दयालु, शांत और आशावादी रहता है।"
+      }
     },
     "aliases": [
       "Moon sextile Jupiter",

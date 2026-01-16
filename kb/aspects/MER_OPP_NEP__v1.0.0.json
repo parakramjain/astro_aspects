@@ -11,51 +11,51 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "This aspect indicates confusion and lack of self-trust, with a tendency to be influenced by illusions. It may lead to wrong decisions in various areas and mental fatigue.",
-    "hi": "यह योग व्यक्ति में भ्रम और आत्मविश्वास की कमी दर्शाता है, जिससे वह भ्रमों में आ जाता है। यह विभिन्न क्षेत्रों में गलत निर्णय और मानसिक थकावट ला सकता है।"
+    "en": "The person may experience confusion and lack confidence in themselves, leading to susceptibility to illusions and external influences. This can result in poor decisions affecting business, travel, health, and communication.",
+    "hi": "व्यक्ति भ्रमित रह सकता है और खुद पर भरोसा नहीं कर पाता, जिससे वह भ्रम और बाहरी प्रभावों में आ जाता है। इससे व्यापार, यात्रा, स्वास्थ्य और संचार में गलत निर्णय हो सकते हैं।"
   },
   "facets": {
     "career": {
-      "en": "Potential for wrong decisions affecting business or professional communication.",
-      "hi": "व्यापार या पेशेवर संचार में गलत निर्णय की संभावना।"
+      "en": "Risk of wrong decisions in business or professional communication due to confusion or misplaced trust.",
+      "hi": "व्यवसाय या पेशेवर संचार में भ्रम या गलत भरोसे के कारण गलत निर्णय लेने का खतरा।"
     },
     "relationships": {
-      "en": "Easily influenced by others, may believe illusions affecting trust.",
-      "hi": "दूसरों के प्रभाव में आना आसान, विश्वास को प्रभावित करने वाले भ्रम मान लेना।"
+      "en": "Easily influenced by others, leading to misunderstandings or believing untruths.",
+      "hi": "दूसरों के प्रभाव में आना आसान होता है, जिससे गलतफहमी या असत्य मानने की स्थिति बन सकती है।"
     },
     "money": {
-      "en": "Risk of incorrect choices impacting financial matters.",
-      "hi": "वित्तीय मामलों में गलत निर्णय लेने का जोखिम।"
+      "en": "Potential for poor financial decisions influenced by illusions or confusion.",
+      "hi": "भ्रम या भ्रमित सोच के कारण वित्तीय निर्णय गलत हो सकते हैं।"
     },
     "health_adj": {
-      "en": "Possible mental fatigue and risk of misdiagnosis or wrong treatment.",
-      "hi": "मानसिक थकावट और गलत निदान या उपचार की संभावना।"
+      "en": "Possibility of mental fatigue and misdiagnosis affecting health decisions.",
+      "hi": "मानसिक थकावट और गलत निदान के कारण स्वास्थ्य संबंधी समस्याएं हो सकती हैं।"
     }
   },
   "life_event_type": {
     "en": [
       "Business decisions",
-      "Travel plans",
+      "Travel planning",
       "Health consultations",
       "Communication challenges"
     ],
     "hi": [
-      "व्यापार निर्णय",
-      "यात्रा योजनाएं",
+      "व्यवसायिक निर्णय",
+      "यात्रा योजना",
       "स्वास्थ्य परामर्श",
-      "संचार चुनौतियाँ"
+      "संचार संबंधी चुनौतियाँ"
     ]
   },
   "risk_notes": {
     "en": [
       "Confusion leading to poor judgment",
       "Susceptibility to illusions",
-      "Mental exhaustion",
+      "Mental fatigue",
       "Possibility of misdiagnosis"
     ],
     "hi": [
-      "गलत निर्णय के लिए भ्रम",
-      "भ्रमों के प्रति संवेदनशीलता",
+      "भ्रम से गलत निर्णय",
+      "भ्रम में आना",
       "मानसिक थकावट",
       "गलत निदान की संभावना"
     ]
@@ -63,38 +63,34 @@
   "actionables": {
     "applying": {
       "en": [
-        "Be cautious with decisions in business and travel",
-        "Verify information before accepting it",
-        "Monitor mental health and rest adequately"
+        "Be cautious in decision-making",
+        "Verify information carefully",
+        "Avoid rushing into conclusions"
       ],
       "hi": [
-        "व्यापार और यात्रा में निर्णय सावधानी से लें",
-        "जानकारी को स्वीकार करने से पहले जांच करें",
-        "मानसिक स्वास्थ्य पर ध्यान दें और पर्याप्त आराम करें"
+        "निर्णय लेते समय सावधानी बरतें",
+        "जानकारी को ध्यान से जांचें",
+        "जल्दबाजी में निष्कर्ष न निकालें"
       ]
     },
     "exact": {
       "en": [
-        "Avoid making important decisions impulsively",
-        "Seek second opinions in health matters",
-        "Stay grounded to reduce illusions"
+        "Pause to reassess confusing situations",
+        "Seek trusted advice before important decisions"
       ],
       "hi": [
-        "महत्वपूर्ण निर्णय जल्दबाजी में न लें",
-        "स्वास्थ्य मामलों में दूसरी राय लें",
-        "भ्रम कम करने के लिए स्थिर रहें"
+        "भ्रमित स्थिति में पुनः मूल्यांकन करें",
+        "महत्वपूर्ण निर्णय से पहले विश्वसनीय सलाह लें"
       ]
     },
     "separating": {
       "en": [
-        "Gradual improvement in clarity and self-trust",
-        "Reduced susceptibility to illusions",
-        "Better mental focus and decision-making"
+        "Reflect on lessons learned from past confusion",
+        "Gradually rebuild self-trust"
       ],
       "hi": [
-        "स्पष्टता और आत्मविश्वास में धीरे-धीरे सुधार",
-        "भ्रमों के प्रति संवेदनशीलता में कमी",
-        "बेहतर मानसिक एकाग्रता और निर्णय क्षमता"
+        "भूतपूर्व भ्रम से सीखे गए पाठों पर विचार करें",
+        "धीरे-धीरे आत्म-विश्वास पुनः स्थापित करें"
       ]
     }
   },
@@ -102,15 +98,15 @@
     "en": [
       "confusion",
       "lack of self-trust",
-      "illusions",
+      "illusion",
       "wrong decisions",
       "mental fatigue",
       "misdiagnosis"
     ],
     "hi": [
       "भ्रम",
-      "आत्मविश्वास की कमी",
-      "भ्रम",
+      "आत्म-विश्वास की कमी",
+      "भ्रमना",
       "गलत निर्णय",
       "मानसिक थकावट",
       "गलत निदान"
@@ -118,16 +114,16 @@
   },
   "quality_tags": {
     "en": [
-      "challenging",
-      "uncertain",
-      "influential",
-      "mental strain"
+      "uncertainty",
+      "vulnerability",
+      "misjudgment",
+      "susceptibility"
     ],
     "hi": [
-      "चुनौतीपूर्ण",
-      "अनिश्चित",
-      "प्रभावशाली",
-      "मानसिक तनाव"
+      "अनिश्चितता",
+      "संवेदनशीलता",
+      "गलत निर्णय",
+      "प्रभावित होना"
     ]
   },
   "weights_hint": {
@@ -185,56 +181,56 @@
   },
   "theme_overlays": {
     "en": [
-      "confusion",
+      "mental confusion",
       "trust issues",
-      "illusion",
-      "decision-making risk"
+      "illusion vs reality",
+      "decision caution"
     ],
     "hi": [
-      "भ्रम",
+      "मानसिक भ्रम",
       "विश्वास की समस्या",
-      "भ्रम",
-      "निर्णय जोखिम"
+      "भ्रम और वास्तविकता",
+      "निर्णय में सावधानी"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-14"
   },
   "locales": {
     "en": {
       "title": "mer-opp-nep",
-      "core": "This aspect brings confusion, lack of self-trust, and susceptibility to illusions, affecting decisions and mental clarity.",
+      "core": "This aspect indicates a tendency toward confusion, lack of self-confidence, and susceptibility to illusions, which can affect decisions in various life areas.",
       "tone": "Warm, neutral, and cautious"
     },
     "hi": {
-      "title": "बुध विपरीत वरुण",
-      "core": "यह योग भ्रम, आत्मविश्वास की कमी और भ्रमों के प्रति संवेदनशीलता लाता है, जो निर्णय और मानसिक स्पष्टता को प्रभावित करता है।",
-      "tone": "सहानुभूतिपूर्ण, तटस्थ, और सावधान"
+      "title": "बुध विपरीत नेपच्यून",
+      "core": "यह योग भ्रम, आत्म-विश्वास की कमी और भ्रमित होने की प्रवृत्ति दर्शाता है, जो जीवन के विभिन्न क्षेत्रों में निर्णयों को प्रभावित कर सकता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "Confusion and lack of self-trust with illusions influencing decisions and mental fatigue.",
-        "hi": "भ्रम और आत्मविश्वास की कमी, भ्रमों के प्रभाव से निर्णय और मानसिक थकावट।"
+        "en": "Person may live in confusion and lack self-trust, leading to susceptibility to illusions and poor decisions.",
+        "hi": "व्यक्ति भ्रम में रहता है और खुद पर यकीन नहीं करता, जिससे भ्रम और गलत निर्णय होते हैं।"
       },
       "career": {
-        "en": "Wrong decisions may occur in business and communication.",
-        "hi": "व्यापार और संचार में गलत निर्णय हो सकते हैं।"
+        "en": "Wrong decisions in business or communication due to confusion or misplaced trust.",
+        "hi": "भ्रम या गलत भरोसे के कारण व्यवसाय या संचार में गलत निर्णय।"
       },
       "relationships": {
-        "en": "Easily influenced by others and prone to believing illusions.",
-        "hi": "दूसरों के प्रभाव में आना आसान और भ्रम मान लेना।"
+        "en": "Easily influenced by others, leading to misunderstandings or believing untruths.",
+        "hi": "दूसरों के प्रभाव में आना आसान, जिससे गलतफहमी या असत्य मानना।"
       },
       "money": {
-        "en": "Financial decisions may be affected by illusions and poor judgment.",
-        "hi": "वित्तीय निर्णय भ्रम और गलत निर्णय से प्रभावित हो सकते हैं।"
+        "en": "Potential for poor financial decisions influenced by illusions or confusion.",
+        "hi": "भ्रम या भ्रमित सोच से वित्तीय निर्णय गलत हो सकते हैं।"
       },
       "health_adj": {
-        "en": "Mental fatigue and risk of misdiagnosis or wrong treatment.",
-        "hi": "मानसिक थकावट और गलत निदान या उपचार का खतरा।"
+        "en": "Mental fatigue and misdiagnosis possible affecting health.",
+        "hi": "मानसिक थकावट और गलत निदान से स्वास्थ्य प्रभावित हो सकता है।"
       }
     },
     "aliases": [

@@ -10,46 +10,140 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Saturn and Neptune opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Authority via mastery, long-term credibility.  Emphasis: opportunity/skill.",
-    "relationships": "Commitment realism, boundaries, duty.  Emphasis: opportunity/skill.",
-    "money": "Slow steady accrual, austerity, debt realism.  Emphasis: opportunity/skill.",
-    "health_adj": "Bones, teeth, chronic load; routines & posture.  Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Subconscious awakening enhances memory and concentration, aiding intuition and materializing ideas with spiritual guidance and foresight in professional matters.",
+    "hi": "अवचेतन में जागृति स्मरण शक्ति और एकाग्रता को बढ़ाती है, जो अंतर्ज्ञान में सहायता करती है और आध्यात्मिक मार्गदर्शन के साथ कल्पनाओं को साकार करने में मदद करती है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Burnout via over-responsibility; schedule recovery windows."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Saturn: structure, commit, audit; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Saturn: structure, commit, audit; Neptune: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Favorable for professional foresight, good business agreements, gaining secret or confidential knowledge, and work in educational, hospital, social, or professional institutions.",
+      "hi": "पेशेवर पूर्वाभास, अच्छे व्यवसाय समझौते, गुप्त या गोपनीय ज्ञान प्राप्ति, तथा शिक्षण, अस्पताल, सामाजिक या पेशेवर संस्थानों में कार्य के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Supports intuitive understanding and spiritual guidance in social institutional contexts.",
+      "hi": "सामाजिक संस्थागत संदर्भों में अंतर्ज्ञान और आध्यात्मिक मार्गदर्शन का समर्थन करता है।"
+    },
+    "money": {
+      "en": "Opportunities for beneficial business agreements and gains from confidential or secret professional work.",
+      "hi": "लाभकारी व्यवसाय समझौते और गुप्त पेशेवर कार्य से लाभ के अवसर।"
+    },
+    "health_adj": {
+      "en": "Favorable for work related to hospitals and educational institutions, supporting concentration and mental clarity.",
+      "hi": "अस्पताल और शिक्षण संस्थानों से संबंधित कार्यों के लिए अनुकूल, जो एकाग्रता और मानसिक स्पष्टता को बढ़ावा देता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Subconscious awakening",
+      "Memory development",
+      "Spiritual guidance",
+      "Professional foresight",
+      "Business agreement",
+      "Educational and social institutional work",
+      "Artistic endeavors"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Saturn: structure, commit, audit; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Saturn: structure, commit, audit; Neptune: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Saturn: structure, commit, audit; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Saturn: structure, commit, audit; Neptune: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "अवचेतन जागृति",
+      "स्मरण शक्ति का विकास",
+      "आध्यात्मिक मार्गदर्शन",
+      "पेशेवर पूर्वाभास",
+      "व्यवसाय समझौता",
+      "शैक्षिक और सामाजिक संस्थागत कार्य",
+      "कलात्मक कार्य"
     ]
   },
-  "keywords": [
-    "dharma via effort",
-    "discipline",
-    "limits",
-    "opportunity",
-    "sextile",
-    "skill",
-    "structure",
-    "time"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on improving concentration and memory",
+        "Seek spiritual or intuitive guidance",
+        "Explore opportunities to materialize ideas",
+        "Engage in professional or social institutional work"
+      ],
+      "hi": [
+        "एकाग्रता और स्मरण शक्ति बढ़ाने पर ध्यान दें",
+        "आध्यात्मिक या अंतर्ज्ञान मार्गदर्शन प्राप्त करें",
+        "कल्पनाओं को साकार करने के अवसर तलाशें",
+        "पेशेवर या सामाजिक संस्थागत कार्यों में संलग्न हों"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Utilize enhanced intuition for professional foresight",
+        "Pursue beneficial business agreements",
+        "Gain or apply secret or confidential professional knowledge",
+        "Engage in artistic or educational activities"
+      ],
+      "hi": [
+        "पेशेवर पूर्वाभास के लिए बढ़े हुए अंतर्ज्ञान का उपयोग करें",
+        "लाभकारी व्यवसाय समझौते करें",
+        "गुप्त या गोपनीय पेशेवर ज्ञान प्राप्त करें या लागू करें",
+        "कलात्मक या शैक्षिक गतिविधियों में संलग्न हों"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain awareness of shifting intuition and memory clarity",
+        "Review confidential or secret information carefully",
+        "Prepare for changes in professional or social institutional roles"
+      ],
+      "hi": [
+        "बदलते अंतर्ज्ञान और स्मरण स्पष्टता के प्रति जागरूक रहें",
+        "गुप्त या गोपनीय जानकारी को सावधानी से समीक्षा करें",
+        "पेशेवर या सामाजिक संस्थागत भूमिकाओं में बदलाव के लिए तैयार रहें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "subconscious awakening",
+      "memory development",
+      "concentration",
+      "intuition",
+      "spiritual guidance",
+      "professional foresight",
+      "business agreements",
+      "educational institutions",
+      "confidential knowledge",
+      "artistic endeavors"
+    ],
+    "hi": [
+      "अवचेतन जागृति",
+      "स्मरण शक्ति विकास",
+      "एकाग्रता",
+      "अंतर्ज्ञान",
+      "आध्यात्मिक मार्गदर्शन",
+      "पेशेवर पूर्वाभास",
+      "व्यवसाय समझौते",
+      "शैक्षिक संस्थान",
+      "गुप्त ज्ञान",
+      "कलात्मक कार्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "intuitive",
+      "spiritual",
+      "confidential",
+      "opportunity",
+      "professional",
+      "artistic"
+    ],
+    "hi": [
+      "अनुकूल",
+      "अंतर्ज्ञानी",
+      "आध्यात्मिक",
+      "गोपनीय",
+      "अवसर",
+      "पेशेवर",
+      "कलात्मक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +197,65 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "subconscious growth",
+      "intuition and foresight",
+      "spiritual support",
+      "professional and social institutions",
+      "confidential knowledge",
+      "materializing ideas",
+      "artistic creativity"
+    ],
+    "hi": [
+      "अवचेतन विकास",
+      "अंतर्ज्ञान और पूर्वाभास",
+      "आध्यात्मिक समर्थन",
+      "पेशेवर और सामाजिक संस्थान",
+      "गोपनीय ज्ञान",
+      "कल्पनाओं का साकार होना",
+      "कलात्मक रचनात्मकता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Saturn Sextile Neptune",
-      "core": "Sextile between Saturn and Neptune opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "sat-sxt-nep",
+      "core": "This aspect supports subconscious awakening, improved memory and concentration, spiritual guidance, and professional foresight, offering opportunities in business, education, and artistic fields.",
+      "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "Saturn Sextile Neptune (हिन्दी)",
-      "core": "Saturn और Neptune का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "शनि सेकस्टाइल नेपच्यून",
+      "core": "यह योग अवचेतन जागृति, स्मरण और एकाग्रता में सुधार, आध्यात्मिक मार्गदर्शन और पेशेवर पूर्वाभास का समर्थन करता है, जो व्यवसाय, शिक्षा और कलात्मक क्षेत्रों में अवसर प्रदान करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Saturn and Neptune opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Authority via mastery, long-term credibility.  Emphasis: opportunity/skill.",
-      "relationships": "Commitment realism, boundaries, duty.  Emphasis: opportunity/skill.",
-      "money": "Slow steady accrual, austerity, debt realism.  Emphasis: opportunity/skill.",
-      "health_adj": "Bones, teeth, chronic load; routines & posture.  Emphasis: opportunity/skill."
+      "core": {
+        "en": "Subconscious awakening enhances memory and concentration, aiding intuition and materializing ideas with spiritual guidance and foresight in professional matters.",
+        "hi": "अवचेतन में जागृति स्मरण शक्ति और एकाग्रता को बढ़ाती है, जो अंतर्ज्ञान में सहायता करती है और आध्यात्मिक मार्गदर्शन के साथ कल्पनाओं को साकार करने में मदद करती है।"
+      },
+      "career": {
+        "en": "Favorable for professional foresight, good business agreements, gaining secret or confidential knowledge, and work in educational, hospital, social, or professional institutions.",
+        "hi": "पेशेवर पूर्वाभास, अच्छे व्यवसाय समझौते, गुप्त या गोपनीय ज्ञान प्राप्ति, तथा शिक्षण, अस्पताल, सामाजिक या पेशेवर संस्थानों में कार्य के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Supports intuitive understanding and spiritual guidance in social institutional contexts.",
+        "hi": "सामाजिक संस्थागत संदर्भों में अंतर्ज्ञान और आध्यात्मिक मार्गदर्शन का समर्थन करता है।"
+      },
+      "money": {
+        "en": "Opportunities for beneficial business agreements and gains from confidential or secret professional work.",
+        "hi": "लाभकारी व्यवसाय समझौते और गुप्त पेशेवर कार्य से लाभ के अवसर।"
+      },
+      "health_adj": {
+        "en": "Favorable for work related to hospitals and educational institutions, supporting concentration and mental clarity.",
+        "hi": "अस्पताल और शिक्षण संस्थानों से संबंधित कार्यों के लिए अनुकूल, जो एकाग्रता और मानसिक स्पष्टता को बढ़ावा देता है।"
+      }
     },
     "aliases": [
       "Saturn sextile Neptune",

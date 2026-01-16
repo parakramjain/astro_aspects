@@ -11,25 +11,25 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "New ideas and discussions arise, fostering intellectual and creative expression. Inspired imagination supports goals, with growing interest in esoteric thinking. Opportunities for creative projects with siblings, friends, or colleagues may appear, along with unexpected important work.",
-    "hi": "नई कल्पनाओं और संवाद का विकास होता है, जो बौद्धिक और रचनात्मक अभिव्यक्ति को बढ़ावा देता है। प्रेरित कल्पना लक्ष्य प्राप्ति में सहायता करती है और गूढ़ चिंतन में रुचि बढ़ती है। भाई-बहन, मित्र या सहकर्मियों के साथ रचनात्मक कार्य के अवसर और अप्रत्याशित महत्वपूर्ण कार्य सामने आ सकते हैं।"
+    "en": "New ideas and related discussions arise, fostering intellectual and creative expression. Inspired imagination supports goal achievement, with growing interest in esoteric thinking. Opportunities emerge for creative projects with siblings, friends, or colleagues, and unexpected important work may appear.",
+    "hi": "नई कल्पनाओं और उनसे संबंधित संवाद की स्थिति बनती है, जो बौद्धिक और रचनात्मक अभिव्यक्ति को प्रोत्साहित करती है। प्रेरित कल्पना लक्ष्य प्राप्ति में सहायता करती है, और गूढ़ चिंतन में रुचि बढ़ती है। भाई-बहन, मित्र या सहकर्मियों के साथ रचनात्मक कार्य के अवसर मिलते हैं, और अप्रत्याशित महत्वपूर्ण कार्य सामने आ सकते हैं।"
   },
   "facets": {
     "career": {
-      "en": "Favorable for creative projects and unexpected important work opportunities, especially involving colleagues or close associates.",
-      "hi": "रचनात्मक परियोजनाओं और अप्रत्याशित महत्वपूर्ण कार्य के अवसरों के लिए अनुकूल, विशेषकर सहकर्मियों या निकट संबंधियों के साथ।"
+      "en": "Creative projects and unexpected important work opportunities may arise, often involving colleagues or friends.",
+      "hi": "रचनात्मक परियोजनाएँ और अप्रत्याशित महत्वपूर्ण कार्य के अवसर मिल सकते हैं, जो अक्सर सहकर्मियों या मित्रों से जुड़े होते हैं।"
     },
     "relationships": {
-      "en": "Enhanced intellectual and creative exchanges with siblings, friends, neighbors, or colleagues; opportunities for collaborative creative efforts.",
-      "hi": "भाई-बहन, मित्र, पड़ोसी या सहकर्मियों के साथ बौद्धिक और रचनात्मक संवाद बढ़ता है; सहयोगी रचनात्मक प्रयासों के अवसर।"
+      "en": "Collaborations with siblings, friends, or neighbors increase, fostering creative and intellectual exchanges.",
+      "hi": "भाई-बहन, मित्रों या पड़ोसियों के साथ सहयोग बढ़ता है, जो रचनात्मक और बौद्धिक संवाद को प्रोत्साहित करता है।"
     },
     "money": {
-      "en": "Potential for gains through creative or intellectual projects; unexpected work may bring financial opportunities.",
-      "hi": "रचनात्मक या बौद्धिक परियोजनाओं से लाभ की संभावना; अप्रत्याशित कार्य वित्तीय अवसर ला सकते हैं।"
+      "en": "Potential for financial opportunities through creative or intellectual endeavors with close associates.",
+      "hi": "नजदीकी सहयोगियों के साथ रचनात्मक या बौद्धिक प्रयासों से वित्तीय अवसर उत्पन्न हो सकते हैं।"
     },
     "health_adj": {
-      "en": "Mental stimulation and inspired imagination support overall well-being; no specific health cautions noted.",
-      "hi": "मानसिक उत्तेजना और प्रेरित कल्पना समग्र स्वास्थ्य में सहायता करती है; कोई विशेष स्वास्थ्य चेतावनी नहीं।"
+      "en": "Mental stimulation and inspired imagination contribute positively to overall well-being.",
+      "hi": "मानसिक उत्तेजना और प्रेरित कल्पना समग्र स्वास्थ्य के लिए सकारात्मक योगदान देती है।"
     }
   },
   "life_event_type": {
@@ -46,12 +46,12 @@
   },
   "risk_notes": {
     "en": [
-      "Unexpected work may require adaptability",
-      "Creative ideas may need refinement"
+      "Unexpected work may require quick adaptation",
+      "Overenthusiasm in ideas might lead to scattered focus"
     ],
     "hi": [
-      "अप्रत्याशित कार्य के लिए अनुकूलनशीलता आवश्यक हो सकती है",
-      "रचनात्मक विचारों को परिष्कृत करने की आवश्यकता हो सकती है"
+      "अप्रत्याशित कार्य के लिए त्वरित अनुकूलन आवश्यक हो सकता है",
+      "विचारों में अत्यधिक उत्साह से ध्यान भटक सकता है"
     ]
   },
   "actionables": {
@@ -62,33 +62,33 @@
         "Develop inspired ideas towards goals"
       ],
       "hi": [
-        "बौद्धिक संवाद में भाग लें",
-        "निकट संबंधियों के साथ रचनात्मक परियोजनाओं का अन्वेषण करें",
-        "लक्ष्यों की ओर प्रेरित विचार विकसित करें"
+        "बौद्धिक संवादों में भाग लें",
+        "नजदीकी सहयोगियों के साथ रचनात्मक परियोजनाएँ करें",
+        "लक्ष्यों की ओर प्रेरित कल्पनाओं को विकसित करें"
       ]
     },
     "exact": {
       "en": [
-        "Focus on inspired imagination",
-        "Collaborate on creative efforts",
+        "Focus on esoteric or deep thinking topics",
+        "Collaborate actively with siblings, friends, or colleagues",
         "Be open to unexpected work opportunities"
       ],
       "hi": [
-        "प्रेरित कल्पना पर ध्यान केंद्रित करें",
-        "रचनात्मक प्रयासों में सहयोग करें",
+        "गूढ़ या गहरे चिंतन विषयों पर ध्यान दें",
+        "भाई-बहन, मित्रों या सहकर्मियों के साथ सक्रिय सहयोग करें",
         "अप्रत्याशित कार्य अवसरों के लिए खुले रहें"
       ]
     },
     "separating": {
       "en": [
         "Review and refine creative ideas",
-        "Maintain intellectual curiosity",
-        "Prepare for possible changes in work"
+        "Consolidate intellectual insights gained",
+        "Prepare for follow-up actions on work opportunities"
       ],
       "hi": [
         "रचनात्मक विचारों की समीक्षा और सुधार करें",
-        "बौद्धिक जिज्ञासा बनाए रखें",
-        "कार्य में संभावित बदलावों के लिए तैयार रहें"
+        "प्राप्त बौद्धिक ज्ञान को समेकित करें",
+        "कार्य अवसरों पर आगे की कार्रवाई के लिए तैयारी करें"
       ]
     }
   },
@@ -182,56 +182,58 @@
   },
   "theme_overlays": {
     "en": [
-      "intellectual growth",
-      "creative expression",
-      "unexpected opportunities",
-      "collaboration"
+      "imagination",
+      "communication",
+      "innovation",
+      "relationships",
+      "unexpected opportunities"
     ],
     "hi": [
-      "बौद्धिक विकास",
-      "रचनात्मक अभिव्यक्ति",
-      "अप्रत्याशित अवसर",
-      "सहयोग"
+      "कल्पना",
+      "संचार",
+      "नवाचार",
+      "संबंध",
+      "अप्रत्याशित अवसर"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
       "title": "ura-sxt-ura",
-      "core": "This aspect encourages new ideas, inspired imagination, and creative collaborations, often bringing unexpected opportunities in intellectual and creative areas.",
-      "tone": "Warm, encouraging, and open-minded"
+      "core": "A time for new ideas, inspired imagination, and creative collaborations, often bringing unexpected opportunities.",
+      "tone": "Warm, encouraging, and open to possibilities."
     },
     "hi": {
       "title": "यूरेनस सेकस्टाइल यूरेनस",
-      "core": "यह योग नई कल्पनाओं, प्रेरित कल्पना और रचनात्मक सहयोग को प्रोत्साहित करता है, जो अक्सर बौद्धिक और रचनात्मक क्षेत्रों में अप्रत्याशित अवसर लाता है।",
-      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और खुले विचारों वाला"
+      "core": "नई कल्पनाओं, प्रेरित कल्पना और रचनात्मक सहयोगों का समय, जो अक्सर अप्रत्याशित अवसर लाता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और संभावनाओं के लिए खुला।"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "New ideas and discussions arise, fostering intellectual and creative expression. Inspired imagination supports goals, with growing interest in esoteric thinking. Opportunities for creative projects with siblings, friends, or colleagues may appear, along with unexpected important work.",
-        "hi": "नई कल्पनाओं और संवाद का विकास होता है, जो बौद्धिक और रचनात्मक अभिव्यक्ति को बढ़ावा देता है। प्रेरित कल्पना लक्ष्य प्राप्ति में सहायता करती है और गूढ़ चिंतन में रुचि बढ़ती है। भाई-बहन, मित्र या सहकर्मियों के साथ रचनात्मक कार्य के अवसर और अप्रत्याशित महत्वपूर्ण कार्य सामने आ सकते हैं।"
+        "en": "New ideas develop or related discussions occur. Good for intellectual/creative expression. Inspired imagination aids goals. Interest in esoteric thinking grows. Opportunities for creative projects with siblings/friends/colleagues. Unexpected important work may emerge.",
+        "hi": "व्यक्ति के जीवन में नई कल्पनाओं का विकास या उससे संबंधित संवाद की स्थिति रहती है। यह समय बौद्धिक/मानसिक/अभिव्यक्ति के लिए उपयुक्त रहता है। आंतरिक प्रेरणा से उत्पन्न कल्पना द्वारा लक्ष्यप्राप्ति में सहायता मिलती है। व्यक्ति की रुचि गूढ़ चिंतन के विषयों में बढ़ती है। भाई/बहन/मित्र/पड़ोसी/सहकर्मी के साथ कुछ रचनात्मक कार्य के अवसर रहते हैं। कोई महत्वपूर्ण अचानक या अप्रत्याशित कार्य के अवसर रहते हैं।"
       },
       "career": {
-        "en": "Favorable for creative projects and unexpected important work opportunities, especially involving colleagues or close associates.",
-        "hi": "रचनात्मक परियोजनाओं और अप्रत्याशित महत्वपूर्ण कार्य के अवसरों के लिए अनुकूल, विशेषकर सहकर्मियों या निकट संबंधियों के साथ।"
+        "en": "Creative projects and unexpected important work opportunities may arise, often involving colleagues or friends.",
+        "hi": "रचनात्मक परियोजनाएँ और अप्रत्याशित महत्वपूर्ण कार्य के अवसर मिल सकते हैं, जो अक्सर सहकर्मियों या मित्रों से जुड़े होते हैं।"
       },
       "relationships": {
-        "en": "Enhanced intellectual and creative exchanges with siblings, friends, neighbors, or colleagues; opportunities for collaborative creative efforts.",
-        "hi": "भाई-बहन, मित्र, पड़ोसी या सहकर्मियों के साथ बौद्धिक और रचनात्मक संवाद बढ़ता है; सहयोगी रचनात्मक प्रयासों के अवसर।"
+        "en": "Collaborations with siblings, friends, or neighbors increase, fostering creative and intellectual exchanges.",
+        "hi": "भाई-बहन, मित्रों या पड़ोसियों के साथ सहयोग बढ़ता है, जो रचनात्मक और बौद्धिक संवाद को प्रोत्साहित करता है।"
       },
       "money": {
-        "en": "Potential for gains through creative or intellectual projects; unexpected work may bring financial opportunities.",
-        "hi": "रचनात्मक या बौद्धिक परियोजनाओं से लाभ की संभावना; अप्रत्याशित कार्य वित्तीय अवसर ला सकते हैं।"
+        "en": "Potential for financial opportunities through creative or intellectual endeavors with close associates.",
+        "hi": "नजदीकी सहयोगियों के साथ रचनात्मक या बौद्धिक प्रयासों से वित्तीय अवसर उत्पन्न हो सकते हैं।"
       },
       "health_adj": {
-        "en": "Mental stimulation and inspired imagination support overall well-being; no specific health cautions noted.",
-        "hi": "मानसिक उत्तेजना और प्रेरित कल्पना समग्र स्वास्थ्य में सहायता करती है; कोई विशेष स्वास्थ्य चेतावनी नहीं।"
+        "en": "Mental stimulation and inspired imagination contribute positively to overall well-being.",
+        "hi": "मानसिक उत्तेजना और प्रेरित कल्पना समग्र स्वास्थ्य के लिए सकारात्मक योगदान देती है।"
       }
     },
     "aliases": [

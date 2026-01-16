@@ -10,46 +10,112 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Venus and Neptune opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Design, branding, client harmony, tasteful presentation.  Emphasis: opportunity/skill.",
-    "relationships": "Attraction, diplomacy, reciprocity.  Emphasis: opportunity/skill.",
-    "money": "Luxury/beauty revenues, pricing power via desirability.  Emphasis: opportunity/skill.",
-    "health_adj": "Glucose balance, skin, reproductive health; moderation.  Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Creative imagination grows, bringing spiritual and aesthetic inspiration. The person becomes kinder and benefits in music, art, or design professions.",
+    "hi": "कलात्मक कल्पना बढ़ती है, सौन्दर्य और धार्मिक प्रेरणा प्राप्त होती है। व्यक्ति में उदारता बढ़ती है। कला/संगीत से संबंधित व्यवसाय में लाभ होता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Venus: design, harmonize, price; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Venus: design, harmonize, price; Neptune: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Benefits in professions related to music, art, or design due to enhanced creativity and inspiration.",
+      "hi": "कला, संगीत या डिजाइन से जुड़े व्यवसायों में रचनात्मकता और प्रेरणा के कारण लाभ होता है।"
+    },
+    "relationships": {
+      "en": "Increased kindness and compassion improve interpersonal connections.",
+      "hi": "व्यक्ति में बढ़ी हुई उदारता और सहानुभूति से संबंध बेहतर होते हैं।"
+    },
+    "money": {
+      "en": "Financial gains may come through creative or artistic professions.",
+      "hi": "रचनात्मक या कलात्मक व्यवसायों के माध्यम से आर्थिक लाभ संभव है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative inspiration",
+      "Career opportunities in arts",
+      "Spiritual growth"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Venus: design, harmonize, price; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Venus: design, harmonize, price; Neptune: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Venus: design, harmonize, price; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Venus: design, harmonize, price; Neptune: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "रचनात्मक प्रेरणा",
+      "कला में करियर के अवसर",
+      "आध्यात्मिक विकास"
     ]
   },
-  "keywords": [
-    "affection",
-    "art",
-    "harmony",
-    "opportunity",
-    "pleasure",
-    "sextile",
-    "skill",
-    "values"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताए गए हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative or artistic activities.",
+        "Cultivate kindness and compassion."
+      ],
+      "hi": [
+        "रचनात्मक या कलात्मक गतिविधियों में संलग्न हों।",
+        "उदारता और सहानुभूति बढ़ाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on spiritual and aesthetic inspiration.",
+        "Explore opportunities in music, art, or design fields."
+      ],
+      "hi": [
+        "धार्मिक और सौंदर्य प्रेरणा पर ध्यान दें।",
+        "संगीत, कला या डिजाइन के क्षेत्र में अवसर तलाशें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain kindness and creative pursuits to continue benefits."
+      ],
+      "hi": [
+        "लाभ जारी रखने के लिए उदारता और रचनात्मक प्रयास बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "creative imagination",
+      "spiritual inspiration",
+      "aesthetic inspiration",
+      "kindness",
+      "music",
+      "art",
+      "design"
+    ],
+    "hi": [
+      "कलात्मक कल्पना",
+      "धार्मिक प्रेरणा",
+      "सौंदर्य प्रेरणा",
+      "उदारता",
+      "संगीत",
+      "कला",
+      "डिजाइन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "inspirational",
+      "kind",
+      "artistic"
+    ],
+    "hi": [
+      "रचनात्मक",
+      "प्रेरणादायक",
+      "उदार",
+      "कलात्मक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +169,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "Relationship Tone",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "spirituality",
+      "aesthetics",
+      "compassion"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "आध्यात्मिकता",
+      "सौंदर्यशास्त्र",
+      "करुणा"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Venus Sextile Neptune",
-      "core": "Sextile between Venus and Neptune opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ven-sxt-nep",
+      "core": "Creative imagination grows, bringing spiritual and aesthetic inspiration. Kindness increases, benefiting artistic professions.",
+      "tone": "Warm, encouraging, and inspirational"
     },
     "hi": {
-      "title": "Venus Sextile Neptune (हिन्दी)",
-      "core": "Venus और Neptune का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "शुक्र षट्कोण नेपच्यून",
+      "core": "कलात्मक कल्पना बढ़ती है, धार्मिक और सौंदर्य प्रेरणा मिलती है। उदारता बढ़ती है, जिससे कलात्मक व्यवसायों में लाभ होता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और प्रेरणादायक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Venus and Neptune opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Design, branding, client harmony, tasteful presentation.  Emphasis: opportunity/skill.",
-      "relationships": "Attraction, diplomacy, reciprocity.  Emphasis: opportunity/skill.",
-      "money": "Luxury/beauty revenues, pricing power via desirability.  Emphasis: opportunity/skill.",
-      "health_adj": "Glucose balance, skin, reproductive health; moderation.  Emphasis: opportunity/skill."
+      "core": {
+        "en": "Creative imagination grows, bringing spiritual and aesthetic inspiration. The person becomes kinder and benefits in music, art, or design professions.",
+        "hi": "कलात्मक कल्पना बढ़ती है, सौन्दर्य और धार्मिक प्रेरणा प्राप्त होती है। व्यक्ति में उदारता बढ़ती है। कला/संगीत से संबंधित व्यवसाय में लाभ होता है।"
+      },
+      "career": {
+        "en": "Benefits in professions related to music, art, or design due to enhanced creativity and inspiration.",
+        "hi": "कला, संगीत या डिजाइन से जुड़े व्यवसायों में रचनात्मकता और प्रेरणा के कारण लाभ होता है।"
+      },
+      "relationships": {
+        "en": "Increased kindness and compassion improve interpersonal connections.",
+        "hi": "व्यक्ति में बढ़ी हुई उदारता और सहानुभूति से संबंध बेहतर होते हैं।"
+      },
+      "money": {
+        "en": "Financial gains may come through creative or artistic professions.",
+        "hi": "रचनात्मक या कलात्मक व्यवसायों के माध्यम से आर्थिक लाभ संभव है।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं हैं।"
+      }
     },
     "aliases": [
       "Venus sextile Neptune",

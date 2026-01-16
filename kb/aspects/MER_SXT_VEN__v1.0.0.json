@@ -10,52 +10,126 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Mercury and Venus opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Negotiation, analytics, documentation, skilling.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-    "relationships": "Dialog, problem-solving, curiosity.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-    "money": "Trading, freelancing, multi-stream income, contracts.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-    "health_adj": "Nervous system, breath, routine mobility.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "This aspect brings sweetness in communication, romantic and artistic expression, fostering understanding and love in relationships, and enhancing harmony and cooperation.",
+    "hi": "यह योग भाषा में मिठास, प्यार भरी बातचीत और कलात्मक अभिव्यक्ति लाता है, जिससे रिश्तों में समझ और प्रेम बढ़ता है तथा मधुरता और सहयोग बढ़ता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Favorable for business, branding, promotion, and design activities.",
+      "hi": "व्यापार, प्रचार, ब्रांडिंग और डिजाइन के कार्यों के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Enhances understanding, love, harmony, and romantic conversations.",
+      "hi": "समझ, प्रेम, मधुरता और प्यार भरी बातचीत को बढ़ावा देता है।"
+    },
+    "money": {
+      "en": "Good period for promotional and branding efforts that may support financial growth.",
+      "hi": "प्रचार और ब्रांडिंग के प्रयासों के लिए अच्छा समय जो आर्थिक वृद्धि में सहायक हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Romantic conversations",
+      "Artistic expression",
+      "Business promotion",
+      "Branding and design"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Venus: design, harmonize, price; tone: opportunity/skill)."
+    "hi": [
+      "प्यार भरी बातचीत",
+      "कलात्मक अभिव्यक्ति",
+      "व्यापार प्रचार",
+      "ब्रांडिंग और डिजाइन"
     ]
   },
-  "keywords": [
-    "affection",
-    "analysis",
-    "art",
-    "commerce",
-    "communication",
-    "harmony",
-    "learning",
-    "opportunity",
-    "pleasure",
-    "sextile",
-    "skill",
-    "tech",
-    "values"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic",
-    "external-opportunity"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in sweet and harmonious communication",
+        "Initiate romantic or artistic conversations",
+        "Plan business promotion and branding activities"
+      ],
+      "hi": [
+        "मधुर और सामंजस्यपूर्ण संवाद करें",
+        "प्यार भरी या कलात्मक बातचीत शुरू करें",
+        "व्यापार प्रचार और ब्रांडिंग की योजना बनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on deepening understanding and love in relationships",
+        "Express creativity and artistic talents",
+        "Enhance cooperation in professional and personal areas"
+      ],
+      "hi": [
+        "रिश्तों में समझ और प्रेम को गहरा करें",
+        "रचनात्मकता और कलात्मक प्रतिभा व्यक्त करें",
+        "व्यावसायिक और व्यक्तिगत क्षेत्रों में सहयोग बढ़ाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain harmony in communication",
+        "Continue supportive business and relationship efforts"
+      ],
+      "hi": [
+        "संवाद में मधुरता बनाए रखें",
+        "व्यापार और रिश्तों में सहायक प्रयास जारी रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "sweetness",
+      "romantic conversations",
+      "artistic expression",
+      "understanding",
+      "love",
+      "business",
+      "branding",
+      "promotion",
+      "design",
+      "harmony",
+      "cooperation"
+    ],
+    "hi": [
+      "मिठास",
+      "प्यार भरी बातचीत",
+      "कलात्मक अभिव्यक्ति",
+      "समझ",
+      "प्रेम",
+      "व्यापार",
+      "ब्रांडिंग",
+      "प्रचार",
+      "डिजाइन",
+      "मधुरता",
+      "सहयोग"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "harmonious",
+      "creative",
+      "romantic",
+      "supportive",
+      "expressive"
+    ],
+    "hi": [
+      "सामंजस्यपूर्ण",
+      "रचनात्मक",
+      "रोमांटिक",
+      "सहायक",
+      "अभिव्यक्तिपूर्ण"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -109,36 +183,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "Relationship Tone",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "communication",
+      "relationships",
+      "art",
+      "business growth",
+      "cooperation"
+    ],
+    "hi": [
+      "संवाद",
+      "रिश्ते",
+      "कला",
+      "व्यापार वृद्धि",
+      "सहयोग"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Mercury Sextile Venus",
-      "core": "Sextile between Mercury and Venus opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "mer-sxt-ven",
+      "core": "Sweetness in speech and artistic expression enhances relationships and business harmony.",
+      "tone": "Warm, positive, and cooperative"
     },
     "hi": {
-      "title": "Mercury Sextile Venus (हिन्दी)",
-      "core": "Mercury और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बुध षट्कोण शुक्र",
+      "core": "भाषा में मिठास और कलात्मक अभिव्यक्ति रिश्तों और व्यापार में सामंजस्य बढ़ाती है।",
+      "tone": "स्नेहपूर्ण, सकारात्मक और सहयोगी"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Mercury and Venus opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Negotiation, analytics, documentation, skilling.  Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-      "relationships": "Dialog, problem-solving, curiosity.  Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-      "money": "Trading, freelancing, multi-stream income, contracts.  Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-      "health_adj": "Nervous system, breath, routine mobility.  Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+      "core": {
+        "en": "This aspect brings sweetness in communication, romantic and artistic expression, fostering understanding and love in relationships, and enhancing harmony and cooperation.",
+        "hi": "यह योग भाषा में मिठास, प्यार भरी बातचीत और कलात्मक अभिव्यक्ति लाता है, जिससे रिश्तों में समझ और प्रेम बढ़ता है तथा मधुरता और सहयोग बढ़ता है।"
+      },
+      "career": {
+        "en": "Favorable for business, branding, promotion, and design activities.",
+        "hi": "व्यापार, प्रचार, ब्रांडिंग और डिजाइन के कार्यों के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Enhances understanding, love, harmony, and romantic conversations.",
+        "hi": "समझ, प्रेम, मधुरता और प्यार भरी बातचीत को बढ़ावा देता है।"
+      },
+      "money": {
+        "en": "Good period for promotional and branding efforts that may support financial growth.",
+        "hi": "प्रचार और ब्रांडिंग के प्रयासों के लिए अच्छा समय जो आर्थिक वृद्धि में सहायक हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+      }
     },
     "aliases": [
       "Mercury sextile Venus",

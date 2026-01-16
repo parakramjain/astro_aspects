@@ -10,51 +10,134 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Mercury and Mars opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Negotiation, analytics, documentation, skilling.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-    "relationships": "Dialog, problem-solving, curiosity.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-    "money": "Trading, freelancing, multi-stream income, contracts.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-    "health_adj": "Nervous system, breath, routine mobility.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "A period marked by energetic, structured, and creative thinking, ideal for clear communication and initiating new plans.",
+    "hi": "यह समय ऊर्जावान, योजनाबद्ध और रचनात्मक विचारों का होता है, जो स्पष्ट संवाद और नई योजनाओं की शुरुआत के लिए उपयुक्त है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Impulsive actions or accidents; channel energy into training."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Mars: execute, train, assert; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Favorable for technical tasks, business activities, contracts, and investments.",
+      "hi": "तकनीकी कार्यों, व्यापार, अनुबंधों और निवेश के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Good for debates, discussions, and expressing ideas clearly.",
+      "hi": "बहस, बातचीत और विचारों को स्पष्ट रूप से व्यक्त करने के लिए अच्छा।"
+    },
+    "money": {
+      "en": "Suitable time for business dealings, contracts, and investments.",
+      "hi": "व्यापार, अनुबंध और निवेश के लिए उपयुक्त समय।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Debates",
+      "Discussions",
+      "Short trips",
+      "Business deals",
+      "Contract signing",
+      "Investment planning"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Mars: execute, train, assert; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Mars: execute, train, assert; tone: opportunity/skill)."
+    "hi": [
+      "बहस",
+      "बातचीत",
+      "छोटी यात्राएं",
+      "व्यापारिक सौदे",
+      "अनुबंध पर हस्ताक्षर",
+      "निवेश योजना"
     ]
   },
-  "keywords": [
-    "analysis",
-    "assertion",
-    "commerce",
-    "communication",
-    "conflict",
-    "drive",
-    "learning",
-    "mechanics",
-    "opportunity",
-    "sextile",
-    "skill",
-    "surgery",
-    "tech"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in debates and discussions",
+        "Plan and initiate new projects",
+        "Focus on clear communication"
+      ],
+      "hi": [
+        "बहस और बातचीत में भाग लें",
+        "नई परियोजनाओं की योजना बनाएं और शुरू करें",
+        "स्पष्ट संवाद पर ध्यान दें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Execute technical tasks",
+        "Sign contracts and finalize deals",
+        "Express ideas clearly"
+      ],
+      "hi": [
+        "तकनीकी कार्य करें",
+        "अनुबंधों पर हस्ताक्षर करें और सौदे पक्के करें",
+        "विचारों को स्पष्ट रूप से व्यक्त करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review plans formed",
+        "Complete ongoing discussions",
+        "Conclude short trips"
+      ],
+      "hi": [
+        "बनी हुई योजनाओं की समीक्षा करें",
+        "चालू बातचीत समाप्त करें",
+        "छोटी यात्राएं पूरी करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "energetic",
+      "structured",
+      "creative",
+      "debates",
+      "discussions",
+      "short trips",
+      "technical tasks",
+      "business",
+      "contracts",
+      "investments",
+      "clear communication",
+      "new plans"
+    ],
+    "hi": [
+      "ऊर्जावान",
+      "योजनाबद्ध",
+      "रचनात्मक",
+      "बहस",
+      "बातचीत",
+      "छोटी यात्राएं",
+      "तकनीकी कार्य",
+      "व्यापार",
+      "अनुबंध",
+      "निवेश",
+      "स्पष्ट संवाद",
+      "नई योजनाएं"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "energetic",
+      "structured",
+      "creative",
+      "clear",
+      "productive"
+    ],
+    "hi": [
+      "ऊर्जावान",
+      "योजनाबद्ध",
+      "रचनात्मक",
+      "स्पष्ट",
+      "उत्पादक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -108,36 +191,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "communication",
+      "planning",
+      "business",
+      "technical skills",
+      "travel"
+    ],
+    "hi": [
+      "संचार",
+      "योजना बनाना",
+      "व्यापार",
+      "तकनीकी कौशल",
+      "यात्रा"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Mercury Sextile Mars",
-      "core": "Sextile between Mercury and Mars opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "mer-sxt-mar",
+      "core": "A time for energetic and creative thinking, ideal for clear communication and new initiatives.",
+      "tone": "Warm, encouraging, and constructive"
     },
     "hi": {
-      "title": "Mercury Sextile Mars (हिन्दी)",
-      "core": "Mercury और Mars का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बुध षष्ठ योग मंगल",
+      "core": "ऊर्जावान और रचनात्मक विचारों का समय, स्पष्ट संवाद और नई पहल के लिए उपयुक्त।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और रचनात्मक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Mercury and Mars opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Negotiation, analytics, documentation, skilling.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-      "relationships": "Dialog, problem-solving, curiosity.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-      "money": "Trading, freelancing, multi-stream income, contracts.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-      "health_adj": "Nervous system, breath, routine mobility.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+      "core": {
+        "en": "This is a time of energetic, structured, and creative thoughts. Suitable for debates, discussions, short trips, and technical tasks. New plans form, and the person expresses ideas clearly.",
+        "hi": "यह समय रचनात्मकए ऊर्जावान और योजनाबद्ध विचारों का होता है। बहसए बातचीतए छोटी यात्राओं और तकनीकी कार्यों के लिए अच्छा समय है। नई योजनाएं बनती हैं और व्यक्ति अपनी बातों को स्पष्ट रूप से रखता है।"
+      },
+      "career": {
+        "en": "Suitable for technical tasks, business, contracts, and investments.",
+        "hi": "तकनीकी कार्यों, व्यापार, अनुबंधों और निवेश के लिए अच्छा समय है।"
+      },
+      "relationships": {
+        "en": "Good for debates, discussions, and clear expression of ideas.",
+        "hi": "बहसए बातचीत और विचारों को स्पष्ट रूप से व्यक्त करने के लिए अच्छा समय है।"
+      },
+      "money": {
+        "en": "Good time for business, contracts, and investments.",
+        "hi": "व्यापारए निवेशए और अनुबंध से जुड़ी गतिविधियों के लिए यह समय उपयुक्त है।"
+      },
+      "health_adj": {
+        "en": "No specific health advice indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं दिया गया है।"
+      }
     },
     "aliases": [
       "Mercury sextile Mars",

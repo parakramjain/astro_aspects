@@ -10,40 +10,118 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Pluto and Neptune opens opportunity/skill. Pluto: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Influence emerges via opportunity/skill.",
-    "relationships": "Influence emerges via opportunity/skill.",
-    "money": "Influence emerges via opportunity/skill.",
-    "health_adj": "Influence emerges via opportunity/skill."
+  "core_meaning": {
+    "en": "Sudden reactivation of mental faculties inspiring scientific and esoteric studies, encouraging release of old patterns and creative exchanges.",
+    "hi": "अचानक मस्तिष्क की सक्रियता, जो विज्ञान और गूढ़ ज्ञान के अध्ययन के लिए प्रेरणा देती है, पुरानी आदतों को छोड़ने और रचनात्मक आदान-प्रदान को प्रोत्साहित करती है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Favorable for scientific, artistic, and technical fields using modern techniques to gain benefits.",
+      "hi": "विज्ञान, कला और तकनीकी क्षेत्रों में आधुनिक तकनीकों के उपयोग से लाभ प्राप्ति के लिए अनुकूल।"
+    },
+    "relationships": {
+      "en": "Creative exchanges and inspiration with friends and associates enhance collaboration.",
+      "hi": "मित्रों और सहयोगियों के साथ कल्पनाशील आदान-प्रदान और प्रेरणा सहयोग को बढ़ावा देती है।"
+    },
+    "money": {
+      "en": "Opportunities arise through innovative and modern approaches in professional work.",
+      "hi": "पेशेवर कार्य में नवाचारी और आधुनिक दृष्टिकोणों से अवसर प्राप्त होते हैं।"
+    },
+    "health_adj": {
+      "en": "Mental faculties are reactivated; intuition and self-awareness are heightened.",
+      "hi": "मस्तिष्क सक्रिय होता है; अंतर्ज्ञान और आत्मबोध की स्थिति बढ़ती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Scientific or esoteric study",
+      "Creative collaboration",
+      "Mental inspiration"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "विज्ञान या गूढ़ ज्ञान का अध्ययन",
+      "रचनात्मक सहयोग",
+      "मानसिक प्रेरणा"
     ]
   },
-  "keywords": [
-    "opportunity",
-    "sextile",
-    "skill"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "Sudden mental shifts may cause distraction if not focused.",
+      "Releasing old patterns might feel unsettling."
+    ],
+    "hi": [
+      "अचानक मानसिक बदलाव ध्यान भटकाने वाले हो सकते हैं।",
+      "पुरानी आदतें छोड़ना अस्थिरता का अनुभव करा सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in scientific or esoteric studies.",
+        "Use modern techniques in work.",
+        "Collaborate creatively with peers."
+      ],
+      "hi": [
+        "विज्ञान या गूढ़ ज्ञान के अध्ययन में संलग्न हों।",
+        "अपने कार्य में आधुनिक तकनीकों का उपयोग करें।",
+        "सहकर्मियों के साथ रचनात्मक सहयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on releasing old mental or behavioral patterns.",
+        "Seek inspiration for creative exchanges."
+      ],
+      "hi": [
+        "पुरानी मानसिक या व्यवहारिक आदतों को छोड़ने पर ध्यान दें।",
+        "रचनात्मक आदान-प्रदान के लिए प्रेरणा प्राप्त करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain clarity as mental inspiration stabilizes.",
+        "Continue applying modern methods effectively."
+      ],
+      "hi": [
+        "मानसिक प्रेरणा स्थिर होने पर स्पष्टता बनाए रखें।",
+        "आधुनिक तरीकों को प्रभावी रूप से लागू करना जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "mental reactivation",
+      "scientific study",
+      "esoteric knowledge",
+      "modern techniques",
+      "inspiration",
+      "creative exchange",
+      "release old patterns"
+    ],
+    "hi": [
+      "मस्तिष्क सक्रियता",
+      "विज्ञान अध्ययन",
+      "गूढ़ ज्ञान",
+      "आधुनिक तकनीकें",
+      "प्रेरणा",
+      "रचनात्मक आदान-प्रदान",
+      "पुरानी आदतों का त्याग"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intellectual",
+      "innovative",
+      "collaborative",
+      "inspirational"
+    ],
+    "hi": [
+      "बौद्धिक",
+      "नवोन्मेषी",
+      "सहयोगी",
+      "प्रेरणादायक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -97,36 +175,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "mental awakening",
+      "scientific and esoteric growth",
+      "creative collaboration",
+      "letting go"
+    ],
+    "hi": [
+      "मानसिक जागरूकता",
+      "विज्ञान और गूढ़ ज्ञान की वृद्धि",
+      "रचनात्मक सहयोग",
+      "छोड़ना"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Pluto Sextile Neptune",
-      "core": "Sextile between Pluto and Neptune opens opportunity/skill. Pluto: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "plu-sxt-nep",
+      "core": "Sudden mental activation inspires scientific and esoteric pursuits, encouraging creative exchanges and release of old patterns.",
+      "tone": "Warm, neutral, encouraging exploration and inspiration."
     },
     "hi": {
-      "title": "Pluto Sextile Neptune (हिन्दी)",
-      "core": "Pluto और Neptune का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "प्लूटो सेक्सटाइल नेपच्यून",
+      "core": "अचानक मस्तिष्क सक्रियता विज्ञान और गूढ़ ज्ञान के अध्ययन को प्रेरित करती है, रचनात्मक आदान-प्रदान और पुरानी आदतों को छोड़ने को प्रोत्साहित करती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, खोज और प्रेरणा को प्रोत्साहित करने वाला।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Pluto and Neptune opens opportunity/skill. Pluto: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Influence emerges via opportunity/skill.",
-      "relationships": "Influence emerges via opportunity/skill.",
-      "money": "Influence emerges via opportunity/skill.",
-      "health_adj": "Influence emerges via opportunity/skill."
+      "core": {
+        "en": "Reactivates mental faculties suddenly, excellent for scientific and esoteric studies, inspiring release of old patterns and creative exchanges.",
+        "hi": "अचानक मस्तिष्क को पुनः सक्रिय करता है, विज्ञान और गूढ़ ज्ञान के अध्ययन के लिए उत्कृष्ट, पुरानी आदतों को छोड़ने और रचनात्मक आदान-प्रदान के लिए प्रेरित करता है।"
+      },
+      "career": {
+        "en": "Favorable for scientific, artistic, and technical fields using modern techniques to gain benefits.",
+        "hi": "विज्ञान, कला और तकनीकी क्षेत्रों में आधुनिक तकनीकों के उपयोग से लाभ प्राप्ति के लिए अनुकूल।"
+      },
+      "relationships": {
+        "en": "Creative exchanges and inspiration with friends and associates enhance collaboration.",
+        "hi": "मित्रों और सहयोगियों के साथ कल्पनाओं का आदान-प्रदान सहयोग को बढ़ाता है।"
+      },
+      "money": {
+        "en": "Opportunities arise through innovative and modern approaches in professional work.",
+        "hi": "पेशेवर कार्य में नवाचारी और आधुनिक दृष्टिकोणों से अवसर प्राप्त होते हैं।"
+      },
+      "health_adj": {
+        "en": "Mental faculties are reactivated; intuition and self-awareness are heightened.",
+        "hi": "मस्तिष्क सक्रिय होता है; अंतर्ज्ञान और आत्मबोध की स्थिति रहती है।"
+      }
     },
     "aliases": [
       "Pluto sextile Neptune",

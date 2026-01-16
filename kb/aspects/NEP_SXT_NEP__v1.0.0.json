@@ -10,40 +10,118 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Neptune and Neptune opens opportunity/skill. Neptune: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Influence emerges via opportunity/skill.",
-    "relationships": "Influence emerges via opportunity/skill.",
-    "money": "Influence emerges via opportunity/skill.",
-    "health_adj": "Influence emerges via opportunity/skill."
+  "core_meaning": {
+    "en": "Development of psychic abilities, sudden inspirations, emotional bonding, flourishing creative imagination, growing interest in arts and music, favorable for academic and medical institutions.",
+    "hi": "अंतर्दृष्टि और अंतर्ज्ञान का विकास, अचानक प्रेरणा, भावनात्मक संबंधों का निर्माण, रचनात्मक कल्पना में वृद्धि, कला और संगीत में रुचि बढ़ना, शैक्षणिक और मेडिकल संस्थानों के लिए अनुकूल समय।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Favorable period for academic, medical, and creative professions; enhanced imagination benefits artistic and entertainment fields.",
+      "hi": "शैक्षणिक, मेडिकल और रचनात्मक क्षेत्रों के लिए अनुकूल समय; कल्पनाशीलता कला और मनोरंजन क्षेत्रों में लाभकारी।"
+    },
+    "relationships": {
+      "en": "Formation of emotional bonds and deeper intuitive connections with others.",
+      "hi": "भावनात्मक संबंधों का विकास और दूसरों के साथ गहरे अंतर्ज्ञान संबंध।"
+    },
+    "money": {
+      "en": "Supportive environment for financial dealings related to academic, medical, or artistic institutions.",
+      "hi": "शैक्षणिक, मेडिकल या कला संस्थानों से जुड़े वित्तीय व्यवहार के लिए अनुकूल माहौल।"
+    },
+    "health_adj": {
+      "en": "Positive influence on mental and emotional well-being; beneficial for medical institutions.",
+      "hi": "मानसिक और भावनात्मक स्वास्थ्य पर सकारात्मक प्रभाव; मेडिकल संस्थानों के लिए लाभकारी।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative inspiration",
+      "Emotional bonding",
+      "Academic or medical opportunities"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Neptune: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "रचनात्मक प्रेरणा",
+      "भावनात्मक संबंध",
+      "शैक्षणिक या मेडिकल अवसर"
     ]
   },
-  "keywords": [
-    "opportunity",
-    "sextile",
-    "skill"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative and artistic activities",
+        "Explore new inspirations and intuitive insights",
+        "Build emotional connections"
+      ],
+      "hi": [
+        "रचनात्मक और कलात्मक गतिविधियों में संलग्न हों",
+        "नई प्रेरणाओं और अंतर्ज्ञान की खोज करें",
+        "भावनात्मक संबंध बनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on developing psychic and intuitive skills",
+        "Pursue academic or medical interests",
+        "Strengthen emotional bonds"
+      ],
+      "hi": [
+        "अंतर्दृष्टि और अंतर्ज्ञान कौशल विकसित करें",
+        "शैक्षणिक या मेडिकल रुचियों को आगे बढ़ाएं",
+        "भावनात्मक संबंध मजबूत करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain creative momentum",
+        "Continue nurturing emotional ties",
+        "Sustain interest in arts and academics"
+      ],
+      "hi": [
+        "रचनात्मक गति बनाए रखें",
+        "भावनात्मक संबंधों को पोषित करते रहें",
+        "कला और शैक्षणिक रुचि बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "psychic abilities",
+      "inspiration",
+      "emotional bonds",
+      "creative imagination",
+      "arts",
+      "music",
+      "academic",
+      "medical"
+    ],
+    "hi": [
+      "अंतर्दृष्टि",
+      "प्रेरणा",
+      "भावनात्मक संबंध",
+      "रचनात्मक कल्पना",
+      "कला",
+      "संगीत",
+      "शैक्षणिक",
+      "मेडिकल"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "intuitive",
+      "inspirational",
+      "supportive"
+    ],
+    "hi": [
+      "रचनात्मक",
+      "अंतर्ज्ञानी",
+      "प्रेरणादायक",
+      "सहायक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -96,36 +174,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "intuition",
+      "emotional connection",
+      "academic and medical focus"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "अंतर्ज्ञान",
+      "भावनात्मक संबंध",
+      "शैक्षणिक और मेडिकल ध्यान"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Neptune Sextile Neptune",
-      "core": "Sextile between Neptune and Neptune opens opportunity/skill. Neptune: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "nep-sxt-nep",
+      "core": "This aspect encourages the growth of psychic abilities, sudden inspirations, emotional bonding, and flourishing creativity, especially in arts, music, and academic or medical fields.",
+      "tone": "Warm, encouraging, and supportive"
     },
     "hi": {
-      "title": "Neptune Sextile Neptune (हिन्दी)",
-      "core": "Neptune और Neptune का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "नेपच्यून सेकस्टाइल नेपच्यून",
+      "core": "यह योग अंतर्दृष्टि, अचानक प्रेरणा, भावनात्मक संबंध और कला, संगीत तथा शैक्षणिक या मेडिकल क्षेत्रों में रचनात्मकता के विकास को प्रोत्साहित करता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और सहायक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Neptune and Neptune opens opportunity/skill. Neptune: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Influence emerges via opportunity/skill.",
-      "relationships": "Influence emerges via opportunity/skill.",
-      "money": "Influence emerges via opportunity/skill.",
-      "health_adj": "Influence emerges via opportunity/skill."
+      "core": {
+        "en": "Psychic abilities develop. Sudden inspirations occur. Emotional bonds form. Creative imagination flourishes. Interest in arts/music grows. Favorable for academic/medical institutions.",
+        "hi": "अंतर्दृष्टि/अंतर्ज्ञान का विकास होता है। अचानक से प्रेरणा प्राप्त होती है। किसी के साथ भावनात्मक संबंधों का विकास होता है। रचनात्मक कल्पनाओं में सक्रियता बढ़ती है। कला/संगीत/मनोरंजन के प्रति रुचि बढ़ती है। शैक्षणिक/धार्मिक/मेडिकल संस्थानों से व्यवहार के लिए उपयुक्त समय।"
+      },
+      "career": {
+        "en": "Favorable for academic and medical institutions; creative imagination flourishes; interest in arts and music grows.",
+        "hi": "शैक्षणिक, धार्मिक और मेडिकल संस्थानों के लिए उपयुक्त समय; रचनात्मक कल्पना में वृद्धि; कला और संगीत में रुचि बढ़ना।"
+      },
+      "relationships": {
+        "en": "Emotional bonds form and deepen during this aspect.",
+        "hi": "भावनात्मक संबंधों का विकास और गहराई इस योग के दौरान होती है।"
+      },
+      "money": {
+        "en": "Supportive for dealings related to academic, medical, or artistic fields.",
+        "hi": "शैक्षणिक, मेडिकल या कला क्षेत्रों से जुड़े वित्तीय व्यवहार के लिए सहायक।"
+      },
+      "health_adj": {
+        "en": "Beneficial for mental and emotional health; favorable for medical institutions.",
+        "hi": "मानसिक और भावनात्मक स्वास्थ्य के लिए लाभकारी; मेडिकल संस्थानों के लिए उपयुक्त।"
+      }
     },
     "aliases": [
       "Neptune sextile Neptune",

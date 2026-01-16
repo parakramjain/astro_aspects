@@ -11,91 +11,96 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "Good planning leads to establishing political or professional positions, with new connections and reputation opportunities. Serious events may involve close relations, and important financial investments arise.",
-    "hi": "अच्छी कार्ययोजना से राजनीतिक या पेशेवर स्थिति स्थापित होती है, नए संबंध और प्रतिष्ठा के अवसर मिलते हैं। करीबी संबंधों के साथ गंभीर घटनाएं होती हैं और महत्वपूर्ण आर्थिक निवेश के अवसर आते हैं।"
+    "en": "Good planning leads to establishing political and professional positions, new connections, and opportunities for reputation and serious events with close relations.",
+    "hi": "अच्छी कार्ययोजना से राजनीतिक और पेशेवर स्थिति स्थापित होती है, नए संबंध बनते हैं और प्रतिष्ठा तथा करीबी संबंधों में गंभीर घटनाएँ होती हैं।"
   },
   "facets": {
     "career": {
-      "en": "Establishes positions through planning; new professional connections and agreements possible.",
-      "hi": "योजना द्वारा स्थिति स्थापित करता है; नए पेशेवर संबंध और संधि के अवसर रहते हैं।"
+      "en": "Establishes professional positions through planning; new professional connections and agreements possible.",
+      "hi": "योजना के माध्यम से पेशेवर स्थिति स्थापित होती है; नए पेशेवर संबंध और संधि संभव हैं।"
     },
     "relationships": {
       "en": "Romantic or work partnerships may form; serious events with siblings, friends, or colleagues.",
-      "hi": "यौनिक या पेशेवर संबंध बन सकते हैं; भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर घटनाएं होती हैं।"
+      "hi": "यौनिक या पेशेवर संबंध बन सकते हैं; भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर घटनाएँ होती हैं।"
     },
     "money": {
       "en": "Important financial investment opportunities arise.",
-      "hi": "महत्वपूर्ण आर्थिक निवेश के अवसर रहते हैं।"
+      "hi": "महत्वपूर्ण आर्थिक निवेश के अवसर उत्पन्न होते हैं।"
     },
     "health_adj": {
       "en": "No specific health adjustments indicated.",
-      "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं हैं।"
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन संकेतित नहीं हैं।"
     }
   },
   "life_event_type": {
     "en": [
-      "Political or professional position establishment",
-      "New professional connections and agreements",
-      "Reputation and fame opportunities",
+      "Political/professional position establishment",
+      "New professional connections",
+      "Reputation/fame opportunities",
       "Romantic or work partnerships",
-      "Serious events with siblings, friends, or colleagues",
-      "Important financial investments"
+      "Serious events with siblings/friends/colleagues",
+      "Financial investment opportunities"
     ],
     "hi": [
-      "राजनीतिक या पेशेवर स्थिति की स्थापना",
-      "नए पेशेवर संबंध और संधि",
-      "प्रतिष्ठा और प्रसिद्धि के अवसर",
-      "यौनिक या पेशेवर भागीदारी",
-      "भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर घटनाएं",
-      "महत्वपूर्ण आर्थिक निवेश"
+      "राजनीतिक/पेशेवर स्थिति की स्थापना",
+      "नए पेशेवर संबंध",
+      "प्रतिष्ठा/प्रसिद्धि के अवसर",
+      "यौनिक या पेशेवर संबंध",
+      "भाई-बहन/मित्र/सहकर्मी के साथ गंभीर घटनाएँ",
+      "आर्थिक निवेश के अवसर"
     ]
   },
   "risk_notes": {
     "en": [
-      "Serious events with close relations may require attention."
+      "Serious events with close relations may require careful handling."
     ],
     "hi": [
-      "करीबी संबंधों के साथ गंभीर घटनाओं पर ध्यान देना आवश्यक हो सकता है।"
+      "करीबी संबंधों में गंभीर घटनाओं को सावधानी से संभालना आवश्यक हो सकता है।"
     ]
   },
   "actionables": {
     "applying": {
       "en": [
-        "Plan carefully to establish professional or political positions.",
-        "Explore new professional connections and agreements.",
-        "Consider opportunities for reputation growth."
+        "Plan carefully to establish professional and political positions.",
+        "Seek new professional connections and agreements.",
+        "Explore opportunities for reputation and partnerships."
       ],
       "hi": [
-        "पेशेवर या राजनीतिक स्थिति स्थापित करने के लिए सावधानीपूर्वक योजना बनाएं।",
-        "नए पेशेवर संबंध और संधि के अवसर तलाशें।",
-        "प्रतिष्ठा बढ़ाने के अवसरों पर विचार करें।"
+        "पेशेवर और राजनीतिक स्थिति स्थापित करने के लिए सावधानीपूर्वक योजना बनाएं।",
+        "नए पेशेवर संबंध और संधि खोजें।",
+        "प्रतिष्ठा और भागीदारी के अवसर तलाशें।"
       ]
     },
     "exact": {
       "en": [
-        "Engage in serious discussions with siblings, friends, or colleagues.",
-        "Evaluate important financial investment opportunities."
+        "Engage in important professional or political agreements.",
+        "Focus on serious interactions with siblings, friends, or colleagues.",
+        "Consider financial investments carefully."
       ],
       "hi": [
-        "भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर चर्चा करें।",
-        "महत्वपूर्ण आर्थिक निवेश के अवसरों का मूल्यांकन करें।"
+        "महत्वपूर्ण पेशेवर या राजनीतिक संधियों में संलग्न हों।",
+        "भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर बातचीत पर ध्यान दें।",
+        "आर्थिक निवेशों पर सावधानीपूर्वक विचार करें।"
       ]
     },
     "separating": {
       "en": [
-        "Maintain established connections and agreements.",
-        "Monitor ongoing financial investments carefully."
+        "Review and consolidate professional connections made.",
+        "Reflect on recent serious events with close relations.",
+        "Assess ongoing financial commitments."
       ],
       "hi": [
-        "स्थापित संबंधों और संधियों को बनाए रखें।",
-        "चालू आर्थिक निवेशों पर सावधानीपूर्वक नजर रखें।"
+        "बने हुए पेशेवर संबंधों की समीक्षा और समेकन करें।",
+        "हाल की गंभीर घटनाओं पर विचार करें।",
+        "चल रहे आर्थिक प्रतिबद्धताओं का मूल्यांकन करें।"
       ]
     }
   },
   "keywords": {
     "en": [
       "planning",
-      "professional connections",
+      "professional positions",
+      "connections",
       "agreements",
       "reputation",
       "fame",
@@ -109,13 +114,14 @@
     ],
     "hi": [
       "कार्ययोजना",
-      "पेशेवर संबंध",
+      "पेशेवर स्थिति",
+      "संबंध",
       "संधि",
       "प्रतिष्ठा",
       "प्रसिद्धि",
       "यौनिक अवसर",
       "कार्य भागीदारी",
-      "गंभीर घटनाएं",
+      "गंभीर घटनाएँ",
       "भाई-बहन",
       "मित्र",
       "सहकर्मी",
@@ -195,53 +201,53 @@
       "professional growth",
       "relationship development",
       "financial opportunity",
-      "serious life events"
+      "serious interpersonal events"
     ],
     "hi": [
       "पेशेवर विकास",
       "संबंध विकास",
       "आर्थिक अवसर",
-      "गंभीर जीवन घटनाएं"
+      "गंभीर पारस्परिक घटनाएँ"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
       "title": "sat-sxt-sat",
-      "core": "Good planning supports establishing positions and connections, with opportunities in reputation and financial investments.",
-      "tone": "Warm, professional, and cautiously optimistic"
+      "core": "Good planning helps establish positions and connections, bringing opportunities in career, relationships, and finances.",
+      "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
       "title": "शनि षट्कोण शनि",
-      "core": "अच्छी योजना से स्थिति और संबंध स्थापित होते हैं, प्रतिष्ठा और आर्थिक निवेश के अवसर मिलते हैं।",
-      "tone": "सहानुभूतिपूर्ण, पेशेवर और सावधानीपूर्वक आशावादी"
+      "core": "अच्छी योजना से स्थिति और संबंध स्थापित होते हैं, जो करियर, संबंध और वित्त में अवसर लाते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "Establishes political/professional positions through good planning with opportunities for reputation and financial investments.",
-        "hi": "अच्छी योजना द्वारा राजनीतिक/पेशेवर स्थिति स्थापित करता है, प्रतिष्ठा और आर्थिक निवेश के अवसर मिलते हैं।"
+        "en": "Establishes political/professional positions through good planning with new connections and serious events involving close relations.",
+        "hi": "अच्छी योजना से राजनीतिक/पेशेवर स्थिति स्थापित करता है, नए संबंध बनते हैं और करीबी संबंधों में गंभीर घटनाएँ होती हैं।"
       },
       "career": {
-        "en": "New professional connections and agreements possible through careful planning.",
-        "hi": "सावधानीपूर्वक योजना से नए पेशेवर संबंध और संधि संभव हैं।"
+        "en": "Good planning leads to new professional connections and agreements, establishing positions.",
+        "hi": "अच्छी योजना से नए पेशेवर संबंध और संधि बनती है, स्थिति स्थापित होती है।"
       },
       "relationships": {
-        "en": "Romantic or work partnerships may form; serious events occur with siblings, friends, or colleagues.",
-        "hi": "यौनिक या पेशेवर भागीदारी बन सकती है; भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर घटनाएं होती हैं।"
+        "en": "Romantic or work partnerships may form; serious events with siblings, friends, or colleagues occur.",
+        "hi": "यौनिक या पेशेवर संबंध बन सकते हैं; भाई-बहन, मित्र या सहकर्मियों के साथ गंभीर घटनाएँ होती हैं।"
       },
       "money": {
         "en": "Important financial investment opportunities arise.",
-        "hi": "महत्वपूर्ण आर्थिक निवेश के अवसर आते हैं।"
+        "hi": "महत्वपूर्ण आर्थिक निवेश के अवसर उत्पन्न होते हैं।"
       },
       "health_adj": {
         "en": "No specific health adjustments indicated.",
-        "hi": "कोई विशेष स्वास्थ्य संकेत नहीं हैं।"
+        "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन संकेतित नहीं हैं।"
       }
     },
     "aliases": [

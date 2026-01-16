@@ -10,52 +10,122 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Saturn and Moon opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Authority via mastery, long-term credibility.  Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-    "relationships": "Commitment realism, boundaries, duty.  Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-    "money": "Slow steady accrual, austerity, debt realism.  Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-    "health_adj": "Bones, teeth, chronic load; routines & posture.  Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Increased seriousness and focus on family and internal affairs lead to successful economic planning and stable progress, with emotional restraint supporting serious work and new business ventures.",
+    "hi": "स्वभाव में गंभीरता और परिवार तथा आंतरिक कार्यों पर ध्यान बढ़ता है, जिससे सफल आर्थिक योजना और स्थायी उन्नति होती है, भावनात्मक संयम के साथ गंभीर कार्य और नया व्यवसाय शुरू होता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Burnout via over-responsibility; schedule recovery windows."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Engagement in serious work, plans, and study; possibility of important business conversations; initiation of new business ventures.",
+      "hi": "गंभीर कार्य, योजना और अध्ययन में लगना; व्यवसाय में महत्वपूर्ण वार्तालाप की संभावना; नया व्यवसाय आरंभ करना।"
+    },
+    "relationships": {
+      "en": "Increased attention to household and family matters with emotional restraint in interactions.",
+      "hi": "घर और परिवार के कार्यों पर अधिक ध्यान और भावनाओं पर संयम के साथ संबंध।"
+    },
+    "money": {
+      "en": "Successful economic planning leads to increased domestic and agricultural production, ending of high expenses, and permanent progress.",
+      "hi": "सफल आर्थिक योजना से घरेलू और कृषि उत्पादन में वृद्धि, ऊँचे खर्चों का समाप्त होना और स्थायी उन्नति।"
+    },
+    "health_adj": {
+      "en": "Emotional restraint supports focus and stability; no specific health issues indicated.",
+      "hi": "भावनात्मक संयम से ध्यान और स्थिरता बनी रहती है; कोई विशेष स्वास्थ्य समस्या नहीं बताई गई।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Starting new business",
+      "Achieving permanent progress",
+      "Increased domestic and agricultural production"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Saturn: structure, commit, audit; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+    "hi": [
+      "नया व्यवसाय शुरू करना",
+      "स्थायी उन्नति प्राप्त करना",
+      "घरेलू और कृषि उत्पादन में वृद्धि"
     ]
   },
-  "keywords": [
-    "care",
-    "dharma via effort",
-    "discipline",
-    "emotion",
-    "habits",
-    "home",
-    "limits",
-    "mother",
-    "opportunity",
-    "public mood",
-    "sextile",
-    "skill",
-    "structure",
-    "time"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on serious work and planning with emotional control",
+        "Pay attention to household and family responsibilities",
+        "Engage in economic planning and business conversations"
+      ],
+      "hi": [
+        "भावनात्मक संयम के साथ गंभीर कार्य और योजना पर ध्यान दें",
+        "घर और परिवार की जिम्मेदारियों पर ध्यान दें",
+        "आर्थिक योजना और व्यवसाय वार्तालाप में भाग लें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate new business ventures",
+        "Implement successful economic plans",
+        "Increase domestic and agricultural production"
+      ],
+      "hi": [
+        "नया व्यवसाय आरंभ करें",
+        "सफल आर्थिक योजनाओं को लागू करें",
+        "घरेलू और कृषि उत्पादन बढ़ाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain emotional restraint",
+        "Sustain focus on serious tasks and plans"
+      ],
+      "hi": [
+        "भावनात्मक संयम बनाए रखें",
+        "गंभीर कार्यों और योजनाओं पर ध्यान बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "seriousness",
+      "family focus",
+      "economic planning",
+      "emotional restraint",
+      "business conversations",
+      "domestic production",
+      "agricultural production",
+      "permanent progress",
+      "new business",
+      "ending high expenses"
+    ],
+    "hi": [
+      "गंभीरता",
+      "परिवार पर ध्यान",
+      "आर्थिक योजना",
+      "भावनात्मक संयम",
+      "व्यवसाय वार्तालाप",
+      "घरेलू उत्पादन",
+      "कृषि उत्पादन",
+      "स्थायी उन्नति",
+      "नया व्यवसाय",
+      "ऊँचे खर्च समाप्त"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "focused",
+      "stable",
+      "productive",
+      "restrained",
+      "progressive"
+    ],
+    "hi": [
+      "केन्द्रित",
+      "स्थिर",
+      "उत्पादक",
+      "संयमित",
+      "प्रगतिशील"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -109,36 +179,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "serious work",
+      "family and home",
+      "economic success",
+      "emotional control",
+      "new beginnings"
+    ],
+    "hi": [
+      "गंभीर कार्य",
+      "परिवार और घर",
+      "आर्थिक सफलता",
+      "भावनात्मक नियंत्रण",
+      "नई शुरुआत"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Saturn Sextile Moon",
-      "core": "Sextile between Saturn and Moon opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "sat-sxt-moo",
+      "core": "This aspect brings increased seriousness and focus on family and internal matters, enabling successful economic planning and stable progress supported by emotional restraint.",
+      "tone": "Warm, neutral, and encouraging focus on responsibility and progress."
     },
     "hi": {
-      "title": "Saturn Sextile Moon (हिन्दी)",
-      "core": "Saturn और Moon का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "शनि षष्टक चंद्र",
+      "core": "यह योग स्वभाव में गंभीरता और परिवार तथा आंतरिक मामलों पर ध्यान बढ़ाता है, जिससे सफल आर्थिक योजना और स्थिर उन्नति संभव होती है, जो भावनात्मक संयम से समर्थित होती है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, और जिम्मेदारी तथा उन्नति पर प्रोत्साहन।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Saturn and Moon opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Authority via mastery, long-term credibility.  Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-      "relationships": "Commitment realism, boundaries, duty.  Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-      "money": "Slow steady accrual, austerity, debt realism.  Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-      "health_adj": "Bones, teeth, chronic load; routines & posture.  Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Seriousness increases with focus on family and internal affairs, leading to successful economic planning and permanent progress supported by emotional restraint.",
+        "hi": "स्वभाव में गंभीरता बढ़ती है और परिवार तथा आंतरिक कार्यों पर ध्यान केंद्रित होता है, जिससे सफल आर्थिक योजना और स्थायी उन्नति होती है, जो भावनात्मक संयम से समर्थित है।"
+      },
+      "career": {
+        "en": "Engagement in serious work, study, and business plans with possibilities for important conversations and new ventures.",
+        "hi": "गंभीर कार्य, अध्ययन और व्यवसाय योजनाओं में संलग्नता, महत्वपूर्ण वार्तालाप और नए व्यवसाय की संभावनाएँ।"
+      },
+      "relationships": {
+        "en": "Attention to household and family tasks with emotional restraint in interactions.",
+        "hi": "घर और परिवार के कार्यों पर ध्यान और भावनात्मक संयम के साथ संबंध।"
+      },
+      "money": {
+        "en": "Economic plans succeed, increasing domestic and agricultural production, ending high expenses, and achieving permanent progress.",
+        "hi": "आर्थिक योजनाएँ सफल होती हैं, घरेलू और कृषि उत्पादन बढ़ता है, ऊँचे खर्च समाप्त होते हैं और स्थायी उन्नति होती है।"
+      },
+      "health_adj": {
+        "en": "Emotional restraint supports focus and stability; no specific health concerns noted.",
+        "hi": "भावनात्मक संयम से ध्यान और स्थिरता बनी रहती है; कोई विशेष स्वास्थ्य चिंता नहीं बताई गई।"
+      }
     },
     "aliases": [
       "Saturn sextile Moon",

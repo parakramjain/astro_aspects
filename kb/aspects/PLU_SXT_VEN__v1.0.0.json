@@ -10,46 +10,106 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Pluto and Venus opens opportunity/skill. Pluto: . Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-    "relationships": " Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-    "money": " Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-    "health_adj": " Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "The person gains depth in thoughts and transforms relationships, supporting growth in creative fields like arts or photography.",
+    "hi": "व्यक्ति के विचारों में गहराई आती है और संबंधों में परिवर्तन होता है, जिससे कला या फोटोग्राफी जैसे रचनात्मक क्षेत्रों में विकास होता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Supports growth in creative fields such as arts and photography.",
+      "hi": "कलात्मक क्षेत्र जैसे कला और फोटोग्राफी में सुधार करता है।"
+    },
+    "relationships": {
+      "en": "Transforms relationships by bringing a new perspective.",
+      "hi": "संबंधों में नया दृष्टिकोण लाता है।"
+    },
+    "money": {
+      "en": "No specific financial indications mentioned.",
+      "hi": "वित्तीय संकेत स्पष्ट रूप से नहीं दिए गए हैं।"
+    },
+    "health_adj": {
+      "en": "No health adjustments or concerns indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई समायोजन या चिंता नहीं बताई गई है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative growth",
+      "Relationship transformation"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Venus: design, harmonize, price; tone: opportunity/skill)."
+    "hi": [
+      "रचनात्मक विकास",
+      "संबंधों में परिवर्तन"
     ]
   },
-  "keywords": [
-    "affection",
-    "art",
-    "harmony",
-    "opportunity",
-    "pleasure",
-    "sextile",
-    "skill",
-    "values"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Explore and deepen creative pursuits like art or photography.",
+        "Reflect on thoughts to gain deeper understanding."
+      ],
+      "hi": [
+        "कला या फोटोग्राफी जैसे रचनात्मक प्रयासों को बढ़ावा दें।",
+        "विचारों में गहराई लाने के लिए चिंतन करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on transforming personal relationships with new perspectives.",
+        "Engage actively in creative projects."
+      ],
+      "hi": [
+        "नए दृष्टिकोण से व्यक्तिगत संबंधों में परिवर्तन पर ध्यान दें।",
+        "रचनात्मक परियोजनाओं में सक्रिय रूप से भाग लें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain the depth gained in thoughts and relationships.",
+        "Continue nurturing creative talents."
+      ],
+      "hi": [
+        "विचारों और संबंधों में प्राप्त गहराई को बनाए रखें।",
+        "रचनात्मक प्रतिभाओं को पोषित करना जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "depth",
+      "transformation",
+      "relationships",
+      "creative growth",
+      "arts",
+      "photography"
+    ],
+    "hi": [
+      "गहराई",
+      "परिवर्तन",
+      "संबंध",
+      "रचनात्मक विकास",
+      "कला",
+      "फोटोग्राफी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "insightful",
+      "transformative",
+      "creative",
+      "supportive"
+    ],
+    "hi": [
+      "गहन",
+      "परिवर्तनकारी",
+      "रचनात्मक",
+      "समर्थक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +163,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "Relationship Tone",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "thought depth",
+      "relationship change",
+      "artistic growth"
+    ],
+    "hi": [
+      "विचारों की गहराई",
+      "संबंधों में बदलाव",
+      "कलात्मक विकास"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Pluto Sextile Venus",
-      "core": "Sextile between Pluto and Venus opens opportunity/skill. Pluto: . Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "plu-sxt-ven",
+      "core": "Gaining depth in thoughts and transforming relationships, fostering creative growth.",
+      "tone": "Warm, insightful, and encouraging."
     },
     "hi": {
-      "title": "Pluto Sextile Venus (हिन्दी)",
-      "core": "Pluto और Venus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "प्लूटो सेकस्टाइल वीनस",
+      "core": "विचारों में गहराई और संबंधों में परिवर्तन, रचनात्मक विकास को बढ़ावा देना।",
+      "tone": "सहानुभूतिपूर्ण, गहन और प्रोत्साहक।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Pluto and Venus opens opportunity/skill. Pluto: . Venus: affection, art, harmony, pleasure, values. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Design, branding, client harmony, tasteful presentation. Emphasis: opportunity/skill.",
-      "relationships": " Attraction, diplomacy, reciprocity. Emphasis: opportunity/skill.",
-      "money": " Luxury/beauty revenues, pricing power via desirability. Emphasis: opportunity/skill.",
-      "health_adj": " Glucose balance, skin, reproductive health; moderation. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Person gains depth in thoughts and transforms relationships, supporting creative growth.",
+        "hi": "व्यक्ति के विचारों में गहराई आती है और संबंधों में परिवर्तन होता है, जो रचनात्मक विकास को समर्थन देता है।"
+      },
+      "career": {
+        "en": "Growth supported in creative fields like arts and photography.",
+        "hi": "कलात्मक क्षेत्र जैसे कला और फोटोग्राफी में विकास समर्थित।"
+      },
+      "relationships": {
+        "en": "Relationships transform with new perspectives.",
+        "hi": "संबंध नए दृष्टिकोण से बदलते हैं।"
+      },
+      "money": {
+        "en": "No specific financial details provided.",
+        "hi": "वित्तीय विवरण स्पष्ट नहीं हैं।"
+      },
+      "health_adj": {
+        "en": "No health adjustments or risks noted.",
+        "hi": "स्वास्थ्य संबंधी कोई समायोजन या जोखिम नहीं बताए गए।"
+      }
     },
     "aliases": [
       "Pluto sextile Venus",

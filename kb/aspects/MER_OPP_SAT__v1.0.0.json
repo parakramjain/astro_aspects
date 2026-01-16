@@ -10,52 +10,126 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Opposition between Mercury and Saturn faces polarity/awareness. Mercury: analysis, communication, commerce, learning, tech. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: mixed; outcome depends on maturity, timing, and context.",
-  "facets": {
-    "career": "Negotiation, analytics, documentation, skilling.  Authority via mastery, long-term credibility. Emphasis: polarity/awareness.",
-    "relationships": "Dialog, problem-solving, curiosity.  Commitment realism, boundaries, duty. Emphasis: polarity/awareness.",
-    "money": "Trading, freelancing, multi-stream income, contracts.  Slow steady accrual, austerity, debt realism. Emphasis: polarity/awareness.",
-    "health_adj": "Nervous system, breath, routine mobility.  Bones, teeth, chronic load; routines & posture. Emphasis: polarity/awareness."
+  "core_meaning": {
+    "en": "Planning is challenged by pessimism and mental stress, causing delays and disruptions in communication and difficulties in legal or governmental decisions, with possible health impacts.",
+    "hi": "नकारात्मक सोच और मानसिक दबाव योजना बनाने में बाधा डालते हैं, जिससे संचार में देरी और रुकावट होती है तथा कानूनी या सरकारी निर्णयों में कठिनाई आती है, साथ ही स्वास्थ्य पर भी प्रभाव पड़ सकता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries.",
-    "Burnout via over-responsibility; schedule recovery windows."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness)."
+  "facets": {
+    "career": {
+      "en": "Challenges in decision-making and delays in communication can affect professional progress and legal/governmental matters.",
+      "hi": "निर्णय लेने में कठिनाई और संचार में देरी पेशेवर प्रगति और कानूनी/सरकारी मामलों को प्रभावित कर सकती है।"
+    },
+    "relationships": {
+      "en": "Communication disruptions may cause misunderstandings or delays in interactions.",
+      "hi": "संचार में बाधा के कारण बातचीत में गलतफहमी या देरी हो सकती है।"
+    },
+    "money": {
+      "en": "Legal or governmental decisions related to finances may face obstacles or delays.",
+      "hi": "वित्तीय मामलों से जुड़े कानूनी या सरकारी निर्णयों में रुकावटें या देरी हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Mental pressure and pessimism may negatively affect health.",
+      "hi": "मानसिक दबाव और नकारात्मक सोच स्वास्थ्य पर नकारात्मक प्रभाव डाल सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Planning difficulties",
+      "Communication delays",
+      "Legal/governmental decision issues",
+      "Health challenges"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness).",
-      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness).",
-      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Saturn: structure, commit, audit; tone: polarity/awareness)."
+    "hi": [
+      "योजना बनाने में कठिनाई",
+      "संचार में देरी",
+      "कानूनी/सरकारी निर्णयों में समस्या",
+      "स्वास्थ्य संबंधी चुनौतियाँ"
     ]
   },
-  "keywords": [
-    "analysis",
-    "awareness",
-    "commerce",
-    "communication",
-    "dharma via effort",
-    "discipline",
-    "learning",
-    "limits",
-    "opposition",
-    "polarity",
-    "structure",
-    "tech",
-    "time"
-  ],
-  "quality_tags": [
-    "major",
-    "mixed",
-    "discipline-required"
-  ],
+  "risk_notes": {
+    "en": [
+      "Mental stress may impair clear thinking.",
+      "Communication disruptions can cause misunderstandings.",
+      "Legal or governmental decisions may be delayed or problematic.",
+      "Health may be adversely affected by stress."
+    ],
+    "hi": [
+      "मानसिक दबाव स्पष्ट सोच को प्रभावित कर सकता है।",
+      "संचार में रुकावट गलतफहमी पैदा कर सकती है।",
+      "कानूनी या सरकारी निर्णयों में देरी या समस्या हो सकती है।",
+      "तनाव से स्वास्थ्य पर नकारात्मक प्रभाव पड़ सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious with planning under stress.",
+        "Allow extra time for communication.",
+        "Review legal/governmental matters carefully."
+      ],
+      "hi": [
+        "तनाव के दौरान योजना बनाते समय सावधानी बरतें।",
+        "संचार के लिए अतिरिक्त समय दें।",
+        "कानूनी/सरकारी मामलों की सावधानीपूर्वक समीक्षा करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid important decisions if possible.",
+        "Double-check communications for clarity.",
+        "Monitor health and mental well-being closely."
+      ],
+      "hi": [
+        "संभव हो तो महत्वपूर्ण निर्णय टालें।",
+        "संचार की स्पष्टता के लिए दोबारा जांच करें।",
+        "स्वास्थ्य और मानसिक स्थिति पर ध्यान रखें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Communication and planning may gradually improve.",
+        "Legal/governmental issues may resolve slowly.",
+        "Health stress may lessen over time."
+      ],
+      "hi": [
+        "संचार और योजना धीरे-धीरे बेहतर हो सकती है।",
+        "कानूनी/सरकारी समस्याएँ धीरे-धीरे सुलझ सकती हैं।",
+        "स्वास्थ्य संबंधी तनाव समय के साथ कम हो सकता है।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "pessimism",
+      "mental pressure",
+      "planning difficulty",
+      "communication delay",
+      "legal issues",
+      "health impact"
+    ],
+    "hi": [
+      "नकारात्मक सोच",
+      "मानसिक दबाव",
+      "योजना में कठिनाई",
+      "संचार में देरी",
+      "कानूनी समस्या",
+      "स्वास्थ्य प्रभाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "stressful",
+      "delayed",
+      "disruptive"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "तनावपूर्ण",
+      "विलंबित",
+      "बाधित"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -109,36 +183,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "mental stress",
+      "communication issues",
+      "legal/governmental challenges",
+      "health caution"
+    ],
+    "hi": [
+      "मानसिक तनाव",
+      "संचार समस्या",
+      "कानूनी/सरकारी चुनौती",
+      "स्वास्थ्य सावधानी"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Mercury Opposition Saturn",
-      "core": "Opposition between Mercury and Saturn faces polarity/awareness. Mercury: analysis, communication, commerce, learning, tech. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: mixed; outcome depends on maturity, timing, and context.",
-      "tone": "warm"
+      "title": "mer-opp-sat",
+      "core": "Planning and communication face challenges due to mental stress and pessimism, affecting decisions and health.",
+      "tone": "Neutral, cautious, professional"
     },
     "hi": {
-      "title": "Mercury Opposition Saturn (हिन्दी)",
-      "core": "Mercury और Saturn का Opposition — ऊर्जा polarity/awareness के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बुध विपरीत शनि",
+      "core": "मानसिक तनाव और नकारात्मक सोच के कारण योजना और संचार में बाधाएं आती हैं, जो निर्णय और स्वास्थ्य को प्रभावित करती हैं।",
+      "tone": "तटस्थ, सावधान, पेशेवर"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Opposition between Mercury and Saturn faces polarity/awareness. Mercury: analysis, communication, commerce, learning, tech. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: mixed; outcome depends on maturity, timing, and context.",
-      "career": "Negotiation, analytics, documentation, skilling.  Authority via mastery, long-term credibility. Emphasis: polarity/awareness.",
-      "relationships": "Dialog, problem-solving, curiosity.  Commitment realism, boundaries, duty. Emphasis: polarity/awareness.",
-      "money": "Trading, freelancing, multi-stream income, contracts.  Slow steady accrual, austerity, debt realism. Emphasis: polarity/awareness.",
-      "health_adj": "Nervous system, breath, routine mobility.  Bones, teeth, chronic load; routines & posture. Emphasis: polarity/awareness."
+      "core": {
+        "en": "Planning is challenged by pessimism and mental stress, causing delays and disruptions in communication and difficulties in legal or governmental decisions, with possible health impacts.",
+        "hi": "नकारात्मक सोच और मानसिक दबाव योजना बनाने में बाधा डालते हैं, जिससे संचार में देरी और रुकावट होती है तथा कानूनी या सरकारी निर्णयों में कठिनाई आती है, साथ ही स्वास्थ्य पर भी प्रभाव पड़ सकता है।"
+      },
+      "career": {
+        "en": "Challenges in decision-making and delays in communication can affect professional progress and legal/governmental matters.",
+        "hi": "निर्णय लेने में कठिनाई और संचार में देरी पेशेवर प्रगति और कानूनी/सरकारी मामलों को प्रभावित कर सकती है।"
+      },
+      "relationships": {
+        "en": "Communication disruptions may cause misunderstandings or delays in interactions.",
+        "hi": "संचार में बाधा के कारण बातचीत में गलतफहमी या देरी हो सकती है।"
+      },
+      "money": {
+        "en": "Legal or governmental decisions related to finances may face obstacles or delays.",
+        "hi": "वित्तीय मामलों से जुड़े कानूनी या सरकारी निर्णयों में रुकावटें या देरी हो सकती है।"
+      },
+      "health_adj": {
+        "en": "Mental pressure and pessimism may negatively affect health.",
+        "hi": "मानसिक दबाव और नकारात्मक सोच स्वास्थ्य पर नकारात्मक प्रभाव डाल सकती है।"
+      }
     },
     "aliases": [
       "Mercury opposition Saturn",

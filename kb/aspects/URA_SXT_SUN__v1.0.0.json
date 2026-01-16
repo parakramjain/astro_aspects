@@ -10,46 +10,130 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Uranus and Sun opens opportunity/skill. Uranus: . Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Authority, recognition, leadership, alignment with purpose. Emphasis: opportunity/skill.",
-    "relationships": " Self-respect, healthy boundaries, paternal figures. Emphasis: opportunity/skill.",
-    "money": " Status-linked income, government/authority-linked gains. Emphasis: opportunity/skill.",
-    "health_adj": " Heart, vitality, heat regulation; consider circadian rhythm. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "This aspect supports independent enhancement of original creative expression and inspiration through self-realization. It fosters recognition of personal imagination and creativity, bringing sudden opportunities and important agreements, especially benefiting researchers, artists, and intellectual pursuits.",
+    "hi": "यह योग स्वतंत्र रूप से मूल क्रियात्मक अभिव्यक्ति को उन्नत करने और आत्मज्ञान के माध्यम से प्रेरणा प्राप्त करने में सहायक होता है। यह व्यक्तिगत कल्पना और क्रियात्मकता को मान्यता प्रदान करता है, आकस्मिक अवसर और महत्वपूर्ण संधियाँ लाता है, विशेष रूप से शोधकर्ता, कलाकार और बौद्धिक रुचि वालों के लिए लाभकारी।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Uranus: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Uranus: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Inspiration for researchers and artists increases; intellectual interests in technical, electrical, and astrological knowledge are stimulated; business and extraordinary agreements are formed; social work and new institutional connections develop.",
+      "hi": "शोधकर्ता और कलाकारों के लिए प्रेरणा बढ़ती है; तकनीकी, विद्युत और ज्योतिष ज्ञान में बौद्धिक रुचि उत्पन्न होती है; व्यवसायिक और असाधारण संधियाँ बनती हैं; सामाजिक कार्य और नई संस्थागत संबंध विकसित होते हैं।"
+    },
+    "relationships": {
+      "en": "New friendships and connections with significant institutions arise; important and extraordinary agreements take place; social work is encouraged.",
+      "hi": "नई मैत्री और महत्वपूर्ण संस्थाओं से संबंध बनते हैं; महत्वपूर्ण और असाधारण संधियाँ होती हैं; सामाजिक कार्य को प्रोत्साहन मिलता है।"
+    },
+    "money": {
+      "en": "Money invested in research yields profits; business agreements are favorable; sudden opportunities for goal achievement may bring financial benefits.",
+      "hi": "शोध कार्य में लगाया गया धन लाभदायक होता है; व्यवसायिक संधियाँ अनुकूल होती हैं; उद्देश्य प्राप्ति के आकस्मिक अवसर आर्थिक लाभ ला सकते हैं।"
+    },
+    "health_adj": {
+      "en": "This period is suitable for imparting scientific and spiritual knowledge to children, supporting intellectual and spiritual growth.",
+      "hi": "यह समय बच्चों को विज्ञान और आध्यात्मिक ज्ञान प्रदान करने के लिए उपयुक्त है, जो बौद्धिक और आध्यात्मिक विकास को समर्थन देता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Creative inspiration",
+      "Important agreements",
+      "New friendships and social work",
+      "Research and intellectual pursuits",
+      "Business agreements"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Uranus: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Uranus: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Uranus: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Uranus: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill)."
+    "hi": [
+      "रचनात्मक प्रेरणा",
+      "महत्वपूर्ण संधियाँ",
+      "नई मैत्री और सामाजिक कार्य",
+      "शोध और बौद्धिक गतिविधियाँ",
+      "व्यवसायिक संधियाँ"
     ]
   },
-  "keywords": [
-    "authority",
-    "ego",
-    "identity",
-    "opportunity",
-    "purpose",
-    "sextile",
-    "skill",
-    "visibility",
-    "vitality"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "Sudden opportunities may require careful consideration before commitment",
+      "Intellectual stimulation might lead to overextension"
+    ],
+    "hi": [
+      "आकस्मिक अवसरों पर प्रतिबद्धता से पहले सावधानी आवश्यक है",
+      "बौद्धिक उत्तेजना से अधिक व्यस्तता हो सकती है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative and independent projects",
+        "Pursue intellectual and technical knowledge",
+        "Build new social and institutional connections"
+      ],
+      "hi": [
+        "रचनात्मक और स्वतंत्र परियोजनाओं में संलग्न हों",
+        "बौद्धिक और तकनीकी ज्ञान प्राप्त करें",
+        "नई सामाजिक और संस्थागत संबंध बनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Formalize important agreements",
+        "Share scientific and spiritual knowledge with children",
+        "Capitalize on sudden opportunities for goals"
+      ],
+      "hi": [
+        "महत्वपूर्ण संधियाँ औपचारिक करें",
+        "बच्चों को वैज्ञानिक और आध्यात्मिक ज्ञान दें",
+        "लक्ष्यों के आकस्मिक अवसरों का लाभ उठाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and consolidate agreements made",
+        "Reflect on creative and intellectual progress"
+      ],
+      "hi": [
+        "किए गए संधियों की समीक्षा और समेकन करें",
+        "रचनात्मक और बौद्धिक प्रगति पर विचार करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "creativity",
+      "inspiration",
+      "self-realization",
+      "agreements",
+      "research",
+      "intellectual",
+      "social work",
+      "business",
+      "sudden opportunities"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "प्रेरणा",
+      "आत्मज्ञान",
+      "संधियाँ",
+      "शोध",
+      "बौद्धिक",
+      "सामाजिक कार्य",
+      "व्यवसाय",
+      "आकस्मिक अवसर"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "independent",
+      "stimulating",
+      "opportunistic",
+      "intellectual",
+      "creative"
+    ],
+    "hi": [
+      "स्वतंत्र",
+      "उत्तेजक",
+      "अवसरवादी",
+      "बौद्धिक",
+      "रचनात्मक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +187,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "creative expression",
+      "intellectual growth",
+      "social connection",
+      "spiritual knowledge",
+      "financial gain"
+    ],
+    "hi": [
+      "रचनात्मक अभिव्यक्ति",
+      "बौद्धिक विकास",
+      "सामाजिक संबंध",
+      "आध्यात्मिक ज्ञान",
+      "आर्थिक लाभ"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Uranus Sextile Sun",
-      "core": "Sextile between Uranus and Sun opens opportunity/skill. Uranus: . Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ura-sxt-sun",
+      "core": "Supports independent creativity and sudden opportunities through self-realization and intellectual stimulation.",
+      "tone": "Warm, encouraging, and insightful"
     },
     "hi": {
-      "title": "Uranus Sextile Sun (हिन्दी)",
-      "core": "Uranus और Sun का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "यूरेनस सेकस्टाइल सूर्य",
+      "core": "आत्मज्ञान और बौद्धिक उत्तेजना के माध्यम से स्वतंत्र रचनात्मकता और आकस्मिक अवसरों को समर्थन देता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और सूचनात्मक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Uranus and Sun opens opportunity/skill. Uranus: . Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Authority, recognition, leadership, alignment with purpose. Emphasis: opportunity/skill.",
-      "relationships": " Self-respect, healthy boundaries, paternal figures. Emphasis: opportunity/skill.",
-      "money": " Status-linked income, government/authority-linked gains. Emphasis: opportunity/skill.",
-      "health_adj": " Heart, vitality, heat regulation; consider circadian rhythm. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Enables enhancement of original creative expression independently with inspiration from self-realization, fostering recognition of personal creativity and sudden opportunities.",
+        "hi": "स्वतंत्र रूप से मूल रचनात्मक अभिव्यक्ति को उन्नत करने में सक्षम बनाता है, आत्मज्ञान से प्रेरणा प्राप्त होती है, व्यक्तिगत क्रियात्मकता और आकस्मिक अवसरों को मान्यता मिलती है।"
+      },
+      "career": {
+        "en": "Inspiration for researchers and artists increases; intellectual interests in technical, electrical, and astrological knowledge are stimulated; business and extraordinary agreements are formed.",
+        "hi": "शोधकर्ता और कलाकारों के लिए प्रेरणा बढ़ती है; तकनीकी, विद्युत और ज्योतिष ज्ञान में बौद्धिक रुचि उत्पन्न होती है; व्यवसायिक और असाधारण संधियाँ बनती हैं।"
+      },
+      "relationships": {
+        "en": "New friendships and connections with significant institutions arise; important and extraordinary agreements take place; social work develops.",
+        "hi": "नई मैत्री और महत्वपूर्ण संस्थाओं से संबंध बनते हैं; महत्वपूर्ण और असाधारण संधियाँ होती हैं; सामाजिक कार्य विकसित होता है।"
+      },
+      "money": {
+        "en": "Money invested in research yields profits; business agreements are favorable; sudden opportunities may bring financial benefits.",
+        "hi": "शोध कार्य में लगाया गया धन लाभदायक होता है; व्यवसायिक संधियाँ अनुकूल होती हैं; आकस्मिक अवसर आर्थिक लाभ ला सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Suitable time to impart scientific and spiritual knowledge to children, supporting intellectual and spiritual growth.",
+        "hi": "बच्चों को विज्ञान और आध्यात्मिक ज्ञान प्रदान करने के लिए उपयुक्त समय, जो बौद्धिक और आध्यात्मिक विकास को समर्थन देता है।"
+      }
     },
     "aliases": [
       "Uranus sextile Sun",

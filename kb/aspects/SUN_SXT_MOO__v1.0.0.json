@@ -10,52 +10,124 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Sun and Moon opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Authority, recognition, leadership, alignment with purpose.  Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-    "relationships": "Self-respect, healthy boundaries, paternal figures.  Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-    "money": "Status-linked income, government/authority-linked gains.  Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "A harmonious time fostering pleasant home environment, clearer self-expression, family unity, financial improvements, and growth in relationships and business ventures.",
+    "hi": "एक सौहार्दपूर्ण समय जो घर का आनंददायक वातावरण, स्पष्ट अभिव्यक्ति, पारिवारिक एकता, आर्थिक सुधार, और संबंधों व व्यवसाय में विकास को बढ़ावा देता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Favorable period for forming business agreements, managing finances, and engaging in exchanges or adventurous ventures.",
+      "hi": "व्यवसायिक संधियाँ बनाने, वित्त प्रबंधन, विनिमय या साहसिक कार्यों में संलग्न होने के लिए अनुकूल समय।"
+    },
+    "relationships": {
+      "en": "Increased family focus, more frequent interactions with siblings and friends, opportunities for emotional conversations, and growth in romantic relationships.",
+      "hi": "पारिवारिक एकाग्रता बढ़ना, भाई-बहन और मित्रों से अधिक संपर्क, भावनात्मक संवाद के अवसर, और प्रेम संबंधों में विकास।"
+    },
+    "money": {
+      "en": "Family financial improvements and discussions about economic situations are expected.",
+      "hi": "पारिवारिक आर्थिक सुधार और आर्थिक स्थिति पर चर्चा होगी।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Family discussions",
+      "Relationship formation",
+      "Business agreements",
+      "Financial management"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+    "hi": [
+      "पारिवारिक चर्चा",
+      "संबंध बनाना",
+      "व्यावसायिक संधियाँ",
+      "वित्तीय प्रबंधन"
     ]
   },
-  "keywords": [
-    "authority",
-    "care",
-    "ego",
-    "emotion",
-    "habits",
-    "home",
-    "identity",
-    "mother",
-    "opportunity",
-    "public mood",
-    "purpose",
-    "sextile",
-    "skill",
-    "visibility",
-    "vitality"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "None explicitly indicated."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताया गया।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Initiate new ideas for self-expression",
+        "Engage in family financial discussions",
+        "Form new relationships",
+        "Plan business or adventurous agreements"
+      ],
+      "hi": [
+        "स्वयं की अभिव्यक्ति के लिए नई कल्पनाएँ शुरू करें",
+        "पारिवारिक वित्तीय चर्चा में भाग लें",
+        "नए संबंध बनाएं",
+        "व्यावसायिक या साहसिक संधियाँ योजना बनाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on family unity and pleasant home environment",
+        "Conduct emotional conversations",
+        "Manage inherited property or farming activities"
+      ],
+      "hi": [
+        "पारिवारिक एकता और आनंददायक घर पर ध्यान दें",
+        "भावनात्मक संवाद करें",
+        "पैतृक संपत्ति या खेती के कार्य संभालें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain ongoing business and financial arrangements",
+        "Continue nurturing romantic relationships",
+        "Sustain frequent interactions with siblings and friends"
+      ],
+      "hi": [
+        "चल रहे व्यवसाय और वित्तीय व्यवस्थाओं को बनाए रखें",
+        "प्रेम संबंधों को पोषित करते रहें",
+        "भाई-बहन और मित्रों से नियमित संपर्क बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "pleasant home",
+      "self-expression",
+      "family unity",
+      "financial improvement",
+      "relationship growth",
+      "business agreements",
+      "emotional conversations"
+    ],
+    "hi": [
+      "आनंददायक घर",
+      "स्वयं की अभिव्यक्ति",
+      "पारिवारिक एकता",
+      "आर्थिक सुधार",
+      "संबंधों का विकास",
+      "व्यावसायिक संधियाँ",
+      "भावनात्मक संवाद"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "harmonious",
+      "supportive",
+      "growth-oriented",
+      "collaborative"
+    ],
+    "hi": [
+      "सौहार्दपूर्ण",
+      "सहायक",
+      "विकासोन्मुख",
+      "सहयोगात्मक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -109,36 +181,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "family harmony",
+      "financial discussions",
+      "relationship building",
+      "business and adventure"
+    ],
+    "hi": [
+      "पारिवारिक सौहार्द",
+      "वित्तीय चर्चा",
+      "संबंध निर्माण",
+      "व्यवसाय और साहसिक"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Sun Sextile Moon",
-      "core": "Sextile between Sun and Moon opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "sun-sxt-moo",
+      "core": "A time of harmony and growth in family, finances, and relationships, encouraging clear self-expression and collaborative ventures.",
+      "tone": "Warm, supportive, and optimistic"
     },
     "hi": {
-      "title": "Sun Sextile Moon (हिन्दी)",
-      "core": "Sun और Moon का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "सूर्य षष्टि चंद्र",
+      "core": "पारिवारिक, वित्तीय और संबंधों में सौहार्द और विकास का समय, जो स्पष्ट अभिव्यक्ति और सहयोगी प्रयासों को प्रोत्साहित करता है।",
+      "tone": "स्नेहपूर्ण, सहायक, और आशावादी"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Sun and Moon opens opportunity/skill. Sun: ego, identity, authority, vitality, purpose, visibility. Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Authority, recognition, leadership, alignment with purpose.  Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-      "relationships": "Self-respect, healthy boundaries, paternal figures.  Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-      "money": "Status-linked income, government/authority-linked gains.  Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+      "core": {
+        "en": "The home environment will be pleasant. New ideas will develop to express oneself more clearly. Family concentration will increase. Family economic/financial improvements will occur.",
+        "hi": "घर का वातावरण आनंददायक रहेगा। स्वयं की अभिव्यक्ति को स्पष्ट करने के लिए नई कल्पनाओं का विकास होगा। पारिवारिक एकाग्रता बढ़ेगी। पारिवारिक आर्थिक/वित्तीय सुधार होंगे।"
+      },
+      "career": {
+        "en": "It will be an appropriate time for forming relationships with others, conducting business, managing finances, engaging in exchanges, farming, or handling inherited property. Business/adventurous agreements will be made.",
+        "hi": "लोगों से संबंध बनाने हेतु/व्यवसाय करने हेतु/आर्थिक/वित्तीय/सहारे हेतु/विनिमय हेतु/खेती/पैतृक संपत्ति व्यवहार हेतु उचित समय। व्यावसायिक/साहसिक संधियाँ होंगी।"
+      },
+      "relationships": {
+        "en": "Family concentration will increase. The movement of brothers/sisters/friends will be more frequent. Opportunities for emotional conversations will arise. There will be growth in romantic relationships.",
+        "hi": "पारिवारिक एकाग्रता बढ़ेगी। भाई/बहन/मित्रों की आवाजाही अधिक रहेगी। भावनात्मक संवाद के अवसर प्राप्त होंगे। प्रेम संबंधों में विकास होगा।"
+      },
+      "money": {
+        "en": "Family economic/financial improvements will occur. There will be family discussions about financial situations.",
+        "hi": "पारिवारिक आर्थिक/वित्तीय सुधार होंगे। आर्थिक स्थिति को लेकर पारिवारिक चर्चा होगी।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+      }
     },
     "aliases": [
       "Sun sextile Moon",

@@ -10,45 +10,110 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Mercury and Neptune opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Negotiation, analytics, documentation, skilling.  Emphasis: opportunity/skill.",
-    "relationships": "Dialog, problem-solving, curiosity.  Emphasis: opportunity/skill.",
-    "money": "Trading, freelancing, multi-stream income, contracts.  Emphasis: opportunity/skill.",
-    "health_adj": "Nervous system, breath, routine mobility.  Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Perspective and imagination improve, enhancing mental communication and spiritual insights. Success in artistic fields like painting and photography is favored.",
+    "hi": "दृष्टिकोण और कल्पनाओं में सुधार होता है, जिससे मानसिक संचार और आध्यात्मिक संदेशों की प्राप्ति बढ़ती है। चित्रकला और फोटोग्राफी जैसे कलात्मक क्षेत्रों में सफलता मिलती है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Improved creativity and insight support success in art, painting, and photography.",
+      "hi": "सृजनात्मकता और अंतर्दृष्टि में सुधार से चित्रकला, फोटोग्राफी और कला में सफलता मिलती है।"
+    },
+    "relationships": {
+      "en": "Enhanced mental communication and telepathic understanding may improve interpersonal connections.",
+      "hi": "मानसिक संचार और टेलीपैथी की शक्ति बढ़ने से संबंधों में सुधार हो सकता है।"
+    },
+    "money": {
+      "en": "No specific financial effects are indicated.",
+      "hi": "वित्तीय प्रभावों का कोई विशेष उल्लेख नहीं है।"
+    },
+    "health_adj": {
+      "en": "No health adjustments or risks are specified.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष बदलाव या जोखिम उल्लेखित नहीं हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "artistic success",
+      "spiritual insight"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Mercury: draft, analyze, negotiate; Neptune: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "कलात्मक सफलता",
+      "आध्यात्मिक जानकारी"
     ]
   },
-  "keywords": [
-    "analysis",
-    "commerce",
-    "communication",
-    "learning",
-    "opportunity",
-    "sextile",
-    "skill",
-    "tech"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in creative and artistic activities",
+        "Be open to spiritual messages and insights"
+      ],
+      "hi": [
+        "सृजनात्मक और कलात्मक गतिविधियों में संलग्न हों",
+        "आध्यात्मिक संदेशों और जानकारी के लिए खुले रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on mental clarity and imagination",
+        "Pursue artistic projects such as painting or photography"
+      ],
+      "hi": [
+        "मानसिक स्पष्टता और कल्पना पर ध्यान दें",
+        "चित्रकला या फोटोग्राफी जैसे कलात्मक कार्य करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain balance between imagination and practical thinking",
+        "Avoid overreliance on intuition without grounding"
+      ],
+      "hi": [
+        "कल्पना और व्यावहारिक सोच के बीच संतुलन बनाए रखें",
+        "बिना आधार के अंतर्ज्ञान पर अधिक निर्भरता से बचें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "perspective",
+      "imagination",
+      "mental communication",
+      "telepathy",
+      "spiritual insight",
+      "artistic success",
+      "painting",
+      "photography"
+    ],
+    "hi": [
+      "दृष्टिकोण",
+      "कल्पना",
+      "मानसिक संचार",
+      "टेलीपैथी",
+      "आध्यात्मिक जानकारी",
+      "कलात्मक सफलता",
+      "चित्रकला",
+      "फोटोग्राफी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "creative",
+      "insightful",
+      "spiritual",
+      "imaginative"
+    ],
+    "hi": [
+      "रचनात्मक",
+      "अंतर्दृष्टिपूर्ण",
+      "आध्यात्मिक",
+      "कल्पनाशील"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -102,36 +167,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "art",
+      "spirituality",
+      "communication",
+      "imagination"
+    ],
+    "hi": [
+      "कला",
+      "आध्यात्म",
+      "संचार",
+      "कल्पना"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-14"
   },
   "locales": {
     "en": {
-      "title": "Mercury Sextile Neptune",
-      "core": "Sextile between Mercury and Neptune opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "mer-sxt-nep",
+      "core": "This aspect enhances imagination, mental communication, and spiritual insights, favoring success in artistic fields.",
+      "tone": "Warm, encouraging, and insightful"
     },
     "hi": {
-      "title": "Mercury Sextile Neptune (हिन्दी)",
-      "core": "Mercury और Neptune का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बुध षट्कोण नेपच्यून",
+      "core": "यह योग कल्पना, मानसिक संचार और आध्यात्मिक जानकारी को बढ़ाता है, और कलात्मक क्षेत्रों में सफलता देता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और अंतर्दृष्टिपूर्ण"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Mercury and Neptune opens opportunity/skill. Mercury: analysis, communication, commerce, learning, tech. Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Negotiation, analytics, documentation, skilling.  Emphasis: opportunity/skill.",
-      "relationships": "Dialog, problem-solving, curiosity.  Emphasis: opportunity/skill.",
-      "money": "Trading, freelancing, multi-stream income, contracts.  Emphasis: opportunity/skill.",
-      "health_adj": "Nervous system, breath, routine mobility.  Emphasis: opportunity/skill."
+      "core": {
+        "en": "Perspective and imagination improve. Mental messaging or telepathy is enhanced. The person receives valuable insights or spiritual messages. Success in art, painting, and photography increases.",
+        "hi": "दृष्टिकोण और कल्पनाओं में सुधार होता है। मानसिक संदेश ;टेलीपैथी/कंप्युनिकेशनद्ध की शक्ति बढ़ती है। व्यक्ति को गहरी जानकारी या आ/यात्मिक संदेश मिलते हैंए जिनसे उसे लाभ होता है। कलाए चित्रकलाए और फोटोग्राफी में विशेष सफलता मिलती है।"
+      },
+      "career": {
+        "en": "Success in art, painting, and photography increases due to enhanced imagination and perspective.",
+        "hi": "कल्पना और दृष्टिकोण में सुधार से चित्रकला, फोटोग्राफी और कला में सफलता बढ़ती है।"
+      },
+      "relationships": {
+        "en": "Mental messaging or telepathy is enhanced, potentially improving communication in relationships.",
+        "hi": "मानसिक संदेश और टेलीपैथी की शक्ति बढ़ती है, जिससे संबंधों में संचार बेहतर हो सकता है।"
+      },
+      "money": {
+        "en": "No specific financial effects mentioned.",
+        "hi": "वित्तीय प्रभावों का कोई उल्लेख नहीं है।"
+      },
+      "health_adj": {
+        "en": "No health-related notes provided.",
+        "hi": "स्वास्थ्य संबंधी कोई जानकारी नहीं दी गई है।"
+      }
     },
     "aliases": [
       "Mercury sextile Neptune",

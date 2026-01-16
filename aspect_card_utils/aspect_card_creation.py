@@ -776,7 +776,7 @@ def rebuild_from_excel_with_gpt(
     rows = df.to_dict(orient="records")
     if limit is not None:
         rows = rows[: max(0, int(limit))]
-
+    count = 0
     for row in rows:
         full_aspect = str(row.get("Full Aspect", "")).strip()
         astro_aspect = str(row.get("Astro_Aspect", "")).strip()
@@ -787,7 +787,8 @@ def rebuild_from_excel_with_gpt(
         if not card_id:
             errors.append({"astro_aspect": astro_aspect, "error": parse_err or "Unable to parse Astro_Aspect"})
             continue
-        print("Processing card:", card_id)
+        count += 1
+        print(f"Processing card #{count}:", card_id)
         path = os.path.join(OUTPUT_DIR, f"{card_id}.json")
         if not os.path.exists(path):
             missing += 1

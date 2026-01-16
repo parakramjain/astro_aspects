@@ -10,53 +10,128 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Mars and Jupiter opens opportunity/skill. Mars: drive, assertion, surgery, mechanics, conflict. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Execution speed, competition, technical grit.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-    "relationships": "Desire, boundaries, anger management.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-    "money": "Risk-capital, decisive investments, initiative-led gains.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-    "health_adj": "Inflammation, accidents; channel via training.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Steady professional progress with increased reliability and self-confidence. Opportunities arise in educational, religious, political, and cultural fields, supported by enthusiastic energy. Favorable for legal matters and sports competitions. Significant professional transactions involving goods and transportation promote stable business growth.",
+    "hi": "व्यवसाय में स्थिर उन्नति, विश्वसनीयता और आत्मविश्वास में वृद्धि होती है। शैक्षणिक, धार्मिक, राजनीतिक और सांस्कृतिक क्षेत्रों में उत्साहपूर्ण अवसर मिलते हैं। कानूनी कार्यवाहियों और खेल प्रतियोगिताओं के लिए अनुकूल समय है। पेशेवर लेन-देन और माल-परिवहन से व्यवसाय में स्थिर वृद्धि होती है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Impulsive actions or accidents; channel energy into training.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Mars: execute, train, assert; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Mars: execute, train, assert; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Consistent advancement and reliability; major transactions and material movement support solid business growth.",
+      "hi": "लगातार उन्नति और विश्वसनीयता; बड़े लेन-देन और माल की आवाजाही से मजबूत व्यवसायिक विकास होता है।"
+    },
+    "relationships": {
+      "en": "Energetic involvement in cultural and political fields; enthusiasm enhances social and professional connections.",
+      "hi": "सांस्कृतिक और राजनीतिक क्षेत्रों में सक्रिय भागीदारी; उत्साह सामाजिक और पेशेवर संबंधों को बढ़ाता है।"
+    },
+    "money": {
+      "en": "Good opportunities through professional transactions and stable business growth linked to goods and transportation.",
+      "hi": "पेशेवर लेन-देन और माल-परिवहन से जुड़े स्थिर व्यवसायिक विकास के अच्छे अवसर।"
+    },
+    "health_adj": {
+      "en": "No specific health concerns indicated; increased self-confidence may support overall well-being.",
+      "hi": "विशेष स्वास्थ्य संबंधी चेतावनी नहीं; बढ़ा हुआ आत्मविश्वास समग्र स्वास्थ्य में सहायक हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional advancement",
+      "Educational and cultural opportunities",
+      "Legal proceedings",
+      "Sports and competitions",
+      "Major business transactions"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Mars: execute, train, assert; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Mars: execute, train, assert; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Mars: execute, train, assert; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Mars: execute, train, assert; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    "hi": [
+      "पेशेवर उन्नति",
+      "शैक्षणिक और सांस्कृतिक अवसर",
+      "कानूनी कार्यवाही",
+      "खेल और प्रतियोगिताएं",
+      "बड़े व्यवसायिक लेन-देन"
     ]
   },
-  "keywords": [
-    "abundance",
-    "assertion",
-    "conflict",
-    "drive",
-    "faith",
-    "growth",
-    "law",
-    "mechanics",
-    "mentor",
-    "opportunity",
-    "sextile",
-    "skill",
-    "surgery",
-    "wisdom"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balanced enthusiasm.",
+      "Be cautious in legal matters despite favorable timing."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; उत्साह में संतुलन बनाए रखें।",
+      "कानूनी मामलों में सावधानी बरतें, यद्यपि समय अनुकूल है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage actively in educational, religious, political, and cultural fields.",
+        "Pursue legal matters with confidence.",
+        "Participate in sports and competitions."
+      ],
+      "hi": [
+        "शैक्षणिक, धार्मिक, राजनीतिक और सांस्कृतिक क्षेत्रों में सक्रिय रूप से भाग लें।",
+        "कानूनी कार्यवाहियों को आत्मविश्वास के साथ आगे बढ़ाएं।",
+        "खेल और प्रतियोगिताओं में भाग लें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate or finalize major professional transactions involving goods or transportation.",
+        "Leverage increased self-confidence for career progress."
+      ],
+      "hi": [
+        "सामान या परिवहन से जुड़े बड़े पेशेवर लेन-देन शुरू या पूरा करें।",
+        "करियर प्रगति के लिए बढ़े हुए आत्मविश्वास का लाभ उठाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain steady progress and reliability.",
+        "Continue to seek opportunities in cultural and professional areas."
+      ],
+      "hi": [
+        "स्थिर प्रगति और विश्वसनीयता बनाए रखें।",
+        "सांस्कृतिक और पेशेवर क्षेत्रों में अवसरों की खोज जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "steady progress",
+      "reliability",
+      "self-confidence",
+      "educational opportunities",
+      "legal proceedings",
+      "sports",
+      "business growth",
+      "transactions",
+      "transportation"
+    ],
+    "hi": [
+      "स्थिर उन्नति",
+      "विश्वसनीयता",
+      "आत्मविश्वास",
+      "शैक्षणिक अवसर",
+      "कानूनी कार्यवाही",
+      "खेल",
+      "व्यवसायिक विकास",
+      "लेन-देन",
+      "परिवहन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favorable",
+      "stable",
+      "enthusiastic",
+      "professional",
+      "opportunistic"
+    ],
+    "hi": [
+      "अनुकूल",
+      "स्थिर",
+      "उत्साही",
+      "पेशेवर",
+      "अवसरवादी"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -110,36 +185,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "career growth",
+      "legal favorability",
+      "cultural engagement",
+      "sports opportunities",
+      "business stability"
+    ],
+    "hi": [
+      "करियर विकास",
+      "कानूनी अनुकूलता",
+      "सांस्कृतिक भागीदारी",
+      "खेल अवसर",
+      "व्यवसायिक स्थिरता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Mars Sextile Jupiter",
-      "core": "Sextile between Mars and Jupiter opens opportunity/skill. Mars: drive, assertion, surgery, mechanics, conflict. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "mar-sxt-jup",
+      "core": "Steady progress and opportunities in professional, educational, and cultural fields with increased confidence.",
+      "tone": "Warm, encouraging, and balanced"
     },
     "hi": {
-      "title": "Mars Sextile Jupiter (हिन्दी)",
-      "core": "Mars और Jupiter का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "मंगल षट्कोण बृहस्पति",
+      "core": "पेशेवर, शैक्षणिक और सांस्कृतिक क्षेत्रों में स्थिर प्रगति और अवसर, बढ़े हुए आत्मविश्वास के साथ।",
+      "tone": "सहानुभूतिपूर्ण, उत्साहवर्धक और संतुलित"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Mars and Jupiter opens opportunity/skill. Mars: drive, assertion, surgery, mechanics, conflict. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Execution speed, competition, technical grit.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-      "relationships": "Desire, boundaries, anger management.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-      "money": "Risk-capital, decisive investments, initiative-led gains.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-      "health_adj": "Inflammation, accidents; channel via training.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Steady professional progress with increased reliability and self-confidence. Opportunities arise in educational, religious, political, and cultural fields, supported by enthusiastic energy.",
+        "hi": "व्यवसाय में स्थिर उन्नति, विश्वसनीयता और आत्मविश्वास में वृद्धि होती है। शैक्षणिक, धार्मिक, राजनीतिक और सांस्कृतिक क्षेत्रों में उत्साहपूर्ण अवसर मिलते हैं।"
+      },
+      "career": {
+        "en": "Consistent advancement and reliability; major transactions and material movement support solid business growth.",
+        "hi": "लगातार उन्नति और विश्वसनीयता; बड़े लेन-देन और माल की आवाजाही से मजबूत व्यवसायिक विकास होता है।"
+      },
+      "relationships": {
+        "en": "Energetic involvement in cultural and political fields; enthusiasm enhances social and professional connections.",
+        "hi": "सांस्कृतिक और राजनीतिक क्षेत्रों में सक्रिय भागीदारी; उत्साह सामाजिक और पेशेवर संबंधों को बढ़ाता है।"
+      },
+      "money": {
+        "en": "Good opportunities through professional transactions and stable business growth linked to goods and transportation.",
+        "hi": "पेशेवर लेन-देन और माल-परिवहन से जुड़े स्थिर व्यवसायिक विकास के अच्छे अवसर।"
+      },
+      "health_adj": {
+        "en": "No specific health concerns indicated; increased self-confidence may support overall well-being.",
+        "hi": "विशेष स्वास्थ्य संबंधी चेतावनी नहीं; बढ़ा हुआ आत्मविश्वास समग्र स्वास्थ्य में सहायक हो सकता है।"
+      }
     },
     "aliases": [
       "Mars sextile Jupiter",

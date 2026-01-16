@@ -10,40 +10,124 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Neptune and Uranus opens opportunity/skill. Neptune: . Uranus: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Influence emerges via opportunity/skill.",
-    "relationships": "Influence emerges via opportunity/skill.",
-    "money": "Influence emerges via opportunity/skill.",
-    "health_adj": "Influence emerges via opportunity/skill."
+  "core_meaning": {
+    "en": "Strengthened intuition and sudden divine insights foster interest in logic, astrology, and spiritual sciences, aiding positive manifestation of imagination and innovative professional ideas, with possible ancestral gifts.",
+    "hi": "अंतर्ज्ञान में वृद्धि और अचानक दिव्य ज्ञान से तर्क, ज्योतिष और आध्यात्मिक विज्ञानों में रुचि बढ़ती है, जो कल्पनाओं को सकारात्मक रूप देने और व्यावसायिक नवाचारों में सहायक होती है, साथ ही पैतृक उपहारों की संभावना रहती है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Neptune: act, iterate, measure; Uranus: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Neptune: act, iterate, measure; Uranus: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Development of innovative ideas and creative approaches in professional life.",
+      "hi": "व्यावसायिक जीवन में नई कल्पनाओं और रचनात्मक दृष्टिकोणों का विकास।"
+    },
+    "relationships": {
+      "en": "Enhanced intuitive understanding may deepen connections through spiritual or esoteric interests.",
+      "hi": "अंतर्ज्ञान में वृद्धि से आध्यात्मिक या गूढ़ रुचियों के माध्यम से संबंधों में गहराई आ सकती है।"
+    },
+    "money": {
+      "en": "Potential for receiving inheritance or gifts from ancestral property.",
+      "hi": "पैतृक संपत्ति से अनुदान या विरासत प्राप्त होने की संभावना।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Sudden spiritual or clairvoyant insights",
+      "Innovative professional breakthroughs",
+      "Inheritance or ancestral gifts"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Neptune: act, iterate, measure; Uranus: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Neptune: act, iterate, measure; Uranus: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Neptune: act, iterate, measure; Uranus: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Neptune: act, iterate, measure; Uranus: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "अचानक आध्यात्मिक या भविष्यदर्शी ज्ञान",
+      "व्यावसायिक नवाचार",
+      "पैतृक विरासत या उपहार"
     ]
   },
-  "keywords": [
-    "opportunity",
-    "sextile",
-    "skill"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balanced discernment with intuitive insights."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; अंतर्ज्ञान के साथ संतुलित विवेक बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Explore and study esoteric and spiritual sciences",
+        "Use intuition to guide creative projects",
+        "Be open to receiving ancestral support or gifts"
+      ],
+      "hi": [
+        "गूढ़ और आध्यात्मिक विज्ञानों का अध्ययन करें",
+        "रचनात्मक परियोजनाओं में अंतर्ज्ञान का उपयोग करें",
+        "पैतृक सहायता या उपहार प्राप्त करने के लिए खुले रहें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on manifesting imaginative ideas positively",
+        "Engage actively in logical and astrological pursuits"
+      ],
+      "hi": [
+        "कल्पनाओं को सकारात्मक रूप से साकार करने पर ध्यान दें",
+        "तर्क और ज्योतिष संबंधी गतिविधियों में सक्रिय रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain clarity between intuition and logic",
+        "Avoid overreliance on sudden insights without grounding"
+      ],
+      "hi": [
+        "अंतर्ज्ञान और तर्क में स्पष्टता बनाए रखें",
+        "बिना आधार के अचानक ज्ञान पर अधिक निर्भरता से बचें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intuition",
+      "divine insights",
+      "logic",
+      "astrology",
+      "esoteric sciences",
+      "spirituality",
+      "imagination",
+      "innovation",
+      "inheritance",
+      "ancestral gifts"
+    ],
+    "hi": [
+      "अंतर्ज्ञान",
+      "दिव्य ज्ञान",
+      "तर्क",
+      "ज्योतिष",
+      "रहस्य विज्ञान",
+      "आध्यात्मिकता",
+      "कल्पना",
+      "नवाचार",
+      "विरासत",
+      "पैतृक उपहार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intuitive",
+      "innovative",
+      "spiritual",
+      "creative",
+      "positive manifestation"
+    ],
+    "hi": [
+      "अंतर्ज्ञानी",
+      "नवोन्मेषी",
+      "आध्यात्मिक",
+      "रचनात्मक",
+      "सकारात्मक साकार"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -97,36 +181,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "creative expression",
+      "esoteric knowledge",
+      "professional innovation",
+      "ancestral connection"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "रचनात्मक अभिव्यक्ति",
+      "गूढ़ ज्ञान",
+      "व्यावसायिक नवाचार",
+      "पैतृक संबंध"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Neptune Sextile Uranus",
-      "core": "Sextile between Neptune and Uranus opens opportunity/skill. Neptune: . Uranus: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "nep-sxt-ura",
+      "core": "This aspect enhances intuition and inspires sudden spiritual insights, encouraging interest in logic, astrology, and esoteric sciences. It supports positive creative expression and innovative ideas in career, with possible ancestral gifts.",
+      "tone": "Warm, insightful, and encouraging"
     },
     "hi": {
-      "title": "Neptune Sextile Uranus (हिन्दी)",
-      "core": "Neptune और Uranus का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "नेपच्यून सेक्सटाइल यूरेनस",
+      "core": "यह योग अंतर्ज्ञान को बढ़ाता है और अचानक आध्यात्मिक ज्ञान प्रेरित करता है, जो तर्क, ज्योतिष और गूढ़ विज्ञानों में रुचि को प्रोत्साहित करता है। यह रचनात्मक अभिव्यक्ति और व्यावसायिक नवाचारों में सहायक होता है, साथ ही पैतृक उपहारों की संभावना रखता है।",
+      "tone": "सहानुभूतिपूर्ण, सूचनात्मक और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Neptune and Uranus opens opportunity/skill. Neptune: . Uranus: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Influence emerges via opportunity/skill.",
-      "relationships": "Influence emerges via opportunity/skill.",
-      "money": "Influence emerges via opportunity/skill.",
-      "health_adj": "Influence emerges via opportunity/skill."
+      "core": {
+        "en": "Intuition strengthens with sudden divine insights, fostering interest in logic, astrology, and spiritual sciences, aiding positive imagination and innovation.",
+        "hi": "अंतर्ज्ञान में वृद्धि और अचानक दिव्य ज्ञान से तर्क, ज्योतिष और आध्यात्मिक विज्ञानों में रुचि बढ़ती है, जो सकारात्मक कल्पना और नवाचार में सहायक है।"
+      },
+      "career": {
+        "en": "Innovative professional ideas develop, supported by strengthened intuition and creative imagination.",
+        "hi": "मजबूत अंतर्ज्ञान और रचनात्मक कल्पना से व्यावसायिक नवाचार विकसित होते हैं।"
+      },
+      "relationships": {
+        "en": "Interest in esoteric and spiritual topics may deepen connections through intuitive understanding.",
+        "hi": "गूढ़ और आध्यात्मिक विषयों में रुचि अंतर्ज्ञान के माध्यम से संबंधों को गहरा कर सकती है।"
+      },
+      "money": {
+        "en": "Possible inheritance or gifts from ancestral property may occur.",
+        "hi": "पैतृक संपत्ति से विरासत या उपहार प्राप्त होने की संभावना।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments are indicated in this aspect.",
+        "hi": "इस योग में स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं हैं।"
+      }
     },
     "aliases": [
       "Neptune sextile Uranus",

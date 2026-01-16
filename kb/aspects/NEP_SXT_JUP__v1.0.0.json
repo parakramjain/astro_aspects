@@ -10,47 +10,122 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Neptune and Jupiter opens opportunity/skill. Neptune: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-    "relationships": " Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-    "money": " Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-    "health_adj": " Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Spiritual growth and connections with religious or mystical experiences increase, fostering compassion and generosity. Imagination finds opportunities for realization, and past virtuous deeds bring rewards.",
+    "hi": "आध्यात्मिक विकास और धार्मिक या आध्यात्मिक अनुभवों से संबंध बढ़ते हैं, जिससे उदारता और दया की भावना बढ़ती है। कल्पनाएँ साकार होने के अवसर पाती हैं और पूर्व के शुभ कर्मों का फल मिलता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Neptune: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Neptune: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Opportunities for spiritual or service-oriented careers may arise, encouraging compassionate and meritorious actions.",
+      "hi": "आध्यात्मिक या सेवा-प्रधान करियर के अवसर मिल सकते हैं, जो दयालु और पुण्य कर्मों को प्रोत्साहित करते हैं।"
+    },
+    "relationships": {
+      "en": "Relationships may deepen through shared spiritual or compassionate experiences, increasing generosity and understanding.",
+      "hi": "साझा आध्यात्मिक या दयालु अनुभवों से संबंध गहरे हो सकते हैं, जिससे उदारता और समझ बढ़ती है।"
+    },
+    "money": {
+      "en": "Financial gains may come as rewards for past virtuous actions, with a tendency toward generous giving.",
+      "hi": "पूर्व के शुभ कर्मों के फलस्वरूप आर्थिक लाभ हो सकते हैं, और उदारता से देने की प्रवृत्ति बढ़ती है।"
+    },
+    "health_adj": {
+      "en": "Interest in meditation and yoga may support subconscious awakening and overall well-being.",
+      "hi": "ध्यान और योग में रुचि अवचेतन जागृति और समग्र स्वास्थ्य में सहायक हो सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual growth",
+      "Religious or mystical experiences",
+      "Pilgrimage opportunities"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Neptune: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Neptune: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Neptune: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Neptune: act, iterate, measure; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    "hi": [
+      "आध्यात्मिक विकास",
+      "धार्मिक या आध्यात्मिक अनुभव",
+      "धार्मिक यात्रा के अवसर"
     ]
   },
-  "keywords": [
-    "abundance",
-    "faith",
-    "growth",
-    "law",
-    "mentor",
-    "opportunity",
-    "sextile",
-    "skill",
-    "wisdom"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in meditation or yoga practices",
+        "Participate in religious or spiritual communities",
+        "Practice generosity and compassion"
+      ],
+      "hi": [
+        "ध्यान या योग का अभ्यास करें",
+        "धार्मिक या आध्यात्मिक समुदायों में भाग लें",
+        "उदारता और दया का अभ्यास करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on subconscious awakening",
+        "Seek opportunities for pilgrimage or spiritual retreats"
+      ],
+      "hi": [
+        "अवचेतन जागृति पर ध्यान दें",
+        "धार्मिक यात्रा या आध्यात्मिक विश्राम के अवसर खोजें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past virtuous deeds and their outcomes",
+        "Maintain compassion in daily interactions"
+      ],
+      "hi": [
+        "पूर्व के शुभ कर्मों और उनके परिणामों पर विचार करें",
+        "दैनिक व्यवहार में दया बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "spiritual growth",
+      "religious connections",
+      "mystical experiences",
+      "meditation",
+      "yoga",
+      "subconscious awakening",
+      "pilgrimage",
+      "generosity",
+      "compassion",
+      "imagination",
+      "meritorious actions"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "धार्मिक संबंध",
+      "आध्यात्मिक अनुभव",
+      "ध्यान",
+      "योग",
+      "अवचेतन जागृति",
+      "धार्मिक यात्रा",
+      "उदारता",
+      "दयाभाव",
+      "कल्पना",
+      "पुण्य कर्म"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "spiritual",
+      "compassionate",
+      "generous",
+      "imaginative",
+      "rewarding"
+    ],
+    "hi": [
+      "आध्यात्मिक",
+      "दयालु",
+      "उदार",
+      "कल्पनाशील",
+      "फलदायी"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -104,36 +179,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "spirituality",
+      "compassion",
+      "imagination",
+      "reward for virtue"
+    ],
+    "hi": [
+      "आध्यात्मिकता",
+      "दयाभाव",
+      "कल्पना",
+      "पुण्य का फल"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Neptune Sextile Jupiter",
-      "core": "Sextile between Neptune and Jupiter opens opportunity/skill. Neptune: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "nep-sxt-jup",
+      "core": "This aspect promotes spiritual growth, mystical experiences, and increased generosity, with rewards from past virtuous actions.",
+      "tone": "Warm, encouraging, and reflective"
     },
     "hi": {
-      "title": "Neptune Sextile Jupiter (हिन्दी)",
-      "core": "Neptune और Jupiter का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "नेपच्यून सेकस्टाइल जुपिटर",
+      "core": "यह योग आध्यात्मिक विकास, आध्यात्मिक अनुभव और बढ़ी हुई उदारता को प्रोत्साहित करता है, साथ ही पूर्व के पुण्य कर्मों का फल देता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और चिंतनशील"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Neptune and Jupiter opens opportunity/skill. Neptune: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-      "relationships": " Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-      "money": " Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-      "health_adj": " Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Spiritual growth and connections with religious or mystical experiences increase, fostering compassion and generosity. Imagination finds opportunities for realization, and past virtuous deeds bring rewards.",
+        "hi": "आध्यात्मिक विकास और धार्मिक या आध्यात्मिक अनुभवों से संबंध बढ़ते हैं, जिससे उदारता और दया की भावना बढ़ती है। कल्पनाएँ साकार होने के अवसर पाती हैं और पूर्व के शुभ कर्मों का फल मिलता है।"
+      },
+      "career": {
+        "en": "Opportunities for spiritual or service-oriented careers may arise, encouraging compassionate and meritorious actions.",
+        "hi": "आध्यात्मिक या सेवा-प्रधान करियर के अवसर मिल सकते हैं, जो दयालु और पुण्य कर्मों को प्रोत्साहित करते हैं।"
+      },
+      "relationships": {
+        "en": "Relationships may deepen through shared spiritual or compassionate experiences, increasing generosity and understanding.",
+        "hi": "साझा आध्यात्मिक या दयालु अनुभवों से संबंध गहरे हो सकते हैं, जिससे उदारता और समझ बढ़ती है।"
+      },
+      "money": {
+        "en": "Financial gains may come as rewards for past virtuous actions, with a tendency toward generous giving.",
+        "hi": "पूर्व के शुभ कर्मों के फलस्वरूप आर्थिक लाभ हो सकते हैं, और उदारता से देने की प्रवृत्ति बढ़ती है।"
+      },
+      "health_adj": {
+        "en": "Interest in meditation and yoga may support subconscious awakening and overall well-being.",
+        "hi": "ध्यान और योग में रुचि अवचेतन जागृति और समग्र स्वास्थ्य में सहायक हो सकती है।"
+      }
     },
     "aliases": [
       "Neptune sextile Jupiter",

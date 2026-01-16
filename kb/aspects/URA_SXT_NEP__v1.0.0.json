@@ -10,40 +10,114 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Uranus and Neptune opens opportunity/skill. Uranus: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Influence emerges via opportunity/skill.",
-    "relationships": "Influence emerges via opportunity/skill.",
-    "money": "Influence emerges via opportunity/skill.",
-    "health_adj": "Influence emerges via opportunity/skill."
+  "core_meaning": {
+    "en": "Enhanced intuition with sudden spiritual insights, growing interest in logic, astrology, and esoteric sciences, fostering positive imagination and innovative ideas, with possible ancestral gifts.",
+    "hi": "अंतर्ज्ञान में वृद्धि और अचानक दिव्य ज्ञान, तर्कशास्त्र, ज्योतिष और गूढ़ विज्ञानों में रुचि बढ़ना, सकारात्मक कल्पना और नवीन विचारों का विकास, साथ ही पैतृक अनुदान की संभावना।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Uranus: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Uranus: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Development of innovative professional ideas and creative approaches.",
+      "hi": "व्यावसायिक स्थिति में नई और रचनात्मक कल्पनाओं का विकास।"
+    },
+    "relationships": {
+      "en": "Increased interest in spiritual and esoteric topics may influence social interactions.",
+      "hi": "आध्यात्मिक और गूढ़ विषयों में रुचि सामाजिक संबंधों को प्रभावित कर सकती है।"
+    },
+    "money": {
+      "en": "Potential for inheritance or gifts from ancestral property.",
+      "hi": "पैतृक संपत्ति से अनुदान या उपहार प्राप्त होने की संभावना।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Spiritual insights",
+      "Professional innovation",
+      "Inheritance or gifts"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Uranus: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Uranus: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Uranus: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Uranus: act, iterate, measure; Neptune: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "आध्यात्मिक ज्ञान",
+      "व्यावसायिक नवाचार",
+      "पैतृक अनुदान या उपहार"
     ]
   },
-  "keywords": [
-    "opportunity",
-    "sextile",
-    "skill"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Explore spiritual and esoteric studies.",
+        "Use intuition to guide creative projects."
+      ],
+      "hi": [
+        "आध्यात्मिक और गूढ़ विषयों का अध्ययन करें।",
+        "रचनात्मक कार्यों में अंतर्ज्ञान का उपयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on manifesting imaginative ideas positively.",
+        "Consider opportunities related to ancestral property."
+      ],
+      "hi": [
+        "कल्पनाओं को सकारात्मक रूप से साकार करने पर ध्यान दें।",
+        "पैतृक संपत्ति से संबंधित अवसरों पर विचार करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain clarity between imagination and practical application.",
+        "Avoid overreliance on sudden insights without grounding."
+      ],
+      "hi": [
+        "कल्पना और व्यावहारिकता में स्पष्टता बनाए रखें।",
+        "बिना आधार के अचानक ज्ञान पर अत्यधिक निर्भरता से बचें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "intuition",
+      "spiritual insights",
+      "logic",
+      "astrology",
+      "esoteric sciences",
+      "positive imagination",
+      "innovation",
+      "inheritance"
+    ],
+    "hi": [
+      "अंतर्ज्ञान",
+      "दिव्य ज्ञान",
+      "तर्कशास्त्र",
+      "ज्योतिष",
+      "गूढ़ विज्ञान",
+      "सकारात्मक कल्पना",
+      "नवाचार",
+      "पैतृक अनुदान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "intuitive",
+      "innovative",
+      "spiritual",
+      "creative",
+      "opportunistic"
+    ],
+    "hi": [
+      "अंतर्ज्ञानी",
+      "नवोन्मेषी",
+      "आध्यात्मिक",
+      "रचनात्मक",
+      "अवसरवादी"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -97,36 +171,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "spiritual growth",
+      "creative manifestation",
+      "ancestral connection"
+    ],
+    "hi": [
+      "आध्यात्मिक विकास",
+      "रचनात्मक अभिव्यक्ति",
+      "पैतृक संबंध"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Uranus Sextile Neptune",
-      "core": "Sextile between Uranus and Neptune opens opportunity/skill. Uranus: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ura-sxt-nep",
+      "core": "This aspect enhances intuition and spiritual insight, encouraging interest in logic, astrology, and esoteric sciences. It supports positive imagination and innovative ideas, with potential ancestral gifts.",
+      "tone": "Warm, insightful, and encouraging exploration."
     },
     "hi": {
-      "title": "Uranus Sextile Neptune (हिन्दी)",
-      "core": "Uranus और Neptune का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "यूरेनस सेक्सटाइल नेपच्यून",
+      "core": "यह योग अंतर्ज्ञान और आध्यात्मिक ज्ञान को बढ़ाता है, तर्क, ज्योतिष और गूढ़ विज्ञानों में रुचि को प्रोत्साहित करता है। यह सकारात्मक कल्पना और नवीन विचारों में सहायक होता है, साथ ही पैतृक अनुदान की संभावना भी रहती है।",
+      "tone": "सहानुभूतिपूर्ण, सूचनात्मक और अन्वेषण को प्रोत्साहित करने वाला।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Uranus and Neptune opens opportunity/skill. Uranus: . Neptune: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Influence emerges via opportunity/skill.",
-      "relationships": "Influence emerges via opportunity/skill.",
-      "money": "Influence emerges via opportunity/skill.",
-      "health_adj": "Influence emerges via opportunity/skill."
+      "core": {
+        "en": "Intuition strengthens with sudden divine insights; interest grows in logic, astrology, and esoteric sciences; imagination manifests positively; innovative ideas develop; possible ancestral gifts.",
+        "hi": "अंतर्ज्ञान में वृद्धि और अचानक दिव्य ज्ञान; तर्क, ज्योतिष और गूढ़ विज्ञानों में रुचि बढ़ती है; कल्पना सकारात्मक रूप से साकार होती है; नवीन विचार विकसित होते हैं; पैतृक अनुदान की संभावना।"
+      },
+      "career": {
+        "en": "Innovative professional ideas and creative development are supported.",
+        "hi": "व्यावसायिक क्षेत्र में नवीन और रचनात्मक विचारों का विकास होता है।"
+      },
+      "relationships": {
+        "en": "Growing interest in spiritual and esoteric topics may influence social interactions.",
+        "hi": "आध्यात्मिक और गूढ़ विषयों में रुचि सामाजिक संबंधों को प्रभावित कर सकती है।"
+      },
+      "money": {
+        "en": "Potential for inheritance or gifts from ancestral property.",
+        "hi": "पैतृक संपत्ति से अनुदान या उपहार प्राप्ति की संभावना।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य के लिए कोई विशेष सुझाव नहीं।"
+      }
     },
     "aliases": [
       "Uranus sextile Neptune",

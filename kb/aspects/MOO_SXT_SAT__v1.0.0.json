@@ -11,82 +11,76 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "Increased seriousness and emotional restraint lead to focused efforts on family, business, and study, resulting in stable progress and new beginnings in business.",
-    "hi": "स्वभाव में गंभीरता और भावनात्मक संयम बढ़कर परिवार, व्यवसाय और अध्ययन में ध्यान केंद्रित करने से स्थाई प्रगति और नए व्यवसाय की शुरुआत होती है।"
+    "en": "Increased seriousness and emotional restraint lead to focused efforts on household, business, and study, resulting in stable progress and new beginnings in business.",
+    "hi": "स्वभाव में गंभीरता और भावनात्मक संयम बढ़कर घर, व्यवसाय और अध्ययन में ध्यान केंद्रित करने से स्थाई प्रगति और नए व्यवसाय की शुरुआत होती है।"
   },
   "facets": {
     "career": {
-      "en": "Engagement in serious work, plans, and study with emotional control; initiation of new business ventures.",
-      "hi": "भावनाओं पर संयम रखते हुए गंभीर कार्य, योजना और अध्ययन में लगना; नया व्यवसाय आरंभ करना।"
+      "en": "Engagement in serious work, plans, and study with emotional control; possibility of important business conversations and starting new ventures.",
+      "hi": "भावनात्मक संयम के साथ गंभीर कार्य, योजना और अध्ययन में लगना; व्यवसाय में महत्वपूर्ण वार्तालाप और नए व्यवसाय की संभावना।"
     },
     "relationships": {
-      "en": "Focused attention on household and family matters, fostering internal business conversations and plans.",
-      "hi": "घर और परिवार के कार्यों पर ध्यान देना, आंतरिक व्यवसाय वार्तालाप और योजनाओं को बढ़ावा देना।"
+      "en": "Focus on family and internal matters with increased seriousness and attention.",
+      "hi": "परिवार और आंतरिक मामलों पर गंभीरता और ध्यान बढ़ना।"
     },
     "money": {
       "en": "Successful economic planning leads to increased domestic and agricultural production, ending high expenses and achieving permanent progress.",
-      "hi": "सफल आर्थिक योजना से घरेलू और कृषि उत्पादन में वृद्धि, ऊँचे खर्च समाप्त होना और स्थाई उन्नति प्राप्त होना।"
+      "hi": "सफल आर्थिक योजना से घरेलू और कृषि उत्पादन में वृद्धि, ऊँचे खर्च समाप्त और स्थाई उन्नति प्राप्त होती है।"
     },
     "health_adj": {
-      "en": "Emotional restraint supports sustained focus and discipline in work and study.",
-      "hi": "भावनात्मक संयम से कार्य और अध्ययन में निरंतर ध्यान और अनुशासन बना रहता है।"
+      "en": "Emotional restraint supports steady progress; no specific health risks mentioned.",
+      "hi": "भावनात्मक संयम से स्थिर प्रगति होती है; कोई विशेष स्वास्थ्य जोखिम नहीं बताया गया।"
     }
   },
   "life_event_type": {
     "en": [
       "Starting a new business",
-      "Achieving stable progress",
-      "Engaging in serious plans or conversations"
+      "Achieving permanent progress"
     ],
     "hi": [
       "नया व्यवसाय आरंभ करना",
-      "स्थाई उन्नति प्राप्त करना",
-      "गंभीर योजना या वार्तालाप में लगना"
+      "स्थाई उन्नति प्राप्त करना"
     ]
   },
   "risk_notes": {
     "en": [
-      "Potential emotional restraint may limit spontaneous expression",
-      "High expenses end, but financial caution remains important"
+      "No explicit risks mentioned; emotional restraint is advised."
     ],
     "hi": [
-      "भावनात्मक संयम से सहज अभिव्यक्ति सीमित हो सकती है",
-      "ऊँचे खर्च समाप्त होते हैं, पर वित्तीय सावधानी आवश्यक है"
+      "कोई स्पष्ट जोखिम नहीं बताया गया; भावनात्मक संयम आवश्यक है।"
     ]
   },
   "actionables": {
     "applying": {
       "en": [
-        "Focus on household and family responsibilities",
-        "Plan work and study with emotional discipline",
-        "Prepare for new business opportunities"
+        "Focus on household and internal business tasks",
+        "Engage in serious work and study with emotional control",
+        "Plan economic activities carefully"
       ],
       "hi": [
-        "घर और परिवार की जिम्मेदारियों पर ध्यान दें",
-        "भावनात्मक अनुशासन के साथ कार्य और अध्ययन की योजना बनाएं",
-        "नए व्यवसाय के अवसरों के लिए तैयारी करें"
+        "घर और आंतरिक व्यवसाय के कार्यों पर ध्यान दें",
+        "भावनात्मक संयम के साथ गंभीर कार्य और अध्ययन करें",
+        "आर्थिक गतिविधियों की सावधानीपूर्वक योजना बनाएं"
       ]
     },
     "exact": {
       "en": [
-        "Engage in serious work and conversations",
-        "Implement successful economic plans",
-        "Begin new business ventures"
+        "Initiate new business ventures",
+        "Increase domestic and agricultural production"
       ],
       "hi": [
-        "गंभीर कार्य और वार्तालाप में लगें",
-        "सफल आर्थिक योजनाएं लागू करें",
-        "नए व्यवसाय आरंभ करें"
+        "नए व्यवसाय की शुरुआत करें",
+        "घरेलू और कृषि उत्पादन बढ़ाएं"
       ]
     },
     "separating": {
       "en": [
-        "Maintain emotional restraint to continue progress",
-        "Conclude high expenses and stabilize finances"
+        "Maintain emotional restraint to sustain progress",
+        "Avoid unnecessary high expenses"
       ],
       "hi": [
-        "प्रगति जारी रखने के लिए भावनात्मक संयम बनाए रखें",
-        "ऊँचे खर्च समाप्त करें और वित्त को स्थिर करें"
+        "प्रगति बनाए रखने के लिए भावनात्मक संयम रखें",
+        "अनावश्यक ऊँचे खर्च से बचें"
       ]
     }
   },
@@ -94,20 +88,24 @@
     "en": [
       "seriousness",
       "emotional restraint",
-      "family focus",
+      "household focus",
       "economic planning",
-      "new business",
-      "stable progress",
-      "increased production"
+      "business start",
+      "domestic production",
+      "agricultural increase",
+      "permanent progress",
+      "ending high expenses"
     ],
     "hi": [
       "गंभीरता",
       "भावनात्मक संयम",
-      "परिवार पर ध्यान",
+      "घर पर ध्यान",
       "आर्थिक योजना",
-      "नया व्यवसाय",
-      "स्थाई प्रगति",
-      "उत्पादन वृद्धि"
+      "व्यवसाय आरंभ",
+      "घरेलू उत्पादन",
+      "कृषि वृद्धि",
+      "स्थाई उन्नति",
+      "ऊँचे खर्च समाप्त"
     ]
   },
   "quality_tags": {
@@ -119,7 +117,7 @@
       "practical"
     ],
     "hi": [
-      "केन्द्रित",
+      "एकाग्र",
       "अनुशासित",
       "उत्पादक",
       "स्थिर",
@@ -181,56 +179,58 @@
   },
   "theme_overlays": {
     "en": [
-      "serious work",
-      "family and home",
+      "serious work and planning",
+      "emotional control",
       "economic success",
+      "family and domestic focus",
       "new beginnings"
     ],
     "hi": [
-      "गंभीर कार्य",
-      "परिवार और घर",
+      "गंभीर कार्य और योजना",
+      "भावनात्मक नियंत्रण",
       "आर्थिक सफलता",
+      "परिवार और घरेलू ध्यान",
       "नई शुरुआत"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-14"
   },
   "locales": {
     "en": {
       "title": "moo-sxt-sat",
-      "core": "Increased seriousness and emotional restraint foster focused efforts in family, business, and study, leading to stable progress and new ventures.",
+      "core": "This aspect brings increased seriousness and emotional restraint, encouraging focused efforts on family, business, and study, resulting in stable progress and new ventures.",
       "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "चंद्रमा षट्कोण शनि",
-      "core": "गंभीरता और भावनात्मक संयम परिवार, व्यवसाय और अध्ययन में ध्यान केंद्रित करने को बढ़ावा देते हैं, जिससे स्थाई प्रगति और नए प्रयास होते हैं।",
+      "title": "चंद्रमा सेकस्टाइल शनि",
+      "core": "यह योग गंभीरता और भावनात्मक संयम बढ़ाता है, जिससे परिवार, व्यवसाय और अध्ययन में ध्यान केंद्रित होता है और स्थिर प्रगति व नई शुरुआत होती है।",
       "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "Seriousness increases in disposition with emotional restraint leading to focused work and stable progress.",
-        "hi": "स्वभाव में गंभीरता और भावनात्मक संयम बढ़कर ध्यान केंद्रित कार्य और स्थाई प्रगति होती है।"
+        "en": "Seriousness increases in disposition. Attention is given to household/family/internal business tasks. Work is done in a successful economic plan manner. With emotional restraint, they engage in serious work/plans/study. Permanent progress is achieved. New business starts.",
+        "hi": "स्वभाव में गंभीरता बढ़ती है। घर/परिवार/आंतरिक व्यवसाय के कार्यों पर ध्यान रहता है। सफल आर्थिक योजना के अनुसार कार्य करते हैं। भावनाओं पर संयम रखते हुए गंभीर कार्य/योजना/अध्ययन करते हैं। स्थाई उन्नति प्राप्त होती है। नया व्यवसाय शुरू होता है।"
       },
       "career": {
-        "en": "Engagement in serious work, study, and new business ventures with economic planning.",
-        "hi": "गंभीर कार्य, अध्ययन और नए व्यवसाय में आर्थिक योजना के साथ लगाव।"
+        "en": "Engagement in serious work, plans, and study with emotional control; possibility of important business conversations and starting new ventures.",
+        "hi": "भावनात्मक संयम के साथ गंभीर कार्य, योजना और अध्ययन में लगना; व्यवसाय में महत्वपूर्ण वार्तालाप और नए व्यवसाय की संभावना।"
       },
       "relationships": {
-        "en": "Attention to household and family matters with internal business conversations.",
-        "hi": "घर और परिवार के कार्यों पर ध्यान और आंतरिक व्यवसाय वार्तालाप।"
+        "en": "Focus on family and internal matters with increased seriousness and attention.",
+        "hi": "परिवार और आंतरिक मामलों पर गंभीरता और ध्यान बढ़ना।"
       },
       "money": {
-        "en": "Successful economic plans increase domestic and agricultural production and end high expenses.",
-        "hi": "सफल आर्थिक योजनाएं घरेलू और कृषि उत्पादन बढ़ाती हैं और ऊँचे खर्च समाप्त करती हैं।"
+        "en": "Successful economic planning leads to increased domestic and agricultural production, ending high expenses and achieving permanent progress.",
+        "hi": "सफल आर्थिक योजना से घरेलू और कृषि उत्पादन में वृद्धि, ऊँचे खर्च समाप्त और स्थाई उन्नति प्राप्त होती है।"
       },
       "health_adj": {
-        "en": "Emotional restraint supports discipline and focus in work and study.",
-        "hi": "भावनात्मक संयम कार्य और अध्ययन में अनुशासन और ध्यान का समर्थन करता है।"
+        "en": "Emotional restraint supports steady progress; no specific health risks mentioned.",
+        "hi": "भावनात्मक संयम से स्थिर प्रगति होती है; कोई विशेष स्वास्थ्य जोखिम नहीं बताया गया।"
       }
     },
     "aliases": [

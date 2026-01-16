@@ -10,52 +10,140 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Moon and Mars opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Public reception, brand sentiment, consistency.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-    "relationships": "Bonding, nurturance, emotional safety.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-    "money": "Cyclic cashflow, consumer sentiment.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-    "health_adj": "Hydration, sleep, digestion; stress sensitivity.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "This aspect brings increased health, enthusiasm, and emotional stability. The person expresses emotions honestly and clearly, actively engages in family duties and physical activities, and improves relationships and professional areas wisely.",
+    "hi": "यह योग स्वास्थ्य, उत्साह और भावनात्मक स्थिरता में वृद्धि लाता है। व्यक्ति अपनी भावनाओं को ईमानदारी और स्पष्टता से व्यक्त करता है, परिवारिक कार्यों और शारीरिक गतिविधियों में सक्रिय रहता है, और संबंधों तथा कार्यक्षेत्र में बुद्धिमानी से सुधार करता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Impulsive actions or accidents; channel energy into training."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Moon: nurture, align routines, soft-launch; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Moon: nurture, align routines, soft-launch; Mars: execute, train, assert; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Enhances business and public relations; supports wise improvements in residence and work environment.",
+      "hi": "व्यवसाय और जनसंपर्क में वृद्धि करता है; निवास स्थान और कार्यक्षेत्र में योजनाबद्ध सुधार करता है।"
+    },
+    "relationships": {
+      "en": "Fosters honest emotional expression and rapport exchange, especially with women.",
+      "hi": "भावनाओं का ईमानदार प्रदर्शन और महिलाओं से तालमेल विनिमय को बढ़ावा देता है।"
+    },
+    "money": {
+      "en": "Business and public relations improvements may positively influence financial matters.",
+      "hi": "व्यवसाय और जनसंपर्क में सुधार वित्तीय मामलों पर सकारात्मक प्रभाव डाल सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Increased health, consciousness, enthusiasm; active participation in sports and physical exercise.",
+      "hi": "स्वास्थ्य, चेतना और उत्साह में वृद्धि; खेल और शारीरिक व्यायाम में सक्रिय भागीदारी।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Health and vitality improvement",
+      "Emotional clarity and stability",
+      "Family and household activity",
+      "Sports and physical exercise",
+      "Business and public relations enhancement",
+      "Residence/workplace improvement"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Moon: nurture, align routines, soft-launch; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Moon: nurture, align routines, soft-launch; Mars: execute, train, assert; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Moon: nurture, align routines, soft-launch; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Moon: nurture, align routines, soft-launch; Mars: execute, train, assert; tone: opportunity/skill)."
+    "hi": [
+      "स्वास्थ्य और जीवन शक्ति में सुधार",
+      "भावनात्मक स्पष्टता और स्थिरता",
+      "परिवार और गृहकार्य",
+      "खेल और शारीरिक व्यायाम",
+      "व्यवसाय और जनसंपर्क में वृद्धि",
+      "निवास/कार्यस्थल में सुधार"
     ]
   },
-  "keywords": [
-    "assertion",
-    "care",
-    "conflict",
-    "drive",
-    "emotion",
-    "habits",
-    "home",
-    "mechanics",
-    "mother",
-    "opportunity",
-    "public mood",
-    "sextile",
-    "skill",
-    "surgery"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Express emotions honestly and clearly",
+        "Engage enthusiastically in family and household tasks",
+        "Participate in sports or physical exercise",
+        "Build rapport with women",
+        "Make wise improvements in residence and work areas",
+        "Enhance business and public relations"
+      ],
+      "hi": [
+        "भावनाओं को ईमानदारी और स्पष्टता से व्यक्त करें",
+        "परिवार और गृहकार्य में उत्साहपूर्वक भाग लें",
+        "खेल या शारीरिक व्यायाम में भाग लें",
+        "महिलाओं से तालमेल बनाएं",
+        "निवास और कार्यक्षेत्र में बुद्धिमानी से सुधार करें",
+        "व्यवसाय और जनसंपर्क बढ़ाएं"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Maintain emotional stability",
+        "Focus on family and household enthusiasm",
+        "Engage actively in physical activities",
+        "Strengthen business and public relations",
+        "Implement planned improvements at home and work"
+      ],
+      "hi": [
+        "भावनात्मक स्थिरता बनाए रखें",
+        "परिवार और गृहकार्य में उत्साह बनाए रखें",
+        "शारीरिक गतिविधियों में सक्रिय रहें",
+        "व्यवसाय और जनसंपर्क मजबूत करें",
+        "घर और कार्यस्थल में योजनाबद्ध सुधार करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Monitor emotional expression for clarity",
+        "Sustain enthusiasm in family tasks",
+        "Continue physical exercise routines",
+        "Maintain improvements in professional and residential areas"
+      ],
+      "hi": [
+        "भावनाओं के प्रदर्शन की स्पष्टता पर ध्यान दें",
+        "परिवार के कार्यों में उत्साह बनाए रखें",
+        "शारीरिक व्यायाम जारी रखें",
+        "व्यवसायिक और आवासीय सुधारों को बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "health increase",
+      "emotional stability",
+      "honest expression",
+      "family tasks",
+      "sports participation",
+      "rapport with women",
+      "business growth",
+      "public relations",
+      "wise improvements"
+    ],
+    "hi": [
+      "स्वास्थ्य वृद्धि",
+      "भावनात्मक स्थिरता",
+      "ईमानदार अभिव्यक्ति",
+      "परिवार के कार्य",
+      "खेल में भागीदारी",
+      "महिलाओं से तालमेल",
+      "व्यवसाय वृद्धि",
+      "जनसंपर्क",
+      "बुद्धिमानी से सुधार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "enthusiasm",
+      "clarity",
+      "stability",
+      "wisdom",
+      "activity"
+    ],
+    "hi": [
+      "उत्साह",
+      "स्पष्टता",
+      "स्थिरता",
+      "बुद्धिमानी",
+      "गतिविधि"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -109,36 +197,63 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "health and vitality",
+      "emotional honesty",
+      "family engagement",
+      "physical fitness",
+      "professional growth",
+      "relationship rapport"
+    ],
+    "hi": [
+      "स्वास्थ्य और जीवन शक्ति",
+      "भावनात्मक ईमानदारी",
+      "परिवार की भागीदारी",
+      "शारीरिक फिटनेस",
+      "पेशेवर विकास",
+      "संबंधों का तालमेल"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Moon Sextile Mars",
-      "core": "Sextile between Moon and Mars opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "moo-sxt-mar",
+      "core": "This aspect enhances health, enthusiasm, emotional clarity, family involvement, physical activity, and professional improvements.",
+      "tone": "Warm, neutral, encouraging"
     },
     "hi": {
-      "title": "Moon Sextile Mars (हिन्दी)",
-      "core": "Moon और Mars का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "चंद्रमा षट्कोण मंगल",
+      "core": "यह योग स्वास्थ्य, उत्साह, भावनात्मक स्पष्टता, परिवार की भागीदारी, शारीरिक गतिविधि और पेशेवर सुधारों को बढ़ावा देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ, प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Moon and Mars opens opportunity/skill. Moon: emotion, care, habits, home, public mood, mother. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Public reception, brand sentiment, consistency.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-      "relationships": "Bonding, nurturance, emotional safety.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-      "money": "Cyclic cashflow, consumer sentiment.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-      "health_adj": "Hydration, sleep, digestion; stress sensitivity.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Increased health, enthusiasm, emotional stability, honest emotional expression, active family and physical engagement, wise improvements in residence and work.",
+        "hi": "स्वास्थ्य, उत्साह, भावनात्मक स्थिरता में वृद्धि, भावनाओं का ईमानदार प्रदर्शन, परिवार और शारीरिक गतिविधियों में सक्रिय भागीदारी, निवास और कार्यक्षेत्र में बुद्धिमानी से सुधार।"
+      },
+      "career": {
+        "en": "Business and public relations increase; wise improvements in residence and workplace.",
+        "hi": "व्यवसाय और जनसंपर्क में वृद्धि; निवास और कार्यस्थल में योजनाबद्ध सुधार।"
+      },
+      "relationships": {
+        "en": "Honest emotional expression and rapport exchange, especially with women.",
+        "hi": "भावनाओं का ईमानदार प्रदर्शन और महिलाओं से तालमेल विनिमय।"
+      },
+      "money": {
+        "en": "Business and public relations improvements may positively affect finances.",
+        "hi": "व्यवसाय और जनसंपर्क में सुधार वित्तीय मामलों पर सकारात्मक प्रभाव डाल सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Increased health, consciousness, enthusiasm; participation in sports and physical exercise.",
+        "hi": "स्वास्थ्य, चेतना, उत्साह में वृद्धि; खेल और शारीरिक व्यायाम में भागीदारी।"
+      }
     },
     "aliases": [
       "Moon sextile Mars",

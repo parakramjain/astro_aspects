@@ -10,40 +10,112 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Pluto and Pluto opens opportunity/skill. Pluto: . Pluto: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Influence emerges via opportunity/skill.",
-    "relationships": "Influence emerges via opportunity/skill.",
-    "money": "Influence emerges via opportunity/skill.",
-    "health_adj": "Influence emerges via opportunity/skill."
+  "core_meaning": {
+    "en": "Strengthening of willpower and intuition enables skillful transformation of old systems and wise resolution of financial matters; potential for entering marriage if unmarried.",
+    "hi": "इच्छाशक्ति और अंतर्ज्ञान की शक्ति में वृद्धि से पुरानी प्रणालियों का कुशल नवीनीकरण और आर्थिक समस्याओं का बुद्धिमानी से समाधान संभव होता है; यदि अविवाहित हो तो विवाह की संभावना रहती है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Pluto: act, iterate, measure; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Pluto: act, iterate, measure; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Skillfully repurposes old systems and resolves professional financial issues with patience and efficiency.",
+      "hi": "व्यावसायिक स्थिति में पुरानी प्रणालियों का उपयोग करते हुए नवनिर्माण करता है और आर्थिक समस्याओं को सहनशीलता व कुशलता से सुलझाता है।"
+    },
+    "relationships": {
+      "en": "If unmarried, there may be entry into marriage or adoption of a new life system.",
+      "hi": "यदि अविवाहित है तो विवाह या नई जीवन प्रणाली प्राप्त करने की स्थिति बनती है।"
+    },
+    "money": {
+      "en": "Financial issues are resolved wisely and with patience.",
+      "hi": "आर्थिक समस्याओं को सहनशीलता और कुशलता से सुलझाता है।"
+    },
+    "health_adj": {
+      "en": "Willpower and intuition are strengthened, enhancing sensitivity and insight.",
+      "hi": "इच्छाशक्ति और अंतर्ज्ञान में वृद्धि से संवेदनशीलता और अंतर्दृष्टि में सुधार होता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Marriage",
+      "Financial resolution",
+      "System transformation"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Pluto: act, iterate, measure; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Pluto: act, iterate, measure; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Pluto: act, iterate, measure; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Pluto: act, iterate, measure; tone: opportunity/skill)."
+    "hi": [
+      "विवाह",
+      "आर्थिक समाधान",
+      "प्रणाली का नवीनीकरण"
     ]
   },
-  "keywords": [
-    "opportunity",
-    "sextile",
-    "skill"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Use strengthened willpower and intuition to improve existing systems.",
+        "Approach financial problems with patience and skill."
+      ],
+      "hi": [
+        "बढ़ी हुई इच्छाशक्ति और अंतर्ज्ञान का उपयोग कर पुरानी प्रणालियों को सुधारें।",
+        "आर्थिक समस्याओं को धैर्य और कुशलता से सुलझाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Consider entering marriage if unmarried.",
+        "Focus on repurposing old systems skillfully."
+      ],
+      "hi": [
+        "यदि अविवाहित हैं तो विवाह करने पर विचार करें।",
+        "पुरानी प्रणालियों का कुशल पुनर्नियोजन करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain patience in resolving financial issues.",
+        "Continue to develop intuition and willpower."
+      ],
+      "hi": [
+        "आर्थिक समस्याओं को सुलझाने में धैर्य बनाए रखें।",
+        "अंतर्ज्ञान और इच्छाशक्ति का विकास जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "willpower",
+      "intuition",
+      "system transformation",
+      "marriage",
+      "financial resolution",
+      "skillful",
+      "patience"
+    ],
+    "hi": [
+      "इच्छाशक्ति",
+      "अंतर्ज्ञान",
+      "प्रणाली का नवीनीकरण",
+      "विवाह",
+      "आर्थिक समाधान",
+      "कुशल",
+      "धैर्य"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "strengthening",
+      "skillful",
+      "wise",
+      "patient",
+      "transformative"
+    ],
+    "hi": [
+      "वृद्धि",
+      "कुशल",
+      "बुद्धिमान",
+      "धैर्यशील",
+      "परिवर्तनकारी"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -96,36 +168,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "personal growth",
+      "relationship development",
+      "financial wisdom",
+      "system renewal"
+    ],
+    "hi": [
+      "व्यक्तिगत विकास",
+      "संबंध विकास",
+      "आर्थिक बुद्धिमत्ता",
+      "प्रणाली नवीनीकरण"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Pluto Sextile Pluto",
-      "core": "Sextile between Pluto and Pluto opens opportunity/skill. Pluto: . Pluto: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "plu-sxt-plu",
+      "core": "Strengthening willpower and intuition to transform old systems and resolve financial matters wisely; potential marriage if unmarried.",
+      "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "Pluto Sextile Pluto (हिन्दी)",
-      "core": "Pluto और Pluto का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "प्लूटो सेकस्टाइल प्लूटो",
+      "core": "इच्छाशक्ति और अंतर्ज्ञान में वृद्धि से पुरानी प्रणालियों का सुधार और आर्थिक मामलों का बुद्धिमानी से समाधान; अविवाहितों के लिए विवाह की संभावना।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Pluto and Pluto opens opportunity/skill. Pluto: . Pluto: . General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Influence emerges via opportunity/skill.",
-      "relationships": "Influence emerges via opportunity/skill.",
-      "money": "Influence emerges via opportunity/skill.",
-      "health_adj": "Influence emerges via opportunity/skill."
+      "core": {
+        "en": "Willpower and intuition strengthen, enabling skillful transformation and wise financial resolution; possible marriage if unmarried.",
+        "hi": "इच्छाशक्ति और अंतर्ज्ञान में वृद्धि से कुशल परिवर्तन और आर्थिक समस्याओं का बुद्धिमानी से समाधान संभव; अविवाहितों के लिए विवाह की संभावना।"
+      },
+      "career": {
+        "en": "Skillful repurposing of old systems and patient, efficient handling of financial issues in professional life.",
+        "hi": "व्यावसायिक जीवन में पुरानी प्रणालियों का कुशल पुनर्नियोजन और आर्थिक समस्याओं का धैर्यपूर्वक समाधान।"
+      },
+      "relationships": {
+        "en": "Potential entry into marriage or new life system if unmarried.",
+        "hi": "यदि अविवाहित हो तो विवाह या नई जीवन प्रणाली प्राप्ति की संभावना।"
+      },
+      "money": {
+        "en": "Financial problems resolved with patience and skill.",
+        "hi": "आर्थिक समस्याओं को धैर्य और कुशलता से सुलझाना।"
+      },
+      "health_adj": {
+        "en": "Increased willpower and intuition enhance sensitivity and insight.",
+        "hi": "इच्छाशक्ति और अंतर्ज्ञान में वृद्धि से संवेदनशीलता और अंतर्दृष्टि में सुधार।"
+      }
     },
     "aliases": [
       "Pluto sextile Pluto",

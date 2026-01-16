@@ -10,46 +10,130 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Uranus and Saturn opens opportunity/skill. Uranus: . Saturn: discipline, structure, time, limits, dharma via effort. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Authority via mastery, long-term credibility. Emphasis: opportunity/skill.",
-    "relationships": " Commitment realism, boundaries, duty. Emphasis: opportunity/skill.",
-    "money": " Slow steady accrual, austerity, debt realism. Emphasis: opportunity/skill.",
-    "health_adj": " Bones, teeth, chronic load; routines & posture. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Responsibility towards serious institutional or professional duties, connecting with elders and specialists, gaining progressive agreements, and harmoniously blending old and new situations with enhanced intuition and practical organization.",
+    "hi": "संस्था या गंभीर पेशेवर जिम्मेदारियों को ग्रहण करना, बुजुर्गों और विशेषज्ञों से जुड़ना, उन्नतिकारक संधियाँ प्राप्त करना, नई और पुरानी परिस्थितियों को मधुरता से समन्वयित करना, अंतर्ज्ञान और व्यावहारिक आयोजन में वृद्धि।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Burnout via over-responsibility; schedule recovery windows."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Opportunities in political management, joint ventures, government projects, and mechanical-scientific research; progressive professional agreements; practical organization of abilities inspired by studies.",
+      "hi": "राजनीतिक प्रबंध, संयुक्त व्यवसाय, सरकारी परियोजनाएँ, यांत्रिक-वैज्ञानिक शोध में अवसर; उन्नतिकारक पेशेवर संधियाँ; अध्ययन से प्रेरित व्यावहारिक क्षमताओं का आयोजन।"
+    },
+    "relationships": {
+      "en": "Professional connections with elders, specialists, and high-status individuals; responsibility towards serious friends or institutional contacts.",
+      "hi": "बुजुर्गों, विशेषज्ञों और उच्च वर्ग के व्यक्तियों से पेशेवर संबंध; गंभीर मित्रों या संस्थागत संपर्कों के प्रति जिम्मेदारी।"
+    },
+    "money": {
+      "en": "Progressive agreements and opportunities linked to government or joint ventures may enhance financial prospects; unexpected opportunities can arise.",
+      "hi": "सरकारी या संयुक्त व्यवसाय से जुड़े उन्नतिकारक संधियाँ और अवसर वित्तीय संभावनाएँ बढ़ा सकते हैं; अचानक अवसर प्राप्त हो सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Increased intuition and focus support practical organization; no specific health risks mentioned.",
+      "hi": "बढ़ा हुआ अंतर्ज्ञान और एकाग्रता व्यावहारिक आयोजन में सहायक; कोई विशेष स्वास्थ्य जोखिम नहीं बताया गया।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional responsibility acceptance",
+      "Political or government project involvement",
+      "Joint venture opportunities",
+      "Mechanical or scientific research engagement",
+      "Unexpected opportunities"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Uranus: act, iterate, measure; Saturn: structure, commit, audit; tone: opportunity/skill)."
+    "hi": [
+      "पेशेवर जिम्मेदारी ग्रहण करना",
+      "राजनीतिक या सरकारी परियोजनाओं में भागीदारी",
+      "संयुक्त व्यवसाय के अवसर",
+      "यांत्रिक या वैज्ञानिक शोध में संलग्नता",
+      "अप्रत्याशित अवसर"
     ]
   },
-  "keywords": [
-    "dharma via effort",
-    "discipline",
-    "limits",
-    "opportunity",
-    "sextile",
-    "skill",
-    "structure",
-    "time"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balance when blending old and new situations."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं बताया गया; पुरानी और नई परिस्थितियों के समन्वय में संतुलन बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Take responsibility for serious or institutional duties",
+        "Connect professionally with elders and specialists",
+        "Seek progressive agreements and collaborations"
+      ],
+      "hi": [
+        "गंभीर या संस्थागत जिम्मेदारियाँ ग्रहण करें",
+        "बुजुर्गों और विशेषज्ञों से पेशेवर रूप से जुड़ें",
+        "उन्नतिकारक संधियाँ और सहयोग खोजें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Organize abilities practically inspired by studies",
+        "Blend old and new situations harmoniously",
+        "Be open to unexpected opportunities"
+      ],
+      "hi": [
+        "अध्ययन से प्रेरित क्षमताओं को व्यावहारिक रूप से आयोजित करें",
+        "पुरानी और नई परिस्थितियों को मधुरता से समन्वयित करें",
+        "अप्रत्याशित अवसरों के लिए खुले रहें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain focus and intuition to support transitions",
+        "Avoid neglecting responsibilities towards serious contacts"
+      ],
+      "hi": [
+        "परिवर्तनों में सहायता के लिए एकाग्रता और अंतर्ज्ञान बनाए रखें",
+        "गंभीर संपर्कों के प्रति जिम्मेदारियों की अनदेखी न करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "responsibility",
+      "professional connections",
+      "progressive agreements",
+      "political management",
+      "joint ventures",
+      "government projects",
+      "scientific research",
+      "intuition",
+      "organization",
+      "unexpected opportunities"
+    ],
+    "hi": [
+      "जिम्मेदारी",
+      "पेशेवर संबंध",
+      "उन्नतिकारक संधियाँ",
+      "राजनीतिक प्रबंध",
+      "संयुक्त व्यवसाय",
+      "सरकारी परियोजनाएँ",
+      "वैज्ञानिक शोध",
+      "अंतर्ज्ञान",
+      "आयोजन",
+      "अप्रत्याशित अवसर"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "harmonious",
+      "progressive",
+      "responsible",
+      "inspired",
+      "focused"
+    ],
+    "hi": [
+      "मधुर",
+      "उन्नतिकारक",
+      "जिम्मेदार",
+      "प्रेरित",
+      "एकाग्र"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +187,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "old and new integration",
+      "professional growth",
+      "collaborative opportunities",
+      "intuitive focus"
+    ],
+    "hi": [
+      "पुराना और नया समन्वय",
+      "पेशेवर विकास",
+      "सहयोगी अवसर",
+      "अंतर्ज्ञान और एकाग्रता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Uranus Sextile Saturn",
-      "core": "Sextile between Uranus and Saturn opens opportunity/skill. Uranus: . Saturn: discipline, structure, time, limits, dharma via effort. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ura-sxt-sat",
+      "core": "Responsibility and progressive collaboration with serious and high-status professional contacts, blending tradition with innovation.",
+      "tone": "Warm, professional, and balanced"
     },
     "hi": {
-      "title": "Uranus Sextile Saturn (हिन्दी)",
-      "core": "Uranus और Saturn का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "यूरेनस सेकस्टाइल शनि",
+      "core": "गंभीर और उच्च वर्ग के पेशेवर संपर्कों के साथ जिम्मेदारी और उन्नतिकारक सहयोग, परंपरा और नवाचार का समन्वय।",
+      "tone": "सहानुभूतिपूर्ण, पेशेवर और संतुलित"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Uranus and Saturn opens opportunity/skill. Uranus: . Saturn: discipline, structure, time, limits, dharma via effort. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Authority via mastery, long-term credibility. Emphasis: opportunity/skill.",
-      "relationships": " Commitment realism, boundaries, duty. Emphasis: opportunity/skill.",
-      "money": " Slow steady accrual, austerity, debt realism. Emphasis: opportunity/skill.",
-      "health_adj": " Bones, teeth, chronic load; routines & posture. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Responsibility towards serious institutional or professional duties, connecting with elders and specialists, gaining progressive agreements, and harmoniously blending old and new situations with enhanced intuition and practical organization.",
+        "hi": "संस्था या गंभीर पेशेवर जिम्मेदारियों को ग्रहण करना, बुजुर्गों और विशेषज्ञों से जुड़ना, उन्नतिकारक संधियाँ प्राप्त करना, नई और पुरानी परिस्थितियों को मधुरता से समन्वयित करना, अंतर्ज्ञान और व्यावहारिक आयोजन में वृद्धि।"
+      },
+      "career": {
+        "en": "Opportunities in political management, joint ventures, government projects, and mechanical-scientific research; progressive professional agreements; practical organization of abilities inspired by studies.",
+        "hi": "राजनीतिक प्रबंध, संयुक्त व्यवसाय, सरकारी परियोजनाएँ, यांत्रिक-वैज्ञानिक शोध में अवसर; उन्नतिकारक पेशेवर संधियाँ; अध्ययन से प्रेरित व्यावहारिक क्षमताओं का आयोजन।"
+      },
+      "relationships": {
+        "en": "Professional connections with elders, specialists, and high-status individuals; responsibility towards serious friends or institutional contacts.",
+        "hi": "बुजुर्गों, विशेषज्ञों और उच्च वर्ग के व्यक्तियों से पेशेवर संबंध; गंभीर मित्रों या संस्थागत संपर्कों के प्रति जिम्मेदारी।"
+      },
+      "money": {
+        "en": "Progressive agreements and opportunities linked to government or joint ventures may enhance financial prospects; unexpected opportunities can arise.",
+        "hi": "सरकारी या संयुक्त व्यवसाय से जुड़े उन्नतिकारक संधियाँ और अवसर वित्तीय संभावनाएँ बढ़ा सकते हैं; अचानक अवसर प्राप्त हो सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Increased intuition and focus support practical organization; no specific health risks mentioned.",
+        "hi": "बढ़ा हुआ अंतर्ज्ञान और एकाग्रता व्यावहारिक आयोजन में सहायक; कोई विशेष स्वास्थ्य जोखिम नहीं बताया गया।"
+      }
     },
     "aliases": [
       "Uranus sextile Saturn",

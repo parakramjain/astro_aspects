@@ -11,39 +11,37 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "Communication and exchange of ideas related to family and work take place, often involving visits, discussions, and events at home with participation from women and guests. Business focus may include domestic and women's clothing sales.",
-    "hi": "पारिवारिक एवं कार्य संबंधी विचारों का आदान-प्रदान होता है, जिसमें घर पर अतिथि आगमन, चर्चा और महिलाओं की भागीदारी वाले कार्यक्रम शामिल होते हैं। व्यापार में घरेलू एवं महिलाओं के वस्त्रों की बिक्री पर ध्यान होता है।"
+    "en": "Exchange of family and work-related ideas, domestic social interactions, and business focus on women-related clothing.",
+    "hi": "पारिवारिक एवं कार्य संबंधी विचारों का आदान-प्रदान, घरेलू सामाजिक मेलजोल, और महिलाओं से संबंधित वस्त्रों पर व्यापार का ध्यान।"
   },
   "facets": {
     "career": {
-      "en": "Focus on domestic and women's clothing/apparel sales in business contexts.",
-      "hi": "व्यापार में घरेलू एवं महिलाओं से संबंधित वस्त्रों की बिक्री पर ध्यान।"
+      "en": "Business activities related to domestic fabrics, clothing, and women’s apparel sales.",
+      "hi": "घरेलू वस्त्र, कपड़े और महिलाओं से संबंधित वस्त्रों की बिक्री से जुड़ी व्यापारीक गतिविधियाँ।"
     },
     "relationships": {
-      "en": "Family and group discussions, telephonic conversations with relatives, and domestic events involving guests and women.",
-      "hi": "पारिवारिक एवं समूह चर्चा, रिश्तेदारों से टेलीफोन वार्तालाप, तथा घर पर अतिथि और महिलाओं की भागीदारी वाले आयोजन।"
+      "en": "Family and group discussions, telephonic conversations with relatives, and events involving women’s participation.",
+      "hi": "पारिवारिक और समूह चर्चा, रिश्तेदारों से टेलीफोनिक वार्तालाप, तथा महिलाओं की भागीदारी वाले कार्यक्रम।"
     },
     "money": {
-      "en": "Business activities related to domestic fabrics and women's clothing sales.",
-      "hi": "घरेलू वस्त्र और महिलाओं के कपड़ों की बिक्री से जुड़ा व्यापार।"
+      "en": "Opportunities in sales of domestic and women-related clothing items.",
+      "hi": "घरेलू एवं महिलाओं से संबंधित वस्त्रों की बिक्री में अवसर।"
     },
     "health_adj": {
-      "en": "No specific health indications mentioned.",
-      "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं।"
+      "en": "No specific health adjustments indicated.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
     }
   },
   "life_event_type": {
     "en": [
       "Family gatherings",
-      "Domestic events",
-      "Telephonic conversations with relatives",
+      "Domestic social events",
       "Business dealings in clothing"
     ],
     "hi": [
-      "पारिवारिक मिलन",
-      "घरेलू आयोजन",
-      "रिश्तेदारों से टेलीफोन वार्तालाप",
-      "कपड़ों के व्यापार से संबंधित गतिविधियाँ"
+      "पारिवारिक आयोजन",
+      "घरेलू सामाजिक कार्यक्रम",
+      "वस्त्र व्यापार से संबंधित कार्य"
     ]
   },
   "risk_notes": {
@@ -53,65 +51,79 @@
   "actionables": {
     "applying": {
       "en": [
-        "Engage in family and work-related discussions.",
-        "Host or attend domestic events involving friends and women.",
-        "Focus business efforts on domestic and women's clothing sales."
+        "Engage in family discussions and telephonic communication.",
+        "Participate in domestic social events with friends and relatives.",
+        "Focus on business related to women’s clothing and domestic fabrics."
       ],
       "hi": [
-        "पारिवारिक एवं कार्य संबंधी चर्चाओं में भाग लें।",
-        "मित्रों और महिलाओं की भागीदारी वाले घरेलू आयोजनों में शामिल हों।",
-        "व्यापार में घरेलू एवं महिलाओं के वस्त्रों की बिक्री पर ध्यान दें।"
+        "पारिवारिक चर्चा और टेलीफोनिक संवाद में भाग लें।",
+        "मित्रों और रिश्तेदारों के साथ घरेलू सामाजिक कार्यक्रमों में भाग लें।",
+        "महिलाओं के वस्त्र और घरेलू वस्त्रों से संबंधित व्यापार पर ध्यान दें।"
       ]
     },
     "exact": {
       "en": [
-        "Facilitate telephonic communication with family and relatives.",
-        "Encourage participation of women in home discussions and events."
+        "Host or attend family events involving guests and women’s participation.",
+        "Conduct telephonic conversations with family and relatives.",
+        "Engage in special discussions or group events at home."
       ],
       "hi": [
-        "पारिवारिक एवं रिश्तेदारों से टेलीफोन वार्तालाप को प्रोत्साहित करें।",
-        "घर पर महिलाओं की भागीदारी को बढ़ावा दें।"
+        "अतिथियों और महिलाओं की भागीदारी वाले पारिवारिक आयोजन करें या उनमें भाग लें।",
+        "पारिवारिक और रिश्तेदारों से टेलीफोनिक वार्तालाप करें।",
+        "घर पर विशेष चर्चा या समूह कार्यक्रम आयोजित करें।"
       ]
     },
     "separating": {
       "en": [
-        "Avoid neglecting family communication during busy work periods.",
-        "Do not ignore the importance of domestic social events."
+        "Maintain communication with family and social groups.",
+        "Continue focus on domestic and women-related business areas."
       ],
       "hi": [
-        "व्यस्त कार्यकाल में पारिवारिक संवाद की अनदेखी न करें।",
-        "घरेलू सामाजिक आयोजनों के महत्व को नजरअंदाज न करें।"
+        "पारिवारिक और सामाजिक समूहों से संवाद बनाए रखें।",
+        "घरेलू और महिलाओं से संबंधित व्यापार क्षेत्रों पर ध्यान जारी रखें।"
       ]
     }
   },
   "keywords": {
     "en": [
-      "family communication",
-      "domestic events",
-      "women participation",
+      "family ideas",
+      "work exchange",
+      "guests",
+      "agreement",
       "telephonic conversations",
-      "clothing sales"
+      "domestic event",
+      "women participation",
+      "domestic fabrics",
+      "women’s clothing",
+      "business"
     ],
     "hi": [
-      "पारिवारिक संवाद",
+      "पारिवारिक विचार",
+      "कार्य आदान-प्रदान",
+      "अतिथि",
+      "सहमति",
+      "टेलीफोनिक वार्तालाप",
       "घरेलू आयोजन",
       "महिलाओं की भागीदारी",
-      "टेलीफोन वार्तालाप",
-      "कपड़ों की बिक्री"
+      "घरेलू वस्त्र",
+      "महिलाओं के वस्त्र",
+      "व्यापार"
     ]
   },
   "quality_tags": {
     "en": [
-      "communicative",
-      "domestic",
       "social",
+      "domestic",
+      "communicative",
+      "collaborative",
       "business-oriented"
     ],
     "hi": [
-      "संचारात्मक",
-      "घरेलू",
       "सामाजिक",
-      "व्यापारिक"
+      "घरेलू",
+      "संचारात्मक",
+      "सहयोगी",
+      "व्यापार-केंद्रित"
     ]
   },
   "weights_hint": {
@@ -169,58 +181,56 @@
   },
   "theme_overlays": {
     "en": [
-      "family",
-      "communication",
-      "women",
-      "business",
-      "domestic life"
+      "family interaction",
+      "social gatherings",
+      "women’s roles",
+      "business in apparel"
     ],
     "hi": [
-      "परिवार",
-      "संचार",
-      "महिलाएं",
-      "व्यापार",
-      "घरेलू जीवन"
+      "पारिवारिक संवाद",
+      "सामाजिक मेलजोल",
+      "महिलाओं की भूमिका",
+      "वस्त्र व्यापार"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-14"
   },
   "locales": {
     "en": {
       "title": "mer-con-moo",
-      "core": "Exchange of family and work-related ideas with social and business interactions at home.",
-      "tone": "Warm, neutral, and informative"
+      "core": "Exchange of family and work ideas with social and business focus on women’s clothing.",
+      "tone": "Warm, neutral, and collaborative."
     },
     "hi": {
-      "title": "बुध का चंद्रमा से संयोग",
-      "core": "पारिवारिक और कार्य संबंधी विचारों का आदान-प्रदान, सामाजिक एवं व्यापारिक गतिविधियाँ घर पर।",
-      "tone": "स्नेहपूर्ण, तटस्थ और सूचनात्मक"
+      "title": "बुध योग चंद्र",
+      "core": "पारिवारिक और कार्य विचारों का आदान-प्रदान, सामाजिक और व्यापारिक ध्यान महिलाओं के वस्त्रों पर।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सहयोगी।"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "Exchange of family and work-related ideas occurs with visits and discussions at home involving women and guests.",
-        "hi": "पारिवारिक एवं कार्य संबंधी विचारों का आदान-प्रदान होता है, जिसमें घर पर अतिथि आगमन और महिलाओं की भागीदारी होती है।"
+        "en": "Exchange of family and work-related ideas, domestic social interactions, and business focus on women-related clothing.",
+        "hi": "पारिवारिक एवं कार्य संबंधी विचारों का आदान-प्रदान, घरेलू सामाजिक मेलजोल, और महिलाओं से संबंधित वस्त्रों पर व्यापार का ध्यान।"
       },
       "career": {
-        "en": "Business focus on domestic and women's clothing/apparel sales.",
-        "hi": "व्यापार में घरेलू एवं महिलाओं के वस्त्रों की बिक्री पर ध्यान।"
+        "en": "Business activities related to domestic fabrics, clothing, and women’s apparel sales.",
+        "hi": "घरेलू वस्त्र, कपड़े और महिलाओं से संबंधित वस्त्रों की बिक्री से जुड़ी व्यापारीक गतिविधियाँ।"
       },
       "relationships": {
-        "en": "Family and group discussions, telephonic conversations with relatives, and domestic events involving guests and women.",
-        "hi": "पारिवारिक एवं समूह चर्चा, रिश्तेदारों से टेलीफोन वार्तालाप, तथा घर पर अतिथि और महिलाओं की भागीदारी वाले आयोजन।"
+        "en": "Family and group discussions, telephonic conversations with relatives, and events involving women’s participation.",
+        "hi": "पारिवारिक और समूह चर्चा, रिश्तेदारों से टेलीफोनिक वार्तालाप, तथा महिलाओं की भागीदारी वाले कार्यक्रम।"
       },
       "money": {
-        "en": "Business activities related to domestic fabrics and women's clothing sales.",
-        "hi": "घरेलू वस्त्र और महिलाओं के कपड़ों की बिक्री से जुड़ा व्यापार।"
+        "en": "Opportunities in sales of domestic and women-related clothing items.",
+        "hi": "घरेलू एवं महिलाओं से संबंधित वस्त्रों की बिक्री में अवसर।"
       },
       "health_adj": {
-        "en": "No specific health indications mentioned.",
-        "hi": "स्वास्थ्य संबंधी कोई विशेष संकेत नहीं।"
+        "en": "No specific health adjustments indicated.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं।"
       }
     },
     "aliases": [

@@ -10,46 +10,140 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Uranus and Mars opens opportunity/skill. Uranus: . Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-    "relationships": " Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-    "money": " Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-    "health_adj": " Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Increased activity driven by desires for independence, organization, and new initiatives, with intense focus on completing goals and advancing professionally.",
+    "hi": "स्वतंत्रता, व्यवस्थितता और नए कार्य शुरू करने की इच्छाओं से प्रेरित गतिविधि में वृद्धि, उद्देश्य पूरा करने और पेशेवर उन्नति पर गहरा ध्यान।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Impulsive actions or accidents; channel energy into training."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Uranus: act, iterate, measure; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Uranus: act, iterate, measure; Mars: execute, train, assert; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Opportunities for job promotions, increased responsibilities, and involvement in professional joint ventures or institutional work requiring accountability.",
+      "hi": "नौकरी में पदोन्नति के अवसर, बढ़ती जिम्मेदारियां, और संयुक्त व्यवसाय या संस्थागत कार्यों में भागीदारी जो जिम्मेदारी मांगती है।"
+    },
+    "relationships": {
+      "en": "Collaborations in professional or joint ventures increase, demanding greater accountability and shared responsibility.",
+      "hi": "पेशेवर या संयुक्त व्यवसायों में सहयोग बढ़ता है, जिससे अधिक जिम्मेदारी और साझा दायित्व की आवश्यकता होती है।"
+    },
+    "money": {
+      "en": "Favorable period for handling tax, insurance, and joint asset matters with increased financial accountability.",
+      "hi": "कर, बीमा, और संयुक्त संपत्ति के मामलों को संभालने के लिए अनुकूल समय, जिसमें वित्तीय जिम्मेदारी बढ़ती है।"
+    },
+    "health_adj": {
+      "en": "Suitable time for engaging in technical, scientific, or engineering activities; opportunities to explore esoteric or future knowledge.",
+      "hi": "तकनीकी, वैज्ञानिक या इंजीनियरिंग कार्यों में संलग्न होने के लिए उपयुक्त समय; गूढ़ या भविष्य ज्ञान प्राप्ति के अवसर।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Job promotions",
+      "Increased responsibilities",
+      "Professional joint ventures",
+      "Tax and insurance dealings",
+      "Technical or scientific projects"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Uranus: act, iterate, measure; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Uranus: act, iterate, measure; Mars: execute, train, assert; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Uranus: act, iterate, measure; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Uranus: act, iterate, measure; Mars: execute, train, assert; tone: opportunity/skill)."
+    "hi": [
+      "नौकरी में पदोन्नति",
+      "बढ़ती जिम्मेदारियां",
+      "पेशेवर संयुक्त व्यवसाय",
+      "कर और बीमा के कार्य",
+      "तकनीकी या वैज्ञानिक परियोजनाएं"
     ]
   },
-  "keywords": [
-    "assertion",
-    "conflict",
-    "drive",
-    "mechanics",
-    "opportunity",
-    "sextile",
-    "skill",
-    "surgery"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "Increased responsibilities may demand careful accountability.",
+      "Joint ventures require clear communication to avoid misunderstandings."
+    ],
+    "hi": [
+      "बढ़ती जिम्मेदारियों के कारण सावधानीपूर्वक जवाबदेही आवश्यक हो सकती है।",
+      "संयुक्त व्यवसायों में गलतफहमी से बचने के लिए स्पष्ट संवाद जरूरी है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Focus on completing goals with concentration.",
+        "Engage actively in new initiatives and organizational tasks.",
+        "Prepare for increased professional responsibilities."
+      ],
+      "hi": [
+        "एकाग्रता के साथ उद्देश्यों को पूरा करने पर ध्यान दें।",
+        "नए कार्य और व्यवस्थित कार्यों में सक्रिय रूप से भाग लें।",
+        "पेशेवर जिम्मेदारियों में वृद्धि के लिए तैयार रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate or formalize joint ventures or institutional collaborations.",
+        "Address tax, insurance, and joint asset matters carefully.",
+        "Pursue technical, scientific, or esoteric knowledge opportunities."
+      ],
+      "hi": [
+        "संयुक्त व्यवसाय या संस्थागत सहयोग को शुरू या औपचारिक बनाएं।",
+        "कर, बीमा और संयुक्त संपत्ति के मामलों को सावधानी से संभालें।",
+        "तकनीकी, वैज्ञानिक या गूढ़ ज्ञान के अवसरों का पीछा करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review and adjust ongoing responsibilities and collaborations.",
+        "Consolidate gains from recent professional advancements."
+      ],
+      "hi": [
+        "चल रही जिम्मेदारियों और सहयोगों की समीक्षा और समायोजन करें।",
+        "हाल की पेशेवर उन्नतियों से प्राप्त लाभों को मजबूत करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "independence",
+      "organization",
+      "new initiatives",
+      "goal completion",
+      "job promotion",
+      "responsibility",
+      "joint ventures",
+      "tax",
+      "insurance",
+      "technical work",
+      "scientific work",
+      "engineering",
+      "esoteric knowledge",
+      "future knowledge"
+    ],
+    "hi": [
+      "स्वतंत्रता",
+      "व्यवस्थितता",
+      "नए कार्य",
+      "उद्देश्य पूरा करना",
+      "नौकरी में प्रगति",
+      "जिम्मेदारी",
+      "संयुक्त व्यवसाय",
+      "कर",
+      "बीमा",
+      "तकनीकी कार्य",
+      "वैज्ञानिक कार्य",
+      "इंजीनियरिंग",
+      "गूढ़ ज्ञान",
+      "भविष्य ज्ञान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "productive",
+      "focused",
+      "responsible",
+      "collaborative",
+      "opportunity-rich"
+    ],
+    "hi": [
+      "उत्पादक",
+      "एकाग्र",
+      "जिम्मेदार",
+      "सहयोगी",
+      "अवसरपूर्ण"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +197,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "accountability",
+      "technical expertise",
+      "esoteric learning",
+      "joint responsibility"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "जवाबदेही",
+      "तकनीकी विशेषज्ञता",
+      "गूढ़ अध्ययन",
+      "संयुक्त जिम्मेदारी"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Uranus Sextile Mars",
-      "core": "Sextile between Uranus and Mars opens opportunity/skill. Uranus: . Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ura-sxt-mar",
+      "core": "A period marked by increased activity towards independence, organization, and new initiatives, with strong focus on achieving goals and professional advancement.",
+      "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "Uranus Sextile Mars (हिन्दी)",
-      "core": "Uranus और Mars का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "यूरेनस सेक्सटाइल मार्स",
+      "core": "स्वतंत्रता, व्यवस्थितता और नए कार्यों की ओर बढ़ती गतिविधि का समय, जिसमें उद्देश्यों की प्राप्ति और पेशेवर उन्नति पर गहरा ध्यान रहता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Uranus and Mars opens opportunity/skill. Uranus: . Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-      "relationships": " Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-      "money": " Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-      "health_adj": " Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Activity increases around desires for independence, organization, and new initiatives with intense focus on goal completion and professional growth.",
+        "hi": "स्वतंत्रता, व्यवस्थितता और नए कार्य शुरू करने की इच्छाओं के कारण गतिविधि बढ़ती है, उद्देश्य पूरा करने और पेशेवर विकास पर गहरा ध्यान रहता है।"
+      },
+      "career": {
+        "en": "Job promotions, increased responsibilities, and professional joint ventures demand greater accountability and focus.",
+        "hi": "नौकरी में पदोन्नति, बढ़ती जिम्मेदारियां और पेशेवर संयुक्त व्यवसाय अधिक जवाबदेही और ध्यान मांगते हैं।"
+      },
+      "relationships": {
+        "en": "Professional collaborations and joint ventures increase, requiring shared responsibility and clear communication.",
+        "hi": "पेशेवर सहयोग और संयुक्त व्यवसाय बढ़ते हैं, जिनमें साझा जिम्मेदारी और स्पष्ट संवाद आवश्यक होता है।"
+      },
+      "money": {
+        "en": "Favorable time for tax, insurance, and joint asset matters with increased financial accountability.",
+        "hi": "कर, बीमा और संयुक्त संपत्ति के मामलों के लिए अनुकूल समय, जिसमें वित्तीय जवाबदेही बढ़ती है।"
+      },
+      "health_adj": {
+        "en": "Suitable period for technical, scientific, or engineering work and opportunities for esoteric or future knowledge.",
+        "hi": "तकनीकी, वैज्ञानिक या इंजीनियरिंग कार्य के लिए उपयुक्त समय और गूढ़ या भविष्य ज्ञान के अवसर।"
+      }
     },
     "aliases": [
       "Uranus sextile Mars",

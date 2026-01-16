@@ -10,52 +10,114 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Venus and Mars opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Design, branding, client harmony, tasteful presentation.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-    "relationships": "Attraction, diplomacy, reciprocity.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-    "money": "Luxury/beauty revenues, pricing power via desirability.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-    "health_adj": "Glucose balance, skin, reproductive health; moderation.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "A favourable period for initiating new ventures in art and business, with increased creative energy and physical vitality. Opportunities for love may arise, especially for unmarried individuals.",
+    "hi": "कला और व्यवसाय में नई शुरुआत के लिए अनुकूल समय, जिसमें रचनात्मक ऊर्जा और शारीरिक सक्रियता बढ़ती है। अविवाहित लोगों के लिए प्रेम के अवसर बनते हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Impulsive actions or accidents; channel energy into training.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Good time to start new projects in art and business with enhanced creativity.",
+      "hi": "कला और व्यवसाय में नई परियोजनाएँ शुरू करने के लिए अच्छा समय, रचनात्मकता बढ़ी हुई।"
+    },
+    "relationships": {
+      "en": "Potential for new romantic connections, especially for unmarried people.",
+      "hi": "अविवाहित लोगों के लिए नए प्रेम संबंध बनने की संभावना।"
+    },
+    "money": {
+      "en": "Favourable for business beginnings; creative ventures may bring opportunities.",
+      "hi": "व्यवसाय की नई शुरुआत के लिए अनुकूल; रचनात्मक प्रयास अवसर ला सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Increased physical activeness and vitality support overall well-being.",
+      "hi": "शारीरिक सक्रियता और ऊर्जा में वृद्धि से स्वास्थ्य अच्छा बना रहता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "New beginnings",
+      "Romantic opportunities",
+      "Creative projects"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Venus: design, harmonize, price; Mars: execute, train, assert; tone: opportunity/skill)."
+    "hi": [
+      "नई शुरुआत",
+      "प्रेम के अवसर",
+      "रचनात्मक परियोजनाएँ"
     ]
   },
-  "keywords": [
-    "affection",
-    "art",
-    "assertion",
-    "conflict",
-    "drive",
-    "harmony",
-    "mechanics",
-    "opportunity",
-    "pleasure",
-    "sextile",
-    "skill",
-    "surgery",
-    "values"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Initiate creative or business projects.",
+        "Explore new romantic possibilities if unmarried.",
+        "Engage in physical activities to harness increased energy."
+      ],
+      "hi": [
+        "रचनात्मक या व्यवसायिक परियोजनाएँ शुरू करें।",
+        "यदि अविवाहित हैं तो नए प्रेम संबंधों को खोजें।",
+        "बढ़ी हुई ऊर्जा का लाभ उठाने के लिए शारीरिक गतिविधियाँ करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on artistic and business ventures.",
+        "Be open to forming new romantic connections.",
+        "Utilize creative energy and physical vitality."
+      ],
+      "hi": [
+        "कलात्मक और व्यवसायिक प्रयासों पर ध्यान दें।",
+        "नए प्रेम संबंध बनाने के लिए खुले रहें।",
+        "रचनात्मक ऊर्जा और शारीरिक सक्रियता का उपयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain momentum in creative and business activities.",
+        "Continue nurturing relationships formed.",
+        "Sustain physical activity to keep energy levels up."
+      ],
+      "hi": [
+        "रचनात्मक और व्यवसायिक गतिविधियों में गति बनाए रखें।",
+        "बने हुए संबंधों को पोषित करते रहें।",
+        "ऊर्जा बनाए रखने के लिए शारीरिक सक्रियता जारी रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "new beginnings",
+      "art",
+      "business",
+      "love",
+      "creative energy",
+      "physical activeness"
+    ],
+    "hi": [
+      "नई शुरुआत",
+      "कला",
+      "व्यवसाय",
+      "प्रेम",
+      "रचनात्मक ऊर्जा",
+      "शारीरिक सक्रियता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "favourable",
+      "creative",
+      "active",
+      "opportunity"
+    ],
+    "hi": [
+      "अनुकूल",
+      "रचनात्मक",
+      "सक्रिय",
+      "अवसर"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -109,36 +171,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "Relationship Tone",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "creativity",
+      "romance",
+      "initiative",
+      "energy"
+    ],
+    "hi": [
+      "रचनात्मकता",
+      "प्रेम",
+      "प्रारंभ",
+      "ऊर्जा"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Venus Sextile Mars",
-      "core": "Sextile between Venus and Mars opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "ven-sxt-mar",
+      "core": "A favourable time for new beginnings in art and business, with increased creativity and physical energy. Love opportunities may arise, especially for unmarried individuals.",
+      "tone": "Warm, encouraging, and optimistic"
     },
     "hi": {
-      "title": "Venus Sextile Mars (हिन्दी)",
-      "core": "Venus और Mars का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "शुक्र षट्कोण मंगल",
+      "core": "कला और व्यवसाय में नई शुरुआत के लिए अनुकूल समय, जिसमें रचनात्मकता और शारीरिक ऊर्जा बढ़ती है। विशेषकर अविवाहित लोगों के लिए प्रेम के अवसर बनते हैं।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला, और आशावादी"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Venus and Mars opens opportunity/skill. Venus: affection, art, harmony, pleasure, values. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Design, branding, client harmony, tasteful presentation.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-      "relationships": "Attraction, diplomacy, reciprocity.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-      "money": "Luxury/beauty revenues, pricing power via desirability.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-      "health_adj": "Glucose balance, skin, reproductive health; moderation.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Favourable time for new beginnings in art and business. Unmarried people may find love. Creative energy and physical activeness increase.",
+        "hi": "कला और व्यवसाय में नई शुरुआत के योग बनते हैं। अविवाहित लोगों को प्रेम के अवसर मिलते हैं। रचनात्मक ऊर्जा और शारीरिक सक्रियता बनी रहती है।"
+      },
+      "career": {
+        "en": "Good time to start new projects in art and business with enhanced creativity.",
+        "hi": "कला और व्यवसाय में नई परियोजनाएँ शुरू करने के लिए अच्छा समय, रचनात्मकता बढ़ी हुई।"
+      },
+      "relationships": {
+        "en": "Potential for new romantic connections, especially for unmarried people.",
+        "hi": "अविवाहित लोगों के लिए नए प्रेम संबंध बनने की संभावना।"
+      },
+      "money": {
+        "en": "Favourable for business beginnings; creative ventures may bring opportunities.",
+        "hi": "व्यवसाय की नई शुरुआत के लिए अनुकूल; रचनात्मक प्रयास अवसर ला सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Increased physical activeness and vitality support overall well-being.",
+        "hi": "शारीरिक सक्रियता और ऊर्जा में वृद्धि से स्वास्थ्य अच्छा बना रहता है।"
+      }
     },
     "aliases": [
       "Venus sextile Mars",

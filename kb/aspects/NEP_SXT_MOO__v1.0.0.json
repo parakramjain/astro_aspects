@@ -10,46 +10,114 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Neptune and Moon opens opportunity/skill. Neptune: . Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-    "relationships": " Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-    "money": " Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-    "health_adj": " Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "The person is sensitive and generous, harmonizing well with others' emotions and imagination, often recalling pleasant memories and developing imaginative plans, including in business.",
+    "hi": "व्यक्ति संवेदनशील और उदार है, दूसरों की भावनाओं के साथ सामंजस्य बनाता है, सुखद यादें उभरती हैं और कल्पनात्मक योजनाएं बनाता है, व्यावसायिक रूप से भी।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Neptune: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Neptune: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Imaginative thoughts, arrangements, and alterations influence business and professional settings.",
+      "hi": "व्यावसायिक स्थिति में कल्पनात्मक विचार, आयोजन और फेरबदल होते हैं।"
+    },
+    "relationships": {
+      "en": "Maintains harmony with others' emotions and disposition through sensitivity and generosity.",
+      "hi": "अन्य की भावनाओं और स्वभाव के प्रति संवेदनशीलता और उदारता से सामंजस्य बनाता है।"
+    },
+    "money": {
+      "en": "Business ideas and financial arrangements are influenced by imagination and creative planning.",
+      "hi": "व्यावसायिक विचार और वित्तीय योजनाएं कल्पनाशक्ति और रचनात्मकता से प्रभावित होती हैं।"
+    },
+    "health_adj": {
+      "en": "Emotional sensitivity and imagination are prominent, with energy experienced in emotionality.",
+      "hi": "भावनात्मक संवेदनशीलता और कल्पनाशक्ति प्रमुख हैं, भावुकता में ऊर्जा का अनुभव होता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Emotional harmony",
+      "Creative planning",
+      "Business innovation",
+      "Memory recall"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Neptune: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Neptune: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Neptune: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Neptune: act, iterate, measure; Moon: nurture, align routines, soft-launch; tone: opportunity/skill)."
+    "hi": [
+      "भावनात्मक सामंजस्य",
+      "रचनात्मक योजना",
+      "व्यावसायिक नवाचार",
+      "स्मृति पुनरुद्धार"
     ]
   },
-  "keywords": [
-    "care",
-    "emotion",
-    "habits",
-    "home",
-    "mother",
-    "opportunity",
-    "public mood",
-    "sextile",
-    "skill"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [],
+    "hi": []
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Use imagination to enhance emotional connections.",
+        "Develop creative plans in business and personal life."
+      ],
+      "hi": [
+        "भावनात्मक संबंधों को बढ़ाने के लिए कल्पना का उपयोग करें।",
+        "व्यवसाय और व्यक्तिगत जीवन में रचनात्मक योजनाएं बनाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on harmonizing with others' emotions.",
+        "Recall pleasant memories to inspire new ideas."
+      ],
+      "hi": [
+        "अन्य की भावनाओं के साथ सामंजस्य पर ध्यान दें।",
+        "नई सोच के लिए सुखद यादों को याद करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain imaginative approaches developed during this phase.",
+        "Continue nurturing emotional sensitivity and generosity."
+      ],
+      "hi": [
+        "इस अवधि में विकसित कल्पनात्मक दृष्टिकोण बनाए रखें।",
+        "भावनात्मक संवेदनशीलता और उदारता को बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "sensitivity",
+      "generosity",
+      "harmony",
+      "imagination",
+      "pleasant memories",
+      "creative planning",
+      "business innovation"
+    ],
+    "hi": [
+      "संवेदनशीलता",
+      "उदारता",
+      "सामंजस्य",
+      "कल्पना",
+      "सुखद यादें",
+      "रचनात्मक योजना",
+      "व्यावसायिक नवाचार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "sensitive",
+      "harmonious",
+      "imaginative",
+      "generous",
+      "creative"
+    ],
+    "hi": [
+      "संवेदनशील",
+      "सामंजस्यपूर्ण",
+      "कल्पनाशील",
+      "उदार",
+      "रचनात्मक"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +171,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "emotional harmony",
+      "creative energy",
+      "memory revival",
+      "business creativity"
+    ],
+    "hi": [
+      "भावनात्मक सामंजस्य",
+      "रचनात्मक ऊर्जा",
+      "स्मृति पुनरुद्धार",
+      "व्यावसायिक रचनात्मकता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Neptune Sextile Moon",
-      "core": "Sextile between Neptune and Moon opens opportunity/skill. Neptune: . Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "nep-sxt-moo",
+      "core": "Sensitivity and imagination blend to foster emotional harmony and creative planning, influencing personal and business realms.",
+      "tone": "Warm, neutral, and encouraging"
     },
     "hi": {
-      "title": "Neptune Sextile Moon (हिन्दी)",
-      "core": "Neptune और Moon का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "नेपच्यून सेक्सटाइल मून",
+      "core": "संवेदनशीलता और कल्पना मिलकर भावनात्मक सामंजस्य और रचनात्मक योजना को बढ़ावा देते हैं, जो व्यक्तिगत और व्यावसायिक क्षेत्रों को प्रभावित करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और प्रोत्साहित करने वाला"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Neptune and Moon opens opportunity/skill. Neptune: . Moon: emotion, care, habits, home, public mood, mother. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Public reception, brand sentiment, consistency. Emphasis: opportunity/skill.",
-      "relationships": " Bonding, nurturance, emotional safety. Emphasis: opportunity/skill.",
-      "money": " Cyclic cashflow, consumer sentiment. Emphasis: opportunity/skill.",
-      "health_adj": " Hydration, sleep, digestion; stress sensitivity. Emphasis: opportunity/skill."
+      "core": {
+        "en": "The person is sensitive and generous, harmonizing with others' emotions and imagination, recalling pleasant memories and developing imaginative plans.",
+        "hi": "व्यक्ति संवेदनशील और उदार है, दूसरों की भावनाओं के साथ सामंजस्य बनाता है, सुखद यादें उभरती हैं और कल्पनात्मक योजनाएं बनाता है।"
+      },
+      "career": {
+        "en": "Imaginative thoughts and arrangements influence business and professional activities.",
+        "hi": "कल्पनात्मक विचार और आयोजन व्यावसायिक गतिविधियों को प्रभावित करते हैं।"
+      },
+      "relationships": {
+        "en": "Maintains harmony with others' emotions through sensitivity and generosity.",
+        "hi": "संवेदनशीलता और उदारता से दूसरों की भावनाओं के साथ सामंजस्य बनाता है।"
+      },
+      "money": {
+        "en": "Business ideas and financial plans are shaped by imagination and creative thinking.",
+        "hi": "व्यावसायिक विचार और वित्तीय योजनाएं कल्पना और रचनात्मक सोच से बनती हैं।"
+      },
+      "health_adj": {
+        "en": "Emotional sensitivity and energy in imagination are experienced.",
+        "hi": "भावनात्मक संवेदनशीलता और कल्पना में ऊर्जा का अनुभव होता है।"
+      }
     },
     "aliases": [
       "Neptune sextile Moon",

@@ -10,46 +10,130 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Pluto and Sun opens opportunity/skill. Pluto: . Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": " Authority, recognition, leadership, alignment with purpose. Emphasis: opportunity/skill.",
-    "relationships": " Self-respect, healthy boundaries, paternal figures. Emphasis: opportunity/skill.",
-    "money": " Status-linked income, government/authority-linked gains. Emphasis: opportunity/skill.",
-    "health_adj": " Heart, vitality, heat regulation; consider circadian rhythm. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "This aspect indicates growth in willpower, courage, and self-awareness, with opportunities for fundamental philosophical learning and improved physical and mental health. It encourages letting go of important or old items and may spark interest in mysterious or esoteric subjects. It is a favorable time for deep scientific study.",
+    "hi": "यह योग इच्छाशक्ति, साहस और आत्मज्ञान में वृद्धि दर्शाता है, जिसमें जीवन के मूलभूत तत्वज्ञान का अध्ययन और शारीरिक व मानसिक स्वास्थ्य में सुधार होता है। यह महत्वपूर्ण या पुरानी वस्तुओं को त्यागने का समय है और रहस्यमयी या गूढ़ विषयों में रुचि बढ़ सकती है। वैज्ञानिक गूढ़ अध्ययन के लिए यह अनुकूल समय है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "A good period for deep study and research in scientific or philosophical fields, fostering intellectual growth.",
+      "hi": "वैज्ञानिक या दार्शनिक क्षेत्रों में गहन अध्ययन और शोध के लिए अच्छा समय, जिससे बौद्धिक विकास होता है।"
+    },
+    "relationships": {
+      "en": "Encourages self-awareness and courage which may positively influence personal interactions; also involves letting go of old attachments.",
+      "hi": "आत्मज्ञान और साहस को बढ़ावा देता है जो व्यक्तिगत संबंधों को सकारात्मक रूप से प्रभावित कर सकता है; साथ ही पुराने लगावों को त्यागने का समय है।"
+    },
+    "money": {
+      "en": "Suggests releasing old or significant possessions, possibly indicating a shift in material priorities.",
+      "hi": "पुरानी या महत्वपूर्ण वस्तुओं को त्यागने का संकेत देता है, जो भौतिक प्राथमिकताओं में बदलाव दर्शा सकता है।"
+    },
+    "health_adj": {
+      "en": "Physical and mental health are likely to improve during this time.",
+      "hi": "इस समय शारीरिक और मानसिक स्वास्थ्य में सुधार होने की संभावना है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Personal growth",
+      "Philosophical learning",
+      "Health improvement",
+      "Letting go of old possessions",
+      "Interest in esoteric subjects",
+      "Scientific study"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Pluto: act, iterate, measure; Sun: lead, present, decide; tone: opportunity/skill)."
+    "hi": [
+      "व्यक्तिगत विकास",
+      "दार्शनिक अध्ययन",
+      "स्वास्थ्य में सुधार",
+      "पुरानी वस्तुओं का त्याग",
+      "गूढ़ विषयों में रुचि",
+      "वैज्ञानिक अध्ययन"
     ]
   },
-  "keywords": [
-    "authority",
-    "ego",
-    "identity",
-    "opportunity",
-    "purpose",
-    "sextile",
-    "skill",
-    "visibility",
-    "vitality"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; approach new interests with balanced curiosity."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम नहीं; नई रुचियों को संतुलित जिज्ञासा के साथ अपनाएं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage in deep philosophical or scientific studies.",
+        "Practice letting go of old or significant possessions.",
+        "Explore interests in mysterious or esoteric subjects."
+      ],
+      "hi": [
+        "गहन दार्शनिक या वैज्ञानिक अध्ययन में संलग्न हों।",
+        "पुरानी या महत्वपूर्ण वस्तुओं को त्यागने का अभ्यास करें।",
+        "रहस्यमयी या गूढ़ विषयों में रुचि बढ़ाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on strengthening willpower and self-awareness.",
+        "Begin or intensify studies in fundamental philosophy or science."
+      ],
+      "hi": [
+        "इच्छाशक्ति और आत्मज्ञान को मजबूत करने पर ध्यान दें।",
+        "मूलभूत दर्शन या विज्ञान के अध्ययन को शुरू करें या बढ़ाएं।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Release attachments to old or important items.",
+        "Reflect on personal growth and health improvements."
+      ],
+      "hi": [
+        "पुरानी या महत्वपूर्ण वस्तुओं से लगाव छोड़ें।",
+        "व्यक्तिगत विकास और स्वास्थ्य सुधार पर विचार करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "willpower",
+      "courage",
+      "self-awareness",
+      "philosophical study",
+      "health improvement",
+      "letting go",
+      "mystery",
+      "esoteric",
+      "scientific study"
+    ],
+    "hi": [
+      "इच्छाशक्ति",
+      "साहस",
+      "आत्मज्ञान",
+      "दार्शनिक अध्ययन",
+      "स्वास्थ्य सुधार",
+      "त्याग",
+      "रहस्य",
+      "गूढ़",
+      "वैज्ञानिक अध्ययन"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "growth",
+      "introspection",
+      "learning",
+      "health",
+      "release",
+      "curiosity"
+    ],
+    "hi": [
+      "विकास",
+      "आत्मनिरीक्षण",
+      "अध्ययन",
+      "स्वास्थ्य",
+      "त्याग",
+      "जिज्ञासा"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -103,36 +187,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "personal transformation",
+      "mental and physical wellness",
+      "intellectual exploration",
+      "spiritual curiosity"
+    ],
+    "hi": [
+      "व्यक्तिगत परिवर्तन",
+      "मानसिक और शारीरिक स्वास्थ्य",
+      "बौद्धिक खोज",
+      "आध्यात्मिक जिज्ञासा"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Pluto Sextile Sun",
-      "core": "Sextile between Pluto and Sun opens opportunity/skill. Pluto: . Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "plu-sxt-sun",
+      "core": "Growth in willpower, courage, and self-awareness with opportunities for deep philosophical and scientific study, health improvement, and releasing old attachments.",
+      "tone": "Warm, encouraging, and insightful"
     },
     "hi": {
-      "title": "Pluto Sextile Sun (हिन्दी)",
-      "core": "Pluto और Sun का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "प्लूटो सेकस्टाइल सूर्य",
+      "core": "इच्छाशक्ति, साहस और आत्मज्ञान में वृद्धि, गहन दार्शनिक व वैज्ञानिक अध्ययन, स्वास्थ्य सुधार और पुराने लगावों को छोड़ने के अवसर।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहित करने वाला और सूचनात्मक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Pluto and Sun opens opportunity/skill. Pluto: . Sun: ego, identity, authority, vitality, purpose, visibility. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": " Authority, recognition, leadership, alignment with purpose. Emphasis: opportunity/skill.",
-      "relationships": " Self-respect, healthy boundaries, paternal figures. Emphasis: opportunity/skill.",
-      "money": " Status-linked income, government/authority-linked gains. Emphasis: opportunity/skill.",
-      "health_adj": " Heart, vitality, heat regulation; consider circadian rhythm. Emphasis: opportunity/skill."
+      "core": {
+        "en": "This aspect indicates growth in willpower, courage, and self-awareness, with opportunities for fundamental philosophical learning and improved physical and mental health. It encourages letting go of important or old items and may spark interest in mysterious or esoteric subjects. It is a favorable time for deep scientific study.",
+        "hi": "यह योग इच्छाशक्ति, साहस और आत्मज्ञान में वृद्धि दर्शाता है, जिसमें जीवन के मूलभूत तत्वज्ञान का अध्ययन और शारीरिक व मानसिक स्वास्थ्य में सुधार होता है। यह महत्वपूर्ण या पुरानी वस्तुओं को त्यागने का समय है और रहस्यमयी या गूढ़ विषयों में रुचि बढ़ सकती है। वैज्ञानिक गूढ़ अध्ययन के लिए यह अनुकूल समय है।"
+      },
+      "career": {
+        "en": "A good period for deep study and research in scientific or philosophical fields, fostering intellectual growth.",
+        "hi": "वैज्ञानिक या दार्शनिक क्षेत्रों में गहन अध्ययन और शोध के लिए अच्छा समय, जिससे बौद्धिक विकास होता है।"
+      },
+      "relationships": {
+        "en": "Encourages self-awareness and courage which may positively influence personal interactions; also involves letting go of old attachments.",
+        "hi": "आत्मज्ञान और साहस को बढ़ावा देता है जो व्यक्तिगत संबंधों को सकारात्मक रूप से प्रभावित कर सकता है; साथ ही पुराने लगावों को त्यागने का समय है।"
+      },
+      "money": {
+        "en": "Suggests releasing old or significant possessions, possibly indicating a shift in material priorities.",
+        "hi": "पुरानी या महत्वपूर्ण वस्तुओं को त्यागने का संकेत देता है, जो भौतिक प्राथमिकताओं में बदलाव दर्शा सकता है।"
+      },
+      "health_adj": {
+        "en": "Physical and mental health are likely to improve during this time.",
+        "hi": "इस समय शारीरिक और मानसिक स्वास्थ्य में सुधार होने की संभावना है।"
+      }
     },
     "aliases": [
       "Pluto sextile Sun",

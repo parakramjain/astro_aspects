@@ -10,53 +10,130 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Saturn and Jupiter opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Authority via mastery, long-term credibility.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-    "relationships": "Commitment realism, boundaries, duty.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-    "money": "Slow steady accrual, austerity, debt realism.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-    "health_adj": "Bones, teeth, chronic load; routines & posture.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Progress in achieving goals and important career-building opportunities supported by authorities and seniors. Steady advancement in business with increased responsibilities and balanced optimism and caution creating opportunities. Benefits arise through connections with wealthier or influential people, favoring professionals like lawyers and political managers by providing stability and strength.",
+    "hi": "उद्देश्य प्राप्ति में प्रगति और उच्च वर्ग/अधिकारी वर्ग के सहयोग से महत्वपूर्ण करियर निर्माण के अवसर। व्यवसाय में स्थिर उन्नति और बढ़ती जिम्मेदारी। आशावाद और सावधानी के संतुलन से अवसर बनते हैं। संपन्न या प्रभावशाली लोगों से संबंधों के माध्यम से लाभ, वकील, राजनीतिक प्रबंधक और पेशेवरों के लिए स्थिरता और मजबूती प्रदान करता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Burnout via over-responsibility; schedule recovery windows.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Saturn: structure, commit, audit; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Saturn: structure, commit, audit; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Opportunities for career advancement in education and profession; support from seniors and authorities; steady business growth; increased responsibilities; serious decision-making.",
+      "hi": "शैक्षणिक और पेशेवर क्षेत्र में करियर उन्नति के अवसर; वरिष्ठों और अधिकारियों का सहयोग; व्यवसाय में स्थिर वृद्धि; जिम्मेदारी में वृद्धि; महत्वपूर्ण निर्णयों पर गंभीर विचार।"
+    },
+    "relationships": {
+      "en": "Beneficial connections with wealthier or influential individuals; opportunities for alliances and friendships that support progress.",
+      "hi": "अधिक संपन्न या प्रभावशाली व्यक्तियों से लाभकारी संबंध; मित्रता और संधि के अवसर जो प्रगति में सहायक हों।"
+    },
+    "money": {
+      "en": "Steady business advancement and benefits through influential contacts; financial stability supported by professional growth.",
+      "hi": "प्रभावशाली संपर्कों के माध्यम से व्यवसाय में स्थिर उन्नति और लाभ; पेशेवर विकास से वित्तीय स्थिरता।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated; balance of optimism and caution suggests mindful approach.",
+      "hi": "विशेष स्वास्थ्य समायोजन नहीं दर्शाए गए; आशावाद और सावधानी के संतुलन से सतर्क रहने का संकेत।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Career advancement",
+      "Important decision-making",
+      "Professional support",
+      "Business growth",
+      "Networking with influential people"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Saturn: structure, commit, audit; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Saturn: structure, commit, audit; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Saturn: structure, commit, audit; Jupiter: mentor, expand, publish; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Saturn: structure, commit, audit; Jupiter: mentor, expand, publish; tone: opportunity/skill)."
+    "hi": [
+      "करियर उन्नति",
+      "महत्वपूर्ण निर्णय लेना",
+      "पेशेवर सहयोग",
+      "व्यवसाय में वृद्धि",
+      "प्रभावशाली लोगों से संपर्क"
     ]
   },
-  "keywords": [
-    "abundance",
-    "dharma via effort",
-    "discipline",
-    "faith",
-    "growth",
-    "law",
-    "limits",
-    "mentor",
-    "opportunity",
-    "sextile",
-    "skill",
-    "structure",
-    "time",
-    "wisdom"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "Increased responsibilities require careful management",
+      "Balance optimism with caution to avoid overconfidence"
+    ],
+    "hi": [
+      "बढ़ती जिम्मेदारियों का सावधानीपूर्वक प्रबंधन आवश्यक",
+      "अधिक आत्मविश्वास से बचने के लिए आशावाद और सावधानी का संतुलन बनाए रखें"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Seek support from seniors and authorities",
+        "Build connections with influential people",
+        "Approach decisions with balanced optimism and caution"
+      ],
+      "hi": [
+        "वरिष्ठों और अधिकारियों से सहयोग प्राप्त करें",
+        "प्रभावशाली लोगों से संबंध बनाएं",
+        "निर्णय लेते समय आशावाद और सावधानी का संतुलन रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Focus on serious consideration of important decisions",
+        "Leverage career-building opportunities in education and profession"
+      ],
+      "hi": [
+        "महत्वपूर्ण निर्णयों पर गंभीरता से विचार करें",
+        "शैक्षणिक और पेशेवर करियर निर्माण के अवसरों का लाभ उठाएं"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain steady progress despite increasing responsibilities",
+        "Continue nurturing beneficial professional relationships"
+      ],
+      "hi": [
+        "बढ़ती जिम्मेदारियों के बावजूद स्थिर प्रगति बनाए रखें",
+        "लाभकारी पेशेवर संबंधों को बनाए रखें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "progress",
+      "career opportunities",
+      "support",
+      "responsibility",
+      "optimism",
+      "caution",
+      "connections",
+      "stability",
+      "strength",
+      "professionals"
+    ],
+    "hi": [
+      "प्रगति",
+      "करियर अवसर",
+      "सहयोग",
+      "जिम्मेदारी",
+      "आशावाद",
+      "सावधानी",
+      "संबंध",
+      "स्थिरता",
+      "मजबूती",
+      "पेशेवर"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "supportive",
+      "steady",
+      "balanced",
+      "opportunity-rich",
+      "professional"
+    ],
+    "hi": [
+      "सहायक",
+      "स्थिर",
+      "संतुलित",
+      "अवसरपूर्ण",
+      "पेशेवर"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -110,36 +187,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "career growth",
+      "responsibility increase",
+      "strategic networking",
+      "balanced decision-making"
+    ],
+    "hi": [
+      "करियर विकास",
+      "जिम्मेदारी में वृद्धि",
+      "रणनीतिक संबंध",
+      "संतुलित निर्णय लेना"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Saturn Sextile Jupiter",
-      "core": "Sextile between Saturn and Jupiter opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "sat-sxt-jup",
+      "core": "Progress and career-building opportunities supported by authorities with steady advancement and balanced optimism and caution.",
+      "tone": "Warm, neutral, and professional"
     },
     "hi": {
-      "title": "Saturn Sextile Jupiter (हिन्दी)",
-      "core": "Saturn और Jupiter का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "शनि सेकस्टाइल बृहस्पति",
+      "core": "अधिकारी सहयोग से प्रगति और करियर निर्माण के अवसर, स्थिर उन्नति और आशावाद-सावधानी का संतुलित मेल।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और पेशेवर"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Saturn and Jupiter opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Authority via mastery, long-term credibility.  Mentorship, promotions, strategic expansion. Emphasis: opportunity/skill.",
-      "relationships": "Commitment realism, boundaries, duty.  Goodwill, generosity, shared purpose. Emphasis: opportunity/skill.",
-      "money": "Slow steady accrual, austerity, debt realism.  Scaling revenue, windfalls, ethical growth. Emphasis: opportunity/skill.",
-      "health_adj": "Bones, teeth, chronic load; routines & posture.  Liver, metabolic balance; avoid excess. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Progress in achieving goals and important career-building opportunities supported by authorities and seniors. Steady advancement in business with increased responsibilities and balanced optimism and caution creating opportunities. Benefits arise through connections with wealthier or influential people, favoring professionals like lawyers and political managers by providing stability and strength.",
+        "hi": "उद्देश्य प्राप्ति में प्रगति और उच्च वर्ग/अधिकारी वर्ग के सहयोग से महत्वपूर्ण करियर निर्माण के अवसर। व्यवसाय में स्थिर उन्नति और बढ़ती जिम्मेदारी। आशावाद और सावधानी के संतुलन से अवसर बनते हैं। संपन्न या प्रभावशाली लोगों से संबंधों के माध्यम से लाभ, वकील, राजनीतिक प्रबंधक और पेशेवरों के लिए स्थिरता और मजबूती प्रदान करता है।"
+      },
+      "career": {
+        "en": "Opportunities for career advancement in education and profession; support from seniors and authorities; steady business growth; increased responsibilities; serious decision-making.",
+        "hi": "शैक्षणिक और पेशेवर क्षेत्र में करियर उन्नति के अवसर; वरिष्ठों और अधिकारियों का सहयोग; व्यवसाय में स्थिर वृद्धि; जिम्मेदारी में वृद्धि; महत्वपूर्ण निर्णयों पर गंभीर विचार।"
+      },
+      "relationships": {
+        "en": "Beneficial connections with wealthier or influential individuals; opportunities for alliances and friendships that support progress.",
+        "hi": "अधिक संपन्न या प्रभावशाली व्यक्तियों से लाभकारी संबंध; मित्रता और संधि के अवसर जो प्रगति में सहायक हों।"
+      },
+      "money": {
+        "en": "Steady business advancement and benefits through influential contacts; financial stability supported by professional growth.",
+        "hi": "प्रभावशाली संपर्कों के माध्यम से व्यवसाय में स्थिर उन्नति और लाभ; पेशेवर विकास से वित्तीय स्थिरता।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments indicated; balance of optimism and caution suggests mindful approach.",
+        "hi": "विशेष स्वास्थ्य समायोजन नहीं दर्शाए गए; आशावाद और सावधानी के संतुलन से सतर्क रहने का संकेत।"
+      }
     },
     "aliases": [
       "Saturn sextile Jupiter",

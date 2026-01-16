@@ -11,41 +11,41 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "This aspect promotes intellectual engagement and effective communication of ideas, especially in creative or adventurous fields. It supports recognition of personal thoughts and collaboration with friends, along with increased interest in learning and skill development.",
-    "hi": "यह योग बौद्धिक गतिविधियों और विचारों को प्रभावी ढंग से प्रस्तुत करने को बढ़ावा देता है, विशेषकर साहसिक या कला के क्षेत्रों में। यह व्यक्तिगत विचारों को मान्यता और मित्रों के साथ सहयोग की संभावना देता है, साथ ही अध्ययन और कौशल विकास में रुचि बढ़ाता है।"
+    "en": "This aspect encourages intellectual engagement and competent presentation of ideas, fostering new creative thoughts especially in adventure and art. It supports recognition of personal thoughts and collaboration with friends, enhancing interest in learning and skill development.",
+    "hi": "यह योग बौद्धिक गतिविधियों और विचारों को अधिकारपूर्वक प्रस्तुत करने को प्रोत्साहित करता है, विशेषकर साहसिक और कला के क्षेत्र में नई कल्पनाओं का विकास होता है। यह व्यक्तिगत विचारों को मान्यता और मित्रों के साथ सहयोग को बढ़ावा देता है, अध्ययन और कौशल विकास में रुचि बढ़ाता है।"
   },
   "facets": {
     "career": {
-      "en": "Engages in intellectual work and presents ideas authoritatively; new ideas develop in adventure or art fields; skill enhancement pursuits bring joy.",
-      "hi": "बौद्धिक कार्य करता है और अपनी कल्पनाओं को अधिकारपूर्वक प्रस्तुत करता है; साहसिक या कला के क्षेत्र में नई कल्पनाओं का विकास होता है; कौशल वृद्धि आनंददायक होती है।"
+      "en": "Enhanced intellectual work and authoritative presentation of ideas; new ideas in creative or adventurous fields; collaboration with friends as colleagues.",
+      "hi": "बौद्धिक कार्य में वृद्धि और विचारों को अधिकारपूर्वक प्रस्तुत करना; रचनात्मक या साहसिक क्षेत्रों में नई कल्पनाएँ; मित्रों के साथ सहयोग।"
     },
     "relationships": {
       "en": "Friends may become collaborators; personal thoughts gain recognition among authoritative figures.",
-      "hi": "मित्र सहयोगी बन सकते हैं; व्यक्तिगत विचारों को अधिकार सम्पन्न व्यक्तियों से मान्यता मिलती है।"
+      "hi": "मित्र सहयोगी बनेंगे; व्यक्तिगत विचारों को अधिकार सम्पन्न व्यक्तियों के बीच मान्यता मिलेगी।"
     },
     "money": {
       "en": "No direct financial implications mentioned; skill enhancement may indirectly support career growth.",
-      "hi": "प्रत्यक्ष वित्तीय संकेत नहीं; कौशल वृद्धि अप्रत्यक्ष रूप से करियर विकास में सहायक हो सकती है।"
+      "hi": "प्रत्यक्ष वित्तीय प्रभाव नहीं; कौशल वृद्धि से अप्रत्यक्ष रूप से करियर विकास संभव।"
     },
     "health_adj": {
       "en": "No specific health adjustments indicated.",
-      "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं दिया गया है।"
+      "hi": "विशेष स्वास्थ्य संबंधी समायोजन नहीं बताए गए।"
     }
   },
   "life_event_type": {
     "en": [
-      "Intellectual engagement",
-      "Presentation of ideas",
-      "Collaboration",
+      "Intellectual pursuits",
+      "Presentation to authority",
+      "Creative development",
       "Short trips",
-      "Skill development"
+      "Skill enhancement"
     ],
     "hi": [
-      "बौद्धिक गतिविधि",
-      "विचार प्रस्तुत करना",
-      "सहयोग",
-      "छोटी यात्राएं",
-      "कौशल विकास"
+      "बौद्धिक कार्य",
+      "अधिकारियों के समक्ष प्रस्तुति",
+      "रचनात्मक विकास",
+      "छोटी यात्राएँ",
+      "कौशल वृद्धि"
     ]
   },
   "risk_notes": {
@@ -56,14 +56,14 @@
     "applying": {
       "en": [
         "Engage in intellectual activities",
-        "Present ideas to authoritative figures",
+        "Present ideas confidently to authorities",
         "Collaborate with friends",
         "Pursue studies and skill enhancement",
         "Consider short trips"
       ],
       "hi": [
-        "बौद्धिक क्रियाओं में संलग्न हों",
-        "विचारों को अधिकार सम्पन्न व्यक्तियों के समक्ष प्रस्तुत करें",
+        "बौद्धिक गतिविधियों में संलग्न हों",
+        "विचारों को अधिकारपूर्वक प्रस्तुत करें",
         "मित्रों के साथ सहयोग करें",
         "अध्ययन और कौशल वृद्धि करें",
         "छोटी यात्राओं पर विचार करें"
@@ -71,49 +71,49 @@
     },
     "exact": {
       "en": [
-        "Focus on developing new ideas in adventure or art fields",
+        "Focus on presenting new ideas in adventure or art fields",
         "Seek recognition for personal thoughts"
       ],
       "hi": [
-        "साहसिक या कला के क्षेत्र में नई कल्पनाओं का विकास करें",
+        "साहसिक या कला के क्षेत्र में नई कल्पनाओं को प्रस्तुत करें",
         "व्यक्तिगत विचारों के लिए मान्यता प्राप्त करें"
       ]
     },
     "separating": {
       "en": [
         "Maintain intellectual engagement",
-        "Continue skill enhancement pursuits"
+        "Continue skill development"
       ],
       "hi": [
         "बौद्धिक गतिविधि बनाए रखें",
-        "कौशल वृद्धि जारी रखें"
+        "कौशल विकास जारी रखें"
       ]
     }
   },
   "keywords": {
     "en": [
-      "intellectual activities",
-      "authoritative presentation",
-      "new ideas",
+      "intellectual",
+      "authoritative",
+      "creative ideas",
       "adventure",
       "art",
       "recognition",
       "collaboration",
-      "studies",
-      "short trips",
-      "skill enhancement"
+      "study",
+      "skill enhancement",
+      "short trips"
     ],
     "hi": [
-      "बौद्धिक क्रिया",
-      "अधिकारपूर्वक प्रस्तुति",
-      "नई कल्पनाएं",
+      "बौद्धिक",
+      "अधिकारपूर्ण",
+      "रचनात्मक विचार",
       "साहसिक",
       "कला",
       "मान्यता",
       "सहयोग",
       "अध्ययन",
-      "छोटी यात्रा",
-      "कौशल वृद्धि"
+      "कौशल वृद्धि",
+      "छोटी यात्रा"
     ]
   },
   "quality_tags": {
@@ -121,13 +121,15 @@
       "intellectual",
       "creative",
       "collaborative",
-      "motivational"
+      "authoritative",
+      "productive"
     ],
     "hi": [
       "बौद्धिक",
       "रचनात्मक",
       "सहयोगी",
-      "प्रेरणादायक"
+      "अधिकारपूर्ण",
+      "उत्पादक"
     ]
   },
   "weights_hint": {
@@ -189,54 +191,54 @@
       "learning",
       "creativity",
       "collaboration",
-      "adventure"
+      "travel"
     ],
     "hi": [
       "संचार",
       "अध्ययन",
       "रचनात्मकता",
       "सहयोग",
-      "साहसिक"
+      "यात्रा"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
       "title": "sun-sxt-mer",
-      "core": "This aspect encourages intellectual activity and effective communication, fostering new ideas and collaboration, especially in creative or adventurous fields.",
-      "tone": "Warm, encouraging, and optimistic"
+      "core": "Engages intellectual activities and presents ideas authoritatively, fostering creative and collaborative growth.",
+      "tone": "Warm, encouraging, and constructive"
     },
     "hi": {
       "title": "सूर्य षट्कोण बुध",
-      "core": "यह योग बौद्धिक गतिविधि और प्रभावी संचार को प्रोत्साहित करता है, नई कल्पनाओं और सहयोग को बढ़ावा देता है, विशेषकर रचनात्मक या साहसिक क्षेत्रों में।",
-      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक, और आशावादी"
+      "core": "बौद्धिक क्रियाओं में संलग्न होकर अधिकारपूर्वक विचार प्रस्तुत करता है, रचनात्मक और सहयोगी विकास को बढ़ावा देता है।",
+      "tone": "सहानुभूतिपूर्ण, प्रोत्साहक और रचनात्मक"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "Engages in intellectual activities and work. Presents ideas authoritatively and competently. New ideas develop in adventure/art fields. Excellent time for presenting ideas to authoritative figures. Personal thoughts gain recognition. Friends become collaborators. Interest in studies increases. Possibility of short trips. Pursuit of skill enhancement brings joy.",
+        "en": "Engages in intellectual activities and work. Presents ideas authoritatively and competently. New ideas develop in adventure/art. Excellent time for presenting ideas to authorities. Personal thoughts gain recognition. Friends become collaborators. Interest in studies increases. Possibility of short trips. Skill enhancement brings joy.",
         "hi": "बौद्धिक क्रिया एवं कार्य करता है। अपनी कल्पनाओं को अधिकारपूर्वक एवं सक्षमता के साथ प्रस्तुत करता है। साहसिक/कला के क्षेत्र में नई कल्पनाओं का विकास होता है। यह समय अपनी कल्पनाओं को अधिकार सम्पन्न व्यक्तियों के समक्ष प्रस्तुत करने हेतु उत्तम रहता है। व्यक्तिगत विचारों को मान्यता प्राप्त होती है। मित्र सहयोगी बनेंगे। अध्ययन में रुचि बढ़ेगी। छोटी यात्रा योग भी बनता है। कौशल वृद्धि के खेल आनंद का स्रोत होंगे।"
       },
       "career": {
-        "en": "Engages in intellectual work and presents ideas authoritatively; new ideas develop in adventure or art fields; skill enhancement pursuits bring joy.",
-        "hi": "बौद्धिक कार्य करता है और अपनी कल्पनाओं को अधिकारपूर्वक प्रस्तुत करता है; साहसिक या कला के क्षेत्र में नई कल्पनाओं का विकास होता है; कौशल वृद्धि आनंददायक होती है।"
+        "en": "Enhanced intellectual work and competent presentation of ideas. New ideas in adventure/art fields. Collaboration with friends as colleagues.",
+        "hi": "बौद्धिक कार्य में वृद्धि और विचारों को अधिकारपूर्वक प्रस्तुत करना। साहसिक/कला क्षेत्रों में नई कल्पनाएँ। मित्रों के साथ सहयोग।"
       },
       "relationships": {
-        "en": "Friends may become collaborators; personal thoughts gain recognition among authoritative figures.",
-        "hi": "मित्र सहयोगी बन सकते हैं; व्यक्तिगत विचारों को अधिकार सम्पन्न व्यक्तियों से मान्यता मिलती है।"
+        "en": "Friends become collaborators. Personal thoughts gain recognition among authoritative figures.",
+        "hi": "मित्र सहयोगी बनेंगे। व्यक्तिगत विचारों को अधिकार सम्पन्न व्यक्तियों के बीच मान्यता मिलेगी।"
       },
       "money": {
-        "en": "No direct financial implications mentioned; skill enhancement may indirectly support career growth.",
-        "hi": "प्रत्यक्ष वित्तीय संकेत नहीं; कौशल वृद्धि अप्रत्यक्ष रूप से करियर विकास में सहायक हो सकती है।"
+        "en": "No direct financial implications mentioned. Skill enhancement may indirectly support career growth.",
+        "hi": "प्रत्यक्ष वित्तीय प्रभाव नहीं। कौशल वृद्धि से अप्रत्यक्ष रूप से करियर विकास संभव।"
       },
       "health_adj": {
         "en": "No specific health adjustments indicated.",
-        "hi": "स्वास्थ्य संबंधी कोई विशेष सुझाव नहीं दिया गया है।"
+        "hi": "विशेष स्वास्थ्य संबंधी समायोजन नहीं बताए गए।"
       }
     },
     "aliases": [

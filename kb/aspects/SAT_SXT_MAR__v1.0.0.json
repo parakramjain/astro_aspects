@@ -10,52 +10,126 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Sextile between Saturn and Mars opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-  "facets": {
-    "career": "Authority via mastery, long-term credibility.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-    "relationships": "Commitment realism, boundaries, duty.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-    "money": "Slow steady accrual, austerity, debt realism.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-    "health_adj": "Bones, teeth, chronic load; routines & posture.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+  "core_meaning": {
+    "en": "Improvement in institutional discipline, work efficiency, and organization in professional life. Engages with respected individuals and initiates new professional, political, or financial connections. Opportunities arise from engineering, physical skills, or job-related work, with skillful use of tools and machinery.",
+    "hi": "पेशेवर जीवन में संस्थागत अनुशासन, कार्यक्षमता और व्यवस्थितता में सुधार होता है। व्यक्ति प्रतिष्ठित लोगों से संपर्क करता है और पेशेवर, राजनीतिक या आर्थिक नए संबंध/बंधनों की शुरुआत करता है। इंजीनियरिंग, शारीरिक कौशल या नौकरी से संबंधित कार्यों से अवसर प्राप्त होते हैं और उपकरणों/मशीनों का कुशलतापूर्वक उपयोग होता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Complacency or overextension; assuming goodwill covers weak execution.",
-    "Burnout via over-responsibility; schedule recovery windows.",
-    "Impulsive actions or accidents; channel energy into training."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Saturn: structure, commit, audit; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Saturn: structure, commit, audit; Mars: execute, train, assert; tone: opportunity/skill)."
+  "facets": {
+    "career": {
+      "en": "Enhanced professional discipline and organization; initiation of new professional and political connections; opportunities linked to engineering and physical skills.",
+      "hi": "पेशेवर अनुशासन और व्यवस्थितता में वृद्धि; नए पेशेवर और राजनीतिक संबंधों की शुरुआत; इंजीनियरिंग और शारीरिक कौशल से जुड़े अवसर।"
+    },
+    "relationships": {
+      "en": "Engagements and dealings with respected individuals, fostering professional and political bonds.",
+      "hi": "प्रतिष्ठित व्यक्तियों से संपर्क और लेन-देन, पेशेवर और राजनीतिक संबंधों को बढ़ावा देना।"
+    },
+    "money": {
+      "en": "Opportunities for financial gains through new connections and skillful job-related work involving tools and machinery.",
+      "hi": "नए संबंधों और उपकरणों/मशीनों के कुशल उपयोग से आर्थिक लाभ के अवसर।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments mentioned.",
+      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन उल्लेखित नहीं है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional advancement",
+      "New political or financial connections",
+      "Opportunities from engineering or physical skills"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Saturn: structure, commit, audit; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Make the decisive call; accept/decline offers consciously. (Saturn: structure, commit, audit; Mars: execute, train, assert; tone: opportunity/skill)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Saturn: structure, commit, audit; Mars: execute, train, assert; tone: opportunity/skill).",
-      "Close loops, stabilize routines, prune scope creep. (Saturn: structure, commit, audit; Mars: execute, train, assert; tone: opportunity/skill)."
+    "hi": [
+      "पेशेवर उन्नति",
+      "नए राजनीतिक या आर्थिक संबंध",
+      "इंजीनियरिंग या शारीरिक कौशल से अवसर"
     ]
   },
-  "keywords": [
-    "assertion",
-    "conflict",
-    "dharma via effort",
-    "discipline",
-    "drive",
-    "limits",
-    "mechanics",
-    "opportunity",
-    "sextile",
-    "skill",
-    "structure",
-    "surgery",
-    "time"
-  ],
-  "quality_tags": [
-    "major",
-    "benefic"
-  ],
+  "risk_notes": {
+    "en": [
+      "No explicit risks mentioned; maintain balanced engagement with new connections."
+    ],
+    "hi": [
+      "कोई स्पष्ट जोखिम उल्लेखित नहीं; नए संबंधों में संतुलित व्यवहार बनाए रखें।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Engage with respected professionals and leaders.",
+        "Systematize and organize current work and reputation.",
+        "Utilize engineering and physical skills effectively."
+      ],
+      "hi": [
+        "प्रतिष्ठित पेशेवरों और नेताओं से संपर्क करें।",
+        "वर्तमान कार्य और प्रतिष्ठा को व्यवस्थित करें।",
+        "इंजीनियरिंग और शारीरिक कौशल का प्रभावी उपयोग करें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Initiate new professional, political, or financial connections.",
+        "Skillfully use tools and machinery in job-related tasks."
+      ],
+      "hi": [
+        "नए पेशेवर, राजनीतिक या आर्थिक संबंध शुरू करें।",
+        "जॉब से जुड़े कार्यों में उपकरणों और मशीनों का कुशल उपयोग करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Maintain discipline and organization to sustain reputation.",
+        "Avoid neglecting professional relationships."
+      ],
+      "hi": [
+        "प्रतिष्ठा बनाए रखने के लिए अनुशासन और व्यवस्थितता बनाए रखें।",
+        "पेशेवर संबंधों की उपेक्षा न करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "institutional discipline",
+      "work efficiency",
+      "organization",
+      "professional connections",
+      "political bonds",
+      "financial opportunities",
+      "engineering skills",
+      "physical skills",
+      "tools",
+      "machinery"
+    ],
+    "hi": [
+      "संस्थागत अनुशासन",
+      "कार्यक्षमता",
+      "व्यवस्थितता",
+      "पेशेवर संबंध",
+      "राजनीतिक बंधन",
+      "आर्थिक अवसर",
+      "इंजीनियरिंग कौशल",
+      "शारीरिक कौशल",
+      "उपकरण",
+      "मशीनरी"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "disciplined",
+      "efficient",
+      "organized",
+      "respectful",
+      "skillful",
+      "opportunistic"
+    ],
+    "hi": [
+      "अनुशासित",
+      "प्रभावी",
+      "व्यवस्थित",
+      "सम्मानजनक",
+      "कुशल",
+      "अवसरवादी"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 4,
     "planet_weight": {
@@ -109,36 +183,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "professional growth",
+      "networking",
+      "skill development",
+      "organizational improvement"
+    ],
+    "hi": [
+      "पेशेवर विकास",
+      "नेटवर्किंग",
+      "कौशल विकास",
+      "संगठनात्मक सुधार"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
-      "title": "Saturn Sextile Mars",
-      "core": "Sextile between Saturn and Mars opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "tone": "warm"
+      "title": "sat-sxt-mar",
+      "core": "Improvement in discipline, efficiency, and professional connections with opportunities in engineering and physical skills.",
+      "tone": "Warm, neutral, and encouraging professional growth."
     },
     "hi": {
-      "title": "Saturn Sextile Mars (हिन्दी)",
-      "core": "Saturn और Mars का Sextile — ऊर्जा opportunity/skill के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "शनि षष्टि मार्स",
+      "core": "अनुशासन, कार्यक्षमता और पेशेवर संबंधों में सुधार, इंजीनियरिंग और शारीरिक कौशल में अवसर।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और पेशेवर विकास को प्रोत्साहित करने वाला।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Sextile between Saturn and Mars opens opportunity/skill. Saturn: discipline, structure, time, limits, dharma via effort. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: supportive, opportunity-rich; progress with modest effort.",
-      "career": "Authority via mastery, long-term credibility.  Execution speed, competition, technical grit. Emphasis: opportunity/skill.",
-      "relationships": "Commitment realism, boundaries, duty.  Desire, boundaries, anger management. Emphasis: opportunity/skill.",
-      "money": "Slow steady accrual, austerity, debt realism.  Risk-capital, decisive investments, initiative-led gains. Emphasis: opportunity/skill.",
-      "health_adj": "Bones, teeth, chronic load; routines & posture.  Inflammation, accidents; channel via training. Emphasis: opportunity/skill."
+      "core": {
+        "en": "Institutional discipline, work efficiency and organization improves professionally. Engages in dealings with respected individuals. Systematizes current reputation/work. Initiates new professional/political/financial connections/bonds. Opportunities arise from engineering/physical skills/job works. Skillfully utilizes tools/machinery.",
+        "hi": "व्यवसाय में संस्थागत अनुशासन में वृद्धि/कार्यक्षमता और व्यवस्थितता में वृद्धि की स्थिति रहती है। व्यक्ति पेशेवर व्यवहार में प्रतिष्ठित लोगों से लेन.देन करता है। वर्तमान प्रतिष्ठा और कार्य को अनुशासित करता है। इस समय व्यक्ति पेशेवर स्थिति में/राजनीतिक स्थिति में/आर्थिक स्थिति में नए संबंध/बंधनों की शुरुआत करता है। इस समय इंजीनियरिंग/शारीरिक कौशल/जॉब वर्क से लाभ प्राप्ति के अवसर रहते हैं। उपकरणों/मशीनों का कुशलतापूर्वक उपयोग करता है।"
+      },
+      "career": {
+        "en": "Institutional discipline and work efficiency improve professionally, with new connections in professional, political, and financial areas. Opportunities arise from engineering and physical skills.",
+        "hi": "पेशेवर अनुशासन और कार्यक्षमता में सुधार होता है, साथ ही पेशेवर, राजनीतिक और आर्थिक क्षेत्रों में नए संबंध बनते हैं। इंजीनियरिंग और शारीरिक कौशल से अवसर प्राप्त होते हैं।"
+      },
+      "relationships": {
+        "en": "Engages in dealings with respected individuals, fostering professional and political bonds.",
+        "hi": "प्रतिष्ठित व्यक्तियों से लेन-देन करता है, पेशेवर और राजनीतिक संबंध बनाता है।"
+      },
+      "money": {
+        "en": "Opportunities for financial gain arise from new connections and skillful use of tools and machinery.",
+        "hi": "नए संबंधों और उपकरणों/मशीनों के कुशल उपयोग से आर्थिक लाभ के अवसर मिलते हैं।"
+      },
+      "health_adj": {
+        "en": "No specific health adjustments mentioned.",
+        "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन उल्लेखित नहीं है।"
+      }
     },
     "aliases": [
       "Saturn sextile Mars",

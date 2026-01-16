@@ -11,80 +11,78 @@
     "progressed"
   ],
   "core_meaning": {
-    "en": "Increased awareness and creative power lead to improved self-expression and leadership abilities, fostering progress in personal and economic areas.",
-    "hi": "बढ़ी हुई चेतन्यता और क्रियात्मक शक्ति से अभिव्यक्ति और नेतृत्व क्षमता में सुधार होता है, जो व्यक्तिगत और आर्थिक प्रगति को बढ़ावा देता है।"
+    "en": "Increased awareness and creative power lead to enhanced self-expression, leadership ability, and progress in personal and economic areas, including supportive guidance to offspring and positive exchanges.",
+    "hi": "बढ़ी हुई चेतन्यता और रचनात्मक शक्ति से अभिव्यक्ति, नेतृत्व क्षमता, व्यक्तिगत और आर्थिक क्षेत्रों में प्रगति होती है, जिसमें संतान को मार्गदर्शन और सकारात्मक विनिमय शामिल हैं।"
   },
   "facets": {
     "career": {
-      "en": "Development of leadership skills and achievement of new agreements enhance professional growth.",
-      "hi": "नेतृत्व कौशल का विकास और नई संधियाँ प्राप्त करना पेशेवर विकास को बढ़ाता है।"
+      "en": "Development of creative power and leadership skills enables new agreements and career progress.",
+      "hi": "रचनात्मक शक्ति और नेतृत्व कौशल के विकास से नई संधियाँ और करियर में प्रगति होती है।"
     },
     "relationships": {
-      "en": "Guidance and support towards progress in interactions with children or offspring.",
-      "hi": "बच्चों या संतानों के साथ व्यवहार में प्रगति की ओर मार्गदर्शन और सहायता।"
+      "en": "Guidance and support are provided to children or offspring, fostering progress in interactions.",
+      "hi": "बच्चों या संतान को मार्गदर्शन और सहायता प्रदान की जाती है, जिससे संबंधों में प्रगति होती है।"
     },
     "money": {
-      "en": "Economic and financial progress occurs through exchange and welcomed opportunities.",
-      "hi": "विनिमय और अवसरों के स्वागत से आर्थिक और वित्तीय उन्नति होती है।"
+      "en": "Economic and financial progress is made through exchanges and opportunities received gladly.",
+      "hi": "विनिमय और अवसरों के माध्यम से आर्थिक और वित्तीय उन्नति होती है।"
     },
     "health_adj": {
-      "en": "No specific health adjustments indicated.",
-      "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन संकेतित नहीं हैं।"
+      "en": "No specific health adjustments are indicated in the descriptions.",
+      "hi": "स्वास्थ्य संबंधी कोई विशिष्ट समायोजन वर्णित नहीं हैं।"
     }
   },
   "life_event_type": {
     "en": [
       "Creative development",
       "Leadership emergence",
-      "Financial progress",
-      "New agreements"
+      "New agreements",
+      "Economic progress",
+      "Support to offspring"
     ],
     "hi": [
-      "क्रियात्मक विकास",
+      "रचनात्मक विकास",
       "नेतृत्व का उदय",
-      "आर्थिक उन्नति",
-      "नई संधियाँ"
+      "नई संधियाँ",
+      "आर्थिक प्रगति",
+      "संतान की सहायता"
     ]
   },
   "risk_notes": {
-    "en": [
-      "No explicit risks mentioned; maintain openness to opportunities."
-    ],
-    "hi": [
-      "कोई स्पष्ट जोखिम नहीं; अवसरों के प्रति खुले रहना आवश्यक है।"
-    ]
+    "en": [],
+    "hi": []
   },
   "actionables": {
     "applying": {
       "en": [
-        "Embrace new opportunities with enthusiasm.",
-        "Support and guide children or offspring towards progress.",
-        "Express creativity confidently."
+        "Embrace opportunities with enthusiasm",
+        "Express creativity confidently",
+        "Support and guide offspring towards progress"
       ],
       "hi": [
-        "नए अवसरों को उत्साह से स्वीकार करें।",
-        "बच्चों या संतानों को प्रगति की ओर मार्गदर्शन और सहायता करें।",
-        "सृजनात्मकता को आत्मविश्वास से व्यक्त करें।"
+        "अवसरों को उत्साह से स्वीकारें",
+        "रचनात्मकता को आत्मविश्वास से व्यक्त करें",
+        "संतान को प्रगति की ओर मार्गदर्शन और सहायता करें"
       ]
     },
     "exact": {
       "en": [
-        "Focus on leadership roles and forming new agreements.",
-        "Engage actively in exchanges that promote economic progress."
+        "Demonstrate leadership capabilities",
+        "Achieve new agreements"
       ],
       "hi": [
-        "नेतृत्व भूमिकाओं और नई संधियों पर ध्यान केंद्रित करें।",
-        "आर्थिक प्रगति को बढ़ावा देने वाले विनिमयों में सक्रिय रूप से भाग लें।"
+        "नेतृत्व क्षमताओं का प्रदर्शन करें",
+        "नई संधियाँ प्राप्त करें"
       ]
     },
     "separating": {
       "en": [
-        "Continue to build on developed creative and leadership skills.",
-        "Maintain openness to opportunities and exchanges."
+        "Maintain openness to exchange and progress",
+        "Continue developing self-awareness"
       ],
       "hi": [
-        "विकसित हुई क्रियात्मक और नेतृत्व क्षमताओं को बनाए रखें।",
-        "अवसरों और विनिमयों के प्रति खुलेपन को बनाए रखें।"
+        "विनिमय और प्रगति के प्रति खुलापन बनाए रखें",
+        "स्वयं की चेतन्यता का विकास जारी रखें"
       ]
     }
   },
@@ -94,20 +92,20 @@
       "creative power",
       "expression",
       "leadership",
-      "progress",
       "agreements",
-      "economic growth",
+      "guidance",
+      "economic progress",
       "exchange",
       "opportunities"
     ],
     "hi": [
       "चेतन्यता",
-      "क्रियात्मक शक्ति",
+      "रचनात्मक शक्ति",
       "अभिव्यक्ति",
       "नेतृत्व",
-      "प्रगति",
       "संधियाँ",
-      "आर्थिक विकास",
+      "मार्गदर्शन",
+      "आर्थिक प्रगति",
       "विनिमय",
       "अवसर"
     ]
@@ -115,15 +113,15 @@
   "quality_tags": {
     "en": [
       "positive",
-      "growth-oriented",
       "supportive",
-      "expressive"
+      "progressive",
+      "creative"
     ],
     "hi": [
       "सकारात्मक",
-      "विकासोन्मुख",
       "सहायक",
-      "अभिव्यक्तिपूर्ण"
+      "प्रगतिशील",
+      "रचनात्मक"
     ]
   },
   "weights_hint": {
@@ -180,56 +178,56 @@
   },
   "theme_overlays": {
     "en": [
-      "creativity",
       "leadership",
-      "progress",
-      "economic exchange"
+      "creativity",
+      "economic growth",
+      "family support"
     ],
     "hi": [
-      "सृजनात्मकता",
       "नेतृत्व",
-      "प्रगति",
-      "आर्थिक विनिमय"
+      "रचनात्मकता",
+      "आर्थिक विकास",
+      "पारिवारिक सहायता"
     ]
   },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-15"
+    "reviewed_at": "2026-01-16"
   },
   "locales": {
     "en": {
       "title": "sun-sxt-sun",
-      "core": "This aspect enhances awareness, creativity, and leadership, promoting progress and positive exchanges.",
-      "tone": "Warm, encouraging, and optimistic."
+      "core": "This aspect enhances awareness, creativity, leadership, and economic progress, with supportive guidance to offspring.",
+      "tone": "Warm, encouraging, and optimistic"
     },
     "hi": {
       "title": "सूर्य षट्कोण सूर्य",
-      "core": "यह योग चेतन्यता, सृजनात्मकता और नेतृत्व को बढ़ाता है, जो प्रगति और सकारात्मक विनिमय को प्रोत्साहित करता है।",
-      "tone": "स्नेहपूर्ण, प्रोत्साहित करने वाला, और आशावादी।"
+      "core": "यह योग चेतन्यता, रचनात्मकता, नेतृत्व और आर्थिक प्रगति को बढ़ाता है, साथ ही संतान को सहायक मार्गदर्शन देता है।",
+      "tone": "स्नेहपूर्ण, प्रोत्साहक, और आशावादी"
     }
   },
   "retrieval": {
     "embedding_sections": {
       "core": {
-        "en": "Awareness increases in life. The development of creative power occurs. The capacity for expression increases. The person displays themselves with excellence.",
-        "hi": "जीवन में चेतन्यता बढ़ती है। क्रियात्मक शक्ति का विकास होता है। अभिव्यक्ति की क्षमता बढ़ती है। स्वयं को श्रेष्ठता से प्रदर्शित करता है।"
+        "en": "Awareness increases in life. The development of creative power occurs. The capacity for expression increases. The person displays themselves with excellence. New agreements are achieved. The person becomes capable of leadership. In interactions with children/offspring, they guide them towards progress and assist them. Economic/financial progress is made. Exchange takes place. Opportunities are gladly received.",
+        "hi": "जीवन में चेतन्यता बढ़ती है। क्रियात्मक शक्ति का विकास होता है। अभिव्यक्ति की क्षमता बढ़ती है। स्वयं को श्रेष्ठता से प्रदर्शित करता है। नई संधियाँ प्राप्त होती हैं। नेतृत्व करने में सक्षम होता है। बच्चों/संतान के साथ व्यवहार में उनको प्रगति की ओर अग्रसर करता हैए उनकी सहायता करता है। आर्थिक/वित्तीय उन्नति होती है। विनिमय होता है। सहर्ष में अवसर प्राप्त होता है।"
       },
       "career": {
-        "en": "The person becomes capable of leadership. New agreements are achieved.",
-        "hi": "नेतृत्व करने में सक्षम होता है। नई संधियाँ प्राप्त होती हैं।"
+        "en": "The development of creative power and leadership ability leads to new agreements and career progress.",
+        "hi": "क्रियात्मक शक्ति और नेतृत्व क्षमता के विकास से नई संधियाँ और करियर में प्रगति होती है।"
       },
       "relationships": {
-        "en": "In interactions with children/offspring, they guide them towards progress and assist them.",
-        "hi": "बच्चों/संतान के साथ व्यवहार में उनको प्रगति की ओर अग्रसर करता है और उनकी सहायता करता है।"
+        "en": "The person guides and assists children or offspring towards progress in their interactions.",
+        "hi": "व्यक्ति बच्चों/संतान के साथ व्यवहार में उन्हें प्रगति की ओर अग्रसर करता है और सहायता करता है।"
       },
       "money": {
-        "en": "Economic/financial progress is made. Exchange takes place. Opportunities are gladly received.",
+        "en": "Economic and financial progress occurs through exchanges and gladly received opportunities.",
         "hi": "आर्थिक/वित्तीय उन्नति होती है। विनिमय होता है। सहर्ष में अवसर प्राप्त होता है।"
       },
       "health_adj": {
-        "en": "No specific health adjustments indicated.",
-        "hi": "स्वास्थ्य संबंधी कोई विशेष समायोजन संकेतित नहीं हैं।"
+        "en": "No specific health-related adjustments or concerns are mentioned.",
+        "hi": "स्वास्थ्य संबंधी कोई विशिष्ट समायोजन या चिंता वर्णित नहीं है।"
       }
     },
     "aliases": [
