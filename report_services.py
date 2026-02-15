@@ -112,7 +112,6 @@ def compute_timeline(req: TimelineRequest) -> TimelineData:
     Encapsulates date range selection, sampling step, aspect window computation,
     and conversion to TimelineItem models.
     """
-    print("Preparing timeline computation...")
     start = dt.date.fromisoformat(req.reportStartDate)
     planet_exclusion_list: List[str] = []
     if req.timePeriod == "1Y":
@@ -144,7 +143,7 @@ def compute_timeline(req: TimelineRequest) -> TimelineData:
         birth_tz=req.timeZone,
         start_date=start.isoformat(),
         end_date=end.isoformat(),
-        transit_tz="UTC",
+        transit_tz=req.timeZone,
         sample_step_hours=step,
         exclude_transit_short=planet_exclusion_list,
     )

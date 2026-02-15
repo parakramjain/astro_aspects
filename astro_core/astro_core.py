@@ -330,7 +330,7 @@ def effective_orb(
     """Active orb = min(orb_by_aspect, orb_by_transit_planet)."""
     a_orb = aspect_orbs.get(aspect_angle, default_aspect_orb)
     t_orb = transit_orbs.get(t_pid, default_transit_orb)
-    return max(a_orb, t_orb)
+    return min(a_orb, t_orb)
 
 def _planet_longitudes_utc(
     dtu: dt.datetime,

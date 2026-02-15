@@ -10,47 +10,122 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Square between Sun and Neptune drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Neptune: . General tenor: growth via friction; endurance and clear boundaries are key.",
-  "facets": {
-    "career": "Authority, recognition, leadership, alignment with purpose.  Emphasis: friction/work.",
-    "relationships": "Self-respect, healthy boundaries, paternal figures.  Emphasis: friction/work.",
-    "money": "Status-linked income, government/authority-linked gains.  Emphasis: friction/work.",
-    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Emphasis: friction/work."
+  "core_meaning": {
+    "en": "Tendency to avoid responsibilities, self-deception, and living in a fantasy world, leading to wasted time and resources and potential problems.",
+    "hi": "जिम्मेदारियों से बचना, स्वयं को भ्रमित करना और कल्पना की दुनिया में जीना, जिससे समय और संसाधनों की बर्बादी और समस्याएं उत्पन्न हो सकती हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Neptune: act, iterate, measure; tone: friction/work).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Neptune: act, iterate, measure; tone: friction/work)."
+  "facets": {
+    "career": {
+      "en": "Challenges in fulfilling duties and a tendency to avoid responsibilities may affect career progress.",
+      "hi": "कर्तव्यों को पूरा करने में कठिनाई और जिम्मेदारियों से बचने की प्रवृत्ति करियर प्रगति को प्रभावित कर सकती है।"
+    },
+    "relationships": {
+      "en": "Self-deception and unrealistic expectations can create misunderstandings and issues in relationships.",
+      "hi": "स्वयं को भ्रमित करना और अवास्तविक अपेक्षाएं संबंधों में गलतफहमियां और समस्याएं उत्पन्न कर सकती हैं।"
+    },
+    "money": {
+      "en": "Inclination towards futile expenses and imaginary ideas may lead to financial losses.",
+      "hi": "व्यर्थ खर्च और काल्पनिक विचारों की प्रवृत्ति वित्तीय नुकसान का कारण बन सकती है।"
+    },
+    "health_adj": {
+      "en": "No specific health adjustments indicated, but caution advised due to potential stress from self-deception and irresponsibility.",
+      "hi": "विशिष्ट स्वास्थ्य समायोजन नहीं बताए गए हैं, लेकिन स्वयं को भ्रमित करने और जिम्मेदारी से बचने के कारण तनाव से सावधानी बरतनी चाहिए।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Periods of irresponsibility",
+      "Times of self-deception",
+      "Episodes of wasted resources"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Neptune: act, iterate, measure; tone: friction/work).",
-      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Neptune: act, iterate, measure; tone: friction/work)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Neptune: act, iterate, measure; tone: friction/work).",
-      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Neptune: act, iterate, measure; tone: friction/work)."
+    "hi": [
+      "जिम्मेदारी से बचने के समय",
+      "स्वयं को भ्रमित करने के क्षण",
+      "संसाधनों की बर्बादी के दौर"
     ]
   },
-  "keywords": [
-    "authority",
-    "ego",
-    "friction",
-    "identity",
-    "purpose",
-    "square",
-    "visibility",
-    "vitality",
-    "work"
-  ],
-  "quality_tags": [
-    "major",
-    "challenging",
-    "discipline-required"
-  ],
+  "risk_notes": {
+    "en": [
+      "Avoiding responsibilities can create problems.",
+      "Living in fantasies may waste time and resources.",
+      "Futile expenses might lead to losses."
+    ],
+    "hi": [
+      "जिम्मेदारियों से बचना समस्याएं पैदा कर सकता है।",
+      "कल्पनाओं में जीना समय और संसाधनों की बर्बादी हो सकती है।",
+      "व्यर्थ खर्च नुकसान का कारण बन सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Recognize and accept responsibilities.",
+        "Stay grounded in reality.",
+        "Monitor expenses carefully."
+      ],
+      "hi": [
+        "जिम्मेदारियों को पहचानें और स्वीकार करें।",
+        "वास्तविकता में बने रहें।",
+        "खर्चों पर सावधानी रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid indulging in fantasies.",
+        "Refrain from self-deception.",
+        "Focus on practical matters."
+      ],
+      "hi": [
+        "कल्पनाओं में डूबने से बचें।",
+        "स्वयं को भ्रमित करने से बचें।",
+        "व्यावहारिक मामलों पर ध्यान दें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons about responsibility.",
+        "Reassess financial habits.",
+        "Seek clarity to avoid illusions."
+      ],
+      "hi": [
+        "जिम्मेदारी के बारे में सीखों पर विचार करें।",
+        "वित्तीय आदतों का पुनर्मूल्यांकन करें।",
+        "भ्रम से बचने के लिए स्पष्टता खोजें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "avoidance",
+      "self-deception",
+      "fantasy",
+      "waste",
+      "irresponsibility",
+      "loss"
+    ],
+    "hi": [
+      "पलायन",
+      "स्वयं को फंसाना",
+      "कल्पना",
+      "बर्बादी",
+      "जिम्मेदारी से बचना",
+      "नुकसान"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "deceptive",
+      "imaginative",
+      "cautionary"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भ्रामक",
+      "कल्पनाशील",
+      "सावधानीपूर्ण"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -104,36 +179,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "responsibility",
+      "reality vs fantasy",
+      "resource management",
+      "self-awareness"
+    ],
+    "hi": [
+      "जिम्मेदारी",
+      "वास्तविकता बनाम कल्पना",
+      "संसाधन प्रबंधन",
+      "स्वयं की जागरूकता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-02-07"
   },
   "locales": {
     "en": {
-      "title": "Sun Square Neptune",
-      "core": "Square between Sun and Neptune drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Neptune: . General tenor: growth via friction; endurance and clear boundaries are key.",
-      "tone": "warm"
+      "title": "sun-squ-nep",
+      "core": "Avoidance of responsibilities and self-deception leading to wasted time and potential problems.",
+      "tone": "Warm, neutral, and cautionary."
     },
     "hi": {
-      "title": "Sun Square Neptune (हिन्दी)",
-      "core": "Sun और Neptune का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "सूर्य वर्ग नेपच्यून",
+      "core": "जिम्मेदारियों से बचना और स्वयं को भ्रमित करना, जिससे समय की बर्बादी और संभावित समस्याएं होती हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्ण।"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Square between Sun and Neptune drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Neptune: . General tenor: growth via friction; endurance and clear boundaries are key.",
-      "career": "Authority, recognition, leadership, alignment with purpose.  Emphasis: friction/work.",
-      "relationships": "Self-respect, healthy boundaries, paternal figures.  Emphasis: friction/work.",
-      "money": "Status-linked income, government/authority-linked gains.  Emphasis: friction/work.",
-      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Emphasis: friction/work."
+      "core": {
+        "en": "Avoiding responsibilities, self-deception, and living in fantasy causing wasted time and resources.",
+        "hi": "जिम्मेदारियों से बचना, स्वयं को भ्रमित करना और कल्पना की दुनिया में जीना, जिससे समय और संसाधनों की बर्बादी होती है।"
+      },
+      "career": {
+        "en": "Challenges in duty fulfillment and responsibility avoidance impacting career.",
+        "hi": "कर्तव्यों को पूरा करने में कठिनाई और जिम्मेदारी से बचना करियर को प्रभावित करता है।"
+      },
+      "relationships": {
+        "en": "Self-deception and unrealistic expectations causing misunderstandings.",
+        "hi": "स्वयं को भ्रमित करना और अवास्तविक अपेक्षाएं गलतफहमियां पैदा करती हैं।"
+      },
+      "money": {
+        "en": "Futile expenses and imaginary ideas leading to losses.",
+        "hi": "व्यर्थ खर्च और काल्पनिक विचार नुकसान का कारण बनते हैं।"
+      },
+      "health_adj": {
+        "en": "No direct health issues noted; caution due to stress from irresponsibility.",
+        "hi": "कोई सीधे स्वास्थ्य समस्या नहीं; जिम्मेदारी से बचने के कारण तनाव से सावधानी।"
+      }
     },
     "aliases": [
       "Sun square Neptune",

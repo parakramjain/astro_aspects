@@ -1,0 +1,3172 @@
+{
+  "input": {
+    "name": "Amit",
+    "dateOfBirth": "1982-08-16",
+    "timeOfBirth": "16:00:00",
+    "placeOfBirth": "Yavatmal, India",
+    "timeZone": "Asia/Kolkata",
+    "latitude": 20.32,
+    "longitude": 78.13,
+    "timePeriod": "1D",
+    "reportStartDate": "2026-01-16",
+    "cursor": null
+  },
+  "generatedAt": "2026-01-25T02:27:25.557815+00:00",
+  "timeline": {
+    "items": [
+      {
+        "aspect": "Jup Con Moo",
+        "aspectNature": "Positive",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-18T02:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "Opportunities for religious, educational, or cultural activities arise within the home or family environment. There may be visits from friends or relatives from distant places, or the person may return home from afar.",
+          "hi": "घर या परिवार के वातावरण में धार्मिक, शैक्षिक या सांस्कृतिक गतिविधियों के अवसर उत्पन्न होते हैं। दूर से मित्र या परिजन मिलने आ सकते हैं, या व्यक्ति दूर से घर लौट सकता है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Engage in family or cultural activities",
+              "Welcome visitors from afar",
+              "Prepare for possible travel home"
+            ],
+            "hi": [
+              "परिवार या सांस्कृतिक गतिविधियों में भाग लें",
+              "दूर से आने वाले आगंतुकों का स्वागत करें",
+              "संभव यात्रा के लिए तैयारी करें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Focus on home-based religious or educational events",
+              "Connect with distant friends or relatives"
+            ],
+            "hi": [
+              "घर आधारित धार्मिक या शैक्षिक कार्यक्रमों पर ध्यान दें",
+              "दूर के मित्रों या परिजनों से संपर्क करें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Maintain family harmony during visits",
+              "Balance personal and social commitments"
+            ],
+            "hi": [
+              "मिलन के दौरान पारिवारिक सद्भाव बनाए रखें",
+              "व्यक्तिगत और सामाजिक जिम्मेदारियों का संतुलन रखें"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Potential for involvement in educational or cultural pursuits related to home or family settings.",
+            "hi": "घर या परिवार से संबंधित शैक्षिक या सांस्कृतिक कार्यों में संलग्न होने की संभावना।"
+          },
+          "relationships": {
+            "en": "Visits and reunions with friends or relatives from distant places strengthen family bonds.",
+            "hi": "दूर के मित्रों या परिजनों के आगमन से पारिवारिक संबंध मजबूत होते हैं।"
+          },
+          "money": {
+            "en": "No specific financial implications indicated.",
+            "hi": "कोई विशेष वित्तीय संकेत नहीं।"
+          },
+          "health_adj": {
+            "en": "No particular health adjustments noted.",
+            "hi": "कोई विशेष स्वास्थ्य समायोजन नहीं।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "home",
+            "family",
+            "religious activities",
+            "educational activities",
+            "cultural activities",
+            "visits",
+            "returning home"
+          ],
+          "hi": [
+            "घर",
+            "परिवार",
+            "धार्मिक गतिविधियाँ",
+            "शैक्षिक गतिविधियाँ",
+            "सांस्कृतिक गतिविधियाँ",
+            "मिलन",
+            "घर लौटना"
+          ]
+        }
+      },
+      {
+        "aspect": "Jup Sqr Sat",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-18T02:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "",
+          "hi": ""
+        },
+        "keyPoints": {
+          "applying": [
+            "Prepare and initiate aligned actions; set intent and book resources. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work).",
+            "Skill-up or pre-negotiate; clear blockers proactively. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work)."
+          ],
+          "exact": [
+            "Announce, pitch, launch, or sign; maximize visibility. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work).",
+            "Make the decisive call; accept/decline offers consciously. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work)."
+          ],
+          "separating": [
+            "Consolidate gains, document learnings, adjust guardrails. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work).",
+            "Close loops, stabilize routines, prune scope creep. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work)."
+          ]
+        },
+        "facetsPoints": {
+          "career": "Mentorship, promotions, strategic expansion.  Authority via mastery, long-term credibility. Emphasis: friction/work.",
+          "relationships": "Goodwill, generosity, shared purpose.  Commitment realism, boundaries, duty. Emphasis: friction/work.",
+          "money": "Scaling revenue, windfalls, ethical growth.  Slow steady accrual, austerity, debt realism. Emphasis: friction/work.",
+          "health_adj": "Liver, metabolic balance; avoid excess.  Bones, teeth, chronic load; routines & posture. Emphasis: friction/work."
+        },
+        "keywords": null
+      },
+      {
+        "aspect": "Mar Sqr Plu",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-17T06:24:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "Tendency toward aggressive actions, power struggles, quarrels, and increased anger. Potential for work-related jealousy and selfishness. Professional disputes likely over shared assets or business matters. Requires caution to avoid conflict and accidents.",
+          "hi": "उत्तेजित कार्य, शक्ति विवाद, झगड़ालू स्वभाव और अधिक गुस्सा करने की प्रवृत्ति। काम में ईर्ष्या और स्वार्थ जागृत होने की संभावना। संयुक्त संपत्ति या व्यवसाय में विवाद की संभावना। विवाद और दुर्घटना से बचाव के लिए सावधानी आवश्यक।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Exercise self-restraint in anger and disputes.",
+              "Be cautious in professional dealings involving joint assets.",
+              "Avoid risky environments prone to conflict or accidents."
+            ],
+            "hi": [
+              "गुस्से और विवाद में संयम रखें।",
+              "संयुक्त संपत्ति से जुड़े पेशेवर मामलों में सावधानी बरतें।",
+              "विवाद या दुर्घटना वाले जोखिम भरे स्थानों से बचें।"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Heightened vigilance to prevent quarrels and accidents.",
+              "Maintain calm and avoid aggressive confrontations."
+            ],
+            "hi": [
+              "झगड़ों और दुर्घटनाओं से बचाव के लिए सतर्कता बढ़ाएं।",
+              "शांत रहें और आक्रामक टकराव से बचें।"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Gradual reduction in anger and quarrelsome tendencies.",
+              "Improved self-control and avoidance of conflict situations."
+            ],
+            "hi": [
+              "गुस्सा और झगड़ालू प्रवृत्ति में धीरे-धीरे कमी।",
+              "बेहतर आत्मसंयम और विवाद से बचाव।"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Disputes and conflicts over joint assets, businesses, and taxes are likely. Increased competitiveness and selfishness may affect professional relations.",
+            "hi": "संयुक्त संपत्ति, व्यवसाय और करों को लेकर विवाद और संघर्ष की संभावना। पेशेवर संबंधों में प्रतिस्पर्धा और स्वार्थ बढ़ सकता है।"
+          },
+          "relationships": {
+            "en": "Argumentative and quarrelsome nature may strain relationships. Increased anger tendencies can cause friction.",
+            "hi": "झगड़ालू स्वभाव संबंधों में तनाव ला सकता है। अधिक गुस्सा करने की आदत से मतभेद हो सकते हैं।"
+          },
+          "money": {
+            "en": "Potential disputes over shared financial matters such as joint assets and taxes.",
+            "hi": "संयुक्त वित्तीय मामलों जैसे संयुक्त संपत्ति और करों को लेकर विवाद की संभावना।"
+          },
+          "health_adj": {
+            "en": "Risk of accidents involving tools, weapons, or hazardous chemicals. Extreme caution and self-restraint advised.",
+            "hi": "उपकरण, हथियार या खतरनाक रसायनों से दुर्घटना का खतरा। अत्यधिक सावधानी और आत्मसंयम आवश्यक।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "aggression",
+            "power struggles",
+            "anger",
+            "quarrels",
+            "jealousy",
+            "selfishness",
+            "disputes",
+            "caution",
+            "accident risk"
+          ],
+          "hi": [
+            "उत्तेजना",
+            "शक्ति विवाद",
+            "गुस्सा",
+            "झगड़ा",
+            "ईर्ष्या",
+            "स्वार्थ",
+            "विवाद",
+            "सावधानी",
+            "दुर्घटना का खतरा"
+          ]
+        }
+      },
+      {
+        "aspect": "Mer Sqr Plu",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-17T19:45:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "Difficulty controlling thoughts; tendency to be manipulative or dominating; possible health and travel disruptions; complications in property, tax, or investment matters.",
+          "hi": "सोच पर नियंत्रण कठिन होता है; व्यक्ति में जबरदस्ती या नियंत्रण की प्रवृत्ति होती है; स्वास्थ्य और यात्रा में रुकावटें हो सकती हैं; संपत्ति, कर या निवेश संबंधी समस्याएं हो सकती हैं।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Be mindful of controlling or manipulative tendencies.",
+              "Monitor health and plan travel carefully.",
+              "Review property, tax, and investment matters cautiously."
+            ],
+            "hi": [
+              "नियंत्रण या जबरदस्ती प्रवृत्तियों के प्रति सतर्क रहें।",
+              "स्वास्थ्य पर ध्यान दें और यात्रा की योजना सावधानी से बनाएं।",
+              "संपत्ति, कर और निवेश मामलों की सावधानीपूर्वक समीक्षा करें।"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Exercise extra caution in communication and decision-making.",
+              "Avoid forcing opinions on others.",
+              "Check all financial and legal documents thoroughly."
+            ],
+            "hi": [
+              "संचार और निर्णय लेने में अतिरिक्त सावधानी बरतें।",
+              "दूसरों पर अपनी राय जबरदस्ती न थोपें।",
+              "सभी वित्तीय और कानूनी दस्तावेजों की पूरी जांच करें।"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Reflect on thought patterns and reduce controlling impulses.",
+              "Allow flexibility in plans and interactions.",
+              "Resolve property or financial issues with patience."
+            ],
+            "hi": [
+              "सोच के पैटर्न पर विचार करें और नियंत्रण की प्रवृत्ति कम करें।",
+              "योजनाओं और संबंधों में लचीलापन रखें।",
+              "संपत्ति या वित्तीय समस्याओं को धैर्यपूर्वक सुलझाएं।"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Challenges in managing professional relationships due to controlling behavior; potential complications in work related to property or investments.",
+            "hi": "नियंत्रण की प्रवृत्ति के कारण पेशेवर संबंधों में चुनौतियाँ; संपत्ति या निवेश से जुड़े कार्यों में जटिलताएँ हो सकती हैं।"
+          },
+          "relationships": {
+            "en": "Tendency to act manipulatively or dominantly, which may strain relationships.",
+            "hi": "व्यक्ति जबरदस्ती या नियंत्रण में रखने की प्रवृत्ति रखता है, जिससे संबंधों में तनाव हो सकता है।"
+          },
+          "money": {
+            "en": "Complications may arise in property, tax, or investment matters.",
+            "hi": "संपत्ति, कर या निवेश से जुड़ी समस्याएं बढ़ सकती हैं।"
+          },
+          "health_adj": {
+            "en": "Health may be negatively affected; travel disruptions are possible.",
+            "hi": "स्वास्थ्य पर नकारात्मक असर हो सकता है; यात्रा में रुकावटें हो सकती हैं।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "thought control",
+            "manipulation",
+            "domination",
+            "health impact",
+            "travel disruption",
+            "property issues",
+            "tax complications",
+            "investment challenges"
+          ],
+          "hi": [
+            "सोच नियंत्रण",
+            "जबरदस्ती",
+            "नियंत्रण",
+            "स्वास्थ्य प्रभाव",
+            "यात्रा रुकावट",
+            "संपत्ति समस्याएं",
+            "कर जटिलताएं",
+            "निवेश चुनौतियां"
+          ]
+        }
+      },
+      {
+        "aspect": "Mer Sqr Sat",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-15T20:30:00+00:00",
+        "endDate": "2026-01-16T08:00:00+00:00",
+        "description": {
+          "en": "This aspect indicates a period of negative thinking, worry, and decreased efficiency. Communication is challenging and confidence is low. Conflicts with seniors or authorities may arise, and legal or government matters may face delays.",
+          "hi": "यह योग नकारात्मक सोच, चिंता और कम कार्यक्षमता का समय दर्शाता है। संचार में कठिनाई होती है और आत्मविश्वास कम रहता है। अधिकारियों या बुजुर्गों से मतभेद हो सकते हैं, तथा कानूनी या सरकारी मामलों में देरी हो सकती है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Exercise patience in communication.",
+              "Avoid confrontations with authority figures.",
+              "Prepare for possible delays in official matters."
+            ],
+            "hi": [
+              "संचार में धैर्य बनाए रखें।",
+              "अधिकारियों से विवाद से बचें।",
+              "आधिकारिक मामलों में संभावित देरी के लिए तैयार रहें।"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Focus on clear and careful communication.",
+              "Maintain composure in interactions with seniors.",
+              "Review legal or government documents thoroughly."
+            ],
+            "hi": [
+              "स्पष्ट और सावधानीपूर्वक संचार पर ध्यान दें।",
+              "वरिष्ठों के साथ बातचीत में संयम बनाए रखें।",
+              "कानूनी या सरकारी दस्तावेज़ों की अच्छी तरह समीक्षा करें।"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Gradual improvement in confidence and communication.",
+              "Reduction in conflicts with authorities.",
+              "Resolution or progress in delayed matters."
+            ],
+            "hi": [
+              "आत्मविश्वास और संचार में धीरे-धीरे सुधार।",
+              "अधिकारियों से मतभेदों में कमी।",
+              "रुके हुए मामलों में समाधान या प्रगति।"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Challenges in communication and conflicts with superiors may reduce work efficiency.",
+            "hi": "संचार में कठिनाई और वरिष्ठों से मतभेद कार्यक्षमता को कम कर सकते हैं।"
+          },
+          "relationships": {
+            "en": "Possible disagreements with authority figures or elders; communication difficulties may strain relationships.",
+            "hi": "अधिकारियों या बुजुर्गों से मतभेद संभव हैं; संचार की कठिनाई रिश्तों पर प्रभाव डाल सकती है।"
+          },
+          "money": {
+            "en": "Delays and obstacles may occur in legal or government-related financial matters.",
+            "hi": "कानूनी या सरकारी वित्तीय मामलों में रुकावटें और देरी हो सकती है।"
+          },
+          "health_adj": {
+            "en": "Mental stress and worry may affect overall well-being and reduce efficiency.",
+            "hi": "मानसिक तनाव और चिंता से समग्र स्वास्थ्य प्रभावित हो सकता है और कार्यक्षमता कम हो सकती है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "negative thinking",
+            "worry",
+            "reduced efficiency",
+            "communication difficulty",
+            "low confidence",
+            "conflicts with authority",
+            "legal delays"
+          ],
+          "hi": [
+            "नकारात्मक सोच",
+            "चिंता",
+            "कम कार्यक्षमता",
+            "संचार में कठिनाई",
+            "आत्मविश्वास की कमी",
+            "अधिकारियों से मतभेद",
+            "कानूनी देरी"
+          ]
+        }
+      },
+      {
+        "aspect": "Moo Con Nep",
+        "aspectNature": "Positive",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-16T01:51:00+00:00",
+        "endDate": "2026-01-16T09:00:00+00:00",
+        "description": {
+          "en": "Increased memories, imagination, and intuition with potential for intellectual and mental disturbances, including depression and instability.",
+          "hi": "स्मृतियों, कल्पना शक्ति और बोध शक्ति में वृद्धि होती है, साथ ही बौद्धिक और मानसिक विकृतियाँ जैसे अवसाद और अस्थिरता हो सकती है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Use enhanced intuition for creative and personal growth",
+              "Monitor mental health closely"
+            ],
+            "hi": [
+              "बढ़ी हुई बोध शक्ति का रचनात्मक और व्यक्तिगत विकास में उपयोग करें",
+              "मानसिक स्वास्थ्य पर ध्यान रखें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Be cautious of mental disturbances",
+              "Avoid major decisions if feeling unstable"
+            ],
+            "hi": [
+              "मानसिक विकृतियों से सावधान रहें",
+              "अस्थिर महसूस होने पर बड़े निर्णय न लें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Reflect on insights gained",
+              "Gradually regain emotional balance"
+            ],
+            "hi": [
+              "प्राप्त अंतर्दृष्टि पर विचार करें",
+              "धीरे-धीरे भावनात्मक संतुलन पुनः प्राप्त करें"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Enhanced creativity and intuition may aid career, but mental instability could affect focus and decision-making.",
+            "hi": "रचनात्मकता और बोध शक्ति में वृद्धि करियर में मदद कर सकती है, लेकिन मानसिक अस्थिरता ध्यान और निर्णय लेने को प्रभावित कर सकती है।"
+          },
+          "relationships": {
+            "en": "Heightened intuition can improve understanding, yet emotional fluctuations may cause challenges.",
+            "hi": "बढ़ी हुई बोध शक्ति समझ बढ़ा सकती है, पर भावनात्मक उतार-चढ़ाव चुनौतियाँ ला सकते हैं।"
+          },
+          "money": {
+            "en": "Imaginative ideas may inspire financial opportunities, but mental disturbances could lead to inconsistent judgment.",
+            "hi": "कल्पनाशील विचार वित्तीय अवसरों को प्रेरित कर सकते हैं, पर मानसिक विकृतियाँ निर्णय में अस्थिरता ला सकती हैं।"
+          },
+          "health_adj": {
+            "en": "Risk of depression and mental instability; attention to mental well-being is advised.",
+            "hi": "अवसाद और मानसिक अस्थिरता का खतरा; मानसिक स्वास्थ्य का ध्यान रखना आवश्यक है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "memories",
+            "imagination",
+            "intuition",
+            "mental disturbances",
+            "depression",
+            "instability"
+          ],
+          "hi": [
+            "स्मृतियाँ",
+            "कल्पना",
+            "बोध शक्ति",
+            "मानसिक विकृति",
+            "अवसाद",
+            "अस्थिरता"
+          ]
+        }
+      },
+      {
+        "aspect": "Moo Opp Moo",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-17T14:00:00+00:00",
+        "exactDate": "2026-01-17T21:09:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "This aspect indicates heightened emotional fluctuations, potential imbalance in home, relationships, or work, and a sense of emotional disorientation. It calls for careful handling of matters related to women and attention to eating habits.",
+          "hi": "यह योग भावनाओं में अधिक उतार-चढ़ाव, घर, रिश्तों या काम में असंतुलन और भावनात्मक उलझन को दर्शाता है। महिलाओं से जुड़ी बातों में सावधानी और खानपान पर ध्यान देने की आवश्यकता होती है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Be mindful of emotional swings",
+              "Handle interactions with women carefully",
+              "Maintain balanced eating habits"
+            ],
+            "hi": [
+              "भावनात्मक उतार-चढ़ाव का ध्यान रखें",
+              "महिलाओं से जुड़ी बातों में सावधानी बरतें",
+              "संतुलित खानपान बनाए रखें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Exercise extra caution in relationships",
+              "Monitor emotional state closely",
+              "Avoid impulsive decisions at work or home"
+            ],
+            "hi": [
+              "रिश्तों में विशेष सावधानी बरतें",
+              "भावनात्मक स्थिति पर ध्यान दें",
+              "काम या घर में जल्दबाजी से बचें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Gradual easing of emotional tension",
+              "Improvement in relationship balance",
+              "Return to more stable routines"
+            ],
+            "hi": [
+              "भावनात्मक तनाव में धीरे-धीरे कमी",
+              "रिश्तों में संतुलन में सुधार",
+              "स्थिर दिनचर्या की ओर वापसी"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Possible imbalance or tension at work; handle professional matters with care.",
+            "hi": "काम में असंतुलन या तनाव हो सकता है; पेशेवर मामलों में सावधानी बरतें।"
+          },
+          "relationships": {
+            "en": "Emotional swings may affect relationships; older relationships might experience tension; approach matters involving women thoughtfully.",
+            "hi": "भावनात्मक उतार-चढ़ाव रिश्तों को प्रभावित कर सकते हैं; पुराने रिश्तों में तनाव हो सकता है; महिलाओं से जुड़ी बातों में समझदारी से काम लें।"
+          },
+          "money": {
+            "en": "No specific financial indications; maintain balance and caution.",
+            "hi": "वित्तीय स्थिति के लिए कोई विशेष संकेत नहीं; संतुलन और सावधानी बनाए रखें।"
+          },
+          "health_adj": {
+            "en": "Monitor eating habits carefully; emotional stress may affect well-being.",
+            "hi": "खानपान पर ध्यान दें; भावनात्मक तनाव से स्वास्थ्य प्रभावित हो सकता है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "emotional swings",
+            "imbalance",
+            "relationship tension",
+            "care with women",
+            "emotional confusion",
+            "eating habits"
+          ],
+          "hi": [
+            "भावनात्मक उतार-चढ़ाव",
+            "असंतुलन",
+            "रिश्तों में तनाव",
+            "महिलाओं से सावधानी",
+            "भावनात्मक उलझन",
+            "खानपान"
+          ]
+        }
+      },
+      {
+        "aspect": "Moo Sqr Sat",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-17T17:00:00+00:00",
+        "exactDate": "2026-01-18T00:44:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "A time marked by emotional pressure, pessimism, and burdens, often involving family challenges and difficulty balancing personal and professional duties.",
+          "hi": "यह समय भावनात्मक दबाव, निराशा और बोझ से भरा होता है, जिसमें पारिवारिक समस्याएँ और व्यक्तिगत व व्यावसायिक जिम्मेदारियों में संतुलन बनाने में कठिनाई हो सकती है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Reflect seriously on major life changes",
+              "Seek balance between personal and professional duties",
+              "Acknowledge emotional burdens and seek support"
+            ],
+            "hi": [
+              "जीवन के बड़े बदलावों पर गंभीरता से विचार करें",
+              "व्यक्तिगत और व्यावसायिक जिम्मेदारियों में संतुलन बनाएं",
+              "भावनात्मक जिम्मेदारियों को स्वीकार करें और समर्थन लें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Prepare for emotional pressure and possible family issues",
+              "Be mindful of rising negative thoughts",
+              "Anticipate challenges in daily routines"
+            ],
+            "hi": [
+              "भावनात्मक दबाव और पारिवारिक समस्याओं के लिए तैयार रहें",
+              "बढ़ती नकारात्मक सोच के प्रति सतर्क रहें",
+              "रोज़मर्रा की ज़िंदगी में चुनौतियों की उम्मीद करें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Emotional pressure and pessimism may lessen",
+              "Improvement in balancing responsibilities",
+              "Support from others may become more accessible"
+            ],
+            "hi": [
+              "भावनात्मक दबाव और निराशा कम हो सकती है",
+              "जिम्मेदारियों में संतुलन बेहतर हो सकता है",
+              "दूसरों से समर्थन अधिक मिल सकता है"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Challenges in balancing work responsibilities; a tense work environment influenced by negative thinking.",
+            "hi": "काम की जिम्मेदारियों में संतुलन बनाने में कठिनाई; नकारात्मक सोच से प्रभावित तनावपूर्ण कार्य वातावरण।"
+          },
+          "relationships": {
+            "en": "Family issues related to parents or elderly women may arise; feelings of loneliness and limited support.",
+            "hi": "माता-पिता या बुजुर्ग महिलाओं से जुड़ी पारिवारिक समस्याएँ हो सकती हैं; अकेलापन महसूस हो सकता है और समर्थन सीमित लग सकता है।"
+          },
+          "money": {
+            "en": "Financial concerns may increase anxiety and add to emotional burdens.",
+            "hi": "आर्थिक चिंताएँ बढ़ सकती हैं, जिससे चिंता और भावनात्मक बोझ बढ़ता है।"
+          },
+          "health_adj": {
+            "en": "Emotional stress and pessimism may affect overall well-being; daily life may feel obstructed.",
+            "hi": "भावनात्मक तनाव और निराशावाद से समग्र स्वास्थ्य प्रभावित हो सकता है; रोज़मर्रा की ज़िंदगी में रुकावटें महसूस हो सकती हैं।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "emotional pressure",
+            "pessimism",
+            "family issues",
+            "burden",
+            "loneliness",
+            "negative thinking",
+            "financial anxiety",
+            "responsibility"
+          ],
+          "hi": [
+            "भावनात्मक दबाव",
+            "निराशा",
+            "पारिवारिक समस्याएँ",
+            "जिम्मेदारी",
+            "अकेलापन",
+            "नकारात्मक सोच",
+            "आर्थिक चिंता",
+            "बोझ"
+          ]
+        }
+      },
+      {
+        "aspect": "Moo Sxt Jup",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T15:00:00+00:00",
+        "exactDate": "2026-01-16T20:40:00+00:00",
+        "endDate": "2026-01-17T02:00:00+00:00",
+        "description": null,
+        "keyPoints": null,
+        "facetsPoints": null,
+        "keywords": null
+      },
+      {
+        "aspect": "Moo Sxt Mar",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T23:00:00+00:00",
+        "exactDate": "2026-01-17T04:02:00+00:00",
+        "endDate": "2026-01-17T09:00:00+00:00",
+        "description": null,
+        "keyPoints": null,
+        "facetsPoints": null,
+        "keywords": null
+      },
+      {
+        "aspect": "Moo Sxt Plu",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-16T02:19:00+00:00",
+        "endDate": "2026-01-16T08:00:00+00:00",
+        "description": null,
+        "keyPoints": null,
+        "facetsPoints": null,
+        "keywords": null
+      },
+      {
+        "aspect": "Moo Tri Mer",
+        "aspectNature": "Positive",
+        "startDate": "2026-01-17T08:00:00+00:00",
+        "exactDate": "2026-01-17T14:59:00+00:00",
+        "endDate": "2026-01-17T22:00:00+00:00",
+        "description": {
+          "en": "A favorable time for reconnecting with loved ones through communication, focusing on health and mindset, and engaging in smooth tasks involving food, medicine, or learning.",
+          "hi": "यह समय परिवार या प्रियजनों से संवाद के जरिए जुड़ने, सेहत और सोच पर ध्यान देने, और खाने-पीने, दवाइयों या पढ़ाई से जुड़े कामों में सहजता का होता है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Engage in conversations with family or partner",
+              "Focus on health and mental well-being",
+              "Pursue learning and communication tasks"
+            ],
+            "hi": [
+              "परिवार या साथी से बातचीत करें",
+              "सेहत और मानसिक स्थिति पर ध्यान दें",
+              "पढ़ाई और संचार के कार्य करें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Make calls or have meaningful conversations",
+              "Work on tasks related to food, medicine, or communication",
+              "Help others through speaking or teaching"
+            ],
+            "hi": [
+              "फोन करें या सार्थक बातचीत करें",
+              "खाने, दवाइयों या संचार से जुड़े काम करें",
+              "बोलकर या सिखाकर दूसरों की मदद करें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Maintain positive communication habits",
+              "Continue health and mindset improvements",
+              "Sustain learning and social support activities"
+            ],
+            "hi": [
+              "सकारात्मक संवाद की आदतें बनाए रखें",
+              "सेहत और सोच सुधार जारी रखें",
+              "पढ़ाई और सामाजिक सहायता जारी रखें"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Smooth progress in tasks related to communication, learning, and helping others.",
+            "hi": "संचार, पढ़ाई और दूसरों की मदद से जुड़े कार्यों में सहज प्रगति।"
+          },
+          "relationships": {
+            "en": "Reconnecting with family or partner through calls or conversations; pleasant interactions especially with women.",
+            "hi": "फोन या बातचीत के जरिए परिवार या साथी से जुड़ना; महिलाओं के साथ सुखद संवाद।"
+          },
+          "money": {
+            "en": "Tasks involving food, medicine, or communication proceed easily, indicating smooth handling of related financial matters.",
+            "hi": "खाने-पीने, दवाइयों या संचार से जुड़े कार्य आसानी से होते हैं, जिससे संबंधित वित्तीय मामलों में सहजता।"
+          },
+          "health_adj": {
+            "en": "Focus on improving health and mindset; favorable for health-related activities.",
+            "hi": "सेहत और सोच सुधारने पर ध्यान; स्वास्थ्य संबंधी गतिविधियों के लिए अनुकूल।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "communication",
+            "family",
+            "partner",
+            "health",
+            "mindset",
+            "learning",
+            "helping",
+            "pleasant talks"
+          ],
+          "hi": [
+            "संचार",
+            "परिवार",
+            "साथी",
+            "सेहत",
+            "सोच",
+            "पढ़ाई",
+            "मदद",
+            "मीठी बातें"
+          ]
+        }
+      },
+      {
+        "aspect": "Moo Tri Sun",
+        "aspectNature": "Positive",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-15T23:32:00+00:00",
+        "endDate": "2026-01-16T07:00:00+00:00",
+        "description": {
+          "en": "Peaceful and enjoyable development in family, marital, and women's relationships, fostering self-awareness reflected in steady daily work pace.",
+          "hi": "पारिवारिक, वैवाहिक और महिलाओं के साथ शांतिपूर्ण और आनंददायक सम्बन्धों का विकास, जो आत्मचेतना को बढ़ावा देता है और नियमित दैनिक कार्य गति में परिलक्षित होता है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Foster peaceful interactions in family and marital relationships.",
+              "Cultivate self-awareness to support steady work pace."
+            ],
+            "hi": [
+              "पारिवारिक और वैवाहिक सम्बन्धों में शांतिपूर्ण संवाद बढ़ाएं।",
+              "नियमित कार्य गति के लिए आत्मचेतना विकसित करें।"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Engage in harmonious communication with family and women close to you.",
+              "Focus on consistent daily work routines reflecting inner balance."
+            ],
+            "hi": [
+              "परिवार और निकट महिलाओं के साथ सौहार्दपूर्ण संवाद करें।",
+              "आंतरिक संतुलन दर्शाने वाली नियमित कार्य दिनचर्या पर ध्यान दें।"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Maintain the peaceful connections developed.",
+              "Continue nurturing self-awareness to support work consistency."
+            ],
+            "hi": [
+              "विकसित शांतिपूर्ण सम्बन्धों को बनाए रखें।",
+              "कार्य की निरंतरता के लिए आत्मचेतना को बढ़ावा देते रहें।"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Steady and consistent work speed reflecting inner self-awareness.",
+            "hi": "आत्मचेतना को दर्शाती नियमित और स्थिर कार्य गति।"
+          },
+          "relationships": {
+            "en": "Peaceful and enjoyable connections within family, marital, and women's relationships.",
+            "hi": "पारिवारिक, वैवाहिक और महिलाओं के साथ शांतिपूर्ण और आनंददायक सम्बन्ध।"
+          },
+          "money": {
+            "en": "No specific financial implications indicated.",
+            "hi": "विशेष वित्तीय प्रभाव नहीं दर्शाए गए हैं।"
+          },
+          "health_adj": {
+            "en": "No specific health adjustments indicated.",
+            "hi": "विशेष स्वास्थ्य समायोजन नहीं दर्शाए गए हैं।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "peaceful relationships",
+            "family harmony",
+            "marital connection",
+            "women’s relationships",
+            "self-awareness",
+            "steady work pace"
+          ],
+          "hi": [
+            "शांतिपूर्ण सम्बन्ध",
+            "पारिवारिक सौहार्द",
+            "वैवाहिक सम्बन्ध",
+            "महिलाओं के सम्बन्ध",
+            "आत्मचेतना",
+            "नियमित कार्य गति"
+          ]
+        }
+      },
+      {
+        "aspect": "Nep Tri Ura",
+        "aspectNature": "Positive",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-18T02:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "A powerful emergence of imagination, intuition, and spiritual awareness, fostering interest in meditation, occult studies, and social reforms, along with beneficial educational and financial opportunities.",
+          "hi": "कल्पना शक्ति, अंतर्ज्ञान और आध्यात्मिक बोध की प्रबल अनुभूति, जो ध्यान, गूढ़ अध्ययन और सामाजिक सुधारों में रुचि जगाती है तथा शैक्षणिक और आर्थिक अवसर प्रदान करती है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Engage in meditation and yoga to enhance spiritual awareness.",
+              "Explore occult or religious studies with openness.",
+              "Connect with spiritual or educational institutions for growth."
+            ],
+            "hi": [
+              "आध्यात्मिक जागरूकता बढ़ाने के लिए ध्यान और योग करें।",
+              "गूढ़ या धार्मिक अध्ययन को खुले मन से अपनाएं।",
+              "विकास के लिए आध्यात्मिक या शैक्षणिक संस्थानों से जुड़ें।"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Participate in social or business reform initiatives.",
+              "Plan for higher education or travel opportunities.",
+              "Meet with old friends to strengthen bonds."
+            ],
+            "hi": [
+              "सामाजिक या व्यावसायिक सुधार पहलों में भाग लें।",
+              "उच्च शिक्षा या यात्रा के अवसरों की योजना बनाएं।",
+              "मित्रों से मिलकर संबंध मजबूत करें।"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Review joint financial ventures carefully.",
+              "Maintain balanced interest in spiritual and scientific knowledge."
+            ],
+            "hi": [
+              "संयुक्त आर्थिक प्रयासों की सावधानीपूर्वक समीक्षा करें।",
+              "आध्यात्मिक और वैज्ञानिक ज्ञान में संतुलित रुचि बनाए रखें।"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Favorable for higher education, travel, and involvement with spiritual or educational institutions; interest in social and business reforms may influence career direction.",
+            "hi": "उच्च शिक्षा, यात्रा और आध्यात्मिक या शैक्षणिक संस्थानों से जुड़ने के लिए अनुकूल; सामाजिक और व्यावसायिक सुधारों में रुचि करियर दिशा को प्रभावित कर सकती है।"
+          },
+          "relationships": {
+            "en": "Opportunities for reunions with old friends and beneficial connections through spiritual or educational groups.",
+            "hi": "पुराने मित्रों से मिलने के अवसर और आध्यात्मिक या शैक्षणिक समूहों के माध्यम से लाभकारी संबंध।"
+          },
+          "money": {
+            "en": "Financial gains possible through joint assets, business ventures, insurance, or investments.",
+            "hi": "संयुक्त संपत्ति, व्यवसाय, बीमा या निवेश के माध्यम से आर्थिक लाभ संभव।"
+          },
+          "health_adj": {
+            "en": "Ideal time for meditation and yoga practices enhancing spiritual and mental well-being.",
+            "hi": "ध्यान और योग के लिए उपयुक्त समय, जो आध्यात्मिक और मानसिक स्वास्थ्य को बढ़ावा देता है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "imagination",
+            "intuition",
+            "spiritual awareness",
+            "meditation",
+            "yoga",
+            "occult",
+            "religious practices",
+            "premonitions",
+            "scientific knowledge",
+            "education",
+            "social reform",
+            "travel",
+            "reunion",
+            "joint assets",
+            "financial gains"
+          ],
+          "hi": [
+            "कल्पनाशक्ति",
+            "अंतर्ज्ञान",
+            "आध्यात्मिक बोध",
+            "ध्यान",
+            "योग",
+            "गूढ़ विषय",
+            "धार्मिक साधना",
+            "पूर्वाभास",
+            "वैज्ञानिक ज्ञान",
+            "शिक्षा",
+            "सामाजिक सुधार",
+            "यात्रा",
+            "पुनर्मिलन",
+            "संयुक्त संपत्ति",
+            "आर्थिक लाभ"
+          ]
+        }
+      },
+      {
+        "aspect": "Nep Tri Ven",
+        "aspectNature": "Positive",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-18T02:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "This aspect enhances self-awareness, spiritual understanding, imagination, creativity, and harmonious relationships, fostering love and compassion.",
+          "hi": "यह योग आत्मज्ञान, आध्यात्मिक समझ, कल्पनाशक्ति, रचनात्मकता और प्रेमपूर्ण संबंधों को बढ़ावा देता है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Engage with charitable institutions",
+              "Pursue artistic or creative projects",
+              "Nurture loving relationships"
+            ],
+            "hi": [
+              "सेवा संस्थाओं में काम करें",
+              "कलात्मक या रचनात्मक परियोजनाओं को आगे बढ़ाएं",
+              "प्यार भरे संबंधों को पोषित करें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Focus on spiritual practices",
+              "Strengthen emotional bonds",
+              "Explore opportunities for pilgrimages"
+            ],
+            "hi": [
+              "आध्यात्मिक साधनाओं पर ध्यान दें",
+              "भावनात्मक संबंध मजबूत करें",
+              "धार्मिक यात्रा के अवसर तलाशें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Maintain compassion and harmony in relationships",
+              "Continue creative and charitable pursuits"
+            ],
+            "hi": [
+              "संबंधों में दया और सद्भाव बनाए रखें",
+              "रचनात्मक और सेवा कार्य जारी रखें"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Favorable for arts, music, entertainment, luxury-related businesses or work; auspicious for charitable institutions.",
+            "hi": "कलाओं, संगीत, मनोरंजन, विलासिता से जुड़े व्यापार/काम के लिए अनुकूल; सेवा संस्थाओं में काम के लिए शुभ।"
+          },
+          "relationships": {
+            "en": "Relationships (family, sexual, emotional, romantic) are sweet, compassionate, and harmonious.",
+            "hi": "पारिवारिक, यौनिक, भावनात्मक और प्रेम संबंधों में मिठास, दया और सद्भाव रहता है।"
+          },
+          "money": {
+            "en": "Increased chances to receive gifts and delicious food; opportunities linked to charitable and luxury domains.",
+            "hi": "उपहार और स्वादिष्ट भोजन पाने के अवसर बढ़ते हैं; सेवा और विलासिता से जुड़े अवसर मिलते हैं।"
+          },
+          "health_adj": {
+            "en": "Spiritual and emotional well-being is enhanced; no specific health risks noted.",
+            "hi": "आध्यात्मिक और भावनात्मक स्वास्थ्य बेहतर होता है; कोई विशेष स्वास्थ्य जोखिम नहीं बताया गया।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "self-awareness",
+            "spirituality",
+            "imagination",
+            "creativity",
+            "love",
+            "compassion",
+            "harmony",
+            "charity",
+            "pilgrimage",
+            "arts",
+            "music",
+            "entertainment",
+            "luxury"
+          ],
+          "hi": [
+            "आत्मज्ञान",
+            "आध्यात्मिकता",
+            "कल्पना",
+            "रचनात्मकता",
+            "प्रेम",
+            "दया",
+            "सद्भाव",
+            "सेवा",
+            "धार्मिक यात्रा",
+            "कलाएं",
+            "संगीत",
+            "मनोरंजन",
+            "विलासिता"
+          ]
+        }
+      },
+      {
+        "aspect": "Plu Opp Ven",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-15T20:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "This aspect indicates increased selfishness and disregard for others' feelings, often leading to jealousy and using others for personal or sexual gain.",
+          "hi": "यह योग दूसरों की भावनाओं की अनदेखी और स्वार्थी प्रवृत्ति बढ़ने को दर्शाता है, जिससे ईर्ष्या और यौन संबंधों में दूसरों का उपयोग होता है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Be aware of selfish tendencies and jealousy",
+              "Avoid exploiting others for personal gain",
+              "Maintain honesty in financial matters"
+            ],
+            "hi": [
+              "स्वार्थी प्रवृत्तियों और ईर्ष्या से सावधान रहें",
+              "व्यक्तिगत लाभ के लिए दूसरों का शोषण न करें",
+              "आर्थिक मामलों में ईमानदारी बनाए रखें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Monitor emotional reactions in relationships",
+              "Exercise caution in professional interactions",
+              "Guard against deceptive financial offers"
+            ],
+            "hi": [
+              "संबंधों में भावनात्मक प्रतिक्रियाओं पर ध्यान दें",
+              "पेशेवर बातचीत में सावधानी बरतें",
+              "धोखाधड़ी वाले आर्थिक प्रस्तावों से सावधान रहें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Reflect on past jealous or selfish behaviors",
+              "Seek to restore trust in relationships",
+              "Review financial agreements carefully"
+            ],
+            "hi": [
+              "अतीत की ईर्ष्यालु या स्वार्थी प्रवृत्तियों पर विचार करें",
+              "संबंधों में विश्वास बहाल करने का प्रयास करें",
+              "आर्थिक समझौतों की सावधानीपूर्वक समीक्षा करें"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Work environment may become jealous; the person might harm others or face losses due to envy.",
+            "hi": "काम के माहौल में ईर्ष्या बनी रहती है; व्यक्ति ईर्ष्या के कारण दूसरों को नुकसान पहुँचा सकता है या स्वयं हानि झेल सकता है।"
+          },
+          "relationships": {
+            "en": "Jealousy and anger arise in sexual and love relationships, with possible exploitation of others for gratification.",
+            "hi": "यौन और प्रेम संबंधों में ईर्ष्या और क्रोध की स्थिति बनती है, और व्यक्ति यौन संतुष्टि के लिए दूसरों का उपयोग करता है।"
+          },
+          "money": {
+            "en": "Financial relationships may involve fraud or deception.",
+            "hi": "आर्थिक संबंधों में धोखाधड़ी या छल की स्थिति हो सकती है।"
+          },
+          "health_adj": {
+            "en": "Emotional stress from jealousy and anger may affect well-being.",
+            "hi": "ईर्ष्या और क्रोध से उत्पन्न भावनात्मक तनाव स्वास्थ्य पर प्रभाव डाल सकता है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "jealousy",
+            "selfishness",
+            "exploitation",
+            "anger",
+            "envy",
+            "fraud",
+            "deception"
+          ],
+          "hi": [
+            "ईर्ष्या",
+            "स्वार्थ",
+            "शोषण",
+            "क्रोध",
+            "द्वेष",
+            "धोखाधड़ी",
+            "छल"
+          ]
+        }
+      },
+      {
+        "aspect": "Plu Sqr Jup",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-18T02:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "Losses occur through others' help, accompanied by spiritual transformation toward someone. Conflicts arise over joint assets, businesses, taxes, investments, or insurance. Ventures may be started without proper thought. Ego neglects small but crucial matters, leading to losses and deception. Caution is advised in monetary transactions. Attendance at a funeral may occur.",
+          "hi": "दूसरों के सहयोग से हानि होती है, साथ ही किसी के प्रति आध्यात्मिक परिवर्तन होता है। संयुक्त संपत्ति, व्यवसाय, कर, निवेश या बीमा संबंधी संघर्ष होते हैं। बिना सोच-विचार के कार्य प्रारंभ होते हैं। अहंकार के कारण छोटी पर महत्वपूर्ण बातों की अनदेखी से हानि और धोखा होता है। आर्थिक लेन-देन में सावधानी आवश्यक है। इस समय किसी के शोक सभा में शामिल होने की संभावना है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Be cautious in financial dealings",
+              "Avoid starting ventures without proper thought",
+              "Pay attention to small but important details"
+            ],
+            "hi": [
+              "आर्थिक लेन-देन में सावधानी रखें",
+              "बिना सोच-विचार के कार्य प्रारंभ न करें",
+              "छोटी पर महत्वपूर्ण बातों का ध्यान रखें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Monitor joint asset and business dealings carefully",
+              "Prepare for potential conflicts or legal issues",
+              "Be mindful of ego-driven neglect"
+            ],
+            "hi": [
+              "संयुक्त संपत्ति और व्यवसाय का सावधानी से निरीक्षण करें",
+              "संघर्ष या कानूनी समस्याओं के लिए तैयार रहें",
+              "अहंकार से होने वाली अनदेखी से सावधान रहें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Review and resolve conflicts over joint matters",
+              "Reassess financial transactions to avoid deception",
+              "Focus on spiritual growth and transformation"
+            ],
+            "hi": [
+              "संयुक्त मामलों पर संघर्षों की समीक्षा और समाधान करें",
+              "धोखे से बचने के लिए आर्थिक लेन-देन पुनः जांचें",
+              "आध्यात्मिक विकास और परिवर्तन पर ध्यान दें"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Careless initiation of ventures; deception and fluctuations in work, including sexual aspects.",
+            "hi": "बिना सोच-विचार के कार्य प्रारंभ करना; काम में धोखा और उतार-चढ़ाव, जिसमें यौन संबंधी पहलू भी शामिल हैं।"
+          },
+          "relationships": {
+            "en": "Spiritual transformation toward someone; conflicts and legal difficulties over joint matters.",
+            "hi": "किसी के प्रति आध्यात्मिक परिवर्तन; संयुक्त मामलों पर संघर्ष और कानूनी कष्ट।"
+          },
+          "money": {
+            "en": "Conflicts over joint assets, businesses, taxes, investments, and insurance; financial fluctuations; caution advised in monetary transactions.",
+            "hi": "संयुक्त संपत्ति, व्यवसाय, कर, निवेश और बीमा पर संघर्ष; आर्थिक उतार-चढ़ाव; आर्थिक लेन-देन में सावधानी।"
+          },
+          "health_adj": {
+            "en": "Potential emotional stress related to conflicts and deception; attend to subtle but important issues to avoid problems.",
+            "hi": "संघर्ष और धोखे से भावनात्मक तनाव की संभावना; छोटी पर महत्वपूर्ण बातों का ध्यान रखें ताकि समस्या न हो।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "loss",
+            "spiritual transformation",
+            "conflict",
+            "joint assets",
+            "deception",
+            "ego",
+            "financial caution",
+            "funeral"
+          ],
+          "hi": [
+            "हानि",
+            "आध्यात्मिक परिवर्तन",
+            "संघर्ष",
+            "संयुक्त संपत्ति",
+            "धोखा",
+            "अहंकार",
+            "आर्थिक सावधानी",
+            "शोक सभा"
+          ]
+        }
+      },
+      {
+        "aspect": "Plu Sxt Ura",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-15T20:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": null,
+        "keyPoints": null,
+        "facetsPoints": null,
+        "keywords": null
+      },
+      {
+        "aspect": "Sat Sqr Nep",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-15T20:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "This aspect indicates fear, anxiety, deception, and professional confusion. There is a tendency to avoid work and responsibilities, with possible mental health struggles. Indifference, despair, and pessimism may increase, along with professional hurdles and risks to reputation.",
+          "hi": "यह योग भय, चिंता, धोखाधड़ी और व्यावसायिक उलझनों को दर्शाता है। काम और जिम्मेदारियों से बचने की प्रवृत्ति होती है, साथ ही मानसिक स्वास्थ्य की समस्याएँ भी हो सकती हैं। उदासीनता, निराशा और नकारात्मक सोच बढ़ सकती है, साथ ही व्यवसाय में बाधाएँ और प्रतिष्ठा को खतरा हो सकता है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Monitor mental health regularly.",
+              "Stay committed to work and responsibilities.",
+              "Maintain awareness of professional reputation."
+            ],
+            "hi": [
+              "मानसिक स्वास्थ्य की नियमित जांच करें।",
+              "काम और जिम्मेदारियों के प्रति प्रतिबद्ध रहें।",
+              "व्यावसायिक प्रतिष्ठा की सतर्कता बनाए रखें।"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Focus on mental stability.",
+              "Avoid deceptive practices.",
+              "Address professional confusion promptly."
+            ],
+            "hi": [
+              "मानसिक स्थिरता पर ध्यान दें।",
+              "धोखाधड़ी से बचें।",
+              "व्यावसायिक उलझनों को शीघ्र सुलझाएं।"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Reflect on lessons learned about responsibility.",
+              "Gradually reduce anxiety and pessimism.",
+              "Rebuild professional and personal trust."
+            ],
+            "hi": [
+              "जिम्मेदारी के बारे में सीखे गए पाठों पर विचार करें।",
+              "चिंता और नकारात्मकता को धीरे-धीरे कम करें।",
+              "व्यावसायिक और व्यक्तिगत विश्वास पुनः स्थापित करें।"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Professional confusion, hurdles, humiliation, and potential lawsuits may occur. There is a tendency to evade responsibilities.",
+            "hi": "व्यावसायिक उलझनें, बाधाएँ, अपमान और कानूनी मुकदमों का सामना हो सकता है। जिम्मेदारियों से बचने की प्रवृत्ति रहती है।"
+          },
+          "relationships": {
+            "en": "Mental health struggles may affect personal or family relationships. Indifference and pessimistic thoughts can increase tension.",
+            "hi": "मानसिक समस्याएँ व्यक्तिगत या पारिवारिक संबंधों को प्रभावित कर सकती हैं। उदासीनता और नकारात्मक विचार तनाव बढ़ा सकते हैं।"
+          },
+          "money": {
+            "en": "Professional hurdles and lawsuits may cause financial strain. Hidden enemies could harm reputation affecting monetary matters.",
+            "hi": "व्यावसायिक बाधाएँ और कानूनी मुकदमे आर्थिक दबाव पैदा कर सकते हैं। गुप्त दुश्मन प्रतिष्ठा को नुकसान पहुँचा कर वित्तीय स्थिति को प्रभावित कर सकते हैं।"
+          },
+          "health_adj": {
+            "en": "Mental stability is crucial; mental health struggles may surface. Lack of stability can lead to physical or business harm.",
+            "hi": "मानसिक स्थिरता आवश्यक है; मानसिक समस्याएँ सामने आ सकती हैं। स्थिरता न होने पर शारीरिक या व्यावसायिक नुकसान हो सकता है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "fear",
+            "anxiety",
+            "deception",
+            "professional confusion",
+            "avoidance",
+            "mental health struggles",
+            "indifference",
+            "despair",
+            "pessimism",
+            "professional hurdles",
+            "humiliation",
+            "lawsuits",
+            "hidden enemies",
+            "reputation",
+            "mental stability"
+          ],
+          "hi": [
+            "भय",
+            "चिंता",
+            "धोखाधड़ी",
+            "व्यावसायिक उलझन",
+            "टालमटोल",
+            "मानसिक समस्याएँ",
+            "उदासीनता",
+            "निराशा",
+            "नकारात्मकता",
+            "व्यावसायिक बाधाएँ",
+            "अपमान",
+            "कानूनी मुकदमे",
+            "गुप्त दुश्मन",
+            "प्रतिष्ठा",
+            "मानसिक स्थिरता"
+          ]
+        }
+      },
+      {
+        "aspect": "Sat Tri Ura",
+        "aspectNature": "Positive",
+        "startDate": "2026-01-16T01:00:00+00:00",
+        "exactDate": "2026-01-18T02:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "Increased focus on realizing creative ideas leads to fruitful study and solid progress, supported by friends and seniors, with gains from adopting new techniques and joint ventures.",
+          "hi": "रचनात्मक विचारों को साकार करने पर एकाग्रता बढ़ती है, जिससे अध्ययन फलदायी होता है और लक्ष्य प्राप्ति में ठोस प्रगति होती है। मित्रों और वरिष्ठों से सहयोग मिलता है तथा नई तकनीकें अपनाने और संयुक्त प्रयासों से लाभ होता है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Focus efforts on realizing creative ideas",
+              "Engage in study of science, technology, or esoteric subjects",
+              "Seek support from friends, organizations, or seniors"
+            ],
+            "hi": [
+              "रचनात्मक विचारों को साकार करने पर ध्यान दें",
+              "विज्ञान, तकनीक या रहस्यमय विषयों का अध्ययन करें",
+              "मित्रों, संस्थाओं या वरिष्ठों से सहयोग प्राप्त करें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Adopt new techniques or consider professional changes",
+              "Make joint business, asset, or investment decisions"
+            ],
+            "hi": [
+              "नई तकनीकें अपनाएं या पेशेवर बदलाव पर विचार करें",
+              "संयुक्त व्यवसाय, संपत्ति या निवेश के फैसले लें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Continue steady progress toward goals",
+              "Maintain supportive relationships"
+            ],
+            "hi": [
+              "लक्ष्यों की ओर निरंतर प्रगति बनाए रखें",
+              "सहायक संबंधों को बनाए रखें"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Progress in professional goals is strong; adopting new techniques and professional changes bring benefits; support from organizations and seniors aids advancement.",
+            "hi": "पेशेवर लक्ष्यों में ठोस प्रगति होती है; नई तकनीकें अपनाने और पेशेवर बदलाव से लाभ होता है; संस्थाओं और वरिष्ठों से सहयोग मिलता है।"
+          },
+          "relationships": {
+            "en": "Important support comes from friends and seniors, fostering cooperative decisions especially in joint business or investments.",
+            "hi": "मित्रों और वरिष्ठों से महत्वपूर्ण सहयोग मिलता है, जो संयुक्त व्यवसाय या निवेश में सहयोगी निर्णयों को बढ़ावा देता है।"
+          },
+          "money": {
+            "en": "Joint business, assets, and investment decisions tend to succeed; adopting new professional methods leads to financial gains.",
+            "hi": "संयुक्त व्यवसाय, संपत्ति और निवेश से जुड़े फैसले सफल होते हैं; नई पेशेवर विधियों को अपनाने से आर्थिक लाभ होता है।"
+          },
+          "health_adj": {
+            "en": "No specific health adjustments noted; focus remains on mental and intellectual pursuits.",
+            "hi": "स्वास्थ्य संबंधी विशेष समायोजन नहीं; ध्यान मानसिक और बौद्धिक गतिविधियों पर केंद्रित है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "focus",
+            "creative ideas",
+            "study",
+            "progress",
+            "support",
+            "new techniques",
+            "professional change",
+            "joint business",
+            "investment success"
+          ],
+          "hi": [
+            "एकाग्रता",
+            "रचनात्मक विचार",
+            "अध्ययन",
+            "प्रगति",
+            "सहयोग",
+            "नई तकनीकें",
+            "पेशेवर बदलाव",
+            "संयुक्त व्यवसाय",
+            "निवेश सफलता"
+          ]
+        }
+      },
+      {
+        "aspect": "Sun Sqr Plu",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-15T20:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "",
+          "hi": ""
+        },
+        "keyPoints": {
+          "applying": [
+            "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work).",
+            "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work)."
+          ],
+          "exact": [
+            "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work).",
+            "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work)."
+          ],
+          "separating": [
+            "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work).",
+            "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work)."
+          ]
+        },
+        "facetsPoints": {
+          "career": "Authority, recognition, leadership, alignment with purpose.  Emphasis: friction/work.",
+          "relationships": "Self-respect, healthy boundaries, paternal figures.  Emphasis: friction/work.",
+          "money": "Status-linked income, government/authority-linked gains.  Emphasis: friction/work.",
+          "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Emphasis: friction/work."
+        },
+        "keywords": null
+      },
+      {
+        "aspect": "Ura Opp Ura",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-15T20:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "A strong urge for independence leads to conflicts, fractured friendships, obstacles in goals, fear of losing freedom, growing repressed anger, and instability in business and joint assets.",
+          "hi": "स्वतंत्रता की तीव्र इच्छा के कारण संघर्ष, मित्र संबंधों में दरार, लक्ष्य प्राप्ति में बाधाएँ, स्वतंत्रता खोने का भय, दबा हुआ क्रोध बढ़ना, व्यावसायिक और संयुक्त संपत्ति में अस्थिरता होती है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Maintain awareness of independence needs to reduce conflicts.",
+              "Review business decisions carefully to avoid instability.",
+              "Monitor joint assets closely for potential issues."
+            ],
+            "hi": [
+              "संघर्ष कम करने के लिए स्वतंत्रता की आवश्यकता पर ध्यान रखें।",
+              "व्यवसायिक निर्णय सावधानी से लें ताकि अस्थिरता न हो।",
+              "संयुक्त संपत्ति की संभावित समस्याओं पर नजर रखें।"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Exercise patience in relationships to prevent fractures.",
+              "Avoid impulsive decisions during this period.",
+              "Be cautious in volatile financial trades."
+            ],
+            "hi": [
+              "संबंधों में दरार से बचने के लिए धैर्य रखें।",
+              "इस समय आवेगी निर्णय लेने से बचें।",
+              "तेजी-मंदी के व्यवसाय में सतर्क रहें।"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Use this time to reflect on anger and independence needs.",
+              "Plan recovery strategies for business and financial stability.",
+              "Rebuild trust in fractured relationships gradually."
+            ],
+            "hi": [
+              "इस समय क्रोध और स्वतंत्रता की आवश्यकताओं पर विचार करें।",
+              "व्यवसाय और वित्तीय स्थिरता के लिए पुनर्प्राप्ति योजना बनाएं।",
+              "टूटे संबंधों में धीरे-धीरे विश्वास पुनः स्थापित करें।"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Business instability and poor decision-making; sudden obstacles in achieving goals.",
+            "hi": "व्यावसायिक स्थिति अस्थिर रहती है; लक्ष्य प्राप्ति में अचानक समस्याएँ आती हैं।"
+          },
+          "relationships": {
+            "en": "Conflicts arise due to obsessive independence; friendships may fracture.",
+            "hi": "स्वतंत्रता की इच्छा के कारण व्यवहार में समस्या; मित्र संबंधों में दरार उत्पन्न होती है।"
+          },
+          "money": {
+            "en": "Problems with joint, inherited assets and heavy losses in volatile trades.",
+            "hi": "संयुक्त या पैतृक संपत्ति में समस्या; तेजी-मंदी के व्यवसाय में बड़ी हानि हो सकती है।"
+          },
+          "health_adj": {
+            "en": "Repressed anger grows, potentially affecting emotional well-being.",
+            "hi": "दमित क्रोध बढ़ता है, जो मानसिक स्थिति को प्रभावित कर सकता है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "independence",
+            "conflict",
+            "fear of loss",
+            "repressed anger",
+            "business instability",
+            "joint assets problems",
+            "financial losses"
+          ],
+          "hi": [
+            "स्वतंत्रता",
+            "संघर्ष",
+            "खोने का भय",
+            "दमित क्रोध",
+            "व्यावसायिक अस्थिरता",
+            "संयुक्त संपत्ति समस्या",
+            "आर्थिक हानि"
+          ]
+        }
+      },
+      {
+        "aspect": "Ura Sqr Sun",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-18T02:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "The individual strongly desires autonomy but may face serious issues if responsibilities are neglected. Conflicts arise when they seek freedom for themselves while expecting others to uphold duties, potentially causing harm to relationships.",
+          "hi": "व्यक्ति किसी भी स्थिति में स्वत्व चाहता है, लेकिन जिम्मेदारियों की अनदेखी से गंभीर समस्याएं हो सकती हैं। जब वे अपनी स्वतंत्रता चाहते हैं और दूसरों से कर्तव्य पालन की उम्मीद करते हैं, तो संघर्ष और संबंधों में चोट हो सकती है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Strive to balance autonomy with responsibility",
+              "Communicate expectations clearly to avoid conflicts",
+              "Be mindful of how behavior affects others"
+            ],
+            "hi": [
+              "स्वतंत्रता और जिम्मेदारी में संतुलन बनाएँ",
+              "संघर्ष से बचने के लिए अपेक्षाओं को स्पष्ट रूप से व्यक्त करें",
+              "अपने व्यवहार से दूसरों पर पड़ने वाले प्रभाव के प्रति सजग रहें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Focus on managing duties carefully",
+              "Avoid neglecting responsibilities",
+              "Maintain respectful interactions"
+            ],
+            "hi": [
+              "कर्तव्यों का सावधानीपूर्वक प्रबंधन करें",
+              "जिम्मेदारियों की अनदेखी न करें",
+              "सम्मानजनक बातचीत बनाए रखें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Reflect on past conflicts caused by neglect",
+              "Adjust expectations of self and others",
+              "Work on healing tense relationships"
+            ],
+            "hi": [
+              "पूर्व की अनदेखी से हुए संघर्षों पर विचार करें",
+              "स्वयं और दूसरों से अपेक्षाओं को समायोजित करें",
+              "तनावपूर्ण संबंधों को सुधारने का प्रयास करें"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Desire for independence may conflict with workplace responsibilities, risking tensions with colleagues or supervisors.",
+            "hi": "स्वतंत्रता की इच्छा कार्यस्थल की जिम्मेदारियों से टकरा सकती है, जिससे सहकर्मियों या वरिष्ठों के साथ तनाव हो सकता है।"
+          },
+          "relationships": {
+            "en": "Seeking personal freedom while expecting others to fulfill duties can create conflicts and emotional hurt in relationships.",
+            "hi": "अपनी स्वतंत्रता चाहते हुए दूसरों से कर्तव्य पालन की उम्मीद करने से संबंधों में संघर्ष और भावनात्मक चोट हो सकती है।"
+          },
+          "money": {
+            "en": "Neglecting financial responsibilities due to a focus on autonomy may lead to serious consequences.",
+            "hi": "स्वतंत्रता पर ध्यान देने के कारण वित्तीय जिम्मेदारियों की अनदेखी से गंभीर परिणाम हो सकते हैं।"
+          },
+          "health_adj": {
+            "en": "Stress from conflicts and neglecting duties may affect overall well-being.",
+            "hi": "संघर्ष और कर्तव्यों की अनदेखी से तनाव बढ़ सकता है जो स्वास्थ्य पर असर डाल सकता है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "autonomy",
+            "responsibility",
+            "conflict",
+            "freedom",
+            "neglect",
+            "tension",
+            "hurt"
+          ],
+          "hi": [
+            "स्वत्व",
+            "जिम्मेदारी",
+            "संघर्ष",
+            "स्वतंत्रता",
+            "अनदेखी",
+            "तनाव",
+            "चोट"
+          ]
+        }
+      },
+      {
+        "aspect": "Ven Opp Ven",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T19:00:00+00:00",
+        "exactDate": "2026-01-18T02:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "Challenges occur due to excessive socializing or accepting love, causing conflicts in key relationships and financial issues from impulsive work or business decisions.",
+          "hi": "अत्यधिक सामाजिक गतिविधियों या प्रेम स्वीकार करने से समस्याएँ उत्पन्न होती हैं, जिससे महत्वपूर्ण रिश्तों में मतभेद और काम या व्यवसाय में जल्दबाजी से आर्थिक समस्याएँ होती हैं।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Monitor social activities to avoid excess.",
+              "Consider carefully before accepting love or commitments.",
+              "Evaluate work and business investments prudently."
+            ],
+            "hi": [
+              "अत्यधिक सामाजिक गतिविधियों से बचें।",
+              "प्रेम या प्रतिबद्धता स्वीकारने से पहले सोचें।",
+              "काम और व्यवसाय में निवेश सोच-समझकर करें।"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Avoid impulsive spending and decisions.",
+              "Communicate clearly in relationships to reduce conflicts."
+            ],
+            "hi": [
+              "जल्दबाजी में खर्च और निर्णय से बचें।",
+              "रिश्तों में स्पष्ट संवाद करें ताकि मतभेद कम हों।"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Reflect on past social and financial choices.",
+              "Resolve misunderstandings in key relationships."
+            ],
+            "hi": [
+              "पिछले सामाजिक और वित्तीय निर्णयों पर विचार करें।",
+              "महत्वपूर्ण रिश्तों में गलतफहमियों को दूर करें।"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Impulsive or thoughtless investments and decisions at work or in business may lead to difficulties.",
+            "hi": "काम या व्यवसाय में बिना सोच-समझे निवेश और निर्णय लेने से समस्याएँ हो सकती हैं।"
+          },
+          "relationships": {
+            "en": "Significant relationships may face conflicts due to excessive social involvement or issues in accepting love.",
+            "hi": "महत्वपूर्ण रिश्तों में अत्यधिक सामाजिक भागीदारी या प्रेम स्वीकार करने में समस्याओं के कारण मतभेद हो सकते हैं।"
+          },
+          "money": {
+            "en": "Overspending and financial troubles can arise from conflicts or impulsive actions.",
+            "hi": "मतभेद या जल्दबाजी से आर्थिक समस्याएँ और अत्यधिक खर्च हो सकता है।"
+          },
+          "health_adj": {
+            "en": "No specific health adjustments are indicated.",
+            "hi": "कोई विशिष्ट स्वास्थ्य समायोजन संकेतित नहीं हैं।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "excessive socializing",
+            "love acceptance",
+            "relationship conflicts",
+            "overspending",
+            "impulsive investments",
+            "business troubles"
+          ],
+          "hi": [
+            "अत्यधिक सामाजिक भागीदारी",
+            "प्रेम स्वीकारना",
+            "रिश्तों में मतभेद",
+            "अत्यधिक खर्च",
+            "जल्दबाजी में निवेश",
+            "व्यवसाय की समस्याएँ"
+          ]
+        }
+      },
+      {
+        "aspect": "Ven Sqr Jup",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-17T23:00:00+00:00",
+        "exactDate": "2026-01-18T02:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": {
+          "en": "The person experiences confusion between optimism and problems, leading to overspending and unhappiness even during joyful times, while taking full responsibility despite obstacles.",
+          "hi": "व्यक्ति की भावना और समस्याएँ एक-दूसरे को भ्रमित करती हैं, जिससे अति खर्च और सुख के समय भी असंतोष होता है, फिर भी वे बाधाओं के बावजूद पूरी जिम्मेदारी लेते हैं।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Be mindful of spending habits",
+              "Acknowledge emotional conflicts without judgment",
+              "Accept responsibility with balanced perspective"
+            ],
+            "hi": [
+              "खर्च की आदतों पर ध्यान दें",
+              "भावनात्मक संघर्षों को बिना निर्णय के स्वीकार करें",
+              "संतुलित दृष्टिकोण से जिम्मेदारी लें"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Focus on managing optimism realistically",
+              "Avoid impulsive financial decisions",
+              "Maintain emotional clarity during challenges"
+            ],
+            "hi": [
+              "वास्तविक रूप से आशावाद प्रबंधित करें",
+              "आकस्मिक वित्तीय निर्णयों से बचें",
+              "चुनौतियों में भावनात्मक स्पष्टता बनाए रखें"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Reflect on lessons learned from past overspending",
+              "Reassess emotional responses to joyful events",
+              "Gradually delegate responsibility to reduce stress"
+            ],
+            "hi": [
+              "अतीत के अति खर्च से सीखे गए पाठों पर विचार करें",
+              "सुखद घटनाओं पर भावनात्मक प्रतिक्रियाओं का पुनर्मूल्यांकन करें",
+              "तनाव कम करने के लिए धीरे-धीरे जिम्मेदारी सौंपें"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Challenges arise from conflicting optimism and difficulties, requiring responsibility despite obstacles.",
+            "hi": "विपरीत आशावाद और कठिनाइयों से चुनौतियाँ आती हैं, फिर भी बाधाओं के बावजूद जिम्मेदारी निभानी पड़ती है।"
+          },
+          "relationships": {
+            "en": "Emotional confusion may cause dissatisfaction even in happy moments, affecting interpersonal harmony.",
+            "hi": "भावनात्मक भ्रम के कारण सुखद पलों में भी असंतोष हो सकता है, जो संबंधों को प्रभावित करता है।"
+          },
+          "money": {
+            "en": "Tendency to overspend despite problems, leading to financial imbalance.",
+            "hi": "समस्याओं के बावजूद अति खर्च करने की प्रवृत्ति, जिससे वित्तीय असंतुलन होता है।"
+          },
+          "health_adj": {
+            "en": "Emotional unrest may affect overall well-being; managing stress is important.",
+            "hi": "भावनात्मक अशांति से समग्र स्वास्थ्य प्रभावित हो सकता है; तनाव प्रबंधन आवश्यक है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "optimism",
+            "confusion",
+            "overspending",
+            "unhappiness",
+            "responsibility",
+            "obstacles"
+          ],
+          "hi": [
+            "आशावाद",
+            "भ्रम",
+            "अति खर्च",
+            "असंतोष",
+            "जिम्मेदारी",
+            "बाधाएँ"
+          ]
+        }
+      },
+      {
+        "aspect": "Ven Sqr Plu",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T00:00:00+00:00",
+        "exactDate": "2026-01-15T20:30:00+00:00",
+        "endDate": "2026-01-16T22:00:00+00:00",
+        "description": {
+          "en": "The person suppresses feelings and becomes controlling or obsessive in relationships, causing intense emotional pressure and possessiveness that may disrupt business or finances.",
+          "hi": "व्यक्ति अपनी भावनाओं को दबाता है और संबंधों में नियंत्रित या आसक्त हो जाता है, जिससे तीव्र भावनात्मक दबाव और स्वामित्व की भावना उत्पन्न होती है जो व्यवसाय या वित्तीय मामलों में बाधा डाल सकती है।"
+        },
+        "keyPoints": {
+          "applying": {
+            "en": [
+              "Recognize controlling or obsessive tendencies in relationships.",
+              "Address emotional pressure constructively.",
+              "Monitor financial decisions carefully."
+            ],
+            "hi": [
+              "संबंधों में नियंत्रण या आसक्ति की प्रवृत्ति को पहचानें।",
+              "भावनात्मक दबाव को रचनात्मक रूप से संभालें।",
+              "वित्तीय निर्णयों पर सावधानी रखें।"
+            ]
+          },
+          "exact": {
+            "en": [
+              "Be mindful of increased irritability and possessiveness.",
+              "Avoid forcing situations in personal relationships.",
+              "Review business matters for potential disturbances."
+            ],
+            "hi": [
+              "बढ़ी हुई चिड़चिड़ाहट और स्वामित्व से सावधान रहें।",
+              "व्यक्तिगत संबंधों में जबरदस्ती से बचें।",
+              "संभावित व्यवधानों के लिए व्यवसायिक मामलों की समीक्षा करें।"
+            ]
+          },
+          "separating": {
+            "en": [
+              "Emotional intensity and possessiveness may lessen.",
+              "Relationship tensions could ease gradually.",
+              "Business and financial situations might stabilize."
+            ],
+            "hi": [
+              "भावनात्मक तीव्रता और स्वामित्व कम हो सकते हैं।",
+              "संबंधों का तनाव धीरे-धीरे कम हो सकता है।",
+              "व्यवसाय और वित्तीय स्थिति स्थिर हो सकती है।"
+            ]
+          }
+        },
+        "facetsPoints": {
+          "career": {
+            "en": "Business or financial disturbances may arise due to possessiveness and emotional intensity.",
+            "hi": "स्वामित्व की भावना और भावनात्मक तीव्रता के कारण व्यवसायिक समस्याएँ उत्पन्न हो सकती हैं।"
+          },
+          "relationships": {
+            "en": "Relationships tend to become controlling, obsessive, and marked by bitterness and irritability.",
+            "hi": "संबंध नियंत्रित, आसक्त और कटुता तथा चिड़चिड़ाहट से भरे हो सकते हैं।"
+          },
+          "money": {
+            "en": "Financial issues may occur linked to emotional possessiveness and pressure.",
+            "hi": "भावनात्मक स्वामित्व और दबाव के कारण वित्तीय समस्याएँ हो सकती हैं।"
+          },
+          "health_adj": {
+            "en": "Emotional stress from controlling tendencies may affect overall well-being.",
+            "hi": "नियंत्रण की प्रवृत्ति से उत्पन्न भावनात्मक तनाव समग्र स्वास्थ्य को प्रभावित कर सकता है।"
+          }
+        },
+        "keywords": {
+          "en": [
+            "suppression",
+            "controlling",
+            "obsessive",
+            "emotional pressure",
+            "possessiveness",
+            "relationship tension",
+            "business disturbance",
+            "financial issues"
+          ],
+          "hi": [
+            "दबाव",
+            "नियंत्रण",
+            "आसक्ति",
+            "भावनात्मक दबाव",
+            "स्वामित्व",
+            "संबंधों में तनाव",
+            "व्यवसायिक बाधा",
+            "वित्तीय समस्या"
+          ]
+        }
+      },
+      {
+        "aspect": "Ven Sxt Ura",
+        "aspectNature": "Negative",
+        "startDate": "2026-01-16T03:00:00+00:00",
+        "exactDate": "2026-01-18T02:30:00+00:00",
+        "endDate": "2026-01-17T23:00:00+00:00",
+        "description": null,
+        "keyPoints": null,
+        "facetsPoints": null,
+        "keywords": null
+      }
+    ],
+    "aiSummary": "Timeline for Amit starting 2026-01-16 over 1D. Generated from 27 aspect windows."
+  },
+  "dailyWeekly": {
+    "shortSummary": {
+      "en": "Opportunities for religious, educational, or cultural activities arise within the home or family environment. There may be visits from friends or relatives from distant places, or the person may return home from afar.\n\nTendency toward aggressive actions, power struggles, quarrels, and increased anger. Potential for work-related jealousy and selfishness. Professional disputes likely over shared assets or business matters. Requires caution to avoid conflict and accidents.\n\nDifficulty controlling thoughts; tendency to be manipulative or dominating; possible health and travel disruptions; complications in property, tax, or investment matters.\n\nThis aspect indicates a period of negative thinking, worry, and decreased efficiency. Communication is challenging and confidence is low. Conflicts with seniors or authorities may arise, and legal or government matters may face delays.\n\nIncreased memories, imagination, and intuition with potential for intellectual and mental disturbances, including depression and instability.\n\nThis aspect indicates heightened emotional fluctuations, potential imbalance in home, relationships, or work, and a sense of emotional disorientation. It calls for careful handling of matters related to women and attention to eating habits.\n\nA time marked by emotional pressure, pessimism, and burdens, often involving family challenges and difficulty balancing personal and professional duties.\n\nA favorable time for reconnecting with loved ones through communication, focusing on health and mindset, and engaging in smooth tasks involving food, medicine, or learning.\n\nPeaceful and enjoyable development in family, marital, and women's relationships, fostering self-awareness reflected in steady daily work pace.\n\nA powerful emergence of imagination, intuition, and spiritual awareness, fostering interest in meditation, occult studies, and social reforms, along with beneficial educational and financial opportunities.\n\nThis aspect enhances self-awareness, spiritual understanding, imagination, creativity, and harmonious relationships, fostering love and compassion.\n\nThis aspect indicates increased selfishness and disregard for others' feelings, often leading to jealousy and using others for personal or sexual gain.\n\nLosses occur through others' help, accompanied by spiritual transformation toward someone. Conflicts arise over joint assets, businesses, taxes, investments, or insurance. Ventures may be started without proper thought. Ego neglects small but crucial matters, leading to losses and deception. Caution is advised in monetary transactions. Attendance at a funeral may occur.\n\nThis aspect indicates fear, anxiety, deception, and professional confusion. There is a tendency to avoid work and responsibilities, with possible mental health struggles. Indifference, despair, and pessimism may increase, along with professional hurdles and risks to reputation.\n\nIncreased focus on realizing creative ideas leads to fruitful study and solid progress, supported by friends and seniors, with gains from adopting new techniques and joint ventures.\n\nA strong urge for independence leads to conflicts, fractured friendships, obstacles in goals, fear of losing freedom, growing repressed anger, and instability in business and joint assets.\n\nThe individual strongly desires autonomy but may face serious issues if responsibilities are neglected. Conflicts arise when they seek freedom for themselves while expecting others to uphold duties, potentially causing harm to relationships.\n\nChallenges occur due to excessive socializing or accepting love, causing conflicts in key relationships and financial issues from impulsive work or business decisions.\n\nThe person experiences confusion between optimism and problems, leading to overspending and unhappiness even during joyful times, while taking full responsibility despite obstacles.\n\nThe person suppresses feelings and becomes controlling or obsessive in relationships, causing intense emotional pressure and possessiveness that may disrupt business or finances.",
+      "hi": "घर या परिवार के वातावरण में धार्मिक, शैक्षिक या सांस्कृतिक गतिविधियों के अवसर उत्पन्न होते हैं। दूर से मित्र या परिजन मिलने आ सकते हैं, या व्यक्ति दूर से घर लौट सकता है।\n\nउत्तेजित कार्य, शक्ति विवाद, झगड़ालू स्वभाव और अधिक गुस्सा करने की प्रवृत्ति। काम में ईर्ष्या और स्वार्थ जागृत होने की संभावना। संयुक्त संपत्ति या व्यवसाय में विवाद की संभावना। विवाद और दुर्घटना से बचाव के लिए सावधानी आवश्यक।\n\nसोच पर नियंत्रण कठिन होता है; व्यक्ति में जबरदस्ती या नियंत्रण की प्रवृत्ति होती है; स्वास्थ्य और यात्रा में रुकावटें हो सकती हैं; संपत्ति, कर या निवेश संबंधी समस्याएं हो सकती हैं।\n\nयह योग नकारात्मक सोच, चिंता और कम कार्यक्षमता का समय दर्शाता है। संचार में कठिनाई होती है और आत्मविश्वास कम रहता है। अधिकारियों या बुजुर्गों से मतभेद हो सकते हैं, तथा कानूनी या सरकारी मामलों में देरी हो सकती है।\n\nस्मृतियों, कल्पना शक्ति और बोध शक्ति में वृद्धि होती है, साथ ही बौद्धिक और मानसिक विकृतियाँ जैसे अवसाद और अस्थिरता हो सकती है।\n\nयह योग भावनाओं में अधिक उतार-चढ़ाव, घर, रिश्तों या काम में असंतुलन और भावनात्मक उलझन को दर्शाता है। महिलाओं से जुड़ी बातों में सावधानी और खानपान पर ध्यान देने की आवश्यकता होती है।\n\nयह समय भावनात्मक दबाव, निराशा और बोझ से भरा होता है, जिसमें पारिवारिक समस्याएँ और व्यक्तिगत व व्यावसायिक जिम्मेदारियों में संतुलन बनाने में कठिनाई हो सकती है।\n\nयह समय परिवार या प्रियजनों से संवाद के जरिए जुड़ने, सेहत और सोच पर ध्यान देने, और खाने-पीने, दवाइयों या पढ़ाई से जुड़े कामों में सहजता का होता है।\n\nपारिवारिक, वैवाहिक और महिलाओं के साथ शांतिपूर्ण और आनंददायक सम्बन्धों का विकास, जो आत्मचेतना को बढ़ावा देता है और नियमित दैनिक कार्य गति में परिलक्षित होता है।\n\nकल्पना शक्ति, अंतर्ज्ञान और आध्यात्मिक बोध की प्रबल अनुभूति, जो ध्यान, गूढ़ अध्ययन और सामाजिक सुधारों में रुचि जगाती है तथा शैक्षणिक और आर्थिक अवसर प्रदान करती है।\n\nयह योग आत्मज्ञान, आध्यात्मिक समझ, कल्पनाशक्ति, रचनात्मकता और प्रेमपूर्ण संबंधों को बढ़ावा देता है।\n\nयह योग दूसरों की भावनाओं की अनदेखी और स्वार्थी प्रवृत्ति बढ़ने को दर्शाता है, जिससे ईर्ष्या और यौन संबंधों में दूसरों का उपयोग होता है।\n\nदूसरों के सहयोग से हानि होती है, साथ ही किसी के प्रति आध्यात्मिक परिवर्तन होता है। संयुक्त संपत्ति, व्यवसाय, कर, निवेश या बीमा संबंधी संघर्ष होते हैं। बिना सोच-विचार के कार्य प्रारंभ होते हैं। अहंकार के कारण छोटी पर महत्वपूर्ण बातों की अनदेखी से हानि और धोखा होता है। आर्थिक लेन-देन में सावधानी आवश्यक है। इस समय किसी के शोक सभा में शामिल होने की संभावना है।\n\nयह योग भय, चिंता, धोखाधड़ी और व्यावसायिक उलझनों को दर्शाता है। काम और जिम्मेदारियों से बचने की प्रवृत्ति होती है, साथ ही मानसिक स्वास्थ्य की समस्याएँ भी हो सकती हैं। उदासीनता, निराशा और नकारात्मक सोच बढ़ सकती है, साथ ही व्यवसाय में बाधाएँ और प्रतिष्ठा को खतरा हो सकता है।\n\nरचनात्मक विचारों को साकार करने पर एकाग्रता बढ़ती है, जिससे अध्ययन फलदायी होता है और लक्ष्य प्राप्ति में ठोस प्रगति होती है। मित्रों और वरिष्ठों से सहयोग मिलता है तथा नई तकनीकें अपनाने और संयुक्त प्रयासों से लाभ होता है।\n\nस्वतंत्रता की तीव्र इच्छा के कारण संघर्ष, मित्र संबंधों में दरार, लक्ष्य प्राप्ति में बाधाएँ, स्वतंत्रता खोने का भय, दबा हुआ क्रोध बढ़ना, व्यावसायिक और संयुक्त संपत्ति में अस्थिरता होती है।\n\nव्यक्ति किसी भी स्थिति में स्वत्व चाहता है, लेकिन जिम्मेदारियों की अनदेखी से गंभीर समस्याएं हो सकती हैं। जब वे अपनी स्वतंत्रता चाहते हैं और दूसरों से कर्तव्य पालन की उम्मीद करते हैं, तो संघर्ष और संबंधों में चोट हो सकती है।\n\nअत्यधिक सामाजिक गतिविधियों या प्रेम स्वीकार करने से समस्याएँ उत्पन्न होती हैं, जिससे महत्वपूर्ण रिश्तों में मतभेद और काम या व्यवसाय में जल्दबाजी से आर्थिक समस्याएँ होती हैं।\n\nव्यक्ति की भावना और समस्याएँ एक-दूसरे को भ्रमित करती हैं, जिससे अति खर्च और सुख के समय भी असंतोष होता है, फिर भी वे बाधाओं के बावजूद पूरी जिम्मेदारी लेते हैं।\n\nव्यक्ति अपनी भावनाओं को दबाता है और संबंधों में नियंत्रित या आसक्त हो जाता है, जिससे तीव्र भावनात्मक दबाव और स्वामित्व की भावना उत्पन्न होती है जो व्यवसाय या वित्तीय मामलों में बाधा डाल सकती है।"
+    },
+    "areas": {
+      "career": {
+        "en": [
+          "Potential for involvement in educational or cultural pursuits related to home or family settings.",
+          "Disputes and conflicts over joint assets, businesses, and taxes are likely. Increased competitiveness and selfishness may affect professional relations.",
+          "Challenges in managing professional relationships due to controlling behavior; potential complications in work related to property or investments.",
+          "Challenges in communication and conflicts with superiors may reduce work efficiency.",
+          "Enhanced creativity and intuition may aid career, but mental instability could affect focus and decision-making.",
+          "Possible imbalance or tension at work; handle professional matters with care.",
+          "Challenges in balancing work responsibilities; a tense work environment influenced by negative thinking.",
+          "Smooth progress in tasks related to communication, learning, and helping others.",
+          "Steady and consistent work speed reflecting inner self-awareness.",
+          "Favorable for higher education, travel, and involvement with spiritual or educational institutions; interest in social and business reforms may influence career direction.",
+          "Favorable for arts, music, entertainment, luxury-related businesses or work; auspicious for charitable institutions.",
+          "Work environment may become jealous; the person might harm others or face losses due to envy.",
+          "Careless initiation of ventures; deception and fluctuations in work, including sexual aspects.",
+          "Professional confusion, hurdles, humiliation, and potential lawsuits may occur. There is a tendency to evade responsibilities.",
+          "Progress in professional goals is strong; adopting new techniques and professional changes bring benefits; support from organizations and seniors aids advancement.",
+          "Business instability and poor decision-making; sudden obstacles in achieving goals.",
+          "Desire for independence may conflict with workplace responsibilities, risking tensions with colleagues or supervisors.",
+          "Impulsive or thoughtless investments and decisions at work or in business may lead to difficulties.",
+          "Challenges arise from conflicting optimism and difficulties, requiring responsibility despite obstacles.",
+          "Business or financial disturbances may arise due to possessiveness and emotional intensity."
+        ],
+        "hi": [
+          "घर या परिवार से संबंधित शैक्षिक या सांस्कृतिक कार्यों में संलग्न होने की संभावना।",
+          "संयुक्त संपत्ति, व्यवसाय और करों को लेकर विवाद और संघर्ष की संभावना। पेशेवर संबंधों में प्रतिस्पर्धा और स्वार्थ बढ़ सकता है।",
+          "नियंत्रण की प्रवृत्ति के कारण पेशेवर संबंधों में चुनौतियाँ; संपत्ति या निवेश से जुड़े कार्यों में जटिलताएँ हो सकती हैं।",
+          "संचार में कठिनाई और वरिष्ठों से मतभेद कार्यक्षमता को कम कर सकते हैं।",
+          "रचनात्मकता और बोध शक्ति में वृद्धि करियर में मदद कर सकती है, लेकिन मानसिक अस्थिरता ध्यान और निर्णय लेने को प्रभावित कर सकती है।",
+          "काम में असंतुलन या तनाव हो सकता है; पेशेवर मामलों में सावधानी बरतें।",
+          "काम की जिम्मेदारियों में संतुलन बनाने में कठिनाई; नकारात्मक सोच से प्रभावित तनावपूर्ण कार्य वातावरण।",
+          "संचार, पढ़ाई और दूसरों की मदद से जुड़े कार्यों में सहज प्रगति।",
+          "आत्मचेतना को दर्शाती नियमित और स्थिर कार्य गति।",
+          "उच्च शिक्षा, यात्रा और आध्यात्मिक या शैक्षणिक संस्थानों से जुड़ने के लिए अनुकूल; सामाजिक और व्यावसायिक सुधारों में रुचि करियर दिशा को प्रभावित कर सकती है।",
+          "कलाओं, संगीत, मनोरंजन, विलासिता से जुड़े व्यापार/काम के लिए अनुकूल; सेवा संस्थाओं में काम के लिए शुभ।",
+          "काम के माहौल में ईर्ष्या बनी रहती है; व्यक्ति ईर्ष्या के कारण दूसरों को नुकसान पहुँचा सकता है या स्वयं हानि झेल सकता है।",
+          "बिना सोच-विचार के कार्य प्रारंभ करना; काम में धोखा और उतार-चढ़ाव, जिसमें यौन संबंधी पहलू भी शामिल हैं।",
+          "व्यावसायिक उलझनें, बाधाएँ, अपमान और कानूनी मुकदमों का सामना हो सकता है। जिम्मेदारियों से बचने की प्रवृत्ति रहती है।",
+          "पेशेवर लक्ष्यों में ठोस प्रगति होती है; नई तकनीकें अपनाने और पेशेवर बदलाव से लाभ होता है; संस्थाओं और वरिष्ठों से सहयोग मिलता है।",
+          "व्यावसायिक स्थिति अस्थिर रहती है; लक्ष्य प्राप्ति में अचानक समस्याएँ आती हैं।",
+          "स्वतंत्रता की इच्छा कार्यस्थल की जिम्मेदारियों से टकरा सकती है, जिससे सहकर्मियों या वरिष्ठों के साथ तनाव हो सकता है।",
+          "काम या व्यवसाय में बिना सोच-समझे निवेश और निर्णय लेने से समस्याएँ हो सकती हैं।",
+          "विपरीत आशावाद और कठिनाइयों से चुनौतियाँ आती हैं, फिर भी बाधाओं के बावजूद जिम्मेदारी निभानी पड़ती है।",
+          "स्वामित्व की भावना और भावनात्मक तीव्रता के कारण व्यवसायिक समस्याएँ उत्पन्न हो सकती हैं।"
+        ]
+      },
+      "relationships": {
+        "en": [
+          "Visits and reunions with friends or relatives from distant places strengthen family bonds.",
+          "Argumentative and quarrelsome nature may strain relationships. Increased anger tendencies can cause friction.",
+          "Tendency to act manipulatively or dominantly, which may strain relationships.",
+          "Possible disagreements with authority figures or elders; communication difficulties may strain relationships.",
+          "Heightened intuition can improve understanding, yet emotional fluctuations may cause challenges.",
+          "Emotional swings may affect relationships; older relationships might experience tension; approach matters involving women thoughtfully.",
+          "Family issues related to parents or elderly women may arise; feelings of loneliness and limited support.",
+          "Reconnecting with family or partner through calls or conversations; pleasant interactions especially with women.",
+          "Peaceful and enjoyable connections within family, marital, and women's relationships.",
+          "Opportunities for reunions with old friends and beneficial connections through spiritual or educational groups.",
+          "Relationships (family, sexual, emotional, romantic) are sweet, compassionate, and harmonious.",
+          "Jealousy and anger arise in sexual and love relationships, with possible exploitation of others for gratification.",
+          "Spiritual transformation toward someone; conflicts and legal difficulties over joint matters.",
+          "Mental health struggles may affect personal or family relationships. Indifference and pessimistic thoughts can increase tension.",
+          "Important support comes from friends and seniors, fostering cooperative decisions especially in joint business or investments.",
+          "Conflicts arise due to obsessive independence; friendships may fracture.",
+          "Seeking personal freedom while expecting others to fulfill duties can create conflicts and emotional hurt in relationships.",
+          "Significant relationships may face conflicts due to excessive social involvement or issues in accepting love.",
+          "Emotional confusion may cause dissatisfaction even in happy moments, affecting interpersonal harmony.",
+          "Relationships tend to become controlling, obsessive, and marked by bitterness and irritability."
+        ],
+        "hi": [
+          "दूर के मित्रों या परिजनों के आगमन से पारिवारिक संबंध मजबूत होते हैं।",
+          "झगड़ालू स्वभाव संबंधों में तनाव ला सकता है। अधिक गुस्सा करने की आदत से मतभेद हो सकते हैं।",
+          "व्यक्ति जबरदस्ती या नियंत्रण में रखने की प्रवृत्ति रखता है, जिससे संबंधों में तनाव हो सकता है।",
+          "अधिकारियों या बुजुर्गों से मतभेद संभव हैं; संचार की कठिनाई रिश्तों पर प्रभाव डाल सकती है।",
+          "बढ़ी हुई बोध शक्ति समझ बढ़ा सकती है, पर भावनात्मक उतार-चढ़ाव चुनौतियाँ ला सकते हैं।",
+          "भावनात्मक उतार-चढ़ाव रिश्तों को प्रभावित कर सकते हैं; पुराने रिश्तों में तनाव हो सकता है; महिलाओं से जुड़ी बातों में समझदारी से काम लें।",
+          "माता-पिता या बुजुर्ग महिलाओं से जुड़ी पारिवारिक समस्याएँ हो सकती हैं; अकेलापन महसूस हो सकता है और समर्थन सीमित लग सकता है।",
+          "फोन या बातचीत के जरिए परिवार या साथी से जुड़ना; महिलाओं के साथ सुखद संवाद।",
+          "पारिवारिक, वैवाहिक और महिलाओं के साथ शांतिपूर्ण और आनंददायक सम्बन्ध।",
+          "पुराने मित्रों से मिलने के अवसर और आध्यात्मिक या शैक्षणिक समूहों के माध्यम से लाभकारी संबंध।",
+          "पारिवारिक, यौनिक, भावनात्मक और प्रेम संबंधों में मिठास, दया और सद्भाव रहता है।",
+          "यौन और प्रेम संबंधों में ईर्ष्या और क्रोध की स्थिति बनती है, और व्यक्ति यौन संतुष्टि के लिए दूसरों का उपयोग करता है।",
+          "किसी के प्रति आध्यात्मिक परिवर्तन; संयुक्त मामलों पर संघर्ष और कानूनी कष्ट।",
+          "मानसिक समस्याएँ व्यक्तिगत या पारिवारिक संबंधों को प्रभावित कर सकती हैं। उदासीनता और नकारात्मक विचार तनाव बढ़ा सकते हैं।",
+          "मित्रों और वरिष्ठों से महत्वपूर्ण सहयोग मिलता है, जो संयुक्त व्यवसाय या निवेश में सहयोगी निर्णयों को बढ़ावा देता है।",
+          "स्वतंत्रता की इच्छा के कारण व्यवहार में समस्या; मित्र संबंधों में दरार उत्पन्न होती है।",
+          "अपनी स्वतंत्रता चाहते हुए दूसरों से कर्तव्य पालन की उम्मीद करने से संबंधों में संघर्ष और भावनात्मक चोट हो सकती है।",
+          "महत्वपूर्ण रिश्तों में अत्यधिक सामाजिक भागीदारी या प्रेम स्वीकार करने में समस्याओं के कारण मतभेद हो सकते हैं।",
+          "भावनात्मक भ्रम के कारण सुखद पलों में भी असंतोष हो सकता है, जो संबंधों को प्रभावित करता है।",
+          "संबंध नियंत्रित, आसक्त और कटुता तथा चिड़चिड़ाहट से भरे हो सकते हैं।"
+        ]
+      },
+      "money": {
+        "en": [
+          "No specific financial implications indicated.",
+          "Potential disputes over shared financial matters such as joint assets and taxes.",
+          "Complications may arise in property, tax, or investment matters.",
+          "Delays and obstacles may occur in legal or government-related financial matters.",
+          "Imaginative ideas may inspire financial opportunities, but mental disturbances could lead to inconsistent judgment.",
+          "No specific financial indications; maintain balance and caution.",
+          "Financial concerns may increase anxiety and add to emotional burdens.",
+          "Tasks involving food, medicine, or communication proceed easily, indicating smooth handling of related financial matters.",
+          "Financial gains possible through joint assets, business ventures, insurance, or investments.",
+          "Increased chances to receive gifts and delicious food; opportunities linked to charitable and luxury domains.",
+          "Financial relationships may involve fraud or deception.",
+          "Conflicts over joint assets, businesses, taxes, investments, and insurance; financial fluctuations; caution advised in monetary transactions.",
+          "Professional hurdles and lawsuits may cause financial strain. Hidden enemies could harm reputation affecting monetary matters.",
+          "Joint business, assets, and investment decisions tend to succeed; adopting new professional methods leads to financial gains.",
+          "Problems with joint, inherited assets and heavy losses in volatile trades.",
+          "Neglecting financial responsibilities due to a focus on autonomy may lead to serious consequences.",
+          "Overspending and financial troubles can arise from conflicts or impulsive actions.",
+          "Tendency to overspend despite problems, leading to financial imbalance.",
+          "Financial issues may occur linked to emotional possessiveness and pressure."
+        ],
+        "hi": [
+          "कोई विशेष वित्तीय संकेत नहीं।",
+          "संयुक्त वित्तीय मामलों जैसे संयुक्त संपत्ति और करों को लेकर विवाद की संभावना।",
+          "संपत्ति, कर या निवेश से जुड़ी समस्याएं बढ़ सकती हैं।",
+          "कानूनी या सरकारी वित्तीय मामलों में रुकावटें और देरी हो सकती है।",
+          "कल्पनाशील विचार वित्तीय अवसरों को प्रेरित कर सकते हैं, पर मानसिक विकृतियाँ निर्णय में अस्थिरता ला सकती हैं।",
+          "वित्तीय स्थिति के लिए कोई विशेष संकेत नहीं; संतुलन और सावधानी बनाए रखें।",
+          "आर्थिक चिंताएँ बढ़ सकती हैं, जिससे चिंता और भावनात्मक बोझ बढ़ता है।",
+          "खाने-पीने, दवाइयों या संचार से जुड़े कार्य आसानी से होते हैं, जिससे संबंधित वित्तीय मामलों में सहजता।",
+          "विशेष वित्तीय प्रभाव नहीं दर्शाए गए हैं।",
+          "संयुक्त संपत्ति, व्यवसाय, बीमा या निवेश के माध्यम से आर्थिक लाभ संभव।",
+          "उपहार और स्वादिष्ट भोजन पाने के अवसर बढ़ते हैं; सेवा और विलासिता से जुड़े अवसर मिलते हैं।",
+          "आर्थिक संबंधों में धोखाधड़ी या छल की स्थिति हो सकती है।",
+          "संयुक्त संपत्ति, व्यवसाय, कर, निवेश और बीमा पर संघर्ष; आर्थिक उतार-चढ़ाव; आर्थिक लेन-देन में सावधानी।",
+          "व्यावसायिक बाधाएँ और कानूनी मुकदमे आर्थिक दबाव पैदा कर सकते हैं। गुप्त दुश्मन प्रतिष्ठा को नुकसान पहुँचा कर वित्तीय स्थिति को प्रभावित कर सकते हैं।",
+          "संयुक्त व्यवसाय, संपत्ति और निवेश से जुड़े फैसले सफल होते हैं; नई पेशेवर विधियों को अपनाने से आर्थिक लाभ होता है।",
+          "संयुक्त या पैतृक संपत्ति में समस्या; तेजी-मंदी के व्यवसाय में बड़ी हानि हो सकती है।",
+          "स्वतंत्रता पर ध्यान देने के कारण वित्तीय जिम्मेदारियों की अनदेखी से गंभीर परिणाम हो सकते हैं।",
+          "मतभेद या जल्दबाजी से आर्थिक समस्याएँ और अत्यधिक खर्च हो सकता है।",
+          "समस्याओं के बावजूद अति खर्च करने की प्रवृत्ति, जिससे वित्तीय असंतुलन होता है।",
+          "भावनात्मक स्वामित्व और दबाव के कारण वित्तीय समस्याएँ हो सकती हैं।"
+        ]
+      },
+      "health_adj": {
+        "en": [
+          "No particular health adjustments noted.",
+          "Risk of accidents involving tools, weapons, or hazardous chemicals. Extreme caution and self-restraint advised.",
+          "Health may be negatively affected; travel disruptions are possible.",
+          "Mental stress and worry may affect overall well-being and reduce efficiency.",
+          "Risk of depression and mental instability; attention to mental well-being is advised.",
+          "Monitor eating habits carefully; emotional stress may affect well-being.",
+          "Emotional stress and pessimism may affect overall well-being; daily life may feel obstructed.",
+          "Focus on improving health and mindset; favorable for health-related activities.",
+          "No specific health adjustments indicated.",
+          "Ideal time for meditation and yoga practices enhancing spiritual and mental well-being.",
+          "Spiritual and emotional well-being is enhanced; no specific health risks noted.",
+          "Emotional stress from jealousy and anger may affect well-being.",
+          "Potential emotional stress related to conflicts and deception; attend to subtle but important issues to avoid problems.",
+          "Mental stability is crucial; mental health struggles may surface. Lack of stability can lead to physical or business harm.",
+          "No specific health adjustments noted; focus remains on mental and intellectual pursuits.",
+          "Repressed anger grows, potentially affecting emotional well-being.",
+          "Stress from conflicts and neglecting duties may affect overall well-being.",
+          "No specific health adjustments are indicated.",
+          "Emotional unrest may affect overall well-being; managing stress is important.",
+          "Emotional stress from controlling tendencies may affect overall well-being."
+        ],
+        "hi": [
+          "कोई विशेष स्वास्थ्य समायोजन नहीं।",
+          "उपकरण, हथियार या खतरनाक रसायनों से दुर्घटना का खतरा। अत्यधिक सावधानी और आत्मसंयम आवश्यक।",
+          "स्वास्थ्य पर नकारात्मक असर हो सकता है; यात्रा में रुकावटें हो सकती हैं।",
+          "मानसिक तनाव और चिंता से समग्र स्वास्थ्य प्रभावित हो सकता है और कार्यक्षमता कम हो सकती है।",
+          "अवसाद और मानसिक अस्थिरता का खतरा; मानसिक स्वास्थ्य का ध्यान रखना आवश्यक है।",
+          "खानपान पर ध्यान दें; भावनात्मक तनाव से स्वास्थ्य प्रभावित हो सकता है।",
+          "भावनात्मक तनाव और निराशावाद से समग्र स्वास्थ्य प्रभावित हो सकता है; रोज़मर्रा की ज़िंदगी में रुकावटें महसूस हो सकती हैं।",
+          "सेहत और सोच सुधारने पर ध्यान; स्वास्थ्य संबंधी गतिविधियों के लिए अनुकूल।",
+          "विशेष स्वास्थ्य समायोजन नहीं दर्शाए गए हैं।",
+          "ध्यान और योग के लिए उपयुक्त समय, जो आध्यात्मिक और मानसिक स्वास्थ्य को बढ़ावा देता है।",
+          "आध्यात्मिक और भावनात्मक स्वास्थ्य बेहतर होता है; कोई विशेष स्वास्थ्य जोखिम नहीं बताया गया।",
+          "ईर्ष्या और क्रोध से उत्पन्न भावनात्मक तनाव स्वास्थ्य पर प्रभाव डाल सकता है।",
+          "संघर्ष और धोखे से भावनात्मक तनाव की संभावना; छोटी पर महत्वपूर्ण बातों का ध्यान रखें ताकि समस्या न हो।",
+          "मानसिक स्थिरता आवश्यक है; मानसिक समस्याएँ सामने आ सकती हैं। स्थिरता न होने पर शारीरिक या व्यावसायिक नुकसान हो सकता है।",
+          "स्वास्थ्य संबंधी विशेष समायोजन नहीं; ध्यान मानसिक और बौद्धिक गतिविधियों पर केंद्रित है।",
+          "दमित क्रोध बढ़ता है, जो मानसिक स्थिति को प्रभावित कर सकता है।",
+          "संघर्ष और कर्तव्यों की अनदेखी से तनाव बढ़ सकता है जो स्वास्थ्य पर असर डाल सकता है।",
+          "कोई विशिष्ट स्वास्थ्य समायोजन संकेतित नहीं हैं।",
+          "भावनात्मक अशांति से समग्र स्वास्थ्य प्रभावित हो सकता है; तनाव प्रबंधन आवश्यक है।",
+          "नियंत्रण की प्रवृत्ति से उत्पन्न भावनात्मक तनाव समग्र स्वास्थ्य को प्रभावित कर सकता है।"
+        ]
+      }
+    }
+  },
+  "lifeEvents": [
+    {
+      "aspect": "Jup Con Jup",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2029-09-27 to 2029-11-03",
+      "startDate": "2029-09-27",
+      "endDate": "2029-11-03",
+      "exactDate": "2029-10-15",
+      "description": "{'en': ['Self-improvement', 'Family enhancement', 'Organizational changes'], 'hi': ['आत्म-सुधार', 'पारिवारिक सुधार', 'व्यवस्थागत परिवर्तन']}"
+    },
+    {
+      "aspect": "Jup Con Mar",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2029-10-15 to 2029-11-20",
+      "startDate": "2029-10-15",
+      "endDate": "2029-11-20",
+      "exactDate": "2029-11-01",
+      "description": "{'en': ['New job or business agreements', 'Foreign trade or travel opportunities', 'Joint investments and legal/government cooperation', 'Participation in religious/educational/cultural activities', 'Sports or recreational group travel for students'], 'hi': ['नई नौकरी या व्यापार समझौते', 'विदेशी व्यापार या यात्रा के अवसर', 'संयुक्त निवेश और कानूनी/सरकारी सहयोग', 'धार्मिक/शैक्षणिक/सांस्कृतिक गतिविधियों में भागीदारी', 'छात्रों के लिए खेलकूद या मनोरंजन से जुड़ी सामूहिक यात्रा']}"
+    },
+    {
+      "aspect": "Jup Con Mer",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2027-09-11 to 2027-10-18",
+      "startDate": "2027-09-11",
+      "endDate": "2027-10-18",
+      "exactDate": "2027-09-28",
+      "description": "{'en': ['Long-term planning', 'Career success', 'Educational activities', 'Writing and publishing', 'Promotions'], 'hi': ['दीर्घकालिक योजना', 'करियर सफलता', 'शैक्षणिक गतिविधियाँ', 'लेखन और प्रकाशन', 'प्रचार']}"
+    },
+    {
+      "aspect": "Jup Con Mer",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2028-04-30 to 2028-05-28",
+      "startDate": "2028-04-30",
+      "endDate": "2028-05-28",
+      "exactDate": "2028-05-13",
+      "description": "{'en': ['Long-term planning', 'Career success', 'Educational activities', 'Writing and publishing', 'Promotions'], 'hi': ['दीर्घकालिक योजना', 'करियर सफलता', 'शैक्षणिक गतिविधियाँ', 'लेखन और प्रकाशन', 'प्रचार']}"
+    },
+    {
+      "aspect": "Jup Con Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2026-01-24 to 2026-05-14",
+      "startDate": "2026-01-24",
+      "endDate": "2026-05-14",
+      "exactDate": "2026-04-15",
+      "description": "{'en': ['Religious or cultural events at home', 'Visits from distant friends or relatives', 'Returning home from afar'], 'hi': ['घर में धार्मिक या सांस्कृतिक आयोजन', 'दूर के मित्र या परिजन का आगमन', 'दूर से घर लौटना']}"
+    },
+    {
+      "aspect": "Jup Con Plu",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2028-12-07 to 2029-04-22",
+      "startDate": "2028-12-07",
+      "endDate": "2029-04-22",
+      "exactDate": "2029-01-03",
+      "description": "{'en': ['Life reorganization', 'Stable transformation', 'Spiritual or occult knowledge gain', 'Institutional change attempts', 'Financial/legal professional support'], 'hi': ['जीवन पुनर्नियोजन', 'स्थिर परिवर्तन', 'आध्यात्मिक या गूढ़ ज्ञान प्राप्ति', 'संस्थागत परिवर्तन के प्रयास', 'आर्थिक/कानूनी पेशेवर सहयोग']}"
+    },
+    {
+      "aspect": "Jup Con Plu",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2029-08-06 to 2029-09-20",
+      "startDate": "2029-08-06",
+      "endDate": "2029-09-20",
+      "exactDate": "2029-08-30",
+      "description": "{'en': ['Life reorganization', 'Stable transformation', 'Spiritual or occult knowledge gain', 'Institutional change attempts', 'Financial/legal professional support'], 'hi': ['जीवन पुनर्नियोजन', 'स्थिर परिवर्तन', 'आध्यात्मिक या गूढ़ ज्ञान प्राप्ति', 'संस्थागत परिवर्तन के प्रयास', 'आर्थिक/कानूनी पेशेवर सहयोग']}"
+    },
+    {
+      "aspect": "Jup Con Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2028-11-03 to 2028-12-16",
+      "startDate": "2028-11-03",
+      "endDate": "2028-12-16",
+      "exactDate": "2028-11-22",
+      "description": "{'en': ['Initiation of new ventures', 'Business travel opportunities', 'Receiving rewards from past efforts'], 'hi': ['नए कार्य प्रारंभ करना', 'व्यवसाय यात्रा के अवसर', 'पूर्व प्रयासों के परिणाम प्राप्त करना']}"
+    },
+    {
+      "aspect": "Jup Con Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2029-04-10 to 2029-08-16",
+      "startDate": "2029-04-10",
+      "endDate": "2029-08-16",
+      "exactDate": "2029-07-14",
+      "description": "{'en': ['Initiation of new ventures', 'Business travel opportunities', 'Receiving rewards from past efforts'], 'hi': ['नए कार्य प्रारंभ करना', 'व्यवसाय यात्रा के अवसर', 'पूर्व प्रयासों के परिणाम प्राप्त करना']}"
+    },
+    {
+      "aspect": "Jup Con Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2026-10-03 to 2027-02-28",
+      "startDate": "2026-10-03",
+      "endDate": "2027-02-28",
+      "exactDate": "2027-01-27",
+      "description": "{'en': ['Education', 'Teaching', 'Social Work', 'Advancement Opportunities'], 'hi': ['शिक्षा', 'अध्यापन', 'सामाजिक कार्य', 'उन्नति के अवसर']}"
+    },
+    {
+      "aspect": "Jup Con Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2027-05-28 to 2027-07-15",
+      "startDate": "2027-05-28",
+      "endDate": "2027-07-15",
+      "exactDate": "2027-06-23",
+      "description": "{'en': ['Education', 'Teaching', 'Social Work', 'Advancement Opportunities'], 'hi': ['शिक्षा', 'अध्यापन', 'सामाजिक कार्य', 'उन्नति के अवसर']}"
+    },
+    {
+      "aspect": "Jup Con Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2030-02-27 to 2030-03-28",
+      "startDate": "2030-02-27",
+      "endDate": "2030-03-28",
+      "exactDate": "2030-03-13",
+      "description": "{'en': ['Financial gains', 'New friendships', 'Life reorganization', 'Spiritual studies'], 'hi': ['आर्थिक लाभ', 'नई मित्रता', 'जीवन पुनः नियोजन', 'आध्यात्मिक अध्ययन']}"
+    },
+    {
+      "aspect": "Jup Con Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2030-10-10 to 2030-11-16",
+      "startDate": "2030-10-10",
+      "endDate": "2030-11-16",
+      "exactDate": "2030-10-29",
+      "description": "{'en': ['Financial gains', 'New friendships', 'Life reorganization', 'Spiritual studies'], 'hi': ['आर्थिक लाभ', 'नई मित्रता', 'जीवन पुनः नियोजन', 'आध्यात्मिक अध्ययन']}"
+    },
+    {
+      "aspect": "Jup Con Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2026-06-26 to 2026-08-01",
+      "startDate": "2026-06-26",
+      "endDate": "2026-08-01",
+      "exactDate": "2026-07-14",
+      "description": "{'en': ['Optimism', 'Generosity', 'Social charm', 'Promotion of hobbies and community work'], 'hi': ['आशावाद', 'उदारता', 'सामाजिक लोकप्रियता', 'शौक और समाजसेवा को बढ़ावा']}"
+    },
+    {
+      "aspect": "Jup Sqr Jup",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-07-03 to 2026-08-07",
+      "startDate": "2026-07-03",
+      "endDate": "2026-08-07",
+      "exactDate": "2026-07-20",
+      "description": "{'en': ['Conflicts in beliefs', 'Financial difficulties', 'Professional challenges', 'Transport and trade issues'], 'hi': ['मतभेद', 'आर्थिक कठिनाइयाँ', 'पेशेवर चुनौतियाँ', 'परिवहन और व्यापार समस्याएँ']}"
+    },
+    {
+      "aspect": "Jup Sqr Mar",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-07-20 to 2026-08-25",
+      "startDate": "2026-07-20",
+      "endDate": "2026-08-25",
+      "exactDate": "2026-08-06",
+      "description": "JUP Sqr MAR transit window"
+    },
+    {
+      "aspect": "Jup Sqr Mer",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2030-12-08 to 2031-01-13",
+      "startDate": "2030-12-08",
+      "endDate": "2031-01-13",
+      "exactDate": "2030-12-25",
+      "description": "{'en': ['New work challenges', 'Educational obstacles', 'Impulsive decisions'], 'hi': ['नए काम की चुनौतियाँ', 'शैक्षिक रुकावटें', 'बिना सोचे फैसले']}"
+    },
+    {
+      "aspect": "Jup Sqr Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-10-25 to 2028-12-04",
+      "startDate": "2028-10-25",
+      "endDate": "2028-12-04",
+      "exactDate": "2028-11-13",
+      "description": "JUP Sqr MOO transit window"
+    },
+    {
+      "aspect": "Jup Sqr Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-04-25 to 2029-08-03",
+      "startDate": "2029-04-25",
+      "endDate": "2029-08-03",
+      "exactDate": "2029-06-13",
+      "description": "JUP Sqr MOO transit window"
+    },
+    {
+      "aspect": "Jup Sqr Nep",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-11-06 to 2028-03-24",
+      "startDate": "2027-11-06",
+      "endDate": "2028-03-24",
+      "exactDate": "2028-02-21",
+      "description": "{'en': ['Escaping responsibilities', 'Misguided spiritual/religious experiences', 'Financial losses due to gambling or impulsive spending', 'Unnecessary relocations'], 'hi': ['जिम्मेदारियों से भागना', 'गलत धार्मिक/आध्यात्मिक अनुभव', 'जुआ या आवेगी खर्च से आर्थिक नुकसान', 'व्यर्थ प्रवास']}"
+    },
+    {
+      "aspect": "Jup Sqr Nep",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-07-03 to 2028-08-19",
+      "startDate": "2028-07-03",
+      "endDate": "2028-08-19",
+      "exactDate": "2028-07-28",
+      "description": "{'en': ['Escaping responsibilities', 'Misguided spiritual/religious experiences', 'Financial losses due to gambling or impulsive spending', 'Unnecessary relocations'], 'hi': ['जिम्मेदारियों से भागना', 'गलत धार्मिक/आध्यात्मिक अनुभव', 'जुआ या आवेगी खर्च से आर्थिक नुकसान', 'व्यर्थ प्रवास']}"
+    },
+    {
+      "aspect": "Jup Sqr Plu",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-05-17 to 2026-06-26",
+      "startDate": "2026-05-17",
+      "endDate": "2026-06-26",
+      "exactDate": "2026-06-07",
+      "description": "{'en': [\"Losses through others' help\", 'Spiritual transformation', 'Conflicts over joint assets and finances', 'Starting ventures thoughtlessly', 'Attendance at funerals'], 'hi': ['दूसरों के सहयोग में हानि', 'आध्यात्मिक परिवर्तन', 'संयुक्त संपत्ति और वित्तीय संघर्ष', 'बिना सोच-विचार कार्य प्रारंभ करना', 'शोक सभा में शामिल होना']}"
+    },
+    {
+      "aspect": "Jup Sqr Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-01-24 to 2026-05-25",
+      "startDate": "2026-01-24",
+      "endDate": "2026-05-25",
+      "exactDate": "2026-04-30",
+      "description": "Legal Matters / Court Issues"
+    },
+    {
+      "aspect": "Jup Sqr Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-12-29 to 2030-06-06",
+      "startDate": "2029-12-29",
+      "endDate": "2030-06-06",
+      "exactDate": "2030-01-22",
+      "description": "JUP Sqr SUN transit window"
+    },
+    {
+      "aspect": "Jup Sqr Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2030-08-23 to 2030-10-12",
+      "startDate": "2030-08-23",
+      "endDate": "2030-10-12",
+      "exactDate": "2030-09-20",
+      "description": "JUP Sqr SUN transit window"
+    },
+    {
+      "aspect": "Jup Sqr Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-07-13 to 2027-08-19",
+      "startDate": "2027-07-13",
+      "endDate": "2027-08-19",
+      "exactDate": "2027-08-01",
+      "description": "{'en': ['Unexpected problems', 'Foreign travel and dealings', 'Financial losses', 'Mental instability'], 'hi': ['अप्रत्याशित समस्याएँ', 'विदेशी यात्रा और व्यवहार', 'आर्थिक हानि', 'मानसिक अस्थिरता']}"
+    },
+    {
+      "aspect": "Jup Sqr Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-09-20 to 2029-10-27",
+      "startDate": "2029-09-20",
+      "endDate": "2029-10-27",
+      "exactDate": "2029-10-08",
+      "description": "{'en': ['Financial decisions', 'Emotional challenges', 'Taking responsibility'], 'hi': ['वित्तीय निर्णय', 'भावनात्मक चुनौतियाँ', 'जिम्मेदारी लेना']}"
+    },
+    {
+      "aspect": "Jup Sxt Jup",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-08-03 to 2027-08-30",
+      "startDate": "2027-08-03",
+      "endDate": "2027-08-30",
+      "exactDate": "2027-08-16",
+      "description": "JUP Sxt JUP transit window"
+    },
+    {
+      "aspect": "Jup Sxt Mar",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-08-21 to 2027-09-16",
+      "startDate": "2027-08-21",
+      "endDate": "2027-09-16",
+      "exactDate": "2027-09-02",
+      "description": "JUP Sxt MAR transit window"
+    },
+    {
+      "aspect": "Jup Sxt Mer",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-02-07 to 2026-04-13",
+      "startDate": "2026-02-07",
+      "endDate": "2026-04-13",
+      "exactDate": "2026-03-11",
+      "description": "JUP Sxt MER transit window"
+    },
+    {
+      "aspect": "Jup Sxt Mer",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-11-14 to 2029-12-12",
+      "startDate": "2029-11-14",
+      "endDate": "2029-12-12",
+      "exactDate": "2029-11-27",
+      "description": "JUP Sxt MER transit window"
+    },
+    {
+      "aspect": "Jup Sxt Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-09-30 to 2027-10-30",
+      "startDate": "2027-09-30",
+      "endDate": "2027-10-30",
+      "exactDate": "2027-10-14",
+      "description": "JUP Sxt MOO transit window"
+    },
+    {
+      "aspect": "Jup Sxt Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-04-03 to 2028-06-24",
+      "startDate": "2028-04-03",
+      "endDate": "2028-06-24",
+      "exactDate": "2028-05-13",
+      "description": "JUP Sxt MOO transit window"
+    },
+    {
+      "aspect": "Jup Sxt Nep",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-12-11 to 2029-04-16",
+      "startDate": "2028-12-11",
+      "endDate": "2029-04-16",
+      "exactDate": "2029-01-01",
+      "description": "JUP Sxt NEP transit window"
+    },
+    {
+      "aspect": "Jup Sxt Nep",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-08-11 to 2029-09-14",
+      "startDate": "2029-08-11",
+      "endDate": "2029-09-14",
+      "exactDate": "2029-08-29",
+      "description": "JUP Sxt NEP transit window"
+    },
+    {
+      "aspect": "Jup Sxt Plu",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-10-17 to 2027-02-09",
+      "startDate": "2026-10-17",
+      "endDate": "2027-02-09",
+      "exactDate": "2026-11-09",
+      "description": "JUP Sxt PLU transit window"
+    },
+    {
+      "aspect": "Jup Sxt Plu",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-06-14 to 2027-07-17",
+      "startDate": "2027-06-14",
+      "endDate": "2027-07-17",
+      "exactDate": "2027-07-01",
+      "description": "JUP Sxt PLU transit window"
+    },
+    {
+      "aspect": "Jup Sxt Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-09-12 to 2026-10-14",
+      "startDate": "2026-09-12",
+      "endDate": "2026-10-14",
+      "exactDate": "2026-09-26",
+      "description": "JUP Sxt SAT transit window"
+    },
+    {
+      "aspect": "Jup Sxt Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-02-13 to 2027-06-11",
+      "startDate": "2027-02-13",
+      "endDate": "2027-06-11",
+      "exactDate": "2027-03-09",
+      "description": "JUP Sxt SAT transit window"
+    },
+    {
+      "aspect": "Jup Sxt Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2031-01-04 to 2031-01-23",
+      "startDate": "2031-01-04",
+      "endDate": "2031-01-23",
+      "exactDate": "2031-01-18",
+      "description": "JUP Sxt SAT transit window"
+    },
+    {
+      "aspect": "Jup Sxt Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-12-04 to 2029-01-23",
+      "startDate": "2028-12-04",
+      "endDate": "2029-01-23",
+      "exactDate": "2028-12-23",
+      "description": "JUP Sxt SUN transit window"
+    },
+    {
+      "aspect": "Jup Sxt Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-03-01 to 2029-04-25",
+      "startDate": "2029-03-01",
+      "endDate": "2029-04-25",
+      "exactDate": "2029-04-01",
+      "description": "JUP Sxt SUN transit window"
+    },
+    {
+      "aspect": "Jup Sxt Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-08-03 to 2029-09-08",
+      "startDate": "2029-08-03",
+      "endDate": "2029-09-08",
+      "exactDate": "2029-08-22",
+      "description": "JUP Sxt SUN transit window"
+    },
+    {
+      "aspect": "Jup Sxt Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-08-16 to 2028-09-13",
+      "startDate": "2028-08-16",
+      "endDate": "2028-09-13",
+      "exactDate": "2028-08-30",
+      "description": "JUP Sxt URA transit window"
+    },
+    {
+      "aspect": "Jup Sxt Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-08-25 to 2028-09-22",
+      "startDate": "2028-08-25",
+      "endDate": "2028-09-22",
+      "exactDate": "2028-09-08",
+      "description": "JUP Sxt VEN transit window"
+    },
+    {
+      "aspect": "Jup Tri Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2029-11-24 to 2030-01-03",
+      "startDate": "2029-11-24",
+      "endDate": "2030-01-03",
+      "exactDate": "2029-12-13",
+      "description": "{'en': ['Educational involvement', 'Religious or cultural participation', 'Meeting elders or special women', 'Child care activities', 'Spiritual group engagement', 'Women-support efforts'], 'hi': ['शैक्षिक कार्यों में भागीदारी', 'धार्मिक या सांस्कृतिक गतिविधियाँ', 'बुजुर्गों या खास महिलाओं से मिलना', 'बच्चों की देखभाल', 'धार्मिक समूहों से जुड़ना', 'महिला सहायता कार्य']}"
+    },
+    {
+      "aspect": "Jup Tri Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2030-05-28 to 2030-09-01",
+      "startDate": "2030-05-28",
+      "endDate": "2030-09-01",
+      "exactDate": "2030-07-15",
+      "description": "{'en': ['Educational involvement', 'Religious or cultural participation', 'Meeting elders or special women', 'Child care activities', 'Spiritual group engagement', 'Women-support efforts'], 'hi': ['शैक्षिक कार्यों में भागीदारी', 'धार्मिक या सांस्कृतिक गतिविधियाँ', 'बुजुर्गों या खास महिलाओं से मिलना', 'बच्चों की देखभाल', 'धार्मिक समूहों से जुड़ना', 'महिला सहायता कार्य']}"
+    },
+    {
+      "aspect": "Jup Tri Nep",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2026-10-10 to 2027-02-18",
+      "startDate": "2026-10-10",
+      "endDate": "2027-02-18",
+      "exactDate": "2026-11-06",
+      "description": "{'en': ['Spiritual inspiration', 'Academic or research opportunities', 'Recognition for generosity and intelligence', 'Engagement with charitable or cultural institutions', 'Manifestation of past virtuous deeds'], 'hi': ['आध्यात्मिक प्रेरणा', 'शैक्षिक या शोध के अवसर', 'उदारता और बुद्धिमत्ता के लिए प्रशंसा', 'धर्मार्थ या सांस्कृतिक संस्थानों से जुड़ाव', 'पूर्व पुण्य कर्मों का फल']}"
+    },
+    {
+      "aspect": "Jup Tri Nep",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2027-06-06 to 2027-07-21",
+      "startDate": "2027-06-06",
+      "endDate": "2027-07-21",
+      "exactDate": "2027-06-30",
+      "description": "{'en': ['Spiritual inspiration', 'Academic or research opportunities', 'Recognition for generosity and intelligence', 'Engagement with charitable or cultural institutions', 'Manifestation of past virtuous deeds'], 'hi': ['आध्यात्मिक प्रेरणा', 'शैक्षिक या शोध के अवसर', 'उदारता और बुद्धिमत्ता के लिए प्रशंसा', 'धर्मार्थ या सांस्कृतिक संस्थानों से जुड़ाव', 'पूर्व पुण्य कर्मों का फल']}"
+    },
+    {
+      "aspect": "Jup Tri Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2026-06-17 to 2026-07-24",
+      "startDate": "2026-06-17",
+      "endDate": "2026-07-24",
+      "exactDate": "2026-07-05",
+      "description": "{'en': ['Unexpected financial support', 'Business expansion', 'New friendships', 'Surprise agreements', 'Long-term vision opportunities', 'Support from special individuals'], 'hi': ['अप्रत्याशित आर्थिक सहयोग', 'कार्यप्रसार', 'नई मित्रता', 'अप्रत्याशित संधियाँ', 'दूरगामी दृष्टिकोण के अवसर', 'विशिष्ट व्यक्तियों से सहयोग']}"
+    },
+    {
+      "aspect": "Jup Tri Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2030-10-19 to 2030-11-24",
+      "startDate": "2030-10-19",
+      "endDate": "2030-11-24",
+      "exactDate": "2030-11-06",
+      "description": "{'en': ['Educational advancement', 'Cultural enrichment', 'Emotional growth', 'Improved relationships'], 'hi': ['शैक्षिक उन्नति', 'सांस्कृतिक समृद्धि', 'भावनात्मक विकास', 'संबंधों में सुधार']}"
+    },
+    {
+      "aspect": "Nep Sqr Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2030-06-12 to 2030-08-21",
+      "startDate": "2030-06-12",
+      "endDate": "2030-08-21",
+      "exactDate": "2030-07-16",
+      "description": "NEP Sqr MOO transit window"
+    },
+    {
+      "aspect": "Nep Tri Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2026-01-24 to 2027-04-25",
+      "startDate": "2026-01-24",
+      "endDate": "2027-04-25",
+      "exactDate": "2026-03-05",
+      "description": "{'en': ['Spiritual awakening', 'Educational advancement', 'Social reform interest', 'Financial partnership gains', 'Reunion with friends'], 'hi': ['आध्यात्मिक जागरण', 'शैक्षणिक उन्नति', 'सामाजिक सुधार में रुचि', 'आर्थिक साझेदारी लाभ', 'मित्रों से पुनर्मिलन']}"
+    },
+    {
+      "aspect": "Nep Tri Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2027-09-29 to 2028-02-25",
+      "startDate": "2027-09-29",
+      "endDate": "2028-02-25",
+      "exactDate": "2027-12-15",
+      "description": "{'en': ['Spiritual awakening', 'Educational advancement', 'Social reform interest', 'Financial partnership gains', 'Reunion with friends'], 'hi': ['आध्यात्मिक जागरण', 'शैक्षणिक उन्नति', 'सामाजिक सुधार में रुचि', 'आर्थिक साझेदारी लाभ', 'मित्रों से पुनर्मिलन']}"
+    },
+    {
+      "aspect": "Nep Tri Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2026-01-24 to 2028-04-14",
+      "startDate": "2026-01-24",
+      "endDate": "2028-04-14",
+      "exactDate": "2026-09-24",
+      "description": "{'en': ['Spiritual growth', 'Relationship harmony', 'Charitable activities', 'Pilgrimage opportunities', 'Creative or artistic career developments'], 'hi': ['आध्यात्मिक विकास', 'संबंधों में सद्भाव', 'सेवा कार्य', 'धार्मिक यात्रा के अवसर', 'रचनात्मक या कलात्मक करियर विकास']}"
+    },
+    {
+      "aspect": "Nep Tri Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2028-10-16 to 2029-02-14",
+      "startDate": "2028-10-16",
+      "endDate": "2029-02-14",
+      "exactDate": "2028-12-17",
+      "description": "{'en': ['Spiritual growth', 'Relationship harmony', 'Charitable activities', 'Pilgrimage opportunities', 'Creative or artistic career developments'], 'hi': ['आध्यात्मिक विकास', 'संबंधों में सद्भाव', 'सेवा कार्य', 'धार्मिक यात्रा के अवसर', 'रचनात्मक या कलात्मक करियर विकास']}"
+    },
+    {
+      "aspect": "Plu Opp Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-01-24 to 2027-04-13",
+      "startDate": "2026-01-24",
+      "endDate": "2027-04-13",
+      "exactDate": "2026-10-16",
+      "description": "{'en': ['Emotional conflicts', 'Professional rivalry', 'Relationship challenges', 'Financial deception'], 'hi': ['भावनात्मक संघर्ष', 'पेशेवर प्रतिस्पर्धा', 'संबंधों में चुनौतियाँ', 'आर्थिक धोखाधड़ी']}"
+    },
+    {
+      "aspect": "Plu Opp Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-06-03 to 2028-02-05",
+      "startDate": "2027-06-03",
+      "endDate": "2028-02-05",
+      "exactDate": "2027-10-18",
+      "description": "{'en': ['Emotional conflicts', 'Professional rivalry', 'Relationship challenges', 'Financial deception'], 'hi': ['भावनात्मक संघर्ष', 'पेशेवर प्रतिस्पर्धा', 'संबंधों में चुनौतियाँ', 'आर्थिक धोखाधड़ी']}"
+    },
+    {
+      "aspect": "Plu Opp Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-08-24 to 2028-12-11",
+      "startDate": "2028-08-24",
+      "endDate": "2028-12-11",
+      "exactDate": "2028-10-19",
+      "description": "{'en': ['Emotional conflicts', 'Professional rivalry', 'Relationship challenges', 'Financial deception'], 'hi': ['भावनात्मक संघर्ष', 'पेशेवर प्रतिस्पर्धा', 'संबंधों में चुनौतियाँ', 'आर्थिक धोखाधड़ी']}"
+    },
+    {
+      "aspect": "Plu Sqr Jup",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-01-24 to 2028-04-02",
+      "startDate": "2026-01-24",
+      "endDate": "2028-04-02",
+      "exactDate": "2027-01-06",
+      "description": "{'en': [\"Loss through others' help\", 'Spiritual transformation', 'Conflicts over joint assets/business', 'Attendance at a funeral'], 'hi': ['दूसरों के सहयोग में हानि', 'आध्यात्मिक परिवर्तन', 'संयुक्त संपत्ति/व्यवसाय पर संघर्ष', 'शोक सभा में शामिल होना']}"
+    },
+    {
+      "aspect": "Plu Sqr Jup",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-06-16 to 2029-01-31",
+      "startDate": "2028-06-16",
+      "endDate": "2029-01-31",
+      "exactDate": "2028-10-19",
+      "description": "{'en': [\"Loss through others' help\", 'Spiritual transformation', 'Conflicts over joint assets/business', 'Attendance at a funeral'], 'hi': ['दूसरों के सहयोग में हानि', 'आध्यात्मिक परिवर्तन', 'संयुक्त संपत्ति/व्यवसाय पर संघर्ष', 'शोक सभा में शामिल होना']}"
+    },
+    {
+      "aspect": "Plu Sqr Jup",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-09-03 to 2029-12-06",
+      "startDate": "2029-09-03",
+      "endDate": "2029-12-06",
+      "exactDate": "2029-10-21",
+      "description": "{'en': [\"Loss through others' help\", 'Spiritual transformation', 'Conflicts over joint assets/business', 'Attendance at a funeral'], 'hi': ['दूसरों के सहयोग में हानि', 'आध्यात्मिक परिवर्तन', 'संयुक्त संपत्ति/व्यवसाय पर संघर्ष', 'शोक सभा में शामिल होना']}"
+    },
+    {
+      "aspect": "Plu Sqr Mar",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-02-19 to 2026-07-29",
+      "startDate": "2026-02-19",
+      "endDate": "2026-07-29",
+      "exactDate": "2026-05-06",
+      "description": "{'en': ['Power struggles', 'Professional disputes', 'Anger-related conflicts'], 'hi': ['शक्ति के विवाद', 'पेशेवर विवाद', 'गुस्से से जुड़े झगड़े']}"
+    },
+    {
+      "aspect": "Plu Sqr Mar",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-12-29 to 2031-01-23",
+      "startDate": "2026-12-29",
+      "endDate": "2031-01-23",
+      "exactDate": "2029-11-22",
+      "description": "{'en': ['Power struggles', 'Professional disputes', 'Anger-related conflicts'], 'hi': ['शक्ति के विवाद', 'पेशेवर विवाद', 'गुस्से से जुड़े झगड़े']}"
+    },
+    {
+      "aspect": "Plu Sxt Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-01-24 to 2026-02-17",
+      "startDate": "2026-01-24",
+      "endDate": "2026-02-17",
+      "exactDate": "2026-01-22",
+      "description": "PLU Sxt URA transit window"
+    },
+    {
+      "aspect": "Plu Sxt Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-07-31 to 2026-12-27",
+      "startDate": "2026-07-31",
+      "endDate": "2026-12-27",
+      "exactDate": "2026-10-16",
+      "description": "PLU Sxt URA transit window"
+    },
+    {
+      "aspect": "Sat Opp Jup",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-04-18 to 2028-06-25",
+      "startDate": "2028-04-18",
+      "endDate": "2028-06-25",
+      "exactDate": "2028-05-19",
+      "description": "{'en': ['Business challenges', 'Legal and financial issues', 'Conflicts in responsibilities', 'Reputation impact'], 'hi': ['व्यवसाय में चुनौतियाँ', 'कानूनी और आर्थिक समस्याएँ', 'जिम्मेदारियों में मतभेद', 'प्रतिष्ठा पर प्रभाव']}"
+    },
+    {
+      "aspect": "Sat Opp Jup",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-10-22 to 2029-03-16",
+      "startDate": "2028-10-22",
+      "endDate": "2029-03-16",
+      "exactDate": "2029-01-16",
+      "description": "{'en': ['Business challenges', 'Legal and financial issues', 'Conflicts in responsibilities', 'Reputation impact'], 'hi': ['व्यवसाय में चुनौतियाँ', 'कानूनी और आर्थिक समस्याएँ', 'जिम्मेदारियों में मतभेद', 'प्रतिष्ठा पर प्रभाव']}"
+    },
+    {
+      "aspect": "Sat Opp Mar",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-05-18 to 2029-04-17",
+      "startDate": "2028-05-18",
+      "endDate": "2029-04-17",
+      "exactDate": "2029-03-13",
+      "description": "{'en': ['Professional responsibility', 'Conflicts with authorities', 'Legal challenges', 'Health fatigue'], 'hi': ['पेशेवर जिम्मेदारी', 'अधिकारियों से विवाद', 'कानूनी चुनौतियां', 'शारीरिक थकान']}"
+    },
+    {
+      "aspect": "Sat Opp Plu",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-05-07 to 2027-12-07",
+      "startDate": "2027-05-07",
+      "endDate": "2027-12-07",
+      "exactDate": "2027-06-13",
+      "description": "{'en': ['Conflict in relationships', 'Legal issues', 'Business fraud or blackmail'], 'hi': ['संबंधों में संघर्ष', 'कानूनी समस्याएं', 'व्यवसाय में धोखा या ब्लैकमेल']}"
+    },
+    {
+      "aspect": "Sat Opp Plu",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-01-10 to 2028-04-07",
+      "startDate": "2028-01-10",
+      "endDate": "2028-04-07",
+      "exactDate": "2028-03-04",
+      "description": "{'en': ['Conflict in relationships', 'Legal issues', 'Business fraud or blackmail'], 'hi': ['संबंधों में संघर्ष', 'कानूनी समस्याएं', 'व्यवसाय में धोखा या ब्लैकमेल']}"
+    },
+    {
+      "aspect": "Sat Opp Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-03-17 to 2027-05-20",
+      "startDate": "2027-03-17",
+      "endDate": "2027-05-20",
+      "exactDate": "2027-04-17",
+      "description": "{'en': ['Increased responsibilities', 'Legal and financial challenges', 'Property disputes'], 'hi': ['जिम्मेदारियों में वृद्धि', 'कानूनी और वित्तीय चुनौतियाँ', 'संपत्ति विवाद']}"
+    },
+    {
+      "aspect": "Sat Opp Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-11-08 to 2028-02-07",
+      "startDate": "2027-11-08",
+      "endDate": "2028-02-07",
+      "exactDate": "2027-12-24",
+      "description": "{'en': ['Increased responsibilities', 'Legal and financial challenges', 'Property disputes'], 'hi': ['जिम्मेदारियों में वृद्धि', 'कानूनी और वित्तीय चुनौतियाँ', 'संपत्ति विवाद']}"
+    },
+    {
+      "aspect": "Sat Opp Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2030-05-11 to 2030-07-16",
+      "startDate": "2030-05-11",
+      "endDate": "2030-07-16",
+      "exactDate": "2030-06-11",
+      "description": "{'en': ['Conflicts with authorities', 'Sudden unexpected problems', 'Legal or financial obstacles', 'Professional or business losses'], 'hi': ['अधिकारी वर्ग से संघर्ष', 'अचानक अप्रत्याशित समस्याएँ', 'कानूनी या आर्थिक अड़चनें', 'व्यावसायिक या व्यापारिक नुकसान']}"
+    },
+    {
+      "aspect": "Sat Opp Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2030-11-30 to 2031-01-23",
+      "startDate": "2030-11-30",
+      "endDate": "2031-01-23",
+      "exactDate": "2031-01-24",
+      "description": "{'en': ['Conflicts with authorities', 'Sudden unexpected problems', 'Legal or financial obstacles', 'Professional or business losses'], 'hi': ['अधिकारी वर्ग से संघर्ष', 'अचानक अप्रत्याशित समस्याएँ', 'कानूनी या आर्थिक अड़चनें', 'व्यावसायिक या व्यापारिक नुकसान']}"
+    },
+    {
+      "aspect": "Sat Sqr Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-06-11 to 2026-09-11",
+      "startDate": "2026-06-11",
+      "endDate": "2026-09-11",
+      "exactDate": "2026-07-26",
+      "description": "{'en': ['Family challenges', 'Emotional burdens', 'Major life reflections'], 'hi': ['पारिवारिक समस्याएँ', 'भावनात्मक जिम्मेदारियाँ', 'जीवन के बड़े बदलावों पर विचार']}"
+    },
+    {
+      "aspect": "Sat Sqr Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-03-01 to 2027-05-04",
+      "startDate": "2027-03-01",
+      "endDate": "2027-05-04",
+      "exactDate": "2027-04-02",
+      "description": "{'en': ['Family challenges', 'Emotional burdens', 'Major life reflections'], 'hi': ['पारिवारिक समस्याएँ', 'भावनात्मक जिम्मेदारियाँ', 'जीवन के बड़े बदलावों पर विचार']}"
+    },
+    {
+      "aspect": "Sat Sqr Nep",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-01-24 to 2026-02-04",
+      "startDate": "2026-01-24",
+      "endDate": "2026-02-04",
+      "exactDate": "2026-01-22",
+      "description": "{'en': ['Fear and anxiety episodes', 'Professional challenges and lawsuits', 'Mental health struggles', 'Reputation issues'], 'hi': ['भय और चिंता की स्थिति', 'व्यावसायिक चुनौतियाँ और कानूनी मुकदमे', 'मानसिक स्वास्थ्य समस्याएँ', 'प्रतिष्ठा से जुड़ी समस्याएँ']}"
+    },
+    {
+      "aspect": "Sat Sqr Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-06-18 to 2029-12-04",
+      "startDate": "2029-06-18",
+      "endDate": "2029-12-04",
+      "exactDate": "2029-08-01",
+      "description": "{'en': ['Professional challenges', 'Social withdrawal', 'Health concerns'], 'hi': ['पेशेवर चुनौतियाँ', 'सामाजिक अलगाव', 'स्वास्थ्य संबंधी चिंताएँ']}"
+    },
+    {
+      "aspect": "Sat Sqr Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2030-03-06 to 2030-05-15",
+      "startDate": "2030-03-06",
+      "endDate": "2030-05-15",
+      "exactDate": "2030-04-13",
+      "description": "{'en': ['Professional challenges', 'Social withdrawal', 'Health concerns'], 'hi': ['पेशेवर चुनौतियाँ', 'सामाजिक अलगाव', 'स्वास्थ्य संबंधी चिंताएँ']}"
+    },
+    {
+      "aspect": "Sat Sqr Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-04-06 to 2028-06-10",
+      "startDate": "2028-04-06",
+      "endDate": "2028-06-10",
+      "exactDate": "2028-05-07",
+      "description": "{'en': ['Career challenges', 'Relationship conflicts', 'Legal or financial issues'], 'hi': ['व्यवसायिक चुनौतियाँ', 'संबंधों में टकराव', 'कानूनी या वित्तीय समस्याएँ']}"
+    },
+    {
+      "aspect": "Sat Sqr Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-11-10 to 2029-03-01",
+      "startDate": "2028-11-10",
+      "endDate": "2029-03-01",
+      "exactDate": "2029-01-05",
+      "description": "{'en': ['Career challenges', 'Relationship conflicts', 'Legal or financial issues'], 'hi': ['व्यवसायिक चुनौतियाँ', 'संबंधों में टकराव', 'कानूनी या वित्तीय समस्याएँ']}"
+    },
+    {
+      "aspect": "Sat Sxt Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-05-02 to 2029-06-18",
+      "startDate": "2029-05-02",
+      "endDate": "2029-06-18",
+      "exactDate": "2029-05-24",
+      "description": "SAT Sxt MOO transit window"
+    },
+    {
+      "aspect": "Sat Sxt Moo",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-12-03 to 2030-03-06",
+      "startDate": "2029-12-03",
+      "endDate": "2030-03-06",
+      "exactDate": "2030-01-19",
+      "description": "SAT Sxt MOO transit window"
+    },
+    {
+      "aspect": "Sat Sxt Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2030-06-02 to 2030-07-24",
+      "startDate": "2030-06-02",
+      "endDate": "2030-07-24",
+      "exactDate": "2030-06-26",
+      "description": "SAT Sxt VEN transit window"
+    },
+    {
+      "aspect": "Sat Sxt Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2030-11-20 to 2031-01-23",
+      "startDate": "2030-11-20",
+      "endDate": "2031-01-23",
+      "exactDate": "2030-12-29",
+      "description": "SAT Sxt VEN transit window"
+    },
+    {
+      "aspect": "Sat Tri Mer",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2028-07-13 to 2028-10-03",
+      "startDate": "2028-07-13",
+      "endDate": "2028-10-03",
+      "exactDate": "2028-08-22",
+      "description": "{'en': ['Professional planning', 'Technical or scientific study', 'Receiving elder guidance'], 'hi': ['व्यावसायिक योजना', 'तकनीकी या वैज्ञानिक अध्ययन', 'बुजुर्गों से मार्गदर्शन प्राप्ति']}"
+    },
+    {
+      "aspect": "Sat Tri Mer",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2029-03-29 to 2029-05-31",
+      "startDate": "2029-03-29",
+      "endDate": "2029-05-31",
+      "exactDate": "2029-04-29",
+      "description": "{'en': ['Professional planning', 'Technical or scientific study', 'Receiving elder guidance'], 'hi': ['व्यावसायिक योजना', 'तकनीकी या वैज्ञानिक अध्ययन', 'बुजुर्गों से मार्गदर्शन प्राप्ति']}"
+    },
+    {
+      "aspect": "Sat Tri Nep",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2027-05-05 to 2027-12-21",
+      "startDate": "2027-05-05",
+      "endDate": "2027-12-21",
+      "exactDate": "2027-06-11",
+      "description": "{'en': ['Completion of important plans', 'New work strategies', 'Opportunities in hospitals, ashrams, religious or educational institutions', 'Receiving guidance from special personalities', 'Fulfillment of desires', 'Planning new changes'], 'hi': ['महत्वपूर्ण योजनाओं का पूर्ण होना', 'नए कार्य योजनाओं का निर्माण', 'अस्पताल, आश्रम, धार्मिक या शैक्षणिक संस्थाओं में अवसर', 'विशेष व्यक्तित्वों से मार्गदर्शन प्राप्ति', 'इच्छाओं की पूर्ति', 'नए परिवर्तन की रूपरेखा बनाना']}"
+    },
+    {
+      "aspect": "Sat Tri Nep",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2027-12-27 to 2028-04-05",
+      "startDate": "2027-12-27",
+      "endDate": "2028-04-05",
+      "exactDate": "2028-03-02",
+      "description": "{'en': ['Completion of important plans', 'New work strategies', 'Opportunities in hospitals, ashrams, religious or educational institutions', 'Receiving guidance from special personalities', 'Fulfillment of desires', 'Planning new changes'], 'hi': ['महत्वपूर्ण योजनाओं का पूर्ण होना', 'नए कार्य योजनाओं का निर्माण', 'अस्पताल, आश्रम, धार्मिक या शैक्षणिक संस्थाओं में अवसर', 'विशेष व्यक्तित्वों से मार्गदर्शन प्राप्ति', 'इच्छाओं की पूर्ति', 'नए परिवर्तन की रूपरेखा बनाना']}"
+    },
+    {
+      "aspect": "Sat Tri Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2027-04-26 to 2027-08-05",
+      "startDate": "2027-04-26",
+      "endDate": "2027-08-05",
+      "exactDate": "2027-05-30",
+      "description": "{'en': ['Renewal of relationships', 'Career advancement', 'Legal and administrative success', 'Completion of long-term plans', 'Receiving guidance from elders'], 'hi': ['संबंधों का नवीनीकरण', 'करियर में उन्नति', 'कानूनी और प्रशासनिक सफलता', 'दीर्घकालीन योजनाओं की पूर्ति', 'बुजुर्गों से मार्गदर्शन प्राप्ति']}"
+    },
+    {
+      "aspect": "Sat Tri Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2027-08-14 to 2028-03-27",
+      "startDate": "2027-08-14",
+      "endDate": "2028-03-27",
+      "exactDate": "2027-10-24",
+      "description": "{'en': ['Renewal of relationships', 'Career advancement', 'Legal and administrative success', 'Completion of long-term plans', 'Receiving guidance from elders'], 'hi': ['संबंधों का नवीनीकरण', 'करियर में उन्नति', 'कानूनी और प्रशासनिक सफलता', 'दीर्घकालीन योजनाओं की पूर्ति', 'बुजुर्गों से मार्गदर्शन प्राप्ति']}"
+    },
+    {
+      "aspect": "Sat Tri Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2026-01-24 to 2026-03-29",
+      "startDate": "2026-01-24",
+      "endDate": "2026-03-29",
+      "exactDate": "2026-02-24",
+      "description": "{'en': ['Creative realization', 'Scientific or esoteric study', 'Professional advancement', 'Joint business or investment success'], 'hi': ['रचनात्मक साकारता', 'वैज्ञानिक या रहस्यमय अध्ययन', 'पेशेवर उन्नति', 'संयुक्त व्यवसाय या निवेश की सफलता']}"
+    },
+    {
+      "aspect": "Sat Tri Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2026-02-05 to 2026-04-12",
+      "startDate": "2026-02-05",
+      "endDate": "2026-04-12",
+      "exactDate": "2026-03-11",
+      "description": "{'en': ['Reconnection with past commitments', 'Building stable relationships', 'Deepening trust'], 'hi': ['पुराने संबंधों का पुनः जुड़ाव', 'स्थिर संबंध बनाना', 'विश्वास को गहरा करना']}"
+    },
+    {
+      "aspect": "Ura Opp Nep",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2030-07-23 to 2030-12-07",
+      "startDate": "2030-07-23",
+      "endDate": "2030-12-07",
+      "exactDate": "2030-09-28",
+      "description": "{'en': ['Mental instability episodes', 'Conflicts in goals and cooperation', 'Financial fraud or deception', 'Political and economic instability'], 'hi': ['मानसिक अस्थिरता की स्थिति', 'लक्ष्य और सहयोग में द्वंद्व', 'वित्तीय धोखा या छल', 'राजनीतिक और आर्थिक अस्थिरता']}"
+    },
+    {
+      "aspect": "Ura Opp Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-01-24 to 2026-08-07",
+      "startDate": "2026-01-24",
+      "endDate": "2026-08-07",
+      "exactDate": "2026-05-17",
+      "description": "{'en': ['Conflicts', 'Business instability', 'Financial losses', 'Relationship fractures'], 'hi': ['संघर्ष', 'व्यावसायिक अस्थिरता', 'आर्थिक हानि', 'संबंधों में दरार']}"
+    },
+    {
+      "aspect": "Ura Opp Ura",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-10-15 to 2027-05-18",
+      "startDate": "2026-10-15",
+      "endDate": "2027-05-18",
+      "exactDate": "2027-02-08",
+      "description": "{'en': ['Conflicts', 'Business instability', 'Financial losses', 'Relationship fractures'], 'hi': ['संघर्ष', 'व्यावसायिक अस्थिरता', 'आर्थिक हानि', 'संबंधों में दरार']}"
+    },
+    {
+      "aspect": "Ura Sqr Mer",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2027-08-30 to 2027-10-01",
+      "startDate": "2027-08-30",
+      "endDate": "2027-10-01",
+      "exactDate": "2027-09-15",
+      "description": "URA Sqr MER transit window"
+    },
+    {
+      "aspect": "Ura Sqr Mer",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-05-28 to 2029-08-14",
+      "startDate": "2028-05-28",
+      "endDate": "2029-08-14",
+      "exactDate": "2028-08-19",
+      "description": "URA Sqr MER transit window"
+    },
+    {
+      "aspect": "Ura Sqr Mer",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2029-11-04 to 2030-05-27",
+      "startDate": "2029-11-04",
+      "endDate": "2030-05-27",
+      "exactDate": "2030-02-20",
+      "description": "URA Sqr MER transit window"
+    },
+    {
+      "aspect": "Ura Sqr Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-01-24 to 2026-03-05",
+      "startDate": "2026-01-24",
+      "endDate": "2026-03-05",
+      "exactDate": "2026-02-04",
+      "description": "{'en': ['Conflicts over responsibilities', 'Challenges in balancing freedom and duties', 'Tense interpersonal situations'], 'hi': ['जिम्मेदारियों को लेकर संघर्ष', 'स्वतंत्रता और कर्तव्यों के बीच संतुलन की चुनौतियाँ', 'तनावपूर्ण पारस्परिक स्थितियाँ']}"
+    },
+    {
+      "aspect": "Ura Sxt Sun",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2030-07-20 to 2030-12-11",
+      "startDate": "2030-07-20",
+      "endDate": "2030-12-11",
+      "exactDate": "2030-09-28",
+      "description": "URA Sxt SUN transit window"
+    },
+    {
+      "aspect": "Ura Sxt Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2026-04-27 to 2027-06-01",
+      "startDate": "2026-04-27",
+      "endDate": "2027-06-01",
+      "exactDate": "2026-06-18",
+      "description": "URA Sxt VEN transit window"
+    },
+    {
+      "aspect": "Ura Sxt Ven",
+      "eventType": "MAJOR",
+      "aspectNature": "Negative",
+      "timePeriod": "2028-01-28 to 2028-02-29",
+      "startDate": "2028-01-28",
+      "endDate": "2028-02-29",
+      "exactDate": "2028-02-12",
+      "description": "URA Sxt VEN transit window"
+    },
+    {
+      "aspect": "Ura Tri Plu",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2030-07-28 to 2030-12-02",
+      "startDate": "2030-07-28",
+      "endDate": "2030-12-02",
+      "exactDate": "2030-09-28",
+      "description": "{'en': ['Creative project development', 'Spiritual transformation', 'Joint business ventures', 'Inheritance or property matters'], 'hi': ['रचनात्मक परियोजनाओं का विकास', 'आध्यात्मिक परिवर्तन', 'संयुक्त व्यवसाय', 'विरासत या संपत्ति संबंधी मामले']}"
+    },
+    {
+      "aspect": "Ura Tri Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2029-06-14 to 2030-01-22",
+      "startDate": "2029-06-14",
+      "endDate": "2030-01-22",
+      "exactDate": "2029-09-23",
+      "description": "{'en': ['Creative project development', 'Professional advancement', 'Joint business or investment decisions'], 'hi': ['रचनात्मक परियोजना विकास', 'पेशेवर उन्नति', 'संयुक्त व्यवसाय या निवेश के फैसले']}"
+    },
+    {
+      "aspect": "Ura Tri Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2030-03-23 to 2030-09-26",
+      "startDate": "2030-03-23",
+      "endDate": "2030-09-26",
+      "exactDate": "2030-06-13",
+      "description": "{'en': ['Creative project development', 'Professional advancement', 'Joint business or investment decisions'], 'hi': ['रचनात्मक परियोजना विकास', 'पेशेवर उन्नति', 'संयुक्त व्यवसाय या निवेश के फैसले']}"
+    },
+    {
+      "aspect": "Ura Tri Sat",
+      "eventType": "MAJOR",
+      "aspectNature": "Positive",
+      "timePeriod": "2030-10-01 to 2031-01-23",
+      "startDate": "2030-10-01",
+      "endDate": "2031-01-23",
+      "exactDate": "2031-01-24",
+      "description": "{'en': ['Creative project development', 'Professional advancement', 'Joint business or investment decisions'], 'hi': ['रचनात्मक परियोजना विकास', 'पेशेवर उन्नति', 'संयुक्त व्यवसाय या निवेश के फैसले']}"
+    }
+  ]
+}

@@ -10,53 +10,124 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Square between Jupiter and Moon drives friction/work. Jupiter: growth, wisdom, mentor, law, faith, abundance. Moon: emotion, care, habits, home, public mood, mother. General tenor: growth via friction; endurance and clear boundaries are key.",
-  "facets": {
-    "career": "Mentorship, promotions, strategic expansion.  Public reception, brand sentiment, consistency. Emphasis: friction/work.",
-    "relationships": "Goodwill, generosity, shared purpose.  Bonding, nurturance, emotional safety. Emphasis: friction/work.",
-    "money": "Scaling revenue, windfalls, ethical growth.  Cyclic cashflow, consumer sentiment. Emphasis: friction/work.",
-    "health_adj": "Liver, metabolic balance; avoid excess.  Hydration, sleep, digestion; stress sensitivity. Emphasis: friction/work."
+  "core_meaning": {
+    "en": "This aspect indicates a period of over-expectation, impulsive spending, and emotional excess that may lead to conflicts and loss of self-control.",
+    "hi": "यह योग अधिक उम्मीदें, आवेगी खर्च और भावुकता की अधिकता का समय दर्शाता है, जो मतभेद और आत्म-नियंत्रण खोने का कारण बन सकता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Jupiter: mentor, expand, publish; Moon: nurture, align routines, soft-launch; tone: friction/work).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Jupiter: mentor, expand, publish; Moon: nurture, align routines, soft-launch; tone: friction/work)."
+  "facets": {
+    "career": {
+      "en": "Impulsive decisions without proper thought can affect professional relationships and work environment negatively.",
+      "hi": "बिना सोच-विचार के लिए गए निर्णय पेशेवर संबंधों और कार्यस्थल के माहौल को प्रभावित कर सकते हैं।"
+    },
+    "relationships": {
+      "en": "Emotional excess and attempts to control others may cause family, religious, or cultural conflicts.",
+      "hi": "भावुकता की अधिकता और दूसरों को नियंत्रित करने के प्रयास पारिवारिक, धार्मिक या सांस्कृतिक मतभेद ला सकते हैं।"
+    },
+    "money": {
+      "en": "There is a risk of overspending and unplanned investments leading to financial instability.",
+      "hi": "अधिक खर्च और अनियोजित निवेश से आर्थिक अस्थिरता की संभावना रहती है।"
+    },
+    "health_adj": {
+      "en": "Pay attention to eating habits as weight gain is possible due to emotional excess.",
+      "hi": "भावुकता की अधिकता के कारण खानपान पर ध्यान दें क्योंकि मोटापा बढ़ सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Financial decisions",
+      "Family or cultural conflicts",
+      "Emotional challenges"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Jupiter: mentor, expand, publish; Moon: nurture, align routines, soft-launch; tone: friction/work).",
-      "Make the decisive call; accept/decline offers consciously. (Jupiter: mentor, expand, publish; Moon: nurture, align routines, soft-launch; tone: friction/work)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Jupiter: mentor, expand, publish; Moon: nurture, align routines, soft-launch; tone: friction/work).",
-      "Close loops, stabilize routines, prune scope creep. (Jupiter: mentor, expand, publish; Moon: nurture, align routines, soft-launch; tone: friction/work)."
+    "hi": [
+      "आर्थिक निर्णय",
+      "पारिवारिक या सांस्कृतिक मतभेद",
+      "भावनात्मक चुनौतियाँ"
     ]
   },
-  "keywords": [
-    "abundance",
-    "care",
-    "emotion",
-    "faith",
-    "friction",
-    "growth",
-    "habits",
-    "home",
-    "law",
-    "mentor",
-    "mother",
-    "public mood",
-    "square",
-    "wisdom",
-    "work"
-  ],
-  "quality_tags": [
-    "major",
-    "challenging"
-  ],
+  "risk_notes": {
+    "en": [
+      "Over-expectation may lead to disappointment.",
+      "Impulsive spending can cause financial strain.",
+      "Emotional excess may result in loss of self-control or controlling behavior."
+    ],
+    "hi": [
+      "अधिक उम्मीदें निराशा ला सकती हैं।",
+      "आवेगी खर्च आर्थिक दबाव पैदा कर सकता है।",
+      "भावुकता की अधिकता से आत्म-नियंत्रण खोना या दूसरों को नियंत्रित करना हो सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Review financial plans carefully before investing.",
+        "Practice emotional awareness to avoid conflicts.",
+        "Monitor eating habits to prevent weight gain."
+      ],
+      "hi": [
+        "निवेश से पहले वित्तीय योजनाओं की सावधानीपूर्वक समीक्षा करें।",
+        "मतभेद से बचने के लिए भावनात्मक जागरूकता अपनाएं।",
+        "मोटापा बढ़ने से बचने के लिए खानपान पर ध्यान दें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid making impulsive promises or boasts.",
+        "Stay mindful of emotional reactions.",
+        "Refrain from unplanned expenses."
+      ],
+      "hi": [
+        "आवेगी वादे या दिखावा करने से बचें।",
+        "भावनात्मक प्रतिक्रियाओं के प्रति सजग रहें।",
+        "अनियोजित खर्च से परहेज करें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on recent decisions and adjust plans accordingly.",
+        "Restore balance in relationships by reducing control attempts.",
+        "Focus on stabilizing financial habits."
+      ],
+      "hi": [
+        "हाल के निर्णयों पर विचार करें और योजनाओं को समायोजित करें।",
+        "नियंत्रण के प्रयास कम करके संबंधों में संतुलन बहाल करें।",
+        "वित्तीय आदतों को स्थिर करने पर ध्यान दें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "over-expectation",
+      "overspending",
+      "emotional excess",
+      "conflicts",
+      "unplanned investments",
+      "self-control",
+      "weight gain"
+    ],
+    "hi": [
+      "अधिक उम्मीदें",
+      "ज्यादा खर्च",
+      "भावुकता की अधिकता",
+      "मतभेद",
+      "अनियोजित निवेश",
+      "आत्म-नियंत्रण",
+      "मोटापा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "caution",
+      "emotional intensity",
+      "financial risk",
+      "interpersonal tension"
+    ],
+    "hi": [
+      "सावधानी",
+      "भावनात्मक तीव्रता",
+      "आर्थिक जोखिम",
+      "अंतरव्यक्तिगत तनाव"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -110,36 +181,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "emotional management",
+      "financial prudence",
+      "relationship dynamics"
+    ],
+    "hi": [
+      "भावनात्मक प्रबंधन",
+      "वित्तीय सतर्कता",
+      "संबंधों की गतिशीलता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-02-07"
   },
   "locales": {
     "en": {
-      "title": "Jupiter Square Moon",
-      "core": "Square between Jupiter and Moon drives friction/work. Jupiter: growth, wisdom, mentor, law, faith, abundance. Moon: emotion, care, habits, home, public mood, mother. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "tone": "warm"
+      "title": "jup-squ-moo",
+      "core": "A time marked by emotional intensity and financial caution to avoid conflicts and impulsive actions.",
+      "tone": "Warm, neutral, and advisory"
     },
     "hi": {
-      "title": "Jupiter Square Moon (हिन्दी)",
-      "core": "Jupiter और Moon का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बृहस्पति वर्ग चंद्र",
+      "core": "भावनात्मक तीव्रता और आर्थिक सतर्कता का समय, जो मतभेद और आवेगी कार्यों से बचने की सलाह देता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सलाहकार"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Square between Jupiter and Moon drives friction/work. Jupiter: growth, wisdom, mentor, law, faith, abundance. Moon: emotion, care, habits, home, public mood, mother. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "career": "Mentorship, promotions, strategic expansion.  Public reception, brand sentiment, consistency. Emphasis: friction/work.",
-      "relationships": "Goodwill, generosity, shared purpose.  Bonding, nurturance, emotional safety. Emphasis: friction/work.",
-      "money": "Scaling revenue, windfalls, ethical growth.  Cyclic cashflow, consumer sentiment. Emphasis: friction/work.",
-      "health_adj": "Liver, metabolic balance; avoid excess.  Hydration, sleep, digestion; stress sensitivity. Emphasis: friction/work."
+      "core": {
+        "en": "This period may lead to over-expectation, overspending, or unplanned investments. Decisions taken without proper thought can cause family, religious, or cultural conflicts. Due to emotional excess, one may lose control over themselves or try to control others.",
+        "hi": "यह समय अधिक उम्मीदेंए ज्यादा खर्च या अनियोजित निवेश की स्थिति ला सकता है। बिना सोचे.समझे निर्णय लेने से पारिवारिकए धार्मिक या सांस्कृतिक मतभेद हो सकते हैं। भावुकता अधिक होने के कारण कोई व्यक्ति खुद पर नियंत्रण खो सकता है या दूसरों को नियंत्रित करने की कोशिश कर सकता है।"
+      },
+      "career": {
+        "en": "Decisions taken without proper thought can cause conflicts affecting professional relationships.",
+        "hi": "बिना सोच-विचार के लिए गए निर्णय पेशेवर संबंधों को प्रभावित कर सकते हैं।"
+      },
+      "relationships": {
+        "en": "Emotional excess may cause family, religious, or cultural conflicts and attempts to control others.",
+        "hi": "भावुकता की अधिकता पारिवारिक, धार्मिक या सांस्कृतिक मतभेद और दूसरों को नियंत्रित करने के प्रयास ला सकती है।"
+      },
+      "money": {
+        "en": "Indicates potential for reckless expenses or unplanned investments leading to financial instability.",
+        "hi": "अनियंत्रित खर्च या निवेश की संभावना रहेगी जो आर्थिक अस्थिरता ला सकती है।"
+      },
+      "health_adj": {
+        "en": "Pay special attention to eating habits as weight gain is possible due to emotional excess.",
+        "hi": "खानपान पर विशेष /यान देना चाहिए क्योंकि मोटापा बढ़ सकता है।"
+      }
     },
     "aliases": [
       "Jupiter square Moon",

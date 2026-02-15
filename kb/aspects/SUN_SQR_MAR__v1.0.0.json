@@ -10,53 +10,126 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Square between Sun and Mars drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: growth via friction; endurance and clear boundaries are key.",
-  "facets": {
-    "career": "Authority, recognition, leadership, alignment with purpose.  Execution speed, competition, technical grit. Emphasis: friction/work.",
-    "relationships": "Self-respect, healthy boundaries, paternal figures.  Desire, boundaries, anger management. Emphasis: friction/work.",
-    "money": "Status-linked income, government/authority-linked gains.  Risk-capital, decisive investments, initiative-led gains. Emphasis: friction/work.",
-    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Inflammation, accidents; channel via training. Emphasis: friction/work."
+  "core_meaning": {
+    "en": "Irrational actions, provoked anger, and imposing one's will can cause conflicts, disputes, and possible serious harm or accidents. Excessive stress may affect heart health.",
+    "hi": "अव्यवहारिक क्रियाएं, उत्तेजित क्रोध, और अपनी इच्छा दूसरों पर थोपना झगड़े, विवाद और गंभीर हानि या दुर्घटना का कारण बन सकते हैं। अत्यधिक तनाव हृदय स्वास्थ्य को प्रभावित कर सकता है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries.",
-    "Impulsive actions or accidents; channel energy into training."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Mars: execute, train, assert; tone: friction/work).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Mars: execute, train, assert; tone: friction/work)."
+  "facets": {
+    "career": {
+      "en": "Provocative behavior and imposing will may lead to disputes or conflicts at work.",
+      "hi": "उत्तेजनात्मक व्यवहार और अपनी इच्छा थोपने से कार्यस्थल पर विवाद या झगड़ा हो सकता है।"
+    },
+    "relationships": {
+      "en": "Anger, malice, and sulking behavior can cause disagreements and quarrels in relationships.",
+      "hi": "क्रोध, द्वेष और कुढ़ने वाले व्यवहार से संबंधों में मतभेद और झगड़े हो सकते हैं।"
+    },
+    "money": {
+      "en": "Unnecessary expenses and revenge-driven spending may create financial problems.",
+      "hi": "अनावश्यक व्यय और प्रतिशोध से प्रेरित खर्च वित्तीय समस्याएं उत्पन्न कर सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Excessive stress may lead to heart disease; risk of serious accidents or physical harm exists.",
+      "hi": "अत्यधिक तनाव हृदय रोग का कारण बन सकता है; गंभीर दुर्घटना या शारीरिक हानि का खतरा हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "conflicts",
+      "disputes",
+      "accidents",
+      "stress-related health issues"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Mars: execute, train, assert; tone: friction/work).",
-      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Mars: execute, train, assert; tone: friction/work)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Mars: execute, train, assert; tone: friction/work).",
-      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Mars: execute, train, assert; tone: friction/work)."
+    "hi": [
+      "झगड़े",
+      "विवाद",
+      "दुर्घटनाएं",
+      "तनाव से संबंधित स्वास्थ्य समस्याएं"
     ]
   },
-  "keywords": [
-    "assertion",
-    "authority",
-    "conflict",
-    "drive",
-    "ego",
-    "friction",
-    "identity",
-    "mechanics",
-    "purpose",
-    "square",
-    "surgery",
-    "visibility",
-    "vitality",
-    "work"
-  ],
-  "quality_tags": [
-    "major",
-    "challenging",
-    "discipline-required"
-  ],
+  "risk_notes": {
+    "en": [
+      "Provocative anger can escalate conflicts.",
+      "Excessive stress may impact heart health.",
+      "Danger of serious physical harm or accidents."
+    ],
+    "hi": [
+      "उत्तेजित क्रोध झगड़ों को बढ़ा सकता है।",
+      "अत्यधिक तनाव हृदय स्वास्थ्य को प्रभावित कर सकता है।",
+      "गंभीर शारीरिक हानि या दुर्घटना का खतरा।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Manage anger and avoid provoking others.",
+        "Control unnecessary expenses.",
+        "Practice stress reduction techniques."
+      ],
+      "hi": [
+        "क्रोध को नियंत्रित करें और दूसरों को उत्तेजित न करें।",
+        "अनावश्यक खर्चों को नियंत्रित करें।",
+        "तनाव कम करने की तकनीक अपनाएं।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Be cautious of impulsive actions and harsh words.",
+        "Avoid imposing your will aggressively.",
+        "Stay alert to prevent accidents."
+      ],
+      "hi": [
+        "आवेगपूर्ण कार्यों और कठोर शब्दों से सावधान रहें।",
+        "अपनी इच्छा को जबरदस्ती थोपने से बचें।",
+        "दुर्घटनाओं से बचने के लिए सतर्क रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on causes of anger and resentment.",
+        "Seek calm and avoid conflicts.",
+        "Focus on healing and stress relief."
+      ],
+      "hi": [
+        "क्रोध और द्वेष के कारणों पर विचार करें।",
+        "शांत रहें और झगड़ों से बचें।",
+        "स्वास्थ्य सुधार और तनाव मुक्ति पर ध्यान दें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "irrational behavior",
+      "anger",
+      "revenge",
+      "conflict",
+      "stress",
+      "accident",
+      "heart disease"
+    ],
+    "hi": [
+      "अव्यवहारिक व्यवहार",
+      "क्रोध",
+      "प्रतिशोध",
+      "झगड़ा",
+      "तनाव",
+      "दुर्घटना",
+      "हृदय रोग"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "provocative",
+      "excessive",
+      "dangerous",
+      "stressful"
+    ],
+    "hi": [
+      "उत्तेजनात्मक",
+      "अत्यधिक",
+      "खतरनाक",
+      "तनावपूर्ण"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -110,36 +183,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "conflict escalation",
+      "emotional volatility",
+      "health caution"
+    ],
+    "hi": [
+      "झगड़ा बढ़ना",
+      "भावनात्मक अस्थिरता",
+      "स्वास्थ्य सावधानी"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-02-07"
   },
   "locales": {
     "en": {
-      "title": "Sun Square Mars",
-      "core": "Square between Sun and Mars drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "tone": "warm"
+      "title": "sun-squ-mar",
+      "core": "This aspect indicates potential for conflict through anger, irrational actions, and stress, possibly leading to disputes and health risks.",
+      "tone": "Neutral, cautionary, and informative"
     },
     "hi": {
-      "title": "Sun Square Mars (हिन्दी)",
-      "core": "Sun और Mars का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "सूर्य वर्ग मंगल",
+      "core": "यह योग क्रोध, अव्यवहारिक क्रियाओं और तनाव के कारण विवाद और स्वास्थ्य जोखिम की संभावना दर्शाता है।",
+      "tone": "तटस्थ, सावधान, और सूचनात्मक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Square between Sun and Mars drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "career": "Authority, recognition, leadership, alignment with purpose.  Execution speed, competition, technical grit. Emphasis: friction/work.",
-      "relationships": "Self-respect, healthy boundaries, paternal figures.  Desire, boundaries, anger management. Emphasis: friction/work.",
-      "money": "Status-linked income, government/authority-linked gains.  Risk-capital, decisive investments, initiative-led gains. Emphasis: friction/work.",
-      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Inflammation, accidents; channel via training. Emphasis: friction/work."
+      "core": {
+        "en": "Irrational actions, provoked anger, and imposing one's will can cause conflicts, disputes, and possible serious harm or accidents. Excessive stress may affect heart health.",
+        "hi": "अव्यवहारिक क्रियाएं, उत्तेजित क्रोध, और अपनी इच्छा दूसरों पर थोपना झगड़े, विवाद और गंभीर हानि या दुर्घटना का कारण बन सकते हैं। अत्यधिक तनाव हृदय स्वास्थ्य को प्रभावित कर सकता है।"
+      },
+      "career": {
+        "en": "Provocative behavior and imposing will may lead to disputes or conflicts at work.",
+        "hi": "उत्तेजनात्मक व्यवहार और अपनी इच्छा थोपने से कार्यस्थल पर विवाद या झगड़ा हो सकता है।"
+      },
+      "relationships": {
+        "en": "Anger, malice, and sulking behavior can cause disagreements and quarrels in relationships.",
+        "hi": "क्रोध, द्वेष और कुढ़ने वाले व्यवहार से संबंधों में मतभेद और झगड़े हो सकते हैं।"
+      },
+      "money": {
+        "en": "Unnecessary expenses and revenge-driven spending may create financial problems.",
+        "hi": "अनावश्यक व्यय और प्रतिशोध से प्रेरित खर्च वित्तीय समस्याएं उत्पन्न कर सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Excessive stress may lead to heart disease; risk of serious accidents or physical harm exists.",
+        "hi": "अत्यधिक तनाव हृदय रोग का कारण बन सकता है; गंभीर दुर्घटना या शारीरिक हानि का खतरा हो सकता है।"
+      }
     },
     "aliases": [
       "Sun square Mars",

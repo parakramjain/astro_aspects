@@ -10,54 +10,136 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Square between Jupiter and Mars drives friction/work. Jupiter: growth, wisdom, mentor, law, faith, abundance. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: growth via friction; endurance and clear boundaries are key.",
-  "facets": {
-    "career": "Mentorship, promotions, strategic expansion.  Execution speed, competition, technical grit. Emphasis: friction/work.",
-    "relationships": "Goodwill, generosity, shared purpose.  Desire, boundaries, anger management. Emphasis: friction/work.",
-    "money": "Scaling revenue, windfalls, ethical growth.  Risk-capital, decisive investments, initiative-led gains. Emphasis: friction/work.",
-    "health_adj": "Liver, metabolic balance; avoid excess.  Inflammation, accidents; channel via training. Emphasis: friction/work."
+  "core_meaning": {
+    "en": "Increased ego, stubbornness, and narrow-mindedness lead to wasteful spending and overambition in social and professional fields, causing losses and problems from unprepared efforts. Caution is advised in financial, legal, and foreign dealings.",
+    "hi": "अहंकार, हठधर्मिता और संकीर्ण विचारधारा बढ़ने से अनावश्यक खर्च और सामाजिक व पेशेवर क्षेत्रों में अत्यधिक महत्वाकांक्षा होती है, जिससे बिना तैयारी के प्रयासों से हानि और समस्याएँ उत्पन्न होती हैं। आर्थिक, कानूनी और विदेशी व्यवहार में सावधानी आवश्यक है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries.",
-    "Impulsive actions or accidents; channel energy into training.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Jupiter: mentor, expand, publish; Mars: execute, train, assert; tone: friction/work).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Jupiter: mentor, expand, publish; Mars: execute, train, assert; tone: friction/work)."
+  "facets": {
+    "career": {
+      "en": "Overambition for positions in religious, social, political, or educational fields may lead to problems due to lack of preparation. New ventures should be avoided during this period.",
+      "hi": "धार्मिक, सामाजिक, राजनीतिक या शैक्षणिक क्षेत्रों में स्थान प्राप्ति के लिए अत्यधिक महत्वाकांक्षा बिना तैयारी के समस्याएँ ला सकती है। इस समय नए कार्य प्रारंभ न करें।"
+    },
+    "relationships": {
+      "en": "Joint assets, businesses, legal matters, and dealings with foreigners require extreme caution to avoid deception and losses.",
+      "hi": "संयुक्त संपत्ति, व्यवसाय, कानूनी मामले और विदेशियों से व्यवहार में धोखे और हानि से बचने के लिए अत्यधिक सावधानी आवश्यक है।"
+    },
+    "money": {
+      "en": "Tendency to waste money on rituals and showy activities; overspending and financial deception risks are high. Business fluctuations may cause losses.",
+      "hi": "रीति-रिवाजों और दिखावटी कार्यों में अनावश्यक खर्च की प्रवृत्ति; अत्यधिक खर्च और आर्थिक धोखे का खतरा रहता है। व्यापार में उतार-चढ़ाव से हानि हो सकती है।"
+    },
+    "health_adj": {
+      "en": "Risk of physical deception and losses due to carelessness, instability, and irresponsibility; travel scams are possible.",
+      "hi": "असावधानी, अस्थिरता और गैर-जिम्मेदारी से शारीरिक धोखे और हानि का खतरा; यात्रा में धोखा होने की संभावना रहती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Financial losses",
+      "Legal issues",
+      "Business fluctuations",
+      "Travel complications"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Jupiter: mentor, expand, publish; Mars: execute, train, assert; tone: friction/work).",
-      "Make the decisive call; accept/decline offers consciously. (Jupiter: mentor, expand, publish; Mars: execute, train, assert; tone: friction/work)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Jupiter: mentor, expand, publish; Mars: execute, train, assert; tone: friction/work).",
-      "Close loops, stabilize routines, prune scope creep. (Jupiter: mentor, expand, publish; Mars: execute, train, assert; tone: friction/work)."
+    "hi": [
+      "आर्थिक हानि",
+      "कानूनी समस्याएँ",
+      "व्यवसाय में उतार-चढ़ाव",
+      "यात्रा में कठिनाइयाँ"
     ]
   },
-  "keywords": [
-    "abundance",
-    "assertion",
-    "conflict",
-    "drive",
-    "faith",
-    "friction",
-    "growth",
-    "law",
-    "mechanics",
-    "mentor",
-    "square",
-    "surgery",
-    "wisdom",
-    "work"
-  ],
-  "quality_tags": [
-    "major",
-    "challenging",
-    "discipline-required"
-  ],
+  "risk_notes": {
+    "en": [
+      "Avoid starting new ventures during this period.",
+      "Be cautious in foreign trade and dealings.",
+      "Watch for overspending and financial deception.",
+      "Risk of losses from carelessness and instability."
+    ],
+    "hi": [
+      "इस समय नए कार्य प्रारंभ न करें।",
+      "विदेशी व्यापार और व्यवहार में सावधानी रखें।",
+      "अत्यधिक खर्च और आर्थिक धोखे से बचें।",
+      "असावधानी और अस्थिरता से हानि का खतरा।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in financial and legal matters.",
+        "Avoid impulsive spending on rituals or showy events.",
+        "Be realistic about ambitions in social and professional fields."
+      ],
+      "hi": [
+        "आर्थिक और कानूनी मामलों में सावधानी बरतें।",
+        "रीति-रिवाजों या दिखावटी कार्यों में आवेगी खर्च से बचें।",
+        "सामाजिक और पेशेवर क्षेत्रों में महत्वाकांक्षा को यथार्थवादी रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Do not start new projects or ventures.",
+        "Avoid risky financial decisions.",
+        "Be vigilant about joint assets and business dealings."
+      ],
+      "hi": [
+        "नए प्रोजेक्ट या कार्य प्रारंभ न करें।",
+        "जोखिम भरे आर्थिक निर्णयों से बचें।",
+        "संयुक्त संपत्ति और व्यवसाय में सतर्क रहें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradually reduce overspending habits.",
+        "Reassess ambitions and plans with better preparation.",
+        "Increase caution in travel and foreign interactions."
+      ],
+      "hi": [
+        "अत्यधिक खर्च की आदतें धीरे-धीरे कम करें।",
+        "बेहतर तैयारी के साथ महत्वाकांक्षा और योजनाओं का पुनर्मूल्यांकन करें।",
+        "यात्रा और विदेशी व्यवहार में सावधानी बढ़ाएं।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "ego",
+      "stubbornness",
+      "narrow-mindedness",
+      "overspending",
+      "overambition",
+      "losses",
+      "financial deception",
+      "legal issues",
+      "business fluctuations",
+      "travel scams"
+    ],
+    "hi": [
+      "अहंकार",
+      "हठधर्मिता",
+      "संकीर्ण विचारधारा",
+      "अत्यधिक खर्च",
+      "अत्यधिक महत्वाकांक्षा",
+      "हानि",
+      "आर्थिक धोखा",
+      "कानूनी समस्याएँ",
+      "व्यवसाय में उतार-चढ़ाव",
+      "यात्रा में धोखा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "caution",
+      "risk",
+      "instability",
+      "overambition",
+      "financial vigilance"
+    ],
+    "hi": [
+      "सावधानी",
+      "जोखिम",
+      "अस्थिरता",
+      "अत्यधिक महत्वाकांक्षा",
+      "आर्थिक सतर्कता"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -111,36 +193,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "ego and stubbornness",
+      "financial caution",
+      "ambition and preparation",
+      "legal and business risks",
+      "travel vigilance"
+    ],
+    "hi": [
+      "अहंकार और हठधर्मिता",
+      "आर्थिक सावधानी",
+      "महत्वाकांक्षा और तैयारी",
+      "कानूनी और व्यवसायिक जोखिम",
+      "यात्रा में सतर्कता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-02-07"
   },
   "locales": {
     "en": {
-      "title": "Jupiter Square Mars",
-      "core": "Square between Jupiter and Mars drives friction/work. Jupiter: growth, wisdom, mentor, law, faith, abundance. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "tone": "warm"
+      "title": "jup-squ-mar",
+      "core": "This aspect indicates increased ego and stubbornness, leading to overambition and financial risks. Caution is advised in new ventures, legal matters, and foreign dealings.",
+      "tone": "Warm, neutral, and advisory"
     },
     "hi": {
-      "title": "Jupiter Square Mars (हिन्दी)",
-      "core": "Jupiter और Mars का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बृहस्पति वर्ग मंगल",
+      "core": "यह योग अहंकार और हठधर्मिता बढ़ाने वाला है, जिससे अत्यधिक महत्वाकांक्षा और आर्थिक जोखिम होते हैं। नए कार्य, कानूनी मामले और विदेशी व्यवहार में सावधानी आवश्यक है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सलाहमूलक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Square between Jupiter and Mars drives friction/work. Jupiter: growth, wisdom, mentor, law, faith, abundance. Mars: drive, assertion, surgery, mechanics, conflict. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "career": "Mentorship, promotions, strategic expansion.  Execution speed, competition, technical grit. Emphasis: friction/work.",
-      "relationships": "Goodwill, generosity, shared purpose.  Desire, boundaries, anger management. Emphasis: friction/work.",
-      "money": "Scaling revenue, windfalls, ethical growth.  Risk-capital, decisive investments, initiative-led gains. Emphasis: friction/work.",
-      "health_adj": "Liver, metabolic balance; avoid excess.  Inflammation, accidents; channel via training. Emphasis: friction/work."
+      "core": {
+        "en": "Increased ego, stubbornness, narrow-mindedness causing wasteful spending and overambition, leading to losses and problems from unprepared efforts.",
+        "hi": "अहंकार, हठधर्मिता, संकीर्ण विचारधारा बढ़ने से अनावश्यक खर्च और अत्यधिक महत्वाकांक्षा, बिना तैयारी के प्रयासों से हानि और समस्याएँ।"
+      },
+      "career": {
+        "en": "Overambition in religious, social, political, and educational fields with risks from unprepared efforts; new ventures discouraged.",
+        "hi": "धार्मिक, सामाजिक, राजनीतिक और शैक्षणिक क्षेत्रों में अत्यधिक महत्वाकांक्षा और बिना तैयारी के प्रयासों से जोखिम; नए कार्यों से बचें।"
+      },
+      "relationships": {
+        "en": "Issues possible in joint assets, businesses, legal matters, and foreign dealings requiring extreme caution.",
+        "hi": "संयुक्त संपत्ति, व्यवसाय, कानूनी मामले और विदेशी व्यवहार में समस्याएँ संभव, अत्यधिक सावधानी आवश्यक।"
+      },
+      "money": {
+        "en": "Wastage on rituals and showy activities, overspending, financial deception risks, and business fluctuations causing losses.",
+        "hi": "रीति-रिवाजों और दिखावटी कार्यों में खर्च, अत्यधिक खर्च, आर्थिक धोखा और व्यापार में उतार-चढ़ाव से हानि।"
+      },
+      "health_adj": {
+        "en": "Risk of physical deception and losses due to carelessness, instability, irresponsibility; travel scams possible.",
+        "hi": "असावधानी, अस्थिरता, गैर-जिम्मेदारी से शारीरिक धोखा और हानि का खतरा; यात्रा में धोखा संभव।"
+      }
     },
     "aliases": [
       "Jupiter square Mars",

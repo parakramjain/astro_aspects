@@ -10,54 +10,128 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Square between Sun and Jupiter drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: growth via friction; endurance and clear boundaries are key.",
-  "facets": {
-    "career": "Authority, recognition, leadership, alignment with purpose.  Mentorship, promotions, strategic expansion. Emphasis: friction/work.",
-    "relationships": "Self-respect, healthy boundaries, paternal figures.  Goodwill, generosity, shared purpose. Emphasis: friction/work.",
-    "money": "Status-linked income, government/authority-linked gains.  Scaling revenue, windfalls, ethical growth. Emphasis: friction/work.",
-    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Liver, metabolic balance; avoid excess. Emphasis: friction/work."
+  "core_meaning": {
+    "en": "This aspect indicates increased dissatisfaction, overconfidence, and inappropriate optimism, leading to false assurances and misguided directions especially in education and religion. It reflects lack of discretion and problems arising from excessive expansion and poor judgment.",
+    "hi": "यह योग असंतोष, अतिविश्वास और अनुचित आशावादिता में वृद्धि दर्शाता है, जिससे झूठे आश्वासन और विशेष रूप से शिक्षा और धर्म में गलत दिशा की संभावना होती है। इसमें विवेक की कमी और अनुचित विस्तार से उत्पन्न समस्याएं शामिल हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work)."
+  "facets": {
+    "career": {
+      "en": "Tendency to choose wrong directions in higher education and religious fields; lack of discretion may cause professional misjudgments.",
+      "hi": "उच्च शिक्षा और धर्म के क्षेत्र में गलत दिशा चुनने की प्रवृत्ति; विवेक की कमी से पेशेवर गलत निर्णय हो सकते हैं।"
+    },
+    "relationships": {
+      "en": "False assurances and inappropriate behavior may lead to social non-acceptance and strained interactions.",
+      "hi": "झूठे आश्वासन और अनुचित व्यवहार से सामाजिक अस्वीकृति और संबंधों में तनाव हो सकता है।"
+    },
+    "money": {
+      "en": "Excessive spending and problems in transactions due to overexpansion and ignoring sensible advice.",
+      "hi": "अधिक खर्च और अनुचित विस्तार तथा समझदारी भरे सुझाव न मानने के कारण लेन-देन में समस्याएं।"
+    },
+    "health_adj": {
+      "en": "Persistent worries about the future may affect mental well-being; no direct physical health indications.",
+      "hi": "भविष्य की चिंता मानसिक स्थिति को प्रभावित कर सकती है; शारीरिक स्वास्थ्य के लिए कोई स्पष्ट संकेत नहीं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Educational challenges",
+      "Religious or philosophical misdirection",
+      "Financial difficulties",
+      "Social disapproval"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work).",
-      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work).",
-      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Jupiter: mentor, expand, publish; tone: friction/work)."
+    "hi": [
+      "शैक्षिक चुनौतियां",
+      "धार्मिक या दार्शनिक गलत दिशा",
+      "आर्थिक कठिनाइयां",
+      "सामाजिक अस्वीकृति"
     ]
   },
-  "keywords": [
-    "abundance",
-    "authority",
-    "ego",
-    "faith",
-    "friction",
-    "growth",
-    "identity",
-    "law",
-    "mentor",
-    "purpose",
-    "square",
-    "visibility",
-    "vitality",
-    "wisdom",
-    "work"
-  ],
-  "quality_tags": [
-    "major",
-    "challenging",
-    "discipline-required"
-  ],
+  "risk_notes": {
+    "en": [
+      "Overestimating one's importance can lead to conflict.",
+      "False hope and optimism may cause poor decisions.",
+      "Ignoring sensible advice increases risk of failure.",
+      "Inappropriate behavior may result in social isolation."
+    ],
+    "hi": [
+      "स्वयं को अति महत्त्वपूर्ण समझना संघर्ष का कारण बन सकता है।",
+      "झूठी आशा और अनुचित आशावादिता खराब निर्णय ला सकती है।",
+      "समझदारी भरे सुझाव न मानना विफलता का खतरा बढ़ाता है।",
+      "अनुचित व्यवहार सामाजिक अलगाव का कारण बन सकता है।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Exercise caution in financial transactions.",
+        "Seek and heed sensible advice.",
+        "Monitor optimism to avoid false hope."
+      ],
+      "hi": [
+        "वित्तीय लेन-देन में सावधानी बरतें।",
+        "समझदारी भरे सुझाव लें और मानें।",
+        "झूठी आशा से बचने के लिए आशावादिता पर नियंत्रण रखें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid giving false assurances.",
+        "Refrain from overestimating personal importance.",
+        "Be cautious in educational and religious decisions."
+      ],
+      "hi": [
+        "झूठा आश्वासन देने से बचें।",
+        "स्वयं को अति महत्त्वपूर्ण समझने से बचें।",
+        "शैक्षिक और धार्मिक निर्णयों में सावधानी बरतें।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on past overconfidence and its consequences.",
+        "Adjust behavior to align with social norms.",
+        "Reduce excessive spending and expansion."
+      ],
+      "hi": [
+        "अतीत के अतिविश्वास और उसके परिणामों पर विचार करें।",
+        "व्यवहार को सामाजिक मानदंडों के अनुरूप करें।",
+        "अधिक खर्च और विस्तार को कम करें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "dissatisfaction",
+      "overconfidence",
+      "false hope",
+      "excessive spending",
+      "lack of discretion",
+      "misguided direction",
+      "social non-acceptance",
+      "worry"
+    ],
+    "hi": [
+      "असंतोष",
+      "अतिविश्वास",
+      "झूठी आशा",
+      "अधिक खर्च",
+      "विवेक की कमी",
+      "गलत दिशा",
+      "सामाजिक अस्वीकृति",
+      "चिंता"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "cautionary",
+      "complex"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "सावधानीपूर्ण",
+      "जटिल"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -111,36 +185,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "overexpansion",
+      "misjudgment",
+      "social friction",
+      "emotional agitation"
+    ],
+    "hi": [
+      "अतिविस्तार",
+      "गलत निर्णय",
+      "सामाजिक तनाव",
+      "भावनात्मक उग्रता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-02-07"
   },
   "locales": {
     "en": {
-      "title": "Sun Square Jupiter",
-      "core": "Square between Sun and Jupiter drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "tone": "warm"
+      "title": "sun-squ-jup",
+      "core": "This aspect highlights challenges from overconfidence, false hope, and lack of discretion, affecting education, finances, and social acceptance.",
+      "tone": "Warm, neutral, and cautionary"
     },
     "hi": {
-      "title": "Sun Square Jupiter (हिन्दी)",
-      "core": "Sun और Jupiter का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "सूर्य वर्ग गुरु",
+      "core": "यह योग अतिविश्वास, झूठी आशा और विवेक की कमी से उत्पन्न चुनौतियों को दर्शाता है, जो शिक्षा, वित्त और सामाजिक स्वीकृति को प्रभावित करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधानीपूर्ण"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Square between Sun and Jupiter drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "career": "Authority, recognition, leadership, alignment with purpose.  Mentorship, promotions, strategic expansion. Emphasis: friction/work.",
-      "relationships": "Self-respect, healthy boundaries, paternal figures.  Goodwill, generosity, shared purpose. Emphasis: friction/work.",
-      "money": "Status-linked income, government/authority-linked gains.  Scaling revenue, windfalls, ethical growth. Emphasis: friction/work.",
-      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Liver, metabolic balance; avoid excess. Emphasis: friction/work."
+      "core": {
+        "en": "Dissatisfaction, overconfidence, false hope, lack of discretion, misguided directions in education and religion, problems from expansion.",
+        "hi": "असंतोष, अतिविश्वास, झूठी आशा, विवेक की कमी, शिक्षा और धर्म में गलत दिशा, विस्तार से समस्याएं।"
+      },
+      "career": {
+        "en": "Wrong directions in higher education and religious fields; lack of discretion causing misjudgments.",
+        "hi": "उच्च शिक्षा और धर्म में गलत दिशा; विवेक की कमी से गलत निर्णय।"
+      },
+      "relationships": {
+        "en": "False assurances and inappropriate behavior leading to social non-acceptance.",
+        "hi": "झूठे आश्वासन और अनुचित व्यवहार से सामाजिक अस्वीकृति।"
+      },
+      "money": {
+        "en": "Excessive spending and transaction problems due to ignoring sensible advice and overexpansion.",
+        "hi": "समझदारी भरे सुझाव न मानने और अतिविस्तार से अधिक खर्च और लेन-देन में समस्या।"
+      },
+      "health_adj": {
+        "en": "Worries about the future affecting mental well-being; no direct physical health effects noted.",
+        "hi": "भविष्य की चिंता मानसिक स्थिति को प्रभावित कर सकती है; शारीरिक स्वास्थ्य पर स्पष्ट प्रभाव नहीं।"
+      }
     },
     "aliases": [
       "Sun square Jupiter",

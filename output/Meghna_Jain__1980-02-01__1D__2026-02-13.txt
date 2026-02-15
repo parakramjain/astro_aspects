@@ -1,0 +1,29 @@
+{
+"name": "Meghna Jain",
+"forecast_type": "daily",
+"summary": "Today brings both supportive and challenging energies. You can make steady progress if you stay flexible and open-minded, though unexpected situations may test your patience. Clear thinking and adaptability are your best assets.",
+"best_use_of_day": [
+"Approach tasks with creativity and determination",
+"Embrace unexpected changes with an open mind"
+],
+"watch_out": [
+"Avoid reacting impulsively to surprises",
+"Double-check details before making decisions"
+],
+"daily_energy_score": 7,
+"categories": {
+"business_career": [
+"Stay adaptable to shifting priorities at work",
+"Use focus and intuition to solve challenges"
+],
+"health": [
+"Take breaks to manage stress",
+"Balance mental effort with relaxation"
+]
+},
+"cta": {
+"site_label": "View full chart & guidance",
+"site_url": "https://www.yourastroconsultant.com",
+"footer_note": "To Unsubscribe email support@yourastroconsultant.com | Preferences"
+}
+}

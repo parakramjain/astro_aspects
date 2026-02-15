@@ -10,53 +10,122 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Square between Sun and Venus drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Venus: affection, art, harmony, pleasure, values. General tenor: growth via friction; endurance and clear boundaries are key.",
-  "facets": {
-    "career": "Authority, recognition, leadership, alignment with purpose.  Design, branding, client harmony, tasteful presentation. Emphasis: friction/work.",
-    "relationships": "Self-respect, healthy boundaries, paternal figures.  Attraction, diplomacy, reciprocity. Emphasis: friction/work.",
-    "money": "Status-linked income, government/authority-linked gains.  Luxury/beauty revenues, pricing power via desirability. Emphasis: friction/work.",
-    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Glucose balance, skin, reproductive health; moderation. Emphasis: friction/work."
+  "core_meaning": {
+    "en": "Dissatisfaction and misguided efforts to find happiness lead to problems, including unnecessary expenses and emotional confusion, especially in social contexts.",
+    "hi": "असंतोष और सुख प्राप्ति के लिए गलत प्रयास समस्याएँ उत्पन्न करते हैं, जिनमें व्यर्थ खर्च और सामाजिक संदर्भों में भावनात्मक भ्रम शामिल हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries.",
-    "People-pleasing → scope creep; set clear give-and-get."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: friction/work).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: friction/work)."
+  "facets": {
+    "career": {
+      "en": "Lack of effort and procrastination on unsatisfactory tasks may affect work progress.",
+      "hi": "परिश्रम की कमी और असंतोषजनक कार्यों को टालना कार्य प्रगति को प्रभावित कर सकता है।"
+    },
+    "relationships": {
+      "en": "Emotional hurt and confusion in social issues can cause strain; seeking attention may lead to excessive spending.",
+      "hi": "सामाजिक समस्याओं में भावनात्मक ठेस और भ्रम तनाव उत्पन्न कर सकते हैं; ध्यान पाने के लिए अधिक खर्च हो सकता है।"
+    },
+    "money": {
+      "en": "Unnecessary and exaggerated expenses occur, often to gain praise or due to shortsighted behavior.",
+      "hi": "प्रशंसा पाने या अदूरदर्शी व्यवहार के कारण व्यर्थ और बढ़ा-चढ़ा कर खर्च होता है।"
+    },
+    "health_adj": {
+      "en": "Emotional distress from social conflicts may affect well-being.",
+      "hi": "सामाजिक विवादों से भावनात्मक कष्ट स्वास्थ्य को प्रभावित कर सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Social conflicts",
+      "Financial loss",
+      "Emotional challenges"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: friction/work).",
-      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: friction/work)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: friction/work).",
-      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Venus: design, harmonize, price; tone: friction/work)."
+    "hi": [
+      "सामाजिक विवाद",
+      "आर्थिक हानि",
+      "भावनात्मक चुनौतियाँ"
     ]
   },
-  "keywords": [
-    "affection",
-    "art",
-    "authority",
-    "ego",
-    "friction",
-    "harmony",
-    "identity",
-    "pleasure",
-    "purpose",
-    "square",
-    "values",
-    "visibility",
-    "vitality",
-    "work"
-  ],
-  "quality_tags": [
-    "major",
-    "challenging",
-    "discipline-required"
-  ],
+  "risk_notes": {
+    "en": [
+      "Losses related to children may occur",
+      "Emotional confusion can trap the person in problematic events",
+      "Procrastination on economic tasks may worsen issues"
+    ],
+    "hi": [
+      "बच्चों से संबंधित नुकसान हो सकता है",
+      "भावनात्मक भ्रम व्यक्ति को समस्याग्रस्त घटनाओं में फंसा सकता है",
+      "आर्थिक कार्यों को टालना समस्याएँ बढ़ा सकता है"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of spending motivated by social approval",
+        "Avoid procrastination on important tasks",
+        "Seek clarity in emotional and social situations"
+      ],
+      "hi": [
+        "सामाजिक स्वीकृति के लिए खर्च पर सावधानी रखें",
+        "महत्वपूर्ण कार्यों को टालने से बचें",
+        "भावनात्मक और सामाजिक स्थितियों में स्पष्टता खोजें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Recognize and reduce unnecessary expenses",
+        "Address emotional confusion promptly",
+        "Avoid shortsighted decisions"
+      ],
+      "hi": [
+        "व्यर्थ खर्च को पहचानें और कम करें",
+        "भावनात्मक भ्रम को शीघ्र सुलझाएं",
+        "अदूरदर्शी निर्णयों से बचें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Distance from exaggerated social customs causing expense",
+        "Avoid delaying economic responsibilities",
+        "Manage emotional responses in social conflicts"
+      ],
+      "hi": [
+        "व्यर्थ खर्च करने वाली सामाजिक रीति-रिवाजों से दूरी बनाएं",
+        "आर्थिक जिम्मेदारियों को टालने से बचें",
+        "सामाजिक विवादों में भावनात्मक प्रतिक्रियाओं को नियंत्रित करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "dissatisfaction",
+      "unnecessary expenses",
+      "emotional confusion",
+      "social issues",
+      "procrastination",
+      "shortsighted behavior"
+    ],
+    "hi": [
+      "असंतोष",
+      "व्यर्थ खर्च",
+      "भावनात्मक भ्रम",
+      "सामाजिक समस्या",
+      "टालमटोल",
+      "अदूरदर्शी व्यवहार"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "emotional",
+      "financial caution",
+      "social tension"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "भावनात्मक",
+      "आर्थिक सतर्कता",
+      "सामाजिक तनाव"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -110,36 +179,57 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "Relationship Tone",
-    "",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "emotional complexity",
+      "financial caution",
+      "social dynamics"
+    ],
+    "hi": [
+      "भावनात्मक जटिलता",
+      "आर्थिक सतर्कता",
+      "सामाजिक गतिशीलता"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-02-09"
   },
   "locales": {
     "en": {
-      "title": "Sun Square Venus",
-      "core": "Square between Sun and Venus drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Venus: affection, art, harmony, pleasure, values. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "tone": "warm"
+      "title": "sun-squ-ven",
+      "core": "This aspect indicates dissatisfaction and problems arising from misguided efforts to find happiness, leading to unnecessary expenses and emotional confusion, especially in social matters.",
+      "tone": "Warm, neutral, and cautious"
     },
     "hi": {
-      "title": "Sun Square Venus (हिन्दी)",
-      "core": "Sun और Venus का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "सूर्य वर्ग शुक्र",
+      "core": "यह योग असंतोष और सुख प्राप्ति के लिए गलत प्रयासों से उत्पन्न समस्याओं को दर्शाता है, जिसमें व्यर्थ खर्च और सामाजिक मामलों में भावनात्मक भ्रम शामिल है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सतर्क"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Square between Sun and Venus drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Venus: affection, art, harmony, pleasure, values. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "career": "Authority, recognition, leadership, alignment with purpose.  Design, branding, client harmony, tasteful presentation. Emphasis: friction/work.",
-      "relationships": "Self-respect, healthy boundaries, paternal figures.  Attraction, diplomacy, reciprocity. Emphasis: friction/work.",
-      "money": "Status-linked income, government/authority-linked gains.  Luxury/beauty revenues, pricing power via desirability. Emphasis: friction/work.",
-      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Glucose balance, skin, reproductive health; moderation. Emphasis: friction/work."
+      "core": {
+        "en": "Dissatisfaction, unnecessary expenses, lack of effort, and seeking happiness through wrong means will cause problems. Losses related to children may occur. The person spends more to gain praise or attention from others. This expense may also be on exaggerated social customs. Shortsighted behavior and emotional confusion may trap the person in an event, leading to expenses. They may try to avoid or procrastinate on economic/dissatisfying tasks. Emotions are hurt in social issues.",
+        "hi": "असंतोषए व्यर्थ खर्चए परिश्रम की कमीए सुख प्राप्ति के लिए अपनाए गलत रास्तों से समस्या निर्मित होगी। बच्चों का नुकसान हो सकता है। व्यक्ति अन्य से प्रशंसा//यान आकर्षण प्राप्त करने के लिए अधिक खर्च करता है। यह खर्च सामाजिक रीति.रिवाजों पर बढ़.चढ़ कर करना भी हो सकता है। अदूरदर्शी व्यवहारए भावनात्मक भ्रम से किसी आयोजन में फंसा जाता है और खर्च करता है। आर्थिक/असंतोषजनक कार्य को टालने की कोशिश की जाती है। सामाजिक समस्या में भावनाओं को ठेस पहुँचती है।"
+      },
+      "career": {
+        "en": "Lack of effort and procrastination on economic or dissatisfying tasks may hinder career progress.",
+        "hi": "आर्थिक या असंतोषजनक कार्यों में परिश्रम की कमी और टालमटोल करियर प्रगति में बाधा डाल सकता है।"
+      },
+      "relationships": {
+        "en": "Emotional hurt in social issues and seeking attention through spending can strain relationships.",
+        "hi": "सामाजिक समस्याओं में भावनाओं को ठेस पहुँचना और खर्च के माध्यम से ध्यान आकर्षित करना संबंधों में तनाव उत्पन्न कर सकता है।"
+      },
+      "money": {
+        "en": "Excessive spending to gain praise or due to social customs, leading to financial losses.",
+        "hi": "प्रशंसा पाने या सामाजिक रीति-रिवाजों के कारण अत्यधिक खर्च, जिससे आर्थिक हानि हो सकती है।"
+      },
+      "health_adj": {
+        "en": "Emotional confusion and social stress may impact emotional well-being.",
+        "hi": "भावनात्मक भ्रम और सामाजिक तनाव भावनात्मक स्वास्थ्य को प्रभावित कर सकते हैं।"
+      }
     },
     "aliases": [
       "Sun square Venus",

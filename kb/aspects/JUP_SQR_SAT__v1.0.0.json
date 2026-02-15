@@ -10,56 +10,140 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Square between Jupiter and Saturn drives friction/work. Jupiter: growth, wisdom, mentor, law, faith, abundance. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: growth via friction; endurance and clear boundaries are key.",
-  "facets": {
-    "career": "Mentorship, promotions, strategic expansion.  Authority via mastery, long-term credibility. Emphasis: friction/work.",
-    "relationships": "Goodwill, generosity, shared purpose.  Commitment realism, boundaries, duty. Emphasis: friction/work.",
-    "money": "Scaling revenue, windfalls, ethical growth.  Slow steady accrual, austerity, debt realism. Emphasis: friction/work.",
-    "health_adj": "Liver, metabolic balance; avoid excess.  Bones, teeth, chronic load; routines & posture. Emphasis: friction/work."
+  "core_meaning": {
+    "en": "A challenging period marked by professional legal troubles, conflicts between family and work responsibilities, moral dilemmas, and emotional despair. Optimism and pessimism fluctuate, and only compromise can provide safety. Lack of official support and popularity issues are present, with volatile business risks.",
+    "hi": "एक कठिन समय जिसमें पेशेवर कानूनी समस्याएं, पारिवारिक और कार्य जिम्मेदारियों के बीच संघर्ष, नैतिक द्वंद्व और मानसिक निराशा होती है। आशावाद और निराशावाद के बीच अंतर रहता है, और केवल समझौता ही सुरक्षा प्रदान कर सकता है। अधिकारी सहयोग की कमी और लोकप्रियता में बाधाएं होती हैं, साथ ही अस्थिर व्यवसायों में जोखिम रहता है।"
   },
-  "life_event_type": [
-    "Legal Matters / Court Issues"
-  ],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries.",
-    "Burnout via over-responsibility; schedule recovery windows.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work)."
+  "facets": {
+    "career": {
+      "en": "Legal troubles likely; avoid new ventures or career changes; conflicts between family and work responsibilities; lack of official support; popularity suffers.",
+      "hi": "कानूनी समस्याएं संभव हैं; नए प्रयास या पेशेवर परिवर्तन से बचें; पारिवारिक और कार्य जिम्मेदारियों में संघर्ष; अधिकारी सहयोग की कमी; लोकप्रियता में कमी।"
+    },
+    "relationships": {
+      "en": "Conflicts arise between family and work duties; moral value conflicts create tension; emotional despair is common.",
+      "hi": "पारिवारिक और पेशेवर जिम्मेदारियों के बीच टकराव; नैतिक मूल्यों का संघर्ष तनाव उत्पन्न करता है; मानसिक निराशा सामान्य है।"
+    },
+    "money": {
+      "en": "Volatile businesses face losses; avoid financial risks; lack of popularity may impact financial support.",
+      "hi": "अस्थिर व्यवसायों में हानि संभव; वित्तीय जोखिम से बचें; लोकप्रियता की कमी वित्तीय सहायता को प्रभावित कर सकती है।"
+    },
+    "health_adj": {
+      "en": "Emotional despair and stress due to conflicts and losses; maintain caution to preserve well-being.",
+      "hi": "संघर्ष और हानि के कारण मानसिक निराशा और तनाव; स्वास्थ्य बनाए रखने के लिए सावधानी रखें।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Professional legal issues",
+      "Career conflicts",
+      "Family-work responsibility clashes",
+      "Business losses"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work).",
-      "Make the decisive call; accept/decline offers consciously. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work).",
-      "Close loops, stabilize routines, prune scope creep. (Jupiter: mentor, expand, publish; Saturn: structure, commit, audit; tone: friction/work)."
+    "hi": [
+      "पेशेवर कानूनी समस्याएं",
+      "पेशेवर संघर्ष",
+      "पारिवारिक और कार्य जिम्मेदारी टकराव",
+      "व्यवसाय में हानि"
     ]
   },
-  "keywords": [
-    "abundance",
-    "dharma via effort",
-    "discipline",
-    "faith",
-    "friction",
-    "growth",
-    "law",
-    "limits",
-    "mentor",
-    "square",
-    "structure",
-    "time",
-    "wisdom",
-    "work"
-  ],
-  "quality_tags": [
-    "major",
-    "challenging",
-    "discipline-required"
-  ],
+  "risk_notes": {
+    "en": [
+      "Avoid new ventures or career changes during this period",
+      "Volatile businesses face losses",
+      "Lack of official support and popularity",
+      "Emotional despair and moral conflicts"
+    ],
+    "hi": [
+      "इस समय नए प्रयास या पेशेवर परिवर्तन से बचें",
+      "अस्थिर व्यवसायों में हानि संभव",
+      "अधिकारी सहयोग और लोकप्रियता की कमी",
+      "मानसिक निराशा और नैतिक संघर्ष"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Avoid initiating new career ventures",
+        "Seek compromise in conflicts",
+        "Minimize financial risks",
+        "Maintain balance between family and work"
+      ],
+      "hi": [
+        "नए पेशेवर प्रयास शुरू करने से बचें",
+        "संघर्षों में समझौता करें",
+        "वित्तीय जोखिम कम करें",
+        "पारिवारिक और कार्य जीवन में संतुलन बनाए रखें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Exercise caution in business and legal matters",
+        "Avoid risky financial decisions",
+        "Focus on resolving moral and responsibility conflicts"
+      ],
+      "hi": [
+        "व्यवसाय और कानूनी मामलों में सावधानी बरतें",
+        "जोखिम भरे वित्तीय निर्णय टालें",
+        "नैतिक और जिम्मेदारी संघर्षों का समाधान करें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Gradual easing of conflicts",
+        "Improvement in official support and popularity",
+        "Reduced business volatility"
+      ],
+      "hi": [
+        "संघर्षों में धीरे-धीरे कमी",
+        "अधिकारी सहयोग और लोकप्रियता में सुधार",
+        "व्यवसाय की अस्थिरता में कमी"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "legal troubles",
+      "career conflicts",
+      "family-work clash",
+      "moral dilemmas",
+      "despair",
+      "losses",
+      "compromise",
+      "lack of support",
+      "popularity issues",
+      "volatile business",
+      "risk avoidance"
+    ],
+    "hi": [
+      "कानूनी समस्या",
+      "पेशेवर संघर्ष",
+      "पारिवारिक-कार्य टकराव",
+      "नैतिक द्वंद्व",
+      "निराशा",
+      "हानि",
+      "समझौता",
+      "सहयोग की कमी",
+      "लोकप्रियता समस्या",
+      "अस्थिर व्यवसाय",
+      "जोखिम से बचाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "unfavorable",
+      "volatile",
+      "conflictual",
+      "stressful"
+    ],
+    "hi": [
+      "कठिन",
+      "अप्रत्यक्ष",
+      "अस्थिर",
+      "संघर्षपूर्ण",
+      "तनावपूर्ण"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -113,36 +197,63 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "professional challenges",
+      "legal issues",
+      "family and work tension",
+      "moral conflict",
+      "emotional despair",
+      "business risk"
+    ],
+    "hi": [
+      "पेशेवर चुनौतियां",
+      "कानूनी समस्याएं",
+      "पारिवारिक और कार्य तनाव",
+      "नैतिक संघर्ष",
+      "मानसिक निराशा",
+      "व्यवसाय जोखिम"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-02-07"
   },
   "locales": {
     "en": {
-      "title": "Jupiter Square Saturn",
-      "core": "Square between Jupiter and Saturn drives friction/work. Jupiter: growth, wisdom, mentor, law, faith, abundance. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "tone": "warm"
+      "title": "jup-squ-sat",
+      "core": "A period of professional and personal challenges involving legal troubles, conflicts, and emotional stress requiring compromise and caution.",
+      "tone": "Serious, cautious, and pragmatic"
     },
     "hi": {
-      "title": "Jupiter Square Saturn (हिन्दी)",
-      "core": "Jupiter और Saturn का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "बृहस्पति वर्ग शनि",
+      "core": "कानूनी समस्याओं, संघर्षों और मानसिक तनाव से भरा पेशेवर और व्यक्तिगत चुनौतीपूर्ण समय, जिसमें समझौता और सावधानी आवश्यक है।",
+      "tone": "गंभीर, सतर्क और व्यावहारिक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Square between Jupiter and Saturn drives friction/work. Jupiter: growth, wisdom, mentor, law, faith, abundance. Saturn: discipline, structure, time, limits, dharma via effort. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "career": "Mentorship, promotions, strategic expansion.  Authority via mastery, long-term credibility. Emphasis: friction/work.",
-      "relationships": "Goodwill, generosity, shared purpose.  Commitment realism, boundaries, duty. Emphasis: friction/work.",
-      "money": "Scaling revenue, windfalls, ethical growth.  Slow steady accrual, austerity, debt realism. Emphasis: friction/work.",
-      "health_adj": "Liver, metabolic balance; avoid excess.  Bones, teeth, chronic load; routines & posture. Emphasis: friction/work."
+      "core": {
+        "en": "Professional legal troubles, conflicts, despair, and lack of support characterize this challenging period requiring compromise.",
+        "hi": "पेशेवर कानूनी समस्याएं, संघर्ष, निराशा और सहयोग की कमी इस चुनौतीपूर्ण समय की विशेषताएं हैं, जिसमें समझौता आवश्यक है।"
+      },
+      "career": {
+        "en": "Legal troubles, career conflicts, avoidance of new ventures, lack of official support, and popularity issues.",
+        "hi": "कानूनी समस्याएं, पेशेवर संघर्ष, नए प्रयासों से बचाव, अधिकारी सहयोग की कमी और लोकप्रियता में कमी।"
+      },
+      "relationships": {
+        "en": "Family and work responsibility conflicts, moral dilemmas, and emotional despair.",
+        "hi": "पारिवारिक और कार्य जिम्मेदारी टकराव, नैतिक द्वंद्व और मानसिक निराशा।"
+      },
+      "money": {
+        "en": "Volatile businesses face losses; avoid risks; popularity affects financial support.",
+        "hi": "अस्थिर व्यवसायों में हानि; जोखिम से बचें; लोकप्रियता वित्तीय सहायता को प्रभावित करती है।"
+      },
+      "health_adj": {
+        "en": "Emotional despair and stress due to conflicts and losses; caution advised.",
+        "hi": "संघर्ष और हानि के कारण मानसिक निराशा और तनाव; सावधानी आवश्यक।"
+      }
     },
     "aliases": [
       "Jupiter square Saturn",

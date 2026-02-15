@@ -892,6 +892,8 @@ def rebuild_from_excel_with_gpt(
     return {"updated": updated, "missing": missing, "errors": errors}
 
 def main():
+    # python .\aspect_card_utils\aspect_card_creation.py update-from-excel --excel "C:\Users\parak\Documents\Parakram\astro_project\astro_aspects\aspect_card_utils\main_aspect_data_description_converted_both_filtered.xlsx" --limit 1 --dry-run
+
     import argparse
     parser = argparse.ArgumentParser(description="Aspect Cards generator and bilingual updater")
     sub = parser.add_subparsers(dest="cmd")
@@ -926,6 +928,10 @@ def main():
 
 if __name__ == "__main__":
     # Optional simple CLI toggles via env/args can be added; keeping it minimal.
+    """
+    python .\aspect_card_utils\aspect_card_creation.py update-from-excel --excel "C:\Users\parak\Documents\Parakram\astro_project\astro_aspects\aspect_card_utils\main_aspect_data_description_converted_both_filtered.xlsx" --limit 1 --dry-run
+
+    """
     try:
         main()
         # test_card = make_card("Jupiter", "CON", "Sun")

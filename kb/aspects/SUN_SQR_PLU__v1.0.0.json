@@ -10,47 +10,140 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Square between Sun and Pluto drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Pluto: . General tenor: growth via friction; endurance and clear boundaries are key.",
-  "facets": {
-    "career": "Authority, recognition, leadership, alignment with purpose.  Emphasis: friction/work.",
-    "relationships": "Self-respect, healthy boundaries, paternal figures.  Emphasis: friction/work.",
-    "money": "Status-linked income, government/authority-linked gains.  Emphasis: friction/work.",
-    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Emphasis: friction/work."
+  "core_meaning": {
+    "en": "An increase in power, authority, and conflict influences joint ventures and relationships, leading to challenging situations that may redirect life paths.",
+    "hi": "शक्ति, अधिकार और संघर्ष में वृद्धि होती है जो संयुक्त व्यवसाय और संबंधों को प्रभावित करती है, जिससे जीवन में चुनौतीपूर्ण स्थिति बनती है जो नई दिशा देती है।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work)."
+  "facets": {
+    "career": {
+      "en": "Joint business or investment matters are prominent, with potential disturbances in work habits.",
+      "hi": "संयुक्त व्यवसाय या निवेश के विषय प्रमुख होंगे, और कामकाज में अस्थिरता हो सकती है।"
+    },
+    "relationships": {
+      "en": "Supportive yet calculative behavior from children; helpful interactions with spouse or emotional friends.",
+      "hi": "संतान का व्यवहार सहायक और गणनीय होगा; जीवनसाथी या भावनात्मक मित्र के साथ सहायक व्यवहार रहेगा।"
+    },
+    "money": {
+      "en": "Focus on joint investments, taxes, friendships, and regular profits.",
+      "hi": "संयुक्त निवेश, कर, मित्रता और नियमित लाभ पर ध्यान रहेगा।"
+    },
+    "health_adj": {
+      "en": "Possible depression and disturbed work habits may affect well-being.",
+      "hi": "अवसाद और अस्थिर कामकाज की प्रवृत्ति से स्वास्थ्य प्रभावित हो सकता है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Joint business or investment",
+      "Conflict and power struggles",
+      "Supportive family behavior",
+      "Life redirection due to unforeseen troubles"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work).",
-      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work).",
-      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Pluto: act, iterate, measure; tone: friction/work)."
+    "hi": [
+      "संयुक्त व्यवसाय या निवेश",
+      "संघर्ष और अधिकार की लड़ाई",
+      "सहायक पारिवारिक व्यवहार",
+      "अनपेक्षित समस्याओं के कारण जीवन में नई दिशा"
     ]
   },
-  "keywords": [
-    "authority",
-    "ego",
-    "friction",
-    "identity",
-    "purpose",
-    "square",
-    "visibility",
-    "vitality",
-    "work"
-  ],
-  "quality_tags": [
-    "major",
-    "challenging",
-    "discipline-required"
-  ],
+  "risk_notes": {
+    "en": [
+      "Depression or disturbed work habits may arise.",
+      "Situations may exceed planned capacities causing stress.",
+      "Potential for troublesome or helpless circumstances."
+    ],
+    "hi": [
+      "अवसाद या अस्थिर कामकाज की प्रवृत्ति हो सकती है।",
+      "स्थिति योजनाबद्ध क्षमता से बाहर हो सकती है जिससे तनाव होगा।",
+      "दुष्ट या असहाय परिस्थितियाँ उत्पन्न हो सकती हैं।"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of power dynamics in joint ventures.",
+        "Support family members with balanced attention.",
+        "Prepare for unexpected challenges."
+      ],
+      "hi": [
+        "संयुक्त प्रयासों में शक्ति संतुलन का ध्यान रखें।",
+        "परिवार के सदस्यों को संतुलित ध्यान दें।",
+        "अनपेक्षित चुनौतियों के लिए तैयार रहें।"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Address conflicts calmly and constructively.",
+        "Monitor emotional well-being closely.",
+        "Engage cooperatively with partners and friends."
+      ],
+      "hi": [
+        "संघर्षों को शांति और रचनात्मकता से सुलझाएं।",
+        "भावनात्मक स्वास्थ्य पर ध्यान रखें।",
+        "सहयोगी व्यवहार रखें जीवनसाथी और मित्रों के साथ।"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on lessons from challenging situations.",
+        "Adjust plans to accommodate new directions.",
+        "Maintain supportive relationships despite difficulties."
+      ],
+      "hi": [
+        "चुनौतीपूर्ण परिस्थितियों से सीखें।",
+        "नई दिशा के अनुसार योजनाओं को समायोजित करें।",
+        "मुश्किलों के बावजूद सहायक संबंध बनाए रखें।"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "power",
+      "authority",
+      "conflict",
+      "joint business",
+      "investment",
+      "tax",
+      "friendship",
+      "profit",
+      "depression",
+      "supportive children",
+      "helpful spouse",
+      "troublesome situation",
+      "life redirection"
+    ],
+    "hi": [
+      "शक्ति",
+      "अधिकार",
+      "संघर्ष",
+      "संयुक्त व्यवसाय",
+      "निवेश",
+      "कर",
+      "मित्रता",
+      "लाभ",
+      "अवसाद",
+      "सहायक संतान",
+      "सहायक जीवनसाथी",
+      "उपद्रव",
+      "नई दिशा"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "powerful",
+      "challenging",
+      "transformative",
+      "supportive",
+      "calculative"
+    ],
+    "hi": [
+      "शक्तिशाली",
+      "चुनौतीपूर्ण",
+      "परिवर्तनकारी",
+      "सहायक",
+      "गणनीय"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -104,36 +197,61 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "authority and conflict",
+      "joint ventures",
+      "emotional support",
+      "life challenges",
+      "new directions"
+    ],
+    "hi": [
+      "अधिकार और संघर्ष",
+      "संयुक्त प्रयास",
+      "भावनात्मक समर्थन",
+      "जीवन की चुनौतियाँ",
+      "नई दिशाएँ"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-02-07"
   },
   "locales": {
     "en": {
-      "title": "Sun Square Pluto",
-      "core": "Square between Sun and Pluto drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Pluto: . General tenor: growth via friction; endurance and clear boundaries are key.",
-      "tone": "warm"
+      "title": "sun-squ-plu",
+      "core": "This aspect highlights increased power struggles and authority issues affecting joint business and personal relationships, often leading to significant life changes.",
+      "tone": "Warm, neutral, and insightful"
     },
     "hi": {
-      "title": "Sun Square Pluto (हिन्दी)",
-      "core": "Sun और Pluto का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "सूर्य वर्ग प्लूटो",
+      "core": "यह योग शक्ति संघर्ष और अधिकार की समस्याओं को दर्शाता है जो संयुक्त व्यवसाय और व्यक्तिगत संबंधों को प्रभावित करते हैं, और जीवन में महत्वपूर्ण परिवर्तन लाते हैं।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सूचनात्मक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Square between Sun and Pluto drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Pluto: . General tenor: growth via friction; endurance and clear boundaries are key.",
-      "career": "Authority, recognition, leadership, alignment with purpose.  Emphasis: friction/work.",
-      "relationships": "Self-respect, healthy boundaries, paternal figures.  Emphasis: friction/work.",
-      "money": "Status-linked income, government/authority-linked gains.  Emphasis: friction/work.",
-      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Emphasis: friction/work."
+      "core": {
+        "en": "Increase in power, authority, and conflict influencing joint ventures and personal life, causing new directions.",
+        "hi": "शक्ति, अधिकार और संघर्ष में वृद्धि जो संयुक्त प्रयासों और व्यक्तिगत जीवन को प्रभावित करती है, नई दिशा देती है।"
+      },
+      "career": {
+        "en": "Focus on joint business, investments, and possible disturbed work habits.",
+        "hi": "संयुक्त व्यवसाय, निवेश और अस्थिर कामकाज पर ध्यान।"
+      },
+      "relationships": {
+        "en": "Supportive and calculative behavior from children; helpfulness towards spouse and emotional friends.",
+        "hi": "संतान का सहायक और गणनीय व्यवहार; जीवनसाथी और भावनात्मक मित्रों के प्रति सहायक।"
+      },
+      "money": {
+        "en": "Joint investment, tax matters, friendships, and regular profits are key themes.",
+        "hi": "संयुक्त निवेश, कर, मित्रता और नियमित लाभ मुख्य विषय हैं।"
+      },
+      "health_adj": {
+        "en": "Potential for depression and disturbed work habits affecting well-being.",
+        "hi": "अवसाद और अस्थिर कामकाज से स्वास्थ्य प्रभावित हो सकता है।"
+      }
     },
     "aliases": [
       "Sun square Pluto",

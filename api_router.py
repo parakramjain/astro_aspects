@@ -269,6 +269,7 @@ def report_timeline(
         },
     ),
 ) -> TimelineOut:
+    print(req)
     timeline_data = compute_timeline(req)
 
     try:

@@ -1,0 +1,5 @@
+name,dateOfBirth,timeOfBirth,placeOfBirth,timeZone,latitude,longitude,timePeriod,reportStartDate,email, lang_code
+Amit,1982-08-16,16:00:00,"Yavatmal, India",Asia/Kolkata,20.32,78.13,1Y,2026-01-01,parakramjain@gmail.com,'en'
+Riya,1993-02-20,06:10:00,"Delhi, IN",Asia/Kolkata,28.6139,77.2090,6M,2026-01-01,parakramjain@gmail.com,'hi
+Honda,1993-02-20,06:10:00,"Delhi, IN",Asia/Kolkata,28.6139,77.2090,1W,2026-01-01,parakramjain@gmail.com,'en'
+Toyota,1993-02-20,06:10:00,"Delhi, IN",Asia/Kolkata,28.6139,77.2090,1D,2026-01-01,parakramjain@gmail.com,'en'

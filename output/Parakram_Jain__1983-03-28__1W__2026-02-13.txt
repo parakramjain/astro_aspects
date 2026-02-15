@@ -1,0 +1,39 @@
+{
+"name": "Parakram Jain",
+"forecast_type": "weekly",
+"weekly_overview": "This week brings a mix of stimulating and demanding experiences, inviting you to balance ambition with patience. Emotional ups and downs are possible, yet moments of harmony and support will help you stay grounded. Progress may require flexibility, especially when unexpected developments arise. Lean into your strengths and keep communication open, as cooperation and understanding can ease tensions and open doors.",
+"key_opportunities": [
+"Collaborate with others to solve challenges creatively.",
+"Use supportive connections to restore harmony in your environment.",
+"Focus on personal growth by adapting to new circumstances.",
+"Channel energy into productive tasks for better outcomes."
+],
+"areas_to_handle_carefully": [
+"Watch for misunderstandings in conversations or agreements.",
+"Manage expectations to avoid disappointment in relationships.",
+"Be mindful of emotional reactions to stress or change.",
+"Take extra care with decisions that impact your stability."
+],
+"energy_trend": "The week has a dynamic yet occasionally heavy feel, blending moments of motivation with periods that require reflection and patience. Fluctuating emotions and unexpected situations may test your adaptability, but steady effort and open-mindedness can help you find your footing.",
+"practical_weekly_advice": [
+"Allow time for both work and rest to maintain your balance.",
+"Listen actively before responding in important discussions.",
+"Seek out trusted friends or mentors for perspective.",
+"Organize priorities to avoid feeling scattered."
+],
+"categories": {
+"business_career": [
+"Adapt strategies as circumstances shift in your projects.",
+"Cooperation in the workplace enhances progress."
+],
+"health": [
+"Rest and relaxation help manage emotional intensity.",
+"Pay attention to stress signals and adjust your routine."
+]
+},
+"cta": {
+"site_label": "View full chart & guidance",
+"site_url": "https://www.yourastroconsultant.com",
+"footer_note": "Unsubscribe | Preferences"
+}
+}

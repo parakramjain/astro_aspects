@@ -254,8 +254,7 @@ class DailyArea(BaseModel):
 
 
 class DailyWeeklyData(BaseModel):
-    shortSummary: Dict[str, Optional[str]]
-    areas: Dict[str, Dict[str, List[str]]]
+    shortSummary: str
 
 class DailyWeeklyOut(BaseModel):
     data: DailyWeeklyData

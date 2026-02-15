@@ -10,52 +10,122 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Square between Sun and Mercury drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Mercury: analysis, communication, commerce, learning, tech. General tenor: growth via friction; endurance and clear boundaries are key.",
-  "facets": {
-    "career": "Authority, recognition, leadership, alignment with purpose.  Negotiation, analytics, documentation, skilling. Emphasis: friction/work.",
-    "relationships": "Self-respect, healthy boundaries, paternal figures.  Dialog, problem-solving, curiosity. Emphasis: friction/work.",
-    "money": "Status-linked income, government/authority-linked gains.  Trading, freelancing, multi-stream income, contracts. Emphasis: friction/work.",
-    "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Nervous system, breath, routine mobility. Emphasis: friction/work."
+  "core_meaning": {
+    "en": "Tendency to argue and impaired fair judgment due to ego and class knowledge conflicts, causing social and mental difficulties.",
+    "hi": "वादविवाद करने की प्रवृत्ति और अहंकार तथा वर्ग ज्ञान के कारण न्याय करने की क्षमता प्रभावित होना, जिससे सामाजिक और मानसिक समस्याएं उत्पन्न होती हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Sun: lead, present, decide; Mercury: draft, analyze, negotiate; tone: friction/work).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Sun: lead, present, decide; Mercury: draft, analyze, negotiate; tone: friction/work)."
+  "facets": {
+    "career": {
+      "en": "Conflicts in intellectual debates, business, and methods; clashes in social work and important responsibilities; disorganized work conditions.",
+      "hi": "बौद्धिक तर्क, व्यवसाय और पद्धतियों में विवाद; सामाजिक कार्य और महत्वपूर्ण जिम्मेदारियों में टकराव; अव्यवस्थित कार्य परिस्थितियां।"
+    },
+    "relationships": {
+      "en": "Egoistic conversations may cause problems with family, friends, authority figures, and colleagues, leading to social conflicts.",
+      "hi": "अहंकारी वार्तालाप परिवार, मित्र, अधिकारी वर्ग और सहयोगियों के साथ समस्याएं उत्पन्न कर सकते हैं, जिससे सामाजिक टकराव होता है।"
+    },
+    "money": {
+      "en": "Disagreements and conflicts in business or specific methods may lead to financial challenges.",
+      "hi": "व्यवसाय या विशेष पद्धतियों में मतभेद और विवाद आर्थिक चुनौतियां ला सकते हैं।"
+    },
+    "health_adj": {
+      "en": "Disorganized living and working conditions may contribute to mental depression.",
+      "hi": "अव्यवस्थित रहन-सहन और कार्य की स्थिति मानसिक अवसाद का कारण बन सकती है।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Social conflicts",
+      "Intellectual disputes",
+      "Professional clashes",
+      "Mental health challenges"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Sun: lead, present, decide; Mercury: draft, analyze, negotiate; tone: friction/work).",
-      "Make the decisive call; accept/decline offers consciously. (Sun: lead, present, decide; Mercury: draft, analyze, negotiate; tone: friction/work)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Sun: lead, present, decide; Mercury: draft, analyze, negotiate; tone: friction/work).",
-      "Close loops, stabilize routines, prune scope creep. (Sun: lead, present, decide; Mercury: draft, analyze, negotiate; tone: friction/work)."
+    "hi": [
+      "सामाजिक टकराव",
+      "बौद्धिक विवाद",
+      "पेशेवर टकराव",
+      "मानसिक स्वास्थ्य समस्याएं"
     ]
   },
-  "keywords": [
-    "analysis",
-    "authority",
-    "commerce",
-    "communication",
-    "ego",
-    "friction",
-    "identity",
-    "learning",
-    "purpose",
-    "square",
-    "tech",
-    "visibility",
-    "vitality",
-    "work"
-  ],
-  "quality_tags": [
-    "major",
-    "challenging",
-    "discipline-required"
-  ],
+  "risk_notes": {
+    "en": [
+      "Loss of fair judgment",
+      "Ego-driven conflicts",
+      "Problems in social and professional relationships",
+      "Mental depression risk due to disorganization"
+    ],
+    "hi": [
+      "न्याय करने की क्षमता का नुकसान",
+      "अहंकार से उत्पन्न विवाद",
+      "सामाजिक और पेशेवर संबंधों में समस्याएं",
+      "अव्यवस्था के कारण मानसिक अवसाद का खतरा"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be mindful of ego in conversations",
+        "Practice fair judgment in disputes",
+        "Organize living and working environments"
+      ],
+      "hi": [
+        "वार्तालाप में अहंकार से सावधान रहें",
+        "विवादों में न्यायपूर्ण निर्णय करें",
+        "रहने और कार्य करने की जगह व्यवस्थित करें"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Avoid egoistic arguments",
+        "Maintain calm in social and professional interactions"
+      ],
+      "hi": [
+        "अहंकारी वाद-विवाद से बचें",
+        "सामाजिक और पेशेवर बातचीत में शांति बनाए रखें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Reflect on conflicts to reduce ego influence",
+        "Seek balance in responsibilities and social work"
+      ],
+      "hi": [
+        "टकरावों पर विचार करें ताकि अहंकार कम हो",
+        "जिम्मेदारियों और सामाजिक कार्यों में संतुलन बनाएं"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "argument",
+      "ego",
+      "conflict",
+      "social problems",
+      "mental depression",
+      "disorganization"
+    ],
+    "hi": [
+      "वादविवाद",
+      "अहंकार",
+      "टकराव",
+      "सामाजिक समस्या",
+      "मानसिक अवसाद",
+      "अव्यवस्था"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "conflict-prone",
+      "ego-driven",
+      "disorganized"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "टकरावपूर्ण",
+      "अहंकारपूर्ण",
+      "अव्यवस्थित"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -109,36 +179,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    "Health & Routine"
-  ],
+  "theme_overlays": {
+    "en": [
+      "communication difficulties",
+      "social tension",
+      "intellectual disputes",
+      "mental health concerns"
+    ],
+    "hi": [
+      "संचार में कठिनाई",
+      "सामाजिक तनाव",
+      "बौद्धिक विवाद",
+      "मानसिक स्वास्थ्य संबंधी चिंताएं"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-02-07"
   },
   "locales": {
     "en": {
-      "title": "Sun Square Mercury",
-      "core": "Square between Sun and Mercury drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Mercury: analysis, communication, commerce, learning, tech. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "tone": "warm"
+      "title": "sun-squ-mer",
+      "core": "This aspect indicates a tendency toward argumentative behavior and impaired judgment due to ego conflicts, leading to social and mental challenges.",
+      "tone": "Warm, neutral, and cautious"
     },
     "hi": {
-      "title": "Sun Square Mercury (हिन्दी)",
-      "core": "Sun और Mercury का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "सूर्य वर्ग बुध",
+      "core": "यह योग अहंकार के टकराव के कारण वाद-विवाद और न्याय करने में कमी की प्रवृत्ति दर्शाता है, जो सामाजिक और मानसिक चुनौतियां उत्पन्न करता है।",
+      "tone": "सहानुभूतिपूर्ण, तटस्थ और सावधान"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Square between Sun and Mercury drives friction/work. Sun: ego, identity, authority, vitality, purpose, visibility. Mercury: analysis, communication, commerce, learning, tech. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "career": "Authority, recognition, leadership, alignment with purpose.  Negotiation, analytics, documentation, skilling. Emphasis: friction/work.",
-      "relationships": "Self-respect, healthy boundaries, paternal figures.  Dialog, problem-solving, curiosity. Emphasis: friction/work.",
-      "money": "Status-linked income, government/authority-linked gains.  Trading, freelancing, multi-stream income, contracts. Emphasis: friction/work.",
-      "health_adj": "Heart, vitality, heat regulation; consider circadian rhythm.  Nervous system, breath, routine mobility. Emphasis: friction/work."
+      "core": {
+        "en": "The person tends to argue and loses the ability to judge fairly. Ego and class knowledge create conflict. Egoistic conversation may cause problems in social relations with family, friends, authority figures, and colleagues. Conflicts may arise in games, intellectual debates, business, or specific methods. Problems will emerge in life. There will be clashes in social work and significant responsibilities. Disorganized living and working conditions will lead to mental depression.",
+        "hi": "व्यक्ति वादविवाद करने लगता है। न्याय करने की योग्यता खो देता है। अहंकार/वर्ग ज्ञान के मार्ग में वादविवाद निर्मित करता है। परिवार/मित्र/अधिकारी वर्ग/सहयोगियों के साथ सामाजिक संबंध में अहंकारपूर्ण वार्तालाप के कारण समस्या निर्मित हो सकती है। खेल/बौद्धिक तर्क/व्यवसाय/विशेषरू किसी पद्धति पर झगड़ा/विवाद/मतभेद होता है। जीवन में समस्या उत्पन्न होगी। सामाजिक कार्य और महत्त्वपूर्ण जिम्मेदारी में टकराव होगा। अव्यवस्थित रहन.सहन व कार्य स्थिति मानसिक अवसाद का कारण बनेगी।"
+      },
+      "career": {
+        "en": "Conflicts in intellectual debates, business, and specific methods; clashes in social work and important responsibilities; disorganized working conditions.",
+        "hi": "बौद्धिक तर्क, व्यवसाय और विशेष पद्धतियों में विवाद; सामाजिक कार्य और महत्वपूर्ण जिम्मेदारी में टकराव; अव्यवस्थित कार्य स्थिति।"
+      },
+      "relationships": {
+        "en": "Egoistic conversation may cause problems in social relations with family, friends, authority figures, and colleagues.",
+        "hi": "परिवार, मित्र, अधिकारी वर्ग और सहयोगियों के साथ सामाजिक संबंधों में अहंकारपूर्ण वार्तालाप से समस्या हो सकती है।"
+      },
+      "money": {
+        "en": "Conflicts in business or specific methods may lead to problems.",
+        "hi": "व्यवसाय या विशेष पद्धतियों में विवाद समस्याएं उत्पन्न कर सकते हैं।"
+      },
+      "health_adj": {
+        "en": "Disorganized living and working conditions will lead to mental depression.",
+        "hi": "अव्यवस्थित रहन-सहन और कार्य की स्थिति मानसिक अवसाद का कारण बनेगी।"
+      }
     },
     "aliases": [
       "Sun square Mercury",

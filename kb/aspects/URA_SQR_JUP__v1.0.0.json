@@ -10,47 +10,130 @@
     "transit",
     "progressed"
   ],
-  "core_meaning": "Square between Uranus and Jupiter drives friction/work. Uranus: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: growth via friction; endurance and clear boundaries are key.",
-  "facets": {
-    "career": " Mentorship, promotions, strategic expansion. Emphasis: friction/work.",
-    "relationships": " Goodwill, generosity, shared purpose. Emphasis: friction/work.",
-    "money": " Scaling revenue, windfalls, ethical growth. Emphasis: friction/work.",
-    "health_adj": " Liver, metabolic balance; avoid excess. Emphasis: friction/work."
+  "core_meaning": {
+    "en": "This aspect indicates false optimism, unrealistic fantasies, and mental instability. A desire for purity causes problems, and time is wasted on useless travel and work. Foreign dealings and travel bring issues. Risky secret activities should be avoided. Unexpected problems and losses in joint ventures, taxes, insurance, and investments are likely. Astrological predictions may fail due to fluctuations.",
+    "hi": "यह योग झूठे आशावाद, अवास्तविक कल्पनाएँ और मानसिक अस्थिरता दर्शाता है। पवित्रता की इच्छा समस्याएँ उत्पन्न करती है और व्यर्थ यात्रा तथा कार्य में समय बर्बाद होता है। विदेशी व्यवहार और यात्रा से समस्याएँ आती हैं। जोखिम भरे गुप्त कार्यों से बचना चाहिए। अप्रत्याशित समस्याएँ और संयुक्त व्यवसाय, कर, बीमा, निवेश में हानि संभव है। उतार-चढ़ाव के कारण ज्योतिषीय पूर्वानुमान असफल हो सकते हैं।"
   },
-  "life_event_type": [],
-  "risk_notes": [
-    "Friction escalating into conflict; respect pacing and boundaries.",
-    "Overpromising; align scale with capacity."
-  ],
-  "actionables": {
-    "applying": [
-      "Prepare and initiate aligned actions; set intent and book resources. (Uranus: act, iterate, measure; Jupiter: mentor, expand, publish; tone: friction/work).",
-      "Skill-up or pre-negotiate; clear blockers proactively. (Uranus: act, iterate, measure; Jupiter: mentor, expand, publish; tone: friction/work)."
+  "facets": {
+    "career": {
+      "en": "Wasting time on useless work and travel; foreign dealings cause complications; avoid risky secret activities.",
+      "hi": "व्यर्थ कार्य और यात्रा में समय बर्बाद; विदेशी व्यवहार से जटिलताएँ; जोखिम भरे गुप्त कार्यों से बचें।"
+    },
+    "relationships": {
+      "en": "Desire for purity causes problems; unexpected issues may arise affecting connections.",
+      "hi": "पवित्रता की इच्छा से संबंधों में समस्याएँ; अप्रत्याशित समस्याएँ उत्पन्न हो सकती हैं।"
+    },
+    "money": {
+      "en": "Losses likely in joint ventures, taxes, insurance, and investments; get-rich-quick attempts problematic.",
+      "hi": "संयुक्त व्यवसाय, कर, बीमा, निवेश में हानि की संभावना; तेजी से अमीर बनने के प्रयास समस्या उत्पन्न करेंगे।"
+    },
+    "health_adj": {
+      "en": "Mental instability and fluctuations may affect well-being.",
+      "hi": "मानसिक अस्थिरता और उतार-चढ़ाव स्वास्थ्य को प्रभावित कर सकते हैं।"
+    }
+  },
+  "life_event_type": {
+    "en": [
+      "Unexpected problems",
+      "Foreign travel issues",
+      "Financial losses"
     ],
-    "exact": [
-      "Announce, pitch, launch, or sign; maximize visibility. (Uranus: act, iterate, measure; Jupiter: mentor, expand, publish; tone: friction/work).",
-      "Make the decisive call; accept/decline offers consciously. (Uranus: act, iterate, measure; Jupiter: mentor, expand, publish; tone: friction/work)."
-    ],
-    "separating": [
-      "Consolidate gains, document learnings, adjust guardrails. (Uranus: act, iterate, measure; Jupiter: mentor, expand, publish; tone: friction/work).",
-      "Close loops, stabilize routines, prune scope creep. (Uranus: act, iterate, measure; Jupiter: mentor, expand, publish; tone: friction/work)."
+    "hi": [
+      "अप्रत्याशित समस्याएँ",
+      "विदेशी यात्रा की समस्याएँ",
+      "आर्थिक हानि"
     ]
   },
-  "keywords": [
-    "abundance",
-    "faith",
-    "friction",
-    "growth",
-    "law",
-    "mentor",
-    "square",
-    "wisdom",
-    "work"
-  ],
-  "quality_tags": [
-    "major",
-    "challenging"
-  ],
+  "risk_notes": {
+    "en": [
+      "Avoid risky secret activities",
+      "Get-rich-quick attempts are problematic",
+      "Losses in joint ventures, taxes, insurance, investments likely",
+      "Astrological predictions may fail"
+    ],
+    "hi": [
+      "जोखिम भरे गुप्त कार्यों से बचें",
+      "तेजी से अमीर बनने के प्रयास समस्या उत्पन्न करेंगे",
+      "संयुक्त व्यवसाय, कर, बीमा, निवेश में हानि संभव",
+      "ज्योतिषीय पूर्वानुमान गलत हो सकते हैं"
+    ]
+  },
+  "actionables": {
+    "applying": {
+      "en": [
+        "Be cautious with foreign dealings and travel",
+        "Avoid risky secret activities",
+        "Do not rely heavily on astrological predictions"
+      ],
+      "hi": [
+        "विदेशी व्यवहार और यात्रा में सावधानी बरतें",
+        "जोखिम भरे गुप्त कार्यों से बचें",
+        "ज्योतिषीय पूर्वानुमानों पर अधिक निर्भर न हों"
+      ]
+    },
+    "exact": {
+      "en": [
+        "Expect unexpected problems",
+        "Avoid get-rich-quick schemes",
+        "Monitor joint ventures and investments carefully"
+      ],
+      "hi": [
+        "अप्रत्याशित समस्याओं की संभावना रखें",
+        "तेजी से अमीर बनने की योजनाओं से बचें",
+        "संयुक्त व्यवसाय और निवेश पर ध्यान दें"
+      ]
+    },
+    "separating": {
+      "en": [
+        "Review losses and fluctuations calmly",
+        "Reduce involvement in risky activities",
+        "Regain mental stability"
+      ],
+      "hi": [
+        "हानि और उतार-चढ़ाव को शांति से देखें",
+        "जोखिम भरे कार्यों में भागीदारी कम करें",
+        "मानसिक स्थिरता पुनः प्राप्त करें"
+      ]
+    }
+  },
+  "keywords": {
+    "en": [
+      "false optimism",
+      "unrealistic fantasies",
+      "mental instability",
+      "purity desire",
+      "useless travel",
+      "foreign dealings",
+      "risky secret activities",
+      "unexpected problems",
+      "financial losses",
+      "fluctuations"
+    ],
+    "hi": [
+      "झूठा आशावाद",
+      "अवास्तविक कल्पना",
+      "मानसिक अस्थिरता",
+      "पवित्रता की इच्छा",
+      "व्यर्थ यात्रा",
+      "विदेशी व्यवहार",
+      "जोखिम भरे गुप्त कार्य",
+      "अप्रत्याशित समस्याएँ",
+      "आर्थिक हानि",
+      "उतार-चढ़ाव"
+    ]
+  },
+  "quality_tags": {
+    "en": [
+      "challenging",
+      "unstable",
+      "cautionary"
+    ],
+    "hi": [
+      "चुनौतीपूर्ण",
+      "अस्थिर",
+      "सावधानीपूर्ण"
+    ]
+  },
   "weights_hint": {
     "default_orb_deg": 3,
     "planet_weight": {
@@ -104,36 +187,59 @@
       "notes": "Optional: if either planet retrograde, temper extroversion; increase review loops."
     }
   },
-  "theme_overlays": [
-    "Career Advancement",
-    "",
-    "Wealth & Pricing",
-    ""
-  ],
+  "theme_overlays": {
+    "en": [
+      "mental fluctuations",
+      "financial risk",
+      "unexpected difficulties",
+      "purity conflicts"
+    ],
+    "hi": [
+      "मानसिक उतार-चढ़ाव",
+      "आर्थिक जोखिम",
+      "अप्रत्याशित कठिनाइयाँ",
+      "पवित्रता से संघर्ष"
+    ]
+  },
   "refs": [],
   "provenance": {
     "author": "AstroVision Seed+",
-    "reviewed_at": "2025-11-08"
+    "reviewed_at": "2026-02-07"
   },
   "locales": {
     "en": {
-      "title": "Uranus Square Jupiter",
-      "core": "Square between Uranus and Jupiter drives friction/work. Uranus: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "tone": "warm"
+      "title": "ura-squ-jup",
+      "core": "False optimism and mental instability cause challenges in travel, finances, and secret activities. Caution is advised.",
+      "tone": "Neutral, cautionary, and informative"
     },
     "hi": {
-      "title": "Uranus Square Jupiter (हिन्दी)",
-      "core": "Uranus और Jupiter का Square — ऊर्जा friction/work के रूप में चलती है. थोड़ा संतुलन रखें; अवसर और सीख दोनों मिलेंगे.",
-      "tone": "सरल"
+      "title": "यूरेनस स्क्वायर बृहस्पति",
+      "core": "झूठे आशावाद और मानसिक अस्थिरता यात्रा, वित्त और गुप्त कार्यों में चुनौतियाँ लाती हैं। सावधानी आवश्यक है।",
+      "tone": "निष्पक्ष, सावधानीपूर्ण और सूचनात्मक"
     }
   },
   "retrieval": {
     "embedding_sections": {
-      "core": "Square between Uranus and Jupiter drives friction/work. Uranus: . Jupiter: growth, wisdom, mentor, law, faith, abundance. General tenor: growth via friction; endurance and clear boundaries are key.",
-      "career": " Mentorship, promotions, strategic expansion. Emphasis: friction/work.",
-      "relationships": " Goodwill, generosity, shared purpose. Emphasis: friction/work.",
-      "money": " Scaling revenue, windfalls, ethical growth. Emphasis: friction/work.",
-      "health_adj": " Liver, metabolic balance; avoid excess. Emphasis: friction/work."
+      "core": {
+        "en": "False optimism/unrealistic fantasies/mental instability prevails. Desire for purity causes problems. Wastes time on useless travel/work. Foreign dealings/travel bring issues. Avoid risky secret activities now. Unexpected problems may suddenly arise. Get-rich-quick attempts problematic. Losses likely in joint ventures/taxes/insurance/investments. Astrological predictions may fail. Fluctuations cause losses.",
+        "hi": "झूठा आशावाद/अवास्तविक कल्पना/मानसिक अस्थिरता की स्थिति रहती है। पवित्रता से रहने की इच्छा समस्या उत्पन्न करेगी। इस समय व्यक्ति व्यर्थ यात्रा/व्यर्थ कार्य करता है। विदेशी व्यवहार/यात्रा से समस्या उत्पन्न होती है। इस समय व्यक्ति को जोखिम भरे गुप्त कार्य नहीं करने चाहिए। अप्रत्याशित या अचानक रूप से कोई समस्या उत्पन्न हो सकती है। तेजी से अमीर बनने के प्रयास समस्या का कारण बनेंगे। संयुक्त व्यवसाय/कर/बीमा/निवेश आदि से हानि की संभावना रहेगी। ज्योतिष ज्ञान के अनुमान गलत साबित हो सकते हैं। उतार.चढ़ाव से हानि की संभावना रहती है।"
+      },
+      "career": {
+        "en": "Wastes time on useless travel/work. Foreign dealings/travel bring issues. Avoid risky secret activities now.",
+        "hi": "व्यर्थ यात्रा/व्यर्थ कार्य करता है। विदेशी व्यवहार/यात्रा से समस्या उत्पन्न होती है। जोखिम भरे गुप्त कार्य नहीं करने चाहिए।"
+      },
+      "relationships": {
+        "en": "Desire for purity causes problems. Unexpected problems may suddenly arise.",
+        "hi": "पवित्रता से रहने की इच्छा समस्या उत्पन्न करेगी। अप्रत्याशित या अचानक रूप से कोई समस्या उत्पन्न हो सकती है।"
+      },
+      "money": {
+        "en": "Get-rich-quick attempts problematic. Losses likely in joint ventures/taxes/insurance/investments.",
+        "hi": "तेजी से अमीर बनने के प्रयास समस्या का कारण बनेंगे। संयुक्त व्यवसाय/कर/बीमा/निवेश आदि से हानि की संभावना रहेगी।"
+      },
+      "health_adj": {
+        "en": "False optimism/unrealistic fantasies/mental instability prevails. Fluctuations cause losses.",
+        "hi": "झूठा आशावाद/अवास्तविक कल्पना/मानसिक अस्थिरता की स्थिति रहती है। उतार.चढ़ाव से हानि की संभावना रहती है।"
+      }
     },
     "aliases": [
       "Uranus square Jupiter",
