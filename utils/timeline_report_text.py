@@ -42,7 +42,6 @@ def timeline_report_text(timeline_output: Any, lang_code: str = "en") -> str:
         doc_lines.append("-----"*27)
         aspect_text = item.description
         en_text = aspect_text.get(lang_code, "") if isinstance(aspect_text, dict) else ""
-        # print(en_text)
         if en_text:
             doc_lines.append(en_text)
         doc_lines.append(" "*27)

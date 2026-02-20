@@ -243,6 +243,6 @@ def main(argv: Optional[List[str]] = None) -> int:
 if __name__ == "__main__":
     """
     Sample command to execute this code directly from command line:
-    python -m automation.batch_report_runner --csv ./automation/sample_natal_inputs.csv --output ./output --send-email False
+    python -m automation.batch_report_runner_full --csv ./automation/sample_natal_inputs.csv --output ./output --send-email
     """
     raise SystemExit(main())

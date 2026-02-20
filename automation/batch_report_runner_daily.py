@@ -93,8 +93,12 @@ def run_batch(csv_path: Path, output_dir: Path, send_email_ind: bool = False) ->
             req = build_timeline_request(row)
             lang_code = row.get("lang_code", "en")
             print(f"Processing Daily Prediction for: {req.name}...")
+            # # take the first date from the reportStartDate column, and format it in .strftime("%Y-%m-%d") format, and use it as the reportStartDate for the daily report
+            report_start_date = datetime.strptime(row.get("reportStartDate", ""), "%Y-%m-%d").strftime("%Y-%m-%d")
+            req = req.model_copy(update={"reportStartDate": report_start_date})
+
             # update req.reportStartDate to current date for daily report
-            req = req.model_copy(update={"reportStartDate": datetime.now().strftime("%Y-%m-%d")})
+            # req = req.model_copy(update={"reportStartDate": datetime.now().strftime("%Y-%m-%d")})
             # update req.timePeriod to "1D" for daily report
             req = req.model_copy(update={"timePeriod": "1D"})
             print(f"Input: {req}")
@@ -124,7 +128,7 @@ def run_batch(csv_path: Path, output_dir: Path, send_email_ind: bool = False) ->
                         html_body = f"<p>{output.shortSummary.replace(chr(10), '<br>')}</p><br><p>Best regards,<br>Astro Consultant Team</p>"
                     send_email(
                         to_email=to_email,
-                        subject=f"{name} Your Daily Astro Timeline Report.",
+                        subject=f"{report_start_date} - {name} Your Daily Astro Timeline Report.",
                         body=f"{output.shortSummary}\n\nBest regards,\nAstro Consultant Team",
                         html_body=html_body,
                         pdf_path='',
@@ -178,7 +182,7 @@ def main(argv: Optional[List[str]] = None) -> int:
     """
     Docstring for main
     Sample command to execute this code directly from command line:
-    python -m automation.batch_report_runner --csv ./automation/sample_natal_inputs.csv --output ./output
+    python -m automation.batch_report_runner_daily --csv ./automation/sample_natal_inputs.csv --output ./output
     :param argv: Description
     :type argv: Optional[List[str]]
     :return: Description
@@ -234,6 +238,8 @@ def main(argv: Optional[List[str]] = None) -> int:
 if __name__ == "__main__":
     """
     Sample command to execute this code directly from command line:
-    python -m automation.batch_report_runner --csv ./automation/natal_inputs_for_daily_forecast.csv --output ./output --send-email
+    python -m automation.batch_report_runner_daily --csv ./automation/natal_inputs_for_daily_forecast.csv --output ./output --send-email
+    python -m automation.batch_report_runner_daily --csv ./automation/natal_inputs_for_daily_forecast_papa.csv --output ./output --send-email
+    
     """
     raise SystemExit(main())

@@ -374,8 +374,8 @@ def generate_report_pdf(payload: TimelineRequest, lang_code= "en") -> str:
     clean_description = strip_html(description)
     
     # print('Generating AI Summary...')
-    # AI_Summary = compute_report_ai_summary(clean_description, lang_code=lang_code)
-    AI_Summary = "This is a placeholder AI summary. Replace with actual AI-generated content."
+    AI_Summary = compute_report_ai_summary(clean_description, lang_code=lang_code)
+    # AI_Summary = "This is a placeholder AI summary. Replace with actual AI-generated content."
     plot = timeline_report_plot(payload, timeline_output)
     pdf_path = create_timeline_pdf_report(payload, plot, description, ai_summary=AI_Summary, lang_code=lang_code)
     # print("Saved:", pdf_path)

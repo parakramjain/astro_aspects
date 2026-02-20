@@ -2,6 +2,20 @@
 
 FastAPI-based backend service exposing Natal, Reports, and Compatibility APIs for the Astro Vision engine.
 
+## Table of contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [What's included](#whats-included)
+- [Run locally](#run-locally)
+- [Production / EC2 operations](#production--ec2-operations)
+  - [Restart the server in production](#restart-the-server-in-production)
+	- [the exact sequence of commands to update your code on EC2 and restart the backend service.](#the-exact-sequence-of-commands-to-update-your-code-on-ec2-and-restart-the-backend-service)
+  - [Job Scheduling in EC2](#job-scheduling-in-ec2)
+- [Env configuration](#env-configuration)
+- [Health](#health)
+- [Notes](#notes)
+
 ## Overview
 
 Astro Vision — Core REST is a headless astrology engine. It computes natal charts, life-event timelines, and relationship compatibility using Swiss Ephemeris-based calculations plus a file-backed knowledge base of "aspect cards" stored under `kb/`.
@@ -71,6 +85,117 @@ uvicorn main:app --host 127.0.0.1 --port 8787 --reload
 ```
 
 Open docs at http://127.0.0.1:8787/docs
+
+## Production / EC2 operations
+
+### Restart the server in production
+
+✅ Restart Manually (since this is not systemd)
+
+1️⃣ Kill running process
+
+```bash
+kill -9 1374
+```
+
+2️⃣ Confirm it's stopped
+
+```bash
+ps aux | grep uvicorn
+```
+
+You should only see the grep line.
+
+3️⃣ Start it again in background
+
+```bash
+cd /home/ubuntu/astro_aspects
+source venv/bin/activate
+nohup venv/bin/uvicorn main:app --host 0.0.0.0 --port 8787 > server.log 2>&1 &
+```
+
+4️⃣ Verify running
+
+```bash
+ps aux | grep uvicorn
+```
+
+⚠ Strong Recommendation (Production Grade)
+
+Instead of manual kill/start, create a systemd service so restart becomes:
+
+```bash
+sudo systemctl restart astrovision
+```
+
+### the exact sequence of commands to update your code on EC2 and restart the backend service.
+
+1. SSH into EC2
+
+```bash
+ssh -i your-key.pem ubuntu@your-ec2-ip
+```
+
+2. Go to your project folder
+
+```bash
+cd ~/astro-vision-backend
+```
+
+3. Pull latest changes from GitHub
+
+```bash
+git pull origin main
+```
+
+_Use `master` instead of `main` if that’s your branch._
+
+4. Activate virtual environment
+
+```bash
+source venv/bin/activate
+```
+
+5. Install new dependencies (if `requirements.txt` changed)
+
+```bash
+pip install -r requirements.txt
+```
+
+6. Restart your running service
+
+- If using `systemd`:
+
+```bash
+sudo systemctl restart astrovision
+```
+
+- If using `nohup`:
+
+```bash
+pkill -f uvicorn
+nohup uvicorn main:app --host 0.0.0.0 --port 8000 > server.log 2>&1 &
+```
+
+7. Check logs to confirm
+
+- `systemd`:
+
+```bash
+sudo journalctl -u astrovision -f
+```
+
+- `nohup`:
+
+```bash
+tail -f server.log
+```
+
+### Job Scheduling in EC2
+
+```bash
+sudo nano /etc/systemd/system/astro_daily.service
+```
 
 ## Env configuration
 

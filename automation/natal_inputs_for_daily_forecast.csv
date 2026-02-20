@@ -1,6 +1,7 @@
 name,dateOfBirth,timeOfBirth,placeOfBirth,timeZone,latitude,longitude,timePeriod,reportStartDate,email, lang_code
-Parakram Jain,1983-03-28,11:30:00,"Ratlam, India",Asia/Kolkata,23.33,75.03,1D,2026-01-01,parakramjain@gmail.com,'hi'
+Parakram Jain,1983-03-28,11:30:00,"Ratlam, India",Asia/Kolkata,23.33,75.03,1D,2026-01-01,parakramjain@gmail.com,'en'
 Meghna Jain,1980-02-01,11:30:00,"Dewas, India",Asia/Kolkata,22.97,76.05,1D,2026-01-01,jainmeghna@gmail.com,'en'
-Varun Gupta,1984-07-04,6:20:00,"Delhi, India",Asia/Kolkata,28.7,77.1,1D,2026-01-01,varunguptajuly1984@gmail.com ,'en'
 Abhay Jain,1951-08-04,16:30:00,"Dewas, India",Asia/Kolkata,22.97,76.05,1D,2026-01-01,abhayjain51@gmail.com,'hi'
-Uplabdhi Jain,1983-04-21,13:20:00,"Indore, India",Asia/Kolkata,22.72,75.86,1D,2026-01-01,abhayjain51@gmail.com,'en'
+Uplabdhi Jain,1983-04-21,13:20:00,"Indore, India",Asia/Kolkata,22.72,75.86,1D,2026-01-01,uplabdhi.jain@gmail.com,'en'
+Abhishek Najbile,1984-04-20,09:00:00,"Nagpur, India",Asia/Kolkata,21.15,79.09,1W,2026-01-01,abhishek.najbile@gmail.com,'en'
+Varun Gupta,1984-07-04,6:20:00,"Delhi, India",Asia/Kolkata,28.7,77.1,1D,2026-01-01,varunguptajuly1984@gmail.com ,'en'
