@@ -1,4 +1,3 @@
 name,dateOfBirth,timeOfBirth,placeOfBirth,timeZone,latitude,longitude,timePeriod,reportStartDate,email, lang_code
-Abhay Jain,1951-08-04,16:30:00,"Dewas, India",Asia/Kolkata,22.97,76.05,1W,2026-01-01,abhayjain51@gmail.com,'hi'
-Uplabdhi Jain,1983-04-21,13:20:00,"Indore, India",Asia/Kolkata,22.72,75.86,1W,2026-01-01,uplabdhi.jain@gmail.com,'hi'
 Abhishek Najbile,1984-04-20,09:00:00,"Nagpur, India",Asia/Kolkata,21.15,79.09,1W,2026-01-01,abhishek.najbile@gmail.com,'en'
+Naresh Parmani,1979-05-12,17:33:00,"Neemuch, India",Asia/Kolkata,24.47,74.87,1W,2026-01-01,nareshparmani@gmail.com,'en'

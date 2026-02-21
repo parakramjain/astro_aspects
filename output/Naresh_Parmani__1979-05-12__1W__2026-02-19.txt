@@ -1,0 +1,43 @@
+{
+  "name": "Naresh Parmani",
+  "forecast_type": "weekly",
+  "weekly_overview": "This week may feel like a blend of tension and progress. Emotional ups and downs could surface, especially under pressure, but supportive trends also encourage creative thinking and smoother social interactions. Communication remains crucial, and clarity can be found if you pause before reacting. Balancing assertiveness with patience is key to making the most of the week’s mixed energies.",
+  "key_opportunities": [
+    "Collaborate with open-minded people for fresh perspectives.",
+    "Channel your energy into creative or practical projects.",
+    "Use honest communication to resolve misunderstandings.",
+    "Apply patience to manage shifting dynamics and emotions."
+  ],
+  "areas_to_handle_carefully": [
+    "Avoid impulsive decisions in stressful moments.",
+    "Pause before responding to criticism or challenges.",
+    "Stay attentive to unclear or confusing information.",
+    "Watch for tension in close relationships."
+  ],
+  "energy_trend": "The week unfolds with dynamic and sometimes unpredictable energy. Emotions may swing between optimism and frustration, but moments of clarity and connection are accessible. Expect both surges of motivation and periods when patience is needed. Overall, balance between action and reflection helps you navigate these shifting patterns.",
+  "practical_weekly_advice": [
+    "Set aside time for thoughtful conversations.",
+    "Take short breaks when stress rises.",
+    "Prioritize tasks to avoid feeling overwhelmed.",
+    "Seek creative outlets to channel restless energy."
+  ],
+  "categories": {
+    "business_career": [
+      "Be open to new approaches and flexible in problem-solving.",
+      "Clarify agreements and instructions before moving forward."
+    ],
+    "health": [
+      "Manage stress through regular self-care practices.",
+      "Rest well to restore energy after emotional or mental strain."
+    ],
+    "relationships": [
+      "Practice empathy during disagreements.",
+      "Strengthen bonds by sharing honest feelings."
+    ]
+  },
+  "cta": {
+    "site_label": "View full chart & guidance",
+    "site_url": "https://www.yourastroconsultant.com",
+    "footer_note": "Unsubscribe | Preferences"
+  }
+}

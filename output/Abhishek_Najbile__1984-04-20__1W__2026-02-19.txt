@@ -1,0 +1,43 @@
+{
+    "name": "Abhishek Najbile",
+    "forecast_type": "weekly",
+    "weekly_overview": "This week brings a mix of supportive and challenging currents. Positive energy supports clarity, motivation, and steady progress, but emotional and practical tensions may arise, especially around communication and personal desires. Staying flexible and attentive can help you navigate changes smoothly. You may find both opportunities for connection and the need to address misunderstandings. Balance is key to making the most of this dynamic week.",
+    "key_opportunities": [
+        "Use enhanced clarity to advance personal or work projects.",
+        "Strengthen connections by listening and sharing openly.",
+        "Channel motivation into steady, practical action.",
+        "Embrace moments of inspiration for creative solutions."
+    ],
+    "areas_to_handle_carefully": [
+        "Avoid impulsive responses in tense situations.",
+        "Be mindful of misunderstandings in important conversations.",
+        "Balance personal desires with others’ needs.",
+        "Watch for restlessness when routines shift suddenly."
+    ],
+    "energy_trend": "The week feels dynamic and somewhat unpredictable, blending periods of strong motivation with moments of uncertainty. You'll likely experience both encouragement and a need for patience. Staying aware of shifting moods and maintaining flexibility can help you adapt and find balance, even when faced with unexpected challenges.",
+    "practical_weekly_advice": [
+        "Set clear intentions before making important decisions.",
+        "Schedule time for relaxation to restore balance.",
+        "Keep lines of communication open and clear.",
+        "Acknowledge emotions before taking action."
+    ],
+    "categories": {
+        "business_career": [
+            "Focus on practical steps to advance work goals.",
+            "Stay adaptable to changing team dynamics."
+        ],
+        "health": [
+            "Prioritize rest when energy feels scattered.",
+            "Find steady routines to support well-being."
+        ],
+        "relationships": [
+            "Clarify intentions to reduce misunderstandings.",
+            "Show patience during emotional conversations."
+        ]
+    },
+    "cta": {
+        "site_label": "View full chart & guidance",
+        "site_url": "https://www.yourastroconsultant.com",
+        "footer_note": "Unsubscribe | Preferences"
+    }
+}

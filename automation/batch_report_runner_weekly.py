@@ -88,7 +88,7 @@ def run_batch(csv_path: Path, output_dir: Path, send_email_ind: bool = False) ->
     output_dir.mkdir(parents=True, exist_ok=True)
 
     results: List[BatchRowResult] = []
-    for idx, row in enumerate(rows[2:], start=1):
+    for idx, row in enumerate(rows, start=1):
         try:
             req = build_timeline_request(row)
             lang_code = row.get("lang_code", "en")
