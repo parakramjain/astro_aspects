@@ -168,6 +168,7 @@ def natal_aspects(
                     "timeZone": "Asia/Kolkata",
                     "latitude": 22.72,
                     "longitude": 75.80,
+                    "lang_code": "en"
                 },
             }
         },
@@ -192,13 +193,14 @@ def natal_characteristics(
                     "timeZone": "Asia/Kolkata",
                     "latitude": 22.72,
                     "longitude": 75.80,
+                    "lang_code": "en"
                 },
             }
         },
     ),
 ) -> NatalCharacteristicsOut:
     items = compute_natal_natal_aspects(payload)
-    ai_summary = compute_natal_ai_summary(items)
+    ai_summary = compute_natal_ai_summary(items, lang_code=payload.lang_code or "en")
     summary_dict = _ensure_dict_from_ai_summary(ai_summary)
     return NatalCharacteristicsOut(data=NatalCharacteristicsData(description=summary_dict))
 
@@ -221,13 +223,14 @@ def life_events(
                     "longitude": 72.8777,
                     "start_date": "2025-11-01",
                     "horizon_days": 90,
+                    "lang_code": "en"
                 },
             }
         },
     ),
 ) -> LifeEventsOut:
     # start_date and horizon_days are query params (not added to BirthPayload)
-    print(f"Computing life events report... start_date={payload.start_date} horizon_days={payload.horizon_days}")
+    # print(f"Computing life events report... start_date={payload.start_date} horizon_days={payload.horizon_days}")
     # Convert start_date (string) to a datetime.date if provided
     start_date_date: Optional[dt.date] = None
     if payload.start_date:
@@ -261,6 +264,7 @@ def report_timeline(
                     "timeZone": "Asia/Kolkata",
                     "latitude": 22.72,
                     "longitude": 75.80,
+                    "lang_code": "en",
                     "timePeriod": "6M",
                     "reportStartDate": "2025-11-01",
                     "cursor": None,
@@ -269,16 +273,14 @@ def report_timeline(
         },
     ),
 ) -> TimelineOut:
-    print(req)
     timeline_data = compute_timeline(req)
-
     try:
         items_payload = [
             item.model_dump() if hasattr(item, "model_dump") else item.dict()  # type: ignore[union-attr]
             for item in timeline_data.items
         ]
         aspects_text = json.dumps(items_payload, ensure_ascii=False)
-        timeline_data.aiSummary = compute_report_ai_summary(aspects_text)
+        timeline_data.aiSummary = compute_report_ai_summary(aspects_text, lang_code=req.lang_code or "en")
     except Exception as e:
         # If AI summary generation fails, continue returning structural data
         print(f"[reports/timeline] AI summary generation failed: {e}")
@@ -301,6 +303,7 @@ def daily_weekly(
                     "timeZone": "Asia/Kolkata",
                     "latitude": 22.72,
                     "longitude": 75.80,
+                    "lang_code": "en",
                     "timePeriod": "1D",
                     "reportStartDate": "2025-11-01",
                     "cursor": None,
@@ -312,15 +315,13 @@ def daily_weekly(
     dailyWeeklyTimeline_data = dailyWeeklyTimeline(req)
 
     try:
-        items_payload = [
-            item.model_dump() if hasattr(item, "model_dump") else item.dict()  # type: ignore[union-attr]
-            for item in dailyWeeklyTimeline_data.data
-        ]
-        aspects_text = json.dumps(items_payload, ensure_ascii=False)
-        dailyWeeklyTimeline_data = compute_daily_weekly_ai_summary(aspects_text)
+        aspects_text = dailyWeeklyTimeline_data.shortSummary
+        ai_summary = compute_daily_weekly_ai_summary(aspects_text, req, day_or_week="daily",  lang_code=req.lang_code or "en")
+        summary_dict = _ensure_dict_from_ai_summary(ai_summary)
+        dailyWeeklyTimeline_data = DailyWeeklyData(shortSummary=json.dumps(summary_dict, ensure_ascii=False))
     except Exception as e:
         # If AI summary generation fails, continue returning structural data
-        print(f"[reports/timeline] AI summary generation failed: {e}")
+        print(f"[reports/daily-weekly] AI summary generation failed: {e}")
         
     return DailyWeeklyOut(data=dailyWeeklyTimeline_data)
 
@@ -340,8 +341,9 @@ def upcoming_events(
                     "timeZone": "Asia/Kolkata",
                     "latitude": 19.0760,
                     "longitude": 72.8777,
+                    "lang_code": "en",
                     "start_date": "2025-11-01", # 1st of current month
-                    "horizon_days": 365,
+                    "horizon_days": 180 # 6 months,
                 },
             }
         },
@@ -356,6 +358,10 @@ def upcoming_events(
         except ValueError:
             # invalid date format in query param
             raise HTTPException(status_code=400, detail="start_date must be in YYYY-MM-DD format")
+    else:
+        # Default to first day of current month if not provided
+        today = dt.date.today()
+        start_date_date = today.replace(day=1)
 
     # Delegate main processing to report services for testability/reuse
     # Try to pass the extra params to compute_life_events if it supports them, otherwise fall back.
@@ -367,7 +373,11 @@ def upcoming_events(
     calendar_rows = upcoming_event(life_events_list, from_date=start_date_date)
     # Convert dicts to UpcomingCalendarDay objects
     calendar_objs = [UpcomingCalendarDay.model_validate(row) if hasattr(UpcomingCalendarDay, "model_validate") else UpcomingCalendarDay(**row) for row in calendar_rows]
-    return UpcomingEventsCalendarOut(data=calendar_objs)
+    return UpcomingEventsCalendarOut(
+        data=calendar_objs,
+        start_date=start_date_date,
+        end_date=start_date_date + dt.timedelta(days=payload.horizon_days),
+    )
 
 
 # --------------- Compatibility -----------------
@@ -381,11 +391,11 @@ def compat_pair(
                 "value": {
                     "person1": {
                         "name": "Amit","dateOfBirth": "1991-07-14","timeOfBirth": "22:35:00","placeOfBirth": "Mumbai, IN",
-                        "timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777
+                        "timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777,"lang_code": "en"
                     },
                     "person2": {
                         "name": "Riya","dateOfBirth": "1993-02-20","timeOfBirth": "06:10:00","placeOfBirth": "Delhi, IN",
-                        "timeZone": "Asia/Kolkata","latitude": 28.6139,"longitude": 77.2090
+                        "timeZone": "Asia/Kolkata","latitude": 28.6139,"longitude": 77.2090,"lang_code": "en"
                     },
                     "type": "General"
                 },
@@ -459,9 +469,9 @@ def compat_group(
                 "summary": "Sample",
                 "value": {
                     "people": [
-                        {"name": "Amit","dateOfBirth": "1991-07-14","timeOfBirth": "22:35:00","placeOfBirth": "Mumbai, IN","timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777},
-                        {"name": "Riya","dateOfBirth": "1993-02-20","timeOfBirth": "06:10:00","placeOfBirth": "Delhi, IN","timeZone": "Asia/Kolkata","latitude": 28.6139,"longitude": 77.2090},
-                        {"name": "Karan","dateOfBirth": "1990-11-02","timeOfBirth": "14:05:00","placeOfBirth": "Pune, IN","timeZone": "Asia/Kolkata","latitude": 18.5204,"longitude": 73.8567}
+                        {"name": "Amit","dateOfBirth": "1991-07-14","timeOfBirth": "22:35:00","placeOfBirth": "Mumbai, IN","timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777,"lang_code": "en"},
+                        {"name": "Riya","dateOfBirth": "1993-02-20","timeOfBirth": "06:10:00","placeOfBirth": "Delhi, IN","timeZone": "Asia/Kolkata","latitude": 28.6139,"longitude": 77.2090,"lang_code": "en"},
+                        {"name": "Karan","dateOfBirth": "1990-11-02","timeOfBirth": "14:05:00","placeOfBirth": "Pune, IN","timeZone": "Asia/Kolkata","latitude": 18.5204,"longitude": 73.8567,"lang_code": "en"}
                     ],
                     "type": "Friendship Group",
                     "cursor": None
@@ -506,6 +516,7 @@ def soulmate_finder(
                     "timeZone": "Asia/Kolkata",
                     "latitude": 19.0760,
                     "longitude": 72.8777,
+                    "lang_code": "en"
                 },
             }
         },
@@ -538,11 +549,11 @@ def compat_ashtakoota(
                 "value": {
                     "person1": {
                         "name": "Amit","dateOfBirth": "1991-07-14","timeOfBirth": "22:35:00","placeOfBirth": "Mumbai, IN",
-                        "timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777
+                        "timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777,"lang_code": "en"
                     },
                     "person2": {
                         "name": "Riya","dateOfBirth": "1993-02-20","timeOfBirth": "06:10:00","placeOfBirth": "Delhi, IN",
-                        "timeZone": "Asia/Kolkata","latitude": 28.6139,"longitude": 77.2090
+                        "timeZone": "Asia/Kolkata","latitude": 28.6139,"longitude": 77.2090,"lang_code": "en"
                     },
                     "type": "Marriage"
                 },

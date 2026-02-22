@@ -32,7 +32,8 @@ class BirthPayload(BaseModel):
                 "placeOfBirth": "Mumbai, IN",
                 "timeZone": "Asia/Kolkata",
                 "latitude": 19.0760,
-                "longitude": 72.8777
+                "longitude": 72.8777,
+                "lang_code": "en"
             }
         ]
     })
@@ -44,6 +45,7 @@ class BirthPayload(BaseModel):
     timeZone: str = Field(..., description="IANA timezone for the place of birth.", examples=["Asia/Kolkata"]) 
     latitude: float = Field(..., description="Latitude in decimal degrees (north positive).", examples=[19.0760])
     longitude: float = Field(..., description="Longitude in decimal degrees (east positive).", examples=[72.8777])
+    lang_code: Optional[str] = Field(default="en", description="Optional ISO language code for localized responses.", examples=["en"])
 
 
 class PersonPayload(BaseModel):
@@ -57,7 +59,8 @@ class PersonPayload(BaseModel):
                 "placeOfBirth": "Delhi, IN",
                 "timeZone": "Asia/Kolkata",
                 "latitude": 28.6139,
-                "longitude": 77.2090
+                "longitude": 77.2090,
+                "lang_code": "en"
             }
         ]
     })
@@ -69,6 +72,7 @@ class PersonPayload(BaseModel):
     timeZone: str = Field(..., description="IANA timezone for the place of birth.", examples=["Asia/Kolkata"]) 
     latitude: float = Field(..., description="Latitude in decimal degrees (north positive).", examples=[28.6139])
     longitude: float = Field(..., description="Longitude in decimal degrees (east positive).", examples=[77.2090])
+    lang_code: Optional[str] = Field(default="en", description="Optional ISO language code for localized responses.", examples=["en"])
 
 
 class CompatibilityPairIn(BaseModel):
@@ -78,11 +82,11 @@ class CompatibilityPairIn(BaseModel):
             {
                 "person1": {
                     "name": "Amit","dateOfBirth": "1991-07-14","timeOfBirth": "22:35:00","placeOfBirth": "Mumbai, IN",
-                    "timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777
+                    "timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777,"lang_code": "en"
                 },
                 "person2": {
                     "name": "Riya","dateOfBirth": "1993-02-20","timeOfBirth": "06:10:00","placeOfBirth": "Delhi, IN",
-                    "timeZone": "Asia/Kolkata","latitude": 28.6139,"longitude": 77.2090
+                    "timeZone": "Asia/Kolkata","latitude": 28.6139,"longitude": 77.2090,"lang_code": "en"
                 },
                 "type": "General"
             }
@@ -100,8 +104,8 @@ class GroupCompatibilityIn(BaseModel):
         "examples": [
             {
                 "people": [
-                    {"name": "Amit","dateOfBirth": "1991-07-14","timeOfBirth": "22:35:00","placeOfBirth": "Mumbai, IN","timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777},
-                    {"name": "Riya","dateOfBirth": "1993-02-20","timeOfBirth": "06:10:00","placeOfBirth": "Delhi, IN","timeZone": "Asia/Kolkata","latitude": 28.6139,"longitude": 77.2090}
+                    {"name": "Amit","dateOfBirth": "1991-07-14","timeOfBirth": "22:35:00","placeOfBirth": "Mumbai, IN","timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777,"lang_code": "en"},
+                    {"name": "Riya","dateOfBirth": "1993-02-20","timeOfBirth": "06:10:00","placeOfBirth": "Delhi, IN","timeZone": "Asia/Kolkata","latitude": 28.6139,"longitude": 77.2090,"lang_code": "en"}
                 ],
                 "type": "Professional",
                 "cursor": None
@@ -120,7 +124,7 @@ class TimelineRequest(BirthPayload):
         "examples": [
             {
                 "name": "Amit","dateOfBirth": "1991-07-14","timeOfBirth": "22:35:00","placeOfBirth": "Mumbai, IN",
-                "timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777,
+                "timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777,"lang_code": "en",
                 "timePeriod": "6M","reportStartDate": "2025-11-01","cursor": None
             }
         ]
@@ -137,7 +141,7 @@ class DailyWeeklyRequest(BirthPayload):
         "examples": [
             {
                 "name": "Amit","dateOfBirth": "1991-07-14","timeOfBirth": "22:35:00","placeOfBirth": "Mumbai, IN",
-                "timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777, "timePeriod": "1W",
+                "timeZone": "Asia/Kolkata","latitude": 19.0760,"longitude": 72.8777,"lang_code": "en", "timePeriod": "1W",
                 "mode": "DAILY"
             }
         ]
@@ -232,10 +236,10 @@ class TimelineItem(BaseModel):
     startDate: str
     exactDate: str
     endDate: str
-    description: Optional[Dict[str, Any]] = None
-    keyPoints: Optional[Dict[str, Any]] = None
+    description: str
+    # keyPoints: Optional[Dict[str, Any]] = None
     facetsPoints: Optional[Dict[str, Any]] = None
-    keywords: Optional[Dict[str, Any]] = None
+    # keywords: Optional[Dict[str, Any]] = None
 
 
 class TimelineData(BaseModel):
@@ -293,6 +297,8 @@ class UpcomingEventsCalendarOut(BaseModel):
     """Calendar-friendly daily expansion of upcoming life events."""
 
     data: List[UpcomingCalendarDay]
+    start_date: Optional[dt.date] = None
+    end_date: Optional[dt.date] = None
 
 
 class KpiScoreRow(BaseModel):

@@ -97,7 +97,7 @@ def generate_report_for_row(req: TimelineRequest, lang_code: str = 'en') -> str:
     # except Exception as exc:
     #     report["lifeEventsError"] = str(exc)
     report_path = ""
-    report_path = report_services.generate_report_pdf(req, lang_code=lang_code)
+    report_path = report_services.generate_report_pdf(req, lang_code=lang_code, store_to_s3=True)
     return report_path
 
 

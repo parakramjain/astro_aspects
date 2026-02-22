@@ -639,12 +639,13 @@ components:
         - longitude
       properties:
         name: { type: string, example: "Amit" }
-        dateOfBirth: { type: string, format: date, example: "1990-01-01" }     # YYYY-MM-DD
+        dateOfBirth: { type: string, format: date, example: "1980-01-01" }     # YYYY-MM-DD
         timeOfBirth: { type: string, example: "22:35:00" }
         placeOfBirth: { type: string , example: "Mumbai, IN" }
         timeZone: { type: string, example: "Asia/Kolkata" }
         latitude: { type: number, example: 19.0760 }
         longitude: { type: number, example: 72.8777 }
+        lang_code: {type: string, example: "en", description: "Optional ISO language code for localized outputs (e.g., 'en', 'hi', 'es'). Defaults to English if not provided." }
 
     LifeEventPayload:
       allOf:

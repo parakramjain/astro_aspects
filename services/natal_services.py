@@ -343,15 +343,15 @@ def compute_natal_natal_aspects(payload: BirthPayload) -> List[NatalAspectItem]:
                     label = f"{a} {code} {b}"
                     # print(f"{a}_{code}_{b}__v1.0.0")
                     # Get the description and facets from aspect cards
-                    card_fields = get_card_fields(f"{a}_{code}_{b}__v1.0.0", fields="core_meaning,facets").get("fields", {})
+                    card_fields = get_card_fields(f"{a}_{code}_{b}__v1.0.0", fields="core_meaning,facets", lang_code=payload.lang_code).get("fields", {})
                     items.append(NatalAspectItem(aspect=label, angle=round(sep, 3), dist=round(dist, 3), strength=round(strength, 3), characteristics=card_fields))
     # Sort by strength desc
     items.sort(key=lambda x: x.strength, reverse=True)
     return items
 
-def compute_natal_ai_summary(aspects_text: List[NatalAspectItem]) -> str:
-    system_prompt = get_system_prompt_natal()
-    user_prompt = get_user_prompt_natal(aspects_text)
+def compute_natal_ai_summary(aspects_text: List[NatalAspectItem], lang_code: str = "en") -> str:
+    system_prompt = get_system_prompt_natal(lang_code=lang_code)
+    user_prompt = get_user_prompt_natal(aspects_text, lang_code=lang_code)
 
     response_text = generate_astrology_AI_summary(system_prompt, user_prompt, model="gpt-4.1")
     return response_text

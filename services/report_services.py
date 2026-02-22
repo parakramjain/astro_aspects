@@ -18,6 +18,7 @@ from schemas import (
 from astro_core.astro_core import calc_aspect_periods
 from services.ai_prompt_service import get_system_prompt_report, get_user_prompt_report, get_user_prompt_daily, get_system_prompt_daily, get_user_prompt_weekly, get_system_prompt_weekly
 from services.ai_agent_services import generate_astrology_AI_summary
+from utils.copy_to_s3 import S3Target, upload_file_to_s3
 
 def compute_life_events(
     payload: BirthPayload,
@@ -57,7 +58,7 @@ def compute_life_events(
         "Jup": "JUP", "Sat": "SAT", "Ura": "URA", "Nep": "NEP", "Plu": "PLU",
     }
     # Aspect code mapping from internal short to card filenames. Sextile appears as 'SEX' in current KB.
-    ASPECT_CODE_MAP = {"Con": "CON", "Opp": "OPP", "Sqr": "SQR", "Tri": "TRI", "Sxt": "SEX"}
+    ASPECT_CODE_MAP = {"Con": "CON", "Opp": "OPP", "Sqr": "SQR", "Tri": "TRI", "Sxt": "SXT"}
 
     for p in periods[:limit]:
         t, a, n = p.aspect  # e.g. ('Jup','Con','Sun')
@@ -72,11 +73,11 @@ def compute_life_events(
             card_id = f"{PLANET_CODE_MAP.get(t, t.upper())}_{ASPECT_CODE_MAP.get(a, a.upper())}_{PLANET_CODE_MAP.get(n, n.upper())}__v1.0.0"
             description_text = ""
             try:
-                # Fetch only the life_event_type field from the aspect card. The helper returns
+                # Fetch only the quality_tags field from the aspect card. The helper returns
                 # a structure {"id": ..., "fields": {...}} so we must unwrap the "fields" key.
-                raw_fields = get_card_fields(card_id, fields="life_event_type")
-                life_event_value = raw_fields.get("fields", {}).get("life_event_type")
-                # life_event_type in the card schema currently appears as a list (or may be missing).
+                raw_fields = get_card_fields(card_id, fields="quality_tags", lang_code=payload.lang_code or "en")
+                life_event_value = raw_fields.get("fields", {}).get("quality_tags")
+                # quality_tags in the card schema currently appears as a list (or may be missing).
                 # Normalize to a human-readable string for the LifeEvent.description field (expects str).
                 if isinstance(life_event_value, list):
                     if life_event_value:
@@ -117,6 +118,7 @@ def compute_timeline(req: TimelineRequest) -> TimelineData:
     and conversion to TimelineItem models.
     """
     start = dt.date.fromisoformat(req.reportStartDate)
+    language = req.lang_code or "en"
     planet_exclusion_list: List[str] = []
     if req.timePeriod == "1Y":
         end = start + dt.timedelta(days=365)
@@ -165,37 +167,45 @@ def compute_timeline(req: TimelineRequest) -> TimelineData:
         t, a, n = p.aspect
         card_id = f"{PLANET_CODE_MAP.get(t, t.upper())}_{ASPECT_CODE_MAP.get(a, a.upper())}_{PLANET_CODE_MAP.get(n, n.upper())}__v1.0.0"
 
-        desc_text: Optional[Dict[str, Any]] = None
-        key_points: Optional[Dict[str, Any]] = None
+        desc_text: str = ""
+        # key_points: Optional[Dict[str, Any]] = None
         facets_points: Optional[Dict[str, Any]] = None
-        keywords: Optional[Dict[str, Any]] = None
+        # keywords: Optional[Dict[str, Any]] = None
 
         aspect_nature = "Positive" if ASPECT_CODE_MAP.get(a, a.upper()) in {"CON", "TRI", "SXT"} else "Negative"
 
         try:
-            sel = get_card_fields(card_id, fields="core_meaning, facets")
+            sel = get_card_fields(card_id, fields="core_meaning, facets", lang_code=language)
             fields = sel.get("fields", {}) if isinstance(sel, dict) else {}
 
             cm_value = fields.get("core_meaning") if isinstance(fields, dict) else None
-            if isinstance(cm_value, dict):
-                desc_text = cm_value
+            desc_text = ""
+            if isinstance(cm_value, list):
+                if cm_value:
+                    desc_text = ", ".join(str(x) for x in cm_value)
+                else:
+                    desc_text = ""  # empty list -> empty description
+            elif isinstance(cm_value, (str, int, float)):
+                desc_text = str(cm_value)
+            elif cm_value is None:
+                desc_text = ""  # missing -> empty
             else:
-                desc_text = {"en": "", "hi": ""}
+                desc_text = str(cm_value)
 
-            acts = fields.get("actionables") if isinstance(fields, dict) else None
-            if isinstance(acts, dict):
-                key_points = acts
-            else:
-                key_points = {"applying": {"en": [], "hi": []}, "exact": {"en": [], "hi": []}, "separating": {"en": [], "hi": []}}
+            # acts = fields.get("actionables") if isinstance(fields, dict) else None
+            # if isinstance(acts, dict):
+            #     key_points = acts
+            # else:
+            #     key_points = {"applying": {f"{language}": []}, "exact": {f"{language}": []}, "separating": {f"{language}": []}}
 
             facets = fields.get("facets") if isinstance(fields, dict) else None
             if isinstance(facets, dict):
                 facets_points = facets or {}
             else:
-                facets_points = { "career": { "en": " ", "hi": " "}, "relationships": {"en": " ", "hi": " "}, "money": {"en": " ","hi": " "},"health_adj": {"en": " ","hi": " "}}
-            key_words = fields.get("keywords") if isinstance(fields, dict) else None
-            if isinstance(key_words, dict):
-                keywords=key_words
+                facets_points = { "career": {f"{language}": " "}, "relationships": {f"{language}": " "}, "money": {f"{language}": " "},"health_adj": {f"{language}": " "}}
+            # key_words = fields.get("keywords") if isinstance(fields, dict) else None
+            # if isinstance(key_words, dict):
+            #     keywords=key_words
 
         except Exception as e:
             print(f"Error fetching card {card_id}: {e}")
@@ -209,9 +219,9 @@ def compute_timeline(req: TimelineRequest) -> TimelineData:
                 exactDate=p.exact_dt.isoformat(),
                 endDate=p.end_dt.isoformat(),
                 description=desc_text,
-                keyPoints=key_points,
+                # keyPoints=key_points,
                 facetsPoints=facets_points,
-                keywords=keywords
+                # keywords=keywords
             )
         )
     summary = (
@@ -339,9 +349,9 @@ def upcoming_event(
     return out
 
 def compute_report_ai_summary(aspects_text: str, lang_code: str = "en") -> str:
-    lang_code = "English" if lang_code.lower() == "en" else "Hindi"
-    system_prompt = get_system_prompt_report()
-    user_prompt = get_user_prompt_report(aspects_text, lang_code=lang_code)
+    language = "English" if lang_code.lower() == "en" else "Hindi"
+    system_prompt = get_system_prompt_report(language=language)
+    user_prompt = get_user_prompt_report(aspects_text, language=language)
 
     response_text = generate_astrology_AI_summary(system_prompt, user_prompt, model="gpt-4.1")
     return response_text
@@ -361,7 +371,7 @@ def compute_daily_weekly_ai_summary(aspects_text: str, payload: TimelineRequest,
     response_text = generate_astrology_AI_summary(system_prompt, user_prompt, model="gpt-4.1")
     return response_text
 
-def generate_report_pdf(payload: TimelineRequest, lang_code= "en") -> str:
+def generate_report_pdf(payload: TimelineRequest, lang_code= "en", store_to_s3: bool = False) -> str:
     import pytz
     from utils.timeline_report_pdf import create_timeline_pdf_report
     from utils.timeline_report_text import timeline_report_text
@@ -378,7 +388,9 @@ def generate_report_pdf(payload: TimelineRequest, lang_code= "en") -> str:
     # AI_Summary = "This is a placeholder AI summary. Replace with actual AI-generated content."
     plot = timeline_report_plot(payload, timeline_output)
     pdf_path = create_timeline_pdf_report(payload, plot, description, ai_summary=AI_Summary, lang_code=lang_code)
-    # print("Saved:", pdf_path)
+    if store_to_s3:
+        target = S3Target(bucket="astro-reports-output", key=f"user/reports/{payload.name}_{payload.reportStartDate}_{payload.timePeriod}_daily_report.pdf")
+        upload_file_to_s3(pdf_path, target, content_type="application/pdf", sse="AES256")
     return pdf_path
 
 if __name__ == "__main__":

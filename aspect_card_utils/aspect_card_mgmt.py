@@ -231,6 +231,17 @@ def _select_fields_dict(data: dict, paths: List[List[str]]) -> dict:
             _assign_by_path(result, p, val)
     return result
 
+def _select_lang_from_value(value: Any, lang_code: str) -> Any:
+    """Recursively reduce bilingual {en,hi} structures to one language."""
+    if isinstance(value, dict):
+        keys = set(value.keys())
+        if lang_code in value and keys.issubset({"en", "hi"}):
+            return _select_lang_from_value(value[lang_code], lang_code)
+        return {k: _select_lang_from_value(v, lang_code) for k, v in value.items()}
+    if isinstance(value, list):
+        return [_select_lang_from_value(v, lang_code) for v in value]
+    return value
+
 # ---------------------------------
 # FastAPI app (standalone)
 # ---------------------------------
@@ -294,12 +305,16 @@ def get_card_api(card_id: str):
         raise HTTPException(status_code=404, detail="Card not found")
 
 @app.get("/cards/{card_id}/fields")
-def get_card_fields(card_id: str, fields: Optional[str] = Query(None, description="Comma-separated list of fields (dot notation for nested) e.g. core_meaning,facets.career,locales.en.title")):
+def get_card_fields(
+    card_id: str,
+    fields: Optional[str] = Query(None, description="Comma-separated list of fields (dot notation for nested) e.g. core_meaning,facets.career,locales.en.title"),
+    lang_code: Optional[str] = Query(None, description="Language code for bilingual fields: en or hi"),
+):
     """Return only selected fields from a card.
 
     Examples:
      cards/JUP_TRI_SUN__v1.0.0/fields?fields=core_meaning,keywords /
-      /cards/JUP_TRI_SUN__v1.0.0/fields?fields=facets.career,locales.en.title
+      /cards/JUP_TRI_SUN__v1.0.0/fields?fields=facets.career,locales&lang_code=en
 
     If a requested path doesn't exist it is silently skipped.
     """
@@ -310,8 +325,12 @@ def get_card_fields(card_id: str, fields: Optional[str] = Query(None, descriptio
     paths = _parse_fields_param(fields)
     if not paths:
         raise HTTPException(status_code=400, detail="fields query parameter required")
+    if lang_code is not None and lang_code not in {"en", "hi"}:
+        raise HTTPException(status_code=400, detail="lang_code must be either 'en' or 'hi'")
     raw = json.loads(model.model_dump_json())  # full dict
     selected = _select_fields_dict(raw, paths)
+    if lang_code:
+        selected = _select_lang_from_value(selected, lang_code)
     return {"id": card_id, "fields": selected}
 
 @app.post("/cards", status_code=201, response_model=AspectCardModel)
