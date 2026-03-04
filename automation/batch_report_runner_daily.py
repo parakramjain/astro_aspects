@@ -92,9 +92,9 @@ def run_batch(csv_path: Path, output_dir: Path, send_email_ind: bool = False) ->
         try:
             req = build_timeline_request(row)
             lang_code = row.get("lang_code", "en")
-            print(f"Processing Daily Prediction for: {req.name}...")
             # # take the first date from the reportStartDate column, and format it in .strftime("%Y-%m-%d") format, and use it as the reportStartDate for the daily report
             report_start_date = datetime.strptime(row.get("reportStartDate", ""), "%Y-%m-%d").strftime("%Y-%m-%d")
+            print(f"Processing Daily Prediction for: {req.name}... {report_start_date}")
             req = req.model_copy(update={"reportStartDate": report_start_date})
 
             # update req.reportStartDate to current date for daily report

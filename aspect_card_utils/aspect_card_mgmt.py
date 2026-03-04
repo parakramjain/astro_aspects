@@ -47,7 +47,10 @@ except ImportError:
 # ---------------------------------
 # Storage config
 # ---------------------------------
-ROOT_DIR = os.path.abspath(".")
+MODULE_DIR = os.path.dirname(os.path.abspath(__file__))
+# Anchor storage paths to the repository root (parent of this package)
+# so imports work regardless of the current working directory.
+ROOT_DIR = os.path.abspath(os.path.join(MODULE_DIR, os.pardir))
 KB_DIR = os.path.join(ROOT_DIR, "kb")
 ASPECTS_DIR = os.path.join(KB_DIR, "aspects")
 INDEX_PATH = os.path.join(KB_DIR, "index.json")

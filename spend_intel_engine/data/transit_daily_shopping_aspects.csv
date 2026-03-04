@@ -1,0 +1,120 @@
+aspect_code,day_scoring_implication
+VEN CON VEN,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN TRI VEN,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN SEX VEN,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN SQR VEN,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN OPP VEN,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN CON JUP,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN TRI JUP,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN SEX JUP,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN SQR JUP,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN OPP JUP,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN CON SAT,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN TRI SAT,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN SEX SAT,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN SQR SAT,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN OPP SAT,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN CON R2,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN TRI R2,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN SEX R2,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN SQR R2,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+VEN OPP R2,"Primary shopping signal. Supportive aspects: pleasant, well-timed purchases; hard aspects: indulgence or poor value—add budget checks."
+JUP CON VEN,Big-ticket favorability. Supportive aspects: good deals/optimism; hard aspects: overestimation and overspending—cap budget.
+JUP TRI VEN,Big-ticket favorability. Supportive aspects: good deals/optimism; hard aspects: overestimation and overspending—cap budget.
+JUP SEX VEN,Big-ticket favorability. Supportive aspects: good deals/optimism; hard aspects: overestimation and overspending—cap budget.
+JUP SQR VEN,Big-ticket favorability. Supportive aspects: good deals/optimism; hard aspects: overestimation and overspending—cap budget.
+JUP OPP VEN,Big-ticket favorability. Supportive aspects: good deals/optimism; hard aspects: overestimation and overspending—cap budget.
+JUP CON R2,Big-ticket favorability. Supportive aspects: good deals/optimism; hard aspects: overestimation and overspending—cap budget.
+JUP TRI R2,Big-ticket favorability. Supportive aspects: good deals/optimism; hard aspects: overestimation and overspending—cap budget.
+JUP SEX R2,Big-ticket favorability. Supportive aspects: good deals/optimism; hard aspects: overestimation and overspending—cap budget.
+JUP SQR R2,Big-ticket favorability. Supportive aspects: good deals/optimism; hard aspects: overestimation and overspending—cap budget.
+JUP OPP R2,Big-ticket favorability. Supportive aspects: good deals/optimism; hard aspects: overestimation and overspending—cap budget.
+SAT CON VEN,Quality/long-term purchases favored. Supportive aspects: disciplined buying; hard aspects: delays/constraints—avoid rush decisions.
+SAT TRI VEN,Quality/long-term purchases favored. Supportive aspects: disciplined buying; hard aspects: delays/constraints—avoid rush decisions.
+SAT SEX VEN,Quality/long-term purchases favored. Supportive aspects: disciplined buying; hard aspects: delays/constraints—avoid rush decisions.
+SAT SQR VEN,Quality/long-term purchases favored. Supportive aspects: disciplined buying; hard aspects: delays/constraints—avoid rush decisions.
+SAT OPP VEN,Quality/long-term purchases favored. Supportive aspects: disciplined buying; hard aspects: delays/constraints—avoid rush decisions.
+SAT CON R2,Quality/long-term purchases favored. Supportive aspects: disciplined buying; hard aspects: delays/constraints—avoid rush decisions.
+SAT TRI R2,Quality/long-term purchases favored. Supportive aspects: disciplined buying; hard aspects: delays/constraints—avoid rush decisions.
+SAT SEX R2,Quality/long-term purchases favored. Supportive aspects: disciplined buying; hard aspects: delays/constraints—avoid rush decisions.
+SAT SQR R2,Quality/long-term purchases favored. Supportive aspects: disciplined buying; hard aspects: delays/constraints—avoid rush decisions.
+SAT OPP R2,Quality/long-term purchases favored. Supportive aspects: disciplined buying; hard aspects: delays/constraints—avoid rush decisions.
+MER CON MER,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER TRI MER,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER SEX MER,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER SQR MER,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER OPP MER,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER CON VEN,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER TRI VEN,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER SEX VEN,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER SQR VEN,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER OPP VEN,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER CON R2,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER TRI R2,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER SEX R2,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER SQR R2,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MER OPP R2,"Research/negotiation/contracts favored. Supportive aspects: compare, sign, schedule delivery; hard aspects: miscommunication—double-check terms."
+MAR CON VEN,Action/impulse driver. Supportive aspects: decisive execution if planned; hard aspects: impulsive spend—cool-off window recommended.
+MAR TRI VEN,Action/impulse driver. Supportive aspects: decisive execution if planned; hard aspects: impulsive spend—cool-off window recommended.
+MAR SEX VEN,Action/impulse driver. Supportive aspects: decisive execution if planned; hard aspects: impulsive spend—cool-off window recommended.
+MAR SQR VEN,Action/impulse driver. Supportive aspects: decisive execution if planned; hard aspects: impulsive spend—cool-off window recommended.
+MAR OPP VEN,Action/impulse driver. Supportive aspects: decisive execution if planned; hard aspects: impulsive spend—cool-off window recommended.
+MAR CON R2,Action/impulse driver. Supportive aspects: decisive execution if planned; hard aspects: impulsive spend—cool-off window recommended.
+MAR TRI R2,Action/impulse driver. Supportive aspects: decisive execution if planned; hard aspects: impulsive spend—cool-off window recommended.
+MAR SEX R2,Action/impulse driver. Supportive aspects: decisive execution if planned; hard aspects: impulsive spend—cool-off window recommended.
+MAR SQR R2,Action/impulse driver. Supportive aspects: decisive execution if planned; hard aspects: impulsive spend—cool-off window recommended.
+MAR OPP R2,Action/impulse driver. Supportive aspects: decisive execution if planned; hard aspects: impulsive spend—cool-off window recommended.
+NEP CON VEN,Confusion/idealization. Supportive aspects: creative/beauty buys ok; hard aspects: deception/fuzziness—downscore expensive or contractual purchases.
+NEP TRI VEN,Confusion/idealization. Supportive aspects: creative/beauty buys ok; hard aspects: deception/fuzziness—downscore expensive or contractual purchases.
+NEP SEX VEN,Confusion/idealization. Supportive aspects: creative/beauty buys ok; hard aspects: deception/fuzziness—downscore expensive or contractual purchases.
+NEP SQR VEN,Confusion/idealization. Supportive aspects: creative/beauty buys ok; hard aspects: deception/fuzziness—downscore expensive or contractual purchases.
+NEP OPP VEN,Confusion/idealization. Supportive aspects: creative/beauty buys ok; hard aspects: deception/fuzziness—downscore expensive or contractual purchases.
+NEP CON MER,Confusion/idealization. Supportive aspects: creative/beauty buys ok; hard aspects: deception/fuzziness—downscore expensive or contractual purchases.
+NEP TRI MER,Confusion/idealization. Supportive aspects: creative/beauty buys ok; hard aspects: deception/fuzziness—downscore expensive or contractual purchases.
+NEP SEX MER,Confusion/idealization. Supportive aspects: creative/beauty buys ok; hard aspects: deception/fuzziness—downscore expensive or contractual purchases.
+NEP SQR MER,Confusion/idealization. Supportive aspects: creative/beauty buys ok; hard aspects: deception/fuzziness—downscore expensive or contractual purchases.
+NEP OPP MER,Confusion/idealization. Supportive aspects: creative/beauty buys ok; hard aspects: deception/fuzziness—downscore expensive or contractual purchases.
+URA CON VEN,Surprise/novelty. Supportive aspects: smart upgrades/refresh; hard aspects: erratic choices—avoid major commitments.
+URA TRI VEN,Surprise/novelty. Supportive aspects: smart upgrades/refresh; hard aspects: erratic choices—avoid major commitments.
+URA SEX VEN,Surprise/novelty. Supportive aspects: smart upgrades/refresh; hard aspects: erratic choices—avoid major commitments.
+URA SQR VEN,Surprise/novelty. Supportive aspects: smart upgrades/refresh; hard aspects: erratic choices—avoid major commitments.
+URA OPP VEN,Surprise/novelty. Supportive aspects: smart upgrades/refresh; hard aspects: erratic choices—avoid major commitments.
+URA CON R2,Surprise/novelty. Supportive aspects: smart upgrades/refresh; hard aspects: erratic choices—avoid major commitments.
+URA TRI R2,Surprise/novelty. Supportive aspects: smart upgrades/refresh; hard aspects: erratic choices—avoid major commitments.
+URA SEX R2,Surprise/novelty. Supportive aspects: smart upgrades/refresh; hard aspects: erratic choices—avoid major commitments.
+URA SQR R2,Surprise/novelty. Supportive aspects: smart upgrades/refresh; hard aspects: erratic choices—avoid major commitments.
+URA OPP R2,Surprise/novelty. Supportive aspects: smart upgrades/refresh; hard aspects: erratic choices—avoid major commitments.
+PLU CON VEN,Intensity/compulsion. Supportive aspects: strategic high-value buy if planned; hard aspects: obsession/overreach—avoid discretionary splurges.
+PLU TRI VEN,Intensity/compulsion. Supportive aspects: strategic high-value buy if planned; hard aspects: obsession/overreach—avoid discretionary splurges.
+PLU SEX VEN,Intensity/compulsion. Supportive aspects: strategic high-value buy if planned; hard aspects: obsession/overreach—avoid discretionary splurges.
+PLU SQR VEN,Intensity/compulsion. Supportive aspects: strategic high-value buy if planned; hard aspects: obsession/overreach—avoid discretionary splurges.
+PLU OPP VEN,Intensity/compulsion. Supportive aspects: strategic high-value buy if planned; hard aspects: obsession/overreach—avoid discretionary splurges.
+PLU CON R2,Intensity/compulsion. Supportive aspects: strategic high-value buy if planned; hard aspects: obsession/overreach—avoid discretionary splurges.
+PLU TRI R2,Intensity/compulsion. Supportive aspects: strategic high-value buy if planned; hard aspects: obsession/overreach—avoid discretionary splurges.
+PLU SEX R2,Intensity/compulsion. Supportive aspects: strategic high-value buy if planned; hard aspects: obsession/overreach—avoid discretionary splurges.
+PLU SQR R2,Intensity/compulsion. Supportive aspects: strategic high-value buy if planned; hard aspects: obsession/overreach—avoid discretionary splurges.
+PLU OPP R2,Intensity/compulsion. Supportive aspects: strategic high-value buy if planned; hard aspects: obsession/overreach—avoid discretionary splurges.
+SUN CON VEN,Mild uplift/visibility. Supportive aspects: pleasant timing; hard aspects: ego/image-driven spend—treat as tie-breaker.
+SUN TRI VEN,Mild uplift/visibility. Supportive aspects: pleasant timing; hard aspects: ego/image-driven spend—treat as tie-breaker.
+SUN SEX VEN,Mild uplift/visibility. Supportive aspects: pleasant timing; hard aspects: ego/image-driven spend—treat as tie-breaker.
+SUN SQR VEN,Mild uplift/visibility. Supportive aspects: pleasant timing; hard aspects: ego/image-driven spend—treat as tie-breaker.
+SUN OPP VEN,Mild uplift/visibility. Supportive aspects: pleasant timing; hard aspects: ego/image-driven spend—treat as tie-breaker.
+SUN CON R2,Mild uplift/visibility. Supportive aspects: pleasant timing; hard aspects: ego/image-driven spend—treat as tie-breaker.
+SUN TRI R2,Mild uplift/visibility. Supportive aspects: pleasant timing; hard aspects: ego/image-driven spend—treat as tie-breaker.
+SUN SEX R2,Mild uplift/visibility. Supportive aspects: pleasant timing; hard aspects: ego/image-driven spend—treat as tie-breaker.
+SUN SQR R2,Mild uplift/visibility. Supportive aspects: pleasant timing; hard aspects: ego/image-driven spend—treat as tie-breaker.
+SUN OPP R2,Mild uplift/visibility. Supportive aspects: pleasant timing; hard aspects: ego/image-driven spend—treat as tie-breaker.
+MOO CON VEN,Short-lived mood/urge signal. Supportive aspects: comfortable small purchases; hard aspects: emotional buying—avoid big decisions.
+MOO TRI VEN,Short-lived mood/urge signal. Supportive aspects: comfortable small purchases; hard aspects: emotional buying—avoid big decisions.
+MOO SEX VEN,Short-lived mood/urge signal. Supportive aspects: comfortable small purchases; hard aspects: emotional buying—avoid big decisions.
+MOO SQR VEN,Short-lived mood/urge signal. Supportive aspects: comfortable small purchases; hard aspects: emotional buying—avoid big decisions.
+MOO OPP VEN,Short-lived mood/urge signal. Supportive aspects: comfortable small purchases; hard aspects: emotional buying—avoid big decisions.
+MOO CON R2,Short-lived mood/urge signal. Supportive aspects: comfortable small purchases; hard aspects: emotional buying—avoid big decisions.
+MOO TRI R2,Short-lived mood/urge signal. Supportive aspects: comfortable small purchases; hard aspects: emotional buying—avoid big decisions.
+MOO SEX R2,Short-lived mood/urge signal. Supportive aspects: comfortable small purchases; hard aspects: emotional buying—avoid big decisions.
+MOO SQR R2,Short-lived mood/urge signal. Supportive aspects: comfortable small purchases; hard aspects: emotional buying—avoid big decisions.
+MOO OPP R2,Short-lived mood/urge signal. Supportive aspects: comfortable small purchases; hard aspects: emotional buying—avoid big decisions.
+MOO PHASE NEW,Fresh-start vibe; good for planning lists/budgets; neutral for big buys unless other scores are strong.
+MOO PHASE FULL,Heightened emotion; avoid impulse buys; prefer returns/closing decisions if needed.
+MOO PHASE WAX,Momentum-building; good for shopping execution when overall score is high.
+MOO PHASE WAN,"Wrap-up/declutter; better for returns, cancellations, and finishing purchases already decided."

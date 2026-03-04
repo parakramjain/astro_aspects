@@ -340,10 +340,9 @@ def compute_natal_natal_aspects(payload: BirthPayload) -> List[NatalAspectItem]:
                 dist = abs(sep - angle)
                 if dist <= orb:
                     strength = max(0.0, 1.0 - dist / max(orb, 1e-6))
-                    label = f"{a} {code} {b}"
-                    # print(f"{a}_{code}_{b}__v1.0.0")
+                    label = f"{a.upper()} {code.upper()} {b.upper()}"
                     # Get the description and facets from aspect cards
-                    card_fields = get_card_fields(f"{a}_{code}_{b}__v1.0.0", fields="core_meaning,facets", lang_code=payload.lang_code).get("fields", {})
+                    card_fields = get_card_fields(f"{a.upper()}_{code.upper()}_{b.upper()}__v1.0.0", fields="core_meaning,facets", lang_code=payload.lang_code).get("fields", {})
                     items.append(NatalAspectItem(aspect=label, angle=round(sep, 3), dist=round(dist, 3), strength=round(strength, 3), characteristics=card_fields))
     # Sort by strength desc
     items.sort(key=lambda x: x.strength, reverse=True)

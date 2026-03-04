@@ -1,0 +1,1 @@
+"""Shopping score CLI package."""
