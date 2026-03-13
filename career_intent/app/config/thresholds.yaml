@@ -1,0 +1,95 @@
+version: "1.0.0"
+default_months: 6
+window:
+  min_days: 21
+  max_days: 42
+  smoothing_days: 5
+normalization:
+  opportunity:
+    min: -4.0
+    max: 8.0
+  risk:
+    min: 0.0
+    max: 8.0
+  momentum:
+    min: 0.0
+    max: 100.0
+weights:
+  momentum:
+    opportunity_mean: 0.45
+    opportunity_window: 0.30
+    inverse_risk_mean: 0.15
+    confidence: 0.10
+  intent_defaults:
+    positive_count: 0.35
+    risk_inverse: 0.20
+    opportunity_window: 0.25
+    stability: 0.20
+  intents:
+    Job Change:
+      positive_count: 0.30
+      risk_inverse: 0.20
+      opportunity_window: 0.35
+      stability: 0.15
+    Promotion:
+      positive_count: 0.35
+      risk_inverse: 0.15
+      opportunity_window: 0.35
+      stability: 0.15
+    Entrepreneurship:
+      positive_count: 0.25
+      risk_inverse: 0.10
+      opportunity_window: 0.35
+      stability: 0.30
+    Skill Building:
+      positive_count: 0.30
+      risk_inverse: 0.20
+      opportunity_window: 0.20
+      stability: 0.30
+    Exploration / Discovery:
+      positive_count: 0.30
+      risk_inverse: 0.15
+      opportunity_window: 0.25
+      stability: 0.30
+    Networking / Positioning:
+      positive_count: 0.40
+      risk_inverse: 0.20
+      opportunity_window: 0.30
+      stability: 0.10
+    Side Project / Testing the Waters:
+      positive_count: 0.25
+      risk_inverse: 0.15
+      opportunity_window: 0.25
+      stability: 0.35
+    Transition / In Between:
+      positive_count: 0.20
+      risk_inverse: 0.10
+      opportunity_window: 0.25
+      stability: 0.45
+recommendations:
+  max_bullets: 6
+  min_bullets: 4
+  verbs:
+    - Prepare
+    - Apply
+    - Negotiate
+    - Network
+    - Build
+    - Pause
+    - Review
+  templates:
+    momentum_high:
+      - "Prepare a focused 30-day execution plan around your strongest work goals."
+      - "Apply to high-fit roles or projects while response momentum is favorable."
+    momentum_moderate:
+      - "Review your current priorities and select one outcome to push each week."
+      - "Build measurable progress in portfolio, resume, or role-specific outcomes."
+    risk_high:
+      - "Pause non-essential commitments and protect time for critical deliverables."
+      - "Review assumptions before major decisions and use small validation steps."
+    networking:
+      - "Network with decision-makers and peers through targeted outreach each week."
+    skill:
+      - "Build one practical capability aligned to near-term opportunities."
+    transition:
+      - "Prepare a transition checklist for financial runway, timing, and role criteria."

@@ -1,0 +1,76 @@
+driver_taxonomy:
+  - driver_id: execution_rhythm
+    driver_label: Execution rhythm
+    driver_category: Execution
+    polarity: positive
+    patterns: ["delivery", "execution", "momentum", "consistency", "output"]
+    action_templates:
+      opportunity: "Apply for stretch responsibilities while delivery consistency is strong."
+      caution: "Track weekly execution metrics and tighten scope before adding new commitments."
+  - driver_id: stakeholder_alignment
+    driver_label: Stakeholder alignment
+    driver_category: People
+    polarity: positive
+    patterns: ["alignment", "support", "buy-in", "stakeholder", "collaboration"]
+    action_templates:
+      opportunity: "Negotiate role scope with decision-makers and secure explicit support."
+      caution: "Prepare concise status updates to reduce alignment gaps with stakeholders."
+  - driver_id: growth_capacity
+    driver_label: Growth capacity
+    driver_category: Opportunity
+    polarity: positive
+    patterns: ["growth", "expand", "promotion", "opportunity", "advance"]
+    action_templates:
+      opportunity: "Apply to high-impact roles where growth expectations are clearly defined."
+      caution: "Review role criteria and close capability gaps before major transitions."
+  - driver_id: learning_velocity
+    driver_label: Learning velocity
+    driver_category: Learning
+    polarity: positive
+    patterns: ["learn", "skill", "upskill", "practice", "training"]
+    action_templates:
+      opportunity: "Build one practical capability and demonstrate it in current projects."
+      caution: "Prepare a two-week learning sprint before pursuing high-risk changes."
+  - driver_id: market_readiness
+    driver_label: Market readiness
+    driver_category: Market-Readiness
+    polarity: positive
+    patterns: ["market", "fit", "demand", "readiness", "timing"]
+    action_templates:
+      opportunity: "Validate target opportunities with at least three market conversations."
+      caution: "Track market signals weekly and delay irreversible decisions until clarity improves."
+  - driver_id: execution_drag
+    driver_label: Execution drag
+    driver_category: Stability
+    polarity: negative
+    patterns: ["delay", "friction", "blocker", "overload", "constraint"]
+    action_templates:
+      opportunity: "Prepare contingency plans before taking on additional workload."
+      caution: "Pause non-essential work and protect focus time for critical outcomes."
+  - driver_id: uncertainty_load
+    driver_label: Uncertainty load
+    driver_category: Stability
+    polarity: negative
+    patterns: ["uncertain", "volatile", "unstable", "change", "ambiguity"]
+    action_templates:
+      opportunity: "Build decision criteria in advance to respond quickly during change."
+      caution: "Validate assumptions with small tests before committing to major moves."
+  - driver_id: communication_friction
+    driver_label: Communication friction
+    driver_category: People
+    polarity: negative
+    patterns: ["conflict", "misalignment", "disagreement", "tension", "mixed signals"]
+    action_templates:
+      opportunity: "Prepare negotiation points and clarify expectations in writing."
+      caution: "Review communication risks and escalate blockers early with concrete options."
+fallback:
+  positive:
+    driver_id: baseline_progress
+    driver_label: Baseline progress
+    driver_category: Execution
+    polarity: positive
+  negative:
+    driver_id: baseline_caution
+    driver_label: Baseline caution
+    driver_category: Stability
+    polarity: negative

@@ -1,0 +1,32 @@
+drivers:
+  - key: communication_clarity
+    label: "Communication clarity"
+    patterns: ["communication", "message", "clarity", "negotiation"]
+    effect: opportunity
+  - key: leadership_visibility
+    label: "Leadership visibility"
+    patterns: ["lead", "recognition", "visibility", "authority"]
+    effect: opportunity
+  - key: growth_expansion
+    label: "Growth and expansion"
+    patterns: ["growth", "expand", "opportunity", "promotion"]
+    effect: opportunity
+  - key: collaboration_quality
+    label: "Collaboration quality"
+    patterns: ["team", "collaboration", "partnership", "support"]
+    effect: opportunity
+  - key: pressure_overload
+    label: "Execution pressure"
+    patterns: ["delay", "pressure", "overload", "constraint", "friction"]
+    effect: risk
+  - key: uncertainty_shift
+    label: "Role uncertainty"
+    patterns: ["uncertain", "shift", "change", "volatile", "unstable"]
+    effect: risk
+  - key: conflict_risk
+    label: "Stakeholder friction"
+    patterns: ["conflict", "disagreement", "tension", "misalignment"]
+    effect: risk
+fallback:
+  opportunity: "Forward progress"
+  risk: "Execution caution"

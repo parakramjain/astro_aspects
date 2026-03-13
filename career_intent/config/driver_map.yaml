@@ -1,0 +1,36 @@
+drivers:
+  - key: execution_rhythm
+    label: "Execution rhythm"
+    patterns: ["delivery", "execution", "momentum", "consistency", "output"]
+    effect: opportunity
+  - key: stakeholder_alignment
+    label: "Stakeholder alignment"
+    patterns: ["alignment", "support", "buy-in", "stakeholder", "collaboration"]
+    effect: opportunity
+  - key: growth_capacity
+    label: "Growth capacity"
+    patterns: ["growth", "expand", "promotion", "opportunity", "advance"]
+    effect: opportunity
+  - key: learning_velocity
+    label: "Learning velocity"
+    patterns: ["learn", "skill", "upskill", "practice", "training"]
+    effect: opportunity
+  - key: market_readiness
+    label: "Market readiness"
+    patterns: ["market", "fit", "demand", "readiness", "timing"]
+    effect: opportunity
+  - key: execution_drag
+    label: "Execution drag"
+    patterns: ["delay", "friction", "blocker", "overload", "constraint"]
+    effect: risk
+  - key: uncertainty_load
+    label: "Uncertainty load"
+    patterns: ["uncertain", "volatile", "unstable", "change", "ambiguity"]
+    effect: risk
+  - key: communication_friction
+    label: "Communication friction"
+    patterns: ["conflict", "misalignment", "disagreement", "tension", "mixed signals"]
+    effect: risk
+fallback:
+  opportunity: "Baseline progress"
+  risk: "Baseline caution"

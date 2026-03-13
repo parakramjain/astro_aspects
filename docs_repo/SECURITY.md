@@ -1,0 +1,103 @@
+# Security
+
+Security-sensitive patterns and external integration surfaces.
+
+- `api_router.py`: auth/secret handling signal detected
+- `aspect_card_utils/aspect_card_creation.py`: auth/secret handling signal detected
+- `aspect_card_utils/aspect_card_creation.py`: external integration: ai
+- `aspect_card_utils/aspect_card_creation_v0.py`: auth/secret handling signal detected
+- `aspect_card_utils/aspect_card_mgmt.py`: auth/secret handling signal detected
+- `aspect_card_utils/aspect_report.py`: auth/secret handling signal detected
+- `aspect_card_utils/card_gen_ai.py`: external integration: ai
+- `automation/batch_report_runner_daily.py`: external integration: email
+- `automation/batch_report_runner_full.py`: external integration: email
+- `automation/batch_report_runner_weekly.py`: external integration: email
+- `schemas.py`: external integration: http
+- `services/ai_agent_services.py`: auth/secret handling signal detected
+- `services/ai_agent_services.py`: external integration: ai
+- `services/ai_prompt_service.py`: external integration: email
+- `services/report_services.py`: external integration: email
+- `spend_intel_engine/utils/aspect_normalizer.py`: auth/secret handling signal detected
+- `tests/test_api_smoke.py`: auth/secret handling signal detected
+- `utils/copy_to_s3.py`: auth/secret handling signal detected
+- `utils/copy_to_s3.py`: external integration: aws
+- `utils/email_formatting_utils.py`: external integration: email
+- `utils/email_util.py`: auth/secret handling signal detected
+- `utils/email_util.py`: external integration: email
+- `utils/llm_utils.py`: auth/secret handling signal detected
+- `utils/llm_utils.py`: external integration: ai
+
+## Risky functions
+- `api_router:report_timeline` in `api_router.py`: Risk: broad exception catch
+- `api_router:daily_weekly` in `api_router.py`: Risk: broad exception catch
+- `api_router:compat_group` in `api_router.py`: Risk: broad exception catch
+- `aspect_card_utils.aspect_card_creation_v0:_load_life_event_mapping` in `aspect_card_utils/aspect_card_creation_v0.py`: Risk: broad exception catch; possible hardcoded secret/token
+- `aspect_card_utils.aspect_card_creation_v0:write_cards` in `aspect_card_utils/aspect_card_creation_v0.py`: Risk: possible hardcoded secret/token
+- `aspect_card_utils.aspect_card_mgmt:_parse_fields_param` in `aspect_card_utils/aspect_card_mgmt.py`: Risk: possible hardcoded secret/token
+- `aspect_card_utils.aspect_card_mgmt:list_cards_api` in `aspect_card_utils/aspect_card_mgmt.py`: Risk: broad exception catch
+- `aspect_card_utils.aspect_card_mgmt:admin_create_card` in `aspect_card_utils/aspect_card_mgmt.py`: Risk: broad exception catch
+- `aspect_card_utils.aspect_card_mgmt:admin_save_card` in `aspect_card_utils/aspect_card_mgmt.py`: Risk: broad exception catch
+- `aspect_card_utils.aspect_card_viewer:render_card_readonly` in `aspect_card_utils/aspect_card_viewer.py`: Risk: large function >80 LOC
+- `aspect_card_utils.card_gen_ai:generate_aspect_card` in `aspect_card_utils/card_gen_ai.py`: Risk: broad exception catch; large function >80 LOC
+- `astro_core.astro_core:calc_aspect_periods` in `astro_core/astro_core.py`: Risk: large function >80 LOC
+- `automation.batch_report_runner_daily:run_batch` in `automation/batch_report_runner_daily.py`: Risk: broad exception catch
+- `automation.batch_report_runner_full:run_batch` in `automation/batch_report_runner_full.py`: Risk: broad exception catch
+- `automation.batch_report_runner_weekly:run_batch` in `automation/batch_report_runner_weekly.py`: Risk: broad exception catch
+- `middleware:LoggingMiddleware.dispatch` in `middleware.py`: Risk: broad exception catch
+- `report_services:compute_life_events` in `report_services.py`: Risk: broad exception catch; large function >80 LOC
+- `report_services:compute_timeline` in `report_services.py`: Risk: broad exception catch; large function >80 LOC; silent exception handling
+- `reporting.builders.milestones:build_milestones_story` in `reporting/builders/milestones.py`: Risk: broad exception catch; large function >80 LOC
+- `reporting.builders.timeline:_timeline_card` in `reporting/builders/timeline.py`: Risk: large function >80 LOC
+- `reporting.builders.timeline:build_timeline_story` in `reporting/builders/timeline.py`: Risk: broad exception catch
+- `reporting.normalize:parse_iso_datetime` in `reporting/normalize.py`: Risk: broad exception catch; silent exception handling
+- `reporting.normalize:safe_parse_stringified_dict` in `reporting/normalize.py`: Risk: broad exception catch
+- `reporting.renderer:generate_report_pdf` in `reporting/renderer.py`: Risk: broad exception catch; large function >80 LOC
+- `reporting.styles:build_styles` in `reporting/styles.py`: Risk: large function >80 LOC
+- `services.ai_agent_services:calculate_token_cost` in `services/ai_agent_services.py`: Risk: possible hardcoded secret/token
+- `services.ai_agent_services:calculate_total_cost` in `services/ai_agent_services.py`: Risk: possible hardcoded secret/token
+- `services.ai_agent_services:generate_astrology_AI_summary` in `services/ai_agent_services.py`: Risk: broad exception catch; possible hardcoded secret/token
+- `services.ai_prompt_service:get_system_prompt_report` in `services/ai_prompt_service.py`: Risk: large function >80 LOC
+- `services.ai_prompt_service:get_system_prompt_natal` in `services/ai_prompt_service.py`: Risk: large function >80 LOC
+- `services.ai_prompt_service:get_system_prompt_weekly` in `services/ai_prompt_service.py`: Risk: large function >80 LOC
+- `services.ai_prompt_service:get_user_prompt_daily` in `services/ai_prompt_service.py`: Risk: hardcoded URL
+- `services.ai_prompt_service:get_user_prompt_weekly` in `services/ai_prompt_service.py`: Risk: hardcoded URL; large function >80 LOC
+- `services.natal_services:planet_positions_and_houses` in `services/natal_services.py`: Risk: broad exception catch; large function >80 LOC
+- `services.report_services:compute_life_events` in `services/report_services.py`: Risk: broad exception catch; large function >80 LOC
+- `services.report_services:compute_timeline` in `services/report_services.py`: Risk: broad exception catch; large function >80 LOC; silent exception handling
+- `services.report_services:upcoming_event` in `services/report_services.py`: Risk: broad exception catch; large function >80 LOC
+- `services.synastry_group_services:PersonInput.validate_timezone` in `services/synastry_group_services.py`: Risk: broad exception catch
+- `services.synastry_group_services:clamp_0_100` in `services/synastry_group_services.py`: Risk: broad exception catch
+- `services.synastry_group_services:scale_0_100` in `services/synastry_group_services.py`: Risk: broad exception catch
+- `services.synastry_group_services:z_score_to_0_100` in `services/synastry_group_services.py`: Risk: broad exception catch
+- `services.synastry_group_services:get_natal` in `services/synastry_group_services.py`: Risk: broad exception catch
+- `services.synastry_group_services:_pair_kpi_scores` in `services/synastry_group_services.py`: Risk: broad exception catch
+- `services.synastry_group_services:_cohesion_metrics` in `services/synastry_group_services.py`: Risk: broad exception catch
+- `services.synastry_group_services:_detect_outliers_cliques` in `services/synastry_group_services.py`: Risk: broad exception catch
+- `services.synastry_group_services:analyze_group` in `services/synastry_group_services.py`: Risk: broad exception catch
+- `services.synastry_group_services:_to_person_input` in `services/synastry_group_services.py`: Risk: broad exception catch
+- `services.synastry_vedic_services:koota_compatibility_status` in `services/synastry_vedic_services.py`: Risk: broad exception catch
+- `services.synastry_vedic_services:validate_input` in `services/synastry_vedic_services.py`: Risk: broad exception catch
+- `services.synastry_vedic_services:to_datetime_local` in `services/synastry_vedic_services.py`: Risk: broad exception catch
+- `services.synastry_vedic_services:to_utc` in `services/synastry_vedic_services.py`: Risk: broad exception catch
+- `services.synastry_vedic_services:compute_ashtakoota_score` in `services/synastry_vedic_services.py`: Risk: large function >80 LOC
+- `spend_intel_engine.exporters.shopping_insights_csv_exporter:export_shopping_insights_to_csv` in `spend_intel_engine/exporters/shopping_insights_csv_exporter.py`: Risk: large function >80 LOC
+- `spend_intel_engine.scoring.daily_scorer:score_daily_shopping` in `spend_intel_engine/scoring/daily_scorer.py`: Risk: large function >80 LOC
+- `spend_intel_engine.shopping_engine:compute_shopping_insights` in `spend_intel_engine/shopping_engine.py`: Risk: large function >80 LOC
+- `spend_intel_engine.utils.aspect_normalizer:_canon_planet` in `spend_intel_engine/utils/aspect_normalizer.py`: Risk: possible hardcoded secret/token
+- `spend_intel_engine.utils.aspect_normalizer:_canon_aspect` in `spend_intel_engine/utils/aspect_normalizer.py`: Risk: possible hardcoded secret/token
+- `spend_intel_engine.utils.aspect_normalizer:normalize_aspect_code` in `spend_intel_engine/utils/aspect_normalizer.py`: Risk: possible hardcoded secret/token
+- `tests.test_api_smoke:test_natal_characteristics_smoke` in `tests/test_api_smoke.py`: Risk: possible hardcoded secret/token
+- `tools.rename_sex_to_sxt:rewrite_aspect_file` in `tools/rename_sex_to_sxt.py`: Risk: broad exception catch
+- `tools.rename_sex_to_sxt:update_index_json` in `tools/rename_sex_to_sxt.py`: Risk: broad exception catch; silent exception handling
+- `tools.rename_sex_to_sxt:main` in `tools/rename_sex_to_sxt.py`: Risk: broad exception catch
+- `utils.copy_to_s3:upload_file_to_s3` in `utils/copy_to_s3.py`: Risk: possible hardcoded secret/token
+- `utils.email_formatting_utils:render_basic_forecast_html_daily` in `utils/email_formatting_utils.py`: Risk: hardcoded URL; large function >80 LOC
+- `utils.email_formatting_utils:render_basic_forecast_html_weekly` in `utils/email_formatting_utils.py`: Risk: hardcoded URL; large function >80 LOC
+- `utils.llm_utils:get_token_encoder` in `utils/llm_utils.py`: Risk: possible hardcoded secret/token
+- `utils.llm_utils:count_tokens` in `utils/llm_utils.py`: Risk: possible hardcoded secret/token
+- `utils.llm_utils:count_response_tokens` in `utils/llm_utils.py`: Risk: possible hardcoded secret/token
+- `utils.synastry_card_generation:SynastryPosterGenerator.generate` in `utils/synastry_card_generation.py`: Risk: hardcoded URL; large function >80 LOC
+- `utils.timeline_report_pdf:_get_devanagari_font_name` in `utils/timeline_report_pdf.py`: Risk: broad exception catch
+- `utils.timeline_report_pdf:_get_cinzel_font_name` in `utils/timeline_report_pdf.py`: Risk: broad exception catch
+- `utils.timeline_report_pdf:_format_ai_summary` in `utils/timeline_report_pdf.py`: Risk: broad exception catch
+- `utils.timeline_report_pdf:create_timeline_pdf_report` in `utils/timeline_report_pdf.py`: Risk: large function >80 LOC

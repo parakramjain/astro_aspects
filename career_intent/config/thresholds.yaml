@@ -1,0 +1,93 @@
+version: "2.0.0"
+default_months: 6
+window:
+  min_days: 21
+  max_days: 42
+  smoothing_days: 5
+  max_overlap_days: 5
+  min_opportunity_score: 45
+  min_caution_score: 35
+normalization:
+  opportunity:
+    min: -4.0
+    max: 8.0
+  risk:
+    min: 0.0
+    max: 8.0
+  momentum:
+    min: 0.0
+    max: 100.0
+weights:
+  momentum:
+    timing_strength: 0.35
+    execution_stability: 0.30
+    inverse_risk_pressure: 0.20
+    growth_leverage: 0.15
+  intent_defaults:
+    timing_strength: 0.30
+    execution_stability: 0.25
+    risk_inverse: 0.20
+    growth_leverage: 0.25
+  intents:
+    Job Change:
+      timing_strength: 0.35
+      execution_stability: 0.15
+      risk_inverse: 0.20
+      growth_leverage: 0.30
+    Promotion:
+      timing_strength: 0.25
+      execution_stability: 0.35
+      risk_inverse: 0.15
+      growth_leverage: 0.25
+    Entrepreneurship:
+      timing_strength: 0.20
+      execution_stability: 0.15
+      risk_inverse: 0.10
+      growth_leverage: 0.55
+    Skill Building:
+      timing_strength: 0.15
+      execution_stability: 0.25
+      risk_inverse: 0.20
+      growth_leverage: 0.40
+    Exploration / Discovery:
+      timing_strength: 0.25
+      execution_stability: 0.20
+      risk_inverse: 0.15
+      growth_leverage: 0.40
+    Networking / Positioning:
+      timing_strength: 0.30
+      execution_stability: 0.15
+      risk_inverse: 0.20
+      growth_leverage: 0.35
+    Side Project / Testing the Waters:
+      timing_strength: 0.20
+      execution_stability: 0.20
+      risk_inverse: 0.25
+      growth_leverage: 0.35
+    Transition / In Between:
+      timing_strength: 0.20
+      execution_stability: 0.30
+      risk_inverse: 0.30
+      growth_leverage: 0.20
+recommendations:
+  max_bullets: 7
+  min_bullets: 4
+  verbs: ["Apply", "Prepare", "Negotiate", "Network", "Build", "Validate", "Pause", "Review", "Track"]
+  intent_actions:
+    Job Change: "Apply to selective roles that match your core outcomes and scope targets."
+    Promotion: "Negotiate role impact and measurable success criteria with your manager."
+    Entrepreneurship: "Validate offer-market fit with pilot conversations before scaling effort."
+    Skill Building: "Build one high-value capability and demonstrate it in practical output."
+    Exploration / Discovery: "Review options and track evidence before committing to one path."
+    Networking / Positioning: "Network with relevant decision-makers and follow up within 72 hours."
+    Side Project / Testing the Waters: "Build a low-risk pilot and track traction signals weekly."
+    Transition / In Between: "Prepare a transition plan with timeline, runway, and fallback options."
+confidence:
+  min_items_for_high: 10
+  drivers_expected_per_item: 2
+compact:
+  top_intents: 3
+  top_aspects: 10
+  min_aspect_days: 3
+  keep_high_impact_threshold: 70
+  max_desc_len: 90

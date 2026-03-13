@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Career Timing Intelligence — Your Personalized Plan</title>
+<style>
+:root {
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --surface-soft: #f1f5f9;
+  --text: #0f172a;
+  --muted: #64748b;
+  --border: #e2e8f0;
+  --brand: #0f766e;
+  --opportunity: #16a34a;
+  --caution: #dc2626;
+  --neutral: #94a3b8;
+  --radius: 14px;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font-family: Inter, Segoe UI, Arial, sans-serif; line-height: 1.45; }
+main { max-width: 1120px; margin: 0 auto; padding: 20px 16px 32px; }
+h1 { margin: 0; font-size: 1.85rem; letter-spacing: -0.02em; }
+h2 { margin: 0 0 10px; font-size: 1.2rem; letter-spacing: -0.01em; }
+h3 { margin: 0 0 8px; font-size: 1.05rem; }
+h4 { margin: 0 0 8px; font-size: 0.98rem; }
+.section { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; margin-top: 14px; }
+.hero-title { display: grid; gap: 6px; }
+.hero-subtitle { color: var(--muted); font-size: 0.95rem; }
+.hero-meta { color: var(--muted); font-size: 0.82rem; }
+.hero-narrative { margin: 10px 0 0; background: linear-gradient(90deg, #ecfeff 0%, #f0fdf4 100%); border: 1px solid #ccfbf1; border-radius: 12px; padding: 12px; font-size: 0.98rem; }
+.kpi-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; margin-top: 12px; }
+.kpi-card { border: 1px solid var(--border); border-radius: 12px; padding: 12px; background: var(--surface-soft); }
+.kpi-score { font-size: 1.45rem; font-weight: 750; }
+.kpi-label { margin-top: 2px; font-weight: 620; }
+.kpi-explainer { margin: 8px 0 0; color: #334155; font-size: 0.86rem; }
+.kpi-drivers { margin-top: 8px; color: var(--muted); font-size: 0.8rem; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 5px 0; }
+.subtle-section { background: #fcfcfd; border-color: #e5e7eb; }
+.window-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.window-card { border: 1px solid var(--border); border-radius: 12px; padding: 12px; }
+.window-card.opportunity { background: #f0fdf4; }
+.window-card.caution { background: #fef2f2; }
+.timeline-month-labels { display: flex; gap: 1px; margin-bottom: 6px; color: var(--muted); font-size: 0.76rem; text-transform: uppercase; }
+.month-label { text-align: center; }
+.timeline-strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(8px, 1fr)); gap: 1px; background: var(--surface-soft); padding: 6px; border-radius: 10px; border: 1px solid var(--border); }
+.timeline-day { width: 100%; height: 10px; border-radius: 2px; background: var(--neutral); }
+.timeline-day.opportunity { background: var(--opportunity); }
+.timeline-day.caution { background: var(--caution); }
+.timeline-day.neutral { background: #cbd5e1; }
+.timeline-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 12px; }
+.timeline-card { border: 1px solid var(--border); border-radius: 12px; padding: 12px; background: #fff; }
+.window-entry { border-left: 4px solid #94a3b8; background: #f8fafc; padding: 7px 9px; margin-bottom: 7px; border-radius: 8px; }
+.window-entry.opportunity { border-left-color: var(--opportunity); }
+.window-entry.caution { border-left-color: var(--caution); }
+.window-entry.neutral { border-left-color: var(--neutral); }
+.window-type { font-weight: 650; }
+.window-score { color: #475569; font-size: 0.8rem; }
+.month-actions-title { margin-top: 8px; font-weight: 700; font-size: 0.88rem; }
+.month-actions { margin-top: 4px; }
+.priority-card { background: linear-gradient(130deg, #0f172a 0%, #1e293b 100%); color: #f8fafc; border-radius: 14px; padding: 14px; margin-bottom: 10px; }
+.priority-eyebrow { font-size: 0.75rem; letter-spacing: 0.05em; text-transform: uppercase; opacity: 0.8; }
+.priority-title { margin-top: 6px; font-size: 1.3rem; font-weight: 750; }
+.priority-meta { margin-top: 4px; color: #e2e8f0; font-size: 0.9rem; }
+.priority-action { margin-top: 8px; font-size: 0.9rem; }
+.priority-why { margin: 8px 0 0; color: #cbd5e1; font-size: 0.86rem; }
+.table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+table { width: 100%; border-collapse: collapse; min-width: 700px; }
+th, td { border: 1px solid var(--border); padding: 8px; text-align: left; vertical-align: top; font-size: 0.84rem; }
+th { background: #f8fafc; font-weight: 650; }
+.top-intent td { background: #fff7ed; }
+.phase-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.phase-card { border: 1px solid var(--border); border-radius: 12px; padding: 12px; background: var(--surface-soft); }
+.phase-countdown { margin: 8px 0 0; font-size: 0.83rem; color: #334155; }
+.share-card { border: 1px solid var(--border); border-radius: 14px; padding: 14px; background: #ffffff; max-width: 520px; margin: 0 auto; text-align: center; }
+.share-title { font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; }
+.share-meta { color: #334155; font-size: 0.9rem; margin: 4px 0; }
+.share-action { margin-top: 8px; color: #0f172a; font-weight: 620; }
+.share-controls { margin-top: 10px; display: flex; justify-content: center; gap: 8px; }
+.btn { border: none; border-radius: 10px; padding: 10px 14px; cursor: pointer; font-weight: 640; }
+.btn-primary { background: #0f766e; color: #fff; }
+.btn-primary:hover, .btn-primary:focus { background: #0d9488; }
+.btn-outline { background: #fff; color: #0f172a; border: 1px solid #94a3b8; }
+.btn-outline:hover, .btn-outline:focus { background: #f8fafc; }
+.upsell-card { border: 1px solid #bae6fd; background: linear-gradient(180deg, #ecfeff 0%, #f8fafc 100%); border-radius: 16px; padding: 16px; }
+.upsell-title { font-size: 1.25rem; font-weight: 750; margin-bottom: 4px; }
+.upsell-copy { color: #334155; margin-bottom: 12px; }
+.cta-row { display: flex; gap: 10px; flex-wrap: wrap; }
+.qa-note { margin-top: 10px; color: var(--muted); font-size: 0.74rem; text-align: right; }
+.muted { color: var(--muted); }
+@media screen and (max-width: 980px) {
+  .kpi-grid, .window-grid, .timeline-grid, .phase-grid { grid-template-columns: 1fr; }
+}
+@media screen and (max-width: 640px) {
+  main { padding: 12px 10px 24px; }
+  .section { padding: 12px; margin-top: 10px; }
+  h1 { font-size: 1.45rem; }
+  .hero-narrative { font-size: 0.92rem; }
+  .timeline-strip { grid-template-columns: repeat(auto-fit, minmax(6px, 1fr)); gap: 1px; padding: 5px; }
+  .timeline-day { height: 8px; }
+  .cta-row { flex-direction: column; }
+  .btn { width: 100%; }
+  .qa-note { text-align: left; }
+}
+</style>
+</head>
+<body data-report-version="v2.0.0" data-report-date="2026-03-07">
+<main>
+  <section class="section">
+    <div class="hero-title">
+      <h1>Career Timing Intelligence — Your Personalized Plan</h1>
+      <div class="hero-subtitle">Your 3-Month Career Execution Roadmap</div>
+      <div class="hero-meta">Name: Amit · Timeframe: Mar 07, 2026 → Apr 07, 2026 · Generated: Mar 07, 2026 23:34 UTC</div>
+    </div>
+    <p class="hero-narrative">Amit, this 32-day period is a meaningful career positioning phase. Your core priority is Transition / In Between, and this report translates that goal into date-bound decisions. Momentum is building, and disciplined preparation now can convert into stronger execution when the window opens. Use it to push where upside is real, prepare where leverage is building, and avoid commitments that dilute momentum.</p>
+    <div class="kpi-grid">
+            <article class="kpi-card">
+              <div class="kpi-score">60/100</div>
+              <div class="kpi-label">Career Momentum</div>
+              <p class="kpi-explainer">Career Momentum is developing in this cycle. The biggest support is baseline progress. The main drag is baseline caution. Timing support improves after Mar 12, 2026.</p>
+              <div class="kpi-drivers">+ Baseline progress<br/>− Baseline caution</div>
+            </article>
+            
+            <article class="kpi-card">
+              <div class="kpi-score">80/100</div>
+              <div class="kpi-label">Confidence</div>
+              <p class="kpi-explainer">Confidence is strong in this cycle. The biggest support is drivers coverage at 56/100. The main drag is parser_fallback. Confidence improves as evidence quality improves across weekly checkpoints.</p>
+              <div class="kpi-drivers">+ drivers coverage at 56/100<br/>− parser_fallback</div>
+            </article>
+            
+            <article class="kpi-card">
+              <div class="kpi-score">58/100</div>
+              <div class="kpi-label">Window Quality</div>
+              <p class="kpi-explainer">Window Quality is developing in this cycle. The biggest support is opportunity quality at 69/100. The main drag is caution pressure at 46/100. Timing support improves after Mar 12, 2026.</p>
+              <div class="kpi-drivers">+ opportunity quality at 69/100<br/>− caution pressure at 46/100</div>
+            </article>
+            
+            <article class="kpi-card">
+              <div class="kpi-score">67/100</div>
+              <div class="kpi-label">Execution Stability</div>
+              <p class="kpi-explainer">Execution Stability is developing in this cycle. The biggest support is consistency in execution routines. The main drag is risk pressure. Timing support improves after Mar 12, 2026.</p>
+              <div class="kpi-drivers">+ consistency in execution routines<br/>− risk pressure</div>
+            </article>
+            </div>
+  </section>
+
+  <section class="section">
+    <h2>Key Observations</h2>
+    <ul><li>✔ Leverage your strength in Python to improve execution quality in priority windows.</li><li>✔ Your operational consistency is strong at 67/100, supporting your leadership in AI projects.</li><li>✔ Caution is needed from 2026-03-11 to 2026-03-31 as risk pressure is 34/100; pause high-risk changes.</li><li>✔ Prioritize Baseline progress and Growth capacity to maximize your limited evening hours.</li></ul>
+  </section>
+
+  
+
+  <section class="section">
+    <h2>Opportunity vs Caution Windows</h2>
+    <div class="window-grid">
+      <article class="window-card opportunity">
+        <h3>Opportunity Window</h3>
+        <div>Mar 12, 2026 – Apr 03, 2026</div>
+        <div>Score: 56/100</div>
+        <div>Top Drivers: Baseline progress, Growth capacity, Stakeholder alignment, Uncertainty load, Baseline caution</div>
+        <div><strong>Recommended Moves</strong></div>
+        <ul><li>During 2026-03-12 to 2026-04-03, use your evenings for deliverables that strengthen Baseline progress relevant to GenAI Architect roles.</li><li>During 2026-03-12 to 2026-04-03, dedicate time to building systems that show measurable Growth capacity.</li><li>During 2026-03-12 to 2026-04-03, align with key stakeholders in airports, transportation, or public sector as you pursue new GenAI projects.</li><li>During 2026-03-12 to 2026-04-03, review your plans to address uncertainty and ensure systems work is validated.</li><li>During 2026-03-12 to 2026-04-03, keep communications clear to prevent misunderstandings in collaborative tasks.</li></ul>
+      </article>
+      <article class="window-card caution">
+        <h3>Caution Window</h3>
+        <div>Mar 11, 2026 – Mar 31, 2026</div>
+        <div>Score: 40/100</div>
+        <div>Top Drivers: Baseline caution, Uncertainty load, Communication friction</div>
+        <div><strong>Risk Controls</strong></div>
+        <ul><li>During 2026-03-11 to 2026-03-31, delay any non-essential GenAI or system design commitments.</li><li>During 2026-03-11 to 2026-03-31, double-check plans for LLMOps or architecture projects to prevent avoidable mistakes.</li><li>During 2026-03-11 to 2026-03-31, focus on concise, documented communication in professional interactions.</li></ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Month-by-Month Career Timeline</h2>
+    <div class="timeline-month-labels"><div class="month-label" style="flex:25;">Mar 2026</div><div class="month-label" style="flex:7;">Apr 2026</div></div>
+    <div class="timeline-strip" role="img" aria-label="Opportunity and caution day strip. Red takes precedence on overlap days."><div class="timeline-day neutral" title="2026-03-07: Neutral day" aria-label="2026-03-07: Neutral day"></div><div class="timeline-day neutral" title="2026-03-08: Neutral day" aria-label="2026-03-08: Neutral day"></div><div class="timeline-day neutral" title="2026-03-09: Neutral day" aria-label="2026-03-09: Neutral day"></div><div class="timeline-day neutral" title="2026-03-10: Neutral day" aria-label="2026-03-10: Neutral day"></div><div class="timeline-day caution" title="2026-03-11: Caution window day" aria-label="2026-03-11: Caution window day"></div><div class="timeline-day caution" title="2026-03-12: Overlapping signals: caution takes precedence" aria-label="2026-03-12: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-13: Overlapping signals: caution takes precedence" aria-label="2026-03-13: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-14: Overlapping signals: caution takes precedence" aria-label="2026-03-14: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-15: Overlapping signals: caution takes precedence" aria-label="2026-03-15: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-16: Overlapping signals: caution takes precedence" aria-label="2026-03-16: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-17: Overlapping signals: caution takes precedence" aria-label="2026-03-17: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-18: Overlapping signals: caution takes precedence" aria-label="2026-03-18: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-19: Overlapping signals: caution takes precedence" aria-label="2026-03-19: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-20: Overlapping signals: caution takes precedence" aria-label="2026-03-20: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-21: Overlapping signals: caution takes precedence" aria-label="2026-03-21: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-22: Overlapping signals: caution takes precedence" aria-label="2026-03-22: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-23: Overlapping signals: caution takes precedence" aria-label="2026-03-23: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-24: Overlapping signals: caution takes precedence" aria-label="2026-03-24: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-25: Overlapping signals: caution takes precedence" aria-label="2026-03-25: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-26: Overlapping signals: caution takes precedence" aria-label="2026-03-26: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-27: Overlapping signals: caution takes precedence" aria-label="2026-03-27: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-28: Overlapping signals: caution takes precedence" aria-label="2026-03-28: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-29: Overlapping signals: caution takes precedence" aria-label="2026-03-29: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-30: Overlapping signals: caution takes precedence" aria-label="2026-03-30: Overlapping signals: caution takes precedence"></div><div class="timeline-day caution" title="2026-03-31: Overlapping signals: caution takes precedence" aria-label="2026-03-31: Overlapping signals: caution takes precedence"></div><div class="timeline-day opportunity" title="2026-04-01: Opportunity window day" aria-label="2026-04-01: Opportunity window day"></div><div class="timeline-day opportunity" title="2026-04-02: Opportunity window day" aria-label="2026-04-02: Opportunity window day"></div><div class="timeline-day opportunity" title="2026-04-03: Opportunity window day" aria-label="2026-04-03: Opportunity window day"></div><div class="timeline-day neutral" title="2026-04-04: Neutral day" aria-label="2026-04-04: Neutral day"></div><div class="timeline-day neutral" title="2026-04-05: Neutral day" aria-label="2026-04-05: Neutral day"></div><div class="timeline-day neutral" title="2026-04-06: Neutral day" aria-label="2026-04-06: Neutral day"></div><div class="timeline-day neutral" title="2026-04-07: Neutral day" aria-label="2026-04-07: Neutral day"></div></div>
+    <div class="timeline-grid">
+                <article class="timeline-card">
+                  <h4>Mar 2026</h4>
+                  <div class="month-windows">
+                    <div class="window-entry opportunity">
+                      <div class="window-type">Opportunity Window</div>
+                      <div class="window-range">Mar 12 – Mar 31</div>
+                      <div class="window-score">Score: 56</div>
+                    </div>
+                    
+                    <div class="window-entry caution">
+                      <div class="window-type">Caution Window</div>
+                      <div class="window-range">Mar 11 – Mar 31</div>
+                      <div class="window-score">Score: 40</div>
+                    </div>
+                    </div>
+                  <div class="month-actions-title">Actions</div>
+                  <ul class="month-actions"><li>Use your 6 evening hours per week from 2026-03-12 to 2026-04-03 for projects aligned with GenAI Architect outcomes.</li><li>Negotiate new commitments for any GenAI or LLMOps project in your preferred sector with clear timelines and metrics.</li><li>Track weekly application and project responses and shift effort to channels with best return.</li><li>During 2026-03-12 to 2026-04-03, use your evenings for deliverables that strengthen Baseline progress relevant to GenAI Architect roles.</li></ul>
+                  <div class="month-actions-title">Watch Outs</div>
+                  <ul class="month-actions"><li>During 2026-03-11 to 2026-03-31, delay any non-essential GenAI or system design commitments.</li><li>During 2026-03-11 to 2026-03-31, double-check plans for LLMOps or architecture projects to prevent avoidable mistakes.</li><li>During 2026-03-11 to 2026-03-31, focus on concise, documented communication in professional interactions.</li></ul>
+                </article>
+                
+                <article class="timeline-card">
+                  <h4>Apr 2026</h4>
+                  <div class="month-windows">
+                    <div class="window-entry opportunity">
+                      <div class="window-type">Opportunity Window</div>
+                      <div class="window-range">Apr 01 – Apr 03</div>
+                      <div class="window-score">Score: 56</div>
+                    </div>
+                    </div>
+                  <div class="month-actions-title">Actions</div>
+                  <ul class="month-actions"><li>Use your 6 evening hours per week from 2026-03-12 to 2026-04-03 for projects aligned with GenAI Architect outcomes.</li><li>Negotiate new commitments for any GenAI or LLMOps project in your preferred sector with clear timelines and metrics.</li><li>Track weekly application and project responses and shift effort to channels with best return.</li><li>During 2026-03-12 to 2026-04-03, use your evenings for deliverables that strengthen Baseline progress relevant to GenAI Architect roles.</li></ul>
+                  <div class="month-actions-title">Watch Outs</div>
+                  <ul class="month-actions"><li>Avoid adding commitments that do not support your top intent.</li></ul>
+                </article>
+                </div>
+  </section>
+
+  <section class="section">
+    <h2>Career Intent Priority</h2>
+    
+            <div class="priority-card">
+              <div class="priority-eyebrow">Your #1 Career Move Right Now</div>
+              <div class="priority-title">Transition / In Between</div>
+              <div class="priority-meta">Score: <strong>62/100</strong> · Window: Mar 12, 2026 – Apr 03, 2026</div>
+              <div class="priority-action"><strong>Next action:</strong> Draft your transition plan, including timeline and safety nets, before 2026-03-12 for GenAI Architect.</div>
+              <p class="priority-why">Transition is best supported by stability planning and managing uncertainty, as timing and risk are both relevant this cycle.</p>
+            </div>
+            
+    <div class="table-scroll"><table><thead><tr><th>Intent</th><th>Score</th><th>Recommended Window</th><th>Why it matters</th><th>Next Step</th></tr></thead><tbody><tr class="top-intent"><td>Transition / In Between</td><td>62</td><td>Opportunity</td><td>Transition is best supported by stability planning and managing uncertainty, as timing and risk are both relevant this cycle.</td><td>Draft your transition plan, including timeline and safety nets, before 2026-03-12 for GenAI Architect.</td></tr><tr class="top-intent"><td>Promotion</td><td>60</td><td>Opportunity</td><td>Your execution stability and timing make this a practical period to negotiate for advancement.</td><td>Schedule a conversation by 2026-03-22 to set measurable impact goals with your manager for GenAI Architect.</td></tr><tr class=""><td>Side Project / Testing the Waters</td><td>60</td><td>Opportunity</td><td>Growth is available if you stage risk and track outcomes; use your technical strengths but validate stepwise.</td><td>Launch a pilot project and review two progress signals each week between 2026-03-12 and 2026-04-03 for GenAI Architect.</td></tr><tr class=""><td>Skill Building</td><td>60</td><td>Opportunity</td><td>You can compound your AI and system design skills by delivering a portfolio piece during this positive growth window.</td><td>Complete and share one portfolio-quality project for GenAI Architect roles before 2026-03-12.</td></tr><tr class=""><td>Exploration / Discovery</td><td>59</td><td>Opportunity</td><td>Moderate timing supports exploring two paths; validate interest with real-world mini-experiments.</td><td>Investigate two new GenAI career tracks and run a practical test for each by 2026-04-03 for GenAI Architect.</td></tr><tr class=""><td>Entrepreneurship</td><td>58</td><td>Opportunity</td><td>Your growth leverage enables progress if you test and get feedback before deeper investment.</td><td>Share your offer with five airports or public sector contacts before investing more time for GenAI Architect.</td></tr><tr class=""><td>Job Change</td><td>58</td><td>Opportunity</td><td>With good timing and risk control, now is suitable to pursue new roles aligned with GenAI Architect goals.</td><td>Apply to three GenAI Architect roles in your preferred sectors and track feedback weekly during the window.</td></tr><tr class=""><td>Networking / Positioning</td><td>58</td><td>Opportunity</td><td>Networking is most effective when you manage timing and follow up methodically with relevant sector leaders.</td><td>Connect with five AI/GenAI decision-makers in transportation or public sector and follow up within 3 days for GenAI Architect.</td></tr></tbody></table></div>
+  </section>
+
+  <section class="section">
+    <h2>Action Roadmap</h2>
+    <div class="phase-grid">
+      <article class="phase-card">
+        <h3>Prepare Phase</h3>
+        <div class="muted">now → opportunity start</div>
+        <div class="phase-countdown" data-phase="prepare" data-start="2026-03-12" data-end="2026-03-12">⏳ 5 days left to prepare before your window opens.</div>
+        <ul><li>☐ Close LLMOps with one focused weekly deliverable before the opportunity window starts.</li><li>☐ Demonstrate measurable impact on two high-priority GenAI deliverables before the opportunity window.</li><li>☐ Each week, check in with one relevant stakeholder (e.g., manager, technical peer) regarding execution risk.</li></ul>
+      </article>
+      <article class="phase-card">
+        <h3>Execute Phase</h3>
+        <div class="muted">during opportunity window</div>
+        <div class="phase-countdown" data-phase="execute" data-start="2026-03-12" data-end="2026-04-03">🚀 23 days available in this execution window.</div>
+        <ul><li>☐ Use your 6 evening hours per week from 2026-03-12 to 2026-04-03 for projects aligned with GenAI Architect outcomes.</li><li>☐ Negotiate new commitments for any GenAI or LLMOps project in your preferred sector with clear timelines and metrics.</li><li>☐ Track weekly application and project responses and shift effort to channels with best return.</li></ul>
+      </article>
+      <article class="phase-card">
+        <h3>Caution Phase</h3>
+        <div class="muted">during caution window</div>
+        <div class="phase-countdown" data-phase="caution" data-start="2026-03-11" data-end="2026-03-31">⚠️ Caution begins on Mar 11, 2026. Plan commitments carefully before then.</div>
+        <ul><li>☐ Avoid major system changes or irreversible job moves from 2026-03-11 to 2026-03-31 unless absolutely necessary.</li><li>☐ Break down assumptions on LLMOps or system architecture into small, testable steps before scaling.</li><li>☐ Monitor evening workload and release any low-impact or distracting responsibilities.</li></ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Driver Explanation</h2>
+    <div class="table-scroll"><table><thead><tr><th>Driver</th><th>Category</th><th>Impact</th><th>Practical Meaning</th></tr></thead><tbody><tr><td>Baseline caution</td><td>Opportunity</td><td>95</td><td>Baseline caution most directly affects your Transition / In Between plan, so use it to take visible, role-shaping actions while support is high.</td></tr><tr><td>Growth capacity</td><td>Opportunity</td><td>88</td><td>Growth capacity most directly affects your Transition / In Between plan, so use it to take visible, role-shaping actions while support is high.</td></tr><tr><td>Baseline progress</td><td>Opportunity</td><td>81</td><td>Baseline progress most directly affects your Transition / In Between plan, so use it to take visible, role-shaping actions while support is high.</td></tr><tr><td>Stakeholder alignment</td><td>Opportunity</td><td>75</td><td>Stakeholder alignment most directly affects your Transition / In Between plan, so use it to take visible, role-shaping actions while support is high.</td></tr><tr><td>Uncertainty load</td><td>Opportunity</td><td>68</td><td>Uncertainty load most directly affects your Transition / In Between plan, so use it to take visible, role-shaping actions while support is high.</td></tr><tr><td>Baseline caution</td><td>Stability</td><td>59</td><td>Baseline caution most directly affects your Transition / In Between plan, so tighten scope and reduce avoidable risk before making irreversible moves.</td></tr><tr><td>Communication friction</td><td>Stability</td><td>52</td><td>Communication friction most directly affects your Transition / In Between plan, so tighten scope and reduce avoidable risk before making irreversible moves.</td></tr><tr><td>Uncertainty load</td><td>Stability</td><td>45</td><td>Uncertainty load most directly affects your Transition / In Between plan, so tighten scope and reduce avoidable risk before making irreversible moves.</td></tr></tbody></table></div>
+  </section>
+
+  <section class="section">
+    <h2>Decision Signals</h2>
+    <ul><li>Timing Strength: 53/100</li><li>Execution Stability: 67/100</li><li>Risk Pressure: 34/100</li><li>Growth Leverage: 55/100</li></ul>
+    <div><strong>Priority Summary</strong></div>
+    <ul><li>Prioritize actions that move you toward GenAI Architect during the active opportunity window.</li><li>Negotiate measurable role impact and success criteria with your manager before 2026-03-12 to support your advancement.</li><li>Start side project pilots targeting GenAI Architect skills during 2026-03-12 to 2026-04-03, track two metrics weekly.</li><li>Apply to three GenAI Architect roles in airports, transportation, or public sector between 2026-03-12 and 2026-04-03.</li><li>Pause non-essential decisions between 2026-03-11 and 2026-03-31 to reduce risk from uncertainty and overconfidence.</li><li>Slow down decision-making on system design and LLMOps during 2026-03-11 to 2026-03-31 and validate assumptions.</li><li>Track weekly career actions and checkpoint responses until 2026-04-03 to align timing and stability with your goals.</li></ul>
+  </section>
+
+  <section class="section">
+    <h2>Shareable Career Window Snapshot</h2>
+    <div class="share-card" id="shareSummaryCard">
+      <div class="share-title">Amit · Career Timing Snapshot</div>
+      <div class="share-meta"><strong>Top Intent:</strong> Transition / In Between</div>
+      <div class="share-meta"><strong>Opportunity:</strong> Mar 12, 2026 – Apr 03, 2026</div>
+      <div class="share-meta"><strong>Caution:</strong> Mar 11, 2026 – Mar 31, 2026</div>
+      <div class="share-action">Draft your transition plan, including timeline and safety nets, before 2026-03-12 for GenAI Architect.</div>
+    </div>
+    <div class="share-controls">
+      <button type="button" class="btn btn-outline" id="downloadSummaryBtn" data-file-name="career-window-amit.png">Download as Image</button>
+    </div>
+    <div class="muted" id="summaryExportStatus"></div>
+  </section>
+
+  <section class="section upsell-card">
+    <div class="upsell-title">Your next major career window opens in about 1 month.</div>
+    <div class="upsell-copy">This 3-month plan helps you execute the next move. A 12-month plan helps you sequence multiple moves, avoid dead zones, and compound outcomes across the full year.</div>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="#">Get My 12-Month Report — $49</a>
+      <a class="btn btn-outline" href="#">Enable Monthly Career Alerts — $9/month</a>
+    </div>
+    <div class="qa-note">Generated Mar 07, 2026 23:34 UTC · Report version v2.0.0</div>
+  </section>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script>
+(function () {
+  function parseDate(raw) {
+    if (!raw) return null;
+    const dt = new Date(raw + 'T00:00:00');
+    return isNaN(dt.getTime()) ? null : dt;
+  }
+
+  function daysBetween(a, b) {
+    const msPerDay = 24 * 60 * 60 * 1000;
+    return Math.floor((b.getTime() - a.getTime()) / msPerDay);
+  }
+
+  function fmtDate(dateObj) {
+    return dateObj.toLocaleDateString(undefined, { month: 'short', day: '2-digit', year: 'numeric' });
+  }
+
+  function phaseMessage(phase, reportDate, startDate, endDate) {
+    if (phase === 'prepare') {
+      if (!startDate) return 'Preparation window is available now.';
+      if (reportDate < startDate) return '⏳ ' + daysBetween(reportDate, startDate) + ' days left to prepare before your window opens.';
+      if (!endDate || reportDate <= endDate) return 'Preparation phase is already underway.';
+      return 'Preparation phase has passed.';
+    }
+    if (phase === 'execute') {
+      if (!startDate || !endDate) return 'Execution timing is being refined.';
+      if (reportDate < startDate) return '🚀 ' + (daysBetween(startDate, endDate) + 1) + ' days available in this execution window.';
+      if (reportDate <= endDate) return '🚀 This execution phase is active now — ' + (daysBetween(reportDate, endDate) + 1) + ' days remaining.';
+      return 'This execution phase has passed.';
+    }
+    if (phase === 'caution') {
+      if (!startDate) return 'No caution phase is scheduled in this timeframe.';
+      if (reportDate < startDate) return '⚠️ Caution begins on ' + fmtDate(startDate) + '. Plan commitments carefully before then.';
+      if (!endDate || reportDate <= endDate) return '⚠️ Caution phase is active now. Keep commitments tightly scoped.';
+      return 'Caution phase has passed.';
+    }
+    return '';
+  }
+
+  const reportDateRaw = document.body.getAttribute('data-report-date');
+  const reportDate = parseDate(reportDateRaw) || new Date();
+  document.querySelectorAll('.phase-countdown').forEach(function (node) {
+    const phase = node.getAttribute('data-phase') || '';
+    const startDate = parseDate(node.getAttribute('data-start') || '');
+    const endDate = parseDate(node.getAttribute('data-end') || '');
+    node.textContent = phaseMessage(phase, reportDate, startDate, endDate);
+  });
+
+  const exportButton = document.getElementById('downloadSummaryBtn');
+  const summaryCard = document.getElementById('shareSummaryCard');
+  const status = document.getElementById('summaryExportStatus');
+
+  if (exportButton && summaryCard) {
+    exportButton.addEventListener('click', function () {
+      if (typeof html2canvas === 'undefined') {
+        if (status) status.textContent = 'Image export is unavailable right now. Please take a screenshot instead.';
+        return;
+      }
+      html2canvas(summaryCard, { backgroundColor: '#ffffff', scale: 2 })
+        .then(function (canvas) {
+          const link = document.createElement('a');
+          const fileName = exportButton.getAttribute('data-file-name') || 'career-window-summary.png';
+          link.download = fileName;
+          link.href = canvas.toDataURL('image/png');
+          link.click();
+          if (status) status.textContent = 'Summary card downloaded.';
+        })
+        .catch(function () {
+          if (status) status.textContent = 'Image export failed. Please take a screenshot as fallback.';
+        });
+    });
+  }
+})();
+</script>
+</body>
+</html>
